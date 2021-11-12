@@ -4,9 +4,26 @@ sources:
 #   - href: https://css-tricks.com/feed/
 #   - href: https://www.smashingmagazine.com/feed/
 #   - href: https://www.freecodecamp.org/news/rss/
-  - href: https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/
-  - href: https://khbsroom.com/index.xml
+  - href: https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/ #そこみん
+  - href: https://khbsroom.com/index.xml #KHB
   # - href: https://nitter.net/redstonejp/rss
-  - href: https://akira773.blog22.fc2.com/?xml
-  - href: https://mitsurin32.blog.fc2.com/?xml
-  - href: http://rssblog.ameba.jp/pochi-bird/rss20.xml
+  - href: https://akira773.blog22.fc2.com/?xml #リヤン
+  - href: https://mitsurin32.blog.fc2.com/?xml #ミツリン
+  - href: http://rssblog.ameba.jp/pochi-bird/rss20.xml #ぷりたん
+  - href: http://rssblog.ameba.jp/sakuyuno0822/rss20.xml #もこもこの時たま日常レッドストーン
+  - href: http://sakuranohana240.blog.fc2.com/?xml #桜の華
+  - href: http://rinsmile.blog70.fc2.com/?xml #リンズカフェ
+  - href: https://api.plaza.rakuten.ne.jp/maomiku4649/rss/ #まおみく
+  - href: http://yumegon5505.blog.fc2.com/?xml #ゆめごん
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC8pMAy5Ifr2KgH8kM_xR9Og #youtube
+  # - href: 
+  # - href: 
+  # - href: 
+  # - href: 
+  # - href: 
+  # - href: 
+  # - href: 
+  # - href: 
+  # - href: 
+  # - href: 
+  # - href: 
