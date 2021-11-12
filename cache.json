@@ -6,6 +6,15 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202111120000/",
+          "author": "そこらの民衆",
+          "description": "1年ぐらい前からお願いされてたんです、「RSSまとめサイトが欲しい！」と。自分もササっと作りたいなーと前々から思ってたのですが、色々後回しにしすぎた結果、見事に1年後に作成、という形になりました。ちょう...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202111120000/",
+          "publishedOn": "2021-11-12T12:59:38.000Z",
+          "wordCount": 191,
+          "title": "レッドストーンのRSSまとめサイト作ってみた"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202110120000/",
           "author": "そこらの民衆",
           "description": "期間限定の動画などで、YouTubeなどの動画共有サービスから動画のダウンロードや音声の抽出を行いたい！というケースはたまにあります。そんな時に便利なのがyoutube-dl1000以上のサイトに対応しているので、Yout...",
