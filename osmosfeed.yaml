@@ -5,9 +5,9 @@ sources:
 #   - href: https://www.smashingmagazine.com/feed/
 #   - href: https://www.freecodecamp.org/news/rss/
   - href: https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/ #そこみん
-  - href: https://khbsroom.com/index.xml #KHB
+  - href: https://khbsroom.com/index.xml #KHBの部屋
   # - href: https://nitter.net/redstonejp/rss
-  - href: https://akira773.blog22.fc2.com/?xml #リヤン
+  - href: https://akira773.blog22.fc2.com/?xml #リヤンのペット図鑑
   - href: https://mitsurin32.blog.fc2.com/?xml #ミツリン
   - href: http://rssblog.ameba.jp/pochi-bird/rss20.xml #ぷりたん
   - href: http://rssblog.ameba.jp/sakuyuno0822/rss20.xml #もこもこの時たま日常レッドストーン
@@ -16,14 +16,39 @@ sources:
   - href: https://api.plaza.rakuten.ne.jp/maomiku4649/rss/ #まおみく
   - href: http://yumegon5505.blog.fc2.com/?xml #ゆめごん
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC8pMAy5Ifr2KgH8kM_xR9Og #youtube
-  # - href: 
-  # - href: 
-  # - href: 
-  # - href: 
-  # - href: 
-  # - href: 
-  # - href: 
-  # - href: 
+  - href: https://intothe.info/feed/ #marsborn
+  - href: https://api.plaza.rakuten.ne.jp/mahounokabe/rss/ #裁判官
+  - href: http://ashash.cocolog-nifty.com/blog/index.rdf #ファーブ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA #ロイ4世
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA #ひさプッチ
+  - href: https://chorrealism.com/feed/ #無職と美学とシュルレアリスム
+  - href: https://btlirk.blog.fc2.com/?xml #淑女の休日
+  - href: https://api.plaza.rakuten.ne.jp/ronfa/rss/ #ネトゲの記録
+  - href: https://plaza.rakuten.co.jp/motoshihu/ #シーフがメインですが何か？
+  - href: http://rssblog.ameba.jp/sentou-01/rss20.xml #レッドストーン 物理戦士どうでしょう
+  - href: https://rs-kumapon.blogspot.com/feeds/posts/default?alt=rss #RS☆KUMApon
+  - href: http://blog.livedoor.jp/tonnsuke_rs/index.rdf #とんすけと金鯖
+  - href: http://kaze.gg-blog.com/RSS/ #風に吹かれて
+  - href: http://frogkigurumi.blog59.fc2.com/?xml #クレリューフ
+  - href: http://scratch2009.blog.fc2.com/?xml #今日のアリアン
+  - href: http://amakusa46.blog34.fc2.com/?xml #JEFRYの悪足掻き
+  - href: http://rssblog.ameba.jp/redstoneonline/rss20.xml #「RED STONE（レッドストーン）」公式ブログ
+  - href: http://tonbototyoutyo.blog84.fc2.com/?xml #ぐーたら日記inRS
+  - href: http://jackswsl.blog.fc2.com/?xml # 【Jackさんの冒険モノガタリ】
+  - href: http://moyashirs.seesaa.net/index20.rdf # 堅牢なもやしに憧れてXLS
+  - href: http://fukars.blog.fc2.com/?xml #きまぐれ日記
+  - href: http://wh-rs.jugem.jp/?mode=rss # Wheel of Fortune
+  - href: http://extremetrailblazer.blog.fc2.com/?xml #REDSTONE Relinquish
+  - href: http://jendoradoo.blog.fc2.com/?xml # ジェンド日記
+  - href: http://frangile.blog.fc2.com/?xml # その槍の名前はフラジールニップ
+  - href: https://orientalrose4.blog.fc2.com/?xml #赤石グラフィティ
+  - href: http://neomukaking.blog.fc2.com/?xml # それいけ！NEO無課金同盟in橋頭鯖　リターンズ
+  - href: http://kakeragatenkomori.blog.fc2.com/?xml # かけらがてんこもり
+  - href: http://pandamahha.blog99.fc2.com/?xml # パンダ族♪ﾊﾟﾗﾚﾙﾜｰﾙﾄ
+  - href: http://religionofrabia.blog.fc2.com/?xml # ラビア教狂信者
+  - href: http://yuu0908summoner.blog.fc2.com/?xml # ゆう０９０８サマナーのサマナ記録
+  - href: http://yukiyuki4646.blog.fc2.com/?xml # ていま日記 -- テイマをひたすら愛でるブログ
+  - href: http://tomatosama.blog.fc2.com/?xml # とまとんのにっき
   # - href: 
   # - href: 
   # - href: 
