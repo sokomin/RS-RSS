@@ -35,7 +35,7 @@ sources:
   - href: http://rssblog.ameba.jp/redstoneonline/rss20.xml #「RED STONE（レッドストーン）」公式ブログ
   - href: http://tonbototyoutyo.blog84.fc2.com/?xml #ぐーたら日記inRS
   - href: http://jackswsl.blog.fc2.com/?xml # 【Jackさんの冒険モノガタリ】
-  - href: http://moyashirs.seesaa.net/index20.rdf # 堅牢なもやしに憧れてXLS
+  # - href: http://moyashirs.seesaa.net/index20.rdf # 堅牢なもやしに憧れてXLS
   - href: http://fukars.blog.fc2.com/?xml #きまぐれ日記
   - href: http://wh-rs.jugem.jp/?mode=rss # Wheel of Fortune
   - href: http://extremetrailblazer.blog.fc2.com/?xml #REDSTONE Relinquish
