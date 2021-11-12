@@ -1,22 +1,6 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
-          "author": null,
-          "description": "Fixed: broken links in documentation\nChore: Dependency updates\nThank you: @hirdot",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
-          "publishedOn": "2021-10-16T00:01:47.000Z",
-          "wordCount": 294,
-          "title": "v1.11.3"
-        }
-      ]
-    },
-    {
       "title": "GMの抵抗ワショーイ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
@@ -63,184 +47,6 @@
           "publishedOn": "2021-10-28T13:45:00.000Z",
           "wordCount": 719,
           "title": "連鎖クエスト「港町の騒ぎ」の概要と簡易攻略チャート作成"
-        }
-      ]
-    },
-    {
-      "title": "RED STONE公式 / @redstonejp",
-      "feedUrl": "https://nitter.net/redstonejp/rss",
-      "siteUrl": "https://nitter.net/redstonejp",
-      "articles": [
-        {
-          "id": "https://nitter.net/redstonejp/status/1458388975593279492#m",
-          "author": "@redstonejp",
-          "description": "【キャンペーン情報】\n『ワンコインセットキャンペーン』開催中！\n\n「レギュラーロト」と色々な便利アイテムを組み合わせたセットを✨500GEM✨で交換できるお得なキャンペーンです♪\n全部盛りの「レギュラーロト満点セット」にもご注目♪\n\n詳細は告知ページから！ #redstone\nmembers.redsonline.jp/news/n…",
-          "link": "https://nitter.net/redstonejp/status/1458388975593279492#m",
-          "publishedOn": "2021-11-10T11:00:01.000Z",
-          "wordCount": 39,
-          "title": "【キャンペーン情報】\n『ワンコインセットキャンペーン』開催中！\n\n「レギュラーロト」と色々な便利アイテムを組み合わせたセットを✨500GEM✨で交換できるお得なキャンペーンです♪\n全部盛りの「レギュラーロト満点セット」にもご注目♪\n\n詳細は告知ページから！ #redstone\nhttps://members.redsonline.jp/news/news_body.asp?ntc_num=14443"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1458310580591214592#m",
-          "author": "@redstonejp",
-          "description": "[公式]メンテナンスは14：45に終了致しました。\nご協力いただきまして誠にありがとうございました。\nメンテナンスの内容につきましては公式サイトをご確認ください。\nmembers.redsonline.jp/news/m…",
-          "link": "https://nitter.net/redstonejp/status/1458310580591214592#m",
-          "publishedOn": "2021-11-10T05:48:31.000Z",
-          "wordCount": 31,
-          "title": "[公式]メンテナンスは14：45に終了致しました。\nご協力いただきまして誠にありがとうございました。\nメンテナンスの内容につきましては公式サイトをご確認ください。\nhttps://members.redsonline.jp/news/maintenance_body.asp?ntc_num=14446"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1458207782948282378#m",
-          "author": "@redstonejp",
-          "description": "おはようございます。本日【11/10(水)8:30】より定期メンテナンスを実施いたします。\n皆さまにはご迷惑をおかけいたしますがご協力の程よろしくお願いいたします。 #redstone",
-          "link": "https://nitter.net/redstonejp/status/1458207782948282378#m",
-          "publishedOn": "2021-11-09T23:00:02.000Z",
-          "wordCount": 29,
-          "title": "おはようございます。本日【11/10(水)8:30】より定期メンテナンスを実施いたします。\n皆さまにはご迷惑をおかけいたしますがご協力の程よろしくお願いいたします。 #redstone"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1458026588625379336#m",
-          "author": "@redstonejp",
-          "description": "キャンペーン終了間近！\n\n「スフィアー系アイテム+ポケットベル」のお得なセットが交換できる『ポータル・スフィアーリミテッドキャンペーン』は、11/10(水)メンテナンス前までの開催！\n\n3日版・7日版の短期間セットもお見逃しなく！ #redstone\nmembers.redsonline.jp/news/n…",
-          "link": "https://nitter.net/redstonejp/status/1458026588625379336#m",
-          "publishedOn": "2021-11-09T11:00:02.000Z",
-          "wordCount": 35,
-          "title": "キャンペーン終了間近！\n\n「スフィアー系アイテム+ポケットベル」のお得なセットが交換できる『ポータル・スフィアーリミテッドキャンペーン』は、11/10(水)メンテナンス前までの開催！\n\n3日版・7日版の短期間セットもお見逃しなく！ #redstone\nhttps://members.redsonline.jp/news/news_body.asp?ntc_num=14433"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1457196108183064580#m",
-          "author": "@redstonejp",
-          "description": "🎉冒険家感謝祭【第2弾】開催中！\n\n10/6～11/2までの期間、ゲーム内にログインしてくれた皆様へ『ソーラーコクーン[E]×3個』等のアイテムをWEB倉庫にプレゼント！\n\nまた11/2～12/8の期間にログインすると、後日『ネフォンクリーチャーのマナ(中)』等を更にプレゼント！！\nmembers.redsonline.jp/news/n…",
-          "link": "https://nitter.net/redstonejp/status/1457196108183064580#m",
-          "publishedOn": "2021-11-07T04:00:00.000Z",
-          "wordCount": 33,
-          "title": "🎉冒険家感謝祭【第2弾】開催中！\n\n10/6～11/2までの期間、ゲーム内にログインしてくれた皆様へ『ソーラーコクーン[E]×3個』等のアイテムをWEB倉庫にプレゼント！\n\nまた11/2～12/8の期間にログインすると、後日『ネフォンクリーチャーのマナ(中)』等を更にプレゼント！！\nhttps://members.redsonline.jp/news/news_body.asp?ntc_num=14432"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1456833721466859525#m",
-          "author": "@redstonejp",
-          "description": "【イベント情報】\n11/2(火)より『冒険家協会イベント』が開催！\n\nNPC「協会任務担当官」から受託できるデイリークエストを毎日クリアして、\n「【HR】確定コクーン[E]」や「不滅の箱」を貰おう！\n\n詳細は告知ページから！ #redstone\nmembers.redsonline.jp/news/n…",
-          "link": "https://nitter.net/redstonejp/status/1456833721466859525#m",
-          "publishedOn": "2021-11-06T04:00:00.000Z",
-          "wordCount": 39,
-          "title": "【イベント情報】\n11/2(火)より『冒険家協会イベント』が開催！\n\nNPC「協会任務担当官」から受託できるデイリークエストを毎日クリアして、\n「【HR】確定コクーン[E]」や「不滅の箱」を貰おう！\n\n詳細は告知ページから！ #redstone\nhttps://members.redsonline.jp/news/news_body.asp?ntc_num=14435"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1456577033677332482#m",
-          "author": "@redstonejp",
-          "description": "🍁Autumn Boxキャンペーン🍁は11/10(水)まで！\n\n「黄金の人形」や「選択[超高級リング]」など4種のアイテムの内、1個が同じ確率で出現する『ULT Harvest Box』を含んだ、\n全部で✨85個のBox✨を収穫できる豪華な「Autumn Box【PLATINUM】」セットをお見逃しなく！\nnitter.net/redstonejp/status/1450778827773423626#m",
-          "link": "https://nitter.net/redstonejp/status/1456577033677332482#m",
-          "publishedOn": "2021-11-05T11:00:01.000Z",
-          "wordCount": 52,
-          "title": "🍁Autumn Boxキャンペーン🍁は11/10(水)まで！\n\n「黄金の人形」や「選択[超高級リング]」など4種のアイテムの内、1個が同じ確率で出現する『ULT Harvest Box』を含んだ、\n全部で✨85個のBox✨を収穫できる豪華な「Autumn Box【PLATINUM】」セットをお見逃しなく！"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1455504974721388544#m",
-          "author": "@redstonejp",
-          "description": "11月2日(火)より『アステリズムロトキャンペーン』復刻開催！\n\n目玉アイテムは「デュアルクレスト」「ユニーク等級超越の書」！\n4種の豪華アイテムが等倍の確率で出現する「アルクトゥールスBox」もリニューアルして再登場！\nこの機会をお見逃しなく！！\n #redstone\n\nmembers.redsonline.jp/news/n…",
-          "link": "https://nitter.net/redstonejp/status/1455504974721388544#m",
-          "publishedOn": "2021-11-02T12:00:02.000Z",
-          "wordCount": 37,
-          "title": "11月2日(火)より『アステリズムロトキャンペーン』復刻開催！\n\n目玉アイテムは「デュアルクレスト」「ユニーク等級超越の書」！\n4種の豪華アイテムが等倍の確率で出現する「アルクトゥールスBox」もリニューアルして再登場！\nこの機会をお見逃しなく！！\n #redstone\n\nhttps://members.redsonline.jp/news/news_body.asp?ntc_num=14430"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1455412670555848707#m",
-          "author": "@redstonejp",
-          "description": "[公式]メンテナンスは14：50に終了致しました。\nご協力いただきまして誠にありがとうございました。\nメンテナンスの内容につきましては公式サイトをご確認ください。\nmembers.redsonline.jp/news/m…",
-          "link": "https://nitter.net/redstonejp/status/1455412670555848707#m",
-          "publishedOn": "2021-11-02T05:53:15.000Z",
-          "wordCount": 33,
-          "title": "[公式]メンテナンスは14：50に終了致しました。\nご協力いただきまして誠にありがとうございました。\nメンテナンスの内容につきましては公式サイトをご確認ください。\nhttps://members.redsonline.jp/news/maintenance_body.asp?ntc_num=14438"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1455308672427515910#m",
-          "author": "@redstonejp",
-          "description": "おはようございます。本日【11/2(火)8:30】より定期メンテナンスを実施いたします。\n皆さまにはご迷惑をおかけいたしますがご協力の程よろしくお願いいたします。 #redstone",
-          "link": "https://nitter.net/redstonejp/status/1455308672427515910#m",
-          "publishedOn": "2021-11-01T23:00:00.000Z",
-          "wordCount": 58,
-          "title": "おはようございます。本日【11/2(火)8:30】より定期メンテナンスを実施いたします。\n皆さまにはご迷惑をおかけいたしますがご協力の程よろしくお願いいたします。 #redstone"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1455127479887224832#m",
-          "author": "@redstonejp",
-          "description": "キャンペーン終了間近！\n\nお得な厳選セットが交換できる『ワンコインセットキャンペーン』、\n称号「ポッピンバットナイト」が獲得できる『ハロウィンキャンペーン』は\n明日、11月2日(火)メンテナンス前までの開催！お見逃しなく！\n\n詳細は公式サイトから！ #redstone\nmembers.redsonline.jp/",
-          "link": "https://nitter.net/redstonejp/status/1455127479887224832#m",
-          "publishedOn": "2021-11-01T11:00:00.000Z",
-          "wordCount": 37,
-          "title": "キャンペーン終了間近！\n\nお得な厳選セットが交換できる『ワンコインセットキャンペーン』、\n称号「ポッピンバットナイト」が獲得できる『ハロウィンキャンペーン』は\n明日、11月2日(火)メンテナンス前までの開催！お見逃しなく！\n\n詳細は公式サイトから！ #redstone\nhttps://members.redsonline.jp/"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1454028989434056704#m",
-          "author": "@redstonejp",
-          "description": "【キャンペーン開催中】\n開催中の『ステップバイステップキャンペーン』では\nHOP⇒SETP⇒JUMPと強力なロトへとステップアップ！\n\nSTEPでも奇跡or神秘の幸運チケットが出現、\nJUMPでは50％で万能封印道具箱が出現とチャンス大！\n\n跳ね上がる期待を掴み取るなら今！ #redstone\nmembers.redsonline.jp/news/n…",
-          "link": "https://nitter.net/redstonejp/status/1454028989434056704#m",
-          "publishedOn": "2021-10-29T10:15:00.000Z",
-          "wordCount": 41,
-          "title": "【キャンペーン開催中】\n開催中の『ステップバイステップキャンペーン』では\nHOP⇒SETP⇒JUMPと強力なロトへとステップアップ！\n\nSTEPでも奇跡or神秘の幸運チケットが出現、\nJUMPでは50％で万能封印道具箱が出現とチャンス大！\n\n跳ね上がる期待を掴み取るなら今！ #redstone\nhttps://members.redsonline.jp/news/news_body.asp?ntc_num=14416"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1453685478314557441#m",
-          "author": "@redstonejp",
-          "description": "イベント情報🍡\n10/27(水)より『お月見イベント』開催！\n\nイベント専用クエストや「RED STONEのオーラ」を解放して、大福の材料をゲットしよう！\n材料を消費して作れる「きれいな大福」は、様々なアイテムと交換できるぞ！\n\n詳細は告知ページから！ #redstone\nmembers.redsonline.jp/news/n…",
-          "link": "https://nitter.net/redstonejp/status/1453685478314557441#m",
-          "publishedOn": "2021-10-28T11:30:00.000Z",
-          "wordCount": 41,
-          "title": "イベント情報🍡\n10/27(水)より『お月見イベント』開催！\n\nイベント専用クエストや「RED STONEのオーラ」を解放して、大福の材料をゲットしよう！\n材料を消費して作れる「きれいな大福」は、様々なアイテムと交換できるぞ！\n\n詳細は告知ページから！ #redstone\nhttps://members.redsonline.jp/news/news_body.asp?ntc_num=14413"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1453661663618428935#m",
-          "author": "@redstonejp",
-          "description": "[公式]臨時メンテナンスは18：50に終了致しました。\nご協力いただきまして誠にありがとうございました。\nメンテナンスの内容につきましては公式サイトをご確認ください。 #redstone\nmembers.redsonline.jp/news/m…",
-          "link": "https://nitter.net/redstonejp/status/1453661663618428935#m",
-          "publishedOn": "2021-10-28T09:55:22.000Z",
-          "wordCount": 33,
-          "title": "[公式]臨時メンテナンスは18：50に終了致しました。\nご協力いただきまして誠にありがとうございました。\nメンテナンスの内容につきましては公式サイトをご確認ください。 #redstone\nhttps://members.redsonline.jp/news/maintenance_body.asp?ntc_num=14427"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1453610562835738628#m",
-          "author": "@redstonejp",
-          "description": "【臨時メンテナンスのお知らせ】\n本日【10/28(木)16:00～19:00】の間、不具合修正を目的とした臨時メンテナンスを実施いたします。\n\n皆様には大変ご迷惑をおかけいたしますが、\nご理解ご協力の程よろしくお願いいたします。\n\n詳細につきましては公式サイトをご確認ください。\nmembers.redsonline.jp/news/m…",
-          "link": "https://nitter.net/redstonejp/status/1453610562835738628#m",
-          "publishedOn": "2021-10-28T06:32:19.000Z",
-          "wordCount": 95,
-          "title": "【臨時メンテナンスのお知らせ】\n本日【10/28(木)16:00～19:00】の間、不具合修正を目的とした臨時メンテナンスを実施いたします。\n\n皆様には大変ご迷惑をおかけいたしますが、\nご理解ご協力の程よろしくお願いいたします。\n\n詳細につきましては公式サイトをご確認ください。\nhttps://members.redsonline.jp/news/maintenance_body.asp?ntc_num=14422"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1453325311148322816#m",
-          "author": "@redstonejp",
-          "description": "【ご案内】\n現在、OPが付与された短剣やスリング弾丸等が1個になる事象を確認しております。\n当事象に関しましては現在調査を行っております。\n大変ご迷惑をお掛けしております事を深くお詫び申し上げます。\n\n詳細内容につきましては告知ページをご確認ください。 #redstone\nmembers.redsonline.jp/news/n…",
-          "link": "https://nitter.net/redstonejp/status/1453325311148322816#m",
-          "publishedOn": "2021-10-27T11:38:50.000Z",
-          "wordCount": 39,
-          "title": "【ご案内】\n現在、OPが付与された短剣やスリング弾丸等が1個になる事象を確認しております。\n当事象に関しましては現在調査を行っております。\n大変ご迷惑をお掛けしております事を深くお詫び申し上げます。\n\n詳細内容につきましては告知ページをご確認ください。 #redstone\nhttps://members.redsonline.jp/news/notice_body.asp?ntc_num=14421"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1453315549656662019#m",
-          "author": "@redstonejp",
-          "description": "【キャンペーン情報】\n10月27日(水)より『ステップバイステップキャンペーン』を開催！\n\n今回のロトはステップアップ式！\n最も熱い『JUMPロト』からは、なんと「万能封印解放道具箱」が50%の確率で出現！\n激熱なこのキャンペーンをお見逃しなく！\n\n詳細は告知から！ #redstone\nmembers.redsonline.jp/news/n…",
-          "link": "https://nitter.net/redstonejp/status/1453315549656662019#m",
-          "publishedOn": "2021-10-27T11:00:02.000Z",
-          "wordCount": 41,
-          "title": "【キャンペーン情報】\n10月27日(水)より『ステップバイステップキャンペーン』を開催！\n\n今回のロトはステップアップ式！\n最も熱い『JUMPロト』からは、なんと「万能封印解放道具箱」が50%の確率で出現！\n激熱なこのキャンペーンをお見逃しなく！\n\n詳細は告知から！ #redstone\nhttps://members.redsonline.jp/news/news_body.asp?ntc_num=14416"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1453285341125746690#m",
-          "author": "@redstonejp",
-          "description": "【プロデューサー便り】\n2021年10月版のプロデューサー便りを公開いたしました。\n\n10月27日(水)に実施したアップデートの内容、リニューアル開催を行う「お月見イベント」についてご紹介しております。\n\n詳細は公式サイトをご確認下さい。 #redstone\nmembers.redsonline.jp/news/i…",
-          "link": "https://nitter.net/redstonejp/status/1453285341125746690#m",
-          "publishedOn": "2021-10-27T09:00:00.000Z",
-          "wordCount": 37,
-          "title": "【プロデューサー便り】\n2021年10月版のプロデューサー便りを公開いたしました。\n\n10月27日(水)に実施したアップデートの内容、リニューアル開催を行う「お月見イベント」についてご紹介しております。\n\n詳細は公式サイトをご確認下さい。 #redstone\nhttps://members.redsonline.jp/news/importance_body.asp?ntc_num=14417"
-        },
-        {
-          "id": "https://nitter.net/redstonejp/status/1453263806482759687#m",
-          "author": "@redstonejp",
-          "description": "[公式]メンテナンスは16：30に終了致しました。\nご協力いただきまして誠にありがとうございました。\nメンテナンスの内容につきましては公式サイトをご確認ください。\nmembers.redsonline.jp/news/m…",
-          "link": "https://nitter.net/redstonejp/status/1453263806482759687#m",
-          "publishedOn": "2021-10-27T07:34:26.000Z",
-          "wordCount": 33,
-          "title": "[公式]メンテナンスは16：30に終了致しました。\nご協力いただきまして誠にありがとうございました。\nメンテナンスの内容につきましては公式サイトをご確認ください。\nhttps://members.redsonline.jp/news/maintenance_body.asp?ntc_num=14419"
         }
       ]
     },
@@ -292,6 +98,12 @@
           "title": "サブ育成、ワクチン接種"
         }
       ]
+    },
+    {
+      "title": "ぶろぐたん",
+      "feedUrl": "http://rssblog.ameba.jp/pochi-bird/rss20.xml",
+      "siteUrl": "https://ameblo.jp/pochi-bird/",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.3"
