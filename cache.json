@@ -315,6 +315,723 @@
           "title": "テスト配信"
         }
       ]
+    },
+    {
+      "title": "Into the Bag",
+      "feedUrl": "https://intothe.info/feed/",
+      "siteUrl": "https://intothe.info",
+      "articles": []
+    },
+    {
+      "title": "魔法の壁のリアルライふ",
+      "feedUrl": "https://api.plaza.rakuten.ne.jp/mahounokabe/rss/",
+      "siteUrl": "https://plaza.rakuten.co.jp/mahounokabe/",
+      "articles": []
+    },
+    {
+      "title": "ファーぶろぐ ☆ RED STONE ブリッジヘッド鯖",
+      "feedUrl": "http://ashash.cocolog-nifty.com/blog/index.rdf",
+      "siteUrl": "http://ashash.cocolog-nifty.com/blog/",
+      "articles": []
+    },
+    {
+      "title": "ロイ4世",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA",
+      "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-sHM2ryZCDQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-sHM2ryZCDQ",
+          "publishedOn": "2021-10-28T01:39:09.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#２（アプデ確認）"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=N30Mlu4AdoA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N30Mlu4AdoA",
+          "publishedOn": "2021-10-25T15:07:55.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#１"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rel9rNY7QHE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rel9rNY7QHE",
+          "publishedOn": "2021-10-24T15:53:49.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】久々のリトル育成　その１０くらい！"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5IyPnj0mN0A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5IyPnj0mN0A",
+          "publishedOn": "2021-10-24T15:09:27.000Z",
+          "wordCount": null,
+          "title": "初見プレイ【PC Building Simulator】PC自作シムでPC作るぞ その２"
+        }
+      ]
+    },
+    {
+      "title": "ひさプッチ",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
+      "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
+      "articles": []
+    },
+    {
+      "title": "無職と美学とシュルレアリスム",
+      "feedUrl": "https://chorrealism.com/feed/",
+      "siteUrl": "https://chorrealism.com",
+      "articles": [
+        {
+          "id": "https://chorrealism.com/?p=2325",
+          "author": "cho",
+          "description": "7月末に考えた装備の進捗件構成変更。わりと装備集めがいいペースで進んでいるので、対人モチベも少し回復してきた！かも…。 7月末時点では4パターン用意する予定だったけど、集めるのがしんどすぎるので少し簡略化しようと考え中… […]",
+          "link": "https://chorrealism.com/2021/11/11/%e8%a3%85%e5%82%99%e9%9b%86%e3%82%81%e9%80%b2%e6%8d%97%e3%80%90red-stone%e3%80%91/",
+          "publishedOn": "2021-11-10T17:57:19.000Z",
+          "wordCount": 245,
+          "title": "装備集め進捗【RED STONE】"
+        },
+        {
+          "id": "https://chorrealism.com/?p=2283",
+          "author": "cho",
+          "description": "前回書いたけど、最初の10日間はイベント巨匠集めに終始。 慣れない地下キャラでの自力チケット集めがとにかくつらかった。 そこで苦難が終わるかと思いきや！ スクロール売ってるじゃん！ポチッー！7アカ分買う(復帰前)。…地下 […]",
+          "link": "https://chorrealism.com/2021/11/01/2021-10%e7%b7%8f%e6%8b%ac%e3%80%90red-stone%e3%80%91/",
+          "publishedOn": "2021-10-31T23:21:52.000Z",
+          "wordCount": 233,
+          "title": "2021.10総括【RED STONE】"
+        }
+      ]
+    },
+    {
+      "title": "淑女の休日",
+      "feedUrl": "https://btlirk.blog.fc2.com/?xml",
+      "siteUrl": "https://btlirk.blog.fc2.com/",
+      "articles": [
+        {
+          "id": "https://btlirk.blog.fc2.com/blog-entry-17.html",
+          "author": "btlirk",
+          "description": "ご無沙汰しております。いかがお過ごしでしょうか。私は最近週2回のGvアリーナを楽しむ日々です。（夜勤で出られない日が多々ありますが...）先日のアップデートで　一緒にウサギ変身　がサイレント修正されてましたね🐰～～以前までは～～・11秒間無敵・移動速度150%上昇・無敵だから攻撃受けない＝100%気絶させるのは不可能？・ｸｰﾙﾀｲﾑ30秒（減少で約22秒←無敵時間含むと実質約11秒）とまぁ対人では緊急回避スキルとして超優秀でし",
+          "link": "https://btlirk.blog.fc2.com/blog-entry-17.html",
+          "publishedOn": "2021-11-09T14:30:07.000Z",
+          "wordCount": 127,
+          "title": "回避から離脱へ（サイレント修正　その２）"
+        }
+      ]
+    },
+    {
+      "title": "ネトゲの記録",
+      "feedUrl": "https://api.plaza.rakuten.ne.jp/ronfa/rss/",
+      "siteUrl": "https://plaza.rakuten.co.jp/ronfa/",
+      "articles": []
+    },
+    {
+      "title": "シーフがメインですが何か？",
+      "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
+      "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202111110000/",
+          "author": "雷神の弓",
+          "description": "刻印の代行業があまり稼げなくなったので、赤い光を買って混沌に潜ってみました。しかし、クリア報酬で出るいくつかのアイテムの価格が暴落しているので、赤い光を2.5本で買った場合ほぼ儲からない計算になります...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202111110000/",
+          "publishedOn": "2021-11-11T05:02:31.000Z",
+          "wordCount": 86,
+          "title": "混沌は儲からないね"
+        },
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202111040000/",
+          "author": "雷神の弓",
+          "description": "３OP目は、ランディスを選択しようか迷いましたが、オーソドックスに健比にしておきました。ランディスを貼り付けてしまうと、もし処分することがあった場合に、買い手が火力限定になってしまうからです。健比に...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202111040000/",
+          "publishedOn": "2021-11-03T15:08:07.000Z",
+          "wordCount": 83,
+          "title": "金襴を完成させました"
+        },
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202111010001/",
+          "author": "雷神の弓",
+          "description": "手順が間違っていただけでした＾＾；詳しい方に教えていただいて、ちゃんとWロシペルになりました！取り急ぎご報告まで。",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202111010001/",
+          "publishedOn": "2021-11-01T13:31:43.000Z",
+          "wordCount": 81,
+          "title": "前回の記事間違ってた～"
+        },
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202111010000/",
+          "author": "雷神の弓",
+          "description": "↓↓うーん・・Wロシペル健比金襴とかWロシペル+ランディス金襴を露店で見たことがあるから、ロシペルは２箇所まで貼り付けられると思ったんだけど、なんでやね～ん＾＾；もしかして、これのせい？先週のアップデー...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202111010000/",
+          "publishedOn": "2021-10-31T17:14:42.000Z",
+          "wordCount": 86,
+          "title": "Wロシペル健比金襴を作ろうとしたら"
+        },
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202110300000/",
+          "author": "雷神の弓",
+          "description": "ついつい衝動買いしてしまいました。※対人戦に参加する予定はないのですが、装備のコレクションをして楽しむスタイルです！しかし、このシュルトをどの鎧に貼り付けるべきか少し迷いが生じています。以前なら、シ...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202110300000/",
+          "publishedOn": "2021-10-30T15:01:58.000Z",
+          "wordCount": 90,
+          "title": "NPC称号のシュルトが売っていたので"
+        },
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202110230000/",
+          "author": "雷神の弓",
+          "description": "私は代行をお願いする際は、金額を割と高目に設定しているつもりです。今回は、取引不可の解放改の配布があったようなので、成功250本で叫んでみたところ複数の耳をいただきました。お陰様で、無事↓になりました...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202110230000/",
+          "publishedOn": "2021-10-23T05:37:44.000Z",
+          "wordCount": 91,
+          "title": "代行について"
+        },
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202110220000/",
+          "author": "雷神の弓",
+          "description": "前回の↓これに引き続き・・（使い道ねぇ・・ｗ）使う予定は全くないけど、弓を完成させました。見栄えが良いので、使わないんだけどテンションは少し上がったかも知れない。さらに、手をTダメDXにしてみました。...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202110220000/",
+          "publishedOn": "2021-10-21T16:36:33.000Z",
+          "wordCount": 91,
+          "title": "無駄に装備作りをしてみた"
+        }
+      ]
+    },
+    {
+      "title": "レッドストーン 物理戦士どうでしょう",
+      "feedUrl": "http://rssblog.ameba.jp/sentou-01/rss20.xml",
+      "siteUrl": "https://ameblo.jp/sentou-01/",
+      "articles": []
+    },
+    {
+      "title": "RS☆KUMApon",
+      "feedUrl": "https://rs-kumapon.blogspot.com/feeds/posts/default?alt=rss",
+      "siteUrl": "https://rs-kumapon.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "とんすけと金鯖",
+      "feedUrl": "http://blog.livedoor.jp/tonnsuke_rs/index.rdf",
+      "siteUrl": "http://blog.livedoor.jp/tonnsuke_rs/",
+      "articles": []
+    },
+    {
+      "title": "風に吹かれて",
+      "feedUrl": "http://kaze.gg-blog.com/RSS/",
+      "siteUrl": "http://kaze.gg-blog.com/",
+      "articles": [
+        {
+          "id": "kaze.gg-blog.com://entry/161",
+          "author": null,
+          "description": "こんばんは。\n\n\nついに紋章、私の決める番！！！\n\n\n実は事前に、いろいろ画像合成してシミュレーションしてました\n\n\n本当はこのワンちゃん(AGIRU)にする予定だったのですが、\n\n\nこのブドウ案が採用されました。\n\n\n\n\nじゃん！\n \n\n \n \n\n（　＾ω＾）・・・\n\n\nうぇい作の「芸術は爆発だ」\n\n太陽の塔なのか？\n \nそしてついに\n\n\n\n念願のシャイエンアストラげっと！！！\n\n\nな、なんですって…！？\n\n\n\nねぇのかよ！！！！！\n\n\nこないだ、わくてかに遊びに行った時の話\n\n\nもうひとりの風さんに出会った！！\n\n\n別の日にはPvPで当たり、惨敗\n \n\n\n私は「風」の他にも「詩」という名前もあるからいいのだ…ぐすん\nひさびさにやるPvPも楽しい！\n \nないとぶれいど(イケメンver.)\n\n\n\nでは(｡･ｪ･｡)ﾉ",
+          "link": "http://kaze.gg-blog.com/guild/%E7%9D%A1%E7%9C%A0%E3%81%AE%E7%A7%8B",
+          "publishedOn": "2021-10-14T08:23:19.000Z",
+          "wordCount": 203,
+          "title": "睡眠の秋"
+        }
+      ]
+    },
+    {
+      "title": "のんびりまったり",
+      "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
+      "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
+      "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1206.html",
+          "author": "クレリューフ",
+          "description": "( ・_ゝ・)o*――ﾟ+.――ﾟ+.――ﾟ+.――ﾟ+.――*o(・c_,・)祈りのカケラ集めようイベント文字通り、祈りのカケラを集めるだけですね。最小50個、最大500個以上で全配布アイテムの抽選権利を得る事が出来ます。人によっては特に興味のないアイテムかもですが・・・。( ・_ゝ・)o*――ﾟ+.――ﾟ+.――ﾟ+.――ﾟ+.――*o(・c_,・)当然のようにイベントに合わせて、課金キャンペーンでは祈りのカケラ探索機キャンペーンが始まってますね。ワンコインキャンペ",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1206.html",
+          "publishedOn": "2021-11-10T06:03:22.000Z",
+          "wordCount": 557,
+          "title": "新着イベント情報更新"
+        },
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1205.html",
+          "author": "クレリューフ",
+          "description": "゜。°。°。°。°。°。°。°。゜。°。°。°。OCTOBER UPDATEメンテナンス時間長かったのでアプデがあるのは解り易かったですね。今回のアプデでメインクエスト1の天上報酬のHPボーナス、CPボーナス、ステータスポイント、スキルポイントこれまで10回通って全部もらえてた以上の4つが、1回でもらえるようになったみたいです。これだけで40回通ってたのが4回で済むようになったわけですね。メインクエスト2のほうも材料4つが協会バーで買",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1205.html",
+          "publishedOn": "2021-10-27T09:39:01.000Z",
+          "wordCount": 560,
+          "title": "重要＆新着イベント情報更新"
+        },
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1204.html",
+          "author": "クレリューフ",
+          "description": "新規開催のイベントは今週はないようです。課金キャンペーンは秋ロトと、ハロウィンキャンペーンとしてハロウィンコスとハロウィンコクーンが来てます。ハロウィンキャンペーンの方は2000円以上購入で特別エフェクトが表示される称号がもらえるみたいですね。ステ上昇とかの効果はない見せ称号です。称号要らないにしても着せ替えが好きな人でコスを持ってない人はハロウィンコス買うのもいいかもですねぇ。それでは今週ものんびり",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1204.html",
+          "publishedOn": "2021-10-20T06:08:04.000Z",
+          "wordCount": 559,
+          "title": "今週の新着イベントはなし"
+        }
+      ]
+    },
+    {
+      "title": "今日のアリアン",
+      "feedUrl": "http://scratch2009.blog.fc2.com/?xml",
+      "siteUrl": "http://scratch2009.blog.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "JEFRYの悪足掻き",
+      "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
+      "siteUrl": "http://amakusa46.blog34.fc2.com/",
+      "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-865.html",
+          "author": "JEFRY",
+          "description": "・ディメンションから任意に脱出出来る様にして欲しい。キャラ勘違いしてディメンションに入り、裸や武器無しで狩れず、30分後の崩壊を待つしかないときの切なさたるや・・。おそらく、出入り自由にすると、カケラ出し目的でクリア寸前で脱出し、再入場を繰り返す人が出てくるからと想像するが、進捗をリセットしなければよいんじゃない？と思ってしまう。他に何か理由があるんだろうか？とにかく不便なので改善して欲しい。ちなみ",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-865.html",
+          "publishedOn": "2021-10-29T03:23:49.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】改善希望"
+        }
+      ]
+    },
+    {
+      "title": "「RED STONE（レッドストーン）」公式ブログ",
+      "feedUrl": "http://rssblog.ameba.jp/redstoneonline/rss20.xml",
+      "siteUrl": "https://ameblo.jp/redstoneonline/",
+      "articles": []
+    },
+    {
+      "title": "ぐーたら日記inRS",
+      "feedUrl": "http://tonbototyoutyo.blog84.fc2.com/?xml",
+      "siteUrl": "http://tonbototyoutyo.blog84.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "【Jackさんの冒険モノガタリ】",
+      "feedUrl": "http://jackswsl.blog.fc2.com/?xml",
+      "siteUrl": "http://jackswsl.blog.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "堅牢なもやしに憧れてXLS",
+      "feedUrl": "http://moyashirs.seesaa.net/index20.rdf",
+      "siteUrl": "http://moyashirs.seesaa.net/",
+      "articles": []
+    },
+    {
+      "title": "きまぐれ日記",
+      "feedUrl": "http://fukars.blog.fc2.com/?xml",
+      "siteUrl": "http://fukars.blog.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "Wheel of Fortune ’",
+      "feedUrl": "http://wh-rs.jugem.jp/?mode=rss",
+      "siteUrl": "http://wh-rs.jugem.jp/",
+      "articles": []
+    },
+    {
+      "title": "REDSTONE Relinquish",
+      "feedUrl": "http://extremetrailblazer.blog.fc2.com/?xml",
+      "siteUrl": "http://extremetrailblazer.blog.fc2.com/",
+      "articles": [
+        {
+          "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-768.html",
+          "author": "Trailblazer",
+          "description": "またスクラッチが始まってるよ…【スクラッチ】11/17(水)メンテまで。短い1回実質的には1000円。お得セットを使えば実質500円以下。レア3に完全、賢者、特改でレア2になぜか幸運チケ。スクラッチ特有のアイテム設定のため何とも言えないところ。ちなみに10回でSロト1個です。Sロトバーゲンセールのように出るから価値がないんですけど…いつも通りな詳細金曜日パターンはめんどくさいからやめてほしいところ…ずらす必要ある？おしま",
+          "link": "http://extremetrailblazer.blog.fc2.com/blog-entry-768.html",
+          "publishedOn": "2021-11-12T09:42:31.000Z",
+          "wordCount": null,
+          "title": "こういうケースは少し前にあったよな？"
+        },
+        {
+          "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-767.html",
+          "author": "Trailblazer",
+          "description": "それと次回のアプデを示唆することも…？【配布品や不具合修正など】・クリーチャーログキャンの補填・神秘OP箱がなぜかIF5になった現象を修正・ユニティーストラップが一時交換停止→隣の国がクリーチャー関連のアプデがあったから次回のアプデがそれになるから…？とりあえず公式のメンテ終了のお知らせ【ワンコインキャンペ】11/17(水)メンテまで。1週間。だいたい500円くらいの価値なレギュラーロトにおまけをつけてなんと500円。",
+          "link": "http://extremetrailblazer.blog.fc2.com/blog-entry-767.html",
+          "publishedOn": "2021-11-10T10:25:34.000Z",
+          "wordCount": null,
+          "title": "ワンコイン…？前にも見たな"
+        },
+        {
+          "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-766.html",
+          "author": "Trailblazer",
+          "description": "チケット対応が即日だから装備改良もサクサク進む。至高チケによってOP複製され、製錬したりBFOPつけたり万能解放いれてみたり…できたぁ！！…ただT健比分がなくなることを考えると表記耐久は辛いところそれでも実際は応急処置が働いて有効と考えるならこっちになるんだろうけど…とまぁ悩んでもS鯖に持って行ってから物理槍攻城出てないけどねたとえどこかのギルドに入っても結局V鯖と同じ末路になるだろうなと思うとねぇ今BISで入",
+          "link": "http://extremetrailblazer.blog.fc2.com/blog-entry-766.html",
+          "publishedOn": "2021-11-09T14:13:14.000Z",
+          "wordCount": null,
+          "title": "こうして装備は完成する"
+        },
+        {
+          "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-765.html",
+          "author": "Trailblazer",
+          "description": "基本的にログイン放置だから装備の変化に疎いところ。TダメDX手とかT応急処置DX腰とかいつの間に生まれたんだ…って状態。ログインして終わり！だからそういうとこは全くわかんない。でも有効ならやるしかないよね。異次元ってこと。本当にS鯖の装備自作してばっかだな…指以外ほとんど自作だぞ…もはやS鯖がメインじゃんどうやら複数OPがある場合は確率は10％のままで応急処置されるとこが上限200％で増えるらしい。一部発動しないス",
+          "link": "http://extremetrailblazer.blog.fc2.com/blog-entry-765.html",
+          "publishedOn": "2021-11-03T15:07:14.000Z",
+          "wordCount": null,
+          "title": "ログインしかしてないから把握できてなかった装備を作ろう"
+        },
+        {
+          "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-764.html",
+          "author": "Trailblazer",
+          "description": "月の始めだからかちょうど区切り目だったのか…【配布物】・冒険家感謝祭→後述・ギルドデイリークエスト・港町Box・贈り物・改・臨時メンテのお詫び→10/20メンテ後～10/28臨時メンテまでにログインしている垢が対象。1時間スフィアとパワキが3こずつその詳細【冒険家協会クエのあれ】11/17(水)メンテまで。それなりな頻度でみる協会デイリークエをやりましょうってあれ。もちろん垢内合算。2週間を1キャラでやっても30回以上しか達",
+          "link": "http://extremetrailblazer.blog.fc2.com/blog-entry-764.html",
+          "publishedOn": "2021-11-02T10:26:28.000Z",
+          "wordCount": null,
+          "title": "意外と多いね"
+        }
+      ]
+    },
+    {
+      "title": "ジェンド日記",
+      "feedUrl": "http://jendoradoo.blog.fc2.com/?xml",
+      "siteUrl": "http://jendoradoo.blog.fc2.com/",
+      "articles": [
+        {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-319.html",
+          "author": "ジェンド",
+          "description": "この前のアプデで図案怒りダメが別表記になりそうだと書いてたのですがその結果どうなったのかです。結果的に怒りの発動ダメは別表記となりましたが予想してなかったのが怒り分のダメがピンクで表示されるピンクダメになった事です！よくよく考えたらバルーンとかＨＰ依存ダメってピンクだったのでこれは当然なのかもしれないですね…この変化により火の恩寵つけてるオオカミ少年的にはダメがいくつ出てるのかわかり辛くなっちゃっ",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-319.html",
+          "publishedOn": "2021-11-01T02:00:00.000Z",
+          "wordCount": null,
+          "title": "ＨＰ依存なのでピンクなのかな。"
+        },
+        {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-318.html",
+          "author": "ジェンド",
+          "description": "金鯖からＳ鯖・Ｖ鯖へとちょっと他鯖の観光の為に送り込んだサマナとＢＩＳですが金鯖直後のチケイべなどが忙しかったため移動させただけでほぼ稼働していませんでした。チケイベが終わった今でもＲＳｐａｓｓなどがありなかなか忙しいのですがこのＲＳｐａｓｓは他鯖にちょっとした資産を作るのにはいいかなと思ったので今後の活動資金にもなるので＾＾とりあえず両キャラともＧには入ったほうがいいと思い2週間ほど前からなので",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-318.html",
+          "publishedOn": "2021-10-26T01:00:00.000Z",
+          "wordCount": null,
+          "title": "まったり加入。"
+        },
+        {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-317.html",
+          "author": "ジェンド",
+          "description": "メインキャラでありながら一番悩みを抱えている困った存在のこの人…健康に特化したステ振りなので誕生時からずっと狩り効率が悪いという事を悩んでるのですが結構前からこのままではダメかなと装備などいじってましたがいまのところ健康怒り装備となんちゃって赤ダメ装備の2種類使っていて健康怒り装備はそのまま攻城用の装備で現在の普段着として使ってて後々はなんちゃって赤ダメ装備のほうに移行したほうがいいかなと思ってたの",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-317.html",
+          "publishedOn": "2021-10-18T02:00:00.000Z",
+          "wordCount": null,
+          "title": "怒りの可能性と今後の修正"
+        }
+      ]
+    },
+    {
+      "title": "その槍の名前はフラジールニップ",
+      "feedUrl": "http://frangile.blog.fc2.com/?xml",
+      "siteUrl": "http://frangile.blog.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "赤石グラフィティ",
+      "feedUrl": "https://orientalrose4.blog.fc2.com/?xml",
+      "siteUrl": "https://orientalrose4.blog.fc2.com/",
+      "articles": [
+        {
+          "id": "https://orientalrose4.blog.fc2.com/blog-entry-945.html",
+          "author": "アル・シェリ",
+          "description": "家事のため遊びのお誘いを「ごめんね」した直後、全身で虚無感を表現してくれました。底知れぬ闇をたたえた瞳です。◆◆◆◆◆◆ごきげんよう。年単位のお久しぶりになってしまいましたが、今回は愛猫のことを書かせていただきます。暇つぶしに見てもいいよというお方は、どうぞ「続きを読む」からお進みください。",
+          "link": "https://orientalrose4.blog.fc2.com/blog-entry-945.html",
+          "publishedOn": "2021-11-10T05:43:17.000Z",
+          "wordCount": null,
+          "title": "最近の猫の様子"
+        }
+      ]
+    },
+    {
+      "title": "それいけ！NEO無課金同盟in橋頭鯖　リターンズ",
+      "feedUrl": "http://neomukaking.blog.fc2.com/?xml",
+      "siteUrl": "http://neomukaking.blog.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "かけらがてんこもり",
+      "feedUrl": "http://kakeragatenkomori.blog.fc2.com/?xml",
+      "siteUrl": "http://kakeragatenkomori.blog.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "パンダ族♪ﾊﾟﾗﾚﾙﾜｰﾙﾄﾞ★。・:*:・゜★",
+      "feedUrl": "http://pandamahha.blog99.fc2.com/?xml",
+      "siteUrl": "http://pandamahha.blog99.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "ラビア教狂信者",
+      "feedUrl": "http://religionofrabia.blog.fc2.com/?xml",
+      "siteUrl": "http://religionofrabia.blog.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "ゆう０９０８サマナーのサマナ記録",
+      "feedUrl": "http://yuu0908summoner.blog.fc2.com/?xml",
+      "siteUrl": "http://yuu0908summoner.blog.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "テイマをひたすら愛でるブログ",
+      "feedUrl": "http://yukiyuki4646.blog.fc2.com/?xml",
+      "siteUrl": "http://yukiyuki4646.blog.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "とまとんのにっき",
+      "feedUrl": "http://tomatosama.blog.fc2.com/?xml",
+      "siteUrl": "http://tomatosama.blog.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "☆紅ﾃﾞｺ娘のまった～りﾌﾞﾛｸﾞ☆",
+      "feedUrl": "http://kenntatosachiko.blog129.fc2.com/?xml",
+      "siteUrl": "http://kenntatosachiko.blog129.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "猫ノみぃ 冒険談　〜　猫みぃ大騒動記録",
+      "feedUrl": "http://rscat31.jugem.jp/?mode=rss",
+      "siteUrl": "http://rs.bigcat31.floppy.jp/",
+      "articles": [
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=435",
+          "author": "猫ノみぃ",
+          "description": "獣さんのベース1.4ので攻速721？？で 2フレらしいそれをかかしで見せてもらったんー、、、速いのスゴイけどみぃは　そこまで行こうとは思わないb3フレとかでエエヤン、つか、攻速積むの大変破片指　50×10で500？のこりを武器と手で！？なんとかなる範囲の気がするがまあ、...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=435",
+          "publishedOn": "2021-11-12T03:16:45.000Z",
+          "wordCount": 161,
+          "title": "2フレって、、、どんだけー"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=434",
+          "author": "猫ノみぃ",
+          "description": "lv600付近のプリトルを転生させタイのだまあ、3転生目のこが多いからナーバスなのだが？？目標は物理と知識の両立！？リトルだと、覚醒はノヴァが良いみたいね支援タイプは、ヘイスト消してアウチらしいまー、キャラごとにテーマは違うからギャラクシー覚醒タイプも創る予...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=434",
+          "publishedOn": "2021-11-11T03:40:12.000Z",
+          "wordCount": 160,
+          "title": "リトル　転生したいdeうー"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=433",
+          "author": "猫ノみぃ",
+          "description": "はろはろー、みぃたんのタワゴトタイム　最近　ムチャなシゴトがくるんだがテケトーに返してるどーしてもってやつは上司がやってくれるしはあ、みぃたん楽々ノンノン昼休みは音楽　聴きながらブログの更新☆お昼はグングングルトで済ませることが多い＠＠オシゴトはそれっ...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=433",
+          "publishedOn": "2021-11-09T03:25:04.000Z",
+          "wordCount": 160,
+          "title": "猫踏んじゃイヤ行進曲"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=432",
+          "author": "猫ノみぃ",
+          "description": "お取り忘れなされないようご注意くださいなbbB鯖でスキル再振りとりたいなー明日がんばれば？？とれるはずvハロウィンコスは　いつまでにゃ？まー、欲しいのは買ったし、よかよか課金したいけど、1万くらいだとたいした額にならんからなー、、、クリスマスのスクラッチ狙...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=432",
+          "publishedOn": "2021-11-08T03:21:05.000Z",
+          "wordCount": 160,
+          "title": "シーズンパス水曜日まで？"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=431",
+          "author": "猫ノみぃ",
+          "description": "ふはー、、猫かぶってるをbb猫には猫の秘密があるのです。メインクエ進めなきゃなー、と思いつつまはー、急がなくっていいや、て感じゲームは楽しむもの、変に力いれすぎるなよ@@今日も平和だわ、、、猫は秘密を着飾って猫らしくなるのよ",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=431",
+          "publishedOn": "2021-11-07T12:37:52.000Z",
+          "wordCount": 160,
+          "title": "猫には秘密を着飾る"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=430",
+          "author": "猫ノみぃ",
+          "description": "まはー、無転生でレベル600までは比較的経験値マズーなのでレイドで　だいたい上げてるまはー、急ぎなら、試練やら秘密やらGDもアリだけど、、、みぃたんナマケネコだからレイドでイイのだbbレベル600までいったら転生してループか、そのまま上げるか、、、好み次第だねマ...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=430",
+          "publishedOn": "2021-11-06T08:54:09.000Z",
+          "wordCount": 160,
+          "title": "レイドdeレベル上げ☆"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=429",
+          "author": "猫ノみぃ",
+          "description": "こにゅちゅちは、みぃノお時間ですプリトルの育成ネタでエリアボスのソロをヤってみたいのだ！？どうせなら、Lv800のボスをLv800で@@(  -_・)?物理リトルなら覚醒スキルで倒せるはず？？知識リトル、物理プリ、知識プリは？？どーヤればイイのだ？？まはー、、今後に...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=429",
+          "publishedOn": "2021-11-04T08:26:56.000Z",
+          "wordCount": 161,
+          "title": "プリでエリアボス！？"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=428",
+          "author": "猫ノみぃ",
+          "description": "おやすみハじゆうナノダこんちゃっちゃー、みぃたんでうRS レイドは満になりそー、ということでパスしたbb今日はスイッチで風来のシレンやってたb久しぶりにやったけど意外とアイテム持って帰れるふふふ、みぃたんはまだまだ成長期にゃ明日からまたオシゴトガンバるゾイ今...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=428",
+          "publishedOn": "2021-11-03T09:56:23.000Z",
+          "wordCount": 161,
+          "title": "おやすみハのんびりと"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=427",
+          "author": "猫ノみぃ",
+          "description": "ディメンション　メンドーでとりあえず　エリアボス倒せば満足☆良品はあまりでないが、、、S鯖はbis V　はテイマーB　はリトルで、行ってるノ♪まー、ソロは怖いね1擊死もあるし、、、、物理リトルのビルドについてエリアボスはステ40%くらい下がるからどー書け...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=427",
+          "publishedOn": "2021-11-02T03:31:32.000Z",
+          "wordCount": 161,
+          "title": "エリアボス倒すのみの日々"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=426",
+          "author": "猫ノみぃ",
+          "description": "なんだかなー？？お金の修行がまだ足りてない、、、お金があってもイバらないお金がなくてもイジけないまー、猫に小判だから大金つかんだら　つかっちまうbbお金がなかったら使わないのにね@@ついついお金にシバラレテしまうまはー、、、、生きるってそういうものさ意識の...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=426",
+          "publishedOn": "2021-11-01T03:31:38.000Z",
+          "wordCount": 160,
+          "title": "猫の細道"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=425",
+          "author": "猫ノみぃ",
+          "description": "猫の時間を、人の尺度で計っちゃだめにゃのんびりしてるように見えてもヤるときはヤる！そういうものさー？？眠いときムダに頑張ってもミスするだけ@@そういうときこそ、猫の時間に入るのだbパワーチャージ、リフレッシュ、マインドフルネス、いろいろ言葉はあるが、休ん...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=425",
+          "publishedOn": "2021-10-29T03:45:59.000Z",
+          "wordCount": 161,
+          "title": "猫には猫の時間がアル"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=424",
+          "author": "猫ノみぃ",
+          "description": "天上の報酬が良くなったね！1回でHP 100%は魅力的☆1キャラ1回ずつは、やりたいが？？全キャラやるのはメンドーbつか、マイナス100%のは、、、1回鏡報酬行かせるべきかね？？不具合が今　多いからなー、、、急がず、チャットで騒いで　行きましょう",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=424",
+          "publishedOn": "2021-10-28T03:10:10.000Z",
+          "wordCount": 161,
+          "title": "メインクエ変わったし？？"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=423",
+          "author": "猫ノみぃ",
+          "description": "レポクエ頑張って　Lv900目指してまふだいたいのキャラ　Lv 800超えてきた v装備がそろってない感もあるが？？まはー、リトルバイリトル　少しずつbメインクエしないとなー@@S鯖のプリトル　メモ猫ノみぃ　ランダム覚醒　物理王家猫みぃ　アイドル覚醒　物理&知識暴走...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=423",
+          "publishedOn": "2021-10-25T03:40:00.000Z",
+          "wordCount": 162,
+          "title": "S鯖　着々と、、、"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=422",
+          "author": "猫ノみぃ",
+          "description": "2回失敗しましたー；；最後の秘密でヘクトルが無敵化する前にフラスコに鍋からお薬とると無敵化解除できなくなる気がする、、あと、青い花とりにいくときの狼、物理だと回避補正無視ないと攻撃がほとんど当たらない、、、まはー、経験値ウマウマだしヘクトル指も優秀だし...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=422",
+          "publishedOn": "2021-10-25T03:20:02.000Z",
+          "wordCount": 160,
+          "title": "ヘクトル無敵化解除できず、、"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=421",
+          "author": "猫ノみぃ",
+          "description": "時間をかければレベルは上がるものと、言いたいがプレイヤースキルは磨かないと上がらないまはー、少しずつ経験値　つめてると思うけど、お城ではヤられキャラ、、ウマイひとにヤられてしまうまー、上を目指すならキャラのレベルまだ低いからノビシロはあるが？？？動きか...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=421",
+          "publishedOn": "2021-10-23T13:00:53.000Z",
+          "wordCount": 160,
+          "title": "レベルアップしても中身がな"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=420",
+          "author": "猫ノみぃ",
+          "description": "いっぽ　センキン？？それをいうならいっぷ　センキン？？猫的にはどちでもイイけど、将棋はパソコンで覚えたから言葉がデタラメ、、、みぃたんはデタラメなほうが好きだからイイんだけどさーみぃたん、リアルだと静かよ？？あいさつと質問くらいはするけどジョブ以外のこ...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=420",
+          "publishedOn": "2021-10-22T03:37:49.000Z",
+          "wordCount": 160,
+          "title": "いろはに　ほへい"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=419",
+          "author": "猫ノみぃ",
+          "description": "RS パスで再振り券が貰えたので再振りしたお@@おそらく2カ月に1回のペースでもらえるはず？？なので、テイマーをサマナーにしたお vつか、、、サマナーにしてもエリート悪魔まだまだ現役普通にカンストいく、、、まー、スキル装備だから火力はじゅうぶんにゃbbケルビーの...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=419",
+          "publishedOn": "2021-10-21T03:48:58.000Z",
+          "wordCount": 162,
+          "title": "再振り♪テイマー→サマナー"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=418",
+          "author": "猫ノみぃ",
+          "description": "トリックおあトリートアホーたちのばかさわぎの季節？？つか、収穫祭だにーbbレッドストーンではハロウィンコス販売してるね v戦士、プリはオススメ☆戦士は　Lv 900 いって、のんびりエリアボスは多分1擊死、、、エリアボスからトリート欲しい@@え？？課金パワー使...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=418",
+          "publishedOn": "2021-10-21T03:22:58.000Z",
+          "wordCount": 163,
+          "title": "ハロウィンコスかー？？"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=417",
+          "author": "猫ノみぃ",
+          "description": "そうそうに貸せないけど@@貸せても　一時的なもの、、、気まぐれだっちゃんで、気まぐれを集めるのがギルドだなお手伝い、協力の輪をつくるのだ@@自分の手で出来ることを精一杯やって、足りないのは仲間に頼るそれでいいのだ、みんな協力して生きているニンゲンさんってそ...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=417",
+          "publishedOn": "2021-10-18T03:42:28.000Z",
+          "wordCount": 160,
+          "title": "猫には猫の手があるー"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=416",
+          "author": "猫ノみぃ",
+          "description": "低下で物理だと狩りにくいブレイマ知識だと低下の影響を受けず楽々狩れる@w@転生プリで3面ソロできたぞこの狩りやすさならレベル680くらいまでブレイマでいいなラットキングは、土抵抗高くて、、火とかなら通るけど？？走るのも大変、、、",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=416",
+          "publishedOn": "2021-10-18T03:30:16.000Z",
+          "wordCount": 160,
+          "title": "660ブレイマは知識キャラで"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=415",
+          "author": "猫ノみぃ",
+          "description": "エリアボスにHP6000で挑むと瞬殺される、、、ということでこだわりのレア装備は　ノちゃんから別キャラに移してHPを上げるのじゃいとりあえず、首は　T堂々にしたbbなんとかHP 12000頭と耳を変えたいが、、インゴほとんど、使いきった@@なんかドロップ　狙わねば、、、ロ...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=415",
+          "publishedOn": "2021-10-18T03:20:10.000Z",
+          "wordCount": 161,
+          "title": "レア装備からHP装備へ"
+        },
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=414",
+          "author": "猫ノみぃ",
+          "description": "2転生ボトルプリをLv390 →　530　にしたゾまー、プチ　&　パワキを使ってだけど@@知識は　1000振った状態で武器は　ロウバストのレベル解放♪ボスをひたすらソロ狩り、、、デスピンサー　2面エルフ　2面サソリ　3面サソリは即死のイメージあったけど土ボトルだとブロッ...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=414",
+          "publishedOn": "2021-10-15T03:21:27.000Z",
+          "wordCount": 161,
+          "title": "昨日の石の日スコア"
+        }
+      ]
+    },
+    {
+      "title": "どっかの物理ユーザの雑記",
+      "feedUrl": "http://rssblog.ameba.jp/wind-bell-201001/rss20.xml",
+      "siteUrl": "https://ameblo.jp/wind-bell-201001/",
+      "articles": [
+        {
+          "id": "https://ameblo.jp/wind-bell-201001/entry-12709660743.html",
+          "author": null,
+          "description": "お久しぶりです。こんばんは。\n大体1カ月ぶりですが生きてます。去年の10月にブログを開設したので約1年が経ちました。\n当時はアリーナGVに参加していた事もあり、（計算が合ってるかどうかは置いといて）ダメループだったり被ダメの計算だったりなんだったりを載せたりしてましたが現在は題名にもある通り300制限GVをやってます。\n \n企画自体は5月の段階からあったんですが両方は中々難しく、今月に入ってからようやく開催することが出来ました(*- -)(*_ _)ペコリ\n今はブリッジヘッド鯖で開催してますが、ゆくゆくは他鯖も巻き込んでアリーナで開催できるようになれば良いなーと考えてます。\n \n現状はまだまだレギュレーションの確認中なんですけどね( 一一)\n覚醒したら思った以上に火力が出てヤバいなーって職も居て\n立ってらんねー秒殺されるわ(´ー｀*)うん...どうしよ\nとか色々と考えてたりしますｗ\n \nまたそれが楽しいと言えば楽しいんですけどね\nちなみに現行のレギュはこちら↓\n\nクリーチャーやクレストが大変だったりって人でも楽しめたり、300なら色んな職で楽しめるかなーってのが基本的なコンセプトです！\n職さえ選べばディメンションOPと製錬だけでも遊べるような環境を目指してます。\n勿論、装備を作りを頑張れば頑張っただけ強くなれるのは間違いないですけどね？\nという訳で生存報告を兼ねて300制限GVの宣伝でした（笑）",
+          "link": "https://ameblo.jp/wind-bell-201001/entry-12709660743.html",
+          "publishedOn": "2021-11-11T16:53:11.000Z",
+          "wordCount": 42,
+          "title": "300制限GVやってます"
+        }
+      ]
+    },
+    {
+      "title": "カルDXのレッドストーン放浪",
+      "feedUrl": "https://api.plaza.rakuten.ne.jp/karudxrs/rss/",
+      "siteUrl": "https://plaza.rakuten.co.jp/karudxrs/",
+      "articles": []
+    },
+    {
+      "title": "rb79kのブログ",
+      "feedUrl": "https://api.plaza.rakuten.ne.jp/rb79k2/rss/",
+      "siteUrl": "https://plaza.rakuten.co.jp/rb79k2/",
+      "articles": []
+    },
+    {
+      "title": "しぐれの日記",
+      "feedUrl": "https://sayo-sigure.hatenablog.jp/rss",
+      "siteUrl": "https://sayo-sigure.hatenablog.jp/",
+      "articles": []
+    },
+    {
+      "title": "すべては戦士の地位向上のために【現実弱化90%ドラツイ】",
+      "feedUrl": "http://miroquois.blog.fc2.com/?xml",
+      "siteUrl": "http://miroquois.blog.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "丸い龍と蟻【Rebirth】",
+      "feedUrl": "http://fatdragoncrowds.blog.fc2.com/?xml",
+      "siteUrl": "http://fatdragoncrowds.blog.fc2.com/",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.3"
