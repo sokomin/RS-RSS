@@ -153,19 +153,20 @@
         <br>
           <ul>
   {{#each dates}}
-    <li>
+    {{!-- <li> --}}
       <section class="day-container">
-      <div class="date">{{isoPublishDate}}<div>
+      <div><div class="date">{{isoPublishDate}}</div><div>
 
       {{#each articles}}
       <article>
-          <h3><a href={{link}}>{{title}}</a></h3>
-          <div>
-            <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
-            <span>Date: <time>{{isoPublishDate}}</time></span> |
-            <span>Timestamp: <time>{{publishedOn}}</time></span> |
-            <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
-            <span>Word count: <time>{{wordCount}}</time></span>
+          <h6><a href={{link}}>{{title}}</a></h6>
+          <div><b>
+            <span><a href={{source.siteUrl}}>{{source.title}}</a></span> | 
+            {{!-- <span>Date: <time>{{isoPublishDate}}</time></span> | --}}
+            <span>更新日: <time>{{publishedOn}}</time></span> |
+            <span>読了目安時間: <time>{{readingTimeInMin}} min</time></span> |
+            <span>文字数: <time>{{wordCount}}</time></span>
+            </b>
           </div>
           <p>{{description}}</p>
         </details>
@@ -173,7 +174,7 @@
       {{/each}}
 
       </section>
-    </li>
+    {{!-- </li> --}}
   {{/each}}
   </ul>
   {{!-- {{#each dates}}
