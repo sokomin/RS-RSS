@@ -243,6 +243,55 @@
           "title": "[公式]メンテナンスは16：30に終了致しました。\nご協力いただきまして誠にありがとうございました。\nメンテナンスの内容につきましては公式サイトをご確認ください。\nhttps://members.redsonline.jp/news/maintenance_body.asp?ntc_num=14419"
         }
       ]
+    },
+    {
+      "title": "リヤンのペット図鑑+だらだら戯言日記 in RS",
+      "feedUrl": "https://akira773.blog22.fc2.com/?xml",
+      "siteUrl": "http://akira773.blog22.fc2.com/",
+      "articles": []
+    },
+    {
+      "title": "ミツリンの記録簿",
+      "feedUrl": "https://mitsurin32.blog.fc2.com/?xml",
+      "siteUrl": "https://mitsurin32.blog.fc2.com/",
+      "articles": [
+        {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-720.html",
+          "author": "ミツリン",
+          "description": "先日私が大ファンの方が先日演奏動画を出していました自分の好きな曲を演奏してくれるのはとても嬉しいですね相変わらずお美しい手足に目が釘付けですこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-720.html",
+          "publishedOn": "2021-11-07T15:00:00.000Z",
+          "wordCount": 448,
+          "title": "2回目のワクチン接種後"
+        },
+        {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-719.html",
+          "author": "ミツリン",
+          "description": "先日息子がやっているスマホゲームにコラボイベントが来ていましたどんなコラボか聞いたらJRAとコラボとの事ですこんな感じだそうです色々つっこみどころが多いゲームなのですが金と労力の使い所が流石だなぁと思わされましたこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-719.html",
+          "publishedOn": "2021-10-31T15:00:00.000Z",
+          "wordCount": 453,
+          "title": "10月27日アップデート　【お月見、ﾒｲﾝｸｴｽﾄ関連、新狩場等】"
+        },
+        {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-718.html",
+          "author": "ミツリン",
+          "description": "先日息子の部屋から聞こえてくる音楽がこれでしたどうやらテスト勉強をしていたみたいですとても懐かしかったです当時魔人が落とすレアアイテム目当てに一日中エンカウントを繰り返していたのを思い出しますこれ聞いて勉強って何の教科ですかね・・・こんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-718.html",
+          "publishedOn": "2021-10-24T15:00:00.000Z",
+          "wordCount": 448,
+          "title": "敏捷の必要性"
+        },
+        {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-717.html",
+          "author": "ミツリン",
+          "description": "最近某馬ゲームが流行っていますが先日息子が「ゴールドシップってどんな馬だったの？」と聞かれこれを見せましたゲートイン事件やワープ、120億円事件等数々の伝説を残し今尚愛され続ける人気のお馬さんですとても懐かしい気持ちになりましたこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-717.html",
+          "publishedOn": "2021-10-17T15:00:00.000Z",
+          "wordCount": 448,
+          "title": "サブ育成、ワクチン接種"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.3"
