@@ -1,6 +1,9 @@
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://sokomin.github.io/RS-RSS/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+#   - href: https://css-tricks.com/feed/
+#   - href: https://www.smashingmagazine.com/feed/
+#   - href: https://www.freecodecamp.org/news/rss/
+  - href: https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/
+  - href: https://khbsroom.com/index.xml　
+  
