@@ -80,10 +80,10 @@ p {
   margin: 0;
 }
 
-summary {
+/* summary {
   font-weight: 600;
   color: var(--nord0E);
-}
+} */
 
 summary:hover {
   text-decoration: underline;
@@ -101,7 +101,8 @@ details {
 }
 
 details[open] {
-  background-color: var(--nord02);
+  /* background-color: var(--nord02); */
+  background: url("https://sokomin.github.io/design/bg-base-01.png");
   margin-bottom: 8px;
 }
 
