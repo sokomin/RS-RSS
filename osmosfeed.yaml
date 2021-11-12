@@ -1,11 +1,12 @@
 cacheUrl: https://sokomin.github.io/RS-RSS/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+  # - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
 #   - href: https://css-tricks.com/feed/
 #   - href: https://www.smashingmagazine.com/feed/
 #   - href: https://www.freecodecamp.org/news/rss/
   - href: https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/
   - href: https://khbsroom.com/index.xml
-  - href: https://nitter.net/redstonejp/rss
+  # - href: https://nitter.net/redstonejp/rss
   - href: https://akira773.blog22.fc2.com/?xml
   - href: https://mitsurin32.blog.fc2.com/?xml
+  - href: http://rssblog.ameba.jp/pochi-bird/rss20.xml
