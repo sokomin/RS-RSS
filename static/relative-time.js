@@ -23,7 +23,8 @@ function getRelativeTime(when, now) {
 
 // 日本時間に直す。index.js自体はchromeのデバッグツールからも確認可能
 function getJstFormatedTime(when) {
-    var date = new Date(Date.parse(when.toISOString().split('Z')[0]+'+09:00'));
+    // var date = new Date(Date.parse(when.toISOString().split('Z')[0]+'+09:00'));
+    var date = new Date(when); //面倒なのでブラウザの時刻に任せることにした
     var date_str = date.getFullYear() + '/' + ('0' + (date.getMonth() + 1)).slice(-2) + '/' +('0' + date.getDate()).slice(-2) + ' ' +  ('0' + date.getHours()).slice(-2) + ':' + ('0' + date.getMinutes()).slice(-2) + ':' + ('0' + date.getSeconds()).slice(-2);
     return date_str;
 }
