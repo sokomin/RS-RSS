@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-13T15:04:14.948Z</updated>
+    <updated>2021-11-13T15:29:25.807Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1538,16 +1538,6 @@ RSライフではいろいろな楽しみ方がありますよね＾＾
         <summary type="html"><![CDATA[最近某馬ゲームが流行っていますが先日息子が「ゴールドシップってどんな馬だったの？」と聞かれこれを見せましたゲートイン事件やワープ、120億円事件等数々の伝説を残し今尚愛され続ける人気のお馬さんですとても懐かしい気持ちになりましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昨日の石の日スコア]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=414</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=414"/>
-        <updated>2021-10-15T03:21:27.000Z</updated>
-        <summary type="html"><![CDATA[2転生ボトルプリをLv390 →　530　にしたゾまー、プチ　&　パワキを使ってだけど@@知識は　1000振った状態で武器は　ロウバストのレベル解放♪ボスをひたすらソロ狩り、、、デスピンサー　2面エルフ　2面サソリ　3面サソリは即死のイメージあったけど土ボトルだとブロッ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
