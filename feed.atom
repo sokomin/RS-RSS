@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-13T14:24:08.215Z</updated>
+    <updated>2021-11-13T14:32:08.150Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[唐突に銀行の中身を晒してみる]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111130000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202111130000/"/>
+        <updated>2021-11-13T14:24:55.000Z</updated>
+        <summary type="html"><![CDATA[銀行の中身（上半分）は、こんな感じです。（下半分には、使っていない対人装備などが入っています）上の段にあるのは、クロネの指輪を刻印する原本と写本が突っ込んであります。万能解放は安かったので、2個だけ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネクロ☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12709852605.html</id>
