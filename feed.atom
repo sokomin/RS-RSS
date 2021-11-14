@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-14T09:46:48.195Z</updated>
+    <updated>2021-11-14T10:05:41.773Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[魔力注入報告書・ハニーレモネード装備２０２１編]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1087.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1087.html"/>
+        <updated>2021-11-14T09:49:14.000Z</updated>
+        <summary type="html"><![CDATA[装備備忘録の続き～※あくまでも備忘録ですよ～★★★　『忍耐せし者』　★★★この２つを魔力注入（忍耐せし者）のセットにした耳と足、５段階のセットなのでHP３０％UP↑遺物・女神の香りNX耳は遺物⇒遺物満足度調査報告書・ハニーレモネード装備２０２１編ピンクシューズNX足はピンクシューズ、炎ボトルより★★★　『一角獣の尻尾』　★★★首・頭・腰・手・鎧の５ケ所が『一角獣の尻尾』セットなかなか第３段階から上がらない首・死の聖具NX]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[祝！＆ステ☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12710050178.html</id>
