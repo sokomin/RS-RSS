@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-14T15:29:32.363Z</updated>
+    <updated>2021-11-14T15:41:01.614Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[次回の3倍石の日は5月を予定しております]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-770.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-770.html"/>
+        <updated>2021-11-14T15:36:46.000Z</updated>
+        <summary type="html"><![CDATA[だいぶ先じゃん…まぁそれとは別の何かがあるだろうな！！ということで3倍の石の日をそれなりに楽しみました。いやぁ、土曜日じゃなくてよかったよ。そっちは1万歩歩かざるおえなかったから…結局2万歩いった件基本はS鯖物理槍を上げつつ、22時に戦士で壺20個×12セットをねじこんでという予定でした。V鯖？知らん！！そんでもって結果。1051→1067神殿B2は相変わらずおいしいね。ただ物理にやさしくないのがちょっと…外周だとブロック]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RSPASSのULT箱開封、鐘について]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-721.html</id>
