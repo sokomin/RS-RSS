@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-15T03:06:09.506Z</updated>
+    <updated>2021-11-15T03:29:09.416Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石の日おつんー]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=436</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=436"/>
+        <updated>2021-11-15T03:18:59.000Z</updated>
+        <summary type="html"><![CDATA[石の日ウマウマでしたねいやはー、3転さんをLv600に2体戻したV鯖ね☆　こっからはレポとかなんだけどノーニードはーりーのんびりいきましょ♪V鯖はあと2転生プリを2匹3転にしなきゃなーまは周回は、次の石の日かな、、、みなさんの石の日はどうだったでしょうか？ツイッター...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[やっと☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12710253273.html</id>
