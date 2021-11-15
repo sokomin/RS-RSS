@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-15T03:47:33.443Z</updated>
+    <updated>2021-11-15T04:07:26.878Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ネコによるカイゼン]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=438</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=438"/>
+        <updated>2021-11-15T03:56:48.000Z</updated>
+        <summary type="html"><![CDATA[ネコのテはなかなか使にゃんがまータマには、マトモナことをいうてみる？？働き方改革は関わるすべてのヒト、モノ、シクミを向上させる意識改革なのでうーヒトにはそれぞれドラマがあり、ケガ、ビョーキ、カイゴ、ケッコン、イクジなどなど抱えてるモノがあるはずにゃで、...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リトルの謎育成☆]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=437</id>
