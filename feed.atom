@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-15T04:07:26.878Z</updated>
+    <updated>2021-11-15T04:36:55.496Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】経験値3倍と装備(とりあえず)完成]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-866.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-866.html"/>
+        <updated>2021-11-15T04:13:18.000Z</updated>
+        <summary type="html"><![CDATA[昨日は石の日で経験値3倍だった様で、氷雨アチャで生まれて初めてマキナを使い切った。2Lvくらい上がって、自分としてはやり切った感がありログアウト。中にはLv1500になっている人もおり別次元。人口的に最も多いであろうLv900台とのレベル差は500以上で、もはや対戦とは呼べないエンドコンテンツの攻城戦が、いつまで保つのか心配でならない。レベル差500以上でも、知識ならまだ戦えるってことで自分は全部知識化しているが、物]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネコによるカイゼン]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=438</id>
