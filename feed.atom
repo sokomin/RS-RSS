@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-15T03:29:09.416Z</updated>
+    <updated>2021-11-15T03:39:15.459Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リトルの謎育成☆]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=437</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=437"/>
+        <updated>2021-11-15T03:30:50.000Z</updated>
+        <summary type="html"><![CDATA[お城向けに育てるんやけど謎の制約を設けてるバトマチ、アイドルはマスらない？！　バトマチはヘイスト上書きすること　あるらしいからパス　アイドルは邪魔になるケースは　あまりないそうだけど、ほかを優先せっかくなら知識、物理両立！？しよう　スキルもステも難しい...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石の日おつんー]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=436</id>
