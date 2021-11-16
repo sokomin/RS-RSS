@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-16T13:46:37.252Z</updated>
+    <updated>2021-11-16T14:04:53.940Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1894,16 +1894,6 @@ RSライフではいろいろな楽しみ方がありますよね＾＾
         <summary type="html"><![CDATA[エリアボスにHP6000で挑むと瞬殺される、、、ということでこだわりのレア装備は　ノちゃんから別キャラに移してHPを上げるのじゃいとりあえず、首は　T堂々にしたbbなんとかHP 12000頭と耳を変えたいが、、インゴほとんど、使いきった@@なんかドロップ　狙わねば、、、ロ...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怒りの可能性と今後の修正]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-317.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-317.html"/>
-        <updated>2021-10-18T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[メインキャラでありながら一番悩みを抱えている困った存在のこの人…健康に特化したステ振りなので誕生時からずっと狩り効率が悪いという事を悩んでるのですが結構前からこのままではダメかなと装備などいじってましたがいまのところ健康怒り装備となんちゃって赤ダメ装備の2種類使っていて健康怒り装備はそのまま攻城用の装備で現在の普段着として使ってて後々はなんちゃって赤ダメ装備のほうに移行したほうがいいかなと思ってたの]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
