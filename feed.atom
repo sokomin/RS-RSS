@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-16T04:36:22.692Z</updated>
+    <updated>2021-11-16T04:55:22.982Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1902,15 +1902,6 @@ RSライフではいろいろな楽しみ方がありますよね＾＾
         <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202110170000/"/>
         <updated>2021-10-18T00:08:21.000Z</updated>
         <summary type="html"><![CDATA[よし！配信やるぞ！と意気込んで始めようとしたところ、なぜか配信が始まらない…そういう状況に出くわしたので、エラー解決までの過程について記載していきます。ちなみに当該エラーが発生する先週までは普通に動...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テスト配信]]></title>
-        <id>https://www.youtube.com/watch?v=zPTIQBFMBdI</id>
-        <link href="https://www.youtube.com/watch?v=zPTIQBFMBdI"/>
-        <updated>2021-10-17T16:44:02.000Z</updated>
         <author>
             <name>そこらの民衆</name>
         </author>
