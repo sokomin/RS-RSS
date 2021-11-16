@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-16T15:30:47.001Z</updated>
+    <updated>2021-11-16T15:42:12.850Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1872,16 +1872,6 @@ RSライフではいろいろな楽しみ方がありますよね＾＾
         <link href="http://rs.bigcat31.floppy.jp/?eid=417"/>
         <updated>2021-10-18T03:42:28.000Z</updated>
         <summary type="html"><![CDATA[そうそうに貸せないけど@@貸せても　一時的なもの、、、気まぐれだっちゃんで、気まぐれを集めるのがギルドだなお手伝い、協力の輪をつくるのだ@@自分の手で出来ることを精一杯やって、足りないのは仲間に頼るそれでいいのだ、みんな協力して生きているニンゲンさんってそ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[660ブレイマは知識キャラで]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=416</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=416"/>
-        <updated>2021-10-18T03:30:16.000Z</updated>
-        <summary type="html"><![CDATA[低下で物理だと狩りにくいブレイマ知識だと低下の影響を受けず楽々狩れる@w@転生プリで3面ソロできたぞこの狩りやすさならレベル680くらいまでブレイマでいいなラットキングは、土抵抗高くて、、火とかなら通るけど？？走るのも大変、、、]]></summary>
         <author>
             <name>猫ノみぃ</name>
         </author>
