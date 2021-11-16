@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-16T03:39:38.285Z</updated>
+    <updated>2021-11-16T03:48:06.144Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[製錬+11にチャレンジ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111160000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202111160000/"/>
+        <updated>2021-11-16T03:34:57.000Z</updated>
+        <summary type="html"><![CDATA[２個目のガードⅡで成功しました。ラッキー！！１回目の+11チャレンジは失敗で9に下がって、代行(70本）をお願いして10に上げて、2回目の+11チャレンジで成功を引けました。（ガードⅠの在庫はこれで全滅、ガードⅡ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なんだかな～～☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12710426083.html</id>
