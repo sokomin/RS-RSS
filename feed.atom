@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-16T15:05:05.954Z</updated>
+    <updated>2021-11-16T15:30:47.001Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1882,16 +1882,6 @@ RSライフではいろいろな楽しみ方がありますよね＾＾
         <link href="http://rs.bigcat31.floppy.jp/?eid=416"/>
         <updated>2021-10-18T03:30:16.000Z</updated>
         <summary type="html"><![CDATA[低下で物理だと狩りにくいブレイマ知識だと低下の影響を受けず楽々狩れる@w@転生プリで3面ソロできたぞこの狩りやすさならレベル680くらいまでブレイマでいいなラットキングは、土抵抗高くて、、火とかなら通るけど？？走るのも大変、、、]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レア装備からHP装備へ]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=415</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=415"/>
-        <updated>2021-10-18T03:20:10.000Z</updated>
-        <summary type="html"><![CDATA[エリアボスにHP6000で挑むと瞬殺される、、、ということでこだわりのレア装備は　ノちゃんから別キャラに移してHPを上げるのじゃいとりあえず、首は　T堂々にしたbbなんとかHP 12000頭と耳を変えたいが、、インゴほとんど、使いきった@@なんかドロップ　狙わねば、、、ロ...]]></summary>
         <author>
             <name>猫ノみぃ</name>
         </author>
