@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-16T19:21:36.395Z</updated>
+    <updated>2021-11-16T19:31:56.869Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[根管治療とラバーダム]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202110010000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202110010000/"/>
+        <updated>2021-11-16T19:23:37.000Z</updated>
+        <summary type="html"><![CDATA[最近、奥歯が歯の神経にまで達した虫歯にかかってしまったので治療を受けることにしました。その時の話のまとめです。何やかんやで結構時間かかった。根管治療とは根管治療とは「歯髄（しずい）」と呼ばれる歯の...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[久しぶりにロト更新]]></title>
         <id>http://extremetrailblazer.blog.fc2.com/blog-entry-771.html</id>
