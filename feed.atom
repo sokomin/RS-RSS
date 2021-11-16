@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-16T03:48:06.144Z</updated>
+    <updated>2021-11-16T04:07:16.918Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ガリムトいくならシュトラ？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=440</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=440"/>
+        <updated>2021-11-16T03:55:13.000Z</updated>
+        <summary type="html"><![CDATA[まはー、Lv850から900まで空いてる狩場、ガリムトの墓地ギルドホールからシュトラに飛べるのがベターとはいえ普通のテレポーターでもいいがんー、、、まはー、数狩りたいときだけだからねギルドホールの縁故地はS鯖だとアリアン、スマグが、ぶなん？？]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[農業なら経営計画ダゾ]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=439</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=439"/>
+        <updated>2021-11-16T03:48:38.000Z</updated>
+        <summary type="html"><![CDATA[昨日は農業の本読んでた☆知らないこと、いっぱいだな！！連作障害とか、、、まー、みぃは農業に手はださんがつか、ネコの手だし、、、農業は利益だして維持するのは難しい5年後生き残ってる確率は50%くらいらしいんー？？レストランやらカフェよりマシらしいが、、、んで...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[製錬+11にチャレンジ]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111160000/</id>
