@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-17T09:05:32.671Z</updated>
+    <updated>2021-11-17T09:27:45.812Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[何だロトだけか…ん？超級クレスト…Ⅱ？]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-772.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-772.html"/>
+        <updated>2021-11-17T09:17:48.000Z</updated>
+        <summary type="html"><![CDATA[正気？【配布物】・ハロウィンコス+コクーン→対象物で2000円以上交換すると称号がもらえるあれ・冒険家感謝祭そしてこれが詳細【アンインストールロト】12/8(水)メンテまで。3週間。1個1000円でいつも通りのセット付。レア3に幸運チケでレア2に完全、賢者、特改。レア2だけど価値が大きく下がったからな…ちなみに神秘鏡ULTと上級ULTはでない。Sロトから出るけど…また、T比率権能がレア3に…だけどなぜかTRS権能もいるという。わかり]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今週は特になし]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1207.html</id>
