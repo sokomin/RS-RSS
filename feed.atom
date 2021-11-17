@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-17T07:25:14.229Z</updated>
+    <updated>2021-11-17T07:32:52.549Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今週は特になし]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1207.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1207.html"/>
+        <updated>2021-11-17T07:26:46.000Z</updated>
+        <summary type="html"><![CDATA[新着イベントは特になし。継続中のもののみになりますね。課金キャンペーンはロト系のが1つ開催ですが。他これといって書く事がないので短いですが。強いて捻り出す話題としたら、０時レイド時点で与ダメ１位でした、という事と新作MMOのELYONもリオサーバのオンタリー勢力でまったりプレイ中くらいですかね。それでは今週ものんびり楽しみましょ～( ´ω｀)]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[モチベ回復しない勢【RED STONE】]]></title>
         <id>https://chorrealism.com/?p=2358</id>
