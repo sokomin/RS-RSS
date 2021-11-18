@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-18T18:07:14.564Z</updated>
+    <updated>2021-11-18T18:32:19.359Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1860,16 +1860,6 @@ B鯖とV鯖のプリトルGのGv対戦です(｀･ω･´)ゞ
         <summary type="html"><![CDATA[トリックおあトリートアホーたちのばかさわぎの季節？？つか、収穫祭だにーbbレッドストーンではハロウィンコス販売してるね v戦士、プリはオススメ☆戦士は　Lv 900 いって、のんびりエリアボスは多分1擊死、、、エリアボスからトリート欲しい@@え？？課金パワー使...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今週の新着イベントはなし]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1204.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1204.html"/>
-        <updated>2021-10-20T06:08:04.000Z</updated>
-        <summary type="html"><![CDATA[新規開催のイベントは今週はないようです。課金キャンペーンは秋ロトと、ハロウィンキャンペーンとしてハロウィンコスとハロウィンコクーンが来てます。ハロウィンキャンペーンの方は2000円以上購入で特別エフェクトが表示される称号がもらえるみたいですね。ステ上昇とかの効果はない見せ称号です。称号要らないにしても着せ替えが好きな人でコスを持ってない人はハロウィンコス買うのもいいかもですねぇ。それでは今週ものんびり]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
