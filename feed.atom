@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-18T03:28:43.510Z</updated>
+    <updated>2021-11-18T03:39:22.070Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】武道家の可能性]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-867.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-867.html"/>
+        <updated>2021-11-18T03:32:47.000Z</updated>
+        <summary type="html"><![CDATA[S鯖に、攻城戦で異様な耐久性を誇る武道家がいる。何度か味方として攻城戦に参加したけど、嘘だろ？っていうくらい堕ちない。いくら仰反るや分身があっても、自分の武道家とは次元が違う耐久性に憧れを抱かすにはいられない。てことで、「目指せ！高耐久武道家プロジェクト」開始。まずは、分身スキルのクールタイム(CT)を減らしたい。クリーチャーでの対応になるが、CT減少は実は希少なスキルみたいで、メインパッシブにCT減少を]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大事なことは繰り返す]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=441</id>
