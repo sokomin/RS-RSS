@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-18T02:46:23.558Z</updated>
+    <updated>2021-11-18T03:05:32.505Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1850,16 +1850,6 @@ B鯖とV鯖のプリトルGのGv対戦です(｀･ω･´)ゞ
         <summary type="html"><![CDATA[新規開催のイベントは今週はないようです。課金キャンペーンは秋ロトと、ハロウィンキャンペーンとしてハロウィンコスとハロウィンコクーンが来てます。ハロウィンキャンペーンの方は2000円以上購入で特別エフェクトが表示される称号がもらえるみたいですね。ステ上昇とかの効果はない見せ称号です。称号要らないにしても着せ替えが好きな人でコスを持ってない人はハロウィンコス買うのもいいかもですねぇ。それでは今週ものんびり]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次の舞台へ・・・]]></title>
-        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202110190000/</id>
-        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202110190000/"/>
-        <updated>2021-10-19T14:57:58.000Z</updated>
-        <summary type="html"><![CDATA[​　　　　　　　　　　　／こんばんは！まおみくです！！＼って新しい挨拶を決めたところで・・・なんと苺桜三玖さん・・・等々・・・なんと・・・​MBを全部終わることが出来ました！！！！！°˖☆◝(⁰▿⁰)◜☆˖°​​７月...]]></summary>
-        <author>
-            <name>苺桜三玖</name>
         </author>
     </entry>
 </feed>
