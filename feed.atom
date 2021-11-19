@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-19T03:28:13.824Z</updated>
+    <updated>2021-11-19T03:39:07.486Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[pvp防御45%クレスト？？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=442</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=442"/>
+        <updated>2021-11-19T03:29:19.000Z</updated>
+        <summary type="html"><![CDATA[さてはて、環境が変わったというかトップクラスがさらに強くなるのかいままでは35%が最大だったから2個分で20%の差　デカイなー、、、つか90%の上にクリーチャーか、揃えると堅くなりすぎ？？対人だとHP20万でも簡単に削られるからなー堅くなるのは良いが、、、？？？買う...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】武道家の可能性]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-867.html</id>
