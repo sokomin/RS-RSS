@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-19T15:43:00.334Z</updated>
+    <updated>2021-11-19T15:51:35.424Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1783,16 +1783,6 @@ B鯖とV鯖のプリトルGのGv対戦です(｀･ω･´)ゞ
         <summary type="html"><![CDATA[前回の↓これに引き続き・・（使い道ねぇ・・ｗ）使う予定は全くないけど、弓を完成させました。見栄えが良いので、使わないんだけどテンションは少し上がったかも知れない。さらに、手をTダメDXにしてみました。...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再振り♪テイマー→サマナー]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=419</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=419"/>
-        <updated>2021-10-21T03:48:58.000Z</updated>
-        <summary type="html"><![CDATA[RS パスで再振り券が貰えたので再振りしたお@@おそらく2カ月に1回のペースでもらえるはず？？なので、テイマーをサマナーにしたお vつか、、、サマナーにしてもエリート悪魔まだまだ現役普通にカンストいく、、、まー、スキル装備だから火力はじゅうぶんにゃbbケルビーの...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
