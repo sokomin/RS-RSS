@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-20T04:06:26.181Z</updated>
+    <updated>2021-11-20T04:17:21.107Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -383,6 +383,16 @@ WIZみたいに多段？攻撃じゃないので
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[新しいサマナー]]></title>
+        <id>http://3rdcat.blog.fc2.com/blog-entry-133.html</id>
+        <link href="http://3rdcat.blog.fc2.com/blog-entry-133.html"/>
+        <updated>2021-11-14T12:49:55.000Z</updated>
+        <summary type="html"><![CDATA[涼しくなってきましたね。普段使っているノートPCの下に敷いていた外付けの冷却ファンを片付けるために外して見たら、クモの巣が張ってありました。フィルターかな？そしてこちらは第三の猫です。新しくなったレッドストーンは、やる事が多いっ！……ので！簡単そうなのからゆっくり片付ける事にしました。まずは、すごいとうわさされている冒険者協会。銀行のアイテムがシュルレアリスムした第三の猫も、ここに通えばやっていけると]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[魔力注入報告書・ハニーレモネード装備２０２１編]]></title>
         <id>http://rinsmile.blog70.fc2.com/blog-entry-1087.html</id>
         <link href="http://rinsmile.blog70.fc2.com/blog-entry-1087.html"/>
@@ -724,6 +734,16 @@ V鯖（ネクロ・リトル）８００Lv
         <summary type="html"><![CDATA[なんかの宗教でしょうか・・・？こんばんは玖三桜苺ことまおみくです！はいきちゃんの引退イベント・・・はいきちゃんの逆文字叫びをちゃんと叫び返せたら商品贈呈ってやつですね！どんなワードが出てくるのかな...]]></summary>
         <author>
             <name>苺桜三玖</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハローブリッジヘッド]]></title>
+        <id>http://3rdcat.blog.fc2.com/blog-entry-132.html</id>
+        <link href="http://3rdcat.blog.fc2.com/blog-entry-132.html"/>
+        <updated>2021-11-11T11:20:14.000Z</updated>
+        <summary type="html"><![CDATA[大変長らくお待たせしました。初見の方は初めまして、第三の猫です。ちょっとログアウトしたら、７年半経過していました。それでは早速ログインしていきましょう。あ～宵（よい）、宵（よい）よ・・・宵（Twilight）鯖どこ？Bridgehead　に合併されたそうですよ。旧サーバー名で言うところの、黒＋陽（緑＋桃）＋宵（水＋紅）だそうです。調べてみたら、統合されたの５年前ですね。黒、陽サーバーの皆様＆ブリッジヘッド生まれの皆]]></summary>
+        <author>
+            <name>第三の猫</name>
         </author>
     </entry>
     <entry>

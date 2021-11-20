@@ -1151,6 +1151,31 @@
       "feedUrl": "http://fatdragoncrowds.blog.fc2.com/?xml",
       "siteUrl": "http://fatdragoncrowds.blog.fc2.com/",
       "articles": []
+    },
+    {
+      "title": "3rdcat",
+      "feedUrl": "http://3rdcat.blog.fc2.com/?xml",
+      "siteUrl": "http://3rdcat.blog.fc2.com/",
+      "articles": [
+        {
+          "id": "http://3rdcat.blog.fc2.com/blog-entry-133.html",
+          "author": "第三の猫",
+          "description": "涼しくなってきましたね。普段使っているノートPCの下に敷いていた外付けの冷却ファンを片付けるために外して見たら、クモの巣が張ってありました。フィルターかな？そしてこちらは第三の猫です。新しくなったレッドストーンは、やる事が多いっ！……ので！簡単そうなのからゆっくり片付ける事にしました。まずは、すごいとうわさされている冒険者協会。銀行のアイテムがシュルレアリスムした第三の猫も、ここに通えばやっていけると",
+          "link": "http://3rdcat.blog.fc2.com/blog-entry-133.html",
+          "publishedOn": "2021-11-14T12:49:55.000Z",
+          "wordCount": null,
+          "title": "新しいサマナー"
+        },
+        {
+          "id": "http://3rdcat.blog.fc2.com/blog-entry-132.html",
+          "author": "第三の猫",
+          "description": "大変長らくお待たせしました。初見の方は初めまして、第三の猫です。ちょっとログアウトしたら、７年半経過していました。それでは早速ログインしていきましょう。あ～宵（よい）、宵（よい）よ・・・宵（Twilight）鯖どこ？Bridgehead　に合併されたそうですよ。旧サーバー名で言うところの、黒＋陽（緑＋桃）＋宵（水＋紅）だそうです。調べてみたら、統合されたの５年前ですね。黒、陽サーバーの皆様＆ブリッジヘッド生まれの皆",
+          "link": "http://3rdcat.blog.fc2.com/blog-entry-132.html",
+          "publishedOn": "2021-11-11T11:20:14.000Z",
+          "wordCount": null,
+          "title": "ハローブリッジヘッド"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.3"
