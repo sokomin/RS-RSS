@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-20T23:04:40.690Z</updated>
+    <updated>2021-11-20T23:26:28.254Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021金鯖突撃！！ part4【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=5jRxnWVcUl8</id>
+        <link href="https://www.youtube.com/watch?v=5jRxnWVcUl8"/>
+        <updated>2021-11-20T23:23:03.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コンプマスにユスピナを入れたのは誰だ？！]]></title>
         <id>http://extremetrailblazer.blog.fc2.com/blog-entry-773.html</id>
