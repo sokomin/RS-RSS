@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-20T15:28:55.507Z</updated>
+    <updated>2021-11-20T15:49:29.758Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1811,16 +1811,6 @@ B鯖とV鯖のプリトルGのGv対戦です(｀･ω･´)ゞ
         <summary type="html"><![CDATA[私は代行をお願いする際は、金額を割と高目に設定しているつもりです。今回は、取引不可の解放改の配布があったようなので、成功250本で叫んでみたところ複数の耳をいただきました。お陰様で、無事↓になりました...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いろはに　ほへい]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=420</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=420"/>
-        <updated>2021-10-22T03:37:49.000Z</updated>
-        <summary type="html"><![CDATA[いっぽ　センキン？？それをいうならいっぷ　センキン？？猫的にはどちでもイイけど、将棋はパソコンで覚えたから言葉がデタラメ、、、みぃたんはデタラメなほうが好きだからイイんだけどさーみぃたん、リアルだと静かよ？？あいさつと質問くらいはするけどジョブ以外のこ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
