@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-20T04:37:10.312Z</updated>
+    <updated>2021-11-20T04:55:16.131Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1802,16 +1802,6 @@ B鯖とV鯖のプリトルGのGv対戦です(｀･ω･´)ゞ
         <summary type="html"><![CDATA[いっぽ　センキン？？それをいうならいっぷ　センキン？？猫的にはどちでもイイけど、将棋はパソコンで覚えたから言葉がデタラメ、、、みぃたんはデタラメなほうが好きだからイイんだけどさーみぃたん、リアルだと静かよ？？あいさつと質問くらいはするけどジョブ以外のこ...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無駄に装備作りをしてみた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202110220000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202110220000/"/>
-        <updated>2021-10-21T16:36:33.000Z</updated>
-        <summary type="html"><![CDATA[前回の↓これに引き続き・・（使い道ねぇ・・ｗ）使う予定は全くないけど、弓を完成させました。見栄えが良いので、使わないんだけどテンションは少し上がったかも知れない。さらに、手をTダメDXにしてみました。...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
