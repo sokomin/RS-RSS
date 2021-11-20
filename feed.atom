@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-20T03:47:21.918Z</updated>
+    <updated>2021-11-20T04:06:26.181Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[光奏師　1250Lv目指して育成 【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=EF06ol_-FOw</id>
+        <link href="https://www.youtube.com/watch?v=EF06ol_-FOw"/>
+        <updated>2021-11-20T03:55:04.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pvp防御45%クレスト？？]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=442</id>
