@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-20T16:07:14.445Z</updated>
+    <updated>2021-11-20T16:44:46.870Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コンプマスにユスピナを入れたのは誰だ？！]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-773.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-773.html"/>
+        <updated>2021-11-20T16:07:07.000Z</updated>
+        <summary type="html"><![CDATA[通常マスでも出るわ！！…うん、第2マップもようやく終わったのですが、コンプマスからのKU☆SOピナ率がひどい。第1、第2ともにほぼKU☆SOピナクリスタルという…頭おかしいんじゃね？！たぶん今回のマップ狙いはレアマスから今となっては価値が怪しいけどいいものを多めに出し、コンプマスで絶望させるってことなんだろう、たぶん。そんな感じだからコンプマスがごみのように捨てられた…まぁGO☆MIピナクリスタルがコンプマスにいる時]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コスチューム強化について]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111200000/</id>
