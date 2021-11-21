@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-21T17:32:29.261Z</updated>
+    <updated>2021-11-21T17:47:39.853Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1928,16 +1928,6 @@ B鯖とV鯖のプリトルGのGv対戦です(｀･ω･´)ゞ
         <summary type="html"><![CDATA[時間をかければレベルは上がるものと、言いたいがプレイヤースキルは磨かないと上がらないまはー、少しずつ経験値　つめてると思うけど、お城ではヤられキャラ、、ウマイひとにヤられてしまうまー、上を目指すならキャラのレベルまだ低いからノビシロはあるが？？？動きか...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代行について]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202110230000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202110230000/"/>
-        <updated>2021-10-23T05:37:44.000Z</updated>
-        <summary type="html"><![CDATA[私は代行をお願いする際は、金額を割と高目に設定しているつもりです。今回は、取引不可の解放改の配布があったようなので、成功250本で叫んでみたところ複数の耳をいただきました。お陰様で、無事↓になりました...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
