@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-21T05:32:37.537Z</updated>
+    <updated>2021-11-21T05:46:38.467Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[猫に小判とはいえ、、、]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=443</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=443"/>
+        <updated>2021-11-21T05:45:43.000Z</updated>
+        <summary type="html"><![CDATA[日々のゼニーは必要にゃ@@ほほほ、なかなかインゴが手に入らない今日この頃、、、まはー、S鯖はT吸収権勢　狙ってるくらいだから、、、300〜400本かな小判モノだから　猫にはきつい；；V鯖だとソウルガード欲しいが！？なかなか、売ってないのよねーいくらくらいか？？B鯖...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知識再振り☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12711473812.html</id>
