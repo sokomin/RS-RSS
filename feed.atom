@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-22T14:25:00.437Z</updated>
+    <updated>2021-11-22T15:05:16.639Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[いつもの状態に戻ったというか…]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-774.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-774.html"/>
+        <updated>2021-11-22T14:40:36.000Z</updated>
+        <summary type="html"><![CDATA[狩りもせずINだけして何もしてない状態一応物理槍は証書をぶち込みまくらないといけないからその分はひたすら回す必要がある。MQ2のほうだって6回目からすでに洗礼を受けている状況だからこっちも回さないといけない。だから狩場としては敵を大量に倒せるとこで止めておきたい。でもこれ育てて何か意味があったのだろうか？と考えるとやる気がまたなくなった。だいたい攻城のせい。勝っても負けても。まぁそんな感じでいつも通りロ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロトボックス☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12711677020.html</id>
