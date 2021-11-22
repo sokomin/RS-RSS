@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-22T21:46:34.105Z</updated>
+    <updated>2021-11-22T22:04:40.409Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2006,15 +2006,6 @@ B鯖とV鯖のプリトルGのGv対戦です(｀･ω･´)ゞ
         <summary type="html"><![CDATA[先日息子の部屋から聞こえてくる音楽がこれでしたどうやらテスト勉強をしていたみたいですとても懐かしかったです当時魔人が落とすレアアイテム目当てに一日中エンカウントを繰り返していたのを思い出しますこれ聞いて勉強って何の教科ですかね・・・こんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[試練のクリスタル欠片出し周回 【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=aSA0b2jvxHI</id>
-        <link href="https://www.youtube.com/watch?v=aSA0b2jvxHI"/>
-        <updated>2021-10-24T10:02:30.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
