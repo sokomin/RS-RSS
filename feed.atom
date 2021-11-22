@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-22T00:21:30.892Z</updated>
+    <updated>2021-11-22T01:33:48.704Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1918,16 +1918,6 @@ B鯖とV鯖のプリトルGのGv対戦です(｀･ω･´)ゞ
         <updated>2021-10-24T10:02:30.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レベルアップしても中身がな]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=421</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=421"/>
-        <updated>2021-10-23T13:00:53.000Z</updated>
-        <summary type="html"><![CDATA[時間をかければレベルは上がるものと、言いたいがプレイヤースキルは磨かないと上がらないまはー、少しずつ経験値　つめてると思うけど、お城ではヤられキャラ、、ウマイひとにヤられてしまうまー、上を目指すならキャラのレベルまだ低いからノビシロはあるが？？？動きか...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
