@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-22T15:52:40.079Z</updated>
+    <updated>2021-11-22T16:07:31.316Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[勇気を出して・・・！]]></title>
+        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202111230000/</id>
+        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202111230000/"/>
+        <updated>2021-11-22T15:53:53.000Z</updated>
+        <summary type="html"><![CDATA[想いは伝えなきゃ始まらないですね！！こんばんは、みくさんですTwitterの方ではやり取りなどさせて頂いてるのですが、RS内ではこれが初めての会話・・・！ｗノリがよくいつも自分の暴走に付き合って頂いて本当に...]]></summary>
+        <author>
+            <name>苺桜三玖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いつもの状態に戻ったというか…]]></title>
         <id>http://extremetrailblazer.blog.fc2.com/blog-entry-774.html</id>
