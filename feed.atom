@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-23T15:34:19.144Z</updated>
+    <updated>2021-11-23T15:43:41.960Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1885,16 +1885,6 @@ WIZの１０００も目と鼻の先にみえてきました＾＾
         <summary type="html"><![CDATA[こんばんは～というわけで、昨日は姫Gイベント【ハロウィンぷりぷり大戦】お疲れさまでした～楽しかったですね＾＾とりあえずやってみよう的な感じもあったので、ちょっと物足りない部分もありましたがまあ、成功でしょう★★★　★★★　★★★予約は【ソゴム山脈/赤い丘】に21時28分入れました・・・？いっつも思うんだけど、この予約票の時間？なんでこんなに中途半端な時間なのでしょう？今回お相手は、Vｻﾊﾞの姫G【Dear_my_Princess】さ]]></summary>
         <author>
             <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S鯖　着々と、、、]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=423</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=423"/>
-        <updated>2021-10-25T03:40:00.000Z</updated>
-        <summary type="html"><![CDATA[レポクエ頑張って　Lv900目指してまふだいたいのキャラ　Lv 800超えてきた v装備がそろってない感もあるが？？まはー、リトルバイリトル　少しずつbメインクエしないとなー@@S鯖のプリトル　メモ猫ノみぃ　ランダム覚醒　物理王家猫みぃ　アイドル覚醒　物理&知識暴走...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
