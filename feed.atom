@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-23T08:48:52.285Z</updated>
+    <updated>2021-11-23T09:28:47.032Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】目指せ！高耐久武道家の今後]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-868.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-868.html"/>
+        <updated>2021-11-23T08:56:54.000Z</updated>
+        <summary type="html"><![CDATA[セレディス師匠とFIRIE先生に助言をいただき、今後の目指すべき姿が少しみえた。結論から書くと以下。「クリーチャーを厳選できない現環境だと色々無理ゲーだから、程々で遊ぶ。」分かっていたさ・・・分かっていたが、改めて知らされると切ない。また、自分の知識が色々中途半端で不完全だとも思い知らされた。・人間型ダメージ抵抗とPVP防御どっちも同じ様なもんじゃね？とざっくり考えていたが、違うものらしい。人間型ダメージ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[勇気を出して・・・！]]></title>
         <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202111230000/</id>
