@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-23T15:05:08.666Z</updated>
+    <updated>2021-11-23T15:34:19.144Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1893,16 +1893,6 @@ WIZの１０００も目と鼻の先にみえてきました＾＾
         <link href="http://rs.bigcat31.floppy.jp/?eid=423"/>
         <updated>2021-10-25T03:40:00.000Z</updated>
         <summary type="html"><![CDATA[レポクエ頑張って　Lv900目指してまふだいたいのキャラ　Lv 800超えてきた v装備がそろってない感もあるが？？まはー、リトルバイリトル　少しずつbメインクエしないとなー@@S鯖のプリトル　メモ猫ノみぃ　ランダム覚醒　物理王家猫みぃ　アイドル覚醒　物理&知識暴走...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヘクトル無敵化解除できず、、]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=422</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=422"/>
-        <updated>2021-10-25T03:20:02.000Z</updated>
-        <summary type="html"><![CDATA[2回失敗しましたー；；最後の秘密でヘクトルが無敵化する前にフラスコに鍋からお薬とると無敵化解除できなくなる気がする、、あと、青い花とりにいくときの狼、物理だと回避補正無視ないと攻撃がほとんど当たらない、、、まはー、経験値ウマウマだしヘクトル指も優秀だし...]]></summary>
         <author>
             <name>猫ノみぃ</name>
         </author>
