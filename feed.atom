@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-23T03:05:39.738Z</updated>
+    <updated>2021-11-23T03:28:11.213Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1987,15 +1987,6 @@ B鯖とV鯖のプリトルGのGv対戦です(｀･ω･´)ゞ
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初見プレイ【PC Building Simulator】PC自作シムでPC作るぞ その２]]></title>
-        <id>https://www.youtube.com/watch?v=5IyPnj0mN0A</id>
-        <link href="https://www.youtube.com/watch?v=5IyPnj0mN0A"/>
-        <updated>2021-10-24T15:09:27.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
