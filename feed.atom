@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-23T14:46:39.336Z</updated>
+    <updated>2021-11-23T15:05:08.666Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】意外と知らないこと]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-869.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-869.html"/>
+        <updated>2021-11-23T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[RSを17年ぐらいやってるけど、意外と知らないことがある。今日もそんなことを発見したので備忘録的にブログに書いておく。そんなの常識！って人は、やさしくスルーしてほしい。今日見つけたのがコレ。メインクエ１の天上界報酬「スキルポイント」。スキルポイントの文字にカーソルを合わせると表示される。超越スキルの登場で、以前より格段に重要度が増したスキルポイント。天上界に１回行くだけで1000ポイントもらえるので、最近]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】目指せ！高耐久武道家の今後]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-868.html</id>
