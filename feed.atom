@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-23T07:46:47.959Z</updated>
+    <updated>2021-11-23T08:07:27.263Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1885,16 +1885,6 @@ WIZの１０００も目と鼻の先にみえてきました＾＾
         <summary type="html"><![CDATA[2回失敗しましたー；；最後の秘密でヘクトルが無敵化する前にフラスコに鍋からお薬とると無敵化解除できなくなる気がする、、あと、青い花とりにいくときの狼、物理だと回避補正無視ないと攻撃がほとんど当たらない、、、まはー、経験値ウマウマだしヘクトル指も優秀だし...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【OBS Studio】ゲーム配信・録画をやってみたい人向けの情報まとめ]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202110190000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202110190000/"/>
-        <updated>2021-10-24T19:47:59.000Z</updated>
-        <summary type="html"><![CDATA[ゲームを遊んでいると「配信したい！録画したい！」って時は多々あると思います。Win10であればWindows＋GキーでXBoxの機能を使って画面録画もできるのですが、全てのゲームに対応しているとは限らないのが現状。...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
