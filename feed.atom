@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-23T03:47:21.819Z</updated>
+    <updated>2021-11-23T04:07:31.058Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1895,98 +1895,6 @@ WIZの１０００も目と鼻の先にみえてきました＾＾
         <summary type="html"><![CDATA[ゲームを遊んでいると「配信したい！録画したい！」って時は多々あると思います。Win10であればWindows＋GキーでXBoxの機能を使って画面録画もできるのですが、全てのゲームに対応しているとは限らないのが現状。...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】久々のリトル育成　その１０くらい！]]></title>
-        <id>https://www.youtube.com/watch?v=rel9rNY7QHE</id>
-        <link href="https://www.youtube.com/watch?v=rel9rNY7QHE"/>
-        <updated>2021-10-24T15:53:49.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぷりぷり対戦☆]]></title>
-        <id>https://ameblo.jp/sakuyuno0822/entry-12705950865.html</id>
-        <link href="https://ameblo.jp/sakuyuno0822/entry-12705950865.html"/>
-        <updated>2021-10-24T15:48:56.000Z</updated>
-        <summary type="html"><![CDATA[こんばんちゃお(*^_^*)
- 
- 
-さて今回はまちにまった・・・！！
-あの日がきました！！
- 
-それは・・・
- 
- 
- 
- 
-ハロウィンぷりぷり対戦！！
- 
- 
-そうです
-B鯖とV鯖のプリトルGのGv対戦です(｀･ω･´)ゞ
- 
- 
- 
-
- 
-ちなみにこちらはアリーナでの対戦となっています。
- 
-参加する姫たちは・・・。
- 
- 
- 
-
- 
-ちょうど８名！！
-１PTできましたね。
- 
-開始そうそうドミノです
- 
- 
- 
-
- 
-マイプリのMの字！！
-うまくできましたね＾＾
- 
-それでは試合開始のあいず！！
- 
- 
- 
-どんどん倒し倒されて行く・・・
- 
-結果
- 
- 
- 
-
- 
-相手４人ぐらいしかいなかったのにこの点差はすごい・・・！！
- 
-やぁ強かったですね～～～。
- 
- 
-でも勝てたよ(^_-)-☆
- 
- 
-たまには鯖を超えた決闘もたのしいですね☆
- 
- 
-対戦ありもこでした＾＾
- 
- 
- 
-では
-またみてね
- 
- 
- 
-ばいば～い・ω・ﾉｼ]]></summary>
-        <author>
-            <name>もこもこの時たま日常レッドストーン</name>
         </author>
     </entry>
 </feed>
