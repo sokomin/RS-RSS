@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-24T03:06:22.877Z</updated>
+    <updated>2021-11-24T03:28:10.981Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1866,15 +1866,6 @@ WIZの１０００も目と鼻の先にみえてきました＾＾
         <summary type="html"><![CDATA[ぷりたんに煽られたのでそのまま勢いで更新です！ｗこんばんは、苺桜の三玖さんですそんなぷりたんのブログ更新もたのしみにしてるんだけどな・。・ネタがないいいいいいいいとかなんとか思ってましたがなんかｓ...]]></summary>
         <author>
             <name>苺桜三玖</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#１]]></title>
-        <id>https://www.youtube.com/watch?v=N30Mlu4AdoA</id>
-        <link href="https://www.youtube.com/watch?v=N30Mlu4AdoA"/>
-        <updated>2021-10-25T15:07:55.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
