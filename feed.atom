@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-24T05:46:30.520Z</updated>
+    <updated>2021-11-24T06:07:14.852Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1208.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1208.html"/>
+        <updated>2021-11-24T06:03:30.000Z</updated>
+        <summary type="html"><![CDATA[★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★SPecial DreamRoulette基本はいつものドリームルーレットですね。違う点が、ルーレットで貯めたコインを1500枚以上アイテムと交換すれば1000サービスポイントがもらえるようです。1500枚以上交換した人全員がもらえるようなのでとりあえず1500枚目指してみるのもいいかもですね。★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ネフォンクリーチャーミッションイベント]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[楽しんでまツか？？]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=445</id>
