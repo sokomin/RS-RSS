@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-23T23:46:29.684Z</updated>
+    <updated>2021-11-24T00:20:49.633Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1875,16 +1875,6 @@ WIZの１０００も目と鼻の先にみえてきました＾＾
         <updated>2021-10-25T15:07:55.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハロウィンぷりぷり大戦 【 姫G ｖｓ 姫G 】]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1085.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1085.html"/>
-        <updated>2021-10-25T12:14:18.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは～というわけで、昨日は姫Gイベント【ハロウィンぷりぷり大戦】お疲れさまでした～楽しかったですね＾＾とりあえずやってみよう的な感じもあったので、ちょっと物足りない部分もありましたがまあ、成功でしょう★★★　★★★　★★★予約は【ソゴム山脈/赤い丘】に21時28分入れました・・・？いっつも思うんだけど、この予約票の時間？なんでこんなに中途半端な時間なのでしょう？今回お相手は、Vｻﾊﾞの姫G【Dear_my_Princess】さ]]></summary>
-        <author>
-            <name>リン・ドール</name>
         </author>
     </entry>
 </feed>
