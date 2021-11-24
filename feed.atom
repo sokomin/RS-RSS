@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-24T03:28:10.981Z</updated>
+    <updated>2021-11-24T03:38:52.547Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[楽しんでまツか？？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=445</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=445"/>
+        <updated>2021-11-24T03:28:55.000Z</updated>
+        <summary type="html"><![CDATA[はにゃーん、昨日は　のんびりゴロゴロゲームとか、オシゴトは楽しんで　なんボ楽って、人が集まってくる魅力なんだってへーーートップはモーね、、、ハルカかなたの領域だからねｶﾞﾝﾊﾞﾗﾅｲをｶﾞﾝﾊﾞﾙよーはね、マイペースで、ぐーbb最近、チャットがカオスにならんのはオサエ...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】意外と知らないこと]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-869.html</id>
