@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-25T11:04:08.384Z</updated>
+    <updated>2021-11-25T11:24:09.939Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[悪魔Lv９００到達]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=447</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=447"/>
+        <updated>2021-11-25T11:10:42.000Z</updated>
+        <summary type="html"><![CDATA[いやは〜　燃費の悪い。。
+
+悪魔たんもLv９００の壁突破☆
+
+ 
+
+武器はコダワリ？？のロウバストNx2解放
+
+速度は微妙だが・・
+
+まー付け替えるのもメンドイシ
+
+いいでしょいいでしょ
+
+ 
+
+HPがまだまだ低め・・・といいつつ・・・
+
+健康指集めれ...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鏡の雑学]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=446</id>
