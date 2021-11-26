@@ -471,6 +471,15 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202111260000/",
+          "author": "雷神の弓",
+          "description": "現在のかせ糸の状況単価４本でこれだけ買えました。売っていただいた皆さん、ありがとうございました。300個集まったら強化に着手しようかなと前回の記事に書きましたが、300個ではおそらく完成しないと思うので...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202111260000/",
+          "publishedOn": "2021-11-26T14:57:27.000Z",
+          "wordCount": 83,
+          "title": "そろそろコスチューム強化やろうかな？"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202111200000/",
           "author": "雷神の弓",
           "description": "私は無課金プレイヤーなのですが、コスチュームを強化して+10にしたいと考えています。+10にするのに大体３万円くらい掛かると聞くのですが、1500円のコスチューム20個分ってことは・・かせ糸520個必要ってことに...",
@@ -1120,15 +1129,6 @@
           "publishedOn": "2021-10-29T03:45:59.000Z",
           "wordCount": 161,
           "title": "猫には猫の時間がアル"
-        },
-        {
-          "id": "http://rs.bigcat31.floppy.jp/?eid=424",
-          "author": "猫ノみぃ",
-          "description": "天上の報酬が良くなったね！1回でHP 100%は魅力的☆1キャラ1回ずつは、やりたいが？？全キャラやるのはメンドーbつか、マイナス100%のは、、、1回鏡報酬行かせるべきかね？？不具合が今　多いからなー、、、急がず、チャットで騒いで　行きましょう",
-          "link": "http://rs.bigcat31.floppy.jp/?eid=424",
-          "publishedOn": "2021-10-28T03:10:10.000Z",
-          "wordCount": 161,
-          "title": "メインクエ変わったし？？"
         }
       ]
     },

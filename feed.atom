@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-26T14:33:39.680Z</updated>
+    <updated>2021-11-26T15:43:21.694Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[そろそろコスチューム強化やろうかな？]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111260000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202111260000/"/>
+        <updated>2021-11-26T14:57:27.000Z</updated>
+        <summary type="html"><![CDATA[現在のかせ糸の状況単価４本でこれだけ買えました。売っていただいた皆さん、ありがとうございました。300個集まったら強化に着手しようかなと前回の記事に書きましたが、300個ではおそらく完成しないと思うので...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デフレゲーム☆]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=450</id>
@@ -2714,16 +2724,6 @@ WIZの１０００も目と鼻の先にみえてきました＾＾
 という事で、今日からは「更新出来る日毎日更新」という目標に変えます]]></summary>
         <author>
             <name>レッドストーンというゲームを楽しむパパ奮闘記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メインクエ変わったし？？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=424</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=424"/>
-        <updated>2021-10-28T03:10:10.000Z</updated>
-        <summary type="html"><![CDATA[天上の報酬が良くなったね！1回でHP 100%は魅力的☆1キャラ1回ずつは、やりたいが？？全キャラやるのはメンドーbつか、マイナス100%のは、、、1回鏡報酬行かせるべきかね？？不具合が今　多いからなー、、、急がず、チャットで騒いで　行きましょう]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
