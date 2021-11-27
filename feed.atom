@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-27T04:06:28.693Z</updated>
+    <updated>2021-11-27T04:36:24.775Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[復帰者称号も取れて、ようやく現役を名乗れるようになりました。第三の猫です。Lv600未満は初心者という時代の流れに、脳の震えが止まりません。それはさておき、今回はコメントでリクエストのあった、復帰者クエストについて紹介します。まずはこちらをご覧ください。画面右上のガイドから開く「レベル別お勧めコンテンツ」の横。かんたん。お得。適当にやってもクリアできるので脳にやさしい。復帰者クエストです。（※復帰者称号]]></summary>
         <author>
             <name>第三の猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[静寂の砂丘 - 月の谷&静寂の砂丘 - 星の谷狩場レポート]]></title>
+        <id>https://rs-clair-de-lune.com/2021-11-27/</id>
+        <link href="https://rs-clair-de-lune.com/2021-11-27/"/>
+        <updated>2021-11-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[早や年の瀬が近づいて来ましたね。あっという間に紅葉の時期も終わりが近づいてきたと何となしにノスタルジーを感じてふわふわとした日々。 と、1か月更新していないことに気が付きました。年の瀬効果は凄い！ 備忘録としてTwitter…]]></summary>
+        <author>
+            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
     <entry>
