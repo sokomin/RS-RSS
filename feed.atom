@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-27T03:28:03.529Z</updated>
+    <updated>2021-11-27T03:38:36.849Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[うわー、なんか、もーね？！]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=451</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=451"/>
+        <updated>2021-11-27T03:36:09.000Z</updated>
+        <summary type="html"><![CDATA[んむ、世界はチャンスであふれてるが同時にリスクもたっぷりあふれてる株安に、原油高に、円高にお金を儲けたいなら、チャンスだけどんー？？明日は明日の風が吹く、だからね未来のことなどワカランとはいえ、予想は出来る占いで（オイオイまー、予想とかだけどソーダね、...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[復帰者と原作ケルベロス]]></title>
         <id>http://3rdcat.blog.fc2.com/blog-entry-135.html</id>
