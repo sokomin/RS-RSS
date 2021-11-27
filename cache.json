@@ -47,17 +47,7 @@
       "title": "KHBの部屋",
       "feedUrl": "https://khbsroom.com/index.xml",
       "siteUrl": "http://www.zephyr.dti.ne.jp/hiroll/",
-      "articles": [
-        {
-          "id": "https://khbsroom.com/",
-          "author": null,
-          "description": "１０／２７（水）に実装された連鎖クエスト「港町の騒ぎ」（Lv９００～、報酬経験値５２５億）の概要と簡易攻略チャートを作成しました。",
-          "link": "https://khbsroom.com/",
-          "publishedOn": "2021-10-28T13:45:00.000Z",
-          "wordCount": 719,
-          "title": "連鎖クエスト「港町の騒ぎ」の概要と簡易攻略チャート作成"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "リヤンのペット図鑑+だらだら戯言日記 in RS",
@@ -275,15 +265,6 @@
           "publishedOn": "2021-11-14T09:49:14.000Z",
           "wordCount": 547,
           "title": "魔力注入報告書・ハニーレモネード装備２０２１編"
-        },
-        {
-          "id": "http://rinsmile.blog70.fc2.com/blog-entry-1086.html",
-          "author": "リン・ドール",
-          "description": "※備忘録と思ってください。別にこれがおすすめとかいうわけじゃないですよｗ唐突ですが、遺物の完成度が９０％を超えたので（ハニー調べ）装備の記事にしてみる◆◆◆　遺物（イヤリング）　◆◆◆やっとオプションなどが望みどおりになった。欲を言えば、あと最大HPの値がもう少しあればと思うが９０％超えてるのでとりあえずここで中断（また、異界の清水がたまれば最高値を目指してみる）かなり長期に育ててきたので、そもそもこの部",
-          "link": "http://rinsmile.blog70.fc2.com/blog-entry-1086.html",
-          "publishedOn": "2021-10-28T14:47:06.000Z",
-          "wordCount": 549,
-          "title": "遺物満足度調査報告書・ハニーレモネード装備２０２１編"
         }
       ]
     },
@@ -367,15 +348,6 @@
           "publishedOn": "2021-11-20T03:55:04.000Z",
           "wordCount": null,
           "title": "光奏師　1250Lv目指して育成 【 REDSTONE 】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p6SOECasto0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p6SOECasto0",
-          "publishedOn": "2021-10-28T14:33:57.000Z",
-          "wordCount": null,
-          "title": "【 雀魂 】鷲巣麻雀が打てると聞いて"
         }
       ]
     },

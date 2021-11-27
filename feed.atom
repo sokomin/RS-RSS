@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-27T01:30:40.586Z</updated>
+    <updated>2021-11-27T02:47:49.175Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2725,35 +2725,6 @@ WIZの１０００も目と鼻の先にみえてきました＾＾
         <summary type="html"><![CDATA[・ディメンションから任意に脱出出来る様にして欲しい。キャラ勘違いしてディメンションに入り、裸や武器無しで狩れず、30分後の崩壊を待つしかないときの切なさたるや・・。おそらく、出入り自由にすると、カケラ出し目的でクリア寸前で脱出し、再入場を繰り返す人が出てくるからと想像するが、進捗をリセットしなければよいんじゃない？と思ってしまう。他に何か理由があるんだろうか？とにかく不便なので改善して欲しい。ちなみ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遺物満足度調査報告書・ハニーレモネード装備２０２１編]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1086.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1086.html"/>
-        <updated>2021-10-28T14:47:06.000Z</updated>
-        <summary type="html"><![CDATA[※備忘録と思ってください。別にこれがおすすめとかいうわけじゃないですよｗ唐突ですが、遺物の完成度が９０％を超えたので（ハニー調べ）装備の記事にしてみる◆◆◆　遺物（イヤリング）　◆◆◆やっとオプションなどが望みどおりになった。欲を言えば、あと最大HPの値がもう少しあればと思うが９０％超えてるのでとりあえずここで中断（また、異界の清水がたまれば最高値を目指してみる）かなり長期に育ててきたので、そもそもこの部]]></summary>
-        <author>
-            <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 雀魂 】鷲巣麻雀が打てると聞いて]]></title>
-        <id>https://www.youtube.com/watch?v=p6SOECasto0</id>
-        <link href="https://www.youtube.com/watch?v=p6SOECasto0"/>
-        <updated>2021-10-28T14:33:57.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[連鎖クエスト「港町の騒ぎ」の概要と簡易攻略チャート作成]]></title>
-        <id>https://khbsroom.com/</id>
-        <link href="https://khbsroom.com/"/>
-        <updated>2021-10-28T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[１０／２７（水）に実装された連鎖クエスト「港町の騒ぎ」（Lv９００～、報酬経験値５２５億）の概要と簡易攻略チャートを作成しました。]]></summary>
-        <author>
-            <name>KHBの部屋</name>
         </author>
     </entry>
 </feed>
