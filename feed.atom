@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-27T00:19:17.607Z</updated>
+    <updated>2021-11-27T01:30:40.586Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[復帰者と原作ケルベロス]]></title>
+        <id>http://3rdcat.blog.fc2.com/blog-entry-135.html</id>
+        <link href="http://3rdcat.blog.fc2.com/blog-entry-135.html"/>
+        <updated>2021-11-27T00:52:59.000Z</updated>
+        <summary type="html"><![CDATA[復帰者称号も取れて、ようやく現役を名乗れるようになりました。第三の猫です。Lv600未満は初心者という時代の流れに、脳の震えが止まりません。それはさておき、今回はコメントでリクエストのあった、復帰者クエストについて紹介します。まずはこちらをご覧ください。画面右上のガイドから開く「レベル別お勧めコンテンツ」の横。かんたん。お得。適当にやってもクリアできるので脳にやさしい。復帰者クエストです。（※復帰者称号]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11月27日　月の谷（LV1100~）]]></title>
         <id>https://ameblo.jp/vsabarahune/entry-12712483833.html</id>
