@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-27T15:04:13.265Z</updated>
+    <updated>2021-11-27T15:29:22.853Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2808,16 +2808,6 @@ WIZの１０００も目と鼻の先にみえてきました＾＾
         <summary type="html"><![CDATA[猫の時間を、人の尺度で計っちゃだめにゃのんびりしてるように見えてもヤるときはヤる！そういうものさー？？眠いときムダに頑張ってもミスするだけ@@そういうときこそ、猫の時間に入るのだbパワーチャージ、リフレッシュ、マインドフルネス、いろいろ言葉はあるが、休ん...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】改善希望]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-865.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-865.html"/>
-        <updated>2021-10-29T03:23:49.000Z</updated>
-        <summary type="html"><![CDATA[・ディメンションから任意に脱出出来る様にして欲しい。キャラ勘違いしてディメンションに入り、裸や武器無しで狩れず、30分後の崩壊を待つしかないときの切なさたるや・・。おそらく、出入り自由にすると、カケラ出し目的でクリア寸前で脱出し、再入場を繰り返す人が出てくるからと想像するが、進捗をリセットしなければよいんじゃない？と思ってしまう。他に何か理由があるんだろうか？とにかく不便なので改善して欲しい。ちなみ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
