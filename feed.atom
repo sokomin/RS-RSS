@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-28T00:49:27.097Z</updated>
+    <updated>2021-11-28T01:44:44.703Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】大福進捗と秋風落葉]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-870.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-870.html"/>
+        <updated>2021-11-28T01:36:26.000Z</updated>
+        <summary type="html"><![CDATA[ダラダラとイベントとディメンションをこなす日々。大福は何とか目標の物をゲット。狩り頑張らなくても集まったので、前回に比べて良心的だったのかも。そういえば、いつもの討伐で、こんなものをゲットした。「秋風が吹いて葉が落ちて人を悲しませる。」という感じの意解がネットにあった。剣士でGv全盛の頃、この片手剣でGvに出たかったが、フレームが遅くて悩んだりしたのが懐かしい・・・思えば、あの頃が一番REDSTONEが楽しか]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11月28日　ブログのヘッダー]]></title>
         <id>https://ameblo.jp/vsabarahune/entry-12712665893.html</id>
