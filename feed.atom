@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-28T14:24:01.702Z</updated>
+    <updated>2021-11-28T15:04:57.605Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【LOSK ARK】閑散期]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-871.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-871.html"/>
+        <updated>2021-11-28T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[LOST ARK(以降、LA)は今、閑散期にある。何それ？って思う方もいるだろうが、要は大型アプデ直前の状態で人が少ない時期というわけだ。12月の大型アップデートは、新大陸「ベルン南部」と「軍団長レイド　ヴァルタン」が実装される。特に、軍団長レイドは韓国でも好評だったらしく、動画も迫力ある戦闘シーンの連続でかなり胸熱。自身のメインキャラで早く倒したくてウズウズしている人も多いだろう。待ち遠しすぎる・・・話がアッ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現地エリアボスに通う]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-723.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-723.html"/>
+        <updated>2021-11-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近子供たちの学校では朝読書の時間って言うものがあるそうですね息子はブラックホールのなんちゃらみたいな本を持っていって読んでいました私はこれを思い出しました六丸さんの動画には私も共感できる事も多く良く拝見しておりますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[２匹のケルビー]]></title>
         <id>http://3rdcat.blog.fc2.com/blog-entry-136.html</id>
