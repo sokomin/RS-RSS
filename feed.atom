@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-28T09:46:36.614Z</updated>
+    <updated>2021-11-28T10:40:40.641Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[２匹のケルビー]]></title>
+        <id>http://3rdcat.blog.fc2.com/blog-entry-136.html</id>
+        <link href="http://3rdcat.blog.fc2.com/blog-entry-136.html"/>
+        <updated>2021-11-28T10:34:04.000Z</updated>
+        <summary type="html"><![CDATA[その日ミズナは思い出した。かつて巣の平和を脅かしに来たビーストテイマー／サマナーがいたことを。７年半来なかったからといって、今日来ない保証はどこにもなかったのです。そう、現れたのは、第三の猫です。ごきげんよう。適正レベルになったので、ミズナたんにリベンジに来ました。のですが、秒で倒してしまったのです。。しばし呆然としながら辺りをうろついていると、リトルミズナを発見。ミニマップでは道が開いているので]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猫による成功法則]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=452</id>
