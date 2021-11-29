@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-29T12:08:53.369Z</updated>
+    <updated>2021-11-29T14:34:12.871Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[歩くんだよ？！]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-777.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-777.html"/>
+        <updated>2021-11-29T13:26:56.000Z</updated>
+        <summary type="html"><![CDATA[あ、RS関係ない話題なので追記に入れます。別ゲー兼リアルのことなので…。]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[堕ちた翼はダレのモノ？]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=453</id>
@@ -2746,16 +2756,6 @@ V鯖のﾘﾄﾙであけようとしたんだ・・・
         <summary type="html"><![CDATA[先日息子がやっているスマホゲームにコラボイベントが来ていましたどんなコラボか聞いたらJRAとコラボとの事ですこんな感じだそうです色々つっこみどころが多いゲームなのですが金と労力の使い所が流石だなぁと思わされましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[はっぴーはろうぃん！]]></title>
-        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202110310000/</id>
-        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202110310000/"/>
-        <updated>2021-10-31T00:46:56.000Z</updated>
-        <summary type="html"><![CDATA[お菓子くれなきゃ悪戯するぞ！！悪戯されたいのでお菓子は渡さない派の三玖さんです、おはようございます朝起きたらPC自動更新で落ちてたので更新です☆彡コロナもだいぶ落ち着いてきましたがまだまだ油断ならない...]]></summary>
-        <author>
-            <name>苺桜三玖</name>
         </author>
     </entry>
 </feed>

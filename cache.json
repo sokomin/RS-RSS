@@ -299,15 +299,6 @@
           "publishedOn": "2021-11-11T15:30:15.000Z",
           "wordCount": 151,
           "title": "お別れと新装備とそしてまた出会いと"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/maomiku4649/diary/202110310000/",
-          "author": "苺桜三玖",
-          "description": "お菓子くれなきゃ悪戯するぞ！！悪戯されたいのでお菓子は渡さない派の三玖さんです、おはようございます朝起きたらPC自動更新で落ちてたので更新です☆彡コロナもだいぶ落ち着いてきましたがまだまだ油断ならない...",
-          "link": "https://plaza.rakuten.co.jp/maomiku4649/diary/202110310000/",
-          "publishedOn": "2021-10-31T00:46:56.000Z",
-          "wordCount": 128,
-          "title": "はっぴーはろうぃん！"
         }
       ]
     },
@@ -676,6 +667,15 @@
       "feedUrl": "http://extremetrailblazer.blog.fc2.com/?xml",
       "siteUrl": "http://extremetrailblazer.blog.fc2.com/",
       "articles": [
+        {
+          "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-777.html",
+          "author": "Trailblazer",
+          "description": "あ、RS関係ない話題なので追記に入れます。別ゲー兼リアルのことなので…。",
+          "link": "http://extremetrailblazer.blog.fc2.com/blog-entry-777.html",
+          "publishedOn": "2021-11-29T13:26:56.000Z",
+          "wordCount": null,
+          "title": "歩くんだよ？！"
+        },
         {
           "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-776.html",
           "author": "Trailblazer",
