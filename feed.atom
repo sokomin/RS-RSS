@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-29T11:31:58.715Z</updated>
+    <updated>2021-11-29T12:08:53.369Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2756,16 +2756,6 @@ V鯖のﾘﾄﾙであけようとしたんだ・・・
         <summary type="html"><![CDATA[お菓子くれなきゃ悪戯するぞ！！悪戯されたいのでお菓子は渡さない派の三玖さんです、おはようございます朝起きたらPC自動更新で落ちてたので更新です☆彡コロナもだいぶ落ち着いてきましたがまだまだ油断ならない...]]></summary>
         <author>
             <name>苺桜三玖</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長男Lv1100達成！]]></title>
-        <id>https://rs-clair-de-lune.com/2021-10-31/</id>
-        <link href="https://rs-clair-de-lune.com/2021-10-31/"/>
-        <updated>2021-10-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
 </feed>
