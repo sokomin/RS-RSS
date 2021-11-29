@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-29T01:33:36.209Z</updated>
+    <updated>2021-11-29T03:06:28.105Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2833,26 +2833,6 @@ WIZの１０００も目と鼻の先にみえてきました＾＾
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NPC称号のシュルトが売っていたので]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202110300000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202110300000/"/>
-        <updated>2021-10-30T15:01:58.000Z</updated>
-        <summary type="html"><![CDATA[ついつい衝動買いしてしまいました。※対人戦に参加する予定はないのですが、装備のコレクションをして楽しむスタイルです！しかし、このシュルトをどの鎧に貼り付けるべきか少し迷いが生じています。以前なら、シ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTubeなどから動画のダウンロードや音声の抽出を行う方法【youtube-dl】]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202110120000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202110120000/"/>
-        <updated>2021-10-30T13:59:24.000Z</updated>
-        <summary type="html"><![CDATA[期間限定の動画などで、YouTubeなどの動画共有サービスから動画のダウンロードや音声の抽出を行いたい！というケースはたまにあります。そんな時に便利なのがyoutube-dl1000以上のサイトに対応しているので、Yout...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
