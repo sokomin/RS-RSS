@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-30T02:46:32.895Z</updated>
+    <updated>2021-11-30T04:04:52.544Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ランディス足を買ってみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111300000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202111300000/"/>
+        <updated>2021-11-30T03:30:33.000Z</updated>
+        <summary type="html"><![CDATA[何となく気になっていた足を購入してみました。購入時の状態は、製錬5、BFOPなし、純粋1段階でした。自分は狩りも対人も足には純粋を付けているので、魔力注入はしなくてOKですね。BFOPは、混沌通いのおかげで強...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クリスクラッチはイツカラ？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=454</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=454"/>
+        <updated>2021-11-30T03:18:37.000Z</updated>
+        <summary type="html"><![CDATA[明日、メンテだからクリスマススクラッチ始まる？？ワカランノー、、、お小遣いほしいからスクラッチしたいがんー？？まーね、マネー　いず　ノット　ハッピーお金をつかえばハッピーとはかぎらんからねまはー、お金はモノを買うチャンスでありシアワセを買うチャンスでは...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11/1~30☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12713026986.html</id>
@@ -2718,96 +2738,6 @@ V鯖のﾘﾄﾙであけようとしたんだ・・・
         <summary type="html"><![CDATA[↓↓うーん・・Wロシペル健比金襴とかWロシペル+ランディス金襴を露店で見たことがあるから、ロシペルは２箇所まで貼り付けられると思ったんだけど、なんでやね～ん＾＾；もしかして、これのせい？先週のアップデー...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同時刻は無理☆]]></title>
-        <id>https://ameblo.jp/sakuyuno0822/entry-12707165578.html</id>
-        <link href="https://ameblo.jp/sakuyuno0822/entry-12707165578.html"/>
-        <updated>2021-10-31T15:16:13.000Z</updated>
-        <summary type="html"><![CDATA[こんばんちゃお(*^_^*)
- 
- 
-さて久々すぎる攻城な気がします。
-多分２周間ぐらいでてなかったかも
-３Gに入ってて全部でてなかった。
- 
- 
-まぁ相手が棄権とかだったのでね
- 
-しかたないよね・・・
- 
- 
-ってことで今回は２３時台・・・
- 
- 
-ぇ・・・ぇ？！
- 
- 
- 
-っと３G全部が２３時台でめっちゃなやんだのですが
- 
- 
-ｲﾛｲﾛ支援してくださっているのもあり～～の
- 
- 
- 
-天心ででました(´・ω・｀)
- 
-開始早々死ぬもこもこ。
- 
- 
-そして全ﾁｬで何故か
- 
- 
- 
-
- 
-まさかのお茶会に・・・
- 
-そして死にながらお茶会に参加しつつ
-ちゃっかり席料とられてた？
- 
- 
-しかも４０分こーすって・・・
- 
-風俗かな（）
- 
-こういう絡みでの攻城もたのしかったです♪
- 
- 
-まぁ結果は１０分で・・・
- 
- 
- 
-
- 
- 
-守れましたヽ(ﾟ∀ﾟ)ﾉ ﾊﾟｯ☆
- 
- 
-対戦ありもこでした＾＾
- 
- 
-つぎこそは攻めたいですね。
- 
-では
-またみてね
- 
- 
-ばいば～い・ω・ﾉｼ]]></summary>
-        <author>
-            <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10月27日アップデート　【お月見、ﾒｲﾝｸｴｽﾄ関連、新狩場等】]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-719.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-719.html"/>
-        <updated>2021-10-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日息子がやっているスマホゲームにコラボイベントが来ていましたどんなコラボか聞いたらJRAとコラボとの事ですこんな感じだそうです色々つっこみどころが多いゲームなのですが金と労力の使い所が流石だなぁと思わされましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
