@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-30T13:21:52.639Z</updated>
+    <updated>2021-11-30T14:05:10.663Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2718,16 +2718,6 @@ V鯖のﾘﾄﾙであけようとしたんだ・・・
         <summary type="html"><![CDATA[なんだかなー？？お金の修行がまだ足りてない、、、お金があってもイバらないお金がなくてもイジけないまー、猫に小判だから大金つかんだら　つかっちまうbbお金がなかったら使わないのにね@@ついついお金にシバラレテしまうまはー、、、、生きるってそういうものさ意識の...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＨＰ依存なのでピンクなのかな。]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-319.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-319.html"/>
-        <updated>2021-11-01T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この前のアプデで図案怒りダメが別表記になりそうだと書いてたのですがその結果どうなったのかです。結果的に怒りの発動ダメは別表記となりましたが予想してなかったのが怒り分のダメがピンクで表示されるピンクダメになった事です！よくよく考えたらバルーンとかＨＰ依存ダメってピンクだったのでこれは当然なのかもしれないですね…この変化により火の恩寵つけてるオオカミ少年的にはダメがいくつ出てるのかわかり辛くなっちゃっ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
