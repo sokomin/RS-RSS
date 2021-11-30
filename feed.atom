@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-30T11:20:01.394Z</updated>
+    <updated>2021-11-30T11:47:20.415Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2728,16 +2728,6 @@ V鯖のﾘﾄﾙであけようとしたんだ・・・
         <summary type="html"><![CDATA[この前のアプデで図案怒りダメが別表記になりそうだと書いてたのですがその結果どうなったのかです。結果的に怒りの発動ダメは別表記となりましたが予想してなかったのが怒り分のダメがピンクで表示されるピンクダメになった事です！よくよく考えたらバルーンとかＨＰ依存ダメってピンクだったのでこれは当然なのかもしれないですね…この変化により火の恩寵つけてるオオカミ少年的にはダメがいくつ出てるのかわかり辛くなっちゃっ]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.10総括【RED STONE】]]></title>
-        <id>https://chorrealism.com/?p=2283</id>
-        <link href="https://chorrealism.com/2021/11/01/2021-10%e7%b7%8f%e6%8b%ac%e3%80%90red-stone%e3%80%91/"/>
-        <updated>2021-10-31T23:21:52.000Z</updated>
-        <summary type="html"><![CDATA[前回書いたけど、最初の10日間はイベント巨匠集めに終始。 慣れない地下キャラでの自力チケット集めがとにかくつらかった。 そこで苦難が終わるかと思いきや！ スクロール売ってるじゃん！ポチッー！7アカ分買う(復帰前)。…地下 […]]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
 </feed>
