@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-30T15:30:20.371Z</updated>
+    <updated>2021-11-30T15:43:36.115Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2708,16 +2708,6 @@ V鯖のﾘﾄﾙであけようとしたんだ・・・
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猫の細道]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=426</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=426"/>
-        <updated>2021-11-01T03:31:38.000Z</updated>
-        <summary type="html"><![CDATA[なんだかなー？？お金の修行がまだ足りてない、、、お金があってもイバらないお金がなくてもイジけないまー、猫に小判だから大金つかんだら　つかっちまうbbお金がなかったら使わないのにね@@ついついお金にシバラレテしまうまはー、、、、生きるってそういうものさ意識の...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
