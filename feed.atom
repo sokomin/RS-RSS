@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-30T20:46:29.896Z</updated>
+    <updated>2021-11-30T22:05:38.341Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2686,38 +2686,6 @@ V鯖のﾘﾄﾙであけようとしたんだ・・・
         <summary type="html"><![CDATA[手順が間違っていただけでした＾＾；詳しい方に教えていただいて、ちゃんとWロシペルになりました！取り急ぎご報告まで。]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.10月のドロップ~♪]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/5198f9e1eb540eee637c758aa56e329b</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/5198f9e1eb540eee637c758aa56e329b?fm=rss"/>
-        <updated>2021-11-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[11月になりました。
-
-
-
-
-しょぼいですね(´・ω・`)
-ただU品はギルドデイリーの報酬箱からやたらとでるので、デイリークエ用のU品h事足りている感じです。
-できれば良品が欲しいところですね。
-ドロップではありませんが、闇商人の箱から「少女のトイクラウン」を入手しました。
-以前は高値で売っていましたが今はどうなんですかね。
-誰かに装備させようか、売ってしまおうかちょっと悩み中ですが、装備するキャラがいないので多分売ってしまうことになりそうです。
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
