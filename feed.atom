@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-30T19:32:33.743Z</updated>
+    <updated>2021-11-30T19:46:35.950Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】青鯖時代のブログ徘徊]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-872.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-872.html"/>
+        <updated>2021-11-30T19:43:55.000Z</updated>
+        <summary type="html"><![CDATA[仕事で夜勤だ。こんな年寄りの管理職に、夜勤なんかさせたらアカンやろ。と愚痴りつつ、仕事に精を出し・・・って、怠いわ！気分転換にブログを徘徊していると、青鯖時代のお知り合いのブログを見つけ、リンクから昔のブログを読み漁ってしまった。いやもう懐かし過ぎるな！wほとんどのブログが2013年あたりで途切れてるんだが、稀に復活してたり、復活してまた途切れていたり、色々ドラマがあって面白い。そういえば、昔RSのこと]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コスチューム強化やってみた（早]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111300001/</id>
