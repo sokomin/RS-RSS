@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-01T15:05:34.438Z</updated>
+    <updated>2021-12-01T18:06:43.870Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2630,16 +2630,6 @@ LV上げだけで一番気が楽
         <summary type="html"><![CDATA[月の始めだからかちょうど区切り目だったのか…【配布物】・冒険家感謝祭→後述・ギルドデイリークエスト・港町Box・贈り物・改・臨時メンテのお詫び→10/20メンテ後～10/28臨時メンテまでにログインしている垢が対象。1時間スフィアとパワキが3こずつその詳細【冒険家協会クエのあれ】11/17(水)メンテまで。それなりな頻度でみる協会デイリークエをやりましょうってあれ。もちろん垢内合算。2週間を1キャラでやっても30回以上しか達]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エリアボス倒すのみの日々]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=427</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=427"/>
-        <updated>2021-11-02T03:31:32.000Z</updated>
-        <summary type="html"><![CDATA[ディメンション　メンドーでとりあえず　エリアボス倒せば満足☆良品はあまりでないが、、、S鯖はbis V　はテイマーB　はリトルで、行ってるノ♪まー、ソロは怖いね1擊死もあるし、、、、物理リトルのビルドについてエリアボスはステ40%くらい下がるからどー書け...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
