@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-01T06:07:41.976Z</updated>
+    <updated>2021-12-01T06:53:15.546Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1209.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1209.html"/>
+        <updated>2021-12-01T06:12:36.000Z</updated>
+        <summary type="html"><![CDATA[゜。°。°。°。°。°。°。°。゜。°。°。°。お年玉ミッションRTキャンペーン度々あるツイッターリツイートキャンペーンの類ですね。第1弾～第4弾まで、全4回のチャンスがあるようです。抽選人数は4回とも30名で開催期間が以下の通り。【第1弾】開催期間：2021年12月1日(水)メンテナンス後～12月7日(火)23:59まで【第2弾】開催期間：2021年12月8日(水)メンテナンス後～12月14日(火)23:59まで【第3弾】開催期間：2021年12月15日(水)メン]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】青鯖時代のブログ徘徊]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-872.html</id>
