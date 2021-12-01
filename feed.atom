@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-01T00:22:02.053Z</updated>
+    <updated>2021-12-01T01:38:29.564Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2676,16 +2676,6 @@ V鯖のﾘﾄﾙであけようとしたんだ・・・
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前回の記事間違ってた～]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111010001/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202111010001/"/>
-        <updated>2021-11-01T13:31:43.000Z</updated>
-        <summary type="html"><![CDATA[手順が間違っていただけでした＾＾；詳しい方に教えていただいて、ちゃんとWロシペルになりました！取り急ぎご報告まで。]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
