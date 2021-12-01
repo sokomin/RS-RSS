@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-01T09:47:18.670Z</updated>
+    <updated>2021-12-01T10:05:46.075Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スクラッチ「リミテッド！RT！ジェットストリームｒｙ」]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-778.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-778.html"/>
+        <updated>2021-12-01T09:53:43.000Z</updated>
+        <summary type="html"><![CDATA[終了日が全部違う【配布品】・冒険家協会イベント・港町Box・贈り物・改という名のマンスリーボックスいつもの公式メンテ終了ｒｙ【スクラッチ】12/22(水)メンテまで。今まで短期型だったけど今回は3週間。1回にコイン10枚（実質1000円）を使うあれ。レア3完全、賢者、幸運でレア2に特改。スクラッチ特有の謎設定も多いこと…特にレア3スクラッチは貴重？なパワキ入手方法ではある。ただ今回はレア2にもいるんだよな…1時間×20個が。]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021.12.1 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/c0b9e2b60e2e23539550895fef754129</id>
