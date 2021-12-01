@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-01T09:06:08.770Z</updated>
+    <updated>2021-12-01T09:47:18.670Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021.12.1 イベ更新]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/c0b9e2b60e2e23539550895fef754129</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/c0b9e2b60e2e23539550895fef754129?fm=rss"/>
+        <updated>2021-12-01T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[12月なりました。
+ -->
+
+
+
+
+
+
+
+
+
+
+
+11月17日メンテ後から12月8日メンテ前まで
+
+
+ログキャンでレアマスから金エンチャが結構出てへこみました。
+金エンチャいらねーって・・・・
+まぁぜいたくな悩みかもしれませんけどね。
+
+さて、今週もまったりゲームしようかな。
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新着イベント情報]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1209.html</id>
