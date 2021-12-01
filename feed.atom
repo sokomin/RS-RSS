@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-01T21:46:44.810Z</updated>
+    <updated>2021-12-01T22:38:44.210Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2620,16 +2620,6 @@ LV上げだけで一番気が楽
 それでは久々の更新になりましたが、この辺で👋]]></summary>
         <author>
             <name>レッドストーンというゲームを楽しむパパです。</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[意外と多いね]]></title>
-        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-764.html</id>
-        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-764.html"/>
-        <updated>2021-11-02T10:26:28.000Z</updated>
-        <summary type="html"><![CDATA[月の始めだからかちょうど区切り目だったのか…【配布物】・冒険家感謝祭→後述・ギルドデイリークエスト・港町Box・贈り物・改・臨時メンテのお詫び→10/20メンテ後～10/28臨時メンテまでにログインしている垢が対象。1時間スフィアとパワキが3こずつその詳細【冒険家協会クエのあれ】11/17(水)メンテまで。それなりな頻度でみる協会デイリークエをやりましょうってあれ。もちろん垢内合算。2週間を1キャラでやっても30回以上しか達]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
