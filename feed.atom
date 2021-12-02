@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-02T10:49:14.219Z</updated>
+    <updated>2021-12-02T11:04:08.173Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[いきなり現れたキャンペーン？]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-779.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-779.html"/>
+        <updated>2021-12-02T11:00:47.000Z</updated>
+        <summary type="html"><![CDATA[そこにちゃっかり追加されても…【BitCashひらがなラッキーくじ】2022/1/16（日）まで。なんか4つあるんだけど…。「ひらがなアワード」①BitCashの公式をフォローする②専用ハッシュタグを2つつけて、好きなひらがな1文字と理由または面白エピソードを添えてツイートするで、抽選でビットキャッシュがもらえる…けどそれぞれ1名で7位までだから無理がある。「ラッキーくじ」さっきの入賞した文字が含まれた数によって抽選でビットキャ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021.11月のドロップ~♪]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/cab86acb5cf15e3c996490e00dada79b</id>
