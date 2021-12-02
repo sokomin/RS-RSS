@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-02T03:05:53.687Z</updated>
+    <updated>2021-12-02T03:28:31.732Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プレせんと]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=455</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=455"/>
+        <updated>2021-12-02T03:21:23.000Z</updated>
+        <summary type="html"><![CDATA[12月やなー、あっという間に来年ってパターン、、、お金を増やしたいなら先払い方式受け取ってから渡すんじゃ遅いんだじぇ？？先払いの代表は自己投資！？まーね、本を読むのがベターではあるが行動にうつさないなら無意味bb健康が基本。でも考えすぎはアウト。。。いまは...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lv1414物理ランサー対人装備(運火力風)【RED STONE】]]></title>
         <id>https://chorrealism.com/?p=2370</id>
