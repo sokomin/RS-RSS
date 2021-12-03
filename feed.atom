@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-03T03:39:38.603Z</updated>
+    <updated>2021-12-03T05:07:14.738Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[運試しは爆死w]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=457</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=457"/>
+        <updated>2021-12-03T03:42:26.000Z</updated>
+        <summary type="html"><![CDATA[そう、スクラッチは爆死だったね、、、ほぼ、インゴに　しやすいモノなし、、、まー、今回の当たり品はあまり？？イイのなさそーだし、1万gemで打ち止め運試しに1万は許容範囲？？たかが1万、されど1万、、、諭吉さまに笑われないように無謀な賭け勝ちにいこう＠＠まー、...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【12/3】パワキほしい・PVP超級Ⅱほしい]]></title>
         <id>https://ameblo.jp/tori-tori121/entry-12713587890.html</id>
