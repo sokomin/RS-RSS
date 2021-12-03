@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-03T20:06:52.625Z</updated>
+    <updated>2021-12-03T20:28:59.324Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2663,16 +2663,6 @@ Bとは違った面白さがあっていいですね＾＾ｂ
 とりあえず週末から叫んだり、露店で募集してみよう。]]></summary>
         <author>
             <name>レッドストーンというゲームを楽しむパパです。</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プリでエリアボス！？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=429</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=429"/>
-        <updated>2021-11-04T08:26:56.000Z</updated>
-        <summary type="html"><![CDATA[こにゅちゅちは、みぃノお時間ですプリトルの育成ネタでエリアボスのソロをヤってみたいのだ！？どうせなら、Lv800のボスをLv800で@@(  -_・)?物理リトルなら覚醒スキルで倒せるはず？？知識リトル、物理プリ、知識プリは？？どーヤればイイのだ？？まはー、、今後に...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
