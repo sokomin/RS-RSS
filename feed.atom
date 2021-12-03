@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-03T02:17:15.054Z</updated>
+    <updated>2021-12-03T03:39:38.603Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2643,26 +2643,6 @@ Bとは違った面白さがあっていいですね＾＾ｂ
         <summary type="html"><![CDATA[こにゅちゅちは、みぃノお時間ですプリトルの育成ネタでエリアボスのソロをヤってみたいのだ！？どうせなら、Lv800のボスをLv800で@@(  -_・)?物理リトルなら覚醒スキルで倒せるはず？？知識リトル、物理プリ、知識プリは？？どーヤればイイのだ？？まはー、、今後に...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金襴を完成させました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111040000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202111040000/"/>
-        <updated>2021-11-03T15:08:07.000Z</updated>
-        <summary type="html"><![CDATA[３OP目は、ランディスを選択しようか迷いましたが、オーソドックスに健比にしておきました。ランディスを貼り付けてしまうと、もし処分することがあった場合に、買い手が火力限定になってしまうからです。健比に...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ログインしかしてないから把握できてなかった装備を作ろう]]></title>
-        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-765.html</id>
-        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-765.html"/>
-        <updated>2021-11-03T15:07:14.000Z</updated>
-        <summary type="html"><![CDATA[基本的にログイン放置だから装備の変化に疎いところ。TダメDX手とかT応急処置DX腰とかいつの間に生まれたんだ…って状態。ログインして終わり！だからそういうとこは全くわかんない。でも有効ならやるしかないよね。異次元ってこと。本当にS鯖の装備自作してばっかだな…指以外ほとんど自作だぞ…もはやS鯖がメインじゃんどうやら複数OPがある場合は確率は10％のままで応急処置されるとこが上限200％で増えるらしい。一部発動しないス]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
