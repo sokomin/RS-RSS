@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-03T23:47:01.898Z</updated>
+    <updated>2021-12-04T02:19:52.991Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[思い出したように更新]]></title>
+        <id>http://scratch2009.blog.fc2.com/blog-entry-209.html</id>
+        <link href="http://scratch2009.blog.fc2.com/blog-entry-209.html"/>
+        <updated>2021-12-04T00:53:44.000Z</updated>
+        <summary type="html"><![CDATA[荒れ地で狩ってたら同時U３つ。初めて！金鯖帰りの武道で１０年ぶりくらいにMQ進めていたときの一コマ。１０年前にも全く同じセリフだったなぁと印象に残っていたセリフですここで露店開く人は許されない。毎回分解妨害に遭いますすごい懐かしい名前・・！「合言葉は愛！」でしたね！わたがしWIZさんのブログよく読んでました]]></summary>
+        <author>
+            <name>scratch2009</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[インビザライン(マウスピース矯正)1年9ヶ月]]></title>
         <id>https://chorrealism.com/?p=2428</id>
