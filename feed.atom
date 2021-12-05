@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-05T05:26:15.883Z</updated>
+    <updated>2021-12-05T09:05:30.001Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[早いもので]]></title>
+        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202112050000/</id>
+        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202112050000/"/>
+        <updated>2021-12-05T08:29:06.000Z</updated>
+        <summary type="html"><![CDATA[今年も残すところわずかとなりましたね・・・こんにちは、寒さにはめっぽうと弱いみくです大阪の寒さって多分異常なような気がします・・・寒いというより痛いという感覚・・・今年は暖かいのが続いた後一気に寒...]]></summary>
+        <author>
+            <name>苺桜三玖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[はらはらと]]></title>
         <id>http://3rdcat.blog.fc2.com/blog-entry-137.html</id>
