@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-05T13:04:23.443Z</updated>
+    <updated>2021-12-05T13:39:46.866Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[支援しかできないBIS、初期位置に立つ]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-780.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-780.html"/>
+        <updated>2021-12-05T13:18:39.000Z</updated>
+        <summary type="html"><![CDATA[紋章来られると死ぬ金鯖で作った物理槍は本鯖後碌に機能しないままになってます。というのも、本鯖なら火力はいっぱいいますし、物理槍自体はダメージ効率で若干劣る面を持つから活躍も難しいわけで。装備中途半端だから特に。てな感じで結局は今までやっていたブレエビをまき散らすBISに落ち着いてます。2021金鯖前は貧弱な支援でしたが、今は以下の通り。HPを4万～6万増やすブレステ振りを知識ぶっぱにしたから地味に光ダメが700]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レベル上げて、なんだかな？？]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=458</id>
