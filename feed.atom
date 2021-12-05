@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-05T14:33:19.984Z</updated>
+    <updated>2021-12-05T15:42:17.764Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不思議なスタン]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-724.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-724.html"/>
+        <updated>2021-12-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日息子の見ている動画で懐かしさを感じました某人気Vチューバーさんがこれを歌っていました当時CMでも使われた曲で私も今でも歌えますこのVチューバーさんは他にも懐かしいゲーム曲を歌ったりしてましたとても可愛らしく綺麗な声で癒やされましたちなみに初代FEはマリクとリンダが好きでしたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[支援しかできないBIS、初期位置に立つ]]></title>
         <id>http://extremetrailblazer.blog.fc2.com/blog-entry-780.html</id>
