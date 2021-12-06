@@ -461,6 +461,15 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112060000/",
+          "author": "雷神の弓",
+          "description": "天球や秘薬を使って比較をする為にアリーナで検証してきました。※現在、刻印代行の為にステータスは運全振りの状態です。ミニPとクレストと課金バッジは無しで、秘薬・刃油は有り。表記ダメやHPが上限に届いてい...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202112060000/",
+          "publishedOn": "2021-12-06T09:09:45.000Z",
+          "wordCount": 96,
+          "title": "色褪せ型と巨神型の比較"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112030000/",
           "author": "雷神の弓",
           "description": "分解UMU・BFUが安いので、作るだけだったら気軽に手を出せますね。ただ、取引不可なので、製錬代行が頼めないのがマジできついっすねぇ。前みたいにガードなしで+10まで上げるのは無理なんで、ガードの配布がある...",
@@ -1246,6 +1255,15 @@
       "feedUrl": "http://3rdcat.blog.fc2.com/?xml",
       "siteUrl": "http://3rdcat.blog.fc2.com/",
       "articles": [
+        {
+          "id": "http://3rdcat.blog.fc2.com/blog-entry-138.html",
+          "author": "第三の猫",
+          "description": "慣れというものは、思っているよりも早いものですね。ダンジョンに直行できるテレポートの選択や、ミニペットとネフォンクリーチャーの違いが分かってきました。そろそろ見落としを見つけてしまいそうな、第三の猫です。DXU職鎧の「ビスルキルト」を買いました。衣装が紫色に変わって少し強くなった気がします。新装備の感触をつかむために狩りをしていると、REDSTONEのかけらが集まりました。これで４つ目になります。久しぶりの",
+          "link": "http://3rdcat.blog.fc2.com/blog-entry-138.html",
+          "publishedOn": "2021-12-06T10:22:28.000Z",
+          "wordCount": null,
+          "title": "再び天上界"
+        },
         {
           "id": "http://3rdcat.blog.fc2.com/blog-entry-137.html",
           "author": "第三の猫",
