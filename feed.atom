@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-05T20:28:19.309Z</updated>
+    <updated>2021-12-06T02:20:56.024Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2733,16 +2733,6 @@ Bとは違った面白さがあっていいですね＾＾ｂ
 遊びに来てね]]></summary>
         <author>
             <name>レッドストーンというゲームを楽しむパパです。</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レイドdeレベル上げ☆]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=430</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=430"/>
-        <updated>2021-11-06T08:54:09.000Z</updated>
-        <summary type="html"><![CDATA[まはー、無転生でレベル600までは比較的経験値マズーなのでレイドで　だいたい上げてるまはー、急ぎなら、試練やら秘密やらGDもアリだけど、、、みぃたんナマケネコだからレイドでイイのだbbレベル600までいったら転生してループか、そのまま上げるか、、、好み次第だねマ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
