@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-06T12:09:23.307Z</updated>
+    <updated>2021-12-06T13:47:01.597Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2823,19 +2823,6 @@ Bとは違った面白さがあっていいですね＾＾ｂ
 メ、メェ…主にredstone活動記録me-mexe.hatenablog.com]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11月7日 Twitterフォローしてね]]></title>
-        <id>https://ameblo.jp/vsabarahune/entry-12708682572.html</id>
-        <link href="https://ameblo.jp/vsabarahune/entry-12708682572.html"/>
-        <updated>2021-11-07T00:53:55.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/rahuneV
- 
-試験的にVIPメンバー募集してます（自動加入）
-遊びに来てね]]></summary>
-        <author>
-            <name>レッドストーンというゲームを楽しむパパです。</name>
         </author>
     </entry>
 </feed>
