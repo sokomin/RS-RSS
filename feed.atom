@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-09T10:49:17.895Z</updated>
+    <updated>2021-12-09T13:32:30.339Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[廻る第三の猫]]></title>
+        <id>http://3rdcat.blog.fc2.com/blog-entry-139.html</id>
+        <link href="http://3rdcat.blog.fc2.com/blog-entry-139.html"/>
+        <updated>2021-12-09T11:43:30.000Z</updated>
+        <summary type="html"><![CDATA[皆様どうも、こんばんワンダー。第三の猫です。今回は旅館1Fに来ております。周回ルートはこちら。（×マークはやや硬いゴーレムの配置）・部屋のせまい入口での出待ち多数あり。・召喚獣の引っ掛かりポイント多数あり。・ミラーダンジョンあり。――のハイテンション欲張りセットです。ZINモンスターで構成されているため、アイテムドロップが大変良好です。見てください。右下のゴートマンの死にっぷり。よく撮れているでしょう。そ]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鏡成功しましたbb]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=461</id>
