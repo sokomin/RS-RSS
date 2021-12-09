@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-09T03:05:23.257Z</updated>
+    <updated>2021-12-09T03:39:40.766Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鏡成功しましたbb]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=461</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=461"/>
+        <updated>2021-12-09T03:20:32.000Z</updated>
+        <summary type="html"><![CDATA[これで、T力指2つに♪やほーい、これで火力はどうにでも、、、2個あれば、Lv900で2700！？十分過ぎる vまー、、、健康つまなきゃな、、、HP20万は健康1万目安だからなまー、何はともかく、ウレピーのでう、ウレピーのでう]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[私の生態について]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112090000/</id>
