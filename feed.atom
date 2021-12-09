@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-09T02:49:32.819Z</updated>
+    <updated>2021-12-09T03:05:23.257Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[私の生態について]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112090000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112090000/"/>
+        <updated>2021-12-09T02:55:00.000Z</updated>
+        <summary type="html"><![CDATA[仕事をしているという割にインしている時間が長い（いつもいる）と言われたことがあります＾＾；なぜ、こんなにインできるのか話していきたいと思います。まず、私の仕事なんですけど、平日はほとんど出勤で土日...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[次回のアプデは12/22を予定しております]]></title>
         <id>http://extremetrailblazer.blog.fc2.com/blog-entry-781.html</id>
