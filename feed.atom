@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-10T04:37:37.733Z</updated>
+    <updated>2021-12-10T07:06:11.562Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2643,16 +2643,6 @@ PTも上下左右4か所に分かれても人があふれるくらいでした�
 ばいばーい( ･ω･)/]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装備集め進捗【RED STONE】]]></title>
-        <id>https://chorrealism.com/?p=2325</id>
-        <link href="https://chorrealism.com/2021/11/11/%e8%a3%85%e5%82%99%e9%9b%86%e3%82%81%e9%80%b2%e6%8d%97%e3%80%90red-stone%e3%80%91/"/>
-        <updated>2021-11-10T17:57:19.000Z</updated>
-        <summary type="html"><![CDATA[7月末に考えた装備の進捗件構成変更。わりと装備集めがいいペースで進んでいるので、対人モチベも少し回復してきた！かも…。 7月末時点では4パターン用意する予定だったけど、集めるのがしんどすぎるので少し簡略化しようと考え中… […]]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
 </feed>
