@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-11T11:23:46.374Z</updated>
+    <updated>2021-12-11T13:30:09.054Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【 Twicas 】ツイキャスで特定の配信者さんが配信を始めたらアラートを飛ばす方法]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202111010000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202111010000/"/>
+        <updated>2021-12-11T11:28:45.000Z</updated>
+        <summary type="html"><![CDATA[youtubeの通知関連の情報は多数ヒットしますが、ツイキャスについては公式の通知機能しか情報が見当たらず、自分で作りたいなと思って実装しました。ちなみに去年、youtube版の通知を作りたい！ということで【pyt...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[病み病みん]]></title>
         <id>https://plaza.rakuten.co.jp/karudxrs/diary/202112110000/</id>

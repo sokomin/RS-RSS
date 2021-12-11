@@ -6,6 +6,15 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202111010000/",
+          "author": "そこらの民衆",
+          "description": "youtubeの通知関連の情報は多数ヒットしますが、ツイキャスについては公式の通知機能しか情報が見当たらず、自分で作りたいなと思って実装しました。ちなみに去年、youtube版の通知を作りたい！ということで【pyt...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202111010000/",
+          "publishedOn": "2021-12-11T11:28:45.000Z",
+          "wordCount": 225,
+          "title": "【 Twicas 】ツイキャスで特定の配信者さんが配信を始めたらアラートを飛ばす方法"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202110020000/",
           "author": "そこらの民衆",
           "description": "ブログやMMOが流行りだした時代(2000年前半)の日本ではyahooメールを登録・利用してた人も多いはず。今でも使ってる人は多いのではないでしょうか。今回は、yahooメールを利用するに当たっての15年前との違い・注...",
