@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-11T03:28:29.277Z</updated>
+    <updated>2021-12-11T03:47:52.195Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[みぃたんのリソー]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=463</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=463"/>
+        <updated>2021-12-11T03:35:42.000Z</updated>
+        <summary type="html"><![CDATA[レベル上げは、あまり興味を持てなくなってるなぜなら、時間の無駄だから☆といっても、時間の無駄こそがゲームであり、オトナの楽しみであるさて、リソー的にはお城でちょっとだけ活躍してお祭り騒ぎをしたいのだーbbお城は土曜日のタシナミである装備なんてね、レベル上...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ついに7個集まりました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112110000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112110000/"/>
+        <updated>2021-12-11T03:32:37.000Z</updated>
+        <summary type="html"><![CDATA[7個集まったらやることは１つ！これを呼び出して、願い事を１つ言います。「レッドストーンから対人戦をなくして平和な世界にしてくれ！」「え？できねーのかよ・・じゃあ仕方がない・・オラを・・対人戦に・・」...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[結局同じことを繰り返しただけか…]]></title>
         <id>http://extremetrailblazer.blog.fc2.com/blog-entry-782.html</id>
@@ -2541,16 +2561,6 @@ PTも上下左右4か所に分かれても人があふれるくらいでした�
 ではでは～(*'▽')ﾉｼ]]></summary>
         <author>
             <name>とりくんのREDSTONEＶ鯖ブログ！</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お別れと新装備とそしてまた出会いと]]></title>
-        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202111120000/</id>
-        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202111120000/"/>
-        <updated>2021-11-11T15:30:15.000Z</updated>
-        <summary type="html"><![CDATA[なんかの宗教でしょうか・・・？こんばんは玖三桜苺ことまおみくです！はいきちゃんの引退イベント・・・はいきちゃんの逆文字叫びをちゃんと叫び返せたら商品贈呈ってやつですね！どんなワードが出てくるのかな...]]></summary>
-        <author>
-            <name>苺桜三玖</name>
         </author>
     </entry>
 </feed>
