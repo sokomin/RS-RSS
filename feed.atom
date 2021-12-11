@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-11T20:47:01.058Z</updated>
+    <updated>2021-12-11T23:05:00.573Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2349,16 +2349,6 @@ UMUだけのドロじゃないんだとまた一つ学びました(*^_^*)
         <summary type="html"><![CDATA[1年ぐらい前からお願いされてたんです、「RSSまとめサイトが欲しい！」と。自分もササっと作りたいなーと前々から思ってたのですが、色々後回しにしすぎた結果、見事に1年後に作成、という形になりました。ちょう...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[こういうケースは少し前にあったよな？]]></title>
-        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-768.html</id>
-        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-768.html"/>
-        <updated>2021-11-12T09:42:31.000Z</updated>
-        <summary type="html"><![CDATA[またスクラッチが始まってるよ…【スクラッチ】11/17(水)メンテまで。短い1回実質的には1000円。お得セットを使えば実質500円以下。レア3に完全、賢者、特改でレア2になぜか幸運チケ。スクラッチ特有のアイテム設定のため何とも言えないところ。ちなみに10回でSロト1個です。Sロトバーゲンセールのように出るから価値がないんですけど…いつも通りな詳細金曜日パターンはめんどくさいからやめてほしいところ…ずらす必要ある？おしま]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
