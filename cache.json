@@ -278,6 +278,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nocl-8P8o-k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nocl-8P8o-k",
+          "publishedOn": "2021-12-12T19:34:07.000Z",
+          "wordCount": null,
+          "title": "B鯖古都　定点観測 【 REDSTONE 】"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5jRxnWVcUl8",
           "author": null,
           "description": "",
