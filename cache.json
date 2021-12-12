@@ -52,6 +52,15 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-725.html",
+          "author": "ミツリン",
+          "description": "12月は私が子供の頃大好きだった特撮アニメの主人公高瀬健を演じた佐久田さんの命日でもあります未だにカラオケやお風呂でも歌う思い出のある曲です当時色々なアニメや特撮がありましたが中でも異彩を放っていた名作ですドルフィンで新幹線を一度追い越してから現地に着くのは鳥肌モノでしたこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-725.html",
+          "publishedOn": "2021-12-12T15:00:00.000Z",
+          "wordCount": 448,
+          "title": "混沌に行ってみました"
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-724.html",
           "author": "ミツリン",
           "description": "先日息子の見ている動画で懐かしさを感じました某人気Vチューバーさんがこれを歌っていました当時CMでも使われた曲で私も今でも歌えますこのVチューバーさんは他にも懐かしいゲーム曲を歌ったりしてましたとても可愛らしく綺麗な声で癒やされましたちなみに初代FEはマリクとリンダが好きでしたこんにちは　ミツリンです",
@@ -319,7 +328,17 @@
       "title": "ロイ4世",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA",
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EI7hzgIIcqA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EI7hzgIIcqA",
+          "publishedOn": "2021-12-12T15:06:05.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#３（ひさびさ）（UMU）（異次元）"
+        }
+      ]
     },
     {
       "title": "ひさプッチ",
@@ -585,6 +604,15 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-873.html",
+          "author": "JEFRY",
+          "description": "他キャラと装備を使いまわすため、嫌々ディメンションに通い、ようやくLv941を達成。これで武道のレベリングは終了。面倒なディメンション作業が1キャラ減って嬉しい限り。今年の金鯖から連れてきた雨アチャもLv950を達成してからはディメンションには通っておらず、風剣士とメイン雨アチャのみ通っている現状。どっちかに絞りたいけど、まだ攻城戦のメインに据える方を決めきれない・・・ちなみに、高耐久(目指している)武道の現",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-873.html",
+          "publishedOn": "2021-12-12T15:00:01.000Z",
+          "wordCount": 346,
+          "title": "【REDSTONE】高耐久(目指している)武道の現状"
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-874.html",
           "author": "JEFRY",
