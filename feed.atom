@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-12T04:55:48.190Z</updated>
+    <updated>2021-12-12T05:46:45.427Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】12/11(土)攻城戦改め紅白戦の感想]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-874.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-874.html"/>
+        <updated>2021-12-12T05:39:25.000Z</updated>
+        <summary type="html"><![CDATA[もはやどこのギルドも短期移籍者ばかりで、ギルドvsギルドの攻城戦とは呼べない昨今。戦力も一夜にして激変することから、ギルドの戦力が計れず、どこのギルドと戦ったと書いても意味が無い。よって今後は「紅白戦」と呼称し、参加した時間帯と自キャラ情報だけ書くことにした。今週の紅白戦は21:00にメイン雨アチャ、22:00は無し、23:00に風剣士で参加。21:00メイン雨アチャ　攻め(赤組)相手の参加人数がこちらを上回っていて、か]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なんだこりゃ？]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112120000/</id>
