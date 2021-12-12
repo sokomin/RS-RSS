@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-11T23:05:00.573Z</updated>
+    <updated>2021-12-12T02:21:33.437Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2339,16 +2339,6 @@ UMUだけのドロじゃないんだとまた一つ学びました(*^_^*)
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レッドストーンのRSSまとめサイト作ってみた]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202111120000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202111120000/"/>
-        <updated>2021-11-12T12:59:38.000Z</updated>
-        <summary type="html"><![CDATA[1年ぐらい前からお願いされてたんです、「RSSまとめサイトが欲しい！」と。自分もササっと作りたいなーと前々から思ってたのですが、色々後回しにしすぎた結果、見事に1年後に作成、という形になりました。ちょう...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
