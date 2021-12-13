@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-12T23:27:42.930Z</updated>
+    <updated>2021-12-13T03:39:59.896Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[V鯖　2キャラ3転したおb]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=464</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=464"/>
+        <updated>2021-12-13T03:22:16.000Z</updated>
+        <summary type="html"><![CDATA[姫を転生させたのはイイがビルドが決まってないの、、、明日の石の日でドカッと上げたいが？？1キャラはビッグバルーンかな！もう1キャラは、、、？？？ゴリアテとボトルちゃんはすでに育ててるからしー、、、ホットスピンストーン　＆　リトルもすでにやったし？？？んー...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ちょっとしつこいけどアクセス数の話]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112130001/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112130001/"/>
+        <updated>2021-12-13T02:50:12.000Z</updated>
+        <summary type="html"><![CDATA[アクセス数が更に増えているのがそこはかとなく怖い・・なぜ急にこんなに増えるの？？（ID停止されたわけでもないのにｗ）折れ線グラフの一番上のところの赤い丸は、マウスポインターを見失わないように昨日のGv...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B鯖古都　定点観測 【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=nocl-8P8o-k</id>
@@ -2340,16 +2360,6 @@ UMUだけのドロじゃないんだとまた一つ学びました(*^_^*)
         <summary type="html"><![CDATA[改めて注意喚起。追記に入れてる先は適当な何かです。カテゴリで察してください。一応大きく間隔をあけてから書くようにはしてます。そこから先は自己責任です。今更なんでって？さぁなんのことやら…あとはいつも通りに。RS関係ないの混じり]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[唐突に銀行の中身を晒してみる]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111130000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202111130000/"/>
-        <updated>2021-11-13T14:24:55.000Z</updated>
-        <summary type="html"><![CDATA[銀行の中身（上半分）は、こんな感じです。（下半分には、使っていない対人装備などが入っています）上の段にあるのは、クロネの指輪を刻印する原本と写本が突っ込んであります。万能解放は安かったので、2個だけ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>

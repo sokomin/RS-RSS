@@ -416,6 +416,15 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112130001/",
+          "author": "雷神の弓",
+          "description": "アクセス数が更に増えているのがそこはかとなく怖い・・なぜ急にこんなに増えるの？？（ID停止されたわけでもないのにｗ）折れ線グラフの一番上のところの赤い丸は、マウスポインターを見失わないように昨日のGv...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202112130001/",
+          "publishedOn": "2021-12-13T02:50:12.000Z",
+          "wordCount": 81,
+          "title": "ちょっとしつこいけどアクセス数の話"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112130000/",
           "author": "雷神の弓",
           "description": "Gvに出るに至った経緯については後日書くとして、今回は久しぶりにGvに参加した感想を書こうと思います。まず、参加したときのスペックから。・表記292000→276000（天球変更の為、表記ダメがGv中下がりました）ス...",
@@ -522,15 +531,6 @@
           "publishedOn": "2021-11-16T03:34:57.000Z",
           "wordCount": 91,
           "title": "製錬+11にチャレンジ"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202111130000/",
-          "author": "雷神の弓",
-          "description": "銀行の中身（上半分）は、こんな感じです。（下半分には、使っていない対人装備などが入っています）上の段にあるのは、クロネの指輪を刻印する原本と写本が突っ込んであります。万能解放は安かったので、2個だけ...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202111130000/",
-          "publishedOn": "2021-11-13T14:24:55.000Z",
-          "wordCount": 83,
-          "title": "唐突に銀行の中身を晒してみる"
         }
       ]
     },
@@ -958,6 +958,15 @@
       "feedUrl": "http://rscat31.jugem.jp/?mode=rss",
       "siteUrl": "http://rs.bigcat31.floppy.jp/",
       "articles": [
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=464",
+          "author": "猫ノみぃ",
+          "description": "姫を転生させたのはイイがビルドが決まってないの、、、明日の石の日でドカッと上げたいが？？1キャラはビッグバルーンかな！もう1キャラは、、、？？？ゴリアテとボトルちゃんはすでに育ててるからしー、、、ホットスピンストーン　＆　リトルもすでにやったし？？？んー...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=464",
+          "publishedOn": "2021-12-13T03:22:16.000Z",
+          "wordCount": 163,
+          "title": "V鯖　2キャラ3転したおb"
+        },
         {
           "id": "http://rs.bigcat31.floppy.jp/?eid=463",
           "author": "猫ノみぃ",
