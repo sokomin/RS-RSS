@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-13T05:46:48.781Z</updated>
+    <updated>2021-12-13T15:44:59.086Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[明日は石の日で経験値とドロップが2倍]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-784.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-784.html"/>
+        <updated>2021-12-13T13:47:49.000Z</updated>
+        <summary type="html"><![CDATA[だからなんだってんだい…うん、14日。2021年最後の石の日です。最後の経験値、ドロップ2倍かと言われたらわかんないや。今までなら頑張って狩ろう！だったけど今はどーでもいいやって感じ。もともとなかった目標が塵へと帰ったからさ…。まぁ、がっつり狩る人はがんばってレベルを上げよう！そうでない人も地図売りやドロップ2倍で稼げるチャンスになるかも。で、正直特段言うこともないんだけど、知識槍と物理弓槍のてきとーな装備]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V鯖　2キャラ3転したおb]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=464</id>
@@ -2262,94 +2272,6 @@ WIZみたいに多段？攻撃じゃないので
         <summary type="html"><![CDATA[装備備忘録の続き～※あくまでも備忘録ですよ～★★★　『忍耐せし者』　★★★この２つを魔力注入（忍耐せし者）のセットにした耳と足、５段階のセットなのでHP３０％UP↑遺物・女神の香りNX耳は遺物⇒遺物満足度調査報告書・ハニーレモネード装備２０２１編ピンクシューズNX足はピンクシューズ、炎ボトルより★★★　『一角獣の尻尾』　★★★首・頭・腰・手・鎧の５ケ所が『一角獣の尻尾』セットなかなか第３段階から上がらない首・死の聖具NX]]></summary>
         <author>
             <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[祝！＆ステ☆]]></title>
-        <id>https://ameblo.jp/sakuyuno0822/entry-12710050178.html</id>
-        <link href="https://ameblo.jp/sakuyuno0822/entry-12710050178.html"/>
-        <updated>2021-11-13T17:55:42.000Z</updated>
-        <summary type="html"><![CDATA[こんばんちゃお・ω・
- 
- 
-とうとう来ましたよ・・・！！！
-このときが・・・・！！！
- 
- 
- 
- 
-
- 
-もこもこのWIZが１０００になりました！！！
- 
- 
-初めての１０００です＞＜
-うれしいですね＾＾♪
-モチベ増えるかな？
- 
- 
-ってことで記念にステ晒します。
- 
-まぁ強くはないので参考にはなりませんが
- 
- 
-現在の装備は貰い物と借りてる装備がちらほらと・・・
- 
- 
- 
-なので「へぇ～～」って感じでみてください＾＾；
- 
- 
-ようやく知識が１４０００行きました＞＜。
- 
- 
-でも運が欲しいので
-今は超越を集めてます
- 
-今ってイクラなんでしょうかね？
- 
- 
-そして
-初アメンで狩りしてたら
- 
- 
- 
- 
-
- 
-なんか普通にBFUがおちて
- 
-UMUだけのドロじゃないんだとまた一つ学びました(*^_^*)
- 
- 
-これは１０００記念に運営さんが出させてくれたに違いない
- 
- 
-なにはともあれ
- 
-ようやく１０００になったので
- 
- 
-ネクロとリトルがんばります(´・ω・｀)
- 
- 
- 
-今日は石の日もあり・・・
-狩場空いてないので
- 
- 
-起きたら空いてるのを願って
- 
-もこもこは寝ます
- 
- 
-では
-またみてね
- 
- 
-ばいば～い・ω・ﾉｼ]]></summary>
-        <author>
-            <name>もこもこの時たま日常レッドストーン</name>
         </author>
     </entry>
 </feed>
