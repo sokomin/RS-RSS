@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-13T03:39:59.896Z</updated>
+    <updated>2021-12-13T05:46:48.781Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2350,16 +2350,6 @@ UMUだけのドロじゃないんだとまた一つ学びました(*^_^*)
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追記にあるあれ]]></title>
-        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-769.html</id>
-        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-769.html"/>
-        <updated>2021-11-13T17:15:48.000Z</updated>
-        <summary type="html"><![CDATA[改めて注意喚起。追記に入れてる先は適当な何かです。カテゴリで察してください。一応大きく間隔をあけてから書くようにはしてます。そこから先は自己責任です。今更なんでって？さぁなんのことやら…あとはいつも通りに。RS関係ないの混じり]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
