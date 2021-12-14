@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-13T19:21:39.931Z</updated>
+    <updated>2021-12-14T03:05:33.286Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自力４フレにしました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112140000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112140000/"/>
+        <updated>2021-12-14T02:46:03.000Z</updated>
+        <summary type="html"><![CDATA[ヘイストなしの前提で、天球の速度にも頼らずに、自力で４フレができるようにしました。赤丸で囲んだ部分は以前は命中率でしたが、攻撃速度に変更しました。これで攻撃速度55％UPとなるので、ヘイスト・天球なし...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[明日は石の日で経験値とドロップが2倍]]></title>
         <id>http://extremetrailblazer.blog.fc2.com/blog-entry-784.html</id>
@@ -2232,46 +2242,6 @@ WIZみたいに多段？攻撃じゃないので
         <summary type="html"><![CDATA[だいぶ先じゃん…まぁそれとは別の何かがあるだろうな！！ということで3倍の石の日をそれなりに楽しみました。いやぁ、土曜日じゃなくてよかったよ。そっちは1万歩歩かざるおえなかったから…結局2万歩いった件基本はS鯖物理槍を上げつつ、22時に戦士で壺20個×12セットをねじこんでという予定でした。V鯖？知らん！！そんでもって結果。1051→1067神殿B2は相変わらずおいしいね。ただ物理にやさしくないのがちょっと…外周だとブロック]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSPASSのULT箱開封、鐘について]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-721.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-721.html"/>
-        <updated>2021-11-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[息子は某太鼓のゲームが好きですリビングでどんどこ叩いている音が2階まで聞こえます好きな曲は昔からこれだそうです基本的に画竜点睛シリーズはノリが良いのでかっこいいですよね2000系も叩いてるのが聞こえますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3倍day♪]]></title>
-        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202111140000/</id>
-        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202111140000/"/>
-        <updated>2021-11-14T14:45:21.000Z</updated>
-        <summary type="html"><![CDATA[レベリングの方はいかがでしたでしょうか？こんばんは、まおみくです！ずっと申し上げてる通り、自分はやっとMQ２が終わったばっかなのでPTお誘い頂いたりはしてるんですけどPT狩りはまだまだお休み中で３倍期間...]]></summary>
-        <author>
-            <name>苺桜三玖</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しいサマナー]]></title>
-        <id>http://3rdcat.blog.fc2.com/blog-entry-133.html</id>
-        <link href="http://3rdcat.blog.fc2.com/blog-entry-133.html"/>
-        <updated>2021-11-14T12:49:55.000Z</updated>
-        <summary type="html"><![CDATA[涼しくなってきましたね。普段使っているノートPCの下に敷いていた外付けの冷却ファンを片付けるために外して見たら、クモの巣が張ってありました。フィルターかな？そしてこちらは第三の猫です。新しくなったレッドストーンは、やる事が多いっ！……ので！簡単そうなのからゆっくり片付ける事にしました。まずは、すごいとうわさされている冒険者協会。銀行のアイテムがシュルレアリスムした第三の猫も、ここに通えばやっていけると]]></summary>
-        <author>
-            <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魔力注入報告書・ハニーレモネード装備２０２１編]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1087.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1087.html"/>
-        <updated>2021-11-14T09:49:14.000Z</updated>
-        <summary type="html"><![CDATA[装備備忘録の続き～※あくまでも備忘録ですよ～★★★　『忍耐せし者』　★★★この２つを魔力注入（忍耐せし者）のセットにした耳と足、５段階のセットなのでHP３０％UP↑遺物・女神の香りNX耳は遺物⇒遺物満足度調査報告書・ハニーレモネード装備２０２１編ピンクシューズNX足はピンクシューズ、炎ボトルより★★★　『一角獣の尻尾』　★★★首・頭・腰・手・鎧の５ケ所が『一角獣の尻尾』セットなかなか第３段階から上がらない首・死の聖具NX]]></summary>
-        <author>
-            <name>リン・ドール</name>
         </author>
     </entry>
 </feed>
