@@ -233,6 +233,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KHsCneYtS1s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KHsCneYtS1s",
+          "publishedOn": "2021-12-14T18:14:37.000Z",
+          "wordCount": null,
+          "title": "B鯖冒険家協会　定点観測 【 REDSTONE 】"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nocl-8P8o-k",
           "author": null,
           "description": "",
@@ -657,15 +666,6 @@
           "publishedOn": "2021-11-18T03:32:47.000Z",
           "wordCount": 344,
           "title": "【REDSTONE】武道家の可能性"
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-866.html",
-          "author": "JEFRY",
-          "description": "昨日は石の日で経験値3倍だった様で、氷雨アチャで生まれて初めてマキナを使い切った。2Lvくらい上がって、自分としてはやり切った感がありログアウト。中にはLv1500になっている人もおり別次元。人口的に最も多いであろうLv900台とのレベル差は500以上で、もはや対戦とは呼べないエンドコンテンツの攻城戦が、いつまで保つのか心配でならない。レベル差500以上でも、知識ならまだ戦えるってことで自分は全部知識化しているが、物",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-866.html",
-          "publishedOn": "2021-11-15T04:13:18.000Z",
-          "wordCount": 344,
-          "title": "【REDSTONE】経験値3倍と装備(とりあえず)完成"
         }
       ]
     },
@@ -1137,33 +1137,6 @@
           "publishedOn": "2021-11-16T03:48:38.000Z",
           "wordCount": null,
           "title": "農業なら経営計画ダゾ"
-        },
-        {
-          "id": "http://rs.bigcat31.floppy.jp/?eid=438",
-          "author": "猫ノみぃ",
-          "description": "ネコのテはなかなか使にゃんがまータマには、マトモナことをいうてみる？？働き方改革は関わるすべてのヒト、モノ、シクミを向上させる意識改革なのでうーヒトにはそれぞれドラマがあり、ケガ、ビョーキ、カイゴ、ケッコン、イクジなどなど抱えてるモノがあるはずにゃで、...",
-          "link": "http://rs.bigcat31.floppy.jp/?eid=438",
-          "publishedOn": "2021-11-15T03:56:48.000Z",
-          "wordCount": 160,
-          "title": "ネコによるカイゼン"
-        },
-        {
-          "id": "http://rs.bigcat31.floppy.jp/?eid=437",
-          "author": "猫ノみぃ",
-          "description": "お城向けに育てるんやけど謎の制約を設けてるバトマチ、アイドルはマスらない？！　バトマチはヘイスト上書きすること　あるらしいからパス　アイドルは邪魔になるケースは　あまりないそうだけど、ほかを優先せっかくなら知識、物理両立！？しよう　スキルもステも難しい...",
-          "link": "http://rs.bigcat31.floppy.jp/?eid=437",
-          "publishedOn": "2021-11-15T03:30:50.000Z",
-          "wordCount": 160,
-          "title": "リトルの謎育成☆"
-        },
-        {
-          "id": "http://rs.bigcat31.floppy.jp/?eid=436",
-          "author": "猫ノみぃ",
-          "description": "石の日ウマウマでしたねいやはー、3転さんをLv600に2体戻したV鯖ね☆　こっからはレポとかなんだけどノーニードはーりーのんびりいきましょ♪V鯖はあと2転生プリを2匹3転にしなきゃなーまは周回は、次の石の日かな、、、みなさんの石の日はどうだったでしょうか？ツイッター...",
-          "link": "http://rs.bigcat31.floppy.jp/?eid=436",
-          "publishedOn": "2021-11-15T03:18:59.000Z",
-          "wordCount": 160,
-          "title": "石の日おつんー"
         }
       ]
     },
