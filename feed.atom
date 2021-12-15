@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-15T14:47:09.996Z</updated>
+    <updated>2021-12-15T21:47:20.713Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2033,36 +2033,6 @@ NEW ・討伐キャラ
         <summary type="html"><![CDATA[最近報告せず無言で開けることが多かった。理由はSSの処理がめんどくさい。範囲指定してカットするだけでもめんどい！！でも久しぶりにやろうかなぁと思ってもうすぐ終わるステップロトを購入。まずはHOPだ！！　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　へ？こち]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ガリムトいくならシュトラ？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=440</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=440"/>
-        <updated>2021-11-16T03:55:13.000Z</updated>
-        <summary type="html"><![CDATA[まはー、Lv850から900まで空いてる狩場、ガリムトの墓地ギルドホールからシュトラに飛べるのがベターとはいえ普通のテレポーターでもいいがんー、、、まはー、数狩りたいときだけだからねギルドホールの縁故地はS鯖だとアリアン、スマグが、ぶなん？？]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[農業なら経営計画ダゾ]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=439</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=439"/>
-        <updated>2021-11-16T03:48:38.000Z</updated>
-        <summary type="html"><![CDATA[昨日は農業の本読んでた☆知らないこと、いっぱいだな！！連作障害とか、、、まー、みぃは農業に手はださんがつか、ネコの手だし、、、農業は利益だして維持するのは難しい5年後生き残ってる確率は50%くらいらしいんー？？レストランやらカフェよりマシらしいが、、、んで...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[製錬+11にチャレンジ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111160000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202111160000/"/>
-        <updated>2021-11-16T03:34:57.000Z</updated>
-        <summary type="html"><![CDATA[２個目のガードⅡで成功しました。ラッキー！！１回目の+11チャレンジは失敗で9に下がって、代行(70本）をお願いして10に上げて、2回目の+11チャレンジで成功を引けました。（ガードⅠの在庫はこれで全滅、ガードⅡ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
