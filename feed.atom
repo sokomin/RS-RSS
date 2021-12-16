@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-15T21:47:20.713Z</updated>
+    <updated>2021-12-16T07:46:48.415Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無課金ですが課金しました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112160000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112160000/"/>
+        <updated>2021-12-16T05:25:40.000Z</updated>
+        <summary type="html"><![CDATA[GEM買いをして、課金品を出しています。ハイパー社員パウダーとツインフレームは同時に出しました。ハイパーにした理由は、狩りのときに陰のCPチャージが欲しいからです。（1500GEM+1200GEM）あまり狩りはしませ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本命は来週だから…]]></title>
         <id>http://extremetrailblazer.blog.fc2.com/blog-entry-785.html</id>
@@ -2013,26 +2023,6 @@ NEW ・討伐キャラ
         <summary type="html"><![CDATA[ブログやMMOが流行りだした時代(2000年前半)の日本ではyahooメールを登録・利用してた人も多いはず。今でも使ってる人は多いのではないでしょうか。今回は、yahooメールを利用するに当たっての15年前との違い・注...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根管治療とラバーダム]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202110010000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202110010000/"/>
-        <updated>2021-11-16T19:23:37.000Z</updated>
-        <summary type="html"><![CDATA[最近、奥歯が歯の神経にまで達した虫歯にかかってしまったので治療を受けることにしました。その時の話のまとめです。何やかんやで結構時間かかった。根管治療とは根管治療とは「歯髄（しずい）」と呼ばれる歯の...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[久しぶりにロト更新]]></title>
-        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-771.html</id>
-        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-771.html"/>
-        <updated>2021-11-16T11:05:52.000Z</updated>
-        <summary type="html"><![CDATA[最近報告せず無言で開けることが多かった。理由はSSの処理がめんどくさい。範囲指定してカットするだけでもめんどい！！でも久しぶりにやろうかなぁと思ってもうすぐ終わるステップロトを購入。まずはHOPだ！！　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　へ？こち]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
