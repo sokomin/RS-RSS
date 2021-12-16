@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-16T07:46:48.415Z</updated>
+    <updated>2021-12-16T11:03:56.767Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021.12.15 イベ更新]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/8e83ff58895606043e27cd1363ef014c</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/8e83ff58895606043e27cd1363ef014c?fm=rss"/>
+        <updated>2021-12-16T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[朝晩すっかり寒くなりましたね。
+ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12月1日メンテ後から12月22日メンテ前まで
+
+
+来週はアプデがあるからちょっと変わるかな？
+でもイベントは年明けまで続くからどうなんだろう。
+不具合が起きないといいけど・・・・(￣ω￣;)
+
+さて、今週もまったりゲームしようかな。
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ねむねむ、、、きょーは？？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=466</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=466"/>
+        <updated>2021-12-16T08:16:40.000Z</updated>
+        <summary type="html"><![CDATA[ひたすら眠い、、、つか、冬眠なのか？冬眠なのか？冬眠七日の刑？？まー、、、さておき、起き起き、エリアボスくらいはしよーかの？レイドは、V鯖なら空いてるかな？？まー、予約してにゃいからワカランbディメンションは、、パスかなめんどうなだけ、、、シゴトは、、、...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無課金ですが課金しました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112160000/</id>
@@ -2013,16 +2066,6 @@ NEW ・討伐キャラ
         <summary type="html"><![CDATA[まだ復帰して一月半だというのに…モチベが地の底＼(^o^)／ 今月に入ってからの鏡は成功率45%ぐらいで鏡品(一部素材だけど)が10数個増えた。異次元も3連勝ぐらいしてる気がする。 悪くないのに…でもやる気まったく出ない […]]]></summary>
         <author>
             <name>cho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yahooメールを利用するにあたっての注意点]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202110020000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202110020000/"/>
-        <updated>2021-11-16T21:25:09.000Z</updated>
-        <summary type="html"><![CDATA[ブログやMMOが流行りだした時代(2000年前半)の日本ではyahooメールを登録・利用してた人も多いはず。今でも使ってる人は多いのではないでしょうか。今回は、yahooメールを利用するに当たっての15年前との違い・注...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>

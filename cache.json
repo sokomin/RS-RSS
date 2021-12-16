@@ -13,15 +13,6 @@
           "publishedOn": "2021-12-11T11:28:45.000Z",
           "wordCount": 225,
           "title": "【 Twicas 】ツイキャスで特定の配信者さんが配信を始めたらアラートを飛ばす方法"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202110020000/",
-          "author": "そこらの民衆",
-          "description": "ブログやMMOが流行りだした時代(2000年前半)の日本ではyahooメールを登録・利用してた人も多いはず。今でも使ってる人は多いのではないでしょうか。今回は、yahooメールを利用するに当たっての15年前との違い・注...",
-          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202110020000/",
-          "publishedOn": "2021-11-16T21:25:09.000Z",
-          "wordCount": 245,
-          "title": "yahooメールを利用するにあたっての注意点"
         }
       ]
     },
@@ -904,6 +895,15 @@
       "siteUrl": "http://rs.bigcat31.floppy.jp/",
       "articles": [
         {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=466",
+          "author": "猫ノみぃ",
+          "description": "ひたすら眠い、、、つか、冬眠なのか？冬眠なのか？冬眠七日の刑？？まー、、、さておき、起き起き、エリアボスくらいはしよーかの？レイドは、V鯖なら空いてるかな？？まー、予約してにゃいからワカランbディメンションは、、パスかなめんどうなだけ、、、シゴトは、、、...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=466",
+          "publishedOn": "2021-12-16T08:16:40.000Z",
+          "wordCount": 163,
+          "title": "ねむねむ、、、きょーは？？"
+        },
+        {
           "id": "http://rs.bigcat31.floppy.jp/?eid=465",
           "author": "猫ノみぃ",
           "description": "必殺ボトル＆ビッグバルーンタイプにしました1キャラは健康重視ではなく知識もあげる型もう1キャラは健康重視の敏運バランス型まー、ビッグバルーンはエエけど場所を選ばないとなーパーティーボス　まとめて狩りたいけどんー、、、空いてて良いところはナカナカんーで@@　...",
@@ -1323,6 +1323,15 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/8e83ff58895606043e27cd1363ef014c",
+          "author": null,
+          "description": "朝晩すっかり寒くなりましたね。\n -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n12月1日メンテ後から12月22日メンテ前まで\n\n\n来週はアプデがあるからちょっと変わるかな？\nでもイベントは年明けまで続くからどうなんだろう。\n不具合が起きないといいけど・・・・(￣ω￣;)\n\nさて、今週もまったりゲームしようかな。\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/8e83ff58895606043e27cd1363ef014c?fm=rss",
+          "publishedOn": "2021-12-16T09:30:00.000Z",
+          "wordCount": 376,
+          "title": "2021.12.15 イベ更新"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/00eb57f64304b7ff83d514985bdcaf01",
           "author": null,
