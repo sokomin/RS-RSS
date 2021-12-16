@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-16T11:03:56.767Z</updated>
+    <updated>2021-12-16T13:06:35.450Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新しいテイマー]]></title>
+        <id>http://3rdcat.blog.fc2.com/blog-entry-141.html</id>
+        <link href="http://3rdcat.blog.fc2.com/blog-entry-141.html"/>
+        <updated>2021-12-16T12:42:16.000Z</updated>
+        <summary type="html"><![CDATA[これまでのあらすじ。第三の猫は転生し、転生ペットを捕まえ、そして出荷した。それでは、最強変身オンラインMMORPG、REDSTONE。やっていきたいと思います。まずは覚醒して、前世の強いスキルを取り戻します。何か前世と違わないですか？ぁー。ご安心ください。本体強化があるので、実質「導きの楽士」です。次に主力となるペットを捕まえに行きます。覚醒逃亡ハンター(300)！かつてuramichannelがぼろ雑巾のように打ちのめされた]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021.12.15 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/8e83ff58895606043e27cd1363ef014c</id>
