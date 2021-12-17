@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-17T03:28:31.199Z</updated>
+    <updated>2021-12-17T08:49:32.964Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[昨日は結局レイドいけたbb]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=467</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=467"/>
+        <updated>2021-12-17T03:29:36.000Z</updated>
+        <summary type="html"><![CDATA[木でも、V鯖はレイド空いてるのにゃ今日はS鯖いきたいが？？まー、埋まってても、えーわしょせん、ゲームはゲームやりたいことをやりたいだけやりゃーいい、、、んで　レベル上げなんて、よゆーのあるときだけするもんそうだねー、、、ヒマなのかなんかでゲームしてるが？...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記#５（朝活）]]></title>
         <id>https://www.youtube.com/watch?v=LGZNcL6y2-s</id>
