@@ -370,6 +370,15 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112180000/",
+          "author": "雷神の弓",
+          "description": "​​​​新しい超越スキルを導入する為に、スキル振りを一新しました。そこでスキル振りについて一つ一つ詳細に書いていこうと思います。何かの参考になれば幸いです。※スキルのSSは、全て狩り装備のときのものです。...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202112180000/",
+          "publishedOn": "2021-12-17T18:13:15.000Z",
+          "wordCount": 112,
+          "title": "Lv1434アーチャーのスキル振り"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112170000/",
           "author": "雷神の弓",
           "description": "まず対人用のメインの足がこれです。無駄にお金を掛けてWランディスになっています。ただ、運というのは物理火力を相手にするときしか役に立たないステータスなんですよね。運を上げまくる行為には、虚しさを感じ...",
@@ -656,15 +665,6 @@
           "publishedOn": "2021-11-23T08:56:54.000Z",
           "wordCount": 345,
           "title": "【REDSTONE】目指せ！高耐久武道家の今後"
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-867.html",
-          "author": "JEFRY",
-          "description": "S鯖に、攻城戦で異様な耐久性を誇る武道家がいる。何度か味方として攻城戦に参加したけど、嘘だろ？っていうくらい堕ちない。いくら仰反るや分身があっても、自分の武道家とは次元が違う耐久性に憧れを抱かすにはいられない。てことで、「目指せ！高耐久武道家プロジェクト」開始。まずは、分身スキルのクールタイム(CT)を減らしたい。クリーチャーでの対応になるが、CT減少は実は希少なスキルみたいで、メインパッシブにCT減少を",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-867.html",
-          "publishedOn": "2021-11-18T03:32:47.000Z",
-          "wordCount": 344,
-          "title": "【REDSTONE】武道家の可能性"
         }
       ]
     },
@@ -1127,15 +1127,6 @@
           "publishedOn": "2021-11-19T03:29:19.000Z",
           "wordCount": 160,
           "title": "pvp防御45%クレスト？？"
-        },
-        {
-          "id": "http://rs.bigcat31.floppy.jp/?eid=441",
-          "author": "猫ノみぃ",
-          "description": "こんちゃっちゃ、みぃたんです☆なんかもー、知識不足が深刻？？勉強する習慣がないからなーオトナになってこそ勉強すべし、だよやった分だけ差ができる何度も、大事なことは繰り返す大事なことね、、、勉強、運動、実験、経験、思考、オシャレみぃは着たきり猫だからな！...",
-          "link": "http://rs.bigcat31.floppy.jp/?eid=441",
-          "publishedOn": "2021-11-18T03:21:25.000Z",
-          "wordCount": 160,
-          "title": "大事なことは繰り返す"
         }
       ]
     },
