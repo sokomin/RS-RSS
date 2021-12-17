@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-16T21:25:41.919Z</updated>
+    <updated>2021-12-17T00:22:04.484Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2047,45 +2047,6 @@ NEW ・討伐キャラ
         <summary type="html"><![CDATA[こんちゃっちゃ、みぃたんです☆なんかもー、知識不足が深刻？？勉強する習慣がないからなーオトナになってこそ勉強すべし、だよやった分だけ差ができる何度も、大事なことは繰り返す大事なことね、、、勉強、運動、実験、経験、思考、オシャレみぃは着たきり猫だからな！...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.11.17 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/6157ac3a766bfb1c80deaaedb4e279bf</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/6157ac3a766bfb1c80deaaedb4e279bf?fm=rss"/>
-        <updated>2021-11-17T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[帰り道。夜空を見上げたらまあるい月がぽっかり浮いていました。
- -->
-
-
-
-
-
-
-
-9月8日メンテ後から10月6日メンテ前まで
-
-
-課金イベントはこちら
-
-
-
-11月2日メンテ後から11月24日メンテ前まで
-
-
-さて、今週もまったりゲームしようかな。
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
