@@ -275,6 +275,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LGZNcL6y2-s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LGZNcL6y2-s",
+          "publishedOn": "2021-12-17T02:20:57.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#５（朝活）"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=db9IW2RElbA",
           "author": null,
           "description": "",
