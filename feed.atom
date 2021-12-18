@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-18T17:13:37.963Z</updated>
+    <updated>2021-12-18T19:03:27.233Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[装備を細かくいじりました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112190000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112190000/"/>
+        <updated>2021-12-18T18:34:55.000Z</updated>
+        <summary type="html"><![CDATA[まず、武器と手の製錬OPを変更して自力4フレになったので↓をいじりました。赤線で囲んだ部分は攻撃速度だったのですが、速度が過剰になったので移動速度にしてみました。増幅して最高補正の30を引いたので、ちょ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暴れん坊メインクエスト]]></title>
         <id>http://3rdcat.blog.fc2.com/blog-entry-142.html</id>

@@ -370,6 +370,15 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112190000/",
+          "author": "雷神の弓",
+          "description": "まず、武器と手の製錬OPを変更して自力4フレになったので↓をいじりました。赤線で囲んだ部分は攻撃速度だったのですが、速度が過剰になったので移動速度にしてみました。増幅して最高補正の30を引いたので、ちょ...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202112190000/",
+          "publishedOn": "2021-12-18T18:34:55.000Z",
+          "wordCount": 91,
+          "title": "装備を細かくいじりました"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112180000/",
           "author": "雷神の弓",
           "description": "​​​​新しい超越スキルを導入する為に、スキル振りを一新しました。そこでスキル振りについて一つ一つ詳細に書いていこうと思います。何かの参考になれば幸いです。※スキルのSSは、全て狩り装備のときのものです。...",
