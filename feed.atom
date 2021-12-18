@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-18T09:05:33.962Z</updated>
+    <updated>2021-12-18T11:46:56.314Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暴れん坊メインクエスト]]></title>
+        <id>http://3rdcat.blog.fc2.com/blog-entry-142.html</id>
+        <link href="http://3rdcat.blog.fc2.com/blog-entry-142.html"/>
+        <updated>2021-12-18T10:56:47.000Z</updated>
+        <summary type="html"><![CDATA[一気に冷え込んできましたね。今朝方は屋根にうっすらと雪が積もっているのを観測しました。「観測しなければあるかないなのかわからないね」的な理論。あれを応用して、観測しなければよかったのでしょうか。今からでもなかったことにできますかね。屋根の雪の上にあったものを。第三の猫です。今回は、uramichannelのメインクエスト後半戦。キーボード上の手が体温を失いつつあるので巻きでいきます。残るメインクエ(1)四天王を]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lv1434アーチャーのスキル振り]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112180000/</id>
