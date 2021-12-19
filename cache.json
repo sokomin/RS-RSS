@@ -20,7 +20,17 @@
       "title": "KHBの部屋",
       "feedUrl": "https://khbsroom.com/index.xml",
       "siteUrl": "http://www.zephyr.dti.ne.jp/hiroll/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://khbsroom.com/episode_que_hector_02.html",
+          "author": null,
+          "description": "９／８（水）に実装されたヘクトルのエピソードクエ　Ｃｈａｐｔｅｒ２の攻略チャートを作成しました。",
+          "link": "https://khbsroom.com/episode_que_hector_02.html",
+          "publishedOn": "2021-12-19T01:50:00.000Z",
+          "wordCount": 967,
+          "title": "ヘクトルのエピソードクエ　Ｃｈａｐｔｅｒ２　攻略チャート作成"
+        }
+      ]
     },
     {
       "title": "リヤンのペット図鑑+だらだら戯言日記 in RS",
