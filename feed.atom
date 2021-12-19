@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-19T15:29:52.371Z</updated>
+    <updated>2021-12-19T16:07:31.564Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[B鯖ヤティカヌ　定点観測 【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=G7OJHElbgZg</id>
+        <link href="https://www.youtube.com/watch?v=G7OJHElbgZg"/>
+        <updated>2021-12-19T16:01:17.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近況報告]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-726.html</id>
@@ -2093,15 +2102,6 @@ NEW ・討伐キャラ
         <id>https://www.youtube.com/watch?v=54AVbuxcadc</id>
         <link href="https://www.youtube.com/watch?v=54AVbuxcadc"/>
         <updated>2021-11-20T13:01:07.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光奏師　1250Lv目指して育成 【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=EF06ol_-FOw</id>
-        <link href="https://www.youtube.com/watch?v=EF06ol_-FOw"/>
-        <updated>2021-11-20T03:55:04.000Z</updated>
         <author>
             <name>そこらの民衆</name>
         </author>
