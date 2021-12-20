@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-20T00:22:24.305Z</updated>
+    <updated>2021-12-20T03:07:29.061Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2095,34 +2095,6 @@ NEW ・討伐キャラ
         <summary type="html"><![CDATA[通常マスでも出るわ！！…うん、第2マップもようやく終わったのですが、コンプマスからのKU☆SOピナ率がひどい。第1、第2ともにほぼKU☆SOピナクリスタルという…頭おかしいんじゃね？！たぶん今回のマップ狙いはレアマスから今となっては価値が怪しいけどいいものを多めに出し、コンプマスで絶望させるってことなんだろう、たぶん。そんな感じだからコンプマスがごみのように捨てられた…まぁGO☆MIピナクリスタルがコンプマスにいる時]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コスチューム強化について]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111200000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202111200000/"/>
-        <updated>2021-11-20T13:27:50.000Z</updated>
-        <summary type="html"><![CDATA[私は無課金プレイヤーなのですが、コスチュームを強化して+10にしたいと考えています。+10にするのに大体３万円くらい掛かると聞くのですが、1500円のコスチューム20個分ってことは・・かせ糸520個必要ってことに...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B鯖攻城戦！！ ＃1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=54AVbuxcadc</id>
-        <link href="https://www.youtube.com/watch?v=54AVbuxcadc"/>
-        <updated>2021-11-20T13:01:07.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光奏師　1250Lv目指して育成 【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=EF06ol_-FOw</id>
-        <link href="https://www.youtube.com/watch?v=EF06ol_-FOw"/>
-        <updated>2021-11-20T12:56:45.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
