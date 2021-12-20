@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-20T13:16:25.410Z</updated>
+    <updated>2021-12-20T14:05:37.959Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2076,16 +2076,6 @@ NEW ・討伐キャラ
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[しゅご霊]]></title>
-        <id>http://3rdcat.blog.fc2.com/blog-entry-134.html</id>
-        <link href="http://3rdcat.blog.fc2.com/blog-entry-134.html"/>
-        <updated>2021-11-21T01:24:50.000Z</updated>
-        <summary type="html"><![CDATA[戻ってから１週間ちょっとが経過して、今のゲーム内状況もそれなりにわかった気がします。わかった気がしただけかもしれない、第三の猫です。こんな感じで、何をしているのかわからない感じが、第三の猫の狩り風景です。今のところは、スウェルファーが最優秀召喚獣です。命令から攻撃命中までの速さは抜群で、ケルビ―やペットが動く前に片付きます。オススメ。さて、今回は（ログインの文字入力から命名した）ぬぬきに様を、コイ]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
