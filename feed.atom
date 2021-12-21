@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-21T15:31:34.813Z</updated>
+    <updated>2021-12-21T15:51:30.790Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2045,16 +2045,6 @@ NEW ・討伐キャラ
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メインクエしなきゃなー、、]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=444</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=444"/>
-        <updated>2021-11-22T03:48:07.000Z</updated>
-        <summary type="html"><![CDATA[天上のHP100%とステータス1000ポイントは魅力的☆でも、かけら集めが好きでない四魂のかけらはなー（て、それ犬RSのかけらは、、、もはやディメンションで集めたいが？？どんだけ　かかるのやらプリティプリティのみぃには気まぐれて狩るくらいでモンスターを倒しまくる習...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
