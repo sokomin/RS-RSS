@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-21T14:25:49.432Z</updated>
+    <updated>2021-12-21T15:31:34.813Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[明日のアプデを紹介された範囲だけあっさりと]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-787.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-787.html"/>
+        <updated>2021-12-21T14:41:21.000Z</updated>
+        <summary type="html"><![CDATA[どうせ明日地獄を見るんだからこっちはあっさりと終わらせる。個人的に今更何とかシリーズやろうかと思ったけど、それやるならこのサイトでよくね？！ってなってねぇ…。まぁいいや、サァ行くか。【ｱﾌﾟﾃﾞ】・剣士、悪魔、ネクロ、ウルフ、リトル、アルケミの範囲狩り能力向上→それぞれに範囲スキルが追加される。利便性は…職次第とだけ。・ネフォンクリーチャー冒険要素大幅に変更→全くの別物になり、レア度と所持数の暴力と化す。]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B鯖古都ツリー前　定点観測 【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=S6L_wgQRAHQ</id>
