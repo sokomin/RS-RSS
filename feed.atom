@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-21T07:26:42.720Z</updated>
+    <updated>2021-12-21T08:34:02.764Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[明日のメンテは？？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=469</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=469"/>
+        <updated>2021-12-21T07:59:57.000Z</updated>
+        <summary type="html"><![CDATA[スキル改変くるとツイッターで言ってるかたいたが、、、詳しくは今日の配信でワカルンかな？まー、バグだらけにならないことを願うそれはさておき、今年もオシマイに近づく感じが、エエ感じ☆連休でナニかしたいノだ♪みぃたん補完計画　はつどー？？自分のメンテもせなななー]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021/12 公式生放送 同時試聴会！【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=dIlPXbzkHXY</id>
