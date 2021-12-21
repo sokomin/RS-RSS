@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-21T00:23:10.132Z</updated>
+    <updated>2021-12-21T03:07:28.302Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021/12 公式生放送 同時試聴会！【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=dIlPXbzkHXY</id>
+        <link href="https://www.youtube.com/watch?v=dIlPXbzkHXY"/>
+        <updated>2021-12-21T02:05:44.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アリーナ用の装備構成を考えまくって]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112210000/</id>
@@ -1988,16 +1997,6 @@ NEW ・討伐キャラ
         <summary type="html"><![CDATA[天上のHP100%とステータス1000ポイントは魅力的☆でも、かけら集めが好きでない四魂のかけらはなー（て、それ犬RSのかけらは、、、もはやディメンションで集めたいが？？どんだけ　かかるのやらプリティプリティのみぃには気まぐれて狩るくらいでモンスターを倒しまくる習...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初ディメンションハブ]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-722.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-722.html"/>
-        <updated>2021-11-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日ゲームやってた息子が「やった　ケルベロス仲間になった！」と言っていたのでこれを見せてあげましたいつも3匹一緒のワンちゃんに癒やされます特に散歩でぎゅうぎゅうになってる様は可愛らしいですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>

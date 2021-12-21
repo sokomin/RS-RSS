@@ -78,15 +78,6 @@
           "publishedOn": "2021-11-28T15:00:00.000Z",
           "wordCount": 452,
           "title": "現地エリアボスに通う"
-        },
-        {
-          "id": "https://mitsurin32.blog.fc2.com/blog-entry-722.html",
-          "author": "ミツリン",
-          "description": "先日ゲームやってた息子が「やった　ケルベロス仲間になった！」と言っていたのでこれを見せてあげましたいつも3匹一緒のワンちゃんに癒やされます特に散歩でぎゅうぎゅうになってる様は可愛らしいですこんにちは　ミツリンです",
-          "link": "https://mitsurin32.blog.fc2.com/blog-entry-722.html",
-          "publishedOn": "2021-11-21T15:00:00.000Z",
-          "wordCount": 452,
-          "title": "初ディメンションハブ"
         }
       ]
     },
@@ -223,6 +214,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8pMAy5Ifr2KgH8kM_xR9Og",
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dIlPXbzkHXY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dIlPXbzkHXY",
+          "publishedOn": "2021-12-21T02:05:44.000Z",
+          "wordCount": null,
+          "title": "2021/12 公式生放送 同時試聴会！【 REDSTONE 】"
+        },
         {
           "id": "https://www.youtube.com/watch?v=G7OJHElbgZg",
           "author": null,
