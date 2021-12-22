@@ -417,6 +417,15 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112230000/",
+          "author": "雷神の弓",
+          "description": "まずは、こうして・・本当に解除しちゃって・・これで3OP目が空いたよね？なら、1OP目と3OP目に付けられるランディスは貼り付けできるよね？これでTランディス足の完成だぜ！って言いたいところですが、ランディ...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202112230000/",
+          "publishedOn": "2021-12-22T17:42:23.000Z",
+          "wordCount": 90,
+          "title": "深夜こっそり実験して散っていった件について"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112220000/",
           "author": "雷神の弓",
           "description": "​​先日、善悪値－80だったのを天上界に行って+32にしたと日記に書きました。しかし、落ち着いて魔法抵抗を計算してみたら、自分がアホだということが判明しましたorz対人戦で必要な抵抗値は、フィールド補正を抜...",
@@ -730,15 +739,6 @@
           "publishedOn": "2021-11-23T15:00:01.000Z",
           "wordCount": 343,
           "title": "【REDSTONE】意外と知らないこと"
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-868.html",
-          "author": "JEFRY",
-          "description": "セレディス師匠とFIRIE先生に助言をいただき、今後の目指すべき姿が少しみえた。結論から書くと以下。「クリーチャーを厳選できない現環境だと色々無理ゲーだから、程々で遊ぶ。」分かっていたさ・・・分かっていたが、改めて知らされると切ない。また、自分の知識が色々中途半端で不完全だとも思い知らされた。・人間型ダメージ抵抗とPVP防御どっちも同じ様なもんじゃね？とざっくり考えていたが、違うものらしい。人間型ダメージ",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-868.html",
-          "publishedOn": "2021-11-23T08:56:54.000Z",
-          "wordCount": 345,
-          "title": "【REDSTONE】目指せ！高耐久武道家の今後"
         }
       ]
     },
@@ -1334,6 +1334,15 @@
       "feedUrl": "http://rssblog.ameba.jp/tori-tori121/rss20.xml",
       "siteUrl": "https://ameblo.jp/tori-tori121/",
       "articles": [
+        {
+          "id": "https://ameblo.jp/tori-tori121/entry-12717110978.html",
+          "author": null,
+          "description": "12/22にアプデきたね！\n \n\n（クリックで公式ページに飛べます）\n \n・・・ん？\n \n\n（クリックで公式ページに飛べます）\n \nほうほう？\n \n\n（クリックで公式ページに飛べます）\n \nなんと\n \n\n \n欲しいな～\n \nやりますか( *´艸｀)\n \n【結果】\n \nらんだむＮＰＣ(*'ω'*)\n\n \nPVP防御( ･´ｰ･｀)\n\n \nきせき＾ｑ＾\n\n \nおせんたくNPC( ﾟДﾟ)\n\n \n完全\n\n \n万能( *´艸｀)\n\n \nきゅうしゅうorぼうそー\n\n \nかがみん('ω')\n\n \nそれぞれ個数は書いてませんが複数出ました！\n \n選択NPCは3個獲得で大満足です(*´з`)\n \n終わり！\n \nまたね(*'▽')ﾉｼ",
+          "link": "https://ameblo.jp/tori-tori121/entry-12717110978.html",
+          "publishedOn": "2021-12-22T17:27:13.000Z",
+          "wordCount": 155,
+          "title": "【12/23】しゅくめいロトvsとりくん"
+        },
         {
           "id": "https://ameblo.jp/tori-tori121/entry-12713587890.html",
           "author": null,
