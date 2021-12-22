@@ -285,6 +285,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8kItXS6YclI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8kItXS6YclI",
+          "publishedOn": "2021-12-22T09:58:56.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】１２月アップデート実際にみていくぞい！"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bmgGpR1BpM8",
           "author": null,
           "description": "",
@@ -591,6 +600,15 @@
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
       "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1212.html",
+          "author": "クレリューフ",
+          "description": "･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ DECEMBER UPDATE今年最後のアップデートですね。内容は昨日の生放送でしていた通りなんですがクリーチャー関連がだいぶ変わった感じになるんですかねぇ。詳細はアップデートページか、ゲーム内で直にご確認ください。･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ さて、年末年始に入るという事で結構イベント来るかなと思ったんですが。継続中のもある分、新規開催は思ったほど多いわけ",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1212.html",
+          "publishedOn": "2021-12-22T10:42:19.000Z",
+          "wordCount": 573,
+          "title": "重要＆新着イベント情報更新"
+        },
         {
           "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1211.html",
           "author": "クレリューフ",
