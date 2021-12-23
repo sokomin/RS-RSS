@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-22T22:05:43.509Z</updated>
+    <updated>2021-12-23T02:23:04.783Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ナインテールブレイズ　範囲化！]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202112230000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202112230000/"/>
+        <updated>2021-12-23T01:52:45.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！R3.12/22のアプデにて待望の悪魔範囲スキル化しました(*´ω｀*)ヤティまではバインドで一体ずつ狩ったり、一撃で倒せるところはモータルとエクスプロージョンを使っていたので、すごく快適ですｂｂと...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深夜こっそり実験して散っていった件について]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112230000/</id>
@@ -2138,48 +2148,6 @@ T知識腰をはずして
         <summary type="html"><![CDATA[RSを17年ぐらいやってるけど、意外と知らないことがある。今日もそんなことを発見したので備忘録的にブログに書いておく。そんなの常識！って人は、やさしくスルーしてほしい。今日見つけたのがコレ。メインクエ１の天上界報酬「スキルポイント」。スキルポイントの文字にカーソルを合わせると表示される。超越スキルの登場で、以前より格段に重要度が増したスキルポイント。天上界に１回行くだけで1000ポイントもらえるので、最近]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11月23日　久しぶりの更新]]></title>
-        <id>https://ameblo.jp/vsabarahune/entry-12711930113.html</id>
-        <link href="https://ameblo.jp/vsabarahune/entry-12711930113.html"/>
-        <updated>2021-11-23T13:38:48.000Z</updated>
-        <summary type="html"><![CDATA[レッドストーンというMMOはやる事が多すぎて「それ」が苦痛になるまでは飽きる事はなさそうですね。
- 
-・メイン育成（物理戦士らふねっく）
-現在LV1100～　神殿B2が美味しいですが、月谷の方が楽なのでそっちで狩ってます。
-尚、UMUドロップは〇ございません。
- 
- 
- 
-・サブ育成（セカンドメイン的な）
-黒魔Happy Sugar Life　現在LV900～　レポクエ＆ヘクトルクエで調整しようと思っていたのに、８８０で止めてしまって地下墓地B1を死ぬ気で狩りした子。
-健康＝威厳なのだが、紙すぎて困っている。素で健康に振ろうか悩み中・・・
-やっとマキナ生活が始まった。
- 
- 
- 
- 
-・地下キャラ（欠片集めも含む）
-メインIDには3キャラ　サブIDに2キャラ　コンセプトは「装備の入れ替えをしなくても自分で狩りして集める」適当な装備で適当に狩って集めるスタイル　結晶石は使わない。
- 
-意外と育成が楽しい。
- 
- 
- 
- 
-NEW ・討伐キャラ
-冒険家協会バーNPC「討伐騎士団長」から挑戦できるエリアボスを周回するためにゴールを「LV800」に設定したキャラ
-最近はこのLV８００がゴールキャラを育成するのに一番時間を費やしてる気がします。
-とはいえ、引率してもらわないとエリアボスは倒せないのでとりあえず量産すればええやん！ってわけじゃないです。
-相方さんとのペースも考えつつ・・・。
- 
- 
-お試しで色んな職業を育てています・・・これが意外と楽しい。
-ある程度まとめて「俺流LV上げルート」みたいな記事書いてみたいです。]]></summary>
-        <author>
-            <name>レッドストーンというゲームを楽しむパパです。</name>
         </author>
     </entry>
 </feed>
