@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-23T07:34:52.274Z</updated>
+    <updated>2021-12-23T09:28:51.886Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[眠いzzZZ]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=472</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=472"/>
+        <updated>2021-12-23T08:16:49.000Z</updated>
+        <summary type="html"><![CDATA[ふみゅ、、、、眠い、、パトラッシュ、ぼきゃー、憑かれたよてのを　この時期はネタでできるbbあとは、冬眠ちゅーにつき、ハルになったら出直してくださいんー、、、秋の前に冬がきちゃったらりすさんは小声でしんでしまふ？まー、、、眠いときは寝るのが1番さて、カエル...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年末年始　ギルド移籍考える]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=471</id>
