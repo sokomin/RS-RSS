@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-23T15:05:44.559Z</updated>
+    <updated>2021-12-23T18:33:30.479Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[くりすますいぶ＆くりすます！]]></title>
+        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202112240000/</id>
+        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202112240000/"/>
+        <updated>2021-12-23T16:35:35.000Z</updated>
+        <summary type="html"><![CDATA[​可愛い挨拶とは裏腹に欲しかない、こんばんはまおみくさんです皆様！！！​​メリークリスマス☆彡​​一人でやるのは寂しいのでいつも撮影協力ありがとねってな訳で前回お知らせしたとおりに本日はアリーナでの装備...]]></summary>
+        <author>
+            <name>苺桜三玖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネフォンクリーチャー画面変更]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/46ef8b1fb9607051c60fc67dfe8a2636</id>
@@ -2198,26 +2208,6 @@ T知識腰をはずして
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1208.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1208.html"/>
-        <updated>2021-11-24T06:03:30.000Z</updated>
-        <summary type="html"><![CDATA[★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★SPecial DreamRoulette基本はいつものドリームルーレットですね。違う点が、ルーレットで貯めたコインを1500枚以上アイテムと交換すれば1000サービスポイントがもらえるようです。1500枚以上交換した人全員がもらえるようなのでとりあえず1500枚目指してみるのもいいかもですね。★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ネフォンクリーチャーミッションイベント]]></summary>
-        <author>
-            <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽しんでまツか？？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=445</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=445"/>
-        <updated>2021-11-24T03:28:55.000Z</updated>
-        <summary type="html"><![CDATA[はにゃーん、昨日は　のんびりゴロゴロゲームとか、オシゴトは楽しんで　なんボ楽って、人が集まってくる魅力なんだってへーーートップはモーね、、、ハルカかなたの領域だからねｶﾞﾝﾊﾞﾗﾅｲをｶﾞﾝﾊﾞﾙよーはね、マイペースで、ぐーbb最近、チャットがカオスにならんのはオサエ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
