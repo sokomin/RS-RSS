@@ -687,6 +687,15 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-875.html",
+          "author": "JEFRY",
+          "description": "LOST ARKの大型アップデートが来た。目玉の軍団長レイドには行ってないが、情報をかいつまんでみると、今までの初見殺しギミック満載の「慣れないとクリア不可」は相変わらず。かつ、8人PT必須で、全員が手順を把握している前提であり、足をは引っ張らない様に高プレッシャーを受けるところも変わらず。韓国では好評だったらしいが、やはり日本では受け入れられ難いとおもわれ、引退の波を沈めることは出来ないかもしれない。かく",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-875.html",
+          "publishedOn": "2021-12-23T03:29:23.000Z",
+          "wordCount": 347,
+          "title": "【ゲーム全般】新MMORPGへの期待"
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-873.html",
           "author": "JEFRY",
           "description": "他キャラと装備を使いまわすため、嫌々ディメンションに通い、ようやくLv941を達成。これで武道のレベリングは終了。面倒なディメンション作業が1キャラ減って嬉しい限り。今年の金鯖から連れてきた雨アチャもLv950を達成してからはディメンションには通っておらず、風剣士とメイン雨アチャのみ通っている現状。どっちかに絞りたいけど、まだ攻城戦のメインに据える方を決めきれない・・・ちなみに、高耐久(目指している)武道の現",
@@ -730,15 +739,6 @@
           "publishedOn": "2021-11-28T01:36:26.000Z",
           "wordCount": 338,
           "title": "【REDSTONE】大福進捗と秋風落葉"
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-869.html",
-          "author": "JEFRY",
-          "description": "RSを17年ぐらいやってるけど、意外と知らないことがある。今日もそんなことを発見したので備忘録的にブログに書いておく。そんなの常識！って人は、やさしくスルーしてほしい。今日見つけたのがコレ。メインクエ１の天上界報酬「スキルポイント」。スキルポイントの文字にカーソルを合わせると表示される。超越スキルの登場で、以前より格段に重要度が増したスキルポイント。天上界に１回行くだけで1000ポイントもらえるので、最近",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-869.html",
-          "publishedOn": "2021-11-23T15:00:01.000Z",
-          "wordCount": 343,
-          "title": "【REDSTONE】意外と知らないこと"
         }
       ]
     },
@@ -986,6 +986,15 @@
       "feedUrl": "http://rscat31.jugem.jp/?mode=rss",
       "siteUrl": "http://rs.bigcat31.floppy.jp/",
       "articles": [
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=470",
+          "author": "猫ノみぃ",
+          "description": "まー、、、ステスキルリセットないあたりは、どうにかして欲しいが？？メンテの反応は上々？？クリーチャーは、まあまあ？リトルのエンター覚醒だと変身解除はんーー？ガルパラがモーション続いて微妙なのと、超絶とか五月4解放がな、、、まー、配信では検討とかいってた...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=470",
+          "publishedOn": "2021-12-23T03:30:35.000Z",
+          "wordCount": 163,
+          "title": "メンテは無事通過？？"
+        },
         {
           "id": "http://rs.bigcat31.floppy.jp/?eid=469",
           "author": "猫ノみぃ",

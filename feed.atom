@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-23T02:23:04.783Z</updated>
+    <updated>2021-12-23T03:41:19.816Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メンテは無事通過？？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=470</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=470"/>
+        <updated>2021-12-23T03:30:35.000Z</updated>
+        <summary type="html"><![CDATA[まー、、、ステスキルリセットないあたりは、どうにかして欲しいが？？メンテの反応は上々？？クリーチャーは、まあまあ？リトルのエンター覚醒だと変身解除はんーー？ガルパラがモーション続いて微妙なのと、超絶とか五月4解放がな、、、まー、配信では検討とかいってた...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム全般】新MMORPGへの期待]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-875.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-875.html"/>
+        <updated>2021-12-23T03:29:23.000Z</updated>
+        <summary type="html"><![CDATA[LOST ARKの大型アップデートが来た。目玉の軍団長レイドには行ってないが、情報をかいつまんでみると、今までの初見殺しギミック満載の「慣れないとクリア不可」は相変わらず。かつ、8人PT必須で、全員が手順を把握している前提であり、足をは引っ張らない様に高プレッシャーを受けるところも変わらず。韓国では好評だったらしいが、やはり日本では受け入れられ難いとおもわれ、引退の波を沈めることは出来ないかもしれない。かく]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ナインテールブレイズ　範囲化！]]></title>
         <id>https://plaza.rakuten.co.jp/karudxrs/diary/202112230000/</id>
@@ -2138,16 +2158,6 @@ T知識腰をはずして
         <summary type="html"><![CDATA[はにゃーん、昨日は　のんびりゴロゴロゲームとか、オシゴトは楽しんで　なんボ楽って、人が集まってくる魅力なんだってへーーートップはモーね、、、ハルカかなたの領域だからねｶﾞﾝﾊﾞﾗﾅｲをｶﾞﾝﾊﾞﾙよーはね、マイペースで、ぐーbb最近、チャットがカオスにならんのはオサエ...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】意外と知らないこと]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-869.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-869.html"/>
-        <updated>2021-11-23T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[RSを17年ぐらいやってるけど、意外と知らないことがある。今日もそんなことを発見したので備忘録的にブログに書いておく。そんなの常識！って人は、やさしくスルーしてほしい。今日見つけたのがコレ。メインクエ１の天上界報酬「スキルポイント」。スキルポイントの文字にカーソルを合わせると表示される。超越スキルの登場で、以前より格段に重要度が増したスキルポイント。天上界に１回行くだけで1000ポイントもらえるので、最近]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
