@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-23T23:06:44.015Z</updated>
+    <updated>2021-12-24T02:22:06.129Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2095,16 +2095,6 @@ HPがまだまだ低め・・・といいつつ・・・
         <summary type="html"><![CDATA[むかしむかし、鏡は宝物だったそりゃー、磨きあげるのもものすごい手間と時間がいた三種の神器でもあるしねさて、現代の鏡は？魔除けの効果があるのにチャンと使ってないヒトが多い気がするヒトが不幸になるのは　日に当たらないこと、　歩かないこと、　睡眠を整えないこ...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[また会えたら！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-320.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-320.html"/>
-        <updated>2021-11-24T12:35:00.000Z</updated>
-        <summary type="html"><![CDATA[非常に残念なお知らせですが結論を先に言うとわたしはＲＳをやめなければならなくなりました。わたし自身ＲＳが飽きたわけでも嫌いになったわけでもなく自分ではまだまだやりたい事が沢山あったのですが自分の環境がそれを許さなくなってしまったのです...11/3に家の中で母が倒れているのを発見し救急車を呼びましたがその時はもう手遅れだったらしく帰らぬ人となってしまいました。それでいままで葬儀や死亡後の手続きに必要な書]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
