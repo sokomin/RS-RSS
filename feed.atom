@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-24T03:05:43.606Z</updated>
+    <updated>2021-12-24T04:07:19.023Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[わくわく]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=474</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=474"/>
+        <updated>2021-12-24T03:46:25.000Z</updated>
+        <summary type="html"><![CDATA[((o(^-^)o))わくわく((o(^-^)o))したいと星にねがったらー♪なぞのなぞリドルでオモシロ言葉がみーつかったよ☆コーンフレークとちゃうか？チャウチャウちゃうか？ほな、コーンフレークとちゃうな、コーンフレークはチャイナチャウチャウヨホーでしらべたところコーンフレー...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レイドやんなきゃ？？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=473</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=473"/>
+        <updated>2021-12-24T03:32:55.000Z</updated>
+        <summary type="html"><![CDATA[S鯖でもチョイでLv900のが3キャラあと、3周くらいでイケそー　モフV鯖は昨日行ったからオケ☆B鯖はどうしようかな、、、ただの作業となってしまってる、、、レポ使えばLv800は簡単だろうし？？レイド通う意味低いのよねー、、、レイドはいっぺんにレベル上がるけど時間で動...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[くりすますいぶ＆くりすます！]]></title>
         <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202112240000/</id>
