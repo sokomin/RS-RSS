@@ -303,6 +303,15 @@
           "title": "【REDSTONE】１２月アップデート公式配信同時視聴な回"
         },
         {
+          "id": "https://www.youtube.com/watch?v=Lj_XivChtpY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Lj_XivChtpY",
+          "publishedOn": "2021-12-20T10:56:41.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#６（クリスマス）"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rfeWUm4SxHg",
           "author": null,
           "description": "",
@@ -768,6 +777,15 @@
       "feedUrl": "http://extremetrailblazer.blog.fc2.com/?xml",
       "siteUrl": "http://extremetrailblazer.blog.fc2.com/",
       "articles": [
+        {
+          "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-789.html",
+          "author": "Trailblazer",
+          "description": "知ってた。【臨時メンテ】12/27(月)12:00～15:00主な修正内容はクリーチャーマナが65535上限で、それ以上得ても増えない事。その他不具合も修正らしいが…それはわかりませんえん。まぁ来るだろうなとは思ってたけども…土日は挟むのね一応詳細アプデの後に臨時メンテは付き物。今回はちょっと遅めなだけおわり",
+          "link": "http://extremetrailblazer.blog.fc2.com/blog-entry-789.html",
+          "publishedOn": "2021-12-24T10:45:32.000Z",
+          "wordCount": 112,
+          "title": "強襲！臨時メンテ！！"
+        },
         {
           "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-788.html",
           "author": "Trailblazer",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-24T09:40:25.846Z</updated>
+    <updated>2021-12-24T11:47:05.196Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[強襲！臨時メンテ！！]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-789.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-789.html"/>
+        <updated>2021-12-24T10:45:32.000Z</updated>
+        <summary type="html"><![CDATA[知ってた。【臨時メンテ】12/27(月)12:00～15:00主な修正内容はクリーチャーマナが65535上限で、それ以上得ても増えない事。その他不具合も修正らしいが…それはわかりませんえん。まぁ来るだろうなとは思ってたけども…土日は挟むのね一応詳細アプデの後に臨時メンテは付き物。今回はちょっと遅めなだけおわり]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わくわく]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=474</id>
@@ -433,6 +443,15 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[​​やっと組み合わせが決まりました。まず、装備の外観から。フロントライン持ってないし、武器以外の製錬は10止まりだし、我ながら大した装備ではないですね。ステータスの詳細とビット表記ダメは、以下のように...]]></summary>
         <author>
             <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#６（クリスマス）]]></title>
+        <id>https://www.youtube.com/watch?v=Lj_XivChtpY</id>
+        <link href="https://www.youtube.com/watch?v=Lj_XivChtpY"/>
+        <updated>2021-12-20T10:56:41.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
