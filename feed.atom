@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-25T14:33:10.786Z</updated>
+    <updated>2021-12-25T15:29:22.800Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021年もあとわずか…え？僅か？]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-790.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-790.html"/>
+        <updated>2021-12-25T14:37:27.000Z</updated>
+        <summary type="html"><![CDATA[うっそだろ？骸骨サンタのオーラを持ったモンスターだけど、基本的には全マップにいるんだろうと予想。オーラ持ちだとタゲを取らなくてもモンスター情報が表示されてます。こんな感じ…ってラオールさん、あんたもか。基本的に敵が多い狩場が有利だと思うから、カケラ出し狩場でがんばるといいかもしれない。なお、ゲージ上昇量は割と微小。だいぶ数を要するが、1時間狩りすれば溜まるんじゃないかな？今そんな気力ないからそこは測]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B鯖古都ツリー前　定点観測 【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=ZQLBfcoN0Ew</id>
