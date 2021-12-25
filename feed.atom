@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-24T23:28:06.387Z</updated>
+    <updated>2021-12-25T03:41:10.188Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クリスマスおめでとう☆]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=475</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=475"/>
+        <updated>2021-12-25T03:28:25.000Z</updated>
+        <summary type="html"><![CDATA[ふむ、みーたんは一応？？無宗教ということにしてるが？？まー、クリスマスくらいは便乗するのじゃイエスキリストの誕生日だから祝う？まー、それもそうだが生きとし生けるもの全ての誕生と今、命があることをお祝いするのじゃいイエスさんは、人の罪　全てを背負って十字...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直通天上界]]></title>
+        <id>http://3rdcat.blog.fc2.com/blog-entry-144.html</id>
+        <link href="http://3rdcat.blog.fc2.com/blog-entry-144.html"/>
+        <updated>2021-12-25T02:26:58.000Z</updated>
+        <summary type="html"><![CDATA[いよいよ年末ですね。今年も様々な出来事があったことでしょう。・・・、１か月ちょっとしか記憶がない気もしますが、ちょっと早めの年忘れかもしれません！第三の猫です。トラン森でエルフをなでてレベルを上げました。覚醒当初は全くシナジーのないサマナースキルを取得する「脳破壊ビルド」を考えていたのですが、久しぶりのビーストテイマーにはまってしまい、気づけば、普通に真心の民の覚醒スキルを取得していました。良い事]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[強襲！臨時メンテ！！]]></title>
         <id>http://extremetrailblazer.blog.fc2.com/blog-entry-789.html</id>
