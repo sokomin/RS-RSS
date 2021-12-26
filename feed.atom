@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-26T15:43:09.608Z</updated>
+    <updated>2021-12-26T18:33:09.191Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[さらに指の解放をゴリ押したら・・]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112270000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112270000/"/>
+        <updated>2021-12-26T16:50:29.000Z</updated>
+        <summary type="html"><![CDATA[現在、所持している4解放済のT運比ワームは３個。（解放していないやつは他に5個あります）４解放のT運比ワームは4～5個は欲しいので、解放しちゃうことにしました。まず、安全に万能解放を使用しました。そして...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12月22日アップデート　【クリーチャー、スキル改変等】]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-727.html</id>
