@@ -22,6 +22,15 @@
       "siteUrl": "http://www.zephyr.dti.ne.jp/hiroll/",
       "articles": [
         {
+          "id": "https://khbsroom.com/episode_que_butsukaru_sousei_01.html",
+          "author": null,
+          "description": "１０／２７（水）に実装された連鎖クエスト「港町の騒ぎ」の攻略チャートを作成しました。",
+          "link": "https://khbsroom.com/episode_que_butsukaru_sousei_01.html",
+          "publishedOn": "2021-12-21T10:30:00.000Z",
+          "wordCount": 1044,
+          "title": "エピソードクエスト「ぶつかる双星」Ｃｈａｐｔｅｒ１　攻略チャート作成"
+        },
+        {
           "id": "https://khbsroom.com/chained_que_minatomachi_no_sawagi.html",
           "author": null,
           "description": "１０／２７（水）に実装された連鎖クエスト「港町の騒ぎ」の攻略チャートを作成しました。",
@@ -205,6 +214,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8pMAy5Ifr2KgH8kM_xR9Og",
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZYkEamjmvpY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZYkEamjmvpY",
+          "publishedOn": "2021-12-26T00:10:51.000Z",
+          "wordCount": null,
+          "title": "シュラグ超絶級 WIZ BIS マスケ【REDSTONE / 붉은보석】"
+        },
         {
           "id": "https://www.youtube.com/watch?v=ZQLBfcoN0Ew",
           "author": null,
