@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-26T13:31:41.854Z</updated>
+    <updated>2021-12-26T15:43:09.608Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[12月22日アップデート　【クリーチャー、スキル改変等】]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-727.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-727.html"/>
+        <updated>2021-12-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日息子と今年亡くなったすぎやまこういちさんの話をしていましたドラクエの曲で有名な方ですが実は私はこの曲が一番好きです数々の名曲を残してきたすぎやまこういちさんですがこの曲は今でも心に残っています両腕に掃除用具の長いホウキをつけてイデオンソードとやっていた小学生時代が懐かしいですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シュラグ超絶級 WIZ BIS マスケ【REDSTONE / 붉은보석】]]></title>
         <id>https://www.youtube.com/watch?v=ZYkEamjmvpY</id>
@@ -1922,16 +1932,6 @@ V鯖での今日の攻城
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[うわー、なんか、もーね？！]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=451</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=451"/>
-        <updated>2021-11-27T03:36:09.000Z</updated>
-        <summary type="html"><![CDATA[んむ、世界はチャンスであふれてるが同時にリスクもたっぷりあふれてる株安に、原油高に、円高にお金を儲けたいなら、チャンスだけどんー？？明日は明日の風が吹く、だからね未来のことなどワカランとはいえ、予想は出来る占いで（オイオイまー、予想とかだけどソーダね、...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
