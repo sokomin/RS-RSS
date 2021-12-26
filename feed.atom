@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-26T02:53:36.925Z</updated>
+    <updated>2021-12-26T03:30:37.540Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2013,16 +2013,6 @@ RS rahune V鯖@rahuneV 
 2021年10月17日 08:38]]></summary>
         <author>
             <name>レッドストーンというゲームを楽しむパパです。</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[そろそろコスチューム強化やろうかな？]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111260000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202111260000/"/>
-        <updated>2021-11-26T14:57:27.000Z</updated>
-        <summary type="html"><![CDATA[現在のかせ糸の状況単価４本でこれだけ買えました。売っていただいた皆さん、ありがとうございました。300個集まったら強化に着手しようかなと前回の記事に書きましたが、300個ではおそらく完成しないと思うので...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
