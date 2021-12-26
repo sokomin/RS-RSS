@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-26T19:21:50.831Z</updated>
+    <updated>2021-12-26T20:05:36.855Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アリーナステ公開]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112270001/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112270001/"/>
+        <updated>2021-12-26T19:35:30.000Z</updated>
+        <summary type="html"><![CDATA[４解放になったT力比ウロボロスを組み込んだ運型のステータスを公開します。※前回の記事に追記としてSSを貼りましたが、コスチュームが狩り用だったのでこの記事で訂正しています。（天球、秘薬、刃油有です。知...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[さらに指の解放をゴリ押したら・・]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112270000/</id>
