@@ -453,6 +453,15 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112280000/",
+          "author": "雷神の弓",
+          "description": "​やっと成功しました。連敗したので運が悪かったと思っていましたが、他の指の成功も加味すると・・〇〇×××××××〇×〇という結果なので、4勝8敗とほぼ確率通りでした。これでやっとこうなりました。解放で軽く1000...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202112280000/",
+          "publishedOn": "2021-12-27T15:00:06.000Z",
+          "wordCount": 96,
+          "title": "やっと改が成功＆巨神の甲冑の話"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112270001/",
           "author": "雷神の弓",
           "description": "４解放になったT力比ウロボロスを組み込んだ運型のステータスを公開します。※前回の記事に追記としてSSを貼りましたが、コスチュームが狩り用だったのでこの記事で訂正しています。（天球、秘薬、刃油有です。知...",
@@ -784,15 +793,6 @@
           "publishedOn": "2021-11-28T15:00:01.000Z",
           "wordCount": 349,
           "title": "【LOSK ARK】閑散期"
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-870.html",
-          "author": "JEFRY",
-          "description": "ダラダラとイベントとディメンションをこなす日々。大福は何とか目標の物をゲット。狩り頑張らなくても集まったので、前回に比べて良心的だったのかも。そういえば、いつもの討伐で、こんなものをゲットした。「秋風が吹いて葉が落ちて人を悲しませる。」という感じの意解がネットにあった。剣士でGv全盛の頃、この片手剣でGvに出たかったが、フレームが遅くて悩んだりしたのが懐かしい・・・思えば、あの頃が一番REDSTONEが楽しか",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-870.html",
-          "publishedOn": "2021-11-28T01:36:26.000Z",
-          "wordCount": 338,
-          "title": "【REDSTONE】大福進捗と秋風落葉"
         }
       ]
     },
@@ -831,6 +831,15 @@
       "feedUrl": "http://extremetrailblazer.blog.fc2.com/?xml",
       "siteUrl": "http://extremetrailblazer.blog.fc2.com/",
       "articles": [
+        {
+          "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-791.html",
+          "author": "Trailblazer",
+          "description": "といっても臨時メンテなんだけど…。【不具合修正】・クリマナ65535超過できない現象・冒険家協会防具装備選択BOXが正しく受け取れなかった人へ→転生クエ完了するともらえたらしいんだけど、それが受け取れなかった場合はお問合せしてって。一応公式のメンテ終了のお知らせ＜追記＞・リトルスキル調整に伴う補填→3転Lv900以上以上にプリリトル所持している垢にミニ超越スキル初期化の書が配られた。覚醒エンターテイナーで超越スキ",
+          "link": "http://extremetrailblazer.blog.fc2.com/blog-entry-791.html",
+          "publishedOn": "2021-12-27T10:46:52.000Z",
+          "wordCount": 112,
+          "title": "たぶん2021年最後のメンテ後更新"
+        },
         {
           "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-790.html",
           "author": "Trailblazer",
@@ -1245,15 +1254,6 @@
           "publishedOn": "2021-11-29T03:41:41.000Z",
           "wordCount": 160,
           "title": "堕ちた翼はダレのモノ？"
-        },
-        {
-          "id": "http://rs.bigcat31.floppy.jp/?eid=452",
-          "author": "猫ノみぃ",
-          "description": "んちゃ♪みぃたんは変な人が書いた成功法則著　斎藤一人が好きなのでうー☆まー、みーもマネして書いてみるとマネー　いず　のっと　ハッピーハッピー　いず　マインドグッド　マインド　いず　ユタカまー、お金より心の豊かさで！！",
-          "link": "http://rs.bigcat31.floppy.jp/?eid=452",
-          "publishedOn": "2021-11-28T06:05:45.000Z",
-          "wordCount": 160,
-          "title": "猫による成功法則"
         }
       ]
     },
