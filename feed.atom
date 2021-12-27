@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-27T20:46:59.826Z</updated>
+    <updated>2021-12-27T22:05:38.398Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#７　（ドラツイで荒地でUMU出したい）]]></title>
+        <id>https://www.youtube.com/watch?v=J_XHGEZ6_co</id>
+        <link href="https://www.youtube.com/watch?v=J_XHGEZ6_co"/>
+        <updated>2021-12-27T21:42:21.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[やっと改が成功＆巨神の甲冑の話]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112280000/</id>
