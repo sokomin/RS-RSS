@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-27T03:08:42.676Z</updated>
+    <updated>2021-12-27T03:48:31.245Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ホットスピンストーン姫]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=476</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=476"/>
+        <updated>2021-12-27T03:34:08.000Z</updated>
+        <summary type="html"><![CDATA[B鯖で遊びでやってるけどレポのラットキングに苦戦、、、単発の遠距離攻撃火と物理の融合、、、Lv200くらいまでは良いんだけどねステ振り　力、知識低いからもーね、、、狩れる気がしない速度　プラス　ステの破片指とか探しても良いけど、、、高いからねbbLv800超えたか...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アリーナステ公開]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112270001/</id>
