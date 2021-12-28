@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-28T15:30:59.191Z</updated>
+    <updated>2021-12-28T16:08:23.246Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1827,16 +1827,6 @@ V鯖でリトルのMQ終わらせたいのでそれがおわったらですか�
         <summary type="html"><![CDATA[あ、RS関係ない話題なので追記に入れます。別ゲー兼リアルのことなので…。]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[堕ちた翼はダレのモノ？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=453</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=453"/>
-        <updated>2021-11-29T03:41:41.000Z</updated>
-        <summary type="html"><![CDATA[むかしむかし、翼のアル猫がいました。虎に翼なら権力者に自由を与えるだが所詮、猫ですからなー、ぐーたらしてました。ある日、ニンゲンさんがやって来ました。　ラットキングが最近、暴れてます。　退治をお願いできませんか？猫は考えて　ラットキングねー、、、　わた...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
