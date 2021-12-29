@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-29T13:35:13.643Z</updated>
+    <updated>2021-12-29T15:30:32.165Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1785,16 +1785,6 @@ BでもVの皆も優しすぎて優しすぎて・・・
         <summary type="html"><![CDATA[何となく気になっていた足を購入してみました。購入時の状態は、製錬5、BFOPなし、純粋1段階でした。自分は狩りも対人も足には純粋を付けているので、魔力注入はしなくてOKですね。BFOPは、混沌通いのおかげで強...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリスクラッチはイツカラ？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=454</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=454"/>
-        <updated>2021-11-30T03:18:37.000Z</updated>
-        <summary type="html"><![CDATA[明日、メンテだからクリスマススクラッチ始まる？？ワカランノー、、、お小遣いほしいからスクラッチしたいがんー？？まーね、マネー　いず　ノット　ハッピーお金をつかえばハッピーとはかぎらんからねまはー、お金はモノを買うチャンスでありシアワセを買うチャンスでは...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
