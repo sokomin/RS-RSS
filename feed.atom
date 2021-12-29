@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-29T00:22:12.387Z</updated>
+    <updated>2021-12-29T01:38:10.837Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1817,16 +1817,6 @@ V鯖でリトルのMQ終わらせたいのでそれがおわったらですか�
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歩くんだよ？！]]></title>
-        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-777.html</id>
-        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-777.html"/>
-        <updated>2021-11-29T13:26:56.000Z</updated>
-        <summary type="html"><![CDATA[あ、RS関係ない話題なので追記に入れます。別ゲー兼リアルのことなので…。]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
