@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-29T15:44:31.895Z</updated>
+    <updated>2021-12-29T18:07:31.150Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1765,16 +1765,6 @@ BでもVの皆も優しすぎて優しすぎて・・・
         <summary type="html"><![CDATA[仕事で夜勤だ。こんな年寄りの管理職に、夜勤なんかさせたらアカンやろ。と愚痴りつつ、仕事に精を出し・・・って、怠いわ！気分転換にブログを徘徊していると、青鯖時代のお知り合いのブログを見つけ、リンクから昔のブログを読み漁ってしまった。いやもう懐かし過ぎるな！wほとんどのブログが2013年あたりで途切れてるんだが、稀に復活してたり、復活してまた途切れていたり、色々ドラマがあって面白い。そういえば、昔RSのこと]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コスチューム強化やってみた（早]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202111300001/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202111300001/"/>
-        <updated>2021-11-30T04:40:41.000Z</updated>
-        <summary type="html"><![CDATA[うだうだ迷ってもあれなんで、さくっと強化やってみましたよ。+10が一発成功とか引き強過ぎてやばくね？ｗってか、ただの+10じゃない・・なんだこれは？星コスとか余計なことを・・ｗ俺はあのイカレポンチみたい...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
