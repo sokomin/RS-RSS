@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-29T07:06:05.193Z</updated>
+    <updated>2021-12-29T09:29:02.824Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イイ年末年始を！]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=480</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=480"/>
+        <updated>2021-12-29T08:39:00.000Z</updated>
+        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
+
+ 
+
+さてと、シゴトも終わったし、
+
+おカネも受け取ってきたｂｂ
+
+これで　良いお正月が
+
+迎えられるというヤツよ
+
+ 
+
+レッドストーンは、
+
+年末年始少しだけ？？ガンバル＠＠
+
+ 
+
+目標は、V鯖の天使メイン...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クリーチャー　イイね]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=478</id>
