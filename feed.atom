@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-30T14:26:08.572Z</updated>
+    <updated>2021-12-30T14:47:13.815Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[公式は見ていたんだよ？]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-792.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-792.html"/>
+        <updated>2021-12-30T14:36:06.000Z</updated>
+        <summary type="html"><![CDATA[別にいいかと思ってたけどまぁ…【珍貴、運命OP箱のOP値が正しくないケース】12/22メンテ後から珍貴と運命OP値がくるってるみたいです。DXWinter箱とかから出るやつとかが主な例。1月のメンテで対応予定らしいです。そのため、修正までは控えてほしいとかなんとか。ただ、宿命ロトから出る運命さんは選択式だから多分違うかな？ということで公式の詳細2021年もあとわずか…いつもの作業は…どうしようかなぁ。おわり]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リアルラック　アップ作戦]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=481</id>
