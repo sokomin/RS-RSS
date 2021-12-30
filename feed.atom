@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-30T22:05:39.016Z</updated>
+    <updated>2021-12-30T23:06:20.694Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1717,16 +1717,6 @@ BでもVの皆も優しすぎて優しすぎて・・・
         <summary type="html"><![CDATA[12月やなー、あっという間に来年ってパターン、、、お金を増やしたいなら先払い方式受け取ってから渡すんじゃ遅いんだじぇ？？先払いの代表は自己投資！？まーね、本を読むのがベターではあるが行動にうつさないなら無意味bb健康が基本。でも考えすぎはアウト。。。いまは...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lv1414物理ランサー対人装備(運火力風)【RED STONE】]]></title>
-        <id>https://chorrealism.com/?p=2370</id>
-        <link href="https://chorrealism.com/2021/12/01/lv1414%e7%89%a9%e7%90%86%e3%83%a9%e3%83%b3%e3%82%b5%e3%83%bc%e5%af%be%e4%ba%ba%e8%a3%85%e5%82%99%e9%81%8b%e7%81%ab%e5%8a%9b%e9%a2%a8%e3%80%90red-stone%e3%80%91/"/>
-        <updated>2021-12-01T10:20:39.000Z</updated>
-        <summary type="html"><![CDATA[前回書いたのが5月頃でLv1411だった。3レベしか上がってないわ…！ まぁレイドでしか経験値もらってないし、そのレイドですら欠かさず行っているわけではないので仕方がないけども…。 私が1400到達してからすでに2回？経 […]]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
 </feed>
