@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-30T11:32:53.164Z</updated>
+    <updated>2021-12-30T14:26:08.572Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -14,6 +14,18 @@
         <summary type="html"><![CDATA[んむ、やっぱ招き猫でしょ？？世界史的に陶器はアヘン戦争の元になった一品というのも、中国は陶器や絹の産地でヨーロッパでは、つくりづらい品だった中国では欧から特に欲しいものは無かったということで、中国に外貨が集まったんで、欧はアヘンを売り出したそー、アヘン...]]></summary>
         <author>
             <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年12月アップデート内容紹介（一部）]]></title>
+        <id>https://rs-clair-de-lune.com/2021-12-30/</id>
+        <link href="https://rs-clair-de-lune.com/2021-12-30/"/>
+        <updated>2021-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[皆さん、大変です！なんと明後日には2022年が来てしまいます。今年もあっという間でしたね。
+そしてまたしても1か月更新していないことに気が付きました。年の瀬効果は凄い！ そういえば、今月本国が迎えたアップデートではとうとうレベルキャップが2000まで解放されたとか。
+Lv150…]]></summary>
+        <author>
+            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
     <entry>
