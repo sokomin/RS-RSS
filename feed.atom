@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-31T07:46:38.804Z</updated>
+    <updated>2021-12-31T08:07:33.181Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021年最後の更新]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-793.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-793.html"/>
+        <updated>2021-12-31T07:54:10.000Z</updated>
+        <summary type="html"><![CDATA[時がたつのはあっという間というかなんというか…まぁいいや、さっくり振り返り。そのために記事管理で見直してたけど揺れる広告による白ダメ（うざい的な意味）で俺、涙が出そうだよ…2021年始まってすぐの更新は恒例の年始ロトでした。2022年初更新もそれになるんだろうなぁ…。年明けてすぐのレベルはまだ900台後半だったけど、マキナ+経験イベントでもりもりあげてました。あれ、今年の年始は3倍だったのに…その後も経験値イベン]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[よいお年を!!!]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/08a62f00deabc1a39d21a89f51fc54b5</id>
