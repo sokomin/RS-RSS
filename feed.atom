@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-31T02:25:36.142Z</updated>
+    <updated>2021-12-31T03:49:34.166Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ありがとうございました！]]></title>
+        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202112310000/</id>
+        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202112310000/"/>
+        <updated>2021-12-31T03:43:46.000Z</updated>
+        <summary type="html"><![CDATA[​気づけば大晦日・・・こんばんは、みくです！ブログを書き始めてから早９か月本当にあっという間で時間がたつのめちゃくちゃ早かったような気がしますｗ去年の年始はLv1000からのスタートだったので約300レベル...]]></summary>
+        <author>
+            <name>苺桜三玖</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム全般】振り返りと来年の抱負]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-876.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-876.html"/>
+        <updated>2021-12-31T03:35:39.000Z</updated>
+        <summary type="html"><![CDATA[年齢を重ねる程、月日の流れは早いもの。仕事も家庭も円満(自分的には)で、ゲームに費やした時間はかなり多かった2021年。LOST ARKが8、REDSTONEが2くらいの割合だと思う。RSは無課金で2、3キャラの日課とディメンション、週課のレイド。土曜は攻城戦という名の紅白戦があれば参加する程度で、レベルはあまり上がってない。メインにしたいアチャはLv986で、W知識比魔力シャイエンはまだまだ装備出来ず。来年中には装備したいが、RS]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公式は見ていたんだよ？]]></title>
         <id>http://extremetrailblazer.blog.fc2.com/blog-entry-792.html</id>
