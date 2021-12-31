@@ -444,6 +444,15 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112310000/",
+          "author": "雷神の弓",
+          "description": "まず、これが元から持っていた巨神の甲冑です。これにそのままシュルトを付けても良かったのですが、ちょっと迷っていました。そこまでお金を掛けるべきかどうかと。そんなときに、↓これを露店で見つけたので即買...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202112310000/",
+          "publishedOn": "2021-12-31T04:04:00.000Z",
+          "wordCount": 117,
+          "title": "巨神の甲冑の話（詳細版）"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112280000/",
           "author": "雷神の弓",
           "description": "​やっと成功しました。連敗したので運が悪かったと思っていましたが、他の指の成功も加味すると・・〇〇×××××××〇×〇という結果なので、4勝8敗とほぼ確率通りでした。これでやっとこうなりました。解放で軽く1000...",
@@ -1281,6 +1290,15 @@
       "feedUrl": "http://3rdcat.blog.fc2.com/?xml",
       "siteUrl": "http://3rdcat.blog.fc2.com/",
       "articles": [
+        {
+          "id": "http://3rdcat.blog.fc2.com/blog-entry-145.html",
+          "author": "第三の猫",
+          "description": "気づけば今年もあと半日を切りました。来年が良い年になるかは、来年確認しましょう。今回も今年からお送りします。第三の猫です。さて、今回はメリーサンタハット10個と交換できるミニ祈りのカケラ探索機[E]を使って、祈りのカケラを集めたいと思います。※お察しの通り、有効期限が臨時メンテ開始に片足突っ込んでいます。　そのため、1時間45分程度しか狩れていませんが、　狩場が空いていたのでプラマイゼロだと思います。狩場",
+          "link": "http://3rdcat.blog.fc2.com/blog-entry-145.html",
+          "publishedOn": "2021-12-31T04:14:27.000Z",
+          "wordCount": null,
+          "title": "年末ミニ祈り"
+        },
         {
           "id": "http://3rdcat.blog.fc2.com/blog-entry-144.html",
           "author": "第三の猫",
