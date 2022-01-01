@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-01T10:42:30.762Z</updated>
+    <updated>2022-01-01T11:04:34.819Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[２０２２よろしくにゃーす]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=482</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=482"/>
+        <updated>2022-01-01T10:57:38.000Z</updated>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年スタート！]]></title>
         <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202201010000/</id>
