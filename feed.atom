@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-01T11:24:27.117Z</updated>
+    <updated>2022-01-01T14:25:18.604Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[巨神+遺物国王の結びで攻城に参加]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201010000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201010000/"/>
+        <updated>2022-01-01T12:25:45.000Z</updated>
+        <summary type="html"><![CDATA[いつもの色褪せ+辛苦ではなく、巨神+遺物国王の結びで攻城に参加してみました。前回の記事に載せた↓と製錬10になって完成した↓を組み合わせました。今回の攻城は、T運比指を0個にして、指は可能な限りT力比指を積...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[２０２２よろしくにゃーす]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=482</id>
