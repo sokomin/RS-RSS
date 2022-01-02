@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-02T12:45:13.329Z</updated>
+    <updated>2022-01-02T13:05:44.396Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1933,16 +1933,6 @@ G「ハム太郎！」
         <summary type="html"><![CDATA[冬に寒くなるより、秋から冬に切り替わる時の方が、寒さが辛く感じると思いませんか。どっちでも寒いですね。第三の猫です。なにはさておきルーレットしましょう。1500枚交換するといいことがあるそうですよ。まずは「はらはらルーレット」を選択します。賭けるコインは上限いっぱい。これで「ｘ１０」を当てて、500枚を交換。その後、もう一度「ｘ１０」を当てればミッションコンプリートです。当たりました？数日ログイン時間を]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[思い出したように更新]]></title>
-        <id>http://scratch2009.blog.fc2.com/blog-entry-209.html</id>
-        <link href="http://scratch2009.blog.fc2.com/blog-entry-209.html"/>
-        <updated>2021-12-04T00:53:44.000Z</updated>
-        <summary type="html"><![CDATA[荒れ地で狩ってたら同時U３つ。初めて！金鯖帰りの武道で１０年ぶりくらいにMQ進めていたときの一コマ。１０年前にも全く同じセリフだったなぁと印象に残っていたセリフですここで露店開く人は許されない。毎回分解妨害に遭いますすごい懐かしい名前・・！「合言葉は愛！」でしたね！わたがしWIZさんのブログよく読んでました]]></summary>
-        <author>
-            <name>scratch2009</name>
         </author>
     </entry>
 </feed>
