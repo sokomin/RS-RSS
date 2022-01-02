@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-02T04:07:21.415Z</updated>
+    <updated>2022-01-02T05:46:57.094Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1845,16 +1845,6 @@ G「ハム太郎！」
         <summary type="html"><![CDATA[荒れ地で狩ってたら同時U３つ。初めて！金鯖帰りの武道で１０年ぶりくらいにMQ進めていたときの一コマ。１０年前にも全く同じセリフだったなぁと印象に残っていたセリフですここで露店開く人は許されない。毎回分解妨害に遭いますすごい懐かしい名前・・！「合言葉は愛！」でしたね！わたがしWIZさんのブログよく読んでました]]></summary>
         <author>
             <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インビザライン(マウスピース矯正)1年9ヶ月]]></title>
-        <id>https://chorrealism.com/?p=2428</id>
-        <link href="https://chorrealism.com/2021/12/04/%e3%82%a4%e3%83%b3%e3%83%93%e3%82%b6%e3%83%a9%e3%82%a4%e3%83%b3%e3%83%9e%e3%82%a6%e3%82%b9%e3%83%94%e3%83%bc%e3%82%b9%e7%9f%af%e6%ad%a31%e5%b9%b49%e3%83%b6%e6%9c%88/"/>
-        <updated>2021-12-03T17:29:43.000Z</updated>
-        <summary type="html"><![CDATA[去年の2月に親知らずを2本抜歯して3月からインビザラインというマウスピースを使った矯正をしている。 終わったわけじゃないんだけど、昨日作り直したマウスピースをもらいに歯医者に行ったのでなんとなく書こうかなと思ったり。 マ […]]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
 </feed>
