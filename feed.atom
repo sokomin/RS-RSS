@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-02T14:46:44.629Z</updated>
+    <updated>2022-01-02T18:52:04.661Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あけましておめでとうございます]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-728.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-728.html"/>
+        <updated>2022-01-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[お正月休みと言う事で甥っ子家族が遊びに来ましたダイパリメイクを持ってきて息子に見せていましたどうやらシロナのガブリアスが突破できない様でした私は隣でこれを思い出していました息子もDS版のダイパをやっていたので当時を思い出しやっぱり男の子なんだなぁと思いましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自力４フレの為にクリーチャーをいじってみた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201020000/</id>
@@ -1923,16 +1933,6 @@ G「ハム太郎！」
         <summary type="html"><![CDATA[今年も残すところわずかとなりましたね・・・こんにちは、寒さにはめっぽうと弱いみくです大阪の寒さって多分異常なような気がします・・・寒いというより痛いという感覚・・・今年は暖かいのが続いた後一気に寒...]]></summary>
         <author>
             <name>苺桜三玖</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[はらはらと]]></title>
-        <id>http://3rdcat.blog.fc2.com/blog-entry-137.html</id>
-        <link href="http://3rdcat.blog.fc2.com/blog-entry-137.html"/>
-        <updated>2021-12-04T05:35:20.000Z</updated>
-        <summary type="html"><![CDATA[冬に寒くなるより、秋から冬に切り替わる時の方が、寒さが辛く感じると思いませんか。どっちでも寒いですね。第三の猫です。なにはさておきルーレットしましょう。1500枚交換するといいことがあるそうですよ。まずは「はらはらルーレット」を選択します。賭けるコインは上限いっぱい。これで「ｘ１０」を当てて、500枚を交換。その後、もう一度「ｘ１０」を当てればミッションコンプリートです。当たりました？数日ログイン時間を]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
