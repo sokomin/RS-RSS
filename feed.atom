@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-02T09:38:31.392Z</updated>
+    <updated>2022-01-02T10:30:20.251Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#８　（あけおめ）]]></title>
+        <id>https://www.youtube.com/watch?v=zrPP5f0dFWU</id>
+        <link href="https://www.youtube.com/watch?v=zrPP5f0dFWU"/>
+        <updated>2022-01-02T09:56:55.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021.12月のドロップ~♪]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/567ba1851e5cd5d36bfac9bea4477430</id>

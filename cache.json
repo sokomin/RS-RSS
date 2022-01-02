@@ -303,6 +303,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zrPP5f0dFWU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zrPP5f0dFWU",
+          "publishedOn": "2022-01-02T09:56:55.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#８　（あけおめ）"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=J_XHGEZ6_co",
           "author": null,
           "description": "",
