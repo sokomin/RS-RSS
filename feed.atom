@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-04T12:10:00.210Z</updated>
+    <updated>2022-01-04T17:17:02.656Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゲリオ討伐ゲリラ周回 【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=dzaChuv31fY</id>
+        <link href="https://www.youtube.com/watch?v=dzaChuv31fY"/>
+        <updated>2022-01-04T14:40:52.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運、敏捷・命中率の話＆物理で運負けするとどうなるのか？について]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201040000/</id>
@@ -1842,16 +1851,6 @@ UMUでると討伐も苦じゃないですね♪
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[姫のタワゴト]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=459</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=459"/>
-        <updated>2021-12-06T03:20:39.000Z</updated>
-        <summary type="html"><![CDATA[リスクをカエルに変えるホイホイ、オシゴトは大事RSはオマケpvp防御35%のを売ってTRSultクリーチャー指　買ったお満足、満足☆T吸収DX権勢欲しいけど、必須でも無い気がしてきた、、、さてはて、来週は石の日あるんか、、、2てんきゃらを3てんさせてドカッと上げたいが、、...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
