@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-04T03:28:08.230Z</updated>
+    <updated>2022-01-04T06:54:26.417Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[運、敏捷・命中率の話＆物理で運負けするとどうなるのか？について]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201040000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201040000/"/>
+        <updated>2022-01-04T03:51:12.000Z</updated>
+        <summary type="html"><![CDATA[​​​運と敏捷・命中率の関係について簡略化して、なるべく分かりやすく話していこうと思います。長文になりますが、興味のある方は頑張って読んでみてください。1、運、敏捷・命中率がどのように関係しているかに...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お正月イベ!]]></title>
         <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202201030000/</id>
