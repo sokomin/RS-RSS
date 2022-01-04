@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-04T22:06:04.068Z</updated>
+    <updated>2022-01-04T22:39:30.286Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1758,16 +1758,6 @@ Twitterでも呟きましたが、自分のサーバーで何かドロップイ�
         <summary type="html"><![CDATA[前回書いたシンプル火力はこちら→運火力風 物理ランサーとしてはこっちの妨害風を主流にして対人参加してきた！ そろそろ詰めるところないだろ…ちょっとあるな…あと2000本ぐらいあれば…そろそろ…ループから抜け出せない。 以 […]]]></summary>
         <author>
             <name>cho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再び天上界]]></title>
-        <id>http://3rdcat.blog.fc2.com/blog-entry-138.html</id>
-        <link href="http://3rdcat.blog.fc2.com/blog-entry-138.html"/>
-        <updated>2021-12-06T10:22:28.000Z</updated>
-        <summary type="html"><![CDATA[慣れというものは、思っているよりも早いものですね。ダンジョンに直行できるテレポートの選択や、ミニペットとネフォンクリーチャーの違いが分かってきました。そろそろ見落としを見つけてしまいそうな、第三の猫です。DXU職鎧の「ビスルキルト」を買いました。衣装が紫色に変わって少し強くなった気がします。新装備の感触をつかむために狩りをしていると、REDSTONEのかけらが集まりました。これで４つ目になります。久しぶりの]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
