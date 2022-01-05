@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-04T23:47:47.354Z</updated>
+    <updated>2022-01-05T03:30:50.314Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[きょーからオシゴト]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=483</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=483"/>
+        <updated>2022-01-05T03:14:58.000Z</updated>
+        <summary type="html"><![CDATA[なのですー☆連休はレッドストーンを放置してしまったbbこっから、レイドガンバルぞい？？さて？ナゾのシゴト　オワラセたい、、んー、、、なんでこんなヤッカイなシゴトしてるんだい、、、まー、シゴトはヤルかヤラナイかだし、ヤレル範囲でヤッタロかbbオシゴトはダイジ...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲリオ討伐ゲリラ周回 【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=dzaChuv31fY</id>
@@ -1748,16 +1758,6 @@ Twitterでも呟きましたが、自分のサーバーで何かドロップイ�
         <summary type="html"><![CDATA[灰かぶり姫というてシンデレラ？猫かぶりな姫というてシークレットキャッツ？？はー、なんか、よーわからんことはおいといて、猫かぶりしとこ☆秘密を着飾って猫は猫らしくなるのよ最近、秘密いってないなー、、、まー、ひみつも試練もビモーだが、、、日の出サンライズア...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lv1414物理ランサー対人装備(妨害風)【RED STONE】]]></title>
-        <id>https://chorrealism.com/?p=2395</id>
-        <link href="https://chorrealism.com/2021/12/06/lv1414%e7%89%a9%e7%90%86%e3%83%a9%e3%83%b3%e3%82%b5%e3%83%bc%e5%af%be%e4%ba%ba%e8%a3%85%e5%82%99%e5%a6%a8%e5%ae%b3%e9%a2%a8%e3%80%90red-stone%e3%80%91/"/>
-        <updated>2021-12-06T13:51:23.000Z</updated>
-        <summary type="html"><![CDATA[前回書いたシンプル火力はこちら→運火力風 物理ランサーとしてはこっちの妨害風を主流にして対人参加してきた！ そろそろ詰めるところないだろ…ちょっとあるな…あと2000本ぐらいあれば…そろそろ…ループから抜け出せない。 以 […]]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
 </feed>
