@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-05T05:46:49.638Z</updated>
+    <updated>2022-01-05T08:53:08.316Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1214.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1214.html"/>
+        <updated>2022-01-05T06:30:21.000Z</updated>
+        <summary type="html"><![CDATA[さて、明けて最初のメンテ終了です。討伐ボックスのお守り不具合修正でパッチ入ったみたいですけどその不具合自体、全く気付いてなかったです。そもそも気にしてもいなかったんだけども。今週の新規開催は1つだけの模様。他は継続中のイベントですね。゜。°。°。°。°。°。°。°。゜。°。°。°。ユニークハンティングイベントイベント内イベントが3つありますね。その1はとにかくユニーク装備を拾いまくればいいようで。最低22個以上]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[きょーからオシゴト]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=483</id>
