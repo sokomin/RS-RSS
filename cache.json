@@ -803,6 +803,15 @@
       "siteUrl": "http://extremetrailblazer.blog.fc2.com/",
       "articles": [
         {
+          "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-796.html",
+          "author": "Trailblazer",
+          "description": "まぁアプデ後のメンテだし、イベントはその時にまとめてきたから…？【配布物など】・お年玉抽選会・お年玉ミッション第一弾・港町Box・マンスリーボックス・臨時メンテお詫び（1時間スフィア×3と1時間パワキ×3）【不具合修正と仕様変更】・OPお守りの数値が低くなっている事象の修正・エリアボスからでるOPお守り箱の数値が固定数値だったので、ランダムになるように変更ということで公式の詳細【ユニークハンティング】1/26(水)メ",
+          "link": "http://extremetrailblazer.blog.fc2.com/blog-entry-796.html",
+          "publishedOn": "2022-01-05T10:20:42.000Z",
+          "wordCount": 115,
+          "title": "新年初のメンテ後は…あれ？一つ？"
+        },
+        {
           "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-795.html",
           "author": "Trailblazer",
           "description": "あけまして、おめでとうございます（2回目）さっきのは年始恒例ロト更新だから…うん。ということで今年もよろしくお願いします。相変わらずのペースでやってると思います。水曜日恒例のメンテ後更新と、ランダムなよくわからん更新が続きます。で、あとは追記です。大幅に手を抜いた何かが転がってます。あと例のカテゴリなので、戻る人はここで戻ってください。混ざってはないけど、何かが混ざってるとだけ。",
@@ -1431,6 +1440,15 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/031205c352c349c4b48b7c51683e04c0",
+          "author": null,
+          "description": "正月休みも終わりました。\n\nDECEMBER  UPDATE -->\n\n\n\n\n\n\n\n\n\n12月5日メンテ後から2022年1月5日メンテ前まで\n\n\n課金イベントはこちら\n\n\n\n\n12月22日メンテ後から2022年1月12日メンテ前まで\n\n\n寒い日が続きますが、暖かくしてまったりゲームを楽しみましょう。\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/031205c352c349c4b48b7c51683e04c0?fm=rss",
+          "publishedOn": "2022-01-05T11:15:00.000Z",
+          "wordCount": 365,
+          "title": "2022.1.5 イベ更新"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/567ba1851e5cd5d36bfac9bea4477430",
           "author": null,

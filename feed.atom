@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-05T09:48:36.201Z</updated>
+    <updated>2022-01-05T12:47:05.937Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.1.5 イベ更新]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/031205c352c349c4b48b7c51683e04c0</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/031205c352c349c4b48b7c51683e04c0?fm=rss"/>
+        <updated>2022-01-05T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[正月休みも終わりました。
+
+DECEMBER  UPDATE -->
+
+
+
+
+
+
+
+
+
+12月5日メンテ後から2022年1月5日メンテ前まで
+
+
+課金イベントはこちら
+
+
+
+
+12月22日メンテ後から2022年1月12日メンテ前まで
+
+
+寒い日が続きますが、暖かくしてまったりゲームを楽しみましょう。
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新年初のメンテ後は…あれ？一つ？]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-796.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-796.html"/>
+        <updated>2022-01-05T10:20:42.000Z</updated>
+        <summary type="html"><![CDATA[まぁアプデ後のメンテだし、イベントはその時にまとめてきたから…？【配布物など】・お年玉抽選会・お年玉ミッション第一弾・港町Box・マンスリーボックス・臨時メンテお詫び（1時間スフィア×3と1時間パワキ×3）【不具合修正と仕様変更】・OPお守りの数値が低くなっている事象の修正・エリアボスからでるOPお守り箱の数値が固定数値だったので、ランダムになるように変更ということで公式の詳細【ユニークハンティング】1/26(水)メ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新着イベント情報更新]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1214.html</id>
