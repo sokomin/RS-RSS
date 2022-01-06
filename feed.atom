@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-06T14:26:14.996Z</updated>
+    <updated>2022-01-06T19:22:57.537Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1899,16 +1899,6 @@ Twitterでも呟きましたが、自分のサーバーで何かドロップイ�
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1210.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1210.html"/>
-        <updated>2021-12-08T06:34:41.000Z</updated>
-        <summary type="html"><![CDATA[☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..お年玉ミッション期間中にイベントページにある幾つかのミッションをこなすイベントですね。1．10日間以上ログイン2．混沌の大地を5回以上クリア3．装備製錬に10回以上挑戦4．ミッション1～3を全てクリア以上が第1弾のミッションとなってます。第2弾は22日のメンテナンス後発表になるかと思います。賞品はイベントページでご覧ください。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
