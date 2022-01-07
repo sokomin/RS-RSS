@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-06T20:39:22.992Z</updated>
+    <updated>2022-01-07T05:38:39.221Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レイドの日々に戻る？？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=487</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=487"/>
+        <updated>2022-01-07T03:17:04.000Z</updated>
+        <summary type="html"><![CDATA[レイドが一番かんたんなレベル上げのはずと、思ってるが？？レポクエ変わったからなー、、、まー、マイペースでレイドいくbbレベル上げにキリナシというか、目的なくやってもツマランからのー、、、ドロップに期待より露店で発掘のほうが簡単だし？？て、ことで狩りもほぼ...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#９　（雪ショック）]]></title>
+        <id>https://www.youtube.com/watch?v=vUbNSjMK7Io</id>
+        <link href="https://www.youtube.com/watch?v=vUbNSjMK7Io"/>
+        <updated>2022-01-06T21:33:00.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年もあいかわらずなペース_(:3 」∠)_]]></title>
         <id>https://ameblo.jp/keykeykey2010/entry-12719779330.html</id>
@@ -1849,56 +1868,6 @@ Twitterでも呟きましたが、自分のサーバーで何かドロップイ�
         <summary type="html"><![CDATA[仕事をしているという割にインしている時間が長い（いつもいる）と言われたことがあります＾＾；なぜ、こんなにインできるのか話していきたいと思います。まず、私の仕事なんですけど、平日はほとんど出勤で土日...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次回のアプデは12/22を予定しております]]></title>
-        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-781.html</id>
-        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-781.html"/>
-        <updated>2021-12-08T11:02:32.000Z</updated>
-        <summary type="html"><![CDATA[再来週か、すぐだな。【配布品】・冒険家感謝祭12月→またやるの？・カムバックその1→今日から始まった・祈りカケラあつめ→そのまんま。公式のメンテ終了のお知らせ【お年玉ミッション】第一弾は12/22(水)メンテまで。第二弾はその後2022年1/5(水)メンテまで。今は第二弾が不明だから第一弾だけ記載。以下のミッションをクリアすると全員に500SPプレゼント。それぞれで500SPです。①10日以上ログイン②混沌の大地5回以上クリア（寄生]]></summary>
-        <author>
-            <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.12.8 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/00eb57f64304b7ff83d514985bdcaf01</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/00eb57f64304b7ff83d514985bdcaf01?fm=rss"/>
-        <updated>2021-12-08T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[朝から雨でした。
- -->
-
-
-
-
-
-
-
-
-
-
-
-
-11月24日メンテ後から12月15日メンテ前まで
-
-
-特に変わり映えはしないですかね(´・ω・`)
-しかし、ここ最近のログキャンハコクーン祭りの頻度が高いな・・・・・
-
-さて、今週もまったりゲームしようかな。
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>

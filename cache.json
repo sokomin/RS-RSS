@@ -311,6 +311,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vUbNSjMK7Io",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vUbNSjMK7Io",
+          "publishedOn": "2022-01-06T21:33:00.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#９　（雪ショック）"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zrPP5f0dFWU",
           "author": null,
           "description": "",
@@ -945,15 +954,6 @@
           "publishedOn": "2021-12-10T13:34:27.000Z",
           "wordCount": 112,
           "title": "結局同じことを繰り返しただけか…"
-        },
-        {
-          "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-781.html",
-          "author": "Trailblazer",
-          "description": "再来週か、すぐだな。【配布品】・冒険家感謝祭12月→またやるの？・カムバックその1→今日から始まった・祈りカケラあつめ→そのまんま。公式のメンテ終了のお知らせ【お年玉ミッション】第一弾は12/22(水)メンテまで。第二弾はその後2022年1/5(水)メンテまで。今は第二弾が不明だから第一弾だけ記載。以下のミッションをクリアすると全員に500SPプレゼント。それぞれで500SPです。①10日以上ログイン②混沌の大地5回以上クリア（寄生",
-          "link": "http://extremetrailblazer.blog.fc2.com/blog-entry-781.html",
-          "publishedOn": "2021-12-08T11:02:32.000Z",
-          "wordCount": 125,
-          "title": "次回のアプデは12/22を予定しております"
         }
       ]
     },
@@ -1038,6 +1038,15 @@
       "feedUrl": "http://rscat31.jugem.jp/?mode=rss",
       "siteUrl": "http://rs.bigcat31.floppy.jp/",
       "articles": [
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=487",
+          "author": "猫ノみぃ",
+          "description": "レイドが一番かんたんなレベル上げのはずと、思ってるが？？レポクエ変わったからなー、、、まー、マイペースでレイドいくbbレベル上げにキリナシというか、目的なくやってもツマランからのー、、、ドロップに期待より露店で発掘のほうが簡単だし？？て、ことで狩りもほぼ...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=487",
+          "publishedOn": "2022-01-07T03:17:04.000Z",
+          "wordCount": 170,
+          "title": "レイドの日々に戻る？？"
+        },
         {
           "id": "http://rs.bigcat31.floppy.jp/?eid=486",
           "author": "猫ノみぃ",
@@ -1520,15 +1529,6 @@
           "publishedOn": "2021-12-16T09:30:00.000Z",
           "wordCount": 376,
           "title": "2021.12.15 イベ更新"
-        },
-        {
-          "id": "https://blog.goo.ne.jp/sizuku-mo/e/00eb57f64304b7ff83d514985bdcaf01",
-          "author": null,
-          "description": "朝から雨でした。\n -->\n\n\n\n\n\n\n\n\n\n\n\n\n11月24日メンテ後から12月15日メンテ前まで\n\n\n特に変わり映えはしないですかね(´・ω・`)\nしかし、ここ最近のログキャンハコクーン祭りの頻度が高いな・・・・・\n\nさて、今週もまったりゲームしようかな。\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
-          "link": "https://blog.goo.ne.jp/sizuku-mo/e/00eb57f64304b7ff83d514985bdcaf01?fm=rss",
-          "publishedOn": "2021-12-08T10:30:00.000Z",
-          "wordCount": 359,
-          "title": "2021.12.8 イベ更新"
         }
       ]
     },
