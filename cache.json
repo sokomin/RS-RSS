@@ -657,15 +657,6 @@
           "publishedOn": "2021-12-09T15:36:38.000Z",
           "wordCount": 85,
           "title": "殿、ご乱心"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112090000/",
-          "author": "雷神の弓",
-          "description": "仕事をしているという割にインしている時間が長い（いつもいる）と言われたことがあります＾＾；なぜ、こんなにインできるのか話していきたいと思います。まず、私の仕事なんですけど、平日はほとんど出勤で土日...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202112090000/",
-          "publishedOn": "2021-12-09T02:55:00.000Z",
-          "wordCount": 111,
-          "title": "私の生態について"
         }
       ]
     },
@@ -691,7 +682,17 @@
       "title": "風に吹かれて",
       "feedUrl": "http://kaze.gg-blog.com/RSS/",
       "siteUrl": "http://kaze.gg-blog.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "kaze.gg-blog.com://entry/162",
+          "author": null,
+          "description": "今年も風の詩。と風に吹かれてをよろしくお願いします\n\n\n\n(´；ω；｀)ﾌﾞﾜｯ\n\n\n\n\nそう！うぇいのせいだ！\n翼の紋章その後\n\nないとくん\n\nらんれいさん\n\nにょあくん\n\n稲さん\n\nシロタエさん\n\n樋口さん\n\nくーちゃん\n\nルナちゃん\n\nリンちゃん\nみんなのお気に入りの紋章はどれかな！？\n\n\n深夜のチプちゃんはテンションが高い\n\n\nではまた(｡･ｪ･｡)ﾉ",
+          "link": "http://kaze.gg-blog.com/guild/2022%E5%B9%B4",
+          "publishedOn": "2022-01-07T15:10:28.000Z",
+          "wordCount": 189,
+          "title": "2022年"
+        }
+      ]
     },
     {
       "title": "のんびりまったり",
@@ -1253,15 +1254,6 @@
           "publishedOn": "2021-12-10T03:15:41.000Z",
           "wordCount": 163,
           "title": "猫(=^_^=)的メモ"
-        },
-        {
-          "id": "http://rs.bigcat31.floppy.jp/?eid=461",
-          "author": "猫ノみぃ",
-          "description": "これで、T力指2つに♪やほーい、これで火力はどうにでも、、、2個あれば、Lv900で2700！？十分過ぎる vまー、、、健康つまなきゃな、、、HP20万は健康1万目安だからなまー、何はともかく、ウレピーのでう、ウレピーのでう",
-          "link": "http://rs.bigcat31.floppy.jp/?eid=461",
-          "publishedOn": "2021-12-09T03:20:32.000Z",
-          "wordCount": 164,
-          "title": "鏡成功しましたbb"
         }
       ]
     },
