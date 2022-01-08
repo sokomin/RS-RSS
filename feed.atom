@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-08T14:47:16.417Z</updated>
+    <updated>2022-01-08T20:06:17.310Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1890,16 +1890,6 @@ The post 2021.11総括【RED STONE】 first appeared on 無職と美学とシュ
         <summary type="html"><![CDATA[追記に。結論だけ言うならS鯖放置]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猫(=^_^=)的メモ]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=462</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=462"/>
-        <updated>2021-12-10T03:15:41.000Z</updated>
-        <summary type="html"><![CDATA[マタタビ　→　瞬火大熊猫　→　ジャイアントパンダ幽霊ロボ＝狸猫＝青い机から出てくるヤツんで、ミは妹のほう猟奇的元気＝意味不明＠＠賊天禁呪＝能力や呪文の対象にならない何か神算鬼謀＝超絶軍師さん翼アル猫＝虎に翼より、自由な獣に自由を猫に金言＝猫に小判、猫の耳...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
