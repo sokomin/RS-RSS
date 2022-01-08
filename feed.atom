@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-08T04:58:28.160Z</updated>
+    <updated>2022-01-08T07:05:52.338Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PVPを頑張ってた頃の思い出]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201080000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201080000/"/>
+        <updated>2022-01-08T06:14:38.000Z</updated>
+        <summary type="html"><![CDATA[なんだかんだで、1030試合もやっていたんですね。私がPVPを頑張っていた当時は、裏切りダメ反射悪魔、ダメ反射BIS、ダメ反射WIZ、サンク天使が猛威を振るっていました。今は反射ダメはルートされるように修正され...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[進化したうなぎ]]></title>
         <id>http://3rdcat.blog.fc2.com/blog-entry-146.html</id>
