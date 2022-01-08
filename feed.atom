@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-08T20:06:17.310Z</updated>
+    <updated>2022-01-08T22:43:09.767Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1642,6 +1642,17 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[忙しくなるとは言ってないけどね【連絡事項】・PVPワールド一時的に閉鎖・S鯖とV鯖の12月PVPランキング初期化時期変更※12/22(水)のメンテに実施。・それに伴う期間(2)実施12/22(水)メンテ後から12/31(金)23:59までらしいよ？・あと不具合補填が2つそして公式のあれ【地下界とかの移動石販売終了のお知らせ】12/22(水)ｱﾌﾟﾃﾞに伴い、下記のアイテム販売が終了しました。・天上界ポータルストーン・地下界ポータルストーン・ロシペル]]></summary>
         <author>
             <name>Trailblazer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021.11総括【RED STONE】]]></title>
+        <id>https://chorrealism.com/?p=2439</id>
+        <link href="https://chorrealism.com/redstone/play-record/su211215/"/>
+        <updated>2021-12-15T13:34:08.000Z</updated>
+        <summary type="html"><![CDATA[この一ヶ月のうち、半分以上の期間はモチベゼロ！！ 対人も休んでカケラもおサボり。でも協会ボスだけほぼ毎日通った！エラい、エラすぎるぞ！！我ながら！！ぐらいにはRSやる気なし。 Lv985ぐらいからスタートしたのであんまり […]
+The post 2021.11総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
         </author>
     </entry>
     <entry>
