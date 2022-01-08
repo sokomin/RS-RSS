@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-08T08:08:27.790Z</updated>
+    <updated>2022-01-08T09:07:27.215Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -166,6 +166,17 @@ RSパスクリアさせながらUも拾おうと思います。(๑･㉨･๑)
         <summary type="html"><![CDATA[ポイント　良いデザインは、感情、行動にツナガル　試作を繰り返す　常識ではなく人に寄り添う　コスパを意識する　短期間で結果をだす　最終的には全員参加型が好ましいまー、デザイン思考の本はやたら難しいこと書いてるのが多いが？？価値の創造というテーマだからね抽...]]></summary>
         <author>
             <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[結局レコードは増えていく]]></title>
+        <id>https://chorrealism.com/?p=2437</id>
+        <link href="https://chorrealism.com/redstone/220106/"/>
+        <updated>2022-01-06T00:10:12.000Z</updated>
+        <summary type="html"><![CDATA[新年明けましておめでとうございます！ツイッター見ると本を読まなすぎるので年末からほぼ封印中！笑 去年は何だか厄年感があったかもね？父親がコロナで中等症Ⅱまでいったり、実家の犬が肺水腫で息絶え絶えになったり、前職の恩師の不 […]
+The post 結局レコードは増えていく first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
         </author>
     </entry>
     <entry>
