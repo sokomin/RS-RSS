@@ -543,6 +543,15 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202201100000/",
+          "author": "雷神の弓",
+          "description": "​（購入価格は内緒です）買った時は、ディメンション強化（？）のスキル＋３が３つで、BFは変なOPの最上級が付いていて、オーガ１段はそのままです。（自分は首には純粋を付けるので、後で純粋にします）ディメン...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202201100000/",
+          "publishedOn": "2022-01-09T17:21:06.000Z",
+          "wordCount": 88,
+          "title": "アリアンで珍品を見つけてしまいました"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202201080000/",
           "author": "雷神の弓",
           "description": "なんだかんだで、1030試合もやっていたんですね。私がPVPを頑張っていた当時は、裏切りダメ反射悪魔、ダメ反射BIS、ダメ反射WIZ、サンク天使が猛威を振るっていました。今は反射ダメはルートされるように修正され...",
@@ -894,6 +903,15 @@
       "feedUrl": "http://extremetrailblazer.blog.fc2.com/?xml",
       "siteUrl": "http://extremetrailblazer.blog.fc2.com/",
       "articles": [
+        {
+          "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-797.html",
+          "author": "Trailblazer",
+          "description": "今更なのかどうなのやら…。公式の説明はこれ【RED STONE PASSって？】指定された条件を達成して経験値を稼ぐとアイテムがもらえる不定期開催イベント。もらえるアイテムはその時によって一部変わるのもあれば共通なのもある。やって損はないから開催されたら何とかして1日のポイント上限である90点は確保したい。でもめんどくさい【何がもらえるの】100経験値事にランクが上昇します。その際に設定されたアイテムがもらえます。ま",
+          "link": "http://extremetrailblazer.blog.fc2.com/blog-entry-797.html",
+          "publishedOn": "2022-01-09T16:15:40.000Z",
+          "wordCount": 130,
+          "title": "今更？なRSPassの仕様について"
+        },
         {
           "id": "http://extremetrailblazer.blog.fc2.com/blog-entry-796.html",
           "author": "Trailblazer",
