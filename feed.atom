@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-09T19:21:53.425Z</updated>
+    <updated>2022-01-09T20:47:40.080Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1919,16 +1919,6 @@ The post 2021.11総括【RED STONE】 first appeared on 無職と美学とシュ
         <summary type="html"><![CDATA[youtubeの通知関連の情報は多数ヒットしますが、ツイキャスについては公式の通知機能しか情報が見当たらず、自分で作りたいなと思って実装しました。ちなみに去年、youtube版の通知を作りたい！ということで【pyt...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[病み病みん]]></title>
-        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202112110000/</id>
-        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202112110000/"/>
-        <updated>2021-12-11T08:40:06.000Z</updated>
-        <summary type="html"><![CDATA[タイトルの通り人生で初めて病みました笑お盆くらいから仕事が忙しすぎて、ずーっとしんどかったけど、先日ついに精神的に潰れて大熱出て、ストレス性胃腸炎になりました(；ω；)笑ちなみに悪魔のレベルは14の日に...]]></summary>
-        <author>
-            <name>たつ2307</name>
         </author>
     </entry>
 </feed>
