@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-09T14:04:27.895Z</updated>
+    <updated>2022-01-09T15:53:17.155Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アプデ内容を見て]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-729.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-729.html"/>
+        <updated>2022-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日PC作業をしているときにこの曲を聞いていたのですが息子が食いついてきましたどうやら曲が気に入った様で早速納戸を漁ってゲームをやり始めていました私も曲を好きになって始めるゲームもありましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[明けましておめでとうございます。]]></title>
         <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202201090000/</id>
@@ -1899,26 +1909,6 @@ The post 2021.11総括【RED STONE】 first appeared on 無職と美学とシュ
         <summary type="html"><![CDATA[タイトルの通り人生で初めて病みました笑お盆くらいから仕事が忙しすぎて、ずーっとしんどかったけど、先日ついに精神的に潰れて大熱出て、ストレス性胃腸炎になりました(；ω；)笑ちなみに悪魔のレベルは14の日に...]]></summary>
         <author>
             <name>たつ2307</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みぃたんのリソー]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=463</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=463"/>
-        <updated>2021-12-11T03:35:42.000Z</updated>
-        <summary type="html"><![CDATA[レベル上げは、あまり興味を持てなくなってるなぜなら、時間の無駄だから☆といっても、時間の無駄こそがゲームであり、オトナの楽しみであるさて、リソー的にはお城でちょっとだけ活躍してお祭り騒ぎをしたいのだーbbお城は土曜日のタシナミである装備なんてね、レベル上...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ついに7個集まりました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112110000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112110000/"/>
-        <updated>2021-12-11T03:32:37.000Z</updated>
-        <summary type="html"><![CDATA[7個集まったらやることは１つ！これを呼び出して、願い事を１つ言います。「レッドストーンから対人戦をなくして平和な世界にしてくれ！」「え？できねーのかよ・・じゃあ仕方がない・・オラを・・対人戦に・・」...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
