@@ -311,6 +311,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=17Bqrbodf4k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=17Bqrbodf4k",
+          "publishedOn": "2022-01-09T06:04:45.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#１０　（日曜日課）"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vUbNSjMK7Io",
           "author": null,
           "description": "",
