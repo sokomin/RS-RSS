@@ -306,7 +306,17 @@
       "title": "魔法の壁のリアルライふ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/mahounokabe/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/mahounokabe/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/mahounokabe/diary/202201090000/",
+          "author": "裁判官",
+          "description": "みなさん新年明けましておめでとうございます。今年もよろしくお願いします。と、言いたいところですが今年もほぼＩＮしないでしょうね！！ブログタイトルをリアルライフにしたのだから私生活も晒せってね！！最...",
+          "link": "https://plaza.rakuten.co.jp/mahounokabe/diary/202201090000/",
+          "publishedOn": "2022-01-09T13:34:50.000Z",
+          "wordCount": 133,
+          "title": "明けましておめでとうございます。"
+        }
+      ]
     },
     {
       "title": "ファーぶろぐ ☆ RED STONE ブリッジヘッド鯖",

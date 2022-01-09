@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-09T13:08:56.873Z</updated>
+    <updated>2022-01-09T13:47:10.605Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[明けましておめでとうございます。]]></title>
+        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202201090000/</id>
+        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202201090000/"/>
+        <updated>2022-01-09T13:34:50.000Z</updated>
+        <summary type="html"><![CDATA[みなさん新年明けましておめでとうございます。今年もよろしくお願いします。と、言いたいところですが今年もほぼＩＮしないでしょうね！！ブログタイトルをリアルライフにしたのだから私生活も晒せってね！！最...]]></summary>
+        <author>
+            <name>裁判官</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE2】ストーリー読んでみる！【part7】]]></title>
         <id>https://www.youtube.com/watch?v=mIrmrn6Hulo</id>
