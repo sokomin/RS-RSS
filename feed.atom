@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-10T12:09:37.380Z</updated>
+    <updated>2022-01-10T12:47:18.502Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[変なチョーカー完成]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201100001/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201100001/"/>
+        <updated>2022-01-10T12:30:58.000Z</updated>
+        <summary type="html"><![CDATA[こんな変なOP構成のチョーカーを持ってるのは私くらいじゃないでしょうか。（これを作る為に、こまごまとした物を頑張って売りまくって何とか資金調達しました）ですが、健比を首に付けている人がけっこういるの...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE2】ストーリー読んでみる！【part8】]]></title>
         <id>https://www.youtube.com/watch?v=5OcM9NjDMmc</id>
