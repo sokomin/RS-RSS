@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-10T17:18:42.000Z</updated>
+    <updated>2022-01-10T17:45:37.056Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1909,16 +1909,6 @@ The post 2021.11総括【RED STONE】 first appeared on 無職と美学とシュ
         <summary type="html"><![CDATA[それ自体は同じもののはずなのに、山の頂上に登って感じる高さと、山を下から見上げて感じる高さは別物に思えませんか。レベルも同じようなものなのかもしれません。登っている最中が一番高く感じるところとか特に。こんばんは。再び登り始めた、第三の猫です。今回は、転生者用ペットをつかまえに行きたいと思います。伝説のビーストテイマーとは一体何者なのでしょうか。取材班は情報提供者の証言を元に、一路ガリムトへと向かい]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】12/11(土)攻城戦改め紅白戦の感想]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-874.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-874.html"/>
-        <updated>2021-12-12T05:39:25.000Z</updated>
-        <summary type="html"><![CDATA[もはやどこのギルドも短期移籍者ばかりで、ギルドvsギルドの攻城戦とは呼べない昨今。戦力も一夜にして激変することから、ギルドの戦力が計れず、どこのギルドと戦ったと書いても意味が無い。よって今後は「紅白戦」と呼称し、参加した時間帯と自キャラ情報だけ書くことにした。今週の紅白戦は21:00にメイン雨アチャ、22:00は無し、23:00に風剣士で参加。21:00メイン雨アチャ　攻め(赤組)相手の参加人数がこちらを上回っていて、か]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
