@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-10T01:39:54.719Z</updated>
+    <updated>2022-01-10T02:53:28.133Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1899,16 +1899,6 @@ The post 2021.11総括【RED STONE】 first appeared on 無職と美学とシュ
         <summary type="html"><![CDATA[突然アクセス増えると、何か怖いんだよね＾＾；そんなに神龍ネタが面白かったのだろうか・・？うーむ、長年ブログ書いているけど、アクセスの動向は読めないですねぇ。では、今回はこれで終わりにします。また、...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今回も追記に]]></title>
-        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-783.html</id>
-        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-783.html"/>
-        <updated>2021-12-11T14:45:24.000Z</updated>
-        <summary type="html"><![CDATA[今後の予定だけど追記に入れる。まぁV鯖だけしかもうやらないし、たとえ鯖統合があったとしても動かないってこと。あと来年の金鯖があってもやらないし今後もやる気なしどころか大きくマイナス]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
