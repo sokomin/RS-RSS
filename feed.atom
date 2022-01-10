@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-10T13:17:07.318Z</updated>
+    <updated>2022-01-10T13:41:29.816Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人型ダメと人型ダメ抵抗【REDSTONE】]]></title>
+        <id>https://chorrealism.com/?p=2489</id>
+        <link href="https://chorrealism.com/redstone/verification/human-damage/"/>
+        <updated>2022-01-10T12:50:43.000Z</updated>
+        <summary type="html"><![CDATA[挙動自体はだいぶ前に確認したので知ってたんだけど、別の目的のためにこれを書いた方がいいかなと思い、挙動を再確認しまとめる。 まず、人型ダメの適用上限を確認していく。 クロウ槍の人型ダメ300%は共通。製錬が上は悪魔型ダメ […]
+The post 人型ダメと人型ダメ抵抗【REDSTONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[変なチョーカー完成]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201100001/</id>
