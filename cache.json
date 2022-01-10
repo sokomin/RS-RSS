@@ -204,6 +204,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5OcM9NjDMmc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5OcM9NjDMmc",
+          "publishedOn": "2022-01-10T06:12:21.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE2】ストーリー読んでみる！【part8】"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mIrmrn6Hulo",
           "author": null,
           "description": "",
