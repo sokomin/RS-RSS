@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-10T22:46:55.198Z</updated>
+    <updated>2022-01-10T23:06:06.922Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】決意]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-877.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-877.html"/>
+        <updated>2022-01-10T22:57:52.000Z</updated>
+        <summary type="html"><![CDATA[メインを風剣士にして、レベリングを始めようとおもう。気の迷いかもしれない。しかし、昨夜はそういう気持ちになっていた。昨夜鏡が7枚完成して、グローブの異次元をするつもりだったけど、素材もベースも準備できず。退屈で仕方なく剣士の遺物を作ったことで、一時的にそういう気持ちになっているのかもしれない。(LOST ARKが退屈だから、というのが本当のところ？ｗ)いずれにしても、やるからには、まず準備が必要。剣士は今Lv1]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人型ダメと人型ダメ抵抗【REDSTONE】]]></title>
         <id>https://chorrealism.com/?p=2489</id>
