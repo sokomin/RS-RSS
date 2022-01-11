@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-11T14:46:34.111Z</updated>
+    <updated>2022-01-11T15:08:12.751Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1871,16 +1871,6 @@ The post 2021.11総括【RED STONE】 first appeared on 無職と美学とシュ
         <summary type="html"><![CDATA[姫を転生させたのはイイがビルドが決まってないの、、、明日の石の日でドカッと上げたいが？？1キャラはビッグバルーンかな！もう1キャラは、、、？？？ゴリアテとボトルちゃんはすでに育ててるからしー、、、ホットスピンストーン　＆　リトルもすでにやったし？？？んー...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ちょっとしつこいけどアクセス数の話]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112130001/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112130001/"/>
-        <updated>2021-12-13T02:50:12.000Z</updated>
-        <summary type="html"><![CDATA[アクセス数が更に増えているのがそこはかとなく怖い・・なぜ急にこんなに増えるの？？（ID停止されたわけでもないのにｗ）折れ線グラフの一番上のところの赤い丸は、マウスポインターを見失わないように昨日のGv...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
