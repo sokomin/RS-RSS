@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-11T15:08:12.751Z</updated>
+    <updated>2022-01-11T15:31:26.738Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1861,16 +1861,6 @@ The post 2021.11総括【RED STONE】 first appeared on 無職と美学とシュ
         <summary type="html"><![CDATA[だからなんだってんだい…うん、14日。2021年最後の石の日です。最後の経験値、ドロップ2倍かと言われたらわかんないや。今までなら頑張って狩ろう！だったけど今はどーでもいいやって感じ。もともとなかった目標が塵へと帰ったからさ…。まぁ、がっつり狩る人はがんばってレベルを上げよう！そうでない人も地図売りやドロップ2倍で稼げるチャンスになるかも。で、正直特段言うこともないんだけど、知識槍と物理弓槍のてきとーな装備]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V鯖　2キャラ3転したおb]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=464</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=464"/>
-        <updated>2021-12-13T03:22:16.000Z</updated>
-        <summary type="html"><![CDATA[姫を転生させたのはイイがビルドが決まってないの、、、明日の石の日でドカッと上げたいが？？1キャラはビッグバルーンかな！もう1キャラは、、、？？？ゴリアテとボトルちゃんはすでに育ててるからしー、、、ホットスピンストーン　＆　リトルもすでにやったし？？？んー...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
