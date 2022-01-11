@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-11T16:48:58.085Z</updated>
+    <updated>2022-01-11T17:17:07.239Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クリーチャーパッシブの上級攻撃速度Lv50を対人で使えるようにしてみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201120000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201120000/"/>
+        <updated>2022-01-11T16:52:35.000Z</updated>
+        <summary type="html"><![CDATA[クリーチャーの冒険でもらったコクーンを開けて混ぜていたら、HRのカラスが出たので閃きました！こいつは上級攻撃速度が最初から付いているので、こいつをMAXレベルの80まで上げて、上級攻撃速度を固定しながら変...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2度目の転生]]></title>
         <id>http://3rdcat.blog.fc2.com/blog-entry-147.html</id>
