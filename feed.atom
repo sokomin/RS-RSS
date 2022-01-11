@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-11T02:53:24.521Z</updated>
+    <updated>2022-01-11T03:09:57.780Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1880,35 +1880,6 @@ The post 2021.11総括【RED STONE】 first appeared on 無職と美学とシュ
         <summary type="html"><![CDATA[Gvに出るに至った経緯については後日書くとして、今回は久しぶりにGvに参加した感想を書こうと思います。まず、参加したときのスペックから。・表記292000→276000（天球変更の為、表記ダメがGv中下がりました）ス...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#３（ひさびさ）（UMU）（異次元）]]></title>
-        <id>https://www.youtube.com/watch?v=EI7hzgIIcqA</id>
-        <link href="https://www.youtube.com/watch?v=EI7hzgIIcqA"/>
-        <updated>2021-12-12T15:06:05.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】高耐久(目指している)武道の現状]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-873.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-873.html"/>
-        <updated>2021-12-12T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[他キャラと装備を使いまわすため、嫌々ディメンションに通い、ようやくLv941を達成。これで武道のレベリングは終了。面倒なディメンション作業が1キャラ減って嬉しい限り。今年の金鯖から連れてきた雨アチャもLv950を達成してからはディメンションには通っておらず、風剣士とメイン雨アチャのみ通っている現状。どっちかに絞りたいけど、まだ攻城戦のメインに据える方を決めきれない・・・ちなみに、高耐久(目指している)武道の現]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[混沌に行ってみました]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-725.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-725.html"/>
-        <updated>2021-12-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[12月は私が子供の頃大好きだった特撮アニメの主人公高瀬健を演じた佐久田さんの命日でもあります未だにカラオケやお風呂でも歌う思い出のある曲です当時色々なアニメや特撮がありましたが中でも異彩を放っていた名作ですドルフィンで新幹線を一度追い越してから現地に着くのは鳥肌モノでしたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
