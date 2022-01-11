@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-11T12:09:40.820Z</updated>
+    <updated>2022-01-11T12:46:21.354Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1881,15 +1881,6 @@ The post 2021.11総括【RED STONE】 first appeared on 無職と美学とシュ
         <summary type="html"><![CDATA[アクセス数が更に増えているのがそこはかとなく怖い・・なぜ急にこんなに増えるの？？（ID停止されたわけでもないのにｗ）折れ線グラフの一番上のところの赤い丸は、マウスポインターを見失わないように昨日のGv...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B鯖古都　定点観測 【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=nocl-8P8o-k</id>
-        <link href="https://www.youtube.com/watch?v=nocl-8P8o-k"/>
-        <updated>2021-12-13T00:25:25.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
