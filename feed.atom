@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-12T16:17:03.921Z</updated>
+    <updated>2022-01-12T16:55:15.764Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クリーチャーインベを晒してみる]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201130000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201130000/"/>
+        <updated>2022-01-12T16:43:04.000Z</updated>
+        <summary type="html"><![CDATA[昨日の記事で、HR→SR→LRと強化する際にLRを生贄にしていましたが、なんでSRを生贄にしないの？もったいないじゃん！って思った人がけっこういたと思います。実は、クリーチャーインベに空きがなくて、SRを貯めて...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.1.12 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/18e0a30865b1b17c75adaa0c13877da1</id>
