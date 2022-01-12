@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-12T05:43:39.862Z</updated>
+    <updated>2022-01-12T06:14:02.463Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今週の新着イベントはなし]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1215.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1215.html"/>
+        <updated>2022-01-12T06:12:51.000Z</updated>
+        <summary type="html"><![CDATA[ロトキャンペーンが1つ来ただけですね。装備強化主体なのは当然加茂ですが、LR確定コクーンと超越書の魔力暴走と魔力吸収も出るロトのようです。先日まで募集してた575イベントの結果発表もしてます。投稿した作品があるかチェックですよ。投稿してない人はどんな作品が入選したか見てみましょう。気に入る作品があるかもですよ。それでは今週ものんびり楽しみましょう～( ´ω｀)]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年が明けましたね]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-947.html</id>
