@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-12T11:09:43.732Z</updated>
+    <updated>2022-01-12T11:29:23.355Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.1.12 イベ更新]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/18e0a30865b1b17c75adaa0c13877da1</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/18e0a30865b1b17c75adaa0c13877da1?fm=rss"/>
+        <updated>2022-01-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[毎日寒いですね。
+
+DECEMBER  UPDATE -->
+
+
+
+
+
+
+
+12月5日メンテ後から2022年1月5日メンテ前まで
+
+
+課金イベントはこちら
+
+
+12月22日メンテ後から2022年2月9日メンテ前まで
+
+
+来週もイベントに変化はなさそうかな。
+26日に一掃されそうな感じですね。
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本命は来週？]]></title>
         <id>http://extremetrailblazer.blog.fc2.com/blog-entry-798.html</id>
