@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-12T04:14:25.075Z</updated>
+    <updated>2022-01-12T04:45:19.850Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[年が明けましたね]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-947.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-947.html"/>
+        <updated>2022-01-12T04:17:29.000Z</updated>
+        <summary type="html"><![CDATA[わたしの住む関東では、6日に大雪になりました。愛猫が個室(和室の押し入れ上段に作ってある猫専用スペース)でお昼寝を始めた後に降り始め、庭は見る間に銀世界へと変貌を遂げました。当然、起きてびっくり。ここまでの雪は生まれて初めて見たと思います。樹に降り積もったものを、猫のために取ってきました。ふわふわの、とてもきれいな雪でした。しげしげと見ては鼻先をくっつけたりして、楽しんでくれていました。翌朝の庭。朝]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S鯖Lv900　3キャラリーチ？]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=490</id>
