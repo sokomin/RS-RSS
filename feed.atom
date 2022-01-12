@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-12T15:11:58.589Z</updated>
+    <updated>2022-01-12T15:36:46.141Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1941,16 +1941,6 @@ The post 2021.11総括【RED STONE】 first appeared on 無職と美学とシュ
         <updated>2021-12-14T18:14:37.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[２キャラともビッグバルーン]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=465</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=465"/>
-        <updated>2021-12-14T03:26:31.000Z</updated>
-        <summary type="html"><![CDATA[必殺ボトル＆ビッグバルーンタイプにしました1キャラは健康重視ではなく知識もあげる型もう1キャラは健康重視の敏運バランス型まー、ビッグバルーンはエエけど場所を選ばないとなーパーティーボス　まとめて狩りたいけどんー、、、空いてて良いところはナカナカんーで@@　...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
