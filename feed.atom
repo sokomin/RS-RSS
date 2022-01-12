@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-12T02:33:23.167Z</updated>
+    <updated>2022-01-12T03:27:02.276Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オシゴトは手を抜いて、、]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=489</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=489"/>
+        <updated>2022-01-12T03:19:13.000Z</updated>
+        <summary type="html"><![CDATA[そう！本気で挑むカッコはイイがみぃは本気ださん？？つか、本気だしたら猫の手アイデンティティが壊れるからほどほどにねbbミスなくシゴト？？を出来るタイプではニャイので、ほどほどにせんと周りもタイヘンやからな＠＠手を抜いて、その分、猫の知恵使う　v出来ること...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】風剣士の装備改善検討]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-878.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-878.html"/>
+        <updated>2022-01-12T03:18:42.000Z</updated>
+        <summary type="html"><![CDATA[楽しい時間がやってきた。狩りする決意をして、無理矢理気味に装備改善を楽しむことにした、というのが正しい言い方かもしれない。先日は、W忍耐・知識1/2精霊王の鏡レンタルを探したが見つからず。メンテ明けの今日に期待しつ、買取も視野に継続して探そうとおもう。ステ低下30%が対策できたら、次は火力の底上げをしなければならない。案としては武器の刷新で、城用のシャイエンから100UMU嵐の目への換装がベスト。他1000UM U武]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クリーチャーパッシブの上級攻撃速度Lv50を対人で使えるようにしてみた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201120000/</id>
