@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-13T11:43:50.080Z</updated>
+    <updated>2022-01-13T12:18:51.814Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1942,15 +1942,6 @@ The post 2021.11総括【RED STONE】 first appeared on 無職と美学とシュ
         <summary type="html"><![CDATA[゜。°。°。°。°。°。°。°。゜。°。°。°。ダンジョン探索イベント1．ディメンション・ハブをクリア2．ギルドダンジョンに入場3．試練のダンジョンをクリアし「試練の証」を獲得以上、3つのミッションをクリアするのが目的のイベントみたいですね。クリア条件が全部で4つあり、それぞれで抽選プレゼントがあるみたいです。1つ目が1・2・3のいずれかを5回以上2つ目が1・2・3のいずれかを10回以上3つ目が1・2・3のいずれかを20回以上4]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B鯖冒険家協会　定点観測 【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=KHsCneYtS1s</id>
-        <link href="https://www.youtube.com/watch?v=KHsCneYtS1s"/>
-        <updated>2021-12-14T23:46:42.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
