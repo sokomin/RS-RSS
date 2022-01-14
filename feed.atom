@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-14T09:11:53.326Z</updated>
+    <updated>2022-01-14T09:33:53.709Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石の日かー、、、カルキ無し]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=491</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=491"/>
+        <updated>2022-01-14T09:12:54.000Z</updated>
+        <summary type="html"><![CDATA[一時的な2倍とかでウハウハするみぃたんでは無いのだよbbといいつつ、レイドを回してる、、、今週分はだいたいオワタ＼(^o^)／な！さてはて、、、ノーマネー　ノーライフ　かー？？みぃの場合、イベントリ圧迫でロトする気ナス、、、んー？？収入源はどこやー＠＠]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】装備改善状況]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-879.html</id>
