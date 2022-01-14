@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-14T17:19:50.182Z</updated>
+    <updated>2022-01-14T17:42:34.173Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1889,16 +1889,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[ひたすら眠い、、、つか、冬眠なのか？冬眠なのか？冬眠七日の刑？？まー、、、さておき、起き起き、エリアボスくらいはしよーかの？レイドは、V鯖なら空いてるかな？？まー、予約してにゃいからワカランbディメンションは、、パスかなめんどうなだけ、、、シゴトは、、、...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無課金ですが課金しました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112160000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112160000/"/>
-        <updated>2021-12-16T05:25:40.000Z</updated>
-        <summary type="html"><![CDATA[GEM買いをして、課金品を出しています。ハイパー社員パウダーとツインフレームは同時に出しました。ハイパーにした理由は、狩りのときに陰のCPチャージが欲しいからです。（1500GEM+1200GEM）あまり狩りはしませ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
