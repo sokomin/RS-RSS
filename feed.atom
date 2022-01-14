@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-14T22:11:06.574Z</updated>
+    <updated>2022-01-14T22:34:43.363Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[憧れを胸に！]]></title>
+        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202201150000/</id>
+        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202201150000/"/>
+        <updated>2022-01-14T22:30:51.000Z</updated>
+        <summary type="html"><![CDATA[メイドちゃんが休暇に入ったためリトルで遊んでますおはようございます、みくですもうね・・・狩り効率が気持ちいいくらいに楽すぎてやばいですね・・・元々このキャラは倉庫キャラだったのですが、いつも一緒に...]]></summary>
+        <author>
+            <name>苺桜三玖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石の日かー、、、カルキ無し]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=491</id>
