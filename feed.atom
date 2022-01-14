@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-14T11:29:15.889Z</updated>
+    <updated>2022-01-14T11:44:22.911Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -24,6 +24,15 @@
         <summary type="html"><![CDATA[着々と進捗中。りとるさいずさんに150本で売っていただいた。ギルメンが叫びをみてdiscoで知らせてくれて、耳してからの購入。N品かと思いきや、色々付いてて嬉しい限り。りとるさいずさん、大事に使います！GHから拝借して、自力でW、叫びで3つ目を付けて増幅して完成。お守り様々やね。さて、問題は武器。改めてアングラヘルと嵐の目の性能をみてみたが、大差ない気がしてきた。「魔力の」を付与することを考えると、装備レベル]]></summary>
         <author>
             <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#１１]]></title>
+        <id>https://www.youtube.com/watch?v=OiKGATuZcgw</id>
+        <link href="https://www.youtube.com/watch?v=OiKGATuZcgw"/>
+        <updated>2022-01-13T10:09:20.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
