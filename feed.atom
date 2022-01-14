@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-14T02:03:41.926Z</updated>
+    <updated>2022-01-14T02:50:46.020Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1889,16 +1889,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <updated>2021-12-15T21:37:27.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本命は来週だから…]]></title>
-        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-785.html</id>
-        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-785.html"/>
-        <updated>2021-12-15T14:05:28.000Z</updated>
-        <summary type="html"><![CDATA[忙しくなるとは言ってないけどね【連絡事項】・PVPワールド一時的に閉鎖・S鯖とV鯖の12月PVPランキング初期化時期変更※12/22(水)のメンテに実施。・それに伴う期間(2)実施12/22(水)メンテ後から12/31(金)23:59までらしいよ？・あと不具合補填が2つそして公式のあれ【地下界とかの移動石販売終了のお知らせ】12/22(水)ｱﾌﾟﾃﾞに伴い、下記のアイテム販売が終了しました。・天上界ポータルストーン・地下界ポータルストーン・ロシペル]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
