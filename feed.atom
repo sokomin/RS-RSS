@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-14T20:12:49.523Z</updated>
+    <updated>2022-01-14T20:34:13.205Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1879,16 +1879,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ねむねむ、、、きょーは？？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=466</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=466"/>
-        <updated>2021-12-16T08:16:40.000Z</updated>
-        <summary type="html"><![CDATA[ひたすら眠い、、、つか、冬眠なのか？冬眠なのか？冬眠七日の刑？？まー、、、さておき、起き起き、エリアボスくらいはしよーかの？レイドは、V鯖なら空いてるかな？？まー、予約してにゃいからワカランbディメンションは、、パスかなめんどうなだけ、、、シゴトは、、、...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
