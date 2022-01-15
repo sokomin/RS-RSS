@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-15T05:12:03.798Z</updated>
+    <updated>2022-01-15T05:31:34.669Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[巨神の甲冑を使う方法を必死に考えてみた（２回目）]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201150000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201150000/"/>
+        <updated>2022-01-15T05:06:44.000Z</updated>
+        <summary type="html"><![CDATA[思いもかけずライダーのチョーカーを入手してしまったので、装備構成を色々と変えなければならなくなりました。リバースのギルド内オークションでロシペルお守り辺りに入札しようかなと思っていて、たまたまイン...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Apex Legends】よわよわ一兵猫の戦い]]></title>
         <id>https://www.youtube.com/watch?v=Ylj062dyqoM</id>
@@ -23,6 +33,17 @@
         <summary type="html"><![CDATA[元気があれば、なんでもできる？！ゲーンキ、ゲンキ、ゲーンキ、ゲンキ♪やっと、シゴト？がオチツイタまー、確認それほど？？してないからアレだけどねbbしばらく、スローペースで手を空けとくにゃ　vゲンキがあれば、なんでもできるわけではない、、、時間や気分をコント...]]></summary>
         <author>
             <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年12月総括【RED STONE】]]></title>
+        <id>https://chorrealism.com/?p=2869</id>
+        <link href="https://chorrealism.com/redstone/su220112/"/>
+        <updated>2022-01-15T02:49:43.000Z</updated>
+        <summary type="html"><![CDATA[遊んだり遊ばなかったり12月は適当に過ごしてた。だから、だいぶ旨味が落ちてきた協会ボス周回もサボりがち。 しかし、鞄姫育成を決めた年末ラスト数日だけ充実！この充実感を味わいつつ、年間読書量の少なさを反省してツイッターを封 […]
+The post 2021年12月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
         </author>
     </entry>
     <entry>

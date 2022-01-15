@@ -423,6 +423,15 @@
       "siteUrl": "https://chorrealism.com",
       "articles": [
         {
+          "id": "https://chorrealism.com/?p=2869",
+          "author": "cho",
+          "description": "遊んだり遊ばなかったり12月は適当に過ごしてた。だから、だいぶ旨味が落ちてきた協会ボス周回もサボりがち。 しかし、鞄姫育成を決めた年末ラスト数日だけ充実！この充実感を味わいつつ、年間読書量の少なさを反省してツイッターを封 […]\nThe post 2021年12月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.",
+          "link": "https://chorrealism.com/redstone/su220112/",
+          "publishedOn": "2022-01-15T02:49:43.000Z",
+          "wordCount": 141,
+          "title": "2021年12月総括【RED STONE】"
+        },
+        {
           "id": "https://chorrealism.com/?p=2489",
           "author": "cho",
           "description": "挙動自体はだいぶ前に確認したので知ってたんだけど、別の目的のためにこれを書いた方がいいかなと思い、挙動を再確認しまとめる。 まず、人型ダメの適用上限を確認していく。 クロウ槍の人型ダメ300%は共通。製錬が上は悪魔型ダメ […]\nThe post 人型ダメと人型ダメ抵抗【REDSTONE】 first appeared on 無職と美学とシュルレアリスム.",
@@ -487,6 +496,15 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202201150000/",
+          "author": "雷神の弓",
+          "description": "思いもかけずライダーのチョーカーを入手してしまったので、装備構成を色々と変えなければならなくなりました。リバースのギルド内オークションでロシペルお守り辺りに入札しようかなと思っていて、たまたまイン...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202201150000/",
+          "publishedOn": "2022-01-15T05:06:44.000Z",
+          "wordCount": 112,
+          "title": "巨神の甲冑を使う方法を必死に考えてみた（２回目）"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202201130000/",
           "author": "雷神の弓",
