@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-15T02:36:19.627Z</updated>
+    <updated>2022-01-15T03:01:12.284Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1826,16 +1826,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[毎朝起きるのが辛くなってきました、こんばんはみくです！今年も残す所あとわずかですね・・・（前回も書いたと、お決まりの挨拶も済ませたところで・・・Twitterって便利ですよね！！ボタン一つでいろんな方と繋...]]></summary>
         <author>
             <name>苺桜三玖</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あれ？別に支障ない？]]></title>
-        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-786.html</id>
-        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-786.html"/>
-        <updated>2021-12-16T14:39:54.000Z</updated>
-        <summary type="html"><![CDATA[先週の金曜日に衝動的に捨てたS鯖物理槍狩り装備手持ちの内、狩りで使うものは消滅したからもう無理だな！って思ってたわけです。でもあの時のレベルと別の組み方してた装備で思い出しました。武器どうにかしたら狩れるレベルに残ってるじゃねーか？！1週間たった現在、それらを捨てるなんて気は微塵もありません。あるわけないだろ。かといって復帰するかと言われたら、ほそぼそとやってたV鯖エリアボスをやらないレベルまでやる]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
