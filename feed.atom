@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-15T06:13:35.039Z</updated>
+    <updated>2022-01-15T06:39:58.600Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1846,16 +1846,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <updated>2021-12-17T02:20:57.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[付け替え用の足を購入・作成した]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112170000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112170000/"/>
-        <updated>2021-12-16T18:23:31.000Z</updated>
-        <summary type="html"><![CDATA[まず対人用のメインの足がこれです。無駄にお金を掛けてWランディスになっています。ただ、運というのは物理火力を相手にするときしか役に立たないステータスなんですよね。運を上げまくる行為には、虚しさを感じ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
