@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-15T14:10:02.713Z</updated>
+    <updated>2022-01-15T14:30:24.322Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1856,15 +1856,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[木でも、V鯖はレイド空いてるのにゃ今日はS鯖いきたいが？？まー、埋まってても、えーわしょせん、ゲームはゲームやりたいことをやりたいだけやりゃーいい、、、んで　レベル上げなんて、よゆーのあるときだけするもんそうだねー、、、ヒマなのかなんかでゲームしてるが？...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#５（朝活）]]></title>
-        <id>https://www.youtube.com/watch?v=LGZNcL6y2-s</id>
-        <link href="https://www.youtube.com/watch?v=LGZNcL6y2-s"/>
-        <updated>2021-12-17T02:20:57.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
