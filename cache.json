@@ -311,6 +311,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ylj062dyqoM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ylj062dyqoM",
+          "publishedOn": "2022-01-15T05:03:51.000Z",
+          "wordCount": null,
+          "title": "【Apex Legends】よわよわ一兵猫の戦い"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OiKGATuZcgw",
           "author": null,
           "description": "",
