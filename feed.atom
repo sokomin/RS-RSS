@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-15T03:01:12.284Z</updated>
+    <updated>2022-01-15T03:35:26.286Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[いやはー！元気ですか！！]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=492</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=492"/>
+        <updated>2022-01-15T03:16:23.000Z</updated>
+        <summary type="html"><![CDATA[元気があれば、なんでもできる？！ゲーンキ、ゲンキ、ゲーンキ、ゲンキ♪やっと、シゴト？がオチツイタまー、確認それほど？？してないからアレだけどねbbしばらく、スローペースで手を空けとくにゃ　vゲンキがあれば、なんでもできるわけではない、、、時間や気分をコント...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[憧れを胸に！]]></title>
         <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202201150000/</id>
