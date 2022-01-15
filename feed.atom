@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-15T10:11:51.382Z</updated>
+    <updated>2022-01-15T10:35:45.363Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年]]></title>
+        <id>tag:blogger.com,1999:blog-6041969618045088376.post-7878392206283359100</id>
+        <link href="https://rs-kumapon.blogspot.com/2022/01/2022.html"/>
+        <updated>2022-01-15T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[今年もよろしくお願いします。]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巨神の甲冑を使う方法を必死に考えてみた（２回目）]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201150000/</id>

@@ -688,7 +688,17 @@
       "title": "RS☆KUMApon",
       "feedUrl": "https://rs-kumapon.blogspot.com/feeds/posts/default?alt=rss",
       "siteUrl": "https://rs-kumapon.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-6041969618045088376.post-7878392206283359100",
+          "author": "noreply@blogger.com (Unknown)",
+          "description": "今年もよろしくお願いします。",
+          "link": "https://rs-kumapon.blogspot.com/2022/01/2022.html",
+          "publishedOn": "2022-01-15T10:12:00.000Z",
+          "wordCount": 276,
+          "title": "2022年"
+        }
+      ]
     },
     {
       "title": "とんすけと金鯖",
