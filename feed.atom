@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-15T04:15:07.255Z</updated>
+    <updated>2022-01-15T04:45:16.278Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1826,16 +1826,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[まず対人用のメインの足がこれです。無駄にお金を掛けてWランディスになっています。ただ、運というのは物理火力を相手にするときしか役に立たないステータスなんですよね。運を上げまくる行為には、虚しさを感じ...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寒さも本番！]]></title>
-        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202112170000/</id>
-        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202112170000/"/>
-        <updated>2021-12-16T16:25:30.000Z</updated>
-        <summary type="html"><![CDATA[毎朝起きるのが辛くなってきました、こんばんはみくです！今年も残す所あとわずかですね・・・（前回も書いたと、お決まりの挨拶も済ませたところで・・・Twitterって便利ですよね！！ボタン一つでいろんな方と繋...]]></summary>
-        <author>
-            <name>苺桜三玖</name>
         </author>
     </entry>
 </feed>
