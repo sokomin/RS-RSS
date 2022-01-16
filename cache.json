@@ -311,6 +311,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Mam0cy7Zpok",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Mam0cy7Zpok",
+          "publishedOn": "2022-01-16T04:34:09.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#１３（メインクエ２）"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5vVAV6r2IXc",
           "author": null,
           "description": "",
