@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-16T14:43:53.676Z</updated>
+    <updated>2022-01-16T15:11:28.034Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[これからヤティカヌに行く人へ]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-730.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-730.html"/>
+        <updated>2022-01-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日息子が私に「パパが聴いてた曲で　テケテッティーン　テケテッティーン　ってやつ何？？」と聞いてきたのでこれのことだと思いました私が昔大好きでやっていたゲームの戦闘曲です敵の攻撃で武器が壊されると言う前代未聞のシステムに失禁しかけた記憶があります今でも好きでPCでの作業時に聴いたりしていますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[転生2回目セットアップ]]></title>
         <id>http://3rdcat.blog.fc2.com/blog-entry-148.html</id>
