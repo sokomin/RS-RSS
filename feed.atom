@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-16T09:33:19.308Z</updated>
+    <updated>2022-01-16T09:46:35.782Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あけましておめでとうございます]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1089.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1089.html"/>
+        <updated>2022-01-16T09:40:49.000Z</updated>
+        <summary type="html"><![CDATA[あけた！あけてました！（すこしおそくなりましたが～あらためて）あけましておめでとうございます！本年もゆるゆるとよろしくおねがいします◆◆◆　◆◆◆　◆◆◆記事を見ると、昨年の後半がすかすかリアがいそがしかったというのもありますが、少しモチベが下がってしまってるのですね＞＜インはしてるのですが、ログインキャンペーンなど回すので手一杯みたいな感じこれって手段が目的にすり替わってるよな～そう思うのだが、欲しいも]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】南部の王との出会い]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-880.html</id>
