@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-16T10:47:37.481Z</updated>
+    <updated>2022-01-16T11:09:09.394Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[転生2回目セットアップ]]></title>
+        <id>http://3rdcat.blog.fc2.com/blog-entry-148.html</id>
+        <link href="http://3rdcat.blog.fc2.com/blog-entry-148.html"/>
+        <updated>2022-01-16T11:04:39.000Z</updated>
+        <summary type="html"><![CDATA[前回、無事に2回目の転生を果たした第三の猫。今世では「太陽と風の楽士」に覚醒しました。こちらが、覚醒インシナレイトになります。私はこのスキルがケルビー１段階で使用可能という事を、覚醒するまで知りませんでした。もっと紹介されていてもよかったのに、そう思う次第であります。ああ、遅ればせながら、ごきげんよう皆様。活用方法ですか？犬が燃えるところ……ですかねぇ。燃えキュン。心停止。また、このスキルをONにして]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あけましておめでとうございます]]></title>
         <id>http://rinsmile.blog70.fc2.com/blog-entry-1089.html</id>
