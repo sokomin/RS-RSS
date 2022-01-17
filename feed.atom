@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-17T03:35:38.868Z</updated>
+    <updated>2022-01-17T03:48:50.580Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[久しぶー、メンバ増やした？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=494</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=494"/>
+        <updated>2022-01-17T03:46:51.000Z</updated>
+        <summary type="html"><![CDATA[ギルドに復帰さん、ゲトしましたー♪いやー、副マスしてるから、たまには？？（みぃだけどメンバー勧誘しないとなー！？S鯖、E-explorerではメンバー募集中☆お城はメンバー揃ってなくて休止してるけど、華ちゃんがだいたい居て、かまってくれるからちょいとチャットしたい...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[やれやれ　┓(￣∇￣;)┏]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=493</id>
