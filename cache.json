@@ -4,7 +4,17 @@
       "title": "GMの抵抗ワショーイ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202201170000/",
+          "author": "そこらの民衆",
+          "description": "激ムズだったのでちょっと解いてみた。この問題、ぱっと見で後ろのほうが5桁になるやべー状況なので計算にどこまで工夫できるか選手権になるかなと。…ということで、思いつく限りの計算の工夫してみました。当時...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202201170000/",
+          "publishedOn": "2022-01-17T16:46:24.000Z",
+          "wordCount": 563,
+          "title": "2022年共通テスト数学１A　第4問　計算工夫してみた"
+        }
+      ]
     },
     {
       "title": "KHBの部屋",

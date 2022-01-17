@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-17T16:17:18.742Z</updated>
+    <updated>2022-01-17T16:56:56.678Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年共通テスト数学１A　第4問　計算工夫してみた]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202201170000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202201170000/"/>
+        <updated>2022-01-17T16:46:24.000Z</updated>
+        <summary type="html"><![CDATA[激ムズだったのでちょっと解いてみた。この問題、ぱっと見で後ろのほうが5桁になるやべー状況なので計算にどこまで工夫できるか選手権になるかなと。…ということで、思いつく限りの計算の工夫してみました。当時...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【1/17】黒魔術師装備]]></title>
         <id>https://ameblo.jp/tori-tori121/entry-12721865017.html</id>
