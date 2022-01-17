@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-17T10:12:55.545Z</updated>
+    <updated>2022-01-17T10:37:23.397Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1932,15 +1932,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[９／８（水）に実装されたヘクトルのエピソードクエ　Ｃｈａｐｔｅｒ２の攻略チャートを作成しました。]]></summary>
         <author>
             <name>KHBの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】メテオWIZを今更１から育てる回]]></title>
-        <id>https://www.youtube.com/watch?v=rfeWUm4SxHg</id>
-        <link href="https://www.youtube.com/watch?v=rfeWUm4SxHg"/>
-        <updated>2021-12-18T22:27:51.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
