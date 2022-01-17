@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-17T07:43:41.225Z</updated>
+    <updated>2022-01-17T08:14:31.269Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lv1415物理ランサー、ここに眠る。対人装備最終【RED STONE】]]></title>
+        <id>https://chorrealism.com/?p=2795</id>
+        <link href="https://chorrealism.com/redstone/lancer-equipment/lv1415-pvp/"/>
+        <updated>2022-01-17T08:11:31.000Z</updated>
+        <summary type="html"><![CDATA[この数ヶ月の火力・防御インフレで、表記制限近接単体物理(無敵持ち除く)きつすぎじゃない…？と薄々思ってたけど、これ無理だ…( ･´ｰ･｀)製錬が現実的に+12まで作れるようになったことやNPCOPの供給量増加による数値イ […]
+The post Lv1415物理ランサー、ここに眠る。対人装備最終【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[久しぶー、メンバ増やした？]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=494</id>
