@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-17T13:47:28.005Z</updated>
+    <updated>2022-01-17T14:11:29.610Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2000,16 +2000,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <updated>2021-12-19T13:13:50.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヘクトルのエピソードクエ　Ｃｈａｐｔｅｒ２　攻略チャート作成]]></title>
-        <id>https://khbsroom.com/episode_que_hector_02.html</id>
-        <link href="https://khbsroom.com/episode_que_hector_02.html"/>
-        <updated>2021-12-19T01:50:00.000Z</updated>
-        <summary type="html"><![CDATA[９／８（水）に実装されたヘクトルのエピソードクエ　Ｃｈａｐｔｅｒ２の攻略チャートを作成しました。]]></summary>
-        <author>
-            <name>KHBの部屋</name>
         </author>
     </entry>
 </feed>
