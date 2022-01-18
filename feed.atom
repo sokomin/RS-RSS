@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-18T00:42:18.711Z</updated>
+    <updated>2022-01-18T02:05:13.225Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2001,15 +2001,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[先日息子がリビングでスマホで僕の戦争と言う曲を聴いていました私はこれを思い出しました他にも擬人化シリーズなどがおもしろい方です日本語って難しいですよねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[試練のクリスタル欠片出し＆秘密ダンジョン周回 【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=cyQ_A1Zbm1w</id>
-        <link href="https://www.youtube.com/watch?v=cyQ_A1Zbm1w"/>
-        <updated>2021-12-19T13:13:50.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
