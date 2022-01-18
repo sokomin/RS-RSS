@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-18T09:33:56.509Z</updated>
+    <updated>2022-01-18T09:47:06.927Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1963,15 +1963,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[もう今年は捨てた？？やるべきことは来年へ、、、年賀状も書いたし、準備は　でけた時がなだめてく、痛みとともに流れてく日の出サンライズアタックこころに太陽の輝きを！今年の心残り？？んー、、、この歳になると1日単位なんて、アットという間やっても、やらなくても1...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】極貧メテオWIZを今更１から育てる回（最初のほうカクカクするよ♡）]]></title>
-        <id>https://www.youtube.com/watch?v=rfeWUm4SxHg</id>
-        <link href="https://www.youtube.com/watch?v=rfeWUm4SxHg"/>
-        <updated>2021-12-19T21:42:23.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
