@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-18T15:12:16.666Z</updated>
+    <updated>2022-01-18T15:37:01.853Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1953,16 +1953,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <updated>2021-12-20T10:56:41.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年賀状を書いたのだbb]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=468</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=468"/>
-        <updated>2021-12-20T03:18:00.000Z</updated>
-        <summary type="html"><![CDATA[もう今年は捨てた？？やるべきことは来年へ、、、年賀状も書いたし、準備は　でけた時がなだめてく、痛みとともに流れてく日の出サンライズアタックこころに太陽の輝きを！今年の心残り？？んー、、、この歳になると1日単位なんて、アットという間やっても、やらなくても1...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
