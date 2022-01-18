@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-18T04:15:39.379Z</updated>
+    <updated>2022-01-18T04:45:56.435Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1975,20 +1975,10 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[も～い～くつね～ると～]]></title>
-        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202112200000/</id>
-        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202112200000/"/>
-        <updated>2021-12-19T16:27:02.000Z</updated>
-        <summary type="html"><![CDATA[あっという間に一年が過ぎます。年を重ねるにつれてほんと一年ってあっという間ですね、こんばんは、みくです今年も残す所後２週間を切りました！皆様クリスマスのご予定などはもうお決まりでしょうか？みくは、...]]></summary>
-        <author>
-            <name>苺桜三玖</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[試練のクリスタル欠片出し＆秘密ダンジョン周回 【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=cyQ_A1Zbm1w</id>
-        <link href="https://www.youtube.com/watch?v=cyQ_A1Zbm1w"/>
-        <updated>2021-12-19T16:23:02.000Z</updated>
+        <title type="html"><![CDATA[B鯖ヤティカヌ　定点観測 【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=G7OJHElbgZg</id>
+        <link href="https://www.youtube.com/watch?v=G7OJHElbgZg"/>
+        <updated>2021-12-19T21:05:36.000Z</updated>
         <author>
             <name>そこらの民衆</name>
         </author>
