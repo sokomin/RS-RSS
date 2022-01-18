@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-18T23:09:37.475Z</updated>
+    <updated>2022-01-18T23:27:25.316Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1505,6 +1505,15 @@ Lv150…]]></summary>
         <summary type="html"><![CDATA[いよいよ年末ですね。今年も様々な出来事があったことでしょう。・・・、１か月ちょっとしか記憶がない気もしますが、ちょっと早めの年忘れかもしれません！第三の猫です。トラン森でエルフをなでてレベルを上げました。覚醒当初は全くシナジーのないサマナースキルを取得する「脳破壊ビルド」を考えていたのですが、久しぶりのビーストテイマーにはまってしまい、気づけば、普通に真心の民の覚醒スキルを取得していました。良い事]]></summary>
         <author>
             <name>第三の猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#６（クリスマス）]]></title>
+        <id>https://www.youtube.com/watch?v=Lj_XivChtpY</id>
+        <link href="https://www.youtube.com/watch?v=Lj_XivChtpY"/>
+        <updated>2021-12-24T14:31:32.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
