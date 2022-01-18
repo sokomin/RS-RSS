@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-18T17:26:27.429Z</updated>
+    <updated>2022-01-18T17:52:01.309Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[30万物理弱すぎ問題]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201190000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201190000/"/>
+        <updated>2022-01-18T17:31:01.000Z</updated>
+        <summary type="html"><![CDATA[何度かGvに参加してみて分かったのですが、我々30万物理は知識職に比べてゴミのように弱いです。（同じ物理でも、物理リトルさんたちは、32段攻撃でオーガが発動すれば相手を即死させられるので、なんだかとても...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年共通テスト数学１A　第4問　計算工夫してみた]]></title>
         <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202201170000/</id>
