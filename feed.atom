@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-18T02:49:38.019Z</updated>
+    <updated>2022-01-18T03:13:29.958Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2000,16 +2000,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <updated>2021-12-19T16:01:17.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近況報告]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-726.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-726.html"/>
-        <updated>2021-12-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日息子がリビングでスマホで僕の戦争と言う曲を聴いていました私はこれを思い出しました他にも擬人化シリーズなどがおもしろい方です日本語って難しいですよねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
