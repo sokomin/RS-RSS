@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-19T23:30:49.377Z</updated>
+    <updated>2022-01-19T23:44:20.654Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1966,16 +1966,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <updated>2021-12-21T13:31:18.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ベルセルクと省かれたもの]]></title>
-        <id>http://3rdcat.blog.fc2.com/blog-entry-143.html</id>
-        <link href="http://3rdcat.blog.fc2.com/blog-entry-143.html"/>
-        <updated>2021-12-21T11:40:22.000Z</updated>
-        <summary type="html"><![CDATA[時代とともに便利になっていくと見えてくるのは、余分なものが省かれた本質なのでしょうか。それとも？ようこそ、各種テレポートが優秀すぎて徒歩だと迷子になってしまう、第三の猫です。今回は、「一般１３４１１」ことダメルにやってきました。転生したことで習得可能になった称号「ベルセルクLv3」が目的です。紹介されたシュトラの酒場へ行きます。人間型のペットだと、店内になじみますね。おばあさーん！というわけでトラン]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
