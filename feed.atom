@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-19T14:09:35.067Z</updated>
+    <updated>2022-01-19T14:27:41.912Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1948,6 +1948,15 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[どうせ明日地獄を見るんだからこっちはあっさりと終わらせる。個人的に今更何とかシリーズやろうかと思ったけど、それやるならこのサイトでよくね？！ってなってねぇ…。まぁいいや、サァ行くか。【ｱﾌﾟﾃﾞ】・剣士、悪魔、ネクロ、ウルフ、リトル、アルケミの範囲狩り能力向上→それぞれに範囲スキルが追加される。利便性は…職次第とだけ。・ネフォンクリーチャー冒険要素大幅に変更→全くの別物になり、レア度と所持数の暴力と化す。]]></summary>
         <author>
             <name>Trailblazer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021/12 公式生放送 同時試聴会！【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=dIlPXbzkHXY</id>
+        <link href="https://www.youtube.com/watch?v=dIlPXbzkHXY"/>
+        <updated>2021-12-21T13:37:47.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
