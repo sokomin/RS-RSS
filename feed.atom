@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-19T22:10:34.670Z</updated>
+    <updated>2022-01-19T22:31:16.497Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1976,26 +1976,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[時代とともに便利になっていくと見えてくるのは、余分なものが省かれた本質なのでしょうか。それとも？ようこそ、各種テレポートが優秀すぎて徒歩だと迷子になってしまう、第三の猫です。今回は、「一般１３４１１」ことダメルにやってきました。転生したことで習得可能になった称号「ベルセルクLv3」が目的です。紹介されたシュトラの酒場へ行きます。人間型のペットだと、店内になじみますね。おばあさーん！というわけでトラン]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エピソードクエスト「ぶつかる双星」Ｃｈａｐｔｅｒ１　攻略チャート作成]]></title>
-        <id>https://khbsroom.com/episode_que_butsukaru_sousei_01.html</id>
-        <link href="https://khbsroom.com/episode_que_butsukaru_sousei_01.html"/>
-        <updated>2021-12-21T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[１０／２７（水）に実装された連鎖クエスト「港町の騒ぎ」の攻略チャートを作成しました。]]></summary>
-        <author>
-            <name>KHBの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[連鎖クエスト「港町の騒ぎ」　攻略チャート作成]]></title>
-        <id>https://khbsroom.com/chained_que_minatomachi_no_sawagi.html</id>
-        <link href="https://khbsroom.com/chained_que_minatomachi_no_sawagi.html"/>
-        <updated>2021-12-21T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[１０／２７（水）に実装された連鎖クエスト「港町の騒ぎ」の攻略チャートを作成しました。]]></summary>
-        <author>
-            <name>KHBの部屋</name>
         </author>
     </entry>
 </feed>
