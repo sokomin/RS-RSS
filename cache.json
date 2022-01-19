@@ -650,15 +650,6 @@
           "publishedOn": "2021-12-22T13:53:16.000Z",
           "wordCount": 113,
           "title": "魔法抵抗をちゃんと計算してみたら・・"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202112210000/",
-          "author": "雷神の弓",
-          "description": "​​やっと組み合わせが決まりました。まず、装備の外観から。フロントライン持ってないし、武器以外の製錬は10止まりだし、我ながら大した装備ではないですね。ステータスの詳細とビット表記ダメは、以下のように...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202112210000/",
-          "publishedOn": "2021-12-20T18:20:43.000Z",
-          "wordCount": 85,
-          "title": "アリーナ用の装備構成を考えまくって"
         }
       ]
     },
@@ -711,6 +702,15 @@
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
       "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1216.html",
+          "author": "クレリューフ",
+          "description": "*:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:.RED STONEのかけらイベントRSのかけらを集めるだけのイベントですね。ID合算で計500個以上集めれば全賞品の抽選権獲得になるようです。モンスターからのドロップは当然としてNPCと交換で入手したのもカウントされるみたいですね。*:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:.課金キャンペーンの方は上記イベントに合わせて探索機のキャンペーンと、アメージングロトというのが始まってます。",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1216.html",
+          "publishedOn": "2022-01-19T06:12:50.000Z",
+          "wordCount": 568,
+          "title": "新着イベント情報更新"
+        },
         {
           "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1215.html",
           "author": "クレリューフ",

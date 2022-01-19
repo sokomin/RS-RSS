@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-19T06:12:49.296Z</updated>
+    <updated>2022-01-19T06:36:29.699Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1216.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1216.html"/>
+        <updated>2022-01-19T06:12:50.000Z</updated>
+        <summary type="html"><![CDATA[*:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:.RED STONEのかけらイベントRSのかけらを集めるだけのイベントですね。ID合算で計500個以上集めれば全賞品の抽選権獲得になるようです。モンスターからのドロップは当然としてNPCと交換で入手したのもカウントされるみたいですね。*:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:.課金キャンペーンの方は上記イベントに合わせて探索機のキャンペーンと、アメージングロトというのが始まってます。]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30万物理弱すぎ問題]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201190000/</id>
@@ -1953,16 +1963,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <updated>2021-12-21T02:05:44.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アリーナ用の装備構成を考えまくって]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112210000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112210000/"/>
-        <updated>2021-12-20T18:20:43.000Z</updated>
-        <summary type="html"><![CDATA[​​やっと組み合わせが決まりました。まず、装備の外観から。フロントライン持ってないし、武器以外の製錬は10止まりだし、我ながら大した装備ではないですね。ステータスの詳細とビット表記ダメは、以下のように...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
