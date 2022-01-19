@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-19T21:09:33.111Z</updated>
+    <updated>2022-01-19T21:28:09.060Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1996,15 +1996,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[１０／２７（水）に実装された連鎖クエスト「港町の騒ぎ」の攻略チャートを作成しました。]]></summary>
         <author>
             <name>KHBの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】１２月アップデート公式配信同時視聴な回]]></title>
-        <id>https://www.youtube.com/watch?v=bmgGpR1BpM8</id>
-        <link href="https://www.youtube.com/watch?v=bmgGpR1BpM8"/>
-        <updated>2021-12-21T09:24:53.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
