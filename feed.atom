@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-19T10:43:39.416Z</updated>
+    <updated>2022-01-19T11:09:19.702Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地獄は来週に延長]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-799.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-799.html"/>
+        <updated>2022-01-19T10:54:33.000Z</updated>
+        <summary type="html"><![CDATA[イベントの切れ目的に今日じゃなかったか…なら来週だな、ヨシ！よくない【配布物】・お年玉ミッション第2弾・ダンジョン探索・カムバック【ご案内】・旧ユニティーストラップ回収及び補填作業を順次行ってるって。公式のあれ【レギュラーロト＆RS探索機キャンペ】2/2(水)メンテまで。レギュラーロトと何かをつけて500円だったりじゃなかったりするキャンペ。レギュラーロト自体は500円くらいの期待値。なのに500円でおまけをつけて]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021.1.19 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/2c846c694690e526688376290b0026c0</id>
