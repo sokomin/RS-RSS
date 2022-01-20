@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-20T23:28:53.865Z</updated>
+    <updated>2022-01-20T23:44:36.052Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1829,50 +1829,6 @@ PVP防御( ･´ｰ･｀)
         <summary type="html"><![CDATA[知ってた。【2021/12/22ｱﾌﾟﾃﾞ内容】公式で見るならこれ以降順に大雑把な解説。メインクエ1改善MQ1における2回目以降の移動が直飛びになった。ようするに移動の手間が超大幅に削減天上も地下も赤い悪魔も。石が不要なのはそういうこと。ただし、各エリアの初回はダンジョン進行が必要です。新規エピソードクエ1000レベ以上から受諾可能なクエストです。場所は以下の通り。冒険家協会ビガプール支部　黄金色の小麦畑亭　NPC「協会事]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.12.22 アプデ]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/a586e8a21a36a30fc59d1d8c4a6af38a</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/a586e8a21a36a30fc59d1d8c4a6af38a?fm=rss"/>
-        <updated>2021-12-22T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[今日は冬至です！！！
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12月8日メンテ後から2022年1月5日メンテ前まで
-
-
-すっかり年末年始モードになりましたね。
-まぁいつもと変わらず、ちまちまとプレイしたいと思います。
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
