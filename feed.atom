@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-20T04:40:12.239Z</updated>
+    <updated>2022-01-20T04:53:36.834Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1937,16 +1937,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <updated>2021-12-22T00:07:02.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[らすとくりすます]]></title>
-        <id>https://btlirk.blog.fc2.com/blog-entry-18.html</id>
-        <link href="https://btlirk.blog.fc2.com/blog-entry-18.html"/>
-        <updated>2021-12-21T16:46:53.000Z</updated>
-        <summary type="html"><![CDATA[ボトル姫の皆さん。そうでない皆さん。いかがお過ごしでしょうか。またまた久しぶりの更新となります...が、今回で最後になるかもしれません。私のレッドストーン経歴は、シーフ実装くらいの小学生か中学生くらいの時に始めたのが良き思い出です。当時はシーフがメインで0時発廃坑秘密とか行ったりしてた気がします。週末は早起きしてドーナッツ予約したり...あーそうそう、キーロガー事件とかもあったね。無気力で何故かネタにな]]></summary>
-        <author>
-            <name>btlirk</name>
         </author>
     </entry>
 </feed>
