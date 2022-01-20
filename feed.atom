@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-20T11:43:42.006Z</updated>
+    <updated>2022-01-20T12:16:56.670Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1947,15 +1947,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
 ﾊﾞｨ(o･ω･o)ﾉﾊﾞｨヽ(o･ω･o)ｷｰﾝ(ﾉo･ω･o)ﾉ]]></summary>
         <author>
             <name>きぃこんぱ～んちっ( ﾟ∀ﾟ)Ξ〇) ﾟﾛﾟ)∵＜出張版☆＞</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B鯖古都ツリー前　定点観測 【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=S6L_wgQRAHQ</id>
-        <link href="https://www.youtube.com/watch?v=S6L_wgQRAHQ"/>
-        <updated>2021-12-22T00:07:02.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
