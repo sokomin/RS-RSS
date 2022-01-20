@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-20T02:07:48.127Z</updated>
+    <updated>2022-01-20T02:48:07.109Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1931,6 +1931,15 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[B鯖古都ツリー前　定点観測 【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=S6L_wgQRAHQ</id>
+        <link href="https://www.youtube.com/watch?v=S6L_wgQRAHQ"/>
+        <updated>2021-12-22T00:07:02.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[らすとくりすます]]></title>
         <id>https://btlirk.blog.fc2.com/blog-entry-18.html</id>
         <link href="https://btlirk.blog.fc2.com/blog-entry-18.html"/>
@@ -1938,16 +1947,6 @@ SP（ｻｰﾋﾞｽﾎﾟｲﾝﾄ）が平均1万くらい貯まってきて�
         <summary type="html"><![CDATA[ボトル姫の皆さん。そうでない皆さん。いかがお過ごしでしょうか。またまた久しぶりの更新となります...が、今回で最後になるかもしれません。私のレッドストーン経歴は、シーフ実装くらいの小学生か中学生くらいの時に始めたのが良き思い出です。当時はシーフがメインで0時発廃坑秘密とか行ったりしてた気がします。週末は早起きしてドーナッツ予約したり...あーそうそう、キーロガー事件とかもあったね。無気力で何故かネタにな]]></summary>
         <author>
             <name>btlirk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[明日のアプデを紹介された範囲だけあっさりと]]></title>
-        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-787.html</id>
-        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-787.html"/>
-        <updated>2021-12-21T14:41:21.000Z</updated>
-        <summary type="html"><![CDATA[どうせ明日地獄を見るんだからこっちはあっさりと終わらせる。個人的に今更何とかシリーズやろうかと思ったけど、それやるならこのサイトでよくね？！ってなってねぇ…。まぁいいや、サァ行くか。【ｱﾌﾟﾃﾞ】・剣士、悪魔、ネクロ、ウルフ、リトル、アルケミの範囲狩り能力向上→それぞれに範囲スキルが追加される。利便性は…職次第とだけ。・ネフォンクリーチャー冒険要素大幅に変更→全くの別物になり、レア度と所持数の暴力と化す。]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
