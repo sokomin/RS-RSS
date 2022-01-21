@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-21T22:44:14.921Z</updated>
+    <updated>2022-01-21T23:10:20.548Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1685,46 +1685,6 @@ Lv150…]]></summary>
         <summary type="html"><![CDATA[​可愛い挨拶とは裏腹に欲しかない、こんばんはまおみくさんです皆様！！！​​メリークリスマス☆彡​​一人でやるのは寂しいのでいつも撮影協力ありがとねってな訳で前回お知らせしたとおりに本日はアリーナでの装備...]]></summary>
         <author>
             <name>苺桜三玖</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ネフォンクリーチャー画面変更]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/46ef8b1fb9607051c60fc67dfe8a2636</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/46ef8b1fb9607051c60fc67dfe8a2636?fm=rss"/>
-        <updated>2021-12-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[毎日寒いですね。
-
-初期画面はこんな感じ。
-
-初期画面はこんな感じ。キャラによって微妙に違いました。
-
-剛健メンバーセットの画面になります。
-
-セットしたら「GO」をクリック
-
-
-
-
-ちなみにPTくむのが面倒な方は、クリーチャーをセットする画面でクリーチャーの下に現れる「自動編成」をクリックすれば。一番高い適応度をだせるクリーチャーの組み合わせでセットしてくれます。
-
-冒険が完了すると「COMPLETE」と表示されるので、逆三角形のマークをクリックします。
-
-そうすると報酬をもらうかどうかの選択がでるので、「はい」を選択すると報酬がもらえます。
-経験値が入ったかどうかは確認しなかった(￣ω￣;)
-とりあえずこんな感じでした。
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
