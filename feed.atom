@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-21T00:36:37.563Z</updated>
+    <updated>2022-01-21T01:41:13.435Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1819,16 +1819,6 @@ PVP防御( ･´ｰ･｀)
         <summary type="html"><![CDATA[​​先日、善悪値－80だったのを天上界に行って+32にしたと日記に書きました。しかし、落ち着いて魔法抵抗を計算してみたら、自分がアホだということが判明しましたorz対人戦で必要な抵抗値は、フィールド補正を抜...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イベント盛りだくさん]]></title>
-        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-788.html</id>
-        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-788.html"/>
-        <updated>2021-12-22T12:52:43.000Z</updated>
-        <summary type="html"><![CDATA[知ってた。【2021/12/22ｱﾌﾟﾃﾞ内容】公式で見るならこれ以降順に大雑把な解説。メインクエ1改善MQ1における2回目以降の移動が直飛びになった。ようするに移動の手間が超大幅に削減天上も地下も赤い悪魔も。石が不要なのはそういうこと。ただし、各エリアの初回はダンジョン進行が必要です。新規エピソードクエ1000レベ以上から受諾可能なクエストです。場所は以下の通り。冒険家協会ビガプール支部　黄金色の小麦畑亭　NPC「協会事]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
