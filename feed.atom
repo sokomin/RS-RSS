@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-21T05:27:22.830Z</updated>
+    <updated>2022-01-21T05:43:44.909Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1765,81 +1765,6 @@ Lv150…]]></summary>
         <summary type="html"><![CDATA[こんばんは！R3.12/22のアプデにて待望の悪魔範囲スキル化しました(*´ω｀*)ヤティまではバインドで一体ずつ狩ったり、一撃で倒せるところはモータルとエクスプロージョンを使っていたので、すごく快適ですｂｂと...]]></summary>
         <author>
             <name>たつ2307</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深夜こっそり実験して散っていった件について]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202112230000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202112230000/"/>
-        <updated>2021-12-22T17:42:23.000Z</updated>
-        <summary type="html"><![CDATA[まずは、こうして・・本当に解除しちゃって・・これで3OP目が空いたよね？なら、1OP目と3OP目に付けられるランディスは貼り付けできるよね？これでTランディス足の完成だぜ！って言いたいところですが、ランディ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12/23】しゅくめいロトvsとりくん]]></title>
-        <id>https://ameblo.jp/tori-tori121/entry-12717110978.html</id>
-        <link href="https://ameblo.jp/tori-tori121/entry-12717110978.html"/>
-        <updated>2021-12-22T17:27:13.000Z</updated>
-        <summary type="html"><![CDATA[12/22にアプデきたね！
- 
-
-（クリックで公式ページに飛べます）
- 
-・・・ん？
- 
-
-（クリックで公式ページに飛べます）
- 
-ほうほう？
- 
-
-（クリックで公式ページに飛べます）
- 
-なんと
- 
-
- 
-欲しいな～
- 
-やりますか( *´艸｀)
- 
-【結果】
- 
-らんだむＮＰＣ(*'ω'*)
-
- 
-PVP防御( ･´ｰ･｀)
-
- 
-きせき＾ｑ＾
-
- 
-おせんたくNPC( ﾟДﾟ)
-
- 
-完全
-
- 
-万能( *´艸｀)
-
- 
-きゅうしゅうorぼうそー
-
- 
-かがみん('ω')
-
- 
-それぞれ個数は書いてませんが複数出ました！
- 
-選択NPCは3個獲得で大満足です(*´з`)
- 
-終わり！
- 
-またね(*'▽')ﾉｼ]]></summary>
-        <author>
-            <name>とりくんのREDSTONEＶ鯖ブログ！</name>
         </author>
     </entry>
 </feed>
