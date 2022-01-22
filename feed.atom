@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-22T15:45:01.877Z</updated>
+    <updated>2022-01-22T16:14:22.818Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1664,16 +1664,6 @@ Lv150…]]></summary>
         <summary type="html"><![CDATA[知ってた。【臨時メンテ】12/27(月)12:00～15:00主な修正内容はクリーチャーマナが65535上限で、それ以上得ても増えない事。その他不具合も修正らしいが…それはわかりませんえん。まぁ来るだろうなとは思ってたけども…土日は挟むのね一応詳細アプデの後に臨時メンテは付き物。今回はちょっと遅めなだけおわり]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[わくわく]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=474</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=474"/>
-        <updated>2021-12-24T03:46:25.000Z</updated>
-        <summary type="html"><![CDATA[((o(^-^)o))わくわく((o(^-^)o))したいと星にねがったらー♪なぞのなぞリドルでオモシロ言葉がみーつかったよ☆コーンフレークとちゃうか？チャウチャウちゃうか？ほな、コーンフレークとちゃうな、コーンフレークはチャイナチャウチャウヨホーでしらべたところコーンフレー...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
