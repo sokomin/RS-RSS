@@ -169,6 +169,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=m9VRTcH5aNw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m9VRTcH5aNw",
+          "publishedOn": "2022-01-22T09:05:22.000Z",
+          "wordCount": null,
+          "title": "メインクエスト　どこまで簡単になった？【 REDSTONE 】"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5OcM9NjDMmc",
           "author": null,
           "description": "",
