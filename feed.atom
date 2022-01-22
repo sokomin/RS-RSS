@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-22T17:43:36.791Z</updated>
+    <updated>2022-01-22T18:11:23.837Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[力無振りだけど火力極にしてみようかな]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201230000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201230000/"/>
+        <updated>2022-01-22T18:02:21.000Z</updated>
+        <summary type="html"><![CDATA[攻城で、運上げてない職絶対に殺すマン　になろうかなと考えています。そこで、試しに装備を組み合わせてみました。※現在、ツインが切れているので陽Pは１匹、スフィアULTも切れているのでHPが下がっています。指...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メインクエスト　どこまで簡単になった？【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=m9VRTcH5aNw</id>
