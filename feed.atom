@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-22T04:13:13.815Z</updated>
+    <updated>2022-01-22T04:40:46.048Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1675,16 +1675,6 @@ Lv150…]]></summary>
         <summary type="html"><![CDATA[S鯖でもチョイでLv900のが3キャラあと、3周くらいでイケそー　モフV鯖は昨日行ったからオケ☆B鯖はどうしようかな、、、ただの作業となってしまってる、、、レポ使えばLv800は簡単だろうし？？レイド通う意味低いのよねー、、、レイドはいっぺんにレベル上がるけど時間で動...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[くりすますいぶ＆くりすます！]]></title>
-        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202112240000/</id>
-        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202112240000/"/>
-        <updated>2021-12-23T16:35:35.000Z</updated>
-        <summary type="html"><![CDATA[​可愛い挨拶とは裏腹に欲しかない、こんばんはまおみくさんです皆様！！！​​メリークリスマス☆彡​​一人でやるのは寂しいのでいつも撮影協力ありがとねってな訳で前回お知らせしたとおりに本日はアリーナでの装備...]]></summary>
-        <author>
-            <name>苺桜三玖</name>
         </author>
     </entry>
 </feed>
