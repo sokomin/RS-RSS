@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-23T04:13:08.609Z</updated>
+    <updated>2022-01-23T04:40:04.340Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アビスポイントお前もか]]></title>
+        <id>http://3rdcat.blog.fc2.com/blog-entry-149.html</id>
+        <link href="http://3rdcat.blog.fc2.com/blog-entry-149.html"/>
+        <updated>2022-01-23T04:23:12.000Z</updated>
+        <summary type="html"><![CDATA[寒い日が続きますね。いつ雨に変わるかわからない降雪に注意しつつ、注意するだけで傘を忘れる第三の猫です。今回は転生2回目400レベルから受けられる、ベルセルク称号Lv5クエを進めていきます。"暫定No1いい趣味NPC"のマープスから紹介された騎士団長。彼に渡されたメモに書かれた「ダークエルフ王宮」そこへ向かうことになりました。ダークエルフ王宮といえば、確か・・・エルフ大名がいたところですよね。エルフ武士です。出世]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】ポケモ〇マスターになったるわああああ※テイマー育成]]></title>
         <id>https://www.youtube.com/watch?v=bFae14jcaco</id>
