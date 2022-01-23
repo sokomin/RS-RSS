@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-23T11:43:35.741Z</updated>
+    <updated>2022-01-23T12:16:25.601Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[図案書「純粋」の有無]]></title>
+        <id>http://extremetrailblazer.blog.fc2.com/blog-entry-800.html</id>
+        <link href="http://extremetrailblazer.blog.fc2.com/blog-entry-800.html"/>
+        <updated>2022-01-23T11:52:20.000Z</updated>
+        <summary type="html"><![CDATA[いつの間にか40％で発動するようになっていた図案書「純粋」さん。物理職ならつけろと言われる一品だけども、どれくらいの効果が出るのか自身のキャラで確かめた。とはいっても単純に発動したときとしてないときの比較だけどね。試練なら大幅なダメカットもないだろうし。大雑把！まずは発動していないときのダメージ。よく見えないとりあえず32.6万程度だったのは覚えてるけど、SSのタイミングが最悪だこれ…槍投げで撮るんじゃな]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アビスポイントお前もか]]></title>
         <id>http://3rdcat.blog.fc2.com/blog-entry-149.html</id>
