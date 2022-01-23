@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-23T15:12:06.553Z</updated>
+    <updated>2022-01-23T15:32:46.414Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1674,16 +1674,6 @@ Lv150…]]></summary>
         <summary type="html"><![CDATA[プレゼントでもらった解放改で、１発成功しました！指チケで３解放にした後ずっと放置していたワームでしたが、無事４解放になりました。T運比ワーム４解放は、これで３個目です。T力比ワームの４解放は無駄にた...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリスマスおめでとう☆]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=475</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=475"/>
-        <updated>2021-12-25T03:28:25.000Z</updated>
-        <summary type="html"><![CDATA[ふむ、みーたんは一応？？無宗教ということにしてるが？？まー、クリスマスくらいは便乗するのじゃイエスキリストの誕生日だから祝う？まー、それもそうだが生きとし生けるもの全ての誕生と今、命があることをお祝いするのじゃいイエスさんは、人の罪　全てを背負って十字...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
