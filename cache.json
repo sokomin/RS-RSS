@@ -258,6 +258,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bFae14jcaco",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bFae14jcaco",
+          "publishedOn": "2022-01-23T02:22:29.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】ポケモ〇マスターになったるわああああ※テイマー育成"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xcN9amgPFX4",
           "author": null,
           "description": "",
@@ -337,15 +346,6 @@
           "publishedOn": "2021-12-27T21:42:21.000Z",
           "wordCount": null,
           "title": "【REDSTONE】赤石育成日記#７　（ドラツイで荒地でUMU出したい）"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Lj_XivChtpY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Lj_XivChtpY",
-          "publishedOn": "2021-12-24T14:31:32.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】赤石育成日記#６（クリスマス）"
         }
       ]
     },
