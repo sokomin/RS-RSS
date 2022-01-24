@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-24T12:18:45.733Z</updated>
+    <updated>2022-01-24T12:47:52.368Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[紫壺イベントの日]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1090.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1090.html"/>
+        <updated>2022-01-24T12:21:26.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは～ハニーですよBサバでは昨日（1月23日）に紫壺イベントがありました主催はこの3人、叫びで紫壺を集めたりしていましたのでご存じの方も多いことでしょう今回はチョットハニーも参加してみたかったのでプリメのメンバーを誘いつつ参加してきましたPTの誰かの攻撃が通ると全員に『ｘｘの宝石箱』が入手できますま～しかし、笑うぐらい重かった！モーションはなくなるしPT情報も見えなくなったり強制ログアウト！強制終了]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ラクガキ]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=499</id>
