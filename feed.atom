@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-24T16:50:27.541Z</updated>
+    <updated>2022-01-24T17:15:06.448Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[攻城用の面白装備を入手]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201250000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201250000/"/>
+        <updated>2022-01-24T17:06:10.000Z</updated>
+        <summary type="html"><![CDATA[武器最大攻撃力7増加というのは、基礎ダメに加算されます。攻城用の火力装備をすると、この武器最大攻撃力7増加で表記ダメが5万くらい上がります。（表記制限されているGｖでは、全く使い道のない装備です）ただ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[腕刺青強化型に変えるべきなのだろうか]]></title>
         <id>http://extremetrailblazer.blog.fc2.com/blog-entry-801.html</id>
