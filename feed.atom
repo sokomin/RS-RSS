@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-16T03:35:50.496Z</updated>
+    <updated>2022-02-16T03:47:53.959Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[臨機応変（朝令暮改）]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202202160000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202202160000/"/>
+        <updated>2022-02-16T03:39:36.000Z</updated>
+        <summary type="html"><![CDATA[​まず、レベルが上がったのでスミレイヤリングのCP効率を増幅して再構成しました。狩り用ですが、95↑にはしたいですよね。次に、一番の懸案事項だった鎧の錬成をやりました。防御はどうでもいいですが、魔法致命1...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【LOST ARK】同時接続132万人の快挙]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-887.html</id>
