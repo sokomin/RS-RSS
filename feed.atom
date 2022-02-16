@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-16T12:30:30.636Z</updated>
+    <updated>2022-02-16T13:00:37.579Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lv1170妨害リトル・プリンセス対人装備【RED STONE】]]></title>
+        <id>https://chorrealism.com/?p=3114</id>
+        <link href="https://chorrealism.com/redstone/lv1170-pvp-little/"/>
+        <updated>2022-02-16T12:34:52.000Z</updated>
+        <summary type="html"><![CDATA[サブのリトル対人装備も一通り完成！まだ伸びしろや詰めるところもあるけど、ランサーとの装備共有がうまくいかなくなるので二の足を踏んでいる。 完成形としてのGvは昨日が初で、Gv自体もまだリトルで3回しか参加してないため、こ […]
+The post Lv1170妨害リトル・プリンセス対人装備【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ワンコイン？よく見ろ、そいつはスクロールだぜ]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-808.html</id>
