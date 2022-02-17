@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-17T17:47:34.906Z</updated>
+    <updated>2022-02-17T18:23:53.254Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1539,16 +1539,6 @@ DECEMBER  UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1216.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1216.html"/>
-        <updated>2022-01-19T06:12:50.000Z</updated>
-        <summary type="html"><![CDATA[*:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:.RED STONEのかけらイベントRSのかけらを集めるだけのイベントですね。ID合算で計500個以上集めれば全賞品の抽選権獲得になるようです。モンスターからのドロップは当然としてNPCと交換で入手したのもカウントされるみたいですね。*:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:.課金キャンペーンの方は上記イベントに合わせて探索機のキャンペーンと、アメージングロトというのが始まってます。]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
