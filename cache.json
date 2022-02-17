@@ -403,6 +403,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202202170000/",
+          "author": "雷神の弓",
+          "description": "何これ？ゴミじゃね？？いったい何用なの？？？そんな言葉が聞こえてきそうですが、攻城とかこの前の鯖連合対戦の様な試合で”超紙火力”をやる為の鎧です。紙（すぐ死ぬという意味）と言っても、対知識用にHPは20...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202202170000/",
+          "publishedOn": "2022-02-17T05:33:26.000Z",
+          "wordCount": 92,
+          "title": "変な鎧を作りました",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/a6d46d0a1f1c76ee499b6f11c5045f435e76c145.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202202160000/",
           "author": "雷神の弓",
           "description": "​まず、レベルが上がったのでスミレイヤリングのCP効率を増幅して再構成しました。狩り用ですが、95↑にはしたいですよね。次に、一番の懸案事項だった鎧の錬成をやりました。防御はどうでもいいですが、魔法致命1...",
@@ -587,15 +597,6 @@
           "publishedOn": "2022-01-20T10:50:44.000Z",
           "wordCount": 80,
           "title": "アタリだけどハズレの方"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202201190000/",
-          "author": "雷神の弓",
-          "description": "何度かGvに参加してみて分かったのですが、我々30万物理は知識職に比べてゴミのように弱いです。（同じ物理でも、物理リトルさんたちは、32段攻撃でオーガが発動すれば相手を即死させられるので、なんだかとても...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202201190000/",
-          "publishedOn": "2022-01-18T17:31:01.000Z",
-          "wordCount": 112,
-          "title": "30万物理弱すぎ問題"
         }
       ]
     },

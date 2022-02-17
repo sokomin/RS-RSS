@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-17T05:30:14.010Z</updated>
+    <updated>2022-02-17T05:48:26.829Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[変な鎧を作りました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202202170000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202202170000/"/>
+        <updated>2022-02-17T05:33:26.000Z</updated>
+        <summary type="html"><![CDATA[何これ？ゴミじゃね？？いったい何用なの？？？そんな言葉が聞こえてきそうですが、攻城とかこの前の鯖連合対戦の様な試合で”超紙火力”をやる為の鎧です。紙（すぐ死ぬという意味）と言っても、対知識用にHPは20...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猫に小判というなかれ]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=509</id>
@@ -1549,16 +1559,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[激ムズだったのでちょっと解いてみた。この問題、ぱっと見で後ろのほうが5桁になるやべー状況なので計算にどこまで工夫できるか選手権になるかなと。…ということで、思いつく限りの計算の工夫してみました。当時...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30万物理弱すぎ問題]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201190000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201190000/"/>
-        <updated>2022-01-18T17:31:01.000Z</updated>
-        <summary type="html"><![CDATA[何度かGvに参加してみて分かったのですが、我々30万物理は知識職に比べてゴミのように弱いです。（同じ物理でも、物理リトルさんたちは、32段攻撃でオーガが発動すれば相手を即死させられるので、なんだかとても...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
