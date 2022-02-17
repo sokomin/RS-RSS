@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-17T09:18:33.633Z</updated>
+    <updated>2022-02-17T09:33:32.398Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1549,16 +1549,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[*:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:.RED STONEのかけらイベントRSのかけらを集めるだけのイベントですね。ID合算で計500個以上集めれば全賞品の抽選権獲得になるようです。モンスターからのドロップは当然としてNPCと交換で入手したのもカウントされるみたいですね。*:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:..｡o○☆ *:.課金キャンペーンの方は上記イベントに合わせて探索機のキャンペーンと、アメージングロトというのが始まってます。]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年共通テスト数学１A　第4問　計算工夫してみた]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202201170000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202201170000/"/>
-        <updated>2022-01-18T21:29:20.000Z</updated>
-        <summary type="html"><![CDATA[激ムズだったのでちょっと解いてみた。この問題、ぱっと見で後ろのほうが5桁になるやべー状況なので計算にどこまで工夫できるか選手権になるかなと。…ということで、思いつく限りの計算の工夫してみました。当時...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
