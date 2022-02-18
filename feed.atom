@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-18T22:47:35.524Z</updated>
+    <updated>2022-02-18T23:19:28.502Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1527,16 +1527,6 @@ END]]></summary>
         <updated>2022-01-20T22:39:02.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アタリだけどハズレの方]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201200000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201200000/"/>
-        <updated>2022-01-20T10:50:44.000Z</updated>
-        <summary type="html"><![CDATA[RSPASSでもらった促進剤を使いました。サービスポイントが3000Pもらえたので、RSPASSのアップグレードをしたんですよ。（3000PでスフィアULTを交換するより、RSPASSで稼いでからGEM買いする方が得なので）あわよ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
