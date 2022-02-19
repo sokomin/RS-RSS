@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-19T15:36:43.429Z</updated>
+    <updated>2022-02-19T15:48:42.409Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1508,26 +1508,6 @@ END]]></summary>
         <summary type="html"><![CDATA[巨神の甲冑を使う為に、結局ここまでやっちまいました＾＾；やっぱりしょぼい装備じゃときめかないからねｗなぜここまでお金を掛けたかというと、TダメDX騎士+色褪せよりも、漢の拳+巨神の甲冑の方が総ステが高く...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホットスピンストーン弱し]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=498</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=498"/>
-        <updated>2022-01-21T03:41:46.000Z</updated>
-        <summary type="html"><![CDATA[このスキルどうにかして欲しいが全くのゴミスキルでもないからな、、、プリの手数1の物理と火ダメのハイブリッドスキル物理吸収効かない敵に魔法ダメ吸収でやりゃー回復に使えるあとは、ほかのスキル覚醒するまでは比較的、使いやすいし？？？まー、オススメはでけんがロ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みぃたんの戦場]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=497</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=497"/>
-        <updated>2022-01-21T03:35:57.000Z</updated>
-        <summary type="html"><![CDATA[おもに？？ツイッターで活動してまふ猫ノみぃ　bigcat_31もうちょいで、1000フォロワーツイッターのテンションはオカシイんー？？みぃたんのテンションはネット上　アヤシイ？？楽しんで　ナンボだと思ってるからねオモシロユカイにいきましょー！]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
