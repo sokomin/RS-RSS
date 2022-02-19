@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-19T15:20:24.967Z</updated>
+    <updated>2022-02-19T15:36:43.429Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1526,16 +1526,6 @@ END]]></summary>
         <link href="http://rs.bigcat31.floppy.jp/?eid=497"/>
         <updated>2022-01-21T03:35:57.000Z</updated>
         <summary type="html"><![CDATA[おもに？？ツイッターで活動してまふ猫ノみぃ　bigcat_31もうちょいで、1000フォロワーツイッターのテンションはオカシイんー？？みぃたんのテンションはネット上　アヤシイ？？楽しんで　ナンボだと思ってるからねオモシロユカイにいきましょー！]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ちっちっち　ザクザク]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=496</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=496"/>
-        <updated>2022-01-21T03:26:25.000Z</updated>
-        <summary type="html"><![CDATA[ザクとは違うのだよ、ザクとは！！おカネ、ザクザク作戦は一時停止ムダ使いモードに☆まー、貯めたところで使わなきゃ価値ないし価値のあるモノなら現金主義でナウ買うのは悪くないケチっちゃダメよ！ダメダメ！！フグウになるからね、、、グフじゃ駄目なの、、、ドムとか...]]></summary>
         <author>
             <name>猫ノみぃ</name>
         </author>
