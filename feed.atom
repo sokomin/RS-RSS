@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-19T03:49:24.057Z</updated>
+    <updated>2022-02-19T04:25:54.965Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スウェルファーの森]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-154.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-154.html"/>
+        <updated>2022-02-19T04:08:33.000Z</updated>
+        <summary type="html"><![CDATA[インクやら赤い光やらを売って、欲しかった装備に手が届くようになってきました。ですが、鞄の中のにインゴットがあると、なぜか欲しかった装備が露店から姿を消すのです。本当の戦いはこれからなのかもしれません。こんにちは、良品のアンブッシュに警戒する第三の猫です。「17th Anniv. Box」から知らないアイテムが出現しました。使うと大物称号がもらえました。ベルセルク称号のような感じでしょうか。さて、今回は転生直後で]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヘクトルクエを一気に5キャラやってみた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202202180000/</id>
