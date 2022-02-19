@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-19T23:33:17.682Z</updated>
+    <updated>2022-02-19T23:48:18.548Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1508,16 +1508,6 @@ END]]></summary>
         <updated>2022-01-22T09:05:22.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おっかない拳骨が完成した]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201210000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201210000/"/>
-        <updated>2022-01-21T11:43:32.000Z</updated>
-        <summary type="html"><![CDATA[巨神の甲冑を使う為に、結局ここまでやっちまいました＾＾；やっぱりしょぼい装備じゃときめかないからねｗなぜここまでお金を掛けたかというと、TダメDX騎士+色褪せよりも、漢の拳+巨神の甲冑の方が総ステが高く...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
