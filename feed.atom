@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-19T17:32:50.299Z</updated>
+    <updated>2022-02-19T17:48:12.188Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[安い虹鋏で複数の装備をいじってみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202202200000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202202200000/"/>
+        <updated>2022-02-19T17:33:23.000Z</updated>
+        <summary type="html"><![CDATA[黒魔のMBで↓こんなのをやらないといけなくなりました。BF強化を要らない装備で無駄にやっても良かったのですが、せっかくやるなら意味のある強化をしようと思いました。まずは、黒い強化石+虹鉄床（20％の確率で...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtual Hunger]]></title>
         <id>https://intothe.info/?p=1594</id>
