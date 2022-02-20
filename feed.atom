@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-20T21:17:33.248Z</updated>
+    <updated>2022-02-20T21:30:45.948Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1537,6 +1537,15 @@ END]]></summary>
         <summary type="html"><![CDATA[攻城で、運上げてない職絶対に殺すマン　になろうかなと考えています。そこで、試しに装備を組み合わせてみました。※現在、ツインが切れているので陽Pは１匹、スフィアULTも切れているのでHPが下がっています。指...]]></summary>
         <author>
             <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レポクエ　どこまで簡単になった？【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=m9VRTcH5aNw</id>
+        <link href="https://www.youtube.com/watch?v=m9VRTcH5aNw"/>
+        <updated>2022-01-22T14:12:30.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
