@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-20T16:57:08.974Z</updated>
+    <updated>2022-02-20T17:19:49.081Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[弓と黒魔の狩り装備をそれぞれ固定します]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202202210000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202202210000/"/>
+        <updated>2022-02-20T17:07:57.000Z</updated>
+        <summary type="html"><![CDATA[キャラチェンジの度に銀行経由で装備を移して・・とかやっていると面倒くさいので、弓と黒魔の狩り装備をそれぞれ完全に固定することにしました。・弓の狩り装備弓に付けている永遠指やシールド指を黒魔に移して...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アプデ前の情報を見て]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-735.html</id>
