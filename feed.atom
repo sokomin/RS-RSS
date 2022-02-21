@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-21T11:30:06.846Z</updated>
+    <updated>2022-02-21T11:48:26.928Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RSPass第2弾の終わり]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-811.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-811.html"/>
+        <updated>2022-02-21T11:32:04.000Z</updated>
+        <summary type="html"><![CDATA[先延ばしにしていたらもう明日で終わるじゃん…V鯖はちゃんと処理し、S鯖はランク40のまま放置していたけどようやく処理をする気になりました。危うく処理せずに終わらせてしまうところだった3000円を生贄に、アップグレード券をぶちこめば、今日はこれで決まり。Rank50+プレミアムパスの完成です。なお、回収作業ｒｙ…銀行取引不可のものだったり重ねられなかったりして大変。ミニPのあれはまともに活動していない今使ってもねぇ…]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記#１９（RS Pass2完走！）]]></title>
         <id>https://www.youtube.com/watch?v=4_dbg7EeVAw</id>
