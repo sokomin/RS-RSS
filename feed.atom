@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-21T03:21:10.539Z</updated>
+    <updated>2022-02-21T03:48:08.154Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[久しぶりにプリ育成講座]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=512</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=512"/>
+        <updated>2022-02-21T03:43:33.000Z</updated>
+        <summary type="html"><![CDATA[ちゃちゃちゃみぃたんでうツイッターだけだと情報が小出しになるからある程度？？まとめて書くべくこのブログがあるのやけれど？？プリの最近の育て方ワカラン、というかレポがレイド以外にかわったらしいがやってないからなー、、、んー？？ん？？プリ、リトルは上級者向...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弓と黒魔の狩り装備をそれぞれ固定します]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202202210000/</id>
