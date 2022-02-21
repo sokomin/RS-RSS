@@ -109,6 +109,16 @@
       "siteUrl": "http://rinsmile.blog70.fc2.com/",
       "articles": [
         {
+          "id": "http://rinsmile.blog70.fc2.com/blog-entry-1091.html",
+          "author": "リン・ドール",
+          "description": "こんばんは～プリンセスメーカーのハニーレモネードです！やっぱプリメのGMですし、プリリトルの覚醒とか聞かれたりするしそういうときのハニーなりの答えがこれねこれが役に立つのかよくわからないが、参考までに・・・①～③プリンセス覚醒①フォースクイーン、物理攻撃のお姫さま、選択１）：怪力が欲しいです覚醒に必要なスキルは、ランダムショット物理スキルは選択肢が多くいろいろなタイプがありそうCP確保は、おしゃべりです",
+          "link": "http://rinsmile.blog70.fc2.com/blog-entry-1091.html",
+          "publishedOn": "2022-02-21T10:31:19.000Z",
+          "wordCount": 548,
+          "title": "プリリトルの覚醒いろいろ２０２２",
+          "imageUrl": null
+        },
+        {
           "id": "http://rinsmile.blog70.fc2.com/blog-entry-1090.html",
           "author": "リン・ドール",
           "description": "こんばんは～ハニーですよBサバでは昨日（1月23日）に紫壺イベントがありました主催はこの3人、叫びで紫壺を集めたりしていましたのでご存じの方も多いことでしょう今回はチョットハニーも参加してみたかったのでプリメのメンバーを誘いつつ参加してきましたPTの誰かの攻撃が通ると全員に『ｘｘの宝石箱』が入手できますま～しかし、笑うぐらい重かった！モーションはなくなるしPT情報も見えなくなったり強制ログアウト！強制終了",
@@ -224,6 +234,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA",
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4_dbg7EeVAw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4_dbg7EeVAw",
+          "publishedOn": "2022-02-21T10:35:09.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#１９（RS Pass2完走！）",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-EsHD0N1MnE",
           "author": null,

@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-21T10:23:00.168Z</updated>
+    <updated>2022-02-21T10:48:11.379Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#１９（RS Pass2完走！）]]></title>
+        <id>https://www.youtube.com/watch?v=4_dbg7EeVAw</id>
+        <link href="https://www.youtube.com/watch?v=4_dbg7EeVAw"/>
+        <updated>2022-02-21T10:35:09.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プリリトルの覚醒いろいろ２０２２]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1091.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1091.html"/>
+        <updated>2022-02-21T10:31:19.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは～プリンセスメーカーのハニーレモネードです！やっぱプリメのGMですし、プリリトルの覚醒とか聞かれたりするしそういうときのハニーなりの答えがこれねこれが役に立つのかよくわからないが、参考までに・・・①～③プリンセス覚醒①フォースクイーン、物理攻撃のお姫さま、選択１）：怪力が欲しいです覚醒に必要なスキルは、ランダムショット物理スキルは選択肢が多くいろいろなタイプがありそうCP確保は、おしゃべりです]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[久しぶりにプリ育成講座]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=512</id>
