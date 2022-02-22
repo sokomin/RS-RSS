@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-22T05:48:13.501Z</updated>
+    <updated>2022-02-22T06:24:17.056Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今週も特になし]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1220.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1220.html"/>
+        <updated>2022-02-22T06:18:06.000Z</updated>
+        <summary type="html"><![CDATA[先週に続き、特に新規開催はありません。課金キャンペーンのほうはプリズムコクーンキャンペーンが新規開催してます。そういえば先週金曜日に公式からメールマガジン来てましたが新職のイラスト公開されてましたね。4月下旬実装予定という事だったので割と楽しみ。恐らく来週から本祭が始まると思いますがアップデートも同時に来るんでしょうかね・・・？それでは今週ものんびり楽しみましょう～( ´ω｀)]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ご無沙汰してます☆]]></title>
+        <id>https://ameblo.jp/sakuyuno0822/entry-12728264155.html</id>
+        <link href="https://ameblo.jp/sakuyuno0822/entry-12728264155.html"/>
+        <updated>2022-02-22T05:54:40.000Z</updated>
+        <summary type="html"><![CDATA[今朝公園に日向ぼっこしにいって
+怖いお兄さんたちに声かけられました。もこもこです・ω・ｖ
+ 
+ 
+ 
+さてﾌﾞﾛｸﾞ止めた訳じゃなくなんとなく書く内容がなかっただけ
+ 
+そしたら
+りむたんに古都で偶然あい・・・
+ 
+ 
+
+ 
+楽しみにしてくれてた・・・！！
+ 
+こういう人が居ると書く威力わきますよね・ω・ｖ
+ 
+ 
+少しづつですが書くようにしますね＾＾
+ 
+ 
+明日は３ヶ月ご無沙汰してたので
+ﾚﾍﾞﾙをさらします！
+乞うご期待。。。！！
+ 
+ 
+では
+またみてね
+ 
+ 
+ばいば～～い・ω・ﾉｼ]]></summary>
+        <author>
+            <name>もこもこの時たま日常レッドストーン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猫に　きびだんご？？]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=513</id>
