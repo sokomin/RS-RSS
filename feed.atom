@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-22T20:21:04.371Z</updated>
+    <updated>2022-02-22T20:35:21.815Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1499,16 +1499,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[こんばんは～ハニーですよBサバでは昨日（1月23日）に紫壺イベントがありました主催はこの3人、叫びで紫壺を集めたりしていましたのでご存じの方も多いことでしょう今回はチョットハニーも参加してみたかったのでプリメのメンバーを誘いつつ参加してきましたPTの誰かの攻撃が通ると全員に『ｘｘの宝石箱』が入手できますま～しかし、笑うぐらい重かった！モーションはなくなるしPT情報も見えなくなったり強制ログアウト！強制終了]]></summary>
         <author>
             <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ラクガキ]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=499</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=499"/>
-        <updated>2022-01-24T08:23:51.000Z</updated>
-        <summary type="html"><![CDATA[猫に小判　辞書にヨダレ！？ラクガキだらけの粘土板♪紙の前は粘土板？？みゅー！アシアトぽちっと？？最近、ネタがないのー、というか本とかを消化してるbb本も、昔は粘土かー、、、重いだけ？？いまは電子妖精さんが出回ってるから、何でも手のひらサイズとはいえ、電子...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
