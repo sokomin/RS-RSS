@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-22T15:22:00.476Z</updated>
+    <updated>2022-02-22T15:49:00.020Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1624,16 +1624,6 @@ FI
 END]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】今後の遊び方]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-881.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-881.html"/>
-        <updated>2022-01-24T03:30:51.000Z</updated>
-        <summary type="html"><![CDATA[LOST ARKで第二の軍団長ビアキスが実装され、ギルメンは他ギルドの人達と攻略頑張ってる。土日でクリア出来たのかは不明。自分はというと、予習の段階で諦め、一度もやることなくビアキスに敗北することにした。おそらく、自分の様な諦め組はかなり多いと予想。今までのレイドは、装備を強化すればギミック理解が完璧じゃなくても野良PTでクリアできたが、軍団長からは違う。いくら装備レベル高くても、ギミック理解がしっかり出来]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
