@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-23T19:16:34.866Z</updated>
+    <updated>2022-02-23T19:27:58.280Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苦しいにゃ☆]]></title>
+        <id>https://ameblo.jp/sakuyuno0822/entry-12728550198.html</id>
+        <link href="https://ameblo.jp/sakuyuno0822/entry-12728550198.html"/>
+        <updated>2022-02-23T19:20:07.000Z</updated>
+        <summary type="html"><![CDATA[こんばんちゃお(･          ∀          ･)
+
+
+
+さて
+今日の息子たちは…
+
+
+
+でーん！！！
+
+
+
+
+
+
+
+
+分かるだろうか…
+
+ちゃんと2匹うつってます。
+
+
+
+はい、
+2人で寒くて布団の取り合いしてて
+さくら様がゆのを潰す結果になっております
+
+
+
+
+
+はぁ…
+
+
+可愛い♥
+
+
+
+
+
+仲良しなんだからっ！
+
+
+
+ちゃんちゃん。
+
+
+
+では
+またみてね
+
+
+
+ばいばーい( ･ω･)/]]></summary>
+        <author>
+            <name>もこもこの時たま日常レッドストーン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[気づけば2月もおしまいだと・・・?]]></title>
         <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202202230000/</id>
@@ -1546,16 +1610,6 @@ DECEMBER  UPDATE -->
         <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201250002/"/>
         <updated>2022-01-25T09:53:00.000Z</updated>
         <summary type="html"><![CDATA[先程、攻城用装備の記事をUPしましたが、勢いでGv用の装備の記事も書いちゃいました。（１つ前の記事も今日書いたものなので、良かったら見てくださいね）まず、昔10本で買った神天球を紹介します。攻撃速度もス...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ライトニングゴーグルを使用した攻城ステ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201250001/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201250001/"/>
-        <updated>2022-01-25T07:17:57.000Z</updated>
-        <summary type="html"><![CDATA[まず、ライトニングゴーグルをカスタマイズしてみました。異次元できないベースなので、しょぼいですが比率Lv1を付けてみました。T防御よりは使い勝手がよくなったと思います。前々回の記事で攻城用のステと表記...]]></summary>
         <author>
             <name>雷神の弓</name>
         </author>
