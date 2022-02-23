@@ -119,15 +119,6 @@
           "wordCount": 548,
           "title": "プリリトルの覚醒いろいろ２０２２",
           "imageUrl": null
-        },
-        {
-          "id": "http://rinsmile.blog70.fc2.com/blog-entry-1090.html",
-          "author": "リン・ドール",
-          "description": "こんばんは～ハニーですよBサバでは昨日（1月23日）に紫壺イベントがありました主催はこの3人、叫びで紫壺を集めたりしていましたのでご存じの方も多いことでしょう今回はチョットハニーも参加してみたかったのでプリメのメンバーを誘いつつ参加してきましたPTの誰かの攻撃が通ると全員に『ｘｘの宝石箱』が入手できますま～しかし、笑うぐらい重かった！モーションはなくなるしPT情報も見えなくなったり強制ログアウト！強制終了",
-          "link": "http://rinsmile.blog70.fc2.com/blog-entry-1090.html",
-          "publishedOn": "2022-01-24T12:21:26.000Z",
-          "wordCount": 548,
-          "title": "紫壺イベントの日"
         }
       ]
     },
@@ -169,6 +160,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8pMAy5Ifr2KgH8kM_xR9Og",
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=d5oZ3Qf_vTw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=d5oZ3Qf_vTw",
+          "publishedOn": "2022-02-23T00:15:27.000Z",
+          "wordCount": null,
+          "title": "REDSTONE2の最期を見届ける会",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vF989JJmnFw",
           "author": null,
