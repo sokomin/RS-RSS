@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-23T15:49:13.641Z</updated>
+    <updated>2022-02-23T16:31:03.888Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1558,16 +1558,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[まず、ライトニングゴーグルをカスタマイズしてみました。異次元できないベースなので、しょぼいですが比率Lv1を付けてみました。T防御よりは使い勝手がよくなったと思います。前々回の記事で攻城用のステと表記...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なゼニに？小判？？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=500</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=500"/>
-        <updated>2022-01-25T03:59:41.000Z</updated>
-        <summary type="html"><![CDATA[みぃたん、小判　欲しいったら、欲しいのだbbゼニも欲しいが、小判も欲しい＠＠まー、猫には猫の生き方があるんやが低所得だし、、、んー、、、ナンダカンダでおカネは回ってくるけどね親の家だから、どうにかなってる、、、みゅー？？でもさ、ゼニも小判もどうにかなるの...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
