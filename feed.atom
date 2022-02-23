@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-23T05:29:54.617Z</updated>
+    <updated>2022-02-23T05:48:13.633Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[弓の狩り装備（頭）を作ってみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202202230000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202202230000/"/>
+        <updated>2022-02-23T05:40:07.000Z</updated>
+        <summary type="html"><![CDATA[弓は、狩りのときT全吸収DX地上Nxを使っています。しかし、MOBの知識攻撃が致死的でない狩場では、少しでも殲滅速度を高めた方がいいかなと思いました。（純粋ダブクリ狩りでも、表記ダメが高い方が殲滅速度は速...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダブルラリアット]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-155.html</id>
