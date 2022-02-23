@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-23T04:52:55.667Z</updated>
+    <updated>2022-02-23T05:18:20.931Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1488,16 +1488,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[みぃたん、小判　欲しいったら、欲しいのだbbゼニも欲しいが、小判も欲しい＠＠まー、猫には猫の生き方があるんやが低所得だし、、、んー、、、ナンダカンダでおカネは回ってくるけどね親の家だから、どうにかなってる、、、みゅー？？でもさ、ゼニも小判もどうにかなるの...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攻城用の面白装備を入手]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201250000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201250000/"/>
-        <updated>2022-01-24T17:06:10.000Z</updated>
-        <summary type="html"><![CDATA[武器最大攻撃力7増加というのは、基礎ダメに加算されます。攻城用の火力装備をすると、この武器最大攻撃力7増加で表記ダメが5万くらい上がります。（表記制限されているGｖでは、全く使い道のない装備です）ただ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
