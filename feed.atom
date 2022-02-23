@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-23T21:48:09.775Z</updated>
+    <updated>2022-02-23T22:20:41.126Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1602,16 +1602,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..はい、という事で予想はしてましたが、17周年前夜祭が開始となったようです。前夜祭は毎年この辺りで開催なので予想はしやすいですね。特設ページへは↑の画像クリックして飛んでください。毎回ですが、特設ページのトップ絵は保存してる人です( ´ω｀)☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..以下、17周年前夜祭イベント。課金キャンペーン、ログインキャンペーン、ボックスド]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チョーカーと滅亡指２個を組み込んだステ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201250002/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201250002/"/>
-        <updated>2022-01-25T09:53:00.000Z</updated>
-        <summary type="html"><![CDATA[先程、攻城用装備の記事をUPしましたが、勢いでGv用の装備の記事も書いちゃいました。（１つ前の記事も今日書いたものなので、良かったら見てくださいね）まず、昔10本で買った神天球を紹介します。攻撃速度もス...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
