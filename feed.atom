@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-23T23:48:18.352Z</updated>
+    <updated>2022-02-24T01:17:38.324Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[もうすぐ新職]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-949.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-949.html"/>
+        <updated>2022-02-24T00:00:09.000Z</updated>
+        <summary type="html"><![CDATA[4月下旬に新職「キャプテン」が実装されるとのお知らせ。パワー系女子は初めてですね、RS。バトルアックスをブン回すキャラというとやはり物理なのでしょうか、強そうです。あと、気が早いですけれど裏職は何だろうと興味深いです。海上保安官・・・？　すみません発想が貧弱でそして今いちばん気になっていることがひとつ。キャラスロット増えてほしい！！　1枠でいいから＞＜。◆◆◆◆◆◆※余裕があれば後ほどSSを少し貼ります。]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苦しいにゃ☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12728550198.html</id>
