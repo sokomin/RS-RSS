@@ -191,6 +191,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JnrYNDxtikc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JnrYNDxtikc",
+          "publishedOn": "2022-02-24T01:36:18.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE2】ファイター版ストーリー（１）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=d5oZ3Qf_vTw",
           "author": null,
           "description": "",
