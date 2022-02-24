@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-24T18:50:36.125Z</updated>
+    <updated>2022-02-24T19:15:52.785Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1631,16 +1631,6 @@ DECEMBER  UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重要＆新着イベント情報更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1217.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1217.html"/>
-        <updated>2022-01-26T07:15:04.000Z</updated>
-        <summary type="html"><![CDATA[☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..はい、という事で予想はしてましたが、17周年前夜祭が開始となったようです。前夜祭は毎年この辺りで開催なので予想はしやすいですね。特設ページへは↑の画像クリックして飛んでください。毎回ですが、特設ページのトップ絵は保存してる人です( ´ω｀)☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..以下、17周年前夜祭イベント。課金キャンペーン、ログインキャンペーン、ボックスド]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
