@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-25T15:22:37.685Z</updated>
+    <updated>2022-02-25T15:48:23.565Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1524,16 +1524,6 @@ DECEMBER  UPDATE -->
         <updated>2022-01-28T06:10:59.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おカネで無双してはあかん？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=501</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=501"/>
-        <updated>2022-01-27T03:38:06.000Z</updated>
-        <summary type="html"><![CDATA[おカネも賭けれないことに時間を割くのはムダムダとはいえ、おカネで無双しちゃあかんようは、自分のスタイルにあうモノをやりゃー　イイ中庸ってヤツねbb感情にふりまわされず喜怒哀楽をコントロールするトキには愛すら執着してはならんんー、その境地まではいかんがシア...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
