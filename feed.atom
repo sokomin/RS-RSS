@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-25T02:47:00.905Z</updated>
+    <updated>2022-02-25T03:21:15.358Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1543,50 +1543,6 @@ DECEMBER  UPDATE -->
         <updated>2022-01-26T21:39:35.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かぜの シ じゃなくて ウタ だよ]]></title>
-        <id>kaze.gg-blog.com://entry/164</id>
-        <link href="http://kaze.gg-blog.com/guild/%E3%81%8B%E3%81%9C%E3%81%AE%20%E3%82%B7%20%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%A6%20%E3%82%A6%E3%82%BF%20%E3%81%A0%E3%82%88"/>
-        <updated>2022-01-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ニョアの小技だよ
- 
-決闘で剣を投げて、GHから一度出て戻ってくるだけ
-
-
-
-私もGHから一度出てみます
-戻ってみると…
-
-
-
-
-シャラ～ン
-ルナのエスパーだよ
-
-
-ルナちゃんに良い指貰った！
-風の狩る気力が1ポイント上がった！
-
-
-流石です…
-うぇいの季節外れだよ
- 
-
-となかうぇい、クリスマスにやってほしかったな～
-
-
-街中で偶然会ったこの人の頭の中もまだクリスマス
-
-
-
-
-ところで、2022年早くも12分の1が終わろうとしているよ
-
-恐ろしいね(´・ω・｀)]]></summary>
-        <author>
-            <name>風に吹かれて</name>
         </author>
     </entry>
 </feed>
