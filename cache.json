@@ -191,6 +191,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fAZAGt9cuMI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fAZAGt9cuMI",
+          "publishedOn": "2022-02-26T07:35:29.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE2】ファイター版ストーリー（２）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=J7iNKGKy8nA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J7iNKGKy8nA",
+          "publishedOn": "2022-02-26T07:26:55.000Z",
+          "wordCount": null,
+          "title": "B鯖攻城戦 Rank2防衛配信【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JnrYNDxtikc",
           "author": null,
           "description": "",
