@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-26T03:21:08.603Z</updated>
+    <updated>2022-02-26T03:36:30.470Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トルマリンのブレスレットげと]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=515</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=515"/>
+        <updated>2022-02-26T03:26:55.000Z</updated>
+        <summary type="html"><![CDATA[リアルで石を集めてるみぃたんでう☆ふふふ、ピンクトルマリンの大粒？？ブレスレット買ってもうたーbbセレオ八王子で明日まで特別セールしてるおまー、みーたんの運気はモトモト波が激しいから、おカネはつかえるときはじゃぶじゃぶ使うのじゃ猫に真珠というなかれ。スマ...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赤い光[取引不可]]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-156.html</id>
