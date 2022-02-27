@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-27T14:48:18.374Z</updated>
+    <updated>2022-02-27T15:20:29.094Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pinnacle Bosses]]></title>
+        <id>https://intothe.info/?p=1626</id>
+        <link href="https://intothe.info/poe/pinnacle-bosses/"/>
+        <updated>2022-02-27T15:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Maven初勝利記念 初めて遊んで貰ったのがUltimatumで、今...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】ポケモ〇マスターになったるわああああ　その３※テイマー・サマナー育成]]></title>
         <id>https://www.youtube.com/watch?v=gNa05SXpDgc</id>
@@ -1710,16 +1720,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[REDSTONE、もうすぐ17周年になるのですね。この前9周年だった記憶があるのですが、早いものです。はい。ここ8年間の記録がない第三の猫です。今回はセントロードにて、ウィンディのアビスポイントを使った底引き網猟を行っています。本体が敵の群れに突撃することになるが難点ですが、今までで一番強い狩りスタイルです。そんな勢いに任せて曲がり角を間違えた先で、とあるNPCに出会いました。この洞窟の主「キリアム」さんです。]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ネタは無くもないが？？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=502</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=502"/>
-        <updated>2022-01-29T03:14:09.000Z</updated>
-        <summary type="html"><![CDATA[プリ Lv900いったからゴリアテ超越させてもイイが？？最近、ゴリアテの覚醒、お城で見ないからなー、、、どうなんだろうね？？まはー、攻撃以前に知識職にヤラレルというミュガー、ミュガミュガこのブログは今月はノンビリだって、、、ブログのランキング外になったんやも...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
