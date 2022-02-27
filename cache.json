@@ -10,7 +10,28 @@
       "title": "KHBの部屋",
       "feedUrl": "https://khbsroom.com/index.xml",
       "siteUrl": "http://www.zephyr.dti.ne.jp/hiroll/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://khbsroom.com/",
+          "author": null,
+          "description": "１次～５次転生クエスト（Ｂルート）の攻略チャートを2021/12/22 アップデートに対応しました。",
+          "link": "https://khbsroom.com/",
+          "publishedOn": "2022-02-27T03:30:00.000Z",
+          "wordCount": 479,
+          "title": "転生クエスト（Ｂルート）　更新",
+          "imageUrl": null
+        },
+        {
+          "id": "https://khbsroom.com/kyokai_ninmu_que.html",
+          "author": null,
+          "description": "2021/12/22 アップデートに対応しました。",
+          "link": "https://khbsroom.com/kyokai_ninmu_que.html",
+          "publishedOn": "2022-02-09T13:55:00.000Z",
+          "wordCount": 1619,
+          "title": "協会任務担当クエ（レポートクエ、他）　更新",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "リヤンのペット図鑑+だらだら戯言日記 in RS",
@@ -176,16 +197,6 @@
           "wordCount": 110,
           "title": "奇跡炸裂",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/969a27f9e9ce4b46b7ad2a274e9f5ebcfe853c65.86.9.9.3.jpeg"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/maomiku4649/diary/202201290000/",
-          "author": "苺桜三玖",
-          "description": "気づけば一月ももう終わりですねこんばんは、みくです​前回ちらっと登場したこの人名前隠した意味は特に何もないのですが無事に５転生まで辿り着いたので・・・！人呼んでドリパレちゃんです！！今後ともよろしく...",
-          "link": "https://plaza.rakuten.co.jp/maomiku4649/diary/202201290000/",
-          "publishedOn": "2022-01-28T15:31:31.000Z",
-          "wordCount": 138,
-          "title": "時間がたつのは早い・・・",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/6c379b74eeac5670091b8f27e27859778ceca984.86.9.9.3.jpeg"
         }
       ]
     },
