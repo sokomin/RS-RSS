@@ -319,6 +319,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gNa05SXpDgc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gNa05SXpDgc",
+          "publishedOn": "2022-02-27T05:33:52.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】ポケモ〇マスターになったるわああああ　その３※テイマー・サマナー育成",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6ARqReKduVQ",
           "author": null,
           "description": "",
@@ -446,16 +456,6 @@
           "publishedOn": "2022-01-30T21:35:43.000Z",
           "wordCount": null,
           "title": "【REDSTONE】ポケモ〇マスターになったるわああああ　その２※テイマー・サマナー育成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mQbxDeIQWcU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mQbxDeIQWcU",
-          "publishedOn": "2022-01-28T15:09:22.000Z",
-          "wordCount": null,
-          "title": "【Pokémon LEGENDS アルセウス】発売日にアルセウスやるぞおおおおおおおおおおいパート２",
           "imageUrl": null
         }
       ]
