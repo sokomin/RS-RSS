@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-27T15:20:29.094Z</updated>
+    <updated>2022-02-27T15:37:16.319Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1710,16 +1710,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[まず、RSPASSでもらった変異促進剤で陰陽チャレンジ！同じくRSPASSでもらった闇Pの出るシャードを使いました。結果、変異は出なかったのですが、光と闇を混ぜたことで↓が出来ました。昔流行ったダブルドレープ付...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主の棲み処と底引き網]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-150.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-150.html"/>
-        <updated>2022-01-29T03:26:59.000Z</updated>
-        <summary type="html"><![CDATA[REDSTONE、もうすぐ17周年になるのですね。この前9周年だった記憶があるのですが、早いものです。はい。ここ8年間の記録がない第三の猫です。今回はセントロードにて、ウィンディのアビスポイントを使った底引き網猟を行っています。本体が敵の群れに突撃することになるが難点ですが、今までで一番強い狩りスタイルです。そんな勢いに任せて曲がり角を間違えた先で、とあるNPCに出会いました。この洞窟の主「キリアム」さんです。]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
