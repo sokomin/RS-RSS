@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-28T03:21:43.080Z</updated>
+    <updated>2022-02-28T03:48:10.643Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[攻城戦　たまには情報]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=517</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=517"/>
+        <updated>2022-02-28T03:34:56.000Z</updated>
+        <summary type="html"><![CDATA[いやはー、たのしめりゃOK主義だが？？まー、たまにはね（みぃだけど・ソウルガード重要　3転以上を目指そう・攻めだと移動天使で上手い人いると　かなり有利・武道のトップクラスを倒すの、難しい　仰け反るで無敵化がヤッカイ・守りだと、シーフの罠張り重要・守りで防...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pinnacle Bosses]]></title>
         <id>https://intothe.info/?p=1626</id>
