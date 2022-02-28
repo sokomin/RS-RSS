@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-28T15:23:02.437Z</updated>
+    <updated>2022-02-28T15:48:48.749Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1690,16 +1690,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[クリーチャーパッシブなんか形になってしまったので。もう使い道のない対人の方が。メイン枠。最終ダメはおまけみたいなもの。おおよそ完成ではあるが、最終ダメ変えたいなぁとは思ってるよ…。+14が辛かった。PVP以外の枠に何盛るかと思ったら出てきたのが上級体力だった人間ダメ不要と気づいて無駄にSR変換したら上級体力かぶりーでもまぁいいやってことで。…特にいうこともないやつ。物理のほうの調整に入ることにしたけども、ま]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運を上げる小技をいくつか]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201300000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201300000/"/>
-        <updated>2022-01-30T03:31:11.000Z</updated>
-        <summary type="html"><![CDATA[余らせたステをアリーナで振って調整するスタイルを取っていると、力・健康・運を増やすだけでなく、HP効率・ダメ％などを増やしても運の増加につなげることができます。今回、金襴の+11チャレンジに成功したので...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
