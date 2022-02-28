@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-28T02:14:41.966Z</updated>
+    <updated>2022-02-28T02:46:32.690Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1680,26 +1680,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[余らせたステをアリーナで振って調整するスタイルを取っていると、力・健康・運を増やすだけでなく、HP効率・ダメ％などを増やしても運の増加につなげることができます。今回、金襴の+11チャレンジに成功したので...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運が少ないと思ったら・・]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202201290001/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202201290001/"/>
-        <updated>2022-01-29T14:44:33.000Z</updated>
-        <summary type="html"><![CDATA[運集中鍛錬をセットし忘れていました・・orz運が2000少ないって記事をさっき書いたんですけど、運集中鍛錬がないので計算ぴったりですわｗ（記事は削除済）ですから、チョーカー+滅亡で運31500くらい、辛苦使用ビ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内なる獣の呼び声]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-948.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-948.html"/>
-        <updated>2022-01-29T14:16:19.000Z</updated>
-        <summary type="html"><![CDATA[ごきげんよう、かっこつけたタイトルですが単なる趣味(DIY関係)の話です。恐縮ではございますが、大丈夫な方は「続きを読む」からお進みください。]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
 </feed>
