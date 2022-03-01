@@ -369,6 +369,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pgmMK7topvA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pgmMK7topvA",
+          "publishedOn": "2022-03-01T11:12:22.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】公式配信同時視聴するっぞ！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gNa05SXpDgc",
           "author": null,
           "description": "",
@@ -1402,6 +1412,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/9c31df3dc16528c6575e06bcf4b394c6",
+          "author": null,
+          "description": "3月となりました。\n\n\n知識ID\n\n知識IDは出ないかと思いましたが、最終週にマスケが出してくれました。\n物理IDは主要キャラでまんべんなく出た感じでしょうか。\n\n\n今更ですが隠居気味のメインアチャがディメンションバフに行き始めました。\n１回行ってみるかなぁ・・・という軽い気持ちだったのですが、900台の場所では装甲ボーンキメラがおりまして、ミッションブックがちょうど装甲ボーンキメラを1000体倒すミッションだったのでついでに・・・・という感じです。\nへっぽこアチャでも10分ちょっとで狩れるのでなかなかいいですね。\n\nさ、来月もドロップを書けるといいな♪\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/9c31df3dc16528c6575e06bcf4b394c6?fm=rss",
+          "publishedOn": "2022-03-01T09:30:00.000Z",
+          "wordCount": 296,
+          "title": "2022.2月のドロップ~♪",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/5f/34/21f89a9241632b5660c30b7de7392bd4.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/cb230f00b1a3b95387b028c5abc1b771",
           "author": null,
