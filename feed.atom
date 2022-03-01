@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-01T11:48:21.490Z</updated>
+    <updated>2022-03-01T12:33:34.822Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1731,16 +1731,6 @@ DECEMBER  UPDATE -->
 神聖で狩り・・・楽しくないです。マッタリ向け♡]]></summary>
         <author>
             <name>レッドストーンというゲームを楽しむパパです。</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年の忘れ物・2022年の願い事]]></title>
-        <id>https://rs-clair-de-lune.com/2022-01-31/</id>
-        <link href="https://rs-clair-de-lune.com/2022-01-31/"/>
-        <updated>2022-01-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[謹賀新…年？ 皆さん、大変です！なんと今日は1月最終日だそうです。 あけましておめでとうございます！！！ 引用：2021年最初の記事より。 こうして202…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
 </feed>
