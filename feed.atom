@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-01T01:25:26.316Z</updated>
+    <updated>2022-03-01T02:36:14.245Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1680,16 +1680,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[先日私が家でPC作業の時に聴いていたBGMを息子が聴いてそのゲームやりたいと行って納戸に探しに行きました当時悪魔合体にハマりとてもやり込んだゲームでした息子も今はまだダイダロスの塔ですがBGMと悪魔合体にハマったようですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特に使い道はないんだけど…]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-803.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-803.html"/>
-        <updated>2022-01-30T14:29:55.000Z</updated>
-        <summary type="html"><![CDATA[クリーチャーパッシブなんか形になってしまったので。もう使い道のない対人の方が。メイン枠。最終ダメはおまけみたいなもの。おおよそ完成ではあるが、最終ダメ変えたいなぁとは思ってるよ…。+14が辛かった。PVP以外の枠に何盛るかと思ったら出てきたのが上級体力だった人間ダメ不要と気づいて無駄にSR変換したら上級体力かぶりーでもまぁいいやってことで。…特にいうこともないやつ。物理のほうの調整に入ることにしたけども、ま]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
