@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-01T02:36:14.245Z</updated>
+    <updated>2022-03-01T03:03:11.667Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1670,16 +1670,6 @@ DECEMBER  UPDATE -->
         <updated>2022-01-30T17:41:17.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狩場のダメージカットとダメージループ]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-732.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-732.html"/>
-        <updated>2022-01-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日私が家でPC作業の時に聴いていたBGMを息子が聴いてそのゲームやりたいと行って納戸に探しに行きました当時悪魔合体にハマりとてもやり込んだゲームでした息子も今はまだダイダロスの塔ですがBGMと悪魔合体にハマったようですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
