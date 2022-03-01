@@ -1103,10 +1103,20 @@
       "articles": []
     },
     {
-      "title": "猫ノみぃ 冒険談　〜　猫みぃ大騒動記録",
+      "title": "猫ノみぃ 冒険談　〜　猫みぃレッドストーン記録",
       "feedUrl": "http://rscat31.jugem.jp/?mode=rss",
       "siteUrl": "http://rs.bigcat31.floppy.jp/",
       "articles": [
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=518",
+          "author": "猫ノみぃ",
+          "description": "レベルと装備が良ければ、トップクラスの職だが？？そこまでガチにはしないみぃたん物理か知識なら、知識オススメだが？槍のロウバストかシェインの開放して属性吸収無視ないと、対人だと無力な相手いるけどね？？まー、魔法吸収100%に全員してるわけでもないから、そこは...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=518",
+          "publishedOn": "2022-03-01T21:33:48.000Z",
+          "wordCount": 175,
+          "title": "ランサー？？の考察",
+          "imageUrl": "https://imaging.jugem.jp/template/img/jugem_og-image.png"
+        },
         {
           "id": "http://rs.bigcat31.floppy.jp/?eid=517",
           "author": "猫ノみぃ",

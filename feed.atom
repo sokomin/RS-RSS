@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-01T21:32:33.259Z</updated>
+    <updated>2022-03-01T21:48:18.814Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ランサー？？の考察]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=518</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=518"/>
+        <updated>2022-03-01T21:33:48.000Z</updated>
+        <summary type="html"><![CDATA[レベルと装備が良ければ、トップクラスの職だが？？そこまでガチにはしないみぃたん物理か知識なら、知識オススメだが？槍のロウバストかシェインの開放して属性吸収無視ないと、対人だと無力な相手いるけどね？？まー、魔法吸収100%に全員してるわけでもないから、そこは...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弓の対人装備を大幅に改良しました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203020000/</id>
