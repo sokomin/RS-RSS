@@ -767,7 +767,18 @@
       "title": "今日のアリアン",
       "feedUrl": "http://scratch2009.blog.fc2.com/?xml",
       "siteUrl": "http://scratch2009.blog.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://scratch2009.blog.fc2.com/blog-entry-210.html",
+          "author": "scratch2009",
+          "description": "思い出したようにアップデート情報①レベルキャップ1500→2000②1250-1300狩場実装③1400-1450狩場実装（「そよ風の森林」と読むようです）（能力35%低下）④1500-1550狩場実装⑤lv1100～新規サブクエスト追加⑥NPCソラ、リラのグラフィック変更⑦Lv1000ULT専用装備実装⑧Lv1100DX武器実装⑨Lv1100DX防具実装⑩NPC販売UI変更など⑪新職業キャプテンは4月下旬実装を目標に準備中。裏職ありキャラ枠の増加は現時点では要検討（少なくとも今回は増",
+          "link": "http://scratch2009.blog.fc2.com/blog-entry-210.html",
+          "publishedOn": "2022-03-01T12:41:18.000Z",
+          "wordCount": 300,
+          "title": "20220301_ゲムづめ",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "JEFRYの悪足掻き",
@@ -881,6 +892,16 @@
       "feedUrl": "http://extremetrailblazer.blog.fc2.com/?xml",
       "siteUrl": "https://extremetrailblazer.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-814.html",
+          "author": "Trailblazer",
+          "description": "ならば今日はあっさりと行かせてもらおう！！ｱﾌﾟﾃﾞと周年のはさみ撃ち、臨時メンテを添えてあ、今度のアイテムコードは、ちょっと強えぞ【ｱﾌﾟﾃﾞ関連】・一応Lv2000までレベ解放・狩場は4つ追加（1250～1300、1400～1450、1450～1500、1500～1550）。なお1250～1300はヤティカヌより優しめで経験値やや低い。あとのは…どっかステ低下35％って見えたんですけどぉ…・新規サブクエ。スフィアなしで630億。Lv1100から。・あるNPCモデル",
+          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-814.html",
+          "publishedOn": "2022-03-01T12:57:28.000Z",
+          "wordCount": 116,
+          "title": "どうせ明日地獄を見るんだ…",
+          "imageUrl": null
+        },
         {
           "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-813.html",
           "author": "Trailblazer",
