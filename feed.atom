@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-01T23:48:19.537Z</updated>
+    <updated>2022-03-02T01:19:38.420Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1757,20 +1757,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[10→ガードⅡで+11チャレンジ→失敗+9に下がる→代行を探して+10に上げる→ガードⅡで+11チャレンジ→失敗+9に下がる→代行を探して・・・こんなことを何度繰り返したことかｗ担保が高い品だったので、9→10を高目の○70で...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1月31日　久しぶりの更新]]></title>
-        <id>https://ameblo.jp/vsabarahune/entry-12724344610.html</id>
-        <link href="https://ameblo.jp/vsabarahune/entry-12724344610.html"/>
-        <updated>2022-01-31T12:22:10.000Z</updated>
-        <summary type="html"><![CDATA[更新が遅くなってごめんなさいm(__)m
-知識ランサーとか黒魔とか知識剣士とか獣人とか色々育ててましたが・・・
- 
-今はBISを育ててます。
-神聖で狩り・・・楽しくないです。マッタリ向け♡]]></summary>
-        <author>
-            <name>レッドストーンというゲームを楽しむパパです。</name>
         </author>
     </entry>
 </feed>
