@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-02T13:34:23.552Z</updated>
+    <updated>2022-03-02T13:48:17.701Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1819,16 +1819,6 @@ DECEMBER  UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恐れていた製錬+11の洗礼を受ける]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202202010000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202202010000/"/>
-        <updated>2022-02-01T01:33:34.000Z</updated>
-        <summary type="html"><![CDATA[10→ガードⅡで+11チャレンジ→失敗+9に下がる→代行を探して+10に上げる→ガードⅡで+11チャレンジ→失敗+9に下がる→代行を探して・・・こんなことを何度繰り返したことかｗ担保が高い品だったので、9→10を高目の○70で...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
