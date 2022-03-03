@@ -379,6 +379,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1iOTKMYMFpo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1iOTKMYMFpo",
+          "publishedOn": "2022-03-03T04:18:52.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#２０（バルーンで爆上げ？🎈）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gutpbM20et4",
           "author": null,
           "description": "",
