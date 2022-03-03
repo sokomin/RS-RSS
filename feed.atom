@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-03T05:48:28.298Z</updated>
+    <updated>2022-03-03T06:25:28.887Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HRコクーン１個でID停止なの？]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203030000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202203030000/"/>
+        <updated>2022-03-03T05:48:21.000Z</updated>
+        <summary type="html"><![CDATA[悪いことと思わずに何となく２個受け取った人がID停止ってさ、やっぱりこのゲームやばいな～って思ったよ。（10個以上受け取った人なんかはさすがに仕方ないだろうけど）アイテムが複製できることは運営側の責任...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記#２０（バルーンで爆上げ？🎈）]]></title>
         <id>https://www.youtube.com/watch?v=1iOTKMYMFpo</id>
