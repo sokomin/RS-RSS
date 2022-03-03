@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-03T17:25:34.303Z</updated>
+    <updated>2022-03-03T17:47:50.178Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1824,16 +1824,6 @@ DECEMBER  UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1218.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1218.html"/>
-        <updated>2022-02-02T05:42:17.000Z</updated>
-        <summary type="html"><![CDATA[( ・_ゝ・)o*――ﾟ+.――ﾟ+.――ﾟ+.――ﾟ+.――*o(・c_,・)レイドミッション1回ユスピナのクリスタルを持ってレイド討伐成功すれば完了のイベントです。イベントページにユスピナのクリスタルがもらえるアイテムコードが載ってるので所持してない人は公式サイトにログインして受け取るのがいいですね。イベント自体は↑で言った通りですが抽選アイテムの細かい入手条件としてはレイドボス討伐するともらえる紛失した冒険団Boxを1回以上入手ユ]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
