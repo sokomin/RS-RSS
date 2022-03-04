@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-04T15:22:21.124Z</updated>
+    <updated>2022-03-04T15:49:30.191Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1836,26 +1836,6 @@ PT狩りで予約したりする風習はもうとっくに無くなっており
 BISしよう。]]></summary>
         <author>
             <name>レッドストーンというゲームを楽しむパパです。</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】レベリング]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-883.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-883.html"/>
-        <updated>2022-02-03T03:47:42.000Z</updated>
-        <summary type="html"><![CDATA[LOST ARKの軍団長レイド第二弾が萎えギミックばかりだったため、手を出すことなく淡々と週課をこなす日々。エンドコンテンツだから難しいの歓迎なんだけど、QTE(時間内に指定された文字列をタイピングする)もってくるって何なの？剣と魔法とモンスターの世界観にQTEって、全く理解できないwその他のギミックも、難しいというより分かりにくかったり見えにくかったり、ボイチャ等で連絡しなきゃだったり、ほとんどが斜め上で笑うし]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無敵にプリティ]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=503</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=503"/>
-        <updated>2022-02-03T03:27:56.000Z</updated>
-        <summary type="html"><![CDATA[スキップしてる間は安全？？ンー、ダメ通ることあるんだよな、、、ウワサでは図案書のイカリ？？まー、HP20万積むの目標＠＠とはいえ、プリはスリンガーオトリ役で、主役ではニャイ今の主役はランサ、黒魔、武道かな？？まー、好きな職やりゃーエエわどれだけ頑張っても上...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
