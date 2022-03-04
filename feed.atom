@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-04T13:02:02.587Z</updated>
+    <updated>2022-03-04T13:33:36.538Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[期間の長いヌウリが出来ました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203040000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202203040000/"/>
+        <updated>2022-03-04T13:14:43.000Z</updated>
+        <summary type="html"><![CDATA[黒魔のMBでミニP15匹保有っていうのがあったので、今までに配布されたシャードと14円ポーチを駆使してミニP15匹集めました。MBをクリアするだけではもったいないので、合成して期間を延ばしました。（合成すると...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Apex Legends】ロイ４世がダイアになるまでの物語６日目]]></title>
         <id>https://www.youtube.com/watch?v=-ywn2kZEGR8</id>
