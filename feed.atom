@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-04T03:02:45.754Z</updated>
+    <updated>2022-03-04T03:36:42.156Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[んー、不具合？？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=524</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=524"/>
+        <updated>2022-03-04T03:21:57.000Z</updated>
+        <summary type="html"><![CDATA[まー、みぃはコクーン1回だけしか取得しなかったから、停止になってないが、、、明らかな不具合で、誤操作とかでも起きる現象に、一時停止はヒドイなーまー、ほどほどの距離をもって遊びましょー遊びとはいえ、ルールやマナーを守るのは基本チートしてもハッピーにはなれ...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アプデの代償？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-817.html</id>
