@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-05T01:18:51.731Z</updated>
+    <updated>2022-03-05T02:17:15.687Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ホイホイ　罠覚醒bb]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=525</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=525"/>
+        <updated>2022-03-05T01:45:31.000Z</updated>
+        <summary type="html"><![CDATA[シーフのホイホイ220くらいで止まってたのをレイド、レポ、ソロでLv300超えたーbb罠覚醒したけど、狩りでは使ってナイという知識250くらいで罠火力が支援ありで2000ダメの3弾範囲普通？？に殴って黄ダメで狩るほうが楽？？まー微妙なところPTボスは無理やな、、ソロ狩り場...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[武道家の覚醒-ライトニングストライカー－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/628454811d4ef19a494ca046fc2cead3</id>
