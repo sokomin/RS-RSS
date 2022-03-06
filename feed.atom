@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-06T15:20:33.538Z</updated>
+    <updated>2022-03-06T15:37:24.452Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1694,16 +1694,6 @@ DECEMBER  UPDATE -->
         <link href="https://3rdcat.blog.fc2.com/blog-entry-152.html"/>
         <updated>2022-02-05T04:37:21.000Z</updated>
         <summary type="html"><![CDATA[それでは後半戦（本編）になります。ゲームとは関係のない前半戦はこちら。どうも、第三の猫です。現在キャンペーンが重なっているので、色々アイテムがもらえて良い感じですね。ちなみに、RSPassは終点の50まで到達できるか微妙なところですが、↓のミントさんはかわいいと思います。・・・。。というわけで、覚醒版ゲイルパンチを習得しました。竜巻が3秒間持続し、多段ヒットする感じです。モンスターが、まるでサイクロン掃除機]]></summary>
-        <author>
-            <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブログのSSL設定を行いました。]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-151.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-151.html"/>
-        <updated>2022-02-05T03:21:09.000Z</updated>
-        <summary type="html"><![CDATA[はい。タイトルの通りです。いい加減に説明しますと、サイトのアドレスが「http://」から「https://」に変わって、セキュリティがいい感じになります。ブログを見ようとしたときに、「保護されていない通信」とか「安全ではありません」とか表示されるのは、SSL設定が行われていないのが原因のようです。↑は、Google Chromeで見たときの設定前と設定後の表示。かなりの部分はFC2ブログの機能が自動で変更してくれましたが、一部は]]></summary>
         <author>
             <name>第三の猫</name>
         </author>

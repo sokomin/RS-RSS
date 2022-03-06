@@ -1448,16 +1448,6 @@
           "wordCount": null,
           "title": "デレ期とラスボス",
           "imageUrl": null
-        },
-        {
-          "id": "https://3rdcat.blog.fc2.com/blog-entry-151.html",
-          "author": "第三の猫",
-          "description": "はい。タイトルの通りです。いい加減に説明しますと、サイトのアドレスが「http://」から「https://」に変わって、セキュリティがいい感じになります。ブログを見ようとしたときに、「保護されていない通信」とか「安全ではありません」とか表示されるのは、SSL設定が行われていないのが原因のようです。↑は、Google Chromeで見たときの設定前と設定後の表示。かなりの部分はFC2ブログの機能が自動で変更してくれましたが、一部は",
-          "link": "https://3rdcat.blog.fc2.com/blog-entry-151.html",
-          "publishedOn": "2022-02-05T03:21:09.000Z",
-          "wordCount": null,
-          "title": "ブログのSSL設定を行いました。",
-          "imageUrl": null
         }
       ]
     },
