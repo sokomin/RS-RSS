@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-07T17:48:07.870Z</updated>
+    <updated>2022-03-07T18:24:48.850Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1698,16 +1698,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[んがが、リアルの話でねピンクトルマリンがイキツケのパワーストーン屋さんに4万くらいであったから欲しいのでうーbbトルマリンは21世紀のパワーストーンといわれてて、温めると電気をオビルパワフルなのですレッドストーンに課金するよりリアルストーンにおカネ使うほう...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】反撃獣人はじめました]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-884.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-884.html"/>
-        <updated>2022-02-06T05:58:27.000Z</updated>
-        <summary type="html"><![CDATA[風剣士で狩りしてたら、不滅箱が鞄にはいってきて開けたらカスタム。光奏師／獣人、しばらく動かしてないな～と売りを意識していた。すると、先日の攻城戦という名の紅白戦で、エタフリ応援にきてくれた獣人さん来てくれて、色々話を聞いているうちに獣人やりたくなってきた！カスタムあるし、丁度ええやん？みたいなノリ。最後に動かしたのは物理光奏師だったはず。が、何やら改変でステスキルがリセットされていた。獣人の物理に]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
