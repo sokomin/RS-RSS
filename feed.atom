@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-07T14:48:17.828Z</updated>
+    <updated>2022-03-07T15:21:28.927Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[公式のそっくりさん？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-818.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-818.html"/>
+        <updated>2022-03-07T15:19:51.000Z</updated>
+        <summary type="html"><![CDATA[なりすましアカウントが現れたらしい。【公式Twitterなりすまし事件】なんか公式アカウントそっくりさんが現れたとかなんとか。びみょーにアカウント名が違うから間違えないようにってさ。それにしても偽物の作成日が2022年3月って…>今のところは一人（？）だけみたい。これから増殖とかしないよね？公式からの注意喚起え？17周年だけどやってるかって？混沌2回というごみミッションのせいでもうログインだけでいいやってね…あと純]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Apex Legends】ロイ４世がダイアになるまでの物語７日目]]></title>
         <id>https://www.youtube.com/watch?v=Xu5V3GcLSVo</id>
