@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-07T22:35:29.863Z</updated>
+    <updated>2022-03-07T22:47:42.128Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1688,16 +1688,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[息子の塾では感染症対策の観点から授業がオンラインになる場合も多々あります先生の回線が途切れたりすると毎回これを思い出すそうです回線の安定性は重要だなぁとつくづく思いましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔術師始めました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202202060000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202202060000/"/>
-        <updated>2022-02-06T10:40:36.000Z</updated>
-        <summary type="html"><![CDATA[弓でやることがなくて鬱になりそうだったので、気分転換の為にサブでの活動を再開することにしました。物理なら装備があるので楽なんですけど、範囲スキルでスカっとする狩りがしたいので、黒魔をやることに決め...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
