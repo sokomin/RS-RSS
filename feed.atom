@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-07T14:19:00.490Z</updated>
+    <updated>2022-03-07T14:32:02.029Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1688,43 +1688,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[風剣士で狩りしてたら、不滅箱が鞄にはいってきて開けたらカスタム。光奏師／獣人、しばらく動かしてないな～と売りを意識していた。すると、先日の攻城戦という名の紅白戦で、エタフリ応援にきてくれた獣人さん来てくれて、色々話を聞いているうちに獣人やりたくなってきた！カスタムあるし、丁度ええやん？みたいなノリ。最後に動かしたのは物理光奏師だったはず。が、何やら改変でステスキルがリセットされていた。獣人の物理に]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[どうゆうこと？]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/df15e0618875d9b96db4a844d3efc363</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/df15e0618875d9b96db4a844d3efc363?fm=rss"/>
-        <updated>2022-02-06T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[寝坊しました(´・ω・`)
-「RED's Roulette」
-
-なによこれｗｗｗｗｗｗ
-イラストは神秘鏡っぽいですが、神秘鏡はリストには入ってない。
-アイテム名はもうなんだかよくわからない。
-困ったときはWEB倉庫で確認するしかないよね。
-で、もらったものは何か。。。といいますと
-・ソーラーコクーンＥ
-・クリーチャー鍛錬の結晶(大)Ｅ
-この表示は2回遭遇して、2回とも違うものが出ました。
-何が出るのかはランダムなのかな？
-
-ちなみにでたのは両方１に止まった時でした(´・ω・`)
-変なルーレットです(´・ω・`)
-
-ということで近況報告でした。
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
