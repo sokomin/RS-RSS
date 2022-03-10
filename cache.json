@@ -389,6 +389,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6F48FQCmSRE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6F48FQCmSRE",
+          "publishedOn": "2022-03-10T10:44:12.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#２１（例のクリーチャー育てる）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Xu5V3GcLSVo",
           "author": null,
           "description": "",
