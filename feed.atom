@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-10T17:47:29.472Z</updated>
+    <updated>2022-03-10T18:24:08.069Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1785,16 +1785,6 @@ DECEMBER  UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1219.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1219.html"/>
-        <updated>2022-02-09T06:14:15.000Z</updated>
-        <summary type="html"><![CDATA[.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*.:*~*:._.:*~*:._.:*~*:パワーアップチャレンジイベント精錬で装備強化するイベントですね。合計50回以上製錬と、製錬＋10達成の2つのミッションがあります。プレゼントなど詳細は公式サイトのイベントページでご覧ください。.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*.:*~*:._.:*~*:._.:*~*:課金キャンペーンはスクラッチが始まってますね。期間1，2，3とあるみたいで、各期間ごとに目玉アイテムが]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
