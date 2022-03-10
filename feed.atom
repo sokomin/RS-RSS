@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-10T03:50:44.501Z</updated>
+    <updated>2022-03-10T04:27:05.661Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1786,16 +1786,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[まず、武器がしょぼいとテンションが上がらないので、↓ここまで強化しました。若干やり過ぎた感がありますが、後悔はしていません！分裂よりも融合の方が人気があるようですが、狩りでは強化よりも弱化の方が大切...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇跡炸裂]]></title>
-        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202202090000/</id>
-        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202202090000/"/>
-        <updated>2022-02-08T16:15:06.000Z</updated>
-        <summary type="html"><![CDATA[​​​​​​​お賽銭してお祈りして心臓捧げて贅沢言わないのでせめてベースさえ残ってくれれば・・・この時本気で手が震えて​​​​​大・​大​・大成功！！！！！​​​​​うるさい色々あったけど、ようやくゴールが見えたそん...]]></summary>
-        <author>
-            <name>苺桜三玖</name>
         </author>
     </entry>
 </feed>
