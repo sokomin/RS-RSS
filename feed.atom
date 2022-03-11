@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-11T01:24:14.165Z</updated>
+    <updated>2022-03-11T02:32:44.820Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[朝から☆]]></title>
+        <id>https://ameblo.jp/sakuyuno0822/entry-12731283762.html</id>
+        <link href="https://ameblo.jp/sakuyuno0822/entry-12731283762.html"/>
+        <updated>2022-03-11T01:31:15.000Z</updated>
+        <summary type="html"><![CDATA[こんばんちゃお・ω・
+ 
+ 
+過ごしやすくなってきてもこもこは嬉しいです。
+ 
+ 
+さて
+今日は朝親に起こされたのでついでに
+WIZのマキナを終わらせました。
+ 
+ 
+ 
+そしたらなんと・・・！！
+ 
+ 
+ 
+ 
+
+ 
+初クロウをドロしましたヽ(ﾟ∀ﾟ)ﾉ ﾊﾟｯ☆
+ 
+ 
+ 
+売れるかはわかりません！！
+ 
+でも朝から良いことだと思うので
+今日は討伐もいいことありそう・・・？！
+ 
+ 
+ 
+初シャイエンが楽しみになってきました＾＾
+ 
+皆も狩り頑張って良品だしてくださいね！！
+ 
+ 
+今日はドロ報告でおわります＞＜
+ 
+追伸；身内（愛うさぎ）に不幸がありました。
+元気に振る舞います。空元気だけど見逃してください・・
+ 
+ 
+では
+またみてね
+ 
+ 
+ 
+ばいば～い・ω・ﾉｼ]]></summary>
+        <author>
+            <name>もこもこの時たま日常レッドストーン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安売りされてる…そういう立ち位置か]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-821.html</id>
@@ -1724,16 +1780,6 @@ DECEMBER  UPDATE -->
         <updated>2022-02-10T02:41:22.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[協会任務担当クエ（レポートクエ、他）　更新]]></title>
-        <id>https://khbsroom.com/kyokai_ninmu_que.html</id>
-        <link href="https://khbsroom.com/kyokai_ninmu_que.html"/>
-        <updated>2022-02-09T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[2021/12/22 アップデートに対応しました。]]></summary>
-        <author>
-            <name>KHBの部屋</name>
         </author>
     </entry>
 </feed>
