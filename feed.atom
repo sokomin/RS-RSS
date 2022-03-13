@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-13T18:49:40.527Z</updated>
+    <updated>2022-03-13T19:15:13.697Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1838,16 +1838,6 @@ DECEMBER  UPDATE -->
         <updated>2022-02-12T18:35:23.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私信]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202202120000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202202120000/"/>
-        <updated>2022-02-12T07:10:50.000Z</updated>
-        <summary type="html"><![CDATA[★業務連絡デスロードを錬成して、魔法致命打（3～10）で10を引くまでやり直そうと思うので、錬成剤の提供をお願いします！そのために奇跡ふいごSをとりあえず9個用意しました！ディスコードに返信お願いします。...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
