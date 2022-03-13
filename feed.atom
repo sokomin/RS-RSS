@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-13T15:19:57.888Z</updated>
+    <updated>2022-03-13T15:36:55.469Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1848,16 +1848,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[★業務連絡デスロードを錬成して、魔法致命打（3～10）で10を引くまでやり直そうと思うので、錬成剤の提供をお願いします！そのために奇跡ふいごSをとりあえず9個用意しました！ディスコードに返信お願いします。...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[さて！なぜかオシゴト]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=507</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=507"/>
-        <updated>2022-02-12T03:24:39.000Z</updated>
-        <summary type="html"><![CDATA[まー、好きでヤッテルから良いけどさー謎のオシゴト増やさんでｹﾛみぃたんは、デタラメな速さでシゴトするからノンビリ、ダラダラか超スピのどれかんまー、、バグ混入率はひくいかな、、つか、システム作ってるからバグとかって話になるのでアリ？ほかのシゴトならもっと楽...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
