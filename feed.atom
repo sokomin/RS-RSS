@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-14T03:28:48.138Z</updated>
+    <updated>2022-03-14T03:50:06.488Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[はて？レベル上げしてもな？？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=532</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=532"/>
+        <updated>2022-03-14T03:33:17.000Z</updated>
+        <summary type="html"><![CDATA[んー、、、ガンバルひとがいるから相対的にあまり変わらないという？？こんちゃ、石の日ですなbbシーフくんのホイホイをレベル600にして転生させたいが！？めんどうなのよねーーー狩り効率悪すぎだからにゃーまはー、武器を変えたから罠火力で狩れなくもないが、、、基本...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石の日に風船イベントをチューニング]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-823.html</id>
