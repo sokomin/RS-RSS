@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-14T06:25:35.908Z</updated>
+    <updated>2022-03-14T06:53:03.690Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1839,15 +1839,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[風剣士でお世話になっている海底神殿B2。1日90分のマキナ消費でレベルがグイグイ上がる経験値効率の良さで、言わずと知れた人気狩場。ゴールデンタイムはほぼ空いておらず、狩りはもっぱら早朝になり、平日の出社前だと安定で利用できる。ただし、休日だと早朝でも空いていないことがあるのが悩みの種。現在Lv1091で、卒業と言われているLv1100までもう少しだが、少ない狩場を少しでも有効に利用するために、狩り方の認識合わせて]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支援WIZ育成の巻【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=vF989JJmnFw</id>
-        <link href="https://www.youtube.com/watch?v=vF989JJmnFw"/>
-        <updated>2022-02-12T18:35:23.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
