@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-14T14:48:29.842Z</updated>
+    <updated>2022-03-14T15:23:04.053Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1828,16 +1828,6 @@ DECEMBER  UPDATE -->
         <updated>2022-02-13T03:47:37.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鯖連合大戦 S鯖 VS B鯖]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202202130000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202202130000/"/>
-        <updated>2022-02-13T03:04:53.000Z</updated>
-        <summary type="html"><![CDATA[2月12日（土）22：31～実施された鯖連合大戦に参加してきました。所属しているリバースは日曜日しかGvをやっていないので、土曜日のこのイベントに参加するのに問題はありませんでした。B鯖は56名（？）の参加で...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
