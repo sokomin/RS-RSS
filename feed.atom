@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-14T10:23:42.957Z</updated>
+    <updated>2022-03-14T10:47:43.093Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】ネクロを１からガチで育ててみた　その１]]></title>
+        <id>https://www.youtube.com/watch?v=EKikzYq6-x4</id>
+        <link href="https://www.youtube.com/watch?v=EKikzYq6-x4"/>
+        <updated>2022-03-14T10:29:06.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[はて？レベル上げしてもな？？]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=532</id>
