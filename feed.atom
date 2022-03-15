@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-15T09:47:32.761Z</updated>
+    <updated>2022-03-15T10:23:58.809Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メンテが水曜だろうが火曜だろうが、俺には関係ねぇ]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-824.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-824.html"/>
+        <updated>2022-03-15T10:03:48.000Z</updated>
+        <summary type="html"><![CDATA[どうせまとめる日が変わるだけ【配布品】・カムバック第1期公式のあれ【チャレンジイベント】3/30(水)メンテまで。3つのチャレンジにクリアすると抽選でアイテムがもらえる。それぞれ3000名だから外れにくいかな？以下その内容。① クリーチャー冒険7回以上クリア② ギルドデイリークエスト25回以上クリア③ レイドで紛失した冒険団Box1回以上入手…17周年にちなんで17回以上でよかったんでは？無課金だと2キャラこなさないと足りない]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.3.15 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/6ae04600017e95ee70db2fa941611d66</id>
