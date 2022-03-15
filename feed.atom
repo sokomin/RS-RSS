@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-15T14:48:21.709Z</updated>
+    <updated>2022-03-15T15:21:16.399Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1845,16 +1845,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。なんとLv1200になりました！エーテルマキナが上手くて結構サクサクいけました。狩場はLv1180くらいから涼しい洞窟芋虫エリアに変えています。（耳UMU狙いで）しれっと復帰して...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石の日かーbb]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=508</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=508"/>
-        <updated>2022-02-14T03:18:40.000Z</updated>
-        <summary type="html"><![CDATA[と、いっても狩る気は起きんが？？なんかね、ディメンションもエリアボスもやらなくてもイイヤーてなってる＠＠S鯖はLv900越えたの8匹いるし？？V鯖は3匹？？B鯖は金鯖で900の持ってったし、、、さてはて、なにすっかなー上を目指すタイプではにゃいしなー？？ビッグサー...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
