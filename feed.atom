@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-15T09:20:37.259Z</updated>
+    <updated>2022-03-15T09:47:32.761Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.3.15 イベ更新]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/6ae04600017e95ee70db2fa941611d66</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/6ae04600017e95ee70db2fa941611d66?fm=rss"/>
+        <updated>2022-03-15T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[3月も半ばです。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3月2日メンテ後から3月30日メンテ前まで
+
+
+BINGOのマスが随分埋まってきました。
+２列くらいそろったかな。
+チリも積もれば・・・ってやつですかね。
+いろいろアイテムゲットできればと思います。
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新着イベント情報更新]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1223.html</id>
@@ -1801,15 +1845,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[と、いっても狩る気は起きんが？？なんかね、ディメンションもエリアボスもやらなくてもイイヤーてなってる＠＠S鯖はLv900越えたの8匹いるし？？V鯖は3匹？？B鯖は金鯖で900の持ってったし、、、さてはて、なにすっかなー上を目指すタイプではにゃいしなー？？ビッグサー...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】プレシャススクラッチやるでええええええええええ（異次元もあるぞ）]]></title>
-        <id>https://www.youtube.com/watch?v=-VokIMSZuPQ</id>
-        <link href="https://www.youtube.com/watch?v=-VokIMSZuPQ"/>
-        <updated>2022-02-13T21:29:47.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>

@@ -577,16 +577,6 @@
           "wordCount": null,
           "title": "【REDSTONE】赤石育成日記#１７（魔法致命打１００％目指す）",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-VokIMSZuPQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-VokIMSZuPQ",
-          "publishedOn": "2022-02-13T21:29:47.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】プレシャススクラッチやるでええええええええええ（異次元もあるぞ）",
-          "imageUrl": null
         }
       ]
     },
@@ -1562,6 +1552,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/6ae04600017e95ee70db2fa941611d66",
+          "author": null,
+          "description": "3月も半ばです。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3月2日メンテ後から3月30日メンテ前まで\n\n\nBINGOのマスが随分埋まってきました。\n２列くらいそろったかな。\nチリも積もれば・・・ってやつですかね。\nいろいろアイテムゲットできればと思います。\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/6ae04600017e95ee70db2fa941611d66?fm=rss",
+          "publishedOn": "2022-03-15T09:45:00.000Z",
+          "wordCount": 375,
+          "title": "2022.3.15 イベ更新",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/04/22/181d91c630f88ae6e60e61cea815cce0.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/aa26efe977deab1fd1516d3bfc1cde63",
           "author": null,
