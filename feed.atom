@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-15T02:32:15.958Z</updated>
+    <updated>2022-03-15T02:59:44.676Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[春ですね]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-951.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-951.html"/>
+        <updated>2022-03-15T02:38:09.000Z</updated>
+        <summary type="html"><![CDATA[気づけば、梅花の美しい季節が来ていました。ごきげんよう。ビオラもまだまだ元気ですし、オステオスペルマムの華やぐ色合いも素敵です。コロナショックだけでも大打撃な中、ウクライナでは戦争が始まってしまったりとつらいニュースが多いですね。何をしていてもストレスがつきものの現在ですけれど、だからこそ心身の健康を心がけることが大切だと思っています。心や体がまず元気でないと、建設的なことがしたいと思っても難しい]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】ネクロを１からガチで育ててみた　その１]]></title>
         <id>https://www.youtube.com/watch?v=EKikzYq6-x4</id>
