@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-16T15:52:14.049Z</updated>
+    <updated>2022-03-16T16:29:02.020Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1834,16 +1834,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[​まず、レベルが上がったのでスミレイヤリングのCP効率を増幅して再構成しました。狩り用ですが、95↑にはしたいですよね。次に、一番の懸案事項だった鎧の錬成をやりました。防御はどうでもいいですが、魔法致命1...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【LOST ARK】同時接続132万人の快挙]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-887.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-887.html"/>
-        <updated>2022-02-15T04:02:35.000Z</updated>
-        <summary type="html"><![CDATA[LOST ARKの欧米サーバが同時接続数132万人超えを達成し、MMORPGではSteam史上初の快挙らしい。日本サーバは過疎化が進行しているだけに、その差に驚きを隠せない。一体、どうなっているのか？Youtube等でも考察されていて、見下ろし視点のシステムは日本に馴染まない、という意見が有力っぽいが、果たしてそうなのか？自分なりに考察してみた。まず、見下ろし視点のシステムが日本に馴染まないは、自分は根本原因ではないとおもう]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
