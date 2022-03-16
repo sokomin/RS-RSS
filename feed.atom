@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-16T01:25:14.629Z</updated>
+    <updated>2022-03-16T02:38:07.459Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1835,16 +1835,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[LOST ARKの欧米サーバが同時接続数132万人超えを達成し、MMORPGではSteam史上初の快挙らしい。日本サーバは過疎化が進行しているだけに、その差に驚きを隠せない。一体、どうなっているのか？Youtube等でも考察されていて、見下ろし視点のシステムは日本に馴染まない、という意見が有力っぽいが、果たしてそうなのか？自分なりに考察してみた。まず、見下ろし視点のシステムが日本に馴染まないは、自分は根本原因ではないとおもう]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[悪魔Lv1200　狩りステ晒し（適当）]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202202140000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202202140000/"/>
-        <updated>2022-02-14T13:58:05.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。なんとLv1200になりました！エーテルマキナが上手くて結構サクサクいけました。狩場はLv1180くらいから涼しい洞窟芋虫エリアに変えています。（耳UMU狙いで）しれっと復帰して...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
