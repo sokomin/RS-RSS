@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-17T22:20:58.073Z</updated>
+    <updated>2022-03-17T22:36:21.255Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】1～2000までの経験値テーブルまとめ]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202203170000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202203170000/"/>
+        <updated>2022-03-17T22:27:37.000Z</updated>
+        <summary type="html"><![CDATA[好きなことして、生きていく。久々にRSの記事書くの億劫だなぁと思ったので、趣味全開で経験値テーブルの考察しました。前にも公開してたのですが、そもそも古すぎて考察に憶測入りすぎてたので、今回は実測値に...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レベルを少し上げましたが]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203180000/</id>
