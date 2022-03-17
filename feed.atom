@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-17T03:48:12.588Z</updated>
+    <updated>2022-03-17T04:27:28.520Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パソコン壊れたので休止]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=533</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=533"/>
+        <updated>2022-03-17T04:00:13.000Z</updated>
+        <summary type="html"><![CDATA[レッドストーン休止しますノんー、、、まー、パソコンガードも解除コードで復帰できる説もあるがとりあえず、休止ヤル気でたら復帰するおbb]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】17周年ロトをインゴ換算してみた]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-894.html</id>
