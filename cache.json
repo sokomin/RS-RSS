@@ -621,6 +621,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202203180000/",
+          "author": "雷神の弓",
+          "description": "物理が必死にレベルを上げていったい何になるの？って疑問が湧き上がってきて、私はその疑問に答えることができませんでした。そして、レベル上げをするモチベが一気に消えさってしまいました。ミラー貫通職が無...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202203180000/",
+          "publishedOn": "2022-03-17T16:48:42.000Z",
+          "wordCount": 81,
+          "title": "レベルを少し上げましたが",
+          "imageUrl": "http://plaza.jp.rakuten-static.com/img/common/blog_logo_ogp.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202203080000/",
           "author": "雷神の弓",
           "description": "​装備の組み合わせによっては、健比だと健康過剰になってしまうので、運比バージョンも作ってみました。自分で刻印できると、こうやって気軽に転生指を作れるのでいいですよねｗ・読者様からの耳を紹介転生指刻印...",
@@ -709,6 +719,16 @@
           "wordCount": 92,
           "title": "変な鎧を作りました",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/a6d46d0a1f1c76ee499b6f11c5045f435e76c145.73.9.9.3.png"
+        },
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202202160000/",
+          "author": "雷神の弓",
+          "description": "​​まず、レベルが上がったのでスミレイヤリングのCP効率を増幅して再構成しました。狩り用ですが、95↑にはしたいですよね。次に、一番の懸案事項だった鎧の錬成をやりました。防御はどうでもいいですが、魔法致命...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202202160000/",
+          "publishedOn": "2022-02-16T05:03:00.000Z",
+          "wordCount": 150,
+          "title": "臨機応変（朝令暮改）",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/88fc4fcdf7edcf001aa8779581e133ab4152b309.73.9.9.3.png"
         }
       ]
     },
