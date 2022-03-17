@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-17T22:49:09.511Z</updated>
+    <updated>2022-03-17T23:19:47.791Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1825,15 +1825,6 @@ The post Lv1170妨害リトル・プリンセス対人装備【RED STONE】 firs
         <summary type="html"><![CDATA[明日はスクロールのステーキか？嫌味な野郎だ！くそったれぇ！！【配布品とか】・臨時メンテお詫びの1時間スフィア×5、1時間パワキ×5・S鯖PVPランキング初期化ご案内（2/22に初期化される。）・プレシャススクラッチの補填公式のあれ【ワンコインセット】2/22(火)メンテまで。1週間だし祝日のせいで火曜日メンテ。その名の通り500円のセット達。スフィア+バッグ、スフィア+ロトと…MQスクロール各種。ちゃっかりスクロール販売され]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#１７（魔法致命打１００％目指す）]]></title>
-        <id>https://www.youtube.com/watch?v=z1ZeQ1e-bvI</id>
-        <link href="https://www.youtube.com/watch?v=z1ZeQ1e-bvI"/>
-        <updated>2022-02-16T11:03:53.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
