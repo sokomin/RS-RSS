@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-18T15:49:41.364Z</updated>
+    <updated>2022-03-18T16:29:38.889Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[記録としてGv装備とか色々載せておきます]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203190000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202203190000/"/>
+        <updated>2022-03-18T16:20:11.000Z</updated>
+        <summary type="html"><![CDATA[Gv小休止につき、ここまでの記録として装備等を載せておきます。・武器SP製錬ガードを買って製錬12に上げようと思っていたのですが、売っていなくて11で止まっています。・耳T健比4解放も持っていたのですが、首...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Apex Legends】ロイ４世がダイアになるまでの物語１０日目]]></title>
         <id>https://www.youtube.com/watch?v=Tu12kr4K1ng</id>
@@ -1803,16 +1813,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[何これ？ゴミじゃね？？いったい何用なの？？？そんな言葉が聞こえてきそうですが、攻城とかこの前の鯖連合対戦の様な試合で”超紙火力”をやる為の鎧です。紙（すぐ死ぬという意味）と言っても、対知識用にHPは20...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猫に小判というなかれ]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=509</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=509"/>
-        <updated>2022-02-17T03:56:36.000Z</updated>
-        <summary type="html"><![CDATA[そう、猫に小判をあげよう？？何の役に立つの？と言われたら円なんかより小判のほうが価値は変わりづらい、から小判にして猫さんに護ってもらうのよほほほほほーんー、悪趣味だが、、、猫を貯金かかりにするのはちょいと愉快？？ある晴れた日のこと、マホウみたいなユーカ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
