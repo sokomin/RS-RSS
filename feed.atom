@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-20T20:19:57.738Z</updated>
+    <updated>2022-03-20T20:34:45.752Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1840,16 +1840,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[この所4ヵ月くらいまともにゲームして無かったんだけど、PoEの2/5...]]></summary>
         <author>
             <name>marsborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今更なクリーチャーサブパッシブ3つ目について]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-810.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-810.html"/>
-        <updated>2022-02-19T08:26:12.000Z</updated>
-        <summary type="html"><![CDATA[クリマナの供給がやや緩和されたし、再度まとめておこうかなって…すでにまとめている人多いけど【3つ目のサブパッシブって？】メインとサブ2つのレベルを最大まで強化したとき、パッシブ変換をすると確率で出るやーつ。例えばHRならメインを+12、サブ2つを+6に全て上げきることが条件です。パッシブを一つ増やせる反面制約がやや多い。さらに完璧なのを狙おうとすると、クリマナが甚大な被害を被る。【どうやってやるの】一応想定]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
