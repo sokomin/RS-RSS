@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-20T15:48:47.302Z</updated>
+    <updated>2022-03-20T16:28:13.683Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1850,16 +1850,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[クリマナの供給がやや緩和されたし、再度まとめておこうかなって…すでにまとめている人多いけど【3つ目のサブパッシブって？】メインとサブ2つのレベルを最大まで強化したとき、パッシブ変換をすると確率で出るやーつ。例えばHRならメインを+12、サブ2つを+6に全て上げきることが条件です。パッシブを一つ増やせる反面制約がやや多い。さらに完璧なのを狙おうとすると、クリマナが甚大な被害を被る。【どうやってやるの】一応想定]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スウェルファーの森]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-154.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-154.html"/>
-        <updated>2022-02-19T04:08:33.000Z</updated>
-        <summary type="html"><![CDATA[インクやら赤い光やらを売って、欲しかった装備に手が届くようになってきました。ですが、鞄の中のにインゴットがあると、なぜか欲しかった装備が露店から姿を消すのです。本当の戦いはこれからなのかもしれません。こんにちは、良品のアンブッシュに警戒する第三の猫です。「17th Anniv. Box」から知らないアイテムが出現しました。使うと大物称号がもらえました。ベルセルク称号のような感じでしょうか。さて、今回は転生直後で]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
