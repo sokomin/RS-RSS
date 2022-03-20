@@ -409,6 +409,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NXJvN2aWQaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NXJvN2aWQaw",
+          "publishedOn": "2022-03-20T02:06:03.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】ネクロを１からガチで育ててみた　その２",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Tu12kr4K1ng",
           "author": null,
           "description": "",
