@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-20T21:48:16.157Z</updated>
+    <updated>2022-03-20T22:19:34.247Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1830,16 +1830,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[黒魔のMBで↓こんなのをやらないといけなくなりました。BF強化を要らない装備で無駄にやっても良かったのですが、せっかくやるなら意味のある強化をしようと思いました。まずは、黒い強化石+虹鉄床（20％の確率で...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual Hunger]]></title>
-        <id>https://intothe.info/?p=1594</id>
-        <link href="https://intothe.info/poe/virtual-hunger/"/>
-        <updated>2022-02-19T10:00:48.000Z</updated>
-        <summary type="html"><![CDATA[この所4ヵ月くらいまともにゲームして無かったんだけど、PoEの2/5...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
 </feed>
