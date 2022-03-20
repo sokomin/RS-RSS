@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-20T14:47:41.602Z</updated>
+    <updated>2022-03-20T15:22:03.796Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[近況報告]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-739.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-739.html"/>
+        <updated>2022-03-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[隣の息子の部屋からゲラゲラと大きな笑い声が聞こえるのでどうした？と見に行ってみましたこれを見てずっと笑ってたようです私も初めに見たときはなんとも言えない切ない気持ちになりましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Apex Legends】ロイ４世がダイアになるまでの物語１１日目]]></title>
         <id>https://www.youtube.com/watch?v=fen1d53ToAo</id>
