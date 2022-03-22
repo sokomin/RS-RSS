@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-22T15:25:02.789Z</updated>
+    <updated>2022-03-22T16:37:23.707Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[感謝]]></title>
+        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202203230000/</id>
+        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202203230000/"/>
+        <updated>2022-03-22T15:39:18.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは、まおみくさんです気づいたら一ヶ月ってあっという間ですね・・・更新していない間はもうずっと同じ毎日の繰り返し・・・と思いきや実は色々ありました。チャットで馬鹿言って笑いあって、風船狩りに...]]></summary>
+        <author>
+            <name>苺桜三玖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レベリングの地獄帯域]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-895.html</id>
@@ -1791,16 +1801,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[こんばんは～プリンセスメーカーのハニーレモネードです！やっぱプリメのGMですし、プリリトルの覚醒とか聞かれたりするしそういうときのハニーなりの答えがこれねこれが役に立つのかよくわからないが、参考までに・・・①～③プリンセス覚醒①フォースクイーン、物理攻撃のお姫さま、選択１）：怪力が欲しいです覚醒に必要なスキルは、ランダムショット物理スキルは選択肢が多くいろいろなタイプがありそうCP確保は、おしゃべりです]]></summary>
         <author>
             <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[久しぶりにプリ育成講座]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=512</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=512"/>
-        <updated>2022-02-21T03:43:33.000Z</updated>
-        <summary type="html"><![CDATA[ちゃちゃちゃみぃたんでうツイッターだけだと情報が小出しになるからある程度？？まとめて書くべくこのブログがあるのやけれど？？プリの最近の育て方ワカラン、というかレポがレイド以外にかわったらしいがやってないからなー、、、んー？？ん？？プリ、リトルは上級者向...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
