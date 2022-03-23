@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-23T10:23:35.873Z</updated>
+    <updated>2022-03-23T10:48:43.765Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知ってるか？メンテ後の内容は3つに分けられる]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-826.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-826.html"/>
+        <updated>2022-03-23T10:39:34.000Z</updated>
+        <summary type="html"><![CDATA[イベキャンペ、配布物など、臨時メンテ…この3つだ。今回は…【不具合修正とか】・17周年ワードコレクションイベントにて、テイマサマナがイベントアイテム獲得しづらくなってたのを修正・クリーチャーの冒険枠が黒枠になっちゃうのを修正・上記不具合の補填対応…中。公式のあれこれだけである。イベキャンペは俺が置いてきた。臨時メンテは知らん、そんなことは俺の管轄外だ。それにしてもワードコレクションのアイテムが特定職だけ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[感謝]]></title>
         <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202203230000/</id>
