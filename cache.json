@@ -6,6 +6,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202201130000/",
+          "author": "そこらの民衆",
+          "description": "配信用PCがSMARTエラーを出すようになったので、その対処法まとめ。ある日、配信用パソコンを起動したところこのようなエラーメッセージが出るようになりました。「 SMART 」とはハードディスクの自己診断機能の...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202201130000/",
+          "publishedOn": "2022-03-23T22:24:51.000Z",
+          "wordCount": 197,
+          "title": "SMART Failure（SMART エラー）対応",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/8e3110ce66f36a5a1dd10386077caf5c77fd195b.10.9.9.3.jpeg"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202203170000/",
           "author": "そこらの民衆",
           "description": "好きなことして、生きていく。久々にRSの記事書くの億劫だなぁと思ったので、趣味全開で経験値テーブルの考察しました。前にも公開してたのですが、そもそも古すぎて考察に憶測入りすぎてたので、今回は実測値に...",
@@ -1039,16 +1049,6 @@
           "publishedOn": "2022-02-24T11:13:55.000Z",
           "wordCount": null,
           "title": "バカな！？木曜日にイベキャンペ追加だと？！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-812.html",
-          "author": "Trailblazer",
-          "description": "健闘はしたが、ハッキリ言ってこのメンテについていけない…なお来週。【ご案内】・S鯖PVPランキング初期化・プレシャススクラッチの不具合に対する補填公式のあれ【プリズムコクーン】3/9(水)メンテまで。プリズムコクーンと覚醒石とかがついたセットが売られている。プリズムコクーンの単価自体は数が増えても600円です。むしろ高額補正がかかってｒｙその分、覚醒石の数や赤いほう、メダルにソーラーのコクーンが増える増える。",
-          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-812.html",
-          "publishedOn": "2022-02-22T10:37:36.000Z",
-          "wordCount": null,
-          "title": "イベントはオレがおいてきた",
           "imageUrl": null
         }
       ]

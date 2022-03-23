@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-23T22:21:24.834Z</updated>
+    <updated>2022-03-23T22:47:40.561Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SMART Failure（SMART エラー）対応]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202201130000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202201130000/"/>
+        <updated>2022-03-23T22:24:51.000Z</updated>
+        <summary type="html"><![CDATA[配信用PCがSMARTエラーを出すようになったので、その対処法まとめ。ある日、配信用パソコンを起動したところこのようなエラーメッセージが出るようになりました。「 SMART 」とはハードディスクの自己診断機能の...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.3.23 イベ更新なし！]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/d1343a087d2d13d7a7ce23820b376053</id>
@@ -1719,16 +1729,6 @@ V鯖９００↑にする！！
         <updated>2022-02-23T00:15:27.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イベントはオレがおいてきた]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-812.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-812.html"/>
-        <updated>2022-02-22T10:37:36.000Z</updated>
-        <summary type="html"><![CDATA[健闘はしたが、ハッキリ言ってこのメンテについていけない…なお来週。【ご案内】・S鯖PVPランキング初期化・プレシャススクラッチの不具合に対する補填公式のあれ【プリズムコクーン】3/9(水)メンテまで。プリズムコクーンと覚醒石とかがついたセットが売られている。プリズムコクーンの単価自体は数が増えても600円です。むしろ高額補正がかかってｒｙその分、覚醒石の数や赤いほう、メダルにソーラーのコクーンが増える増える。]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
