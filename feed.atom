@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-23T15:22:17.377Z</updated>
+    <updated>2022-03-23T15:50:09.508Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1826,16 +1826,6 @@ DECEMBER  UPDATE -->
         <summary type="html"><![CDATA[んー、、、仲間に成ってくれるか微妙？？そもそも、鬼が丑寅で、その反対側ち居るのが酉戌申であって？？猫はネズミにダマサレテ干支にランクインしてない説いや、どっかの国で干支に猫が入ってたような覚えもあるが？？んー、モモタロウは日本昔話だからな！猫に　きびだ...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】狩り王に・・俺はなる！]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-888.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-888.html"/>
-        <updated>2022-02-22T03:41:11.000Z</updated>
-        <summary type="html"><![CDATA[LOST ARKにヤル気が起きないので、活動がREDSTONEメインになってる。今のところ、補填のSPやら買い物籠内の物資で快適に遊べているが、今後のアプデ次第で課金もしたくなるんだろうな〜、と嫌な予感はしている。課金するとしても、攻城戦という紅白戦含めた対人戦全般が腐ってるので、ミニペットやクリーチャー関係の課金ではなく、狩り用の装備改善資金集めになりそう。特に、新規実装される1100DXUは、おそらく係数的に800DXU並]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
