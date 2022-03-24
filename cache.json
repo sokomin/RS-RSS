@@ -398,6 +398,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wHDoJkZY5W4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wHDoJkZY5W4",
+          "publishedOn": "2022-03-24T10:32:59.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#２３（とにかくリトルを育てる２）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xTudDcLzg1A",
           "author": null,
           "description": "",
