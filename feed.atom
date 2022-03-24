@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-24T16:29:37.972Z</updated>
+    <updated>2022-03-24T17:04:26.259Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1738,16 +1738,6 @@ V鯖９００↑にする！！
         <summary type="html"><![CDATA[弓は、狩りのときT全吸収DX地上Nxを使っています。しかし、MOBの知識攻撃が致死的でない狩場では、少しでも殲滅速度を高めた方がいいかなと思いました。（純粋ダブクリ狩りでも、表記ダメが高い方が殲滅速度は速...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダブルラリアット]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-155.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-155.html"/>
-        <updated>2022-02-23T04:35:48.000Z</updated>
-        <summary type="html"><![CDATA[あまりにも寒いと、普段寒いと感じている気温が暖かく感じてしまいますね。感覚がインフレしたと考えるか、快適はすぐそばにあったと考えるか、どちらでもいいような気がする第三の猫です。前回に続いて、クエストを消化しつつレベルを上げていきます。まずはこちらのクエスト対象をご覧ください。スウェブタワーB4のスパイダーが含まれているのですが、攻撃できないんですよね。……実は攻撃手段があったりするのでしょうか？続いて]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
