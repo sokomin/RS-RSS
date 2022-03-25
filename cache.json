@@ -1059,16 +1059,6 @@
           "wordCount": null,
           "title": "春ですね",
           "imageUrl": null
-        },
-        {
-          "id": "https://orientalrose4.blog.fc2.com/blog-entry-949.html",
-          "author": "アル・シェリ",
-          "description": "4月下旬に新職「キャプテン」が実装されるとのお知らせ。パワー系女子は初めてですね、RS。バトルアックスをブン回すキャラというとやはり物理なのでしょうか、強そうです。あと、気が早いですけれど裏職は何だろうと興味深いです。海上保安官・・・？　すみません発想が貧弱でそして今いちばん気になっていることがひとつ。キャラスロット増えてほしい！！　1枠でいいから＞＜。◆◆◆◆◆◆※余裕があれば後ほどSSを少し貼ります。",
-          "link": "https://orientalrose4.blog.fc2.com/blog-entry-949.html",
-          "publishedOn": "2022-02-24T00:00:09.000Z",
-          "wordCount": null,
-          "title": "もうすぐ新職",
-          "imageUrl": null
         }
       ]
     },
@@ -1125,6 +1115,16 @@
       "feedUrl": "http://rscat31.jugem.jp/?mode=rss",
       "siteUrl": "http://rs.bigcat31.floppy.jp/",
       "articles": [
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=535",
+          "author": "猫ノみぃ",
+          "description": "ツイッターに廃上げツイートでまわってるが、、、風船割れると30倍？？まはね、レベルなんて簡単に上がるように更新されていってしまうのよ、、、イベントだから、せっかくだからお祭り気分で　あげたろか、というのはイイけど、必死さがでると悲惨、、、まー、みぃたんは...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=535",
+          "publishedOn": "2022-03-25T12:09:51.000Z",
+          "wordCount": 175,
+          "title": "上位陣は風船あそびかー？？",
+          "imageUrl": "https://imaging.jugem.jp/template/img/jugem_og-image.png"
+        },
         {
           "id": "http://rs.bigcat31.floppy.jp/?eid=534",
           "author": "猫ノみぃ",

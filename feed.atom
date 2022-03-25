@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-25T11:48:33.524Z</updated>
+    <updated>2022-03-25T13:06:14.917Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[上位陣は風船あそびかー？？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=535</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=535"/>
+        <updated>2022-03-25T12:09:51.000Z</updated>
+        <summary type="html"><![CDATA[ツイッターに廃上げツイートでまわってるが、、、風船割れると30倍？？まはね、レベルなんて簡単に上がるように更新されていってしまうのよ、、、イベントだから、せっかくだからお祭り気分で　あげたろか、というのはイイけど、必死さがでると悲惨、、、まー、みぃたんは...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記#２４（とにかくリトルを育てる３）]]></title>
         <id>https://www.youtube.com/watch?v=TL3-GVM3pjU</id>
@@ -1584,16 +1594,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <updated>2022-02-24T01:36:18.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もうすぐ新職]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-949.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-949.html"/>
-        <updated>2022-02-24T00:00:09.000Z</updated>
-        <summary type="html"><![CDATA[4月下旬に新職「キャプテン」が実装されるとのお知らせ。パワー系女子は初めてですね、RS。バトルアックスをブン回すキャラというとやはり物理なのでしょうか、強そうです。あと、気が早いですけれど裏職は何だろうと興味深いです。海上保安官・・・？　すみません発想が貧弱でそして今いちばん気になっていることがひとつ。キャラスロット増えてほしい！！　1枠でいいから＞＜。◆◆◆◆◆◆※余裕があれば後ほどSSを少し貼ります。]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
 </feed>
