@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-27T14:48:20.567Z</updated>
+    <updated>2022-03-27T15:21:11.980Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヤティカヌ生活]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-740.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-740.html"/>
+        <updated>2022-03-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[春休み中の息子が納戸で私が昔やっていたゲームを漁っていましたが先日これを気に入ったようでやっていましたPCエンジンのHuカードソフトだったと思います某ゲームにそっくりなシステムですがBGMが結構好きで当時ハマっていた記憶がありますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【VAMPIRE SURVIVORS】新キャラとかやってストレス発散すっぞ！]]></title>
         <id>https://www.youtube.com/watch?v=P-iAK9sKINE</id>
@@ -1593,16 +1603,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <summary type="html"><![CDATA[リアルで石を集めてるみぃたんでう☆ふふふ、ピンクトルマリンの大粒？？ブレスレット買ってもうたーbbセレオ八王子で明日まで特別セールしてるおまー、みーたんの運気はモトモト波が激しいから、おカネはつかえるときはじゃぶじゃぶ使うのじゃ猫に真珠というなかれ。スマ...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤い光[取引不可]]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-156.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-156.html"/>
-        <updated>2022-02-26T03:04:46.000Z</updated>
-        <summary type="html"><![CDATA[2月も終わりに近づく今日このごろ、いかがお過ごしでしょうか（適当な挨拶）第三の猫です。前回戦線投入したヘッジャーですが、なかなか良い面が見えてきました。範囲魔法攻撃をしてくるモンスターがいる狩場でも、本体に来た敵の魔法を跳ね返すリフレクションスキンのおかげで、安定して狩ることができるのです。あとはヘッジャーをマジロリで突入させれば戦闘終了です。マジロリ後のクールタイムには、ウィンディのゲイルパンチM]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>

@@ -66,6 +66,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-740.html",
+          "author": "ミツリン",
+          "description": "春休み中の息子が納戸で私が昔やっていたゲームを漁っていましたが先日これを気に入ったようでやっていましたPCエンジンのHuカードソフトだったと思います某ゲームにそっくりなシステムですがBGMが結構好きで当時ハマっていた記憶がありますこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-740.html",
+          "publishedOn": "2022-03-27T15:00:00.000Z",
+          "wordCount": 459,
+          "title": "ヤティカヌ生活",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-739.html",
           "author": "ミツリン",
           "description": "隣の息子の部屋からゲラゲラと大きな笑い声が聞こえるのでどうした？と見に行ってみましたこれを見てずっと笑ってたようです私も初めに見たときはなんとも言えない切ない気持ちになりましたこんにちは　ミツリンです",
@@ -1376,16 +1386,6 @@
           "publishedOn": "2022-03-05T02:37:03.000Z",
           "wordCount": null,
           "title": "4度目の転生",
-          "imageUrl": null
-        },
-        {
-          "id": "https://3rdcat.blog.fc2.com/blog-entry-156.html",
-          "author": "第三の猫",
-          "description": "2月も終わりに近づく今日このごろ、いかがお過ごしでしょうか（適当な挨拶）第三の猫です。前回戦線投入したヘッジャーですが、なかなか良い面が見えてきました。範囲魔法攻撃をしてくるモンスターがいる狩場でも、本体に来た敵の魔法を跳ね返すリフレクションスキンのおかげで、安定して狩ることができるのです。あとはヘッジャーをマジロリで突入させれば戦闘終了です。マジロリ後のクールタイムには、ウィンディのゲイルパンチM",
-          "link": "https://3rdcat.blog.fc2.com/blog-entry-156.html",
-          "publishedOn": "2022-02-26T03:04:46.000Z",
-          "wordCount": null,
-          "title": "赤い光[取引不可]",
           "imageUrl": null
         }
       ]
