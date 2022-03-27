@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-27T19:27:58.193Z</updated>
+    <updated>2022-03-27T19:47:35.862Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1558,6 +1558,15 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[B鯖攻城戦 Rank2防衛配信【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=J7iNKGKy8nA</id>
+        <link href="https://www.youtube.com/watch?v=J7iNKGKy8nA"/>
+        <updated>2022-02-26T14:35:58.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[祝GH5　IN　CHARIS☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12729013431.html</id>
         <link href="https://ameblo.jp/sakuyuno0822/entry-12729013431.html"/>
@@ -1692,15 +1701,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE2】ファイター版ストーリー（２）]]></title>
-        <id>https://www.youtube.com/watch?v=fAZAGt9cuMI</id>
-        <link href="https://www.youtube.com/watch?v=fAZAGt9cuMI"/>
-        <updated>2022-02-26T07:35:29.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
