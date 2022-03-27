@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-27T19:47:35.862Z</updated>
+    <updated>2022-03-27T20:22:03.233Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1648,59 +1648,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <updated>2022-02-26T10:19:38.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シフの覚醒－サイレントトラッパー－]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/cb230f00b1a3b95387b028c5abc1b771</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/cb230f00b1a3b95387b028c5abc1b771?fm=rss"/>
-        <updated>2022-02-26T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2月も間もなく終わりですね。
-
-覚醒タイプは「サイレントトラッパー」
-
-「トラップスペシャリスト」
-
-専用強化スキルは「ブービートラップ」
-
-ターゲットに近いと直接攻撃となるようです。
-
-ターゲットからちょっと距離を置くと罠を設置することができて
-
-発動すると一斉に爆発してダメを与える感じです。
-
-強化スキルの１つは「エクスプロージョントラップ」
-
-こちらもターゲットに近いと直接攻撃。
-
-ターゲットからちょっと距離を置くと罠を設置することができて
-
-発動すると一斉に爆発してダメを与えます。
-
-もう１つの強化スキルは「有毒ガス」
-
-エフェクトはこんな感じ。
-魔法抵抗力が減少。
-
-
-悪魔の契約スキル同様ちょっとプレイヤースキルが必要そうな覚醒のようです(個人的感想)。
-武道家のほうが狩りやすいようなので、こいつも武道家に変わってしまう可能性大ですねｗ
-これで、シフ覚醒はとりあえず書き終わったかな。
-協力してくれた仲間たちに感謝です!!!
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
