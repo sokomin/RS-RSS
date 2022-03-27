@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-27T15:21:11.980Z</updated>
+    <updated>2022-03-27T15:38:34.544Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1591,16 +1591,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <link href="http://rs.bigcat31.floppy.jp/?eid=516"/>
         <updated>2022-02-26T03:44:30.000Z</updated>
         <summary type="html"><![CDATA[最近？？B鯖とかにも出撃してるがまだまだ(;・д・)　猫の手であるRSの楽しみかたは、、、自分のレベル上げレベル上げ手伝い攻城ドロップ装備強化とあるが、レベル上げはメンドイしあまりイミプーなのでしない装備強化は、ギャンブルだからね、、やりたい猫は自由にどうぞ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トルマリンのブレスレットげと]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=515</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=515"/>
-        <updated>2022-02-26T03:26:55.000Z</updated>
-        <summary type="html"><![CDATA[リアルで石を集めてるみぃたんでう☆ふふふ、ピンクトルマリンの大粒？？ブレスレット買ってもうたーbbセレオ八王子で明日まで特別セールしてるおまー、みーたんの運気はモトモト波が激しいから、おカネはつかえるときはじゃぶじゃぶ使うのじゃ猫に真珠というなかれ。スマ...]]></summary>
         <author>
             <name>猫ノみぃ</name>
         </author>
