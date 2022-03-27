@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-27T04:26:11.041Z</updated>
+    <updated>2022-03-27T04:53:26.038Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[物理弓の仲間に情報共有（狩り）]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203270000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202203270000/"/>
+        <updated>2022-03-27T04:42:38.000Z</updated>
+        <summary type="html"><![CDATA[物理弓のみなさんに朗報をお届けします。実は、物理弓でもヤティカヌ星降る以降の硬い狩場で、雑魚を瞬殺する方法があったのです。（雑魚はスプレッド２パンでいけます）エルダージャガーの様な硬いMOBでも2、3秒...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】ネクロを１からガチで育ててみた　番外編あくま]]></title>
         <id>https://www.youtube.com/watch?v=IUej8gYkI0U</id>
