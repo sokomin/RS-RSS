@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-28T01:44:36.671Z</updated>
+    <updated>2022-03-28T03:00:21.754Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[悪魔Lv1300　狩りステ晒し（適当）]]></title>
+        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202203280000/</id>
+        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202203280000/"/>
+        <updated>2022-03-28T02:41:47.000Z</updated>
+        <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。風船イベントもラストスパートという事で、Lv1300になりました。Lv1290くらいまでは新しく実装されたウエストスワンプ大空洞でソロ狩り。Lv1290からはヤティカヌ2層PTに参加し...]]></summary>
+        <author>
+            <name>裁判官</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/28】17周年イベント解説＆近況報告]]></title>
         <id>https://ameblo.jp/tori-tori121/entry-12734253964.html</id>
@@ -1555,15 +1565,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <summary type="html"><![CDATA[アイテム強化 対象 鏡の魔法書 異次元ボックス 巨商の策略 上級・下級魔力抽出機 上級・下級魔力結晶体 神秘鏡シリーズ オプション魔法のお守り（※1） エンチャント文書セット エンチャント水晶（※2） 青色の魔力増幅/再構成魔法書 金色の魔力増幅/再構成魔法書（※…]]></summary>
         <author>
             <name>The Adventure Of The Jacks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B鯖攻城戦 Rank2防衛配信【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=J7iNKGKy8nA</id>
-        <link href="https://www.youtube.com/watch?v=J7iNKGKy8nA"/>
-        <updated>2022-02-26T14:35:58.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>

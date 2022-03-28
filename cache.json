@@ -259,16 +259,6 @@
           "wordCount": null,
           "title": "【REDSTONE2】ファイター版ストーリー（３）",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J7iNKGKy8nA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J7iNKGKy8nA",
-          "publishedOn": "2022-02-26T14:35:58.000Z",
-          "wordCount": null,
-          "title": "B鯖攻城戦 Rank2防衛配信【 REDSTONE 】",
-          "imageUrl": null
         }
       ]
     },
@@ -304,6 +294,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/mahounokabe/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/mahounokabe/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/mahounokabe/diary/202203280000/",
+          "author": "裁判官",
+          "description": "みなさんこんにちは。魔法の壁です。風船イベントもラストスパートという事で、Lv1300になりました。Lv1290くらいまでは新しく実装されたウエストスワンプ大空洞でソロ狩り。Lv1290からはヤティカヌ2層PTに参加し...",
+          "link": "https://plaza.rakuten.co.jp/mahounokabe/diary/202203280000/",
+          "publishedOn": "2022-03-28T02:41:47.000Z",
+          "wordCount": 164,
+          "title": "悪魔Lv1300　狩りステ晒し（適当）",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/5b42b81c12af5be30321f9f2b144c8c37d2727ef.49.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/mahounokabe/diary/202203190000/",
           "author": "裁判官",
