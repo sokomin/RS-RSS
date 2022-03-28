@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-28T11:48:26.872Z</updated>
+    <updated>2022-03-28T12:36:55.595Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1565,16 +1565,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <summary type="html"><![CDATA[１次～５次転生クエスト（Ｂルート）の攻略チャートを2021/12/22 アップデートに対応しました。]]></summary>
         <author>
             <name>KHBの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【攻略】アイテム強化・取引関連早見表]]></title>
-        <id>https://rs-clair-de-lune.com/chart-item-enchantment/</id>
-        <link href="https://rs-clair-de-lune.com/chart-item-enchantment/"/>
-        <updated>2022-02-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アイテム強化 対象 鏡の魔法書 異次元ボックス 巨商の策略 上級・下級魔力抽出機 上級・下級魔力結晶体 神秘鏡シリーズ オプション魔法のお守り（※1） エンチャント文書セット エンチャント水晶（※2） 青色の魔力増幅/再構成魔法書 金色の魔力増幅/再構成魔法書（※…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
 </feed>
