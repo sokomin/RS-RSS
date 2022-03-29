@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-29T03:00:28.567Z</updated>
+    <updated>2022-03-29T03:37:37.667Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1536,26 +1536,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <summary type="html"><![CDATA[いやはー、たのしめりゃOK主義だが？？まー、たまにはね（みぃだけど・ソウルガード重要　3転以上を目指そう・攻めだと移動天使で上手い人いると　かなり有利・武道のトップクラスを倒すの、難しい　仰け反るで無敵化がヤッカイ・守りだと、シーフの罠張り重要・守りで防...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinnacle Bosses]]></title>
-        <id>https://intothe.info/?p=1626</id>
-        <link href="https://intothe.info/poe/pinnacle-bosses/"/>
-        <updated>2022-02-27T15:01:36.000Z</updated>
-        <summary type="html"><![CDATA[Maven初勝利記念 初めて遊んで貰ったのがUltimatumで、今...]]></summary>
-        <author>
-            <name>marsborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アプデを控えて、濃厚接触者]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-736.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-736.html"/>
-        <updated>2022-02-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今週は一週間丸々息子も私も家で自宅待機になっていました息子は学校からの課題をやる傍らこれを見て和んでいました息子が大好きならんまるくんです何となく申し訳無さそうなしょんぼりした表情が可愛いとのことですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
