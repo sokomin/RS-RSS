@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T22:49:35.755Z</updated>
+    <updated>2022-03-30T23:21:23.661Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1527,15 +1527,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <summary type="html"><![CDATA[思い出したようにアップデート情報①レベルキャップ1500→2000②1250-1300狩場実装③1400-1450狩場実装（「そよ風の森林」と読むようです）（能力35%低下）④1500-1550狩場実装⑤lv1100～新規サブクエスト追加⑥NPCソラ、リラのグラフィック変更⑦Lv1000ULT専用装備実装⑧Lv1100DX武器実装⑨Lv1100DX防具実装⑩NPC販売UI変更など⑪新職業キャプテンは4月下旬実装を目標に準備中。裏職ありキャラ枠の増加は現時点では要検討（少なくとも今回は増]]></summary>
         <author>
             <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】公式配信同時視聴するっぞ！]]></title>
-        <id>https://www.youtube.com/watch?v=pgmMK7topvA</id>
-        <link href="https://www.youtube.com/watch?v=pgmMK7topvA"/>
-        <updated>2022-03-01T11:12:22.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
