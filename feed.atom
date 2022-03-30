@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T11:30:56.129Z</updated>
+    <updated>2022-03-30T11:48:14.533Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -14,6 +14,46 @@
         <summary type="html"><![CDATA[更新できないってときに色々始められると困るPCの購入は完了しました。なんかプレロト330個分かかったけどVPCで1PT余裕にできるはず。そこまでのやる気があるかは知らんで、こんなにたくさん出されると何もしないってのはあれだからあっさり更新をします。色々と簡略してます【配布物とか】·ソーラーコクーン[E]×3【第3回REDSTONE PASS】6/1まで。いつも通りと思ったら一部仕様が変わった。討伐が2回までになったりクエストクリア]]></summary>
         <author>
             <name>Trailblazer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022.3.30 イベ更新]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/49b8f81ad87616ea98e9e8c84164c5a1</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/49b8f81ad87616ea98e9e8c84164c5a1?fm=rss"/>
+        <updated>2022-03-30T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[桜が咲き始めましたね。
+
+MARCH  UPDATE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3月15日メンテ後から4月6日メンテ前まで
+
+ブログの調子が悪いので思った以上に時間がかかった(´・ω・`)
+ちゃんと動くといいけど・・・・
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
