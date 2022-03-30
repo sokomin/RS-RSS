@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T21:19:01.402Z</updated>
+    <updated>2022-03-30T21:33:13.850Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1536,40 +1536,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <updated>2022-03-01T11:12:22.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.2月のドロップ~♪]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/9c31df3dc16528c6575e06bcf4b394c6</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/9c31df3dc16528c6575e06bcf4b394c6?fm=rss"/>
-        <updated>2022-03-01T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[3月となりました。
-
-
-知識ID
-
-知識IDは出ないかと思いましたが、最終週にマスケが出してくれました。
-物理IDは主要キャラでまんべんなく出た感じでしょうか。
-
-
-今更ですが隠居気味のメインアチャがディメンションバフに行き始めました。
-１回行ってみるかなぁ・・・という軽い気持ちだったのですが、900台の場所では装甲ボーンキメラがおりまして、ミッションブックがちょうど装甲ボーンキメラを1000体倒すミッションだったのでついでに・・・・という感じです。
-へっぽこアチャでも10分ちょっとで狩れるのでなかなかいいですね。
-
-さ、来月もドロップを書けるといいな♪
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
