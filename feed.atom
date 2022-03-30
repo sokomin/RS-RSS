@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T11:17:43.284Z</updated>
+    <updated>2022-03-30T11:30:56.129Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[超あっさり仕様]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-828.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-828.html"/>
+        <updated>2022-03-30T11:23:34.000Z</updated>
+        <summary type="html"><![CDATA[更新できないってときに色々始められると困るPCの購入は完了しました。なんかプレロト330個分かかったけどVPCで1PT余裕にできるはず。そこまでのやる気があるかは知らんで、こんなにたくさん出されると何もしないってのはあれだからあっさり更新をします。色々と簡略してます【配布物とか】·ソーラーコクーン[E]×3【第3回REDSTONE PASS】6/1まで。いつも通りと思ったら一部仕様が変わった。討伐が2回までになったりクエストクリア]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新着イベント情報更新]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1224.html</id>
