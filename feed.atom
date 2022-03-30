@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T18:52:29.953Z</updated>
+    <updated>2022-03-30T19:17:20.208Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1568,15 +1568,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <id>https://www.youtube.com/watch?v=5uNjGhOH5E0</id>
         <link href="https://www.youtube.com/watch?v=5uNjGhOH5E0"/>
         <updated>2022-03-01T07:25:41.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022/03 公式生放送 同時試聴会！【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=pdNUXSU6IxQ</id>
-        <link href="https://www.youtube.com/watch?v=pdNUXSU6IxQ"/>
-        <updated>2022-03-01T07:06:34.000Z</updated>
         <author>
             <name>そこらの民衆</name>
         </author>
