@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T07:20:25.731Z</updated>
+    <updated>2022-03-30T07:35:33.514Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1224.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1224.html"/>
+        <updated>2022-03-30T07:21:52.000Z</updated>
+        <summary type="html"><![CDATA[数がちょっと多めなんでさくさくと。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..Discord公式サーバー開設記念キャンペーン重要のほうに入れるべきか考えたんですけどまぁ、イベントのほうでいいかという事で。見ての通り、公式のディスコード開設されたらしいです。賞品は抽選100名にウェブマネー2000円分でしたね。キャンペーン内容と参加手順を公式サイトのキャンペーンページをご覧ください。☆.。.:*・°☆.。.:*・°☆.。.:*・]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近買った物]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203300000/</id>
