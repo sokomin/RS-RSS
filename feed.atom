@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T15:50:45.868Z</updated>
+    <updated>2022-03-30T16:28:16.678Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1606,16 +1606,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <updated>2022-03-01T05:08:34.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】ゲーム実況]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-889.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-889.html"/>
-        <updated>2022-03-01T03:56:02.000Z</updated>
-        <summary type="html"><![CDATA[REDSTONEレベリング状況(ご参考)風剣士　Lv1118雨アチャ　Lv1008現在、こんな感じになってる。風剣士のみ、毎日マキナを使い切るまで狩りをしているが、これが実に大変。狩り時間的には1時間半かからないくらいなんだが、単調な作業を黙々とやるのは辛い。音楽を聴きながら狩ることが多いが、若干飽きてきたこともあり、ゲーム実況なるものに手を出している。ゲーム実況は、REDSTONEかLOST ARK、昔遊んだオフゲー(スーファミ、プレ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
