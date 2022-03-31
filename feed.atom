@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-31T22:21:14.873Z</updated>
+    <updated>2022-03-31T22:37:21.171Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年1～3月総括【RED STONE】]]></title>
+        <id>https://chorrealism.com/?p=3153</id>
+        <link href="https://chorrealism.com/redstone/play-record/su220331/"/>
+        <updated>2022-03-31T22:36:22.000Z</updated>
+        <summary type="html"><![CDATA[全然更新していなかったけど生きてます！！特に3月はやるべきことはやりつつも、余暇はすべてRSに回すぐらい頑張っていた。どうせLv1550まで上げるのなら、楽できるうちに無理してでも狩った方がいいに決まっている！！ 前回の […]
+The post 2022年1～3月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3/1~31☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12734891760.html</id>
@@ -1463,15 +1474,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <summary type="html"><![CDATA[あ、うん…まぁいいや、サァ行くかｱﾌﾟﾃﾞは思ったより少ない印象で、やっぱりありました臨時メンテ。周年と臨時メンテのはさみ撃ちのほうがよかったかな？【アップデート内容】公式で確認するならこれ◆レベルキャップ2000開放◆2000レベまで上げられるようにはなったよ！狩場はないけど！TOP争いが過熱しそう◆新規マップ追加① ウエストスワンプ大空洞Lv1250～1300、ウエストスワンプ洞窟197.15より。MQ1でおじいちゃんと戯れるために]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎈🎈３月アプデ！！【REDSTONE】１７周年本祭開始！🎈🎈]]></title>
-        <id>https://www.youtube.com/watch?v=gutpbM20et4</id>
-        <link href="https://www.youtube.com/watch?v=gutpbM20et4"/>
-        <updated>2022-03-02T10:30:39.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
