@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T23:47:32.694Z</updated>
+    <updated>2022-03-31T01:39:06.923Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1498,35 +1498,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <summary type="html"><![CDATA[まず、↓このソウルを使うのを止めます。その代わりに、↓これを使うことにします。この変更によって、薬と透明が無くなってしまいます。（え？自リロは？ｗ）透明と薬は必須なので、今回の変更には↓が絶対に必要で...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022/03 公式生放送 同時試聴会！【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=pdNUXSU6IxQ</id>
-        <link href="https://www.youtube.com/watch?v=pdNUXSU6IxQ"/>
-        <updated>2022-03-01T13:18:19.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[どうせ明日地獄を見るんだ…]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-814.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-814.html"/>
-        <updated>2022-03-01T12:57:28.000Z</updated>
-        <summary type="html"><![CDATA[ならば今日はあっさりと行かせてもらおう！！ｱﾌﾟﾃﾞと周年のはさみ撃ち、臨時メンテを添えてあ、今度のアイテムコードは、ちょっと強えぞ【ｱﾌﾟﾃﾞ関連】・一応Lv2000までレベ解放・狩場は4つ追加（1250～1300、1400～1450、1450～1500、1500～1550）。なお1250～1300はヤティカヌより優しめで経験値やや低い。あとのは…どっかステ低下35％って見えたんですけどぉ…・新規サブクエ。スフィアなしで630億。Lv1100から。・あるNPCモデル]]></summary>
-        <author>
-            <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20220301_ゲムづめ]]></title>
-        <id>http://scratch2009.blog.fc2.com/blog-entry-210.html</id>
-        <link href="http://scratch2009.blog.fc2.com/blog-entry-210.html"/>
-        <updated>2022-03-01T12:41:18.000Z</updated>
-        <summary type="html"><![CDATA[思い出したようにアップデート情報①レベルキャップ1500→2000②1250-1300狩場実装③1400-1450狩場実装（「そよ風の森林」と読むようです）（能力35%低下）④1500-1550狩場実装⑤lv1100～新規サブクエスト追加⑥NPCソラ、リラのグラフィック変更⑦Lv1000ULT専用装備実装⑧Lv1100DX武器実装⑨Lv1100DX防具実装⑩NPC販売UI変更など⑪新職業キャプテンは4月下旬実装を目標に準備中。裏職ありキャラ枠の増加は現時点では要検討（少なくとも今回は増]]></summary>
-        <author>
-            <name>scratch2009</name>
         </author>
     </entry>
 </feed>
