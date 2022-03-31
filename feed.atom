@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-31T21:48:22.395Z</updated>
+    <updated>2022-03-31T22:21:14.873Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1515,16 +1515,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重要＆新着イベント情報更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1221.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1221.html"/>
-        <updated>2022-03-02T10:00:12.000Z</updated>
-        <summary type="html"><![CDATA[( ・_ゝ・)o*――ﾟ+.――ﾟ+.――ﾟ+.――ﾟ+.――*o(・c_,・)MARCH UPDATE昨日の生放送でも発表してましたね。内容は↑のリンクか、左の重要に掲載してるリンクをクリックして公式サイトのアップデートページをご覧ください。( ・_ゝ・)o*――ﾟ+.――ﾟ+.――ﾟ+.――ﾟ+.――*o(・c_,・)さてさて、アプデと一緒に17周年本祭も開始です。開催イベントはまぁ・・・割とお馴染みという感じもしなくはないですがさっくり紹介していきましょう。※REDｓRouletteな]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
