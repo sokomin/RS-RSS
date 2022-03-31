@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-31T09:21:26.057Z</updated>
+    <updated>2022-03-31T09:47:35.089Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1525,16 +1525,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <summary type="html"><![CDATA[( ・_ゝ・)o*――ﾟ+.――ﾟ+.――ﾟ+.――ﾟ+.――*o(・c_,・)MARCH UPDATE昨日の生放送でも発表してましたね。内容は↑のリンクか、左の重要に掲載してるリンクをクリックして公式サイトのアップデートページをご覧ください。( ・_ゝ・)o*――ﾟ+.――ﾟ+.――ﾟ+.――ﾟ+.――*o(・c_,・)さてさて、アプデと一緒に17周年本祭も開始です。開催イベントはまぁ・・・割とお馴染みという感じもしなくはないですがさっくり紹介していきましょう。※REDｓRouletteな]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ランサー？？の考察]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=518</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=518"/>
-        <updated>2022-03-01T21:33:48.000Z</updated>
-        <summary type="html"><![CDATA[レベルと装備が良ければ、トップクラスの職だが？？そこまでガチにはしないみぃたん物理か知識なら、知識オススメだが？槍のロウバストかシェインの開放して属性吸収無視ないと、対人だと無力な相手いるけどね？？まー、魔法吸収100%に全員してるわけでもないから、そこは...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
