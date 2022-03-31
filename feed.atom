@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-31T03:31:54.873Z</updated>
+    <updated>2022-03-31T03:54:30.981Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1488,16 +1488,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <summary type="html"><![CDATA[レベルと装備が良ければ、トップクラスの職だが？？そこまでガチにはしないみぃたん物理か知識なら、知識オススメだが？槍のロウバストかシェインの開放して属性吸収無視ないと、対人だと無力な相手いるけどね？？まー、魔法吸収100%に全員してるわけでもないから、そこは...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弓の対人装備を大幅に改良しました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203020000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202203020000/"/>
-        <updated>2022-03-01T15:32:04.000Z</updated>
-        <summary type="html"><![CDATA[まず、↓このソウルを使うのを止めます。その代わりに、↓これを使うことにします。この変更によって、薬と透明が無くなってしまいます。（え？自リロは？ｗ）透明と薬は必須なので、今回の変更には↓が絶対に必要で...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
