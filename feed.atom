@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-31T23:22:27.011Z</updated>
+    <updated>2022-03-31T23:48:30.479Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1464,16 +1464,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <updated>2022-03-02T14:05:01.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[祝え、17周年とアプデのはさみ撃ちを]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-815.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-815.html"/>
-        <updated>2022-03-02T11:44:08.000Z</updated>
-        <summary type="html"><![CDATA[あ、うん…まぁいいや、サァ行くかｱﾌﾟﾃﾞは思ったより少ない印象で、やっぱりありました臨時メンテ。周年と臨時メンテのはさみ撃ちのほうがよかったかな？【アップデート内容】公式で確認するならこれ◆レベルキャップ2000開放◆2000レベまで上げられるようにはなったよ！狩場はないけど！TOP争いが過熱しそう◆新規マップ追加① ウエストスワンプ大空洞Lv1250～1300、ウエストスワンプ洞窟197.15より。MQ1でおじいちゃんと戯れるために]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
     <entry>
