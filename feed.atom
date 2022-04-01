@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-01T01:51:56.418Z</updated>
+    <updated>2022-04-01T03:18:44.715Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1445,25 +1445,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <summary type="html"><![CDATA[ふふふ、わざわざ　大騒動　で検索して見る人は居ないはずなので猫猫のみぃ猫みぃレッドストーンで検索するとヒットしやすいようにしてみたbbんー？結果？？すぐにはでないよー？？検索エンジンなんて、時間差あるしどうかな、、、]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビンゴデイリーミッション何があるのか]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-816.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-816.html"/>
-        <updated>2022-03-02T14:39:45.000Z</updated>
-        <summary type="html"><![CDATA[何か思った以上にひどいのが混じってるんですけど…7種の内、確認できたものを載せてます。① 混沌の大地2回クリア…これ考えた人、誰？② RSマナ5回解放え？RSPassの上限じゃん…いくら周期変わってるとはいえそれはちょっと…③　秘密ダンジョン2回RSPassより多いよね？地味に面倒…。④　U分解1回ボーナス枠ですかねぇ？⑤　累計ログイン60分以上まぁ放置で済むし…⑥　自キャラ-100レベ以上を100体討伐これもよく見るあれだから適当な狩場]]></summary>
-        <author>
-            <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022/3日本アプデを見る会【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=6xNtO5Obsa0</id>
-        <link href="https://www.youtube.com/watch?v=6xNtO5Obsa0"/>
-        <updated>2022-03-02T14:05:01.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
