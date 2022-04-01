@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-01T14:36:25.824Z</updated>
+    <updated>2022-04-01T14:48:33.019Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[慣れ親しんだ我が家の崩壊]]></title>
+        <id>http://miroquois.blog.fc2.com/blog-entry-112.html</id>
+        <link href="http://miroquois.blog.fc2.com/blog-entry-112.html"/>
+        <updated>2022-04-01T14:44:55.000Z</updated>
+        <summary type="html"><![CDATA[R氏「相も変わらず騒々しい。大の大人がかように狼狽えるなど…坐して悠然と構える事こそが我が信n」S君「我々の家、ギルドホールが崩壊しました！」R氏「ばっばかなあそんなはずはない！！！」S君「疑うなら試してみてください！」R氏「ばっばかなこんなはずは！！！」R氏「いや冷静になれ。冷静に、裏側にn.hと書いてある神秘的な時計を用いれば…」R氏「よし。やはり冷静さこそが肝心k」S君「閣下！家の中がめちゃくちゃです！」R]]></summary>
+        <author>
+            <name>Raretsu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年4月1日]]></title>
         <id>http://yuntohoozuki.blog.fc2.com/blog-entry-92.html</id>
