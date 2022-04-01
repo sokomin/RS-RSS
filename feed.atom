@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-01T15:23:57.058Z</updated>
+    <updated>2022-04-01T15:51:23.439Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1455,16 +1455,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <updated>2022-03-03T04:18:52.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブログ名　改変]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=519</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=519"/>
-        <updated>2022-03-03T03:29:30.000Z</updated>
-        <summary type="html"><![CDATA[ふふふ、わざわざ　大騒動　で検索して見る人は居ないはずなので猫猫のみぃ猫みぃレッドストーンで検索するとヒットしやすいようにしてみたbbんー？結果？？すぐにはでないよー？？検索エンジンなんて、時間差あるしどうかな、、、]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
