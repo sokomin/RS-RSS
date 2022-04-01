@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-01T05:48:06.652Z</updated>
+    <updated>2022-04-01T06:26:51.419Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1445,15 +1445,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
         <summary type="html"><![CDATA[ふふふ、わざわざ　大騒動　で検索して見る人は居ないはずなので猫猫のみぃ猫みぃレッドストーンで検索するとヒットしやすいようにしてみたbbんー？結果？？すぐにはでないよー？？検索エンジンなんて、時間差あるしどうかな、、、]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022/3日本アプデを見る会【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=6xNtO5Obsa0</id>
-        <link href="https://www.youtube.com/watch?v=6xNtO5Obsa0"/>
-        <updated>2022-03-02T18:09:14.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
