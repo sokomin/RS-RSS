@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T05:31:42.312Z</updated>
+    <updated>2022-04-02T05:48:12.234Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ELDEN RING】アクション超下手が死にゲーやるぞ]]></title>
+        <id>https://www.youtube.com/watch?v=BTedLEvKlJY</id>
+        <link href="https://www.youtube.com/watch?v=BTedLEvKlJY"/>
+        <updated>2022-04-02T05:29:39.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「にゃはっ」っていう方]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-161.html</id>

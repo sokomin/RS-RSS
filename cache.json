@@ -258,6 +258,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BTedLEvKlJY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BTedLEvKlJY",
+          "publishedOn": "2022-04-02T05:29:39.000Z",
+          "wordCount": null,
+          "title": "【ELDEN RING】アクション超下手が死にゲーやるぞ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=P-iAK9sKINE",
           "author": null,
           "description": "",
