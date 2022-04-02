@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T21:33:18.679Z</updated>
+    <updated>2022-04-02T21:48:13.566Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1399,73 +1399,6 @@ BINGOはやったりやらなかったりですね。
         <updated>2022-03-04T11:34:05.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なんだかぁ☆]]></title>
-        <id>https://ameblo.jp/sakuyuno0822/entry-12730106017.html</id>
-        <link href="https://ameblo.jp/sakuyuno0822/entry-12730106017.html"/>
-        <updated>2022-03-04T09:43:56.000Z</updated>
-        <summary type="html"><![CDATA[こんばんちゃお(^^)
- 
- 
-今日のもこもこは怒っております。
- 
- 
-だってきいて・・・
- 
- 
-こないだの２日のバグでログキャン２回受け取れてたんだけど
-その受け取ったIDがログインできなくて
-問い合わせしたら・・・
- 
- 
-違反行為を確認しておりますためID停止させてありますって・・・
- 
- 
- 
-運営のみすだろがぁああああああ？！！！！
- 
-今後このようなことがないようおねがいしますって・・・
-ふざけてません？？？？
- 
- 
-またコクーンの回収がおわりしたい解除させてあげますって
- 
- 
- 
-上から目線やめてもらっていいですかぁ？？？？？
- 
- 
-ってことがありまして・・・
- 
- 
- 
-もこもこは怒ってます。
- 
- 
-違反行為なんかしてない・・・
- 
- 
- 
-ﾌﾝ。
- 
-今日は愚痴ブログになっちゃったけど
-ID停止されてる他の方も問い合わせして復旧おねがいしてもらいましょうね(´・ω・｀)
- 
- 
-ってな
-感じで終わり。
- 
- 
-では
-またみてね
- 
- 
- 
-ばいば～い・ω・ﾉｼ]]></summary>
-        <author>
-            <name>もこもこの時たま日常レッドストーン</name>
         </author>
     </entry>
 </feed>
