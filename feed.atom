@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T15:21:17.546Z</updated>
+    <updated>2022-04-02T15:49:16.136Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1466,26 +1466,6 @@ ID停止されてる他の方も問い合わせして復旧おねがいしても
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ザル運営がヤバい件]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-890.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-890.html"/>
-        <updated>2022-03-04T03:37:31.000Z</updated>
-        <summary type="html"><![CDATA[17周年ログインボーナスのHRコクーンが複数受け取れてしまった不具合のせいで、悪意無く2個目を受け取ってしまった人がID停止措置になっている。今現在も停止中らしく、知り合いも一人くらってる。いやはや、ザル運営過ぎて呆れる。調べるのが大変だから、ひとまず疑わしきは全てID停止にしたんだろうが、やられる方の身になってみ？どんだけショックを受けるか、そんなことも想像出来ないくらい、運営の思考は浅いのか？公式配信]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[んー、不具合？？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=524</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=524"/>
-        <updated>2022-03-04T03:21:57.000Z</updated>
-        <summary type="html"><![CDATA[まー、みぃはコクーン1回だけしか取得しなかったから、停止になってないが、、、明らかな不具合で、誤操作とかでも起きる現象に、一時停止はヒドイなーまー、ほどほどの距離をもって遊びましょー遊びとはいえ、ルールやマナーを守るのは基本チートしてもハッピーにはなれ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
