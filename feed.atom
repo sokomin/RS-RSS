@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T07:32:56.342Z</updated>
+    <updated>2022-04-02T07:48:23.027Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.3月のドロップ~♪]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/5d082dfaa7d3788d61eee502b24e21f9</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/5d082dfaa7d3788d61eee502b24e21f9?fm=rss"/>
+        <updated>2022-04-02T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[4月となりました。
+
+しょぼいですね(´・ω・`)
+まぁでもでてくれただけでよかったかな。
+そんな感じです。
+
+
+装甲ボーンキメラを1000体倒すというミッションがようやく終わりました。
+ディメンションバフのおかげですね＾＾
+ただ次もまた1000体・・・結構面倒になってきました(´・ω・`)
+そろそろミッションブックも諦めようかな。
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ELDEN RING】アクション超下手が死にゲーやるぞ]]></title>
         <id>https://www.youtube.com/watch?v=BTedLEvKlJY</id>
