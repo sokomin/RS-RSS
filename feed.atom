@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T03:31:47.543Z</updated>
+    <updated>2022-04-02T03:53:17.702Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[遺物ヘクター復活]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204020000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202204020000/"/>
+        <updated>2022-04-02T03:51:42.000Z</updated>
+        <summary type="html"><![CDATA[聖戦の敵致命減少15％がなくなると、中ボスに白ダメが少し出てしまっていたので、今までチェンスク+聖戦で狩りをしていました。しかし、敏捷を上げて致命打率を上げると中ボスにも白ダメが混ざらなくなることが判...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[慣れ親しんだ我が家の崩壊]]></title>
         <id>http://miroquois.blog.fc2.com/blog-entry-112.html</id>
