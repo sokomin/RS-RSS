@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-03T22:20:53.388Z</updated>
+    <updated>2022-04-03T22:36:10.311Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1376,16 +1376,6 @@ BINGOはやったりやらなかったりですね。
         <updated>2022-03-06T02:34:37.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サブクエスト「森のために」　攻略チャート作成]]></title>
-        <id>https://khbsroom.com/Sub_que_1100_Mori_no_Tameni.html</id>
-        <link href="https://khbsroom.com/Sub_que_1100_Mori_no_Tameni.html"/>
-        <updated>2022-03-05T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[2022/3/2 アップデートにより実装された、サブクエスト「森のために」の攻略チャートを作成しました。]]></summary>
-        <author>
-            <name>KHBの部屋</name>
         </author>
     </entry>
 </feed>

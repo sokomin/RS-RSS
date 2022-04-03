@@ -31,18 +31,7 @@
       "title": "KHBの部屋",
       "feedUrl": "https://khbsroom.com/index.xml",
       "siteUrl": "http://www.zephyr.dti.ne.jp/hiroll/",
-      "articles": [
-        {
-          "id": "https://khbsroom.com/Sub_que_1100_Mori_no_Tameni.html",
-          "author": null,
-          "description": "2022/3/2 アップデートにより実装された、サブクエスト「森のために」の攻略チャートを作成しました。",
-          "link": "https://khbsroom.com/Sub_que_1100_Mori_no_Tameni.html",
-          "publishedOn": "2022-03-05T10:20:00.000Z",
-          "wordCount": 467,
-          "title": "サブクエスト「森のために」　攻略チャート作成",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "リヤンのペット図鑑+だらだら戯言日記 in RS",
