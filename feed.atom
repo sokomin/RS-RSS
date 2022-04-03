@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-03T13:36:01.422Z</updated>
+    <updated>2022-04-03T13:48:08.798Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1376,16 +1376,6 @@ BINGOはやったりやらなかったりですね。
         <summary type="html"><![CDATA[3月アップデートで、狩場や装備など新しい要素が増えましたね。私が一番おどろいたのは、古都と協会にいる植木鉢のNPCが、同一人物ではなかったという事です。ほら、名前同じに見えますし、近くにいるデリンも2か所にいますし……はい。そんな感じで17周年おめでとうございます。第三の猫です。今回は4回目の転生クエストを進めます。さくっと終わらせます。4回目の転生クエストもこれまでと同様に、テレポート進行で移動いらずにな]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホイホイ　罠覚醒bb]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=525</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=525"/>
-        <updated>2022-03-05T01:45:31.000Z</updated>
-        <summary type="html"><![CDATA[シーフのホイホイ220くらいで止まってたのをレイド、レポ、ソロでLv300超えたーbb罠覚醒したけど、狩りでは使ってナイという知識250くらいで罠火力が支援ありで2000ダメの3弾範囲普通？？に殴って黄ダメで狩るほうが楽？？まー微妙なところPTボスは無理やな、、ソロ狩り場...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
