@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-03T14:48:24.362Z</updated>
+    <updated>2022-04-03T15:21:39.865Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PCが変わったという話]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-829.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-829.html"/>
+        <updated>2022-04-03T15:10:07.000Z</updated>
+        <summary type="html"><![CDATA[ようやく届いたショップにて性能を大雑把に比べながらちょっとだけ追加装備をねじこんだやーつ。モニターと合わせてプレロト330個分なのに中程度のスペック性能は大幅に向上したので、いろいろやりたいことはできると思う。そりゃ前のPC9年前のものだからな…仕事もひと段落したので、しばらくはRSPassの処理に専念したいところ。VMの下準備はまだ終わってないので、そこでいろいろチェックをかけてからGDぶん回しは実戦したいとこ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メンテを終えて]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-741.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-741.html"/>
+        <updated>2022-04-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[4月1日と言えばエイプリルフールですが息子はとても待ち望んでいたようですゲーセンの某太鼓ゲームに毎年エイプリルフール専用の新曲が出るからです今年は彁の裏譜面だったそうで実際に上級者のプレイをゲーセンで見て一緒にはしゃいできたそうですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ELDEN RING】アクション超下手が死にゲーやるぞ　その２]]></title>
         <id>https://www.youtube.com/watch?v=bLdALjH1NsE</id>
