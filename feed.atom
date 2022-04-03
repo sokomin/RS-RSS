@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-03T14:31:25.529Z</updated>
+    <updated>2022-04-03T14:48:24.362Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1366,16 +1366,6 @@ BINGOはやったりやらなかったりですね。
         <summary type="html"><![CDATA[2022/3/2 アップデートにより実装された、サブクエスト「森のために」の攻略チャートを作成しました。]]></summary>
         <author>
             <name>KHBの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4度目の転生]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-157.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-157.html"/>
-        <updated>2022-03-05T02:37:03.000Z</updated>
-        <summary type="html"><![CDATA[3月アップデートで、狩場や装備など新しい要素が増えましたね。私が一番おどろいたのは、古都と協会にいる植木鉢のNPCが、同一人物ではなかったという事です。ほら、名前同じに見えますし、近くにいるデリンも2か所にいますし……はい。そんな感じで17周年おめでとうございます。第三の猫です。今回は4回目の転生クエストを進めます。さくっと終わらせます。4回目の転生クエストもこれまでと同様に、テレポート進行で移動いらずにな]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
