@@ -528,16 +528,6 @@
           "wordCount": 86,
           "title": "もう１個ソウル作りました",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/4dd3f21cf77af282c9a062247c4fc28e13573e11.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202203040000/",
-          "author": "雷神の弓",
-          "description": "黒魔のMBでミニP15匹保有っていうのがあったので、今までに配布されたシャードと14円ポーチを駆使してミニP15匹集めました。MBをクリアするだけではもったいないので、合成して期間を延ばしました。（合成すると...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202203040000/",
-          "publishedOn": "2022-03-04T13:14:43.000Z",
-          "wordCount": 82,
-          "title": "期間の長いヌウリが出来ました",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/adc2bd0cc32988288d9daa8d80f27fbbba85ff33.73.9.9.3.png"
         }
       ]
     },
@@ -1233,6 +1223,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/2f79a731e8e2c1985781e7e4d064f530",
+          "author": null,
+          "description": "春眠暁を覚えず。\n\nそれなりの装備になりました(・ω・)b\n\nもともとこれが最終装備でいいかと思っていました。\n\nやっぱこっちの方が強いよね(笑)\n\nグラは測定不能のほうが好きだな(´・ω・`)\n\n\nさて、次は誰の装備を揃えようかな。\n揃えたいのはWIZくんかメインアチャなんだよね(￣ω￣;)\n他はまだ4転してないし。まだまだ先の話ですね。\n\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/2f79a731e8e2c1985781e7e4d064f530?fm=rss",
+          "publishedOn": "2022-04-03T01:30:00.000Z",
+          "wordCount": 297,
+          "title": "最終装備？",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/14/95/11fca4f1a874721bc10211c4c2d75d2a.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/5d082dfaa7d3788d61eee502b24e21f9",
           "author": null,

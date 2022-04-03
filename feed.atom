@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T23:48:16.367Z</updated>
+    <updated>2022-04-03T01:44:01.355Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最終装備？]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/2f79a731e8e2c1985781e7e4d064f530</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/2f79a731e8e2c1985781e7e4d064f530?fm=rss"/>
+        <updated>2022-04-03T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[春眠暁を覚えず。
+
+それなりの装備になりました(・ω・)b
+
+もともとこれが最終装備でいいかと思っていました。
+
+やっぱこっちの方が強いよね(笑)
+
+グラは測定不能のほうが好きだな(´・ω・`)
+
+
+さて、次は誰の装備を揃えようかな。
+揃えたいのはWIZくんかメインアチャなんだよね(￣ω￣;)
+他はまだ4転してないし。まだまだ先の話ですね。
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.3月のドロップ~♪]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/5d082dfaa7d3788d61eee502b24e21f9</id>
@@ -1380,16 +1415,6 @@ BINGOはやったりやらなかったりですね。
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[期間の長いヌウリが出来ました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203040000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202203040000/"/>
-        <updated>2022-03-04T13:14:43.000Z</updated>
-        <summary type="html"><![CDATA[黒魔のMBでミニP15匹保有っていうのがあったので、今までに配布されたシャードと14円ポーチを駆使してミニP15匹集めました。MBをクリアするだけではもったいないので、合成して期間を延ばしました。（合成すると...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
