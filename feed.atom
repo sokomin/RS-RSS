@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-04T14:34:03.194Z</updated>
+    <updated>2022-04-04T14:48:28.967Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1377,15 +1377,6 @@ BINGOはやったりやらなかったりですね。
         <summary type="html"><![CDATA[コロナの陽性反応が出てしまい自宅養生になった息子ですが今では陰性になり問題なく学校に通っています体力も元に戻ったようでお気に入りのこの曲も叩いています症状が鼻水とくしゃみ程度の軽症で済んでいたのが本当に幸いでした私も濃厚接触者として自宅待機をしていましたが感染する事無く事なきを得ましたご心配をおかけして申し訳ございませんでしたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】メイド育ててみた　その１]]></title>
-        <id>https://www.youtube.com/watch?v=d_2FBYWLOj8</id>
-        <link href="https://www.youtube.com/watch?v=d_2FBYWLOj8"/>
-        <updated>2022-03-06T02:34:37.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
