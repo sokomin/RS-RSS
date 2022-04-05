@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-05T14:48:11.395Z</updated>
+    <updated>2022-04-05T15:23:18.038Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1337,26 +1337,6 @@ BINGOはやったりやらなかったりですね。
         <updated>2022-03-07T10:49:31.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】17th春のBAN祭と風船イベント]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-891.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-891.html"/>
-        <updated>2022-03-07T03:21:59.000Z</updated>
-        <summary type="html"><![CDATA[HRコクーン複数受け取りによるBANの詳細が公式に出てた。何度読んでも、運営のミスがトリガーであり、複数受け取った人もID内のキャラ数以内なら落ち度は無いと思われる。受け取るまで、MAP移動の度に受け取りを促してきて、表示オフ機能もないログインアイテム受け取り画面が、キャラチェンジ毎に出てきたらウザいでしょ？そりゃ面倒だからポチっと受け取るだろう。17thイベントだからキャラ毎にもらえるのかな？と考えた人も少な]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホイホイは、ホイホイ]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=526</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=526"/>
-        <updated>2022-03-07T03:19:42.000Z</updated>
-        <summary type="html"><![CDATA[ホイホイは、ギルメンに恵まれてなんとかLv460くらいになったお☆ホイホイはシーフでホイホイ武道を倒すの目標？？盗掘のフルディメンションopの作ってもらったから、装備　出来るようにするのが中間目標盗掘はベース速度1.2の優秀ちゃんbb罠で狩れるようになったら黄ダメ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
