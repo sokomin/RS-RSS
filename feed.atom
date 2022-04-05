@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-05T02:47:04.480Z</updated>
+    <updated>2022-04-05T03:32:33.964Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1367,16 +1367,6 @@ BINGOはやったりやらなかったりですね。
         <summary type="html"><![CDATA[赤石界全体のデフレが著しい。昨年当初はTOPの異次元品は大抵300本～だったのに、二桁本まで落ち込みました。鏡による異次元品の飽和と、対人戦撤退者増加による需要減が重なり、それにゴールドの回収が追い付いていないことが要因と思われます。完成品が手頃に買えるようになったため賢者やらの強化補助アイテムも下落。運営側が何かテコ入れをしている感じもしないので、待てばもっと下落すると市場が予測し買い控え。まさに絵に]]></summary>
         <author>
             <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3月2日アップデート内容　【新狩場追加】]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-737.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-737.html"/>
-        <updated>2022-03-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[コロナの陽性反応が出てしまい自宅養生になった息子ですが今では陰性になり問題なく学校に通っています体力も元に戻ったようでお気に入りのこの曲も叩いています症状が鼻水とくしゃみ程度の軽症で済んでいたのが本当に幸いでした私も濃厚接触者として自宅待機をしていましたが感染する事無く事なきを得ましたご心配をおかけして申し訳ございませんでしたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
