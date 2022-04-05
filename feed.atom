@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-05T14:34:48.951Z</updated>
+    <updated>2022-04-05T14:48:11.395Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1357,16 +1357,6 @@ BINGOはやったりやらなかったりですね。
         <summary type="html"><![CDATA[ホイホイは、ギルメンに恵まれてなんとかLv460くらいになったお☆ホイホイはシーフでホイホイ武道を倒すの目標？？盗掘のフルディメンションopの作ってもらったから、装備　出来るようにするのが中間目標盗掘はベース速度1.2の優秀ちゃんbb罠で狩れるようになったら黄ダメ...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近よくみる赤石ブログ]]></title>
-        <id>http://scratch2009.blog.fc2.com/blog-entry-211.html</id>
-        <link href="http://scratch2009.blog.fc2.com/blog-entry-211.html"/>
-        <updated>2022-03-07T02:34:44.000Z</updated>
-        <summary type="html"><![CDATA[赤石界全体のデフレが著しい。昨年当初はTOPの異次元品は大抵300本～だったのに、二桁本まで落ち込みました。鏡による異次元品の飽和と、対人戦撤退者増加による需要減が重なり、それにゴールドの回収が追い付いていないことが要因と思われます。完成品が手頃に買えるようになったため賢者やらの強化補助アイテムも下落。運営側が何かテコ入れをしている感じもしないので、待てばもっと下落すると市場が予測し買い控え。まさに絵に]]></summary>
-        <author>
-            <name>scratch2009</name>
         </author>
     </entry>
 </feed>
