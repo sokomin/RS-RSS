@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-06T15:23:03.508Z</updated>
+    <updated>2022-04-06T15:50:19.019Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1347,16 +1347,6 @@ BINGOはやったりやらなかったりですね。
 では(｡･ｪ･｡)ﾉ]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】友の帰還]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-892.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-892.html"/>
-        <updated>2022-03-08T03:48:12.000Z</updated>
-        <summary type="html"><![CDATA[昨夜、やっとインできた様で、BANされていた知り合いが戻ってきた。木曜にメールで復旧を依頼さしていたらしいから、実質4日掛かったことになる。おっそ！運営、土日休んで月曜から対応したんだろうか？誤BANの対応だというのに、遅過ぎて呆れてしまう。LOST ARKはかなりシャキシャキ対応するため、完全にゲーム毎に対応の温度差を設けているのは明白。REDSTONEの対応は、おそらく片手間でと指示されてるのかもしれない。今後も改]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
