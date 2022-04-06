@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-06T04:54:52.882Z</updated>
+    <updated>2022-04-06T05:19:59.395Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1318,16 +1318,6 @@ BINGOはやったりやらなかったりですね。
         <summary type="html"><![CDATA[2021/09/11 ← 前回2022/03/08 ← 今回武器　[ダメ200%][ダメ200%][ダメ100%] 騎虎の勢い+7 BFダメ34% 精錬ダメ95%補助　[ダメ22%][ダメ25%] 残影首輪　[HP150%][HP150%][HP150%] 追跡人Nx+7 BF被魔法ダメ吸収14%頭冠　[魔法吸収20%][魔法吸収20%][魔法吸収20%] 地上の権勢Nx+7 BFダメ45%外套　[健康1/2][健康1/2][健康1/2] ディザスター+10 BFダブクリダメ増加3%腰腰　[健康1/2][健康1/2][健康1/2] 金欄Nx+10 BFSlv+5爪爪　[ダメ150]]></summary>
         <author>
             <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もう１個ソウル作りました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203080000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202203080000/"/>
-        <updated>2022-03-07T17:00:20.000Z</updated>
-        <summary type="html"><![CDATA[​装備の組み合わせによっては、健比だと健康過剰になってしまうので、運比バージョンも作ってみました。自分で刻印できると、こうやって気軽に転生指を作れるのでいいですよねｗ・読者様からの耳を紹介転生指刻印...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
