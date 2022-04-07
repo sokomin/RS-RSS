@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-07T17:27:15.903Z</updated>
+    <updated>2022-04-07T17:48:22.306Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1291,16 +1291,6 @@ BINGOはやったりやらなかったりですね。
         <summary type="html"><![CDATA[本祭中なので新規開催イベントは特にないと思ってました。それと2日メンテ後に発生してた接続障害のお詫びが届いてるようなので受け取っておくと良いですね。それはそれとして15時前に地震あってちょっと驚き。屋根の雪でも落ちたのか、もしくはなんか倒れたかくらいの振動だったんだけど地震速報が流れて美瑛のみで震度2と表示されてた。震度よりもこの町のみに地震ってのが相当珍しい・・・。十勝岳になんか影響出たりするのかな]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bisたん　T移動ライダに換装]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=527</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=527"/>
-        <updated>2022-03-09T05:30:50.000Z</updated>
-        <summary type="html"><![CDATA[Lv920になったので装備　出来るように成ったのじゃいBFはT運フェルンからT健康ブルーミングに☆高機動衛生兵になったのじゃい？？次の目標？？んーーー？？わからん vお金　かけるならT吸収頭　欲しいけどまー　とりあえず、bisたんはこのままかな]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
