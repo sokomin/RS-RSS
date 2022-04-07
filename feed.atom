@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-07T22:48:14.587Z</updated>
+    <updated>2022-04-07T23:21:35.706Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1239,48 +1239,6 @@ WIZのマキナを終わらせました。
         <summary type="html"><![CDATA[俺はそれ以来周年、お前たちメンテに復讐することだけを思って、生きてきたのだ。【お知らせとか】・ビンゴイベント進行中にクリーチャー冒険がおかしくなる不具合修正・錬成時取引不可が解除される不具合修正・冒険枠が黒枠となる不具合修正・3/2(水)接続障害に伴うお詫び・パワーアップチャレンジ公式のあれこれだけだよ？周年本祭期間だからね、仕方ないね。おわり]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.3.9 イベ更新なし！]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/aa26efe977deab1fd1516d3bfc1cde63</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/aa26efe977deab1fd1516d3bfc1cde63?fm=rss"/>
-        <updated>2022-03-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3月も上旬を過ぎましたね。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3月2日メンテ後から3月30日メンテ前まで
-
-
-17周年イベントやっていますが、参加しているのはログキャンとログインスタンプ程度かな。
-あ、ルーレットも一応やってる。
-BINGOはやったりやらなかったりですね。
-まぁ無理にやってもあれなので、楽しめる範囲で楽しみたいと思います。
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
