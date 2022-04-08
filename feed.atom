@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-08T22:21:41.049Z</updated>
+    <updated>2022-04-08T22:48:05.663Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1219,15 +1219,6 @@ WIZのマキナを終わらせました。
         <summary type="html"><![CDATA[1100DXUって結構出やすいってことでいいんだね？一部おかしいのもあるけど…安売りされてるからね。え？1000Ult職鎧？知らんよ。とまぁ安売りされてた物理槍を見つけまして。ストックされたまま残されていた物たちが転がっておりまして。こちらが完成品です。装備レベル限界突破が怖いからこれで妥協中。随時攻撃Lv10にしたいなぁ？たかがダブクリ10％、されど10％ってことで…1000Ult？知らない！地味に致命低下が5％増えたのがうれ]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#２１（例のクリーチャー育てる）]]></title>
-        <id>https://www.youtube.com/watch?v=6F48FQCmSRE</id>
-        <link href="https://www.youtube.com/watch?v=6F48FQCmSRE"/>
-        <updated>2022-03-10T10:44:12.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
