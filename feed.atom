@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-08T03:48:00.782Z</updated>
+    <updated>2022-04-08T04:27:12.805Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1219,16 +1219,6 @@ WIZのマキナを終わらせました。
         <summary type="html"><![CDATA[なんか育てにくい、というか転生後の経験値ボーナスになれちゃうと、、、なんだかねー？？？デリンダリンレポを全て進めれば速い気はするが、、、さてはて、どーしようかね？？レイドマッタリ育成でも　いいがLv600の壁はまだまだ高いみゅみゅみゅこーいうときは、キャン...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[槍弓の1000Ult職鎧、1100DX武器に思うこと]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-820.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-820.html"/>
-        <updated>2022-03-09T16:14:20.000Z</updated>
-        <summary type="html"><![CDATA[1100レベにDXU補正だからなぁ…。一応解放で-180レベされるらしいけども、DXOPは厳しいなぁあの足とかT忍耐にしたら解放して1310レベ装備…ここでは個人的な主観満載で実装されたU品の槍弓関係だけ見るよ。他職は分かんないです。【エンドレス】1000Ult職鎧。物理向け。回避補正無視に加えダブクリダメ増加が5％+開放でさらに追加？おまけに職鎧だから命中補正無視をOPでのせることもできる。なお異次元ください。そして異次元にぶち]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
