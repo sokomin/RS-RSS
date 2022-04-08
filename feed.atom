@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-08T01:43:28.993Z</updated>
+    <updated>2022-04-08T03:04:22.969Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1227,16 +1227,6 @@ WIZのマキナを終わらせました。
         <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-820.html"/>
         <updated>2022-03-09T16:14:20.000Z</updated>
         <summary type="html"><![CDATA[1100レベにDXU補正だからなぁ…。一応解放で-180レベされるらしいけども、DXOPは厳しいなぁあの足とかT忍耐にしたら解放して1310レベ装備…ここでは個人的な主観満載で実装されたU品の槍弓関係だけ見るよ。他職は分かんないです。【エンドレス】1000Ult職鎧。物理向け。回避補正無視に加えダブクリダメ増加が5％+開放でさらに追加？おまけに職鎧だから命中補正無視をOPでのせることもできる。なお異次元ください。そして異次元にぶち]]></summary>
-        <author>
-            <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日のイベキャンペはごみのように捨てられた…。]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-819.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-819.html"/>
-        <updated>2022-03-09T13:58:19.000Z</updated>
-        <summary type="html"><![CDATA[俺はそれ以来周年、お前たちメンテに復讐することだけを思って、生きてきたのだ。【お知らせとか】・ビンゴイベント進行中にクリーチャー冒険がおかしくなる不具合修正・錬成時取引不可が解除される不具合修正・冒険枠が黒枠となる不具合修正・3/2(水)接続障害に伴うお詫び・パワーアップチャレンジ公式のあれこれだけだよ？周年本祭期間だからね、仕方ないね。おわり]]></summary>
         <author>
             <name>Trailblazer</name>
         </author>
