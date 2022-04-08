@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-08T13:43:33.803Z</updated>
+    <updated>2022-04-08T14:19:44.451Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[俺はX年ぶりに実家へ帰るぞぉ！！]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-832.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-832.html"/>
+        <updated>2022-04-08T14:13:35.000Z</updated>
+        <summary type="html"><![CDATA[その一週間前に風邪を引いてしまう…なぜだぁ？！それにしても、PCがぶっ壊れまともにログインできないときに後夜祭のイベキャンペが始まり、ログキャンは一切の余裕を持たないスタイルだし、遅れてきたログインスタンプも余裕がほぼない仕様…そんでもって、実家帰りは３泊４日だから２日はログインできない。散々な年度始めですなぁ？！RSは安全になったランク1GH引きこもり生活とにかく今は風邪対策を練り上げつつ、RSPassを処理]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#3【ELDEN RING】アクション超下手が死にゲーやるぞ]]></title>
         <id>https://www.youtube.com/watch?v=j9nhC1nVNFM</id>
