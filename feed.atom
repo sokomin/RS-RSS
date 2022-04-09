@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-09T02:43:13.087Z</updated>
+    <updated>2022-04-09T03:29:16.303Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[完ぺきな作戦]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-162.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-162.html"/>
+        <updated>2022-04-09T02:49:06.000Z</updated>
+        <summary type="html"><![CDATA[ルーレット（コインかける方）が来ましたね。前回の第三の猫はひたすらにコインを失い続けましたが、今回の第三の猫は完ぺきです。なぜなら、完ぺきな作戦を思いついたからです。そう、ルーレットを１度も回さずにコインを交換すればいいのです。交換するのは完ぺきに焦げちゃった黒い羊！実に完ぺきですね。まあ、いつものはらはら全賭けによって既にコインを減らしていなければ、もっと完ぺきだった気もしますが、次の第三の猫は]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黒魔の覚醒－ラブチュラスエンチャントレス－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/83da6d0e309f4f39f98e694943692b87</id>
