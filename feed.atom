@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-09T16:29:02.696Z</updated>
+    <updated>2022-04-09T16:59:16.386Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[交流Gvに参加しました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204100000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202204100000/"/>
+        <updated>2022-04-09T16:56:23.000Z</updated>
+        <summary type="html"><![CDATA[まず結果から貼っちゃいますね！勝敗を度外視したノーガードの殴り合いでしたね～。個人的な結果は、2死・53LAでした。表記制限なし、ベルセ有での対戦でしたが、現在知恵キャラになっているので、そこまで表記は...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エクスペリエンス指はNPCで買えますよ]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204090000/</id>
