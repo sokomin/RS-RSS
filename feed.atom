@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-09T21:48:02.401Z</updated>
+    <updated>2022-04-09T22:21:19.575Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1209,16 +1209,6 @@ BINGOのマスが随分埋まってきました。
         <summary type="html"><![CDATA[んーとね、無能なふり？してても有能なの　ばれちゃうのよね？？猫を被ったブタだとバレつつある？？え？猫に小判から、豚に真珠、に変更？飛べない豚はただの豚さbbツメを隠すのヘタな猫は、無能ちゃん？？犬も歩けば棒に当たるそろそろバチが当たる？？泣きっ面にハチ？...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次回メンテは…火曜日？]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-822.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-822.html"/>
-        <updated>2022-03-11T10:11:09.000Z</updated>
-        <summary type="html"><![CDATA[水曜日はごみのように捨てられた…。今度の定期メンテは3/15(火)みたいです。1日ズレるのでそこだけ注意。しかし…水曜日に何かあったかな？まぁいいや、サァ行くか。たったそれだけ。]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
