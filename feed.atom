@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-09T15:22:17.699Z</updated>
+    <updated>2022-04-09T15:49:51.387Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1219,16 +1219,6 @@ BINGOのマスが随分埋まってきました。
         <summary type="html"><![CDATA[突然ですが、クイズを出題します。まずはこちらの画像をご覧ください。ここで問題です。はい！ケルビーさん回答をどうぞ。17ですね。ぁー、おしい。 正解は「17がドロップしない事が問題」でした。こんにちは第三の猫です。さっそく今週のハイライトいってみましょう。それは、指名手配モンスターを倒すために神秘の洞窟B2を訪れた時の事。クエストを完了し、適当にぶらついていたところ、なにやら鷲が集まって楽しそうな雰囲気に]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みぃたんの贖罪]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=529</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=529"/>
-        <updated>2022-03-11T03:29:35.000Z</updated>
-        <summary type="html"><![CDATA[普段、つりばかりして火力ださないみぃ。しかし、いつもどこでも安全なんて保証されていない。現実は無慈悲。火力のだしかたを忘れてしまった猫。勉強やオシゴトを頑張ってたのは何年前やら？？でもね、猫は九生。いま、出来ないことは来世に持ち越しもイイし、ピンチをチ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
