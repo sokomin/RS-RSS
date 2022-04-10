@@ -247,6 +247,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ftjPY1d3WRc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ftjPY1d3WRc",
+          "publishedOn": "2022-04-10T03:52:42.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】１からアルケミ・マスケ育ててみた　その１",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=j9nhC1nVNFM",
           "author": null,
           "description": "",
