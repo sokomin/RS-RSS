@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-10T15:22:03.134Z</updated>
+    <updated>2022-04-10T15:50:01.848Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1357,16 +1357,6 @@ BINGOのマスが随分埋まってきました。
         <updated>2022-03-12T11:04:40.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[土曜日パラダイス]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=531</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=531"/>
-        <updated>2022-03-12T03:30:34.000Z</updated>
-        <summary type="html"><![CDATA[いやー、今日の仕事は終わったbb人の分は残しとく、これ猫の礼儀。とはいえ、なにもしないのもあれやから、ひとまず？？次の準備しとくかー＠＠ほんと、土曜は楽々、時間が過ぎていく仕事もワンパン？？ワンパンて、、ワンパンチ？？ワンパターン？？土曜はさくっと帰って...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
