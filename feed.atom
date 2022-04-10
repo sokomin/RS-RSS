@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-10T14:48:20.211Z</updated>
+    <updated>2022-04-10T15:22:03.134Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[絨毯キットエンブレムについて]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-742.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-742.html"/>
+        <updated>2022-04-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日仕事帰りに駅の近くを歩いている時にコインパーキングの前で電話をしている人を見ましたトラブルのようで最近良く見かける光景でもあります理解して使うと非常に便利なものですが金額設定の注意を知らずに長時間使うと大変な事になります気をつけないといけないですねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思った以上に苦しんだ…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-833.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-833.html"/>
+        <updated>2022-04-10T14:54:36.000Z</updated>
+        <summary type="html"><![CDATA[鼻水と歯の痛みがダブルでだ。鼻水本当に止まらないし、謎の奥歯痛みで寝るのもつらいっていう…。今はその二つともに終息したけど、代わりに咳が止まらない。これが代償ですか…果たして土曜日までに治るのだろうか？！食欲は平常運転だったから栄養多めにぶちこんだまぁ、そんな感じだったから土曜日はログインも何もできずで。今日はそこそこ体調が元に戻ってきたので、無理しない程度にPass処理。休日ぶっつぶれてしまったけども]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[異次元代理☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12736746909.html</id>
@@ -1345,16 +1365,6 @@ BINGOのマスが随分埋まってきました。
         <link href="http://rs.bigcat31.floppy.jp/?eid=531"/>
         <updated>2022-03-12T03:30:34.000Z</updated>
         <summary type="html"><![CDATA[いやー、今日の仕事は終わったbb人の分は残しとく、これ猫の礼儀。とはいえ、なにもしないのもあれやから、ひとまず？？次の準備しとくかー＠＠ほんと、土曜は楽々、時間が過ぎていく仕事もワンパン？？ワンパンて、、ワンパンチ？？ワンパターン？？土曜はさくっと帰って...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猫にゃん危機]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=530</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=530"/>
-        <updated>2022-03-12T03:20:40.000Z</updated>
-        <summary type="html"><![CDATA[んーとね、無能なふり？してても有能なの　ばれちゃうのよね？？猫を被ったブタだとバレつつある？？え？猫に小判から、豚に真珠、に変更？飛べない豚はただの豚さbbツメを隠すのヘタな猫は、無能ちゃん？？犬も歩けば棒に当たるそろそろバチが当たる？？泣きっ面にハチ？...]]></summary>
         <author>
             <name>猫ノみぃ</name>
         </author>
