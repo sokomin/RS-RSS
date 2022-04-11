@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-11T22:48:17.600Z</updated>
+    <updated>2022-04-11T23:22:29.391Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1331,15 +1331,6 @@ BINGOのマスが随分埋まってきました。
         <summary type="html"><![CDATA[社会科（特に歴史関連）が苦手な息子ですがこのチャンネルの動画は良く楽しんで見ていますシュールなセリフが印象的でなるほどなーと思える動画ですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Apex Legends】ロイ４世がダイアになるまでの物語８日目]]></title>
-        <id>https://www.youtube.com/watch?v=GI0sIwDd5qA</id>
-        <link href="https://www.youtube.com/watch?v=GI0sIwDd5qA"/>
-        <updated>2022-03-13T10:50:26.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
