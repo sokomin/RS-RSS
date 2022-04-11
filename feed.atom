@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-10T23:48:20.709Z</updated>
+    <updated>2022-04-11T01:48:58.110Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1348,16 +1348,6 @@ BINGOのマスが随分埋まってきました。
         <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。いや～、エーテルマキナと風船イベントで一気にヤティカヌレベルになってしまいました。Lv1210くらいから死の荒れ地で狩っているのですが、うまいですね。ドロップもうまいと...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Summary of Archnemesis]]></title>
-        <id>https://intothe.info/?p=1653</id>
-        <link href="https://intothe.info/poe/my-summary-of-archnemesis/"/>
-        <updated>2022-03-12T13:19:59.000Z</updated>
-        <summary type="html"><![CDATA[Challenges38達成記念アイキャッチにしてみたけど翼が思いの...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
 </feed>
