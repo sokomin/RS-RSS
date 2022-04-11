@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-11T05:48:09.201Z</updated>
+    <updated>2022-04-11T06:27:32.410Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1338,16 +1338,6 @@ BINGOのマスが随分埋まってきました。
         <updated>2022-03-13T03:52:29.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[悪魔1250　狩りステ晒し]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202203130000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202203130000/"/>
-        <updated>2022-03-12T18:15:16.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。いや～、エーテルマキナと風船イベントで一気にヤティカヌレベルになってしまいました。Lv1210くらいから死の荒れ地で狩っているのですが、うまいですね。ドロップもうまいと...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
