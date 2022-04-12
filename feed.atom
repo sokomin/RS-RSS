@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-12T03:02:52.367Z</updated>
+    <updated>2022-04-12T03:47:20.444Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1320,16 +1320,6 @@ BINGOのマスが随分埋まってきました。
         <updated>2022-03-13T21:42:30.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石の日に風船イベントをチューニング]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-823.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-823.html"/>
-        <updated>2022-03-13T15:03:19.000Z</updated>
-        <summary type="html"><![CDATA[狩場の混雑が予想されます。14日の石の日と風船イベントがやってきます。2倍だけどね。3倍だったらもっと大変なことになってた仕様が変わってないなら導きの鐘使用時は風船が死ぬ前そういった回答があったのね。今変わったかどうかは知らない。実験しようにも、この時期忙しいから碌に狩れない。というか鐘が使われるかが一番の謎それがあろうとなかろうと、混雑は確定だと思うけどね。大事な事なので（ｒｙあ、公式が「ネフォンク]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
