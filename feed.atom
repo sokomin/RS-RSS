@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-12T15:24:29.366Z</updated>
+    <updated>2022-04-12T15:52:01.356Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無い飛ぶ零度]]></title>
+        <id>kaze.gg-blog.com://entry/167</id>
+        <link href="http://kaze.gg-blog.com/status/%E7%84%A1%E3%81%84%E9%A3%9B%E3%81%B6%E9%9B%B6%E5%BA%A6"/>
+        <updated>2022-04-12T15:50:46.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+
+
+(結局編集してない)
+ 
+
+
+更新頻度が気になるNightBlade
+
+
+
+三日見ぬ間のNightBlade
+
+
+
+(結局寝た風)
+ 
+
+
+
+風に吹かれてを毎日チェックしてくれている方々
+ 
+
+
+こないだの風船イベントで
+
+
+
+期間中、12レベルアップ！
+
+
+
+おっどあーい
+    
+1100DXUもドロップ！
+ 
+露店で買ってつくりました！
+1100DXU、結構強い！
+魔法弱化 120％
+魔法強化 419％
+水弱化 168％
+水強化 390％
+水強化を大分稼げるように！
+目指せ400％！
+
+
+かわいい
+
+
+あぁ～かわいい！
+ 
+
+将来有望な甥っ子
+
+
+
+｜彡ｻｯ]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今更なのかどうなのかわかんない1100DXU防具の何か]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-834.html</id>
@@ -1311,16 +1377,6 @@ BINGOのマスが随分埋まってきました。
         <updated>2022-03-14T10:29:06.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[はて？レベル上げしてもな？？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=532</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=532"/>
-        <updated>2022-03-14T03:33:17.000Z</updated>
-        <summary type="html"><![CDATA[んー、、、ガンバルひとがいるから相対的にあまり変わらないという？？こんちゃ、石の日ですなbbシーフくんのホイホイをレベル600にして転生させたいが！？めんどうなのよねーーー狩り効率悪すぎだからにゃーまはー、武器を変えたから罠火力で狩れなくもないが、、、基本...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
