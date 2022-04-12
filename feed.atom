@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-12T01:40:57.103Z</updated>
+    <updated>2022-04-12T03:02:52.367Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1330,16 +1330,6 @@ BINGOのマスが随分埋まってきました。
         <summary type="html"><![CDATA[狩場の混雑が予想されます。14日の石の日と風船イベントがやってきます。2倍だけどね。3倍だったらもっと大変なことになってた仕様が変わってないなら導きの鐘使用時は風船が死ぬ前そういった回答があったのね。今変わったかどうかは知らない。実験しようにも、この時期忙しいから碌に狩れない。というか鐘が使われるかが一番の謎それがあろうとなかろうと、混雑は確定だと思うけどね。大事な事なので（ｒｙあ、公式が「ネフォンク]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新狩場ができてから]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-738.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-738.html"/>
-        <updated>2022-03-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[社会科（特に歴史関連）が苦手な息子ですがこのチャンネルの動画は良く楽しんで見ていますシュールなセリフが印象的でなるほどなーと思える動画ですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
