@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-13T14:35:44.248Z</updated>
+    <updated>2022-04-13T14:48:27.485Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1430,16 +1430,6 @@ BINGOのマスが随分埋まってきました。
         <summary type="html"><![CDATA[風剣士　Lv1173雨アチャ　Lv1026雨アチャはマキナ分のみ収容所B3で狩り。風船3種持たせてパワキも出してるから、れべるはなかなかの上がり具合。W致命打抵抗DX 後退転倒抵抗DXレイヤーブルーの装備Lv1062まで上げる予定。風船イベント中に上げたい。先日の石の日も会社休んで狩りした風剣士は、星谷がきつくなるLv1170台に突入。星谷以外の狩場もあるけど、どこも経験値考えると星谷未満なため、飽きてはいるが粘るしかない状況。]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[春ですね]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-951.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-951.html"/>
-        <updated>2022-03-15T02:38:09.000Z</updated>
-        <summary type="html"><![CDATA[気づけば、梅花の美しい季節が来ていました。ごきげんよう。ビオラもまだまだ元気ですし、オステオスペルマムの華やぐ色合いも素敵です。コロナショックだけでも大打撃な中、ウクライナでは戦争が始まってしまったりとつらいニュースが多いですね。何をしていてもストレスがつきものの現在ですけれど、だからこそ心身の健康を心がけることが大切だと思っています。心や体がまず元気でないと、建設的なことがしたいと思っても難しい]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
 </feed>
