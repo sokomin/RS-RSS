@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-12T23:48:14.856Z</updated>
+    <updated>2022-04-13T01:50:24.338Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ギリギリchop]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-953.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-953.html"/>
+        <updated>2022-04-13T00:31:32.000Z</updated>
+        <summary type="html"><![CDATA[現在オーライベント中ですけれど、鏡の魔法書のかけらがドロップするのは今日のメンテ前までだったのですね。今朝になってそのことに気づきました。手もとには、ちまちま集めていた172個のかけら。別枠で、重ならないものが20個。「ギリギリじゃないと僕ダメなんだよ」というわけではないのですが、急に頭の中にこの曲が流れ始めてですね。朝食をあと回しにして狩ることにしました。メンテが始まるまで正味1時間ほど。場所はじゅう]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[対人装備の強化(異次元)]]></title>
         <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202204130000/</id>
