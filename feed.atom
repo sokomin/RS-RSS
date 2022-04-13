@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-13T21:34:26.674Z</updated>
+    <updated>2022-04-13T21:48:04.677Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1366,50 +1366,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <summary type="html"><![CDATA[どうせまとめる日が変わるだけ【配布品】・カムバック第1期公式のあれ【チャレンジイベント】3/30(水)メンテまで。3つのチャレンジにクリアすると抽選でアイテムがもらえる。それぞれ3000名だから外れにくいかな？以下その内容。① クリーチャー冒険7回以上クリア② ギルドデイリークエスト25回以上クリア③ レイドで紛失した冒険団Box1回以上入手…17周年にちなんで17回以上でよかったんでは？無課金だと2キャラこなさないと足りない]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.3.15 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/6ae04600017e95ee70db2fa941611d66</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/6ae04600017e95ee70db2fa941611d66?fm=rss"/>
-        <updated>2022-03-15T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[3月も半ばです。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3月2日メンテ後から3月30日メンテ前まで
-
-
-BINGOのマスが随分埋まってきました。
-２列くらいそろったかな。
-チリも積もれば・・・ってやつですかね。
-いろいろアイテムゲットできればと思います。
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
