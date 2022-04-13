@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-13T15:51:12.520Z</updated>
+    <updated>2022-04-13T16:31:56.831Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1420,16 +1420,6 @@ BINGOのマスが随分埋まってきました。
         <summary type="html"><![CDATA[☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..チャレンジイベント確か以前に開催された気がしますが。イベントとしてはタイトル通りの内容と言いますか・・・。イベント内のチャレンジその1～4まであるのでそれらをクリアするだけですね。その1はクリーチャー冒険を7回以上クリアする事。その2はギルドデイリークエストを25回以上クリアする事。その3はレイドボスで紛失した冒険団Boxを1回以上入手する事。その4はその1～3を全て]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】風船イベント中間状況]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-893.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-893.html"/>
-        <updated>2022-03-15T04:00:50.000Z</updated>
-        <summary type="html"><![CDATA[風剣士　Lv1173雨アチャ　Lv1026雨アチャはマキナ分のみ収容所B3で狩り。風船3種持たせてパワキも出してるから、れべるはなかなかの上がり具合。W致命打抵抗DX 後退転倒抵抗DXレイヤーブルーの装備Lv1062まで上げる予定。風船イベント中に上げたい。先日の石の日も会社休んで狩りした風剣士は、星谷がきつくなるLv1170台に突入。星谷以外の狩場もあるけど、どこも経験値考えると星谷未満なため、飽きてはいるが粘るしかない状況。]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
