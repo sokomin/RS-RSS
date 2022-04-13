@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-13T21:48:04.677Z</updated>
+    <updated>2022-04-13T22:20:10.477Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1356,16 +1356,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <updated>2022-03-16T10:07:14.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メンテが水曜だろうが火曜だろうが、俺には関係ねぇ]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-824.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-824.html"/>
-        <updated>2022-03-15T10:03:48.000Z</updated>
-        <summary type="html"><![CDATA[どうせまとめる日が変わるだけ【配布品】・カムバック第1期公式のあれ【チャレンジイベント】3/30(水)メンテまで。3つのチャレンジにクリアすると抽選でアイテムがもらえる。それぞれ3000名だから外れにくいかな？以下その内容。① クリーチャー冒険7回以上クリア② ギルドデイリークエスト25回以上クリア③ レイドで紛失した冒険団Box1回以上入手…17周年にちなんで17回以上でよかったんでは？無課金だと2キャラこなさないと足りない]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
