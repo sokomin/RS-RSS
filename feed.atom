@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-13T09:48:12.336Z</updated>
+    <updated>2022-04-13T10:24:29.320Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[遅れる実装とアプデと…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-835.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-835.html"/>
+        <updated>2022-04-13T10:11:43.000Z</updated>
+        <summary type="html"><![CDATA[あ、今年も金鯖はあるんだ…あと来週からGW企画が始まるらしいよ？【お死らせ】・４月に予定したアプデは5/18(水)に変更となりました・このアプデで実装予定だった新職は7月に延期します一応金鯖前に実装するため、今年の金鯖で育てることはできるみたいです。3日で1000レベ？！あとは来週からGW企画がスタートとちゃっかり書いてる…。その詳細がこちらとなります【配布品とか】・チャレンジイベント・17周年カムバック第2弾公式の]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ギリギリchop]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-953.html</id>
@@ -1388,15 +1398,6 @@ BINGOのマスが随分埋まってきました。
         <summary type="html"><![CDATA[気づけば、梅花の美しい季節が来ていました。ごきげんよう。ビオラもまだまだ元気ですし、オステオスペルマムの華やぐ色合いも素敵です。コロナショックだけでも大打撃な中、ウクライナでは戦争が始まってしまったりとつらいニュースが多いですね。何をしていてもストレスがつきものの現在ですけれど、だからこそ心身の健康を心がけることが大切だと思っています。心や体がまず元気でないと、建設的なことがしたいと思っても難しい]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ネクロを１からガチで育ててみた　その１]]></title>
-        <id>https://www.youtube.com/watch?v=EKikzYq6-x4</id>
-        <link href="https://www.youtube.com/watch?v=EKikzYq6-x4"/>
-        <updated>2022-03-14T21:48:01.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
