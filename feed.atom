@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-14T11:48:32.845Z</updated>
+    <updated>2022-04-14T12:41:29.272Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OP要求Lvについて]]></title>
+        <id>kaze.gg-blog.com://entry/168</id>
+        <link href="http://kaze.gg-blog.com/verification/op%E8%A6%81%E6%B1%82lv%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"/>
+        <updated>2022-04-14T11:52:49.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+さて最近、1100DXUなども出てきて
+装備を作りたくても要求Lvが気になったりしていませんか？
+そこで、主要なOPをTOP(3OP)にしたときの
+
+
+
+
+赤石の民衆 様より)
+( [OP1] ) + ( [OP2] × 2/3 ) + ( [OP3] × 1/3 )
+( [OP1] × 3/4 ) + ( [OP2] × 1/4 ) + ( [OP3] × 1/20 )
+e？
+装備によって解放したときの装備Lvを知りたい？
+赤石の民衆 様へGO！
+
+
+
+私が何をしたっていうの…
+
+
+
+ではまた。]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.4.13 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/193dc17289a02e586d861ae61e58daac</id>
