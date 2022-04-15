@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-15T15:22:53.536Z</updated>
+    <updated>2022-04-15T15:51:08.336Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1378,16 +1378,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <summary type="html"><![CDATA[レッドストーン休止しますノんー、、、まー、パソコンガードも解除コードで復帰できる説もあるがとりあえず、休止ヤル気でたら復帰するおbb]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】17周年ロトをインゴ換算してみた]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-894.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-894.html"/>
-        <updated>2022-03-17T03:25:20.000Z</updated>
-        <summary type="html"><![CDATA[1回限りのラグジュアリーセット30,500円を購入すると、インゴどれくらい獲得できるの？という素朴な疑問がチャットに流れたため、ざっくり考えてみた。※S鯖基準まず、必ずもらえるラグジュアリーボックス。4種類のチケットが均等確率で出るらしいから、売買相場から平均売値を求めると以下。350250150608080120120平均150本17周年ULT※詳細略　テケトー計算平均350本17周年DX※詳細略　テケトー計算平均50本×4  200本17周年無印※詳細]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
