@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-15T15:51:08.336Z</updated>
+    <updated>2022-04-15T16:33:38.836Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1368,16 +1368,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <summary type="html"><![CDATA[突然のブルースクリーンからの電源OFF…一年前くらいからなんかおかしいなとは思ってたけど、突然の死+電源オフはちょっとねぇ正直もうちょっとあとで買い替えようと思ってたけど…仕事落ち着いたらにしよう。買い替えるまでは突然の死に恐怖を感じながらログインの処理をしなければ…。こうやって更新してるときに死ぬときもあるかもたったそれだけの更新。]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パソコン壊れたので休止]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=533</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=533"/>
-        <updated>2022-03-17T04:00:13.000Z</updated>
-        <summary type="html"><![CDATA[レッドストーン休止しますノんー、、、まー、パソコンガードも解除コードで復帰できる説もあるがとりあえず、休止ヤル気でたら復帰するおbb]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
