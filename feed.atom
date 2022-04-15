@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-15T07:48:13.529Z</updated>
+    <updated>2022-04-15T08:26:47.863Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[さて、パソコン壊れて1ヶ月]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=537</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=537"/>
+        <updated>2022-04-15T08:23:34.000Z</updated>
+        <summary type="html"><![CDATA[レッドストーン止まってるんだが？？まー、復旧はパソコンガード外すメールしなきゃだこらなーインターネットエクスプローラが6月で更新停止らしいしのー、、、あと、window11はどーなん？よくワカラン？からしばし休止のまま最近チャットしてないからニホンゴ妖しい、、...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OP要求Lvについて]]></title>
         <id>kaze.gg-blog.com://entry/168</id>
