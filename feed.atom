@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-17T03:55:43.520Z</updated>
+    <updated>2022-04-17T04:27:32.686Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】１からアルケミ・マスケ育ててみた　その２]]></title>
+        <id>https://www.youtube.com/watch?v=h1fqRwwDS1k</id>
+        <link href="https://www.youtube.com/watch?v=h1fqRwwDS1k"/>
+        <updated>2022-04-17T04:05:19.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[予定より高かったですが]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204170000/</id>
@@ -1357,16 +1366,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <updated>2022-03-18T23:51:06.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[記録としてGv装備とか色々載せておきます]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203190000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202203190000/"/>
-        <updated>2022-03-18T16:20:11.000Z</updated>
-        <summary type="html"><![CDATA[Gv小休止につき、ここまでの記録として装備等を載せておきます。・武器SP製錬ガードを買って製錬12に上げようと思っていたのですが、売っていなくて11で止まっています。・耳T健比4解放も持っていたのですが、首...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
