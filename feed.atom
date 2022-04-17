@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-17T20:21:33.294Z</updated>
+    <updated>2022-04-17T20:48:11.488Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1569,16 +1569,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <summary type="html"><![CDATA[Gv小休止につき、ここまでの記録として装備等を載せておきます。・武器SP製錬ガードを買って製錬12に上げようと思っていたのですが、売っていなくて11で止まっています。・耳T健比4解放も持っていたのですが、首...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歴戦のビーストテイマー（脳内）]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-159.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-159.html"/>
-        <updated>2022-03-19T08:26:41.000Z</updated>
-        <summary type="html"><![CDATA[冬らしい冬も終わり、過ごしやすい気温になってきました。最近は17周年のバフが便利すぎて、この効果がなくなるのに不安を覚える第三の猫です。今回は、転生ペットを捕まえに行きます。テイム対象は、天翔けるペガサス アルシウスさんです。それではさっそく、アルシウス牧場へGO。硬いと思ったら、レベル600あるのですね。作り物の翼が取れ、ペガサス詐欺が露見してしまうアルシウスさん。馬脚を露すってこういう事なのですね。次]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
