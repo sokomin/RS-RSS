@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-17T04:27:32.686Z</updated>
+    <updated>2022-04-17T04:55:09.354Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1347,6 +1347,16 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[記録としてGv装備とか色々載せておきます]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203190000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202203190000/"/>
+        <updated>2022-03-19T09:45:03.000Z</updated>
+        <summary type="html"><![CDATA[Gv小休止につき、ここまでの記録として装備等を載せておきます。・武器SP製錬ガードを買って製錬12に上げようと思っていたのですが、売っていなくて11で止まっています。・耳T健比4解放も持っていたのですが、首...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
