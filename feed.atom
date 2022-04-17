@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-17T22:20:45.996Z</updated>
+    <updated>2022-04-17T22:37:02.900Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1520,45 +1520,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <summary type="html"><![CDATA[​​​​​​みなさんこんにちは。魔法の壁です。先日LV1250となり、これからヤティカヌエリアに突入するのですが、ここから装備構成を変える予定で良い区切りなので、攻城戦の装備を晒します。といっても健康極のテン...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動き出した]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/99bd5df13f84cfe6809c11d6cd04f593</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/99bd5df13f84cfe6809c11d6cd04f593?fm=rss"/>
-        <updated>2022-03-19T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[昨日はとても寒かった。
-
-ただいま900台のMAPに挑戦中。
-
-そこにちょうどよくいる装甲ボーンキメラ。
-
-毎日は通えないので週末出来るときだけ参戦。
-おかげでずいぶんカウンターが進みました。
-だいたい１回行くと80体くらい狩れるので、＠3回くらいかな。
-3月中には終わりそうですね。
-もっとも次の討伐で萎えそうですけど(￣ω￣;)
-
-
-今年の目標で1次転生をしたいと考えていたセカンドアチャ、剣士、メイドが600を超えました。
-ほどよい時期がきたら転生かな。
-その前に黒魔を2次転生させたいところですけどねぇ
-なかなか思うようには進みません。
-こちらも根気よくやるしかないですね。
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
