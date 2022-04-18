@@ -198,16 +198,6 @@
           "wordCount": null,
           "title": "知識ランサー/アーチャー育成配信#1【 REDSTONE 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VvCen7eEObM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VvCen7eEObM",
-          "publishedOn": "2022-03-19T15:58:23.000Z",
-          "wordCount": null,
-          "title": "デイリー消化＆お掃除配信【 REDSTONE 】",
-          "imageUrl": null
         }
       ]
     },
@@ -613,6 +603,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-899.html",
+          "author": "JEFRY",
+          "description": "最近リリースされ始めたオンラインゲームは第3世代と呼ばれているらしい。自分が遊んでいるもので例えると、REDSTONEは第1世代、LOST ARKは第2世代になる様だ。各世代のカテゴライズ条件はあまり詳しく分からないが、第1世代はコンテンツを追加していくタイプで、第2世代はコンテンツがほぼ予め決めてあり、内容だけ追加していくタイプらしい。第1第2世代いずれもコンテンツの良し悪しでゲームの評価が決まり、開発や運営はコンテ",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-899.html",
+          "publishedOn": "2022-04-18T04:05:00.000Z",
+          "wordCount": 355,
+          "title": "【ゲーム全般】オンラインゲームの終焉",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-898.html",
           "author": "JEFRY",
