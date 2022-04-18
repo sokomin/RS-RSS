@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-17T23:48:16.173Z</updated>
+    <updated>2022-04-18T01:58:24.163Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GRIM DAWN 初実況初見プレイ]]></title>
+        <id>https://www.youtube.com/watch?v=fwCc-hiPnxo</id>
+        <link href="https://www.youtube.com/watch?v=fwCc-hiPnxo"/>
+        <updated>2022-04-18T00:28:19.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ティム（続）☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12737977213.html</id>
@@ -1510,16 +1519,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <updated>2022-03-19T14:14:51.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[悪魔Lv1250　対人（攻城）ステ装備]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202203190000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202203190000/"/>
-        <updated>2022-03-19T13:25:32.000Z</updated>
-        <summary type="html"><![CDATA[​​​​​​みなさんこんにちは。魔法の壁です。先日LV1250となり、これからヤティカヌエリアに突入するのですが、ここから装備構成を変える予定で良い区切りなので、攻城戦の装備を晒します。といっても健康極のテン...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
