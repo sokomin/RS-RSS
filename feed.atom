@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-18T11:48:25.338Z</updated>
+    <updated>2022-04-18T12:37:30.937Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1556,17 +1556,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <updated>2022-03-20T02:06:03.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年春・新育成ローテ]]></title>
-        <id>https://rs-clair-de-lune.com/2022-03-20/</id>
-        <link href="https://rs-clair-de-lune.com/2022-03-20/"/>
-        <updated>2022-03-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[毎年期限ギリギリまで渋っていた確定申告を2月末に終わらせたので今月はずっとルンルンな私です。 3月も中旬に差し掛かり、大分暖かくなってきましたね。関東では日中コートを着ると汗をかくくらい。
-この3月の終わりから…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
 </feed>
