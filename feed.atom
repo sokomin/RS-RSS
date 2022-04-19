@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-19T01:56:06.295Z</updated>
+    <updated>2022-04-19T03:34:24.379Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1546,16 +1546,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <updated>2022-03-20T16:33:34.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近況報告]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-739.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-739.html"/>
-        <updated>2022-03-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[隣の息子の部屋からゲラゲラと大きな笑い声が聞こえるのでどうした？と見に行ってみましたこれを見てずっと笑ってたようです私も初めに見たときはなんとも言えない切ない気持ちになりましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
