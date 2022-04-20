@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-20T06:30:26.613Z</updated>
+    <updated>2022-04-20T06:56:30.188Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1226.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1226.html"/>
+        <updated>2022-04-20T06:31:11.000Z</updated>
+        <summary type="html"><![CDATA[2週間ほど放置してしまいました。まぁ、放置してた間にあった新着イベントが1週間に1つずつだったっぽいのですけど。゜。°。°。°。°。°。°。°。゜。°。°。°。黄金週間スペシャルミッションゲームミッションとログインミッションの2種類があるみたいですね。ログインミッションは期間中にログインするだけのものですが特定の曜日にはアイテムも配布されるみたいです。こちらの開始は今日からではなく28日0時からとなるようです。ゲ]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PVP攻撃力を計算してみた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204190000/</id>
