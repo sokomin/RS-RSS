@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-20T15:25:38.394Z</updated>
+    <updated>2022-04-20T15:54:18.197Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1683,16 +1683,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <summary type="html"><![CDATA[こんばんは、まおみくさんです気づいたら一ヶ月ってあっという間ですね・・・更新していない間はもうずっと同じ毎日の繰り返し・・・と思いきや実は色々ありました。チャットで馬鹿言って笑いあって、風船狩りに...]]></summary>
         <author>
             <name>苺桜三玖</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レベリングの地獄帯域]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-895.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-895.html"/>
-        <updated>2022-03-22T03:47:09.000Z</updated>
-        <summary type="html"><![CDATA[レベリング状況風剣士　Lv1185雨アチャ　Lv1140Lv1180-1190のレベリングは、REDSTONEで最もレベルを上げづらい帯域といわれている。しかし、今はマキナがあり、風船イベントまでやっているため、レベリング嫌いな自分でも何とかなるんじゃね？と軽く考えていた。甘かったwもうレベリングヤメたいw死の荒地で1100UMUハンティングを夢見てレベリングしているが、そんな夢だけでは越えられそうにない苦行だ。中には、数日で駆け抜けて]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
