@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-21T22:48:12.335Z</updated>
+    <updated>2022-04-21T23:21:15.994Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1619,60 +1619,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <summary type="html"><![CDATA[配信用PCがSMARTエラーを出すようになったので、その対処法まとめ。ある日、配信用パソコンを起動したところこのようなエラーメッセージが出るようになりました。「 SMART 」とはハードディスクの自己診断機能の...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.3.23 イベ更新なし！]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/d1343a087d2d13d7a7ce23820b376053</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/d1343a087d2d13d7a7ce23820b376053?fm=rss"/>
-        <updated>2022-03-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[昨日は冷たい雪が降りました。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3月2日メンテ後から3月30日メンテ前まで
-
-
-年度末になってきたので忙しくなっていました。
-仕事もちょっと変わるのでなんとなく気が乗りません。
-今月は週末くらいしかゲームできないかもなぁ・・・・
-まぁ仕方ないですね。
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17周年本祭]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-952.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-952.html"/>
-        <updated>2022-03-23T10:50:21.000Z</updated>
-        <summary type="html"><![CDATA[17周年、おめでとうございます。現在は本祭イベントメインで消化しています。時間がないので協会エリアボス周回やRS更新などはお休みし、範囲職で狩りに行く日々。「おめでとう」でかかるこのすごいチャットバフ、ずっとあって欲しいです。オーラが出やすくなっている今のうちに、赤い光と討伐許可証(個人用)を可能な限り多くためることを目標にしています。ワードコレクションとビンゴも連動できるので、まめに交換しつつ。落ちる]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
 </feed>
