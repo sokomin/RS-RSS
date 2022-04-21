@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-21T03:38:42.868Z</updated>
+    <updated>2022-04-21T04:26:53.249Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[朝6の夜10の猫]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=539</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=539"/>
+        <updated>2022-04-21T03:54:04.000Z</updated>
+        <summary type="html"><![CDATA[8時間寝る時間ありゃじゅーぶんやこんちゃ、みぃでうームカシムカシは12時まで秘密待ちしてた廃な時期あるけど、その日のうちに寝る、これ基本よ！！ペカソ貯めるなら明日へのログインのために少し早いくらいに寝ること、これもーね、基本チューの基本bbまー、朝6であわた...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[転生P「ラン」☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12738526844.html</id>
@@ -1673,16 +1683,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <summary type="html"><![CDATA[イベキャンペ、配布物など、臨時メンテ…この3つだ。今回は…【不具合修正とか】・17周年ワードコレクションイベントにて、テイマサマナがイベントアイテム獲得しづらくなってたのを修正・クリーチャーの冒険枠が黒枠になっちゃうのを修正・上記不具合の補填対応…中。公式のあれこれだけである。イベキャンペは俺が置いてきた。臨時メンテは知らん、そんなことは俺の管轄外だ。それにしてもワードコレクションのアイテムが特定職だけ]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[感謝]]></title>
-        <id>https://plaza.rakuten.co.jp/maomiku4649/diary/202203230000/</id>
-        <link href="https://plaza.rakuten.co.jp/maomiku4649/diary/202203230000/"/>
-        <updated>2022-03-22T15:39:18.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは、まおみくさんです気づいたら一ヶ月ってあっという間ですね・・・更新していない間はもうずっと同じ毎日の繰り返し・・・と思いきや実は色々ありました。チャットで馬鹿言って笑いあって、風船狩りに...]]></summary>
-        <author>
-            <name>苺桜三玖</name>
         </author>
     </entry>
 </feed>
