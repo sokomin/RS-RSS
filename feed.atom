@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-22T14:48:15.199Z</updated>
+    <updated>2022-04-22T15:23:20.760Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1609,16 +1609,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <updated>2022-03-24T10:32:59.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[さて、いろいろと？？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=534</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=534"/>
-        <updated>2022-03-24T03:20:45.000Z</updated>
-        <summary type="html"><![CDATA[ふふふ、運が回ってますbbゲーム創作に力を入れて行きますbこのブログは赤石遠方見聞録となります実際にはプレイストップですノツイッターで流れてくる情報をまとめたり？？したいと思いますbbツイッターの情報はどの鯖か特定しにくいのと、実際でのプレイストップなので...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
