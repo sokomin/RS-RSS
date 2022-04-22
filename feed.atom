@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-22T03:51:17.933Z</updated>
+    <updated>2022-04-22T04:53:36.624Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハテナのハテ　ハテハテ]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=540</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=540"/>
+        <updated>2022-04-22T03:52:52.000Z</updated>
+        <summary type="html"><![CDATA[みいはなに目指してるんだっけ？？んー、、、、、まー猫は10生らしいからな？？？ニンゲンさんとはチガウのだよ！ハテハテまー、雑なゲームのフリーソース化もしたし多分？次のステップへGoやな！！オモシロいゲーム創るという目標はあるが？？一猫でヤル必要なんてないし...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[朝6の夜10の猫]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=539</id>
