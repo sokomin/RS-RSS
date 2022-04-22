@@ -4,18 +4,7 @@
       "title": "GMの抵抗ワショーイ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
-      "articles": [
-        {
-          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202201130000/",
-          "author": "そこらの民衆",
-          "description": "配信用PCがSMARTエラーを出すようになったので、その対処法まとめ。ある日、配信用パソコンを起動したところこのようなエラーメッセージが出るようになりました。「 SMART 」とはハードディスクの自己診断機能の...",
-          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202201130000/",
-          "publishedOn": "2022-03-23T22:24:51.000Z",
-          "wordCount": 197,
-          "title": "SMART Failure（SMART エラー）対応",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/8e3110ce66f36a5a1dd10386077caf5c77fd195b.10.9.9.3.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "KHBの部屋",

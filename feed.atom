@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-22T09:49:21.369Z</updated>
+    <updated>2022-04-22T10:25:48.893Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1619,16 +1619,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <summary type="html"><![CDATA[ふふふ、運が回ってますbbゲーム創作に力を入れて行きますbこのブログは赤石遠方見聞録となります実際にはプレイストップですノツイッターで流れてくる情報をまとめたり？？したいと思いますbbツイッターの情報はどの鯖か特定しにくいのと、実際でのプレイストップなので...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SMART Failure（SMART エラー）対応]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202201130000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202201130000/"/>
-        <updated>2022-03-23T22:24:51.000Z</updated>
-        <summary type="html"><![CDATA[配信用PCがSMARTエラーを出すようになったので、その対処法まとめ。ある日、配信用パソコンを起動したところこのようなエラーメッセージが出るようになりました。「 SMART 」とはハードディスクの自己診断機能の...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
