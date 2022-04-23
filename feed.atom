@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-23T01:45:53.107Z</updated>
+    <updated>2022-04-23T03:03:06.835Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黒魔術師の汎用性]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-164.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-164.html"/>
+        <updated>2022-04-23T02:16:16.000Z</updated>
+        <summary type="html"><![CDATA[皆様はユニークアイテム解放というものをご存じでしょうか？そう、「Nxユニーク」アイテムの封印された力を引き出し、Nxユニークアイテムを更に進化させるシステム（公式より引用）です。去年末から挑戦すること8回（うち3回は確率上昇中）ただの一度も解放されることはなかったのですが、ひょっとすると皆様の存じていらっしゃるユニークアイテム解放とは別物に挑戦していたのかもしれない第三の猫です。こんにちは。ついにUMU職]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[平日ですがGvに参加しました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204230000/</id>
