@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-24T14:48:12.764Z</updated>
+    <updated>2022-04-24T15:22:15.913Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ログインできない時は]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-744.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-744.html"/>
+        <updated>2022-04-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日家のPCで作業している時にこの曲を聴いていたのですが息子が感化されてゲームやり始めてました私も若い頃は悪魔合体やペルソナ合体に勤しんでいたものですカッ　のカットインがかっこよくて好きでしたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[いや夢に出てきたんだけど…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-837.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-837.html"/>
+        <updated>2022-04-24T14:57:55.000Z</updated>
+        <summary type="html"><![CDATA[どうして？って感じ事前になんか関連することやってたわけでもなく、ネタを考えていたわけでもなく…でもなぜか夢に出てきた。しかもいつも（？）出てくるのじゃないっていう。え？RS？Pass処理めんどい？あとは追記に。]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】対人環境の強職解説（物理）]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-900.html</id>
