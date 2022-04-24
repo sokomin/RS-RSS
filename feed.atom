@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-23T23:48:23.295Z</updated>
+    <updated>2022-04-24T01:44:07.028Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1620,16 +1620,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <updated>2022-03-25T21:43:48.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上位陣は風船あそびかー？？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=535</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=535"/>
-        <updated>2022-03-25T12:09:51.000Z</updated>
-        <summary type="html"><![CDATA[ツイッターに廃上げツイートでまわってるが、、、風船割れると30倍？？まはね、レベルなんて簡単に上がるように更新されていってしまうのよ、、、イベントだから、せっかくだからお祭り気分で　あげたろか、というのはイイけど、必死さがでると悲惨、、、まー、みぃたんは...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
