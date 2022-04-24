@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-24T17:00:21.400Z</updated>
+    <updated>2022-04-24T17:26:22.408Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1711,16 +1711,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <updated>2022-03-27T01:49:02.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックファイヤー文化]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-160.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-160.html"/>
-        <updated>2022-03-26T05:05:48.000Z</updated>
-        <summary type="html"><![CDATA[バウムクーヘンとガムテープって似てますよね。それに代用もきくと思うんです。ガムテープが欲しい時にバウムクーヘンしかなかったら、それを食べて一休みできますし。バウムクーヘンが欲しい時にガムテープしかなかったら、それで口をふさげば解決します。・・・代用ではないですね。さて今回は、ブラックファイヤー外郭で、装備強化をしたいと思います。ネルバさんのクエストを進めていくと、装備強化できるようになるそうです。]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
