@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-25T21:32:50.982Z</updated>
+    <updated>2022-04-25T21:48:16.103Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1779,15 +1779,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <id>https://www.youtube.com/watch?v=IUej8gYkI0U</id>
         <link href="https://www.youtube.com/watch?v=IUej8gYkI0U"/>
         <updated>2022-03-27T13:53:52.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【VAMPIRE SURVIVORS】新キャラとかやってストレス発散すっぞ！]]></title>
-        <id>https://www.youtube.com/watch?v=P-iAK9sKINE</id>
-        <link href="https://www.youtube.com/watch?v=P-iAK9sKINE"/>
-        <updated>2022-03-27T09:39:13.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>
