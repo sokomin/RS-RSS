@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-25T17:03:43.754Z</updated>
+    <updated>2022-04-25T17:40:32.518Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ONE IN ALL！]]></title>
+        <id>kaze.gg-blog.com://entry/169</id>
+        <link href="http://kaze.gg-blog.com/status/one%20in%20all%EF%BC%81"/>
+        <updated>2022-04-25T17:38:20.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+ところで、これみんな知ってた？
+
+
+
+こないだトマトから教わったんだけど
+冒険リストの上2つの赤帯の冒険に出れば
+必ず報酬、マナ(大)が貰えるってこと！
+ 
+パッシブ変換、やっとダブル水強化引けた！
+
+
+良い感じ！
+
+
+かわいいよドレアス
+
+
+ドレアス1体だけで水強化がかなり稼げるように！
+
+
+かっこいいよワンインオール
+
+
+
+ところで、いつになったらワンインオールは元に戻ることやら
+シルエットクイズじゃないんだから。。
+
+
+
+だーれだ
+
+
+
+わんいんおーる
+まだまだ知られざるクリチャに関する小技、
+あったらもっと教えてくださーい！
+
+
+
+
+またね～]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記#２５]]></title>
         <id>https://www.youtube.com/watch?v=6jenEgGw6zc</id>
@@ -1739,6 +1790,16 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <updated>2022-03-27T09:39:13.000Z</updated>
         <author>
             <name>ロイ4世</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物理弓の仲間に情報共有（狩り）]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203270000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202203270000/"/>
+        <updated>2022-03-27T07:02:42.000Z</updated>
+        <summary type="html"><![CDATA[物理弓のみなさんに朗報をお届けします。（シャープシューター覚醒の人向け）実は、物理弓でもヤティカヌ星降る以降の硬い狩場で、雑魚を瞬殺する方法があったのです。（雑魚はスプレッド２パンでいけます）エル...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>

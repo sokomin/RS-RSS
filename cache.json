@@ -536,6 +536,16 @@
           "wordCount": 94,
           "title": "最近買った物",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/0cddcbc148decf850c3795d4ff076638c4c74120.73.9.9.3.png"
+        },
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202203270000/",
+          "author": "雷神の弓",
+          "description": "物理弓のみなさんに朗報をお届けします。（シャープシューター覚醒の人向け）実は、物理弓でもヤティカヌ星降る以降の硬い狩場で、雑魚を瞬殺する方法があったのです。（雑魚はスプレッド２パンでいけます）エル...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202203270000/",
+          "publishedOn": "2022-03-27T07:02:42.000Z",
+          "wordCount": 100,
+          "title": "物理弓の仲間に情報共有（狩り）",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/6d719e4612899608347b65ea6d617baf979f3f4b.73.9.9.3.png"
         }
       ]
     },
@@ -562,6 +572,16 @@
       "feedUrl": "http://kaze.gg-blog.com/RSS/",
       "siteUrl": "http://kaze.gg-blog.com/",
       "articles": [
+        {
+          "id": "kaze.gg-blog.com://entry/169",
+          "author": null,
+          "description": "こんばんは。\nところで、これみんな知ってた？\n\n\n\nこないだトマトから教わったんだけど\n冒険リストの上2つの赤帯の冒険に出れば\n必ず報酬、マナ(大)が貰えるってこと！\n \nパッシブ変換、やっとダブル水強化引けた！\n\n\n良い感じ！\n\n\nかわいいよドレアス\n\n\nドレアス1体だけで水強化がかなり稼げるように！\n\n\nかっこいいよワンインオール\n\n\n\nところで、いつになったらワンインオールは元に戻ることやら\nシルエットクイズじゃないんだから。。\n\n\n\nだーれだ\n\n\n\nわんいんおーる\nまだまだ知られざるクリチャに関する小技、\nあったらもっと教えてくださーい！\n\n\n\n\nまたね～",
+          "link": "http://kaze.gg-blog.com/status/one%20in%20all%EF%BC%81",
+          "publishedOn": "2022-04-25T17:38:20.000Z",
+          "wordCount": 185,
+          "title": "ONE IN ALL！",
+          "imageUrl": null
+        },
         {
           "id": "kaze.gg-blog.com://entry/168",
           "author": null,
