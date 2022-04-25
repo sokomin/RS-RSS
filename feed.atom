@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-25T13:45:42.925Z</updated>
+    <updated>2022-04-25T14:20:55.763Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1740,15 +1740,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
         <summary type="html"><![CDATA[物理弓のみなさんに朗報をお届けします。実は、物理弓でもヤティカヌ星降る以降の硬い狩場で、雑魚を瞬殺する方法があったのです。（雑魚はスプレッド２パンでいけます）エルダージャガーの様な硬いMOBでも2、3秒...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ネクロを１からガチで育ててみた　番外編あくま]]></title>
-        <id>https://www.youtube.com/watch?v=IUej8gYkI0U</id>
-        <link href="https://www.youtube.com/watch?v=IUej8gYkI0U"/>
-        <updated>2022-03-27T01:49:02.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
