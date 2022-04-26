@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-26T01:58:03.441Z</updated>
+    <updated>2022-04-26T03:26:50.373Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1771,16 +1771,6 @@ REDSTONEのマナ獲得時に出現する宝コインを使ってイベント限
 では～(*´▽｀*)ﾉｼ]]></summary>
         <author>
             <name>とりくんのREDSTONEＶ鯖ブログ！</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヤティカヌ生活]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-740.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-740.html"/>
-        <updated>2022-03-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[春休み中の息子が納戸で私が昔やっていたゲームを漁っていましたが先日これを気に入ったようでやっていましたPCエンジンのHuカードソフトだったと思います某ゲームにそっくりなシステムですがBGMが結構好きで当時ハマっていた記憶がありますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
