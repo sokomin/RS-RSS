@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-26T14:23:36.435Z</updated>
+    <updated>2022-04-26T14:47:36.392Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1695,16 +1695,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[風剣士　Lv1195雨アチャ　Lv1056雨アチャはマキナ分のみ神殿B2で狩り。W致命打抵抗DX 後退転倒抵抗DXレイヤーブルーの装備Lv1062まで上げる予定だったが、予想以上に神殿B2が旨いため、風船中にLv1100まで上げようとおもう。超越スキル枠2つめを解放したいしね。風剣士は、Lv1190から狩場を荒地に移動。骸骨がたくさん湧くところで狩っているが、経験値はなかなか渋め。風船イベントが終わったらマキナ分狩るのも大変なんだろうけ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[悪魔Lv1300　狩りステ晒し（適当）]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202203280000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202203280000/"/>
-        <updated>2022-03-28T02:41:47.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。風船イベントもラストスパートという事で、Lv1300になりました。Lv1290くらいまでは新しく実装されたウエストスワンプ大空洞でソロ狩り。Lv1290からはヤティカヌ2層PTに参加し...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
