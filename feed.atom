@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-26T09:22:41.822Z</updated>
+    <updated>2022-04-26T09:49:19.774Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1705,15 +1705,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。風船イベントもラストスパートという事で、Lv1300になりました。Lv1290くらいまでは新しく実装されたウエストスワンプ大空洞でソロ狩り。Lv1290からはヤティカヌ2層PTに参加し...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【VAMPIRE SURVIVORS】新キャラとかやってストレス発散すっぞ！]]></title>
-        <id>https://www.youtube.com/watch?v=P-iAK9sKINE</id>
-        <link href="https://www.youtube.com/watch?v=P-iAK9sKINE"/>
-        <updated>2022-03-27T21:44:36.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
