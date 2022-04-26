@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-26T03:26:50.373Z</updated>
+    <updated>2022-04-26T04:09:56.096Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お詫びと訂正]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-838.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-838.html"/>
+        <updated>2022-04-26T03:26:59.000Z</updated>
+        <summary type="html"><![CDATA[3/31より開始したしょっぱい方のルーレットですが、当ブログでは終了日時を間違えて記載していました。正しい時刻は以下のとおりです。ルーレット締め切り　4/25(月)23:59までコイン交換締め切り　4/26(火)23:59までルーレットにつきましては、すでに終了しております。大変申し訳ございません。なお、コインの交換も本日（4/26）までとなっております。10コインで黒い羊カーペットと交換ができますので、お忘れなく…ただでさえメ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ONE IN ALL！]]></title>
         <id>kaze.gg-blog.com://entry/169</id>
