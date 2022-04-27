@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-27T06:28:16.458Z</updated>
+    <updated>2022-04-27T06:56:09.341Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1227.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1227.html"/>
+        <updated>2022-04-27T06:27:26.000Z</updated>
+        <summary type="html"><![CDATA[今回は・・というか今回も、と言うべきなのかまぁ、特に目新しいイベントというわけでもないのでさっくり短く紹介です。:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::REDsRoulette今回で・・・3回か4回目くらいでしたっけ？このイベント。ゲームにログインしてから公式サイトにあるイベントページにてルーレットを開いてボタンを押すと1日1枚コインをもらえるのでそのコインでルーレットに挑戦するだけです。詳しい]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[さようならチャットバフ]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-954.html</id>
