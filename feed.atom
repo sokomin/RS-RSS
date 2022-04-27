@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-27T02:00:53.350Z</updated>
+    <updated>2022-04-27T03:49:43.082Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[さようならチャットバフ]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-954.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-954.html"/>
+        <updated>2022-04-27T02:34:35.000Z</updated>
+        <summary type="html"><![CDATA[台風のような一夜が明けて、また気温が高くなりそうです。すみれは冬の花なので暑さと湿気に弱く、たいてい梅雨を越せません。種はたくさん採取してあるので、夏の終わり頃に改めて撒いて育てようと思います。庭では、春～初夏の花が育ち始めています。この斑入りツルニチニチソウの開花が、春の楽しみのひとつです。もともとは、数年前の台風明けに庭に落ちていた、20㎝くらいのちぎれた蔓でした。植えてみたところうまく根付いて]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[姫プリ対戦☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12739529433.html</id>
