@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-27T19:48:12.613Z</updated>
+    <updated>2022-04-27T20:24:50.909Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1752,16 +1752,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[REDSTONEのレアイベント、風船が終了した。老体に鞭打ってレベリング頑張ったんで、それなりに満足しつつも、疲労困憊かつ体の節々が痛くて、当分まったりを決意wやはり、今のREDSTONEはVPCによる自キャラとのペア狩りという、本来形ではないレベリングが当たり前になっていて、個人的には違和感しかない。やろうと思えばスペックや手順は全く問題ないんだけど、それはもはやREDSTONEではないよね？という感覚があるので、攻城戦参]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マネーの原則　ゲーム理論]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=536</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=536"/>
-        <updated>2022-03-29T08:06:53.000Z</updated>
-        <summary type="html"><![CDATA[RSは、新職が出るのかー、、、新しいことを始めるとお金が動く原則ファッション！！サブ！？新規？？まー、イロイロあると思うけどお金は楽しいバカンスタイムに♪楽しくアソんで、楽しくスゴすんで、お金を、はばたかせてあげる☆パソコン環境用意してる時点でお金、かかっ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
