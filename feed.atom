@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-28T15:25:33.338Z</updated>
+    <updated>2022-04-28T15:53:05.192Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1742,16 +1742,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[当たり前のことですが、このブログにRSで起こった事、買った物、持っている物などの全て載せているわけではありません。というわけで、載せていなかったここ最近の買った物を載せてみたいと思います。これ激安だ...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】４月からの遊び方]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-897.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-897.html"/>
-        <updated>2022-03-30T03:35:31.000Z</updated>
-        <summary type="html"><![CDATA[REDSTONEのレアイベント、風船が終了した。老体に鞭打ってレベリング頑張ったんで、それなりに満足しつつも、疲労困憊かつ体の節々が痛くて、当分まったりを決意wやはり、今のREDSTONEはVPCによる自キャラとのペア狩りという、本来形ではないレベリングが当たり前になっていて、個人的には違和感しかない。やろうと思えばスペックや手順は全く問題ないんだけど、それはもはやREDSTONEではないよね？という感覚があるので、攻城戦参]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
