@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-28T18:28:34.423Z</updated>
+    <updated>2022-04-28T18:55:00.069Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1732,16 +1732,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[数がちょっと多めなんでさくさくと。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..Discord公式サーバー開設記念キャンペーン重要のほうに入れるべきか考えたんですけどまぁ、イベントのほうでいいかという事で。見ての通り、公式のディスコード開設されたらしいです。賞品は抽選100名にウェブマネー2000円分でしたね。キャンペーン内容と参加手順を公式サイトのキャンペーンページをご覧ください。☆.。.:*・°☆.。.:*・°☆.。.:*・]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近買った物]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203300000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202203300000/"/>
-        <updated>2022-03-30T06:35:22.000Z</updated>
-        <summary type="html"><![CDATA[当たり前のことですが、このブログにRSで起こった事、買った物、持っている物などの全て載せているわけではありません。というわけで、載せていなかったここ最近の買った物を載せてみたいと思います。これ激安だ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
