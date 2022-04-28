@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-28T18:55:00.069Z</updated>
+    <updated>2022-04-28T19:18:44.626Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1672,6 +1672,16 @@ V鯖
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近買った物]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202203300000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202203300000/"/>
+        <updated>2022-03-30T18:28:18.000Z</updated>
+        <summary type="html"><![CDATA[当たり前のことですが、このブログにRSで起こった事、買った物、持っている物などの全てを載せているわけではありません。というわけで、ブログに載せていなかったここ最近買った物をお見せしたいと思います。こ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
