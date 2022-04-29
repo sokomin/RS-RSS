@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-29T15:52:17.046Z</updated>
+    <updated>2022-04-29T16:32:57.268Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[要チェックですよ～]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204300000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202204300000/"/>
+        <updated>2022-04-29T16:15:23.000Z</updated>
+        <summary type="html"><![CDATA[ギルド Re:Birth にHPが出来ました！​​リバースHP（作成者dokuringo)​​まだ大枠が出来ただけですが、今後中身の方も充実していくはず！だよね？全１光奏師であり、リバースのアイドル的存在でもある dokuringo様...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DiscordでWEBマネー当たった]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204270000/</id>
