@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-30T13:51:18.296Z</updated>
+    <updated>2022-04-30T14:20:12.512Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -71,6 +71,16 @@ B
 最近ﾈﾀがないぬ。]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[約束の地は何も約束してくれていなかった…！]]></title>
+        <id>https://rs-clair-de-lune.com/2022-04-30/</id>
+        <link href="https://rs-clair-de-lune.com/2022-04-30/"/>
+        <updated>2022-04-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[あれよあれよと気づけばGWが差し迫る4月末日。今月は天気・気温とも三歩進んで二歩下がるが如く、冬の残り香と夏の先走りのバトルが繰り広げていた気がします。 当の私は毎日のログインは欠かさずとも、せっかくの17周年バフやRS…]]></summary>
+        <author>
+            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
     <entry>
