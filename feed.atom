@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-30T10:23:37.281Z</updated>
+    <updated>2022-04-30T10:49:15.850Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1691,17 +1691,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[生きてます。久しぶりに近場を歩いたら川沿いの桜並木が満開🌸春です。大事を取り過ぎて筋力落ち過ぎ、、、ヤバい(￣▽￣;)軽い運動→しんどくなる→横になるを繰り返す悪循環を何とかせねば天気悪いと体調悪ワルなるし調子いい時は、身体も楽で元気になったんじゃ？って勘違いして動き過ぎて後悔(´▽`;) '`'`まあ、ボチボチ無茶しなければ大丈夫な感じかな？o(≧∇≦)oﾌﾚｰ!!ﾌﾚｰ!!]]></summary>
         <author>
             <name>ユンユン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年1～3月総括【RED STONE】]]></title>
-        <id>https://chorrealism.com/?p=3153</id>
-        <link href="https://chorrealism.com/redstone/play-record/su220331/"/>
-        <updated>2022-03-31T22:36:22.000Z</updated>
-        <summary type="html"><![CDATA[全然更新していなかったけど生きてます！！特に3月はやるべきことはやりつつも、余暇はすべてRSに回すぐらい頑張っていた。どうせLv1550まで上げるのなら、楽できるうちに無理してでも狩った方がいいに決まっている！！ 前回の […]
-The post 2022年1～3月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
 </feed>
