@@ -805,7 +805,18 @@
       "title": "ジェンド日記",
       "feedUrl": "http://jendoradoo.blog.fc2.com/?xml",
       "siteUrl": "http://jendoradoo.blog.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-322.html",
+          "author": "ジェンド",
+          "description": "やる事がすべて終わったかと言われるとまだ終わってない事が多少ありしかも新しくやる事が増えてる状況ではあるのですがそれでも時間に少し余裕が出てきたのでＧＷという事もあり帰省という名目でＲＳに遊びに来ていました＾＾ただ、現在のわたしの生活では夜にインする事が困難なため主な活動時間は朝～午後までで途中用事のため放置やログアウトを小まめにしてる感じです！申し訳ないですが攻城や前みたいに夜秘密などは今ちょっ",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-322.html",
+          "publishedOn": "2022-05-01T02:00:00.000Z",
+          "wordCount": 271,
+          "title": "ＧＷの一時帰省",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "その槍の名前はフラジールニップ",
@@ -973,18 +984,7 @@
       "title": "すべては戦士の地位向上のために【現実弱化90%ドラツイ】",
       "feedUrl": "http://miroquois.blog.fc2.com/?xml",
       "siteUrl": "http://miroquois.blog.fc2.com/",
-      "articles": [
-        {
-          "id": "http://miroquois.blog.fc2.com/blog-entry-112.html",
-          "author": "Raretsu",
-          "description": "R氏「相も変わらず騒々しい。大の大人がかように狼狽えるなど…坐して悠然と構える事こそが我が信n」S君「我々の家、ギルドホールが崩壊しました！」R氏「ばっばかなあそんなはずはない！！！」S君「疑うなら試してみてください！」R氏「ばっばかなこんなはずは！！！」R氏「いや冷静になれ。冷静に、裏側にn.hと書いてある神秘的な時計を用いれば…」R氏「よし。やはり冷静さこそが肝心k」S君「閣下！家の中がめちゃくちゃです！」R",
-          "link": "http://miroquois.blog.fc2.com/blog-entry-112.html",
-          "publishedOn": "2022-04-01T14:44:55.000Z",
-          "wordCount": null,
-          "title": "慣れ親しんだ我が家の崩壊",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "丸い龍と蟻【Rebirth】",
