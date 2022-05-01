@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-01T11:48:08.980Z</updated>
+    <updated>2022-05-01T12:36:49.676Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム全般】　DIABLO IMMORTAL　リリース日決定]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-901.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-901.html"/>
+        <updated>2022-05-01T12:34:42.000Z</updated>
+        <summary type="html"><![CDATA[遂にサービス開始日が発表になった。ディアブロ イモータル（DIABLO IMMORTAL）6/3にPCとスマホ同時リリースかつ、クロスプレイ可能。胸熱と言わざるを得ない！しかも、今回のディアブロは「MMOARPG」（大規模マルチプレイヤーオンラインアクションRPG）らしい。REDSTONEやLOST ARKも楽しいが、やはり惰性プレイ感は否めず、DIABLOのMMOARPGとあっては乗り換えずにはいられない。ヌリカベよ、また浮気する俺を許してくれ！ていうか]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#2【REDSTONE】マスケ１から育成してみた]]></title>
         <id>https://www.youtube.com/watch?v=jzAdIFeGTwQ</id>

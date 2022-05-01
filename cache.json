@@ -643,6 +643,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-901.html",
+          "author": "JEFRY",
+          "description": "遂にサービス開始日が発表になった。ディアブロ イモータル（DIABLO IMMORTAL）6/3にPCとスマホ同時リリースかつ、クロスプレイ可能。胸熱と言わざるを得ない！しかも、今回のディアブロは「MMOARPG」（大規模マルチプレイヤーオンラインアクションRPG）らしい。REDSTONEやLOST ARKも楽しいが、やはり惰性プレイ感は否めず、DIABLOのMMOARPGとあっては乗り換えずにはいられない。ヌリカベよ、また浮気する俺を許してくれ！ていうか",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-901.html",
+          "publishedOn": "2022-05-01T12:34:42.000Z",
+          "wordCount": 362,
+          "title": "【ゲーム全般】　DIABLO IMMORTAL　リリース日決定",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-900.html",
           "author": "JEFRY",
           "description": "REDSTONEの動画を漁っていたら、対人環境の物理強職を解説してある動画を発見。何となくしか理解していなかったことの理解が深まったため纏めてみた。1キャラ目　犬（リニア）「強い点」・体力比例ダメージにより、最大で自身のHP500%を追加で与える。・体力比例ダメージに致命打が適用される（運で勝ればダブクリ昇華）。・致命打率15%以上確定（相手の致命打抵抗無視）追加ダメージに致命打が適用され、かつ相手の抵抗無視で致命",
