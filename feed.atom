@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-01T15:51:24.394Z</updated>
+    <updated>2022-05-01T16:31:00.071Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1762,16 +1762,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[春らしくなってきましたね。近所でもさくらが咲き始めました。さくらは管理された街路樹のものより、土手などに生えている野生のものが好きな、第三の猫と書いてネコオブザダイサンです。1日遅いうそです。この前気づいたのですが、風の羽[E]にコスチューム強化不可がついてますね。布面積に不安があるからでしょうか、今はまだこれを着た姿を拝むことはできないみたいです。とりあえず今姿を拝むことができるのはこちら、デリンさ]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遺物ヘクター復活]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204020000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202204020000/"/>
-        <updated>2022-04-02T03:51:42.000Z</updated>
-        <summary type="html"><![CDATA[聖戦の敵致命減少15％がなくなると、中ボスに白ダメが少し出てしまっていたので、今までチェンスク+聖戦で狩りをしていました。しかし、敏捷を上げて致命打率を上げると中ボスにも白ダメが混ざらなくなることが判...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
