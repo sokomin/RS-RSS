@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-02T12:42:25.508Z</updated>
+    <updated>2022-05-02T13:40:47.900Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1735,41 +1735,6 @@ MARCH  UPDATE -->
         <updated>2022-04-03T01:46:00.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最終装備？]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/2f79a731e8e2c1985781e7e4d064f530</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/2f79a731e8e2c1985781e7e4d064f530?fm=rss"/>
-        <updated>2022-04-03T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[春眠暁を覚えず。
-
-それなりの装備になりました(・ω・)b
-
-もともとこれが最終装備でいいかと思っていました。
-
-やっぱこっちの方が強いよね(笑)
-
-グラは測定不能のほうが好きだな(´・ω・`)
-
-
-さて、次は誰の装備を揃えようかな。
-揃えたいのはWIZくんかメインアチャなんだよね(￣ω￣;)
-他はまだ4転してないし。まだまだ先の話ですね。
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
