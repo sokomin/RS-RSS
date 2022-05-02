@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-02T15:54:42.841Z</updated>
+    <updated>2022-05-02T16:34:25.681Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1708,24 +1708,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[4月1日と言えばエイプリルフールですが息子はとても待ち望んでいたようですゲーセンの某太鼓ゲームに毎年エイプリルフール専用の新曲が出るからです今年は彁の裏譜面だったそうで実際に上級者のプレイをゲーセンで見て一緒にはしゃいできたそうですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ELDEN RING】アクション超下手が死にゲーやるぞ　その２]]></title>
-        <id>https://www.youtube.com/watch?v=bLdALjH1NsE</id>
-        <link href="https://www.youtube.com/watch?v=bLdALjH1NsE"/>
-        <updated>2022-04-03T04:09:15.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識ランサー/アーチャー育成配信#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=lqHsY6_OFWo</id>
-        <link href="https://www.youtube.com/watch?v=lqHsY6_OFWo"/>
-        <updated>2022-04-03T04:06:01.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
