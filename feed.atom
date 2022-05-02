@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-02T09:49:22.713Z</updated>
+    <updated>2022-05-02T10:26:47.890Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[弱体化調整に定評のあること…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-840.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-840.html"/>
+        <updated>2022-05-02T09:58:07.000Z</updated>
+        <summary type="html"><![CDATA[ま～た弱体化して調整してるよ…あ、隣の国情報だけどね。そのうちこっちでもよほどのことがない限りは同じようなことをするんじゃないかな？強すぎるから！って理由だろうけど、違うそうじゃないってことが多い気がするけど今に限ったことじゃなかった。RSのほうは相変わらずRSPassの処理程度しか行ってません。一日に130ポイントまで稼げるようになり、期限はそんな変わらないから余裕ができるほどです。アップグレードのあれ使う]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ファンサイト　ランクイン]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=543</id>
