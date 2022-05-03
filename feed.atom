@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-03T09:22:02.240Z</updated>
+    <updated>2022-05-03T09:49:16.241Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1688,15 +1688,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[↑前回のクリスマスコクーンキャンペから抜粋あれは嘘だ…いやうん、合成でHRのクリスマスコクーン限定のが出てたからそのうち出るんだろうなとは思っていた。しかしいつくらいからそうなってたんだろう…仕様なのか実際と異なる挙動なのかはわかりま千円それだけの更新です。超絶短い]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#2【ELDEN RING】アクション超下手が死にゲーやるぞ]]></title>
-        <id>https://www.youtube.com/watch?v=bLdALjH1NsE</id>
-        <link href="https://www.youtube.com/watch?v=bLdALjH1NsE"/>
-        <updated>2022-04-03T21:22:29.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
