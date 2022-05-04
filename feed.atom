@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-04T10:25:08.730Z</updated>
+    <updated>2022-05-04T10:50:49.369Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[連合Gvに参加しました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205040000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202205040000/"/>
+        <updated>2022-05-04T10:28:10.000Z</updated>
+        <summary type="html"><![CDATA[​まずは、結果から！動画からキャプチャーしたので小さくて見にくいです。見てのとおりボコボコでしたｗこちら20名ほどの参加に対して、S鯖は40名↑はいたのではないでしょうか。もう、どこに行っても敵しかいなく...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水毒アルケミ育成配信#3【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=e8ApJJg6iXc</id>
