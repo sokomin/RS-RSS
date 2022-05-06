@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-06T11:48:16.944Z</updated>
+    <updated>2022-05-06T12:40:54.571Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[捕食者フクロウ]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-166.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-166.html"/>
+        <updated>2022-05-06T12:21:01.000Z</updated>
+        <summary type="html"><![CDATA[暖かい日が続くので、ノートパソコン用冷却台を準備しました。PCの下に置くタイプなので、必然的にタイピング位置が高くなります。この配置でREDSTONEをプレイするのは今年が最初なので、何か見つけた時の理由づくりがはかどりますね。こんばんは、雑な理由づけに定評のある第三の猫です。まずは今週の報告から、第3回「RED STONE PASS」の記念品、絨毯キットエンブレム（フクロウのポケットベル）を手に入れました。このアイテム]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄金週間スペシャルミッションを消化する会【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=XhMB7mk9dVw</id>
+        <link href="https://www.youtube.com/watch?v=XhMB7mk9dVw"/>
+        <updated>2022-05-06T12:12:15.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マネー、こいこい]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=545</id>
