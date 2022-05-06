@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-06T07:48:09.682Z</updated>
+    <updated>2022-05-06T08:28:10.276Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マネー、こいこい]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=545</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=545"/>
+        <updated>2022-05-06T08:27:12.000Z</updated>
+        <summary type="html"><![CDATA[ダウ下がって、日経は上がって、、、んー、、、？？みぃにはダメージあるような、ないようなオーストラリアに　そこそこ入れてたから総合はプラスだにー☆とはいえ、リスク正常化しないとなー？？日本株は上がってくよ、タブンネモノ値上げでその分、株も必要になる円安だ...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゴールデン終、袖口めくる]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=544</id>
