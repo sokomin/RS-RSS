@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-06T03:08:22.383Z</updated>
+    <updated>2022-05-06T03:49:15.518Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゴールデン終、袖口めくる]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=544</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=544"/>
+        <updated>2022-05-06T03:30:43.000Z</updated>
+        <summary type="html"><![CDATA[お休みはいかがお過ごしでしたでしょうか？みーたんは、ゲームと読書メイゴンをノートに書き出すノやってたおーbbカーレンダーより早く、シャツの袖口まくって♪もう、ナツにすぐ突入ですなー！お？？射手座的には今年の5月は、才能を開花させるチャンス？？？ストイックよ...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B鯖 冒険家協会バー　定点観測 【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=LsXqXL6osT0</id>
