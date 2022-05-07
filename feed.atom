@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-07T11:48:30.280Z</updated>
+    <updated>2022-05-07T12:36:15.454Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スペシャルミッションの後半戦]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-842.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-842.html"/>
+        <updated>2022-05-07T12:25:03.000Z</updated>
+        <summary type="html"><![CDATA[とうとう折り返したというべきなのか…後半期間のミッションはややめんどう？な感じ。5/18(水)のメンテまでだから期間12日くらいを想定すれば猶予はそれなり…？対象と説明。⑧U品をモンスターから10個以上獲得討伐を使って乱獲するのが最短。確定1個だから10回ぶん回せばおしまい⑨ディメンション・ハブ5回以上クリア複数キャラがいるなら短縮可能だが、5日かけてクリアするようなイメージ⑩混沌の大地5回以上クリア1～3段階のうち、め]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[連合Gv　V鯖戦]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205070000/</id>
