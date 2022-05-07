@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-07T03:48:43.266Z</updated>
+    <updated>2022-05-07T04:27:38.826Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[連合Gv　V鯖戦]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205070000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202205070000/"/>
+        <updated>2022-05-07T04:11:45.000Z</updated>
+        <summary type="html"><![CDATA[まず結果から貼ります。S鯖戦以上の大差での敗戦となりました。V鯖の皆様、対戦ありがとうございました。こちらの参加人数はS鯖戦より数人増えていましたが、それでも相手側は２倍くらいいたような気がします。（...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[捕食者フクロウ]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-166.html</id>
