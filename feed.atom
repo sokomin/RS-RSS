@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-08T14:47:46.976Z</updated>
+    <updated>2022-05-08T15:22:42.235Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GWを終えて]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-746.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-746.html"/>
+        <updated>2022-05-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GW連休は実家に行ってきました親戚が来ていて産まれたばかりの赤ちゃんを抱っこさせていただきました私はこれを思い出してしまいましたうちの子は産まれたとき小さかったのですが親戚の赤ちゃんは結構重かったですね元気に育ってほしいものですねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】もはやお約束]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-903.html</id>
@@ -1758,16 +1768,6 @@ MARCH  UPDATE -->
         <updated>2022-04-09T05:11:14.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完ぺきな作戦]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-162.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-162.html"/>
-        <updated>2022-04-09T02:49:06.000Z</updated>
-        <summary type="html"><![CDATA[ルーレット（コインかける方）が来ましたね。前回の第三の猫はひたすらにコインを失い続けましたが、今回の第三の猫は完ぺきです。なぜなら、完ぺきな作戦を思いついたからです。そう、ルーレットを１度も回さずにコインを交換すればいいのです。交換するのは完ぺきに焦げちゃった黒い羊！実に完ぺきですね。まあ、いつものはらはら全賭けによって既にコインを減らしていなければ、もっと完ぺきだった気もしますが、次の第三の猫は]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
