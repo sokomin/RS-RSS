@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-08T18:54:37.998Z</updated>
+    <updated>2022-05-08T19:18:19.195Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1768,16 +1768,6 @@ MARCH  UPDATE -->
         <updated>2022-04-09T09:24:55.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エクスペリエンス指はNPCで買えますよ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204090000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202204090000/"/>
-        <updated>2022-04-09T07:15:41.000Z</updated>
-        <summary type="html"><![CDATA[露店を見ていていつも思うのは、これを知らない人が多いなってことです。アウグスタで買えますからね。（時間によっては買えないけど）では、また次回の更新でお会いしましょう。]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
