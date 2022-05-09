@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-09T11:48:12.244Z</updated>
+    <updated>2022-05-09T12:41:24.733Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1736,39 +1736,6 @@ MARCH  UPDATE -->
         <updated>2022-04-10T03:52:42.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[久々に神秘鏡!!]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/2f8732ba9f2d56d2ec9e41ee4658266c</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/2f8732ba9f2d56d2ec9e41ee4658266c?fm=rss"/>
-        <updated>2022-04-10T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[昨日に続いて今日も暖かくなりそうですね。
-
-銀行圧迫しているので、適当に使わないとね(´・ω・`)
-
-威厳比ワーム
-
-さて・・・・いきますか・・・・
-
-破壊された (´；ω；｀)ﾌﾞﾜｯ
-イベント期間中とはいえ、そう上手くはいきませんね。
-仕方ないです。
-インベントリが2個すきりしたということでよしとしましょう、
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ</strong]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
