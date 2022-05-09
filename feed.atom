@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-09T15:53:26.394Z</updated>
+    <updated>2022-05-09T16:34:44.266Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1727,15 +1727,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[風剣士が遂に！狩場は既に荒地にシフトしているが、風船以降まともには狩ってない。日々、ディメンションだけは欠かさず通い、何とかLv1200に到達した。今後は週末に可能な限り荒地で狩って、Lv1250を目指したい。ヤティカヌで狩りたいわけじゃなく、あくまで目標として目指したい(ヤティカヌ無理ｗ)風船後、狩り疲れて活動が穏やかになることを危惧した運営が、買い取り強化とオーライベントをぶつけてきた。みんなに狩りしまくっ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】１からアルケミ・マスケ育ててみた　その１]]></title>
-        <id>https://www.youtube.com/watch?v=ftjPY1d3WRc</id>
-        <link href="https://www.youtube.com/watch?v=ftjPY1d3WRc"/>
-        <updated>2022-04-10T03:52:42.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
