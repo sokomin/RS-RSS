@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-10T02:42:00.416Z</updated>
+    <updated>2022-05-10T03:31:22.811Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1610,26 +1610,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[テイル改がGvでも有効だと分かったので、スプレッド+インター+シャドウ（テイル改で強化）のビルドに向けた装備を作成してみました。そんな大した品ではありませんが、この２つのどちらかを使ってみようかなと思...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[絨毯キットエンブレムについて]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-742.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-742.html"/>
-        <updated>2022-04-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日仕事帰りに駅の近くを歩いている時にコインパーキングの前で電話をしている人を見ましたトラブルのようで最近良く見かける光景でもあります理解して使うと非常に便利なものですが金額設定の注意を知らずに長時間使うと大変な事になります気をつけないといけないですねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[思った以上に苦しんだ…]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-833.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-833.html"/>
-        <updated>2022-04-10T14:54:36.000Z</updated>
-        <summary type="html"><![CDATA[鼻水と歯の痛みがダブルでだ。鼻水本当に止まらないし、謎の奥歯痛みで寝るのもつらいっていう…。今はその二つともに終息したけど、代わりに咳が止まらない。これが代償ですか…果たして土曜日までに治るのだろうか？！食欲は平常運転だったから栄養多めにぶちこんだまぁ、そんな感じだったから土曜日はログインも何もできずで。今日はそこそこ体調が元に戻ってきたので、無理しない程度にPass処理。休日ぶっつぶれてしまったけども]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
