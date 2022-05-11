@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-11T05:02:34.950Z</updated>
+    <updated>2022-05-11T05:42:51.204Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1601,6 +1601,16 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[今…更？よくわからんが、よし！！武器は知らんよ！【共通して言えること】・係数は800DXUと同じらしいから割と出やすい。ごみでも分解しておいしい・その割に性能は775UltUを超えたり超えなかったりする・立ち位置としては800DXUと同じ。競合相手が1000UltUになった感じ・DXUのため、DXOPをつけると装備レベルが大変なことになる・解放でレベル-180を持つため、素の状態なら920から装備可能です。協会OPやディなんとかOPを差し込み]]></summary>
         <author>
             <name>Trailblazer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物理弓の新しいビルド]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204120000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202204120000/"/>
+        <updated>2022-04-12T07:16:24.000Z</updated>
+        <summary type="html"><![CDATA[UP主様の許可を得ていませんが、一般公開している動画なので貼っても問題ないですよね？ｗこのGv動画を拝見して、今までの単体4フレとは全く別物になった新しいビルドに可能性を感じました。微範囲3フレスプレッ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
