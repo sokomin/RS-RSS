@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-11T10:51:57.825Z</updated>
+    <updated>2022-05-11T11:19:10.828Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.5.11 イベ更新]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/c4203999121c3e089abb73430366fd64</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/c4203999121c3e089abb73430366fd64?fm=rss"/>
+        <updated>2022-05-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GWも終わってしまいましたね。
+
+MARCH  UPDATE -->
+
+
+
+
+
+
+4月20日メンテ後から5月11日メンテ前まで
+
+
+課金イベントはこちら
+
+
+5月11日メンテ後から5月25日メンテ前まで
+
+
+さて、今週もまったり楽しみましょう。
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[想定よりは多いな…]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-844.html</id>
