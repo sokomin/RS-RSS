@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T11:48:09.269Z</updated>
+    <updated>2022-05-12T12:44:58.558Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1573,16 +1573,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[あ、今年も金鯖はあるんだ…あと来週からGW企画が始まるらしいよ？【お死らせ】・４月に予定したアプデは5/18(水)に変更となりました・このアプデで実装予定だった新職は7月に延期します一応金鯖前に実装するため、今年の金鯖で育てることはできるみたいです。3日で1000レベ？！あとは来週からGW企画がスタートとちゃっかり書いてる…。その詳細がこちらとなります【配布品とか】・チャレンジイベント・17周年カムバック第2弾公式の]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ギリギリchop]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-953.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-953.html"/>
-        <updated>2022-04-13T00:31:32.000Z</updated>
-        <summary type="html"><![CDATA[現在オーライベント中ですけれど、鏡の魔法書のかけらがドロップするのは今日のメンテ前までだったのですね。今朝になってそのことに気づきました。手もとには、ちまちま集めていた172個のかけら。別枠で、重ならないものが20個。「ギリギリじゃないと僕ダメなんだよ」というわけではないのですが、急に頭の中にこの曲が流れ始めてですね。朝食をあと回しにして狩ることにしました。メンテが始まるまで正味1時間ほど。場所はじゅう]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
 </feed>
