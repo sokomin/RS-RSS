@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-11T23:50:21.611Z</updated>
+    <updated>2022-05-12T01:58:39.705Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1659,16 +1659,6 @@ MARCH  UPDATE -->
 ｜彡ｻｯ]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今更なのかどうなのかわかんない1100DXU防具の何か]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-834.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-834.html"/>
-        <updated>2022-04-12T11:54:59.000Z</updated>
-        <summary type="html"><![CDATA[今…更？よくわからんが、よし！！武器は知らんよ！【共通して言えること】・係数は800DXUと同じらしいから割と出やすい。ごみでも分解しておいしい・その割に性能は775UltUを超えたり超えなかったりする・立ち位置としては800DXUと同じ。競合相手が1000UltUになった感じ・DXUのため、DXOPをつけると装備レベルが大変なことになる・解放でレベル-180を持つため、素の状態なら920から装備可能です。協会OPやディなんとかOPを差し込み]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
