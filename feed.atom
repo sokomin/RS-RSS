@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T04:36:30.540Z</updated>
+    <updated>2022-05-12T05:05:11.958Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1583,16 +1583,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[現在オーライベント中ですけれど、鏡の魔法書のかけらがドロップするのは今日のメンテ前までだったのですね。今朝になってそのことに気づきました。手もとには、ちまちま集めていた172個のかけら。別枠で、重ならないものが20個。「ギリギリじゃないと僕ダメなんだよ」というわけではないのですが、急に頭の中にこの曲が流れ始めてですね。朝食をあと回しにして狩ることにしました。メンテが始まるまで正味1時間ほど。場所はじゅう]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[対人装備の強化(異次元)]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202204130000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202204130000/"/>
-        <updated>2022-04-12T16:49:18.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。最近、どうすれば魔道戦士を対人装備に導入できるかを考えていたのですが、T健康比率にすれば耐久はそこまで落ちないんじゃないかな～と考えました。（もういっそ火力に振って...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
