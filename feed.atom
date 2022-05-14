@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-14T02:06:52.325Z</updated>
+    <updated>2022-05-14T04:15:22.762Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウォーミングアップと装備改造]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-167.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-167.html"/>
+        <updated>2022-05-14T02:49:07.000Z</updated>
+        <summary type="html"><![CDATA[どなたか、このへんに置いてあったゴールデンウィーク、知りませんか？ちょっと目を離していた隙に、いなくなってしまったのです。見つけられましたらこちらまでご報告よろしくお願いします。第三の猫です。これ以上性向を下げられないので、久しぶりに天上へ行ってベルセルクを強化しました。ちょっぴり性能がアップして、戦い終わってから使い損ねたことに気づいた時のがっかり感も増量されました。忘れないうちにレイド戦に直行]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[真・再構成地獄]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205110000/</id>
