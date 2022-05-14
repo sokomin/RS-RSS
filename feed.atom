@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-14T20:23:12.234Z</updated>
+    <updated>2022-05-14T20:48:31.756Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1528,16 +1528,6 @@ MARCH  UPDATE -->
         <updated>2022-04-16T04:07:02.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[さて、パソコン壊れて1ヶ月]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=537</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=537"/>
-        <updated>2022-04-15T08:23:34.000Z</updated>
-        <summary type="html"><![CDATA[レッドストーン止まってるんだが？？まー、復旧はパソコンガード外すメールしなきゃだこらなーインターネットエクスプローラが6月で更新停止らしいしのー、、、あと、window11はどーなん？よくワカラン？からしばし休止のまま最近チャットしてないからニホンゴ妖しい、、...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
