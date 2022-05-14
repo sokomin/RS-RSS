@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-14T07:48:54.014Z</updated>
+    <updated>2022-05-14T08:27:16.143Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[運命とは？？]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=546</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=546"/>
+        <updated>2022-05-14T08:01:01.000Z</updated>
+        <summary type="html"><![CDATA[一命
+
+二運
+
+三風水
+
+四積陰徳
+
+五唸書
+
+
+
+中国の言葉だに〜
+
+漢字が唸書であってるかビミョーだが
+
+日本語の漢字はときどき？？
+
+つか戦後変わってるからね。。。。。
+
+
+
+まーそれはさておき、
+
+運命とは
+
+命が生まれて
+
+運ばれてきた流れを...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウォーミングアップと装備改造]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-167.html</id>
