@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-15T15:51:45.084Z</updated>
+    <updated>2022-05-15T16:31:25.875Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1538,15 +1538,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[急に暖かくなってからの冷え込みに、春らしさを感じる今日この頃。第三の猫らしい第三の猫です。今回は討伐に挑戦してみます。冒険家協会バーの中でもユスピナの次くらいに人気の討伐騎士団長に話しかけると、難易度選択が出てきました。どれにしましょう・・・・・・壁に埋まるの流行っているのでしょうか？結局、アスタロトを選びました。どうやらここが討伐マップのようですね。マップのペナルティに討伐されそうです。混沌の大]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#4【ELDEN RING】アクション超下手が死にゲーやるぞ]]></title>
-        <id>https://www.youtube.com/watch?v=bL5BfmT8DJg</id>
-        <link href="https://www.youtube.com/watch?v=bL5BfmT8DJg"/>
-        <updated>2022-04-16T04:07:02.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
