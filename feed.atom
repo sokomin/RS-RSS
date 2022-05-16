@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-16T07:00:48.395Z</updated>
+    <updated>2022-05-16T07:29:05.595Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1527,16 +1527,6 @@ MARCH  UPDATE -->
         <updated>2022-04-17T03:07:26.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[予定より高かったですが]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204170000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202204170000/"/>
-        <updated>2022-04-16T19:11:49.000Z</updated>
-        <summary type="html"><![CDATA[今回のロトの選択NPC称号にはシュルトが入ってないようなので、多少高くても買った方がいいと判断しました。本当は900で買いたかったのですが、100くらい高くても仕方がないですね。当然、この鎧に貼り付けます。...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
