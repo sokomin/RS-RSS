@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-16T18:28:37.228Z</updated>
+    <updated>2022-05-16T18:55:57.998Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1491,43 +1491,6 @@ MARCH  UPDATE -->
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石像の一部完成 -ネーンの杯蓋- -スルの杖シャフト-]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/3b729fde30910a40080aa5129018cb1f</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/3b729fde30910a40080aa5129018cb1f?fm=rss"/>
-        <updated>2022-04-17T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Ｇ『ねこやしき』の話ｗ
-
-風の元素と水の元素200個集まりましたo(*^▽^*)o
-
-
-
-
-『スルの杖シャフト』にしてみました。
-
-
-
-
-石像はいつになったらちゃんと表示されるんじゃー！！！
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ノシシ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
