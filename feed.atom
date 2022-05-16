@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-16T14:47:48.240Z</updated>
+    <updated>2022-05-16T15:25:51.482Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1526,15 +1526,6 @@ MARCH  UPDATE -->
         <id>https://www.youtube.com/watch?v=h1fqRwwDS1k</id>
         <link href="https://www.youtube.com/watch?v=h1fqRwwDS1k"/>
         <updated>2022-04-17T04:05:19.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#4【ELDEN RING】ラダーン討伐　アクション超下手が死にゲーやるぞ]]></title>
-        <id>https://www.youtube.com/watch?v=bL5BfmT8DJg</id>
-        <link href="https://www.youtube.com/watch?v=bL5BfmT8DJg"/>
-        <updated>2022-04-17T03:07:26.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>
