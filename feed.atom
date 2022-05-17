@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-17T23:22:43.928Z</updated>
+    <updated>2022-05-17T23:48:33.049Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1251,16 +1251,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[んー、アクセス数みるとこのブログ毎日2500ほどあるのだが、、、最近更新、あまりしてないのだが、、謎だ、謎だ！？コナン＝工藤新一　なみに謎だ＠＠けされっぞバーロけされっかよ消されてなかったら、また、あいましょうbbしーゆーあげん]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[４月２４日姫Gイベントの予告]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1094.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1094.html"/>
-        <updated>2022-04-18T11:25:27.000Z</updated>
-        <summary type="html"><![CDATA[かなり放置していました＞＜こんばんは～ハニーレモネードです。チョット・・・というかかなり、リアが忙しく手が回っていないですゲームに、ログインはしているのですが、日々デイリー系統をちょろっとやるぐらい。プリメのGMもやりかねるので次期GMに【姫川凛音】さんを指名しておきます。◆◆◆　◆◆◆　◆◆◆☆　プリンセスメーカー歴代ＧＭ継承順位（敬称略）　瓶姫　（２００６年）　hime　ボトル姫様　hime　見ての通り甘党　（初回]]></summary>
-        <author>
-            <name>リン・ドール</name>
         </author>
     </entry>
 </feed>
