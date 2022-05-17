@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-17T21:49:19.217Z</updated>
+    <updated>2022-05-17T22:23:41.315Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1261,43 +1261,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[かなり放置していました＞＜こんばんは～ハニーレモネードです。チョット・・・というかかなり、リアが忙しく手が回っていないですゲームに、ログインはしているのですが、日々デイリー系統をちょろっとやるぐらい。プリメのGMもやりかねるので次期GMに【姫川凛音】さんを指名しておきます。◆◆◆　◆◆◆　◆◆◆☆　プリンセスメーカー歴代ＧＭ継承順位（敬称略）　瓶姫　（２００６年）　hime　ボトル姫様　hime　見ての通り甘党　（初回]]></summary>
         <author>
             <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近気づいたこと]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/3eb541325e1b7dc1e538bc8c10cfa191</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/3eb541325e1b7dc1e538bc8c10cfa191?fm=rss"/>
-        <updated>2022-04-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[土日はぐったり休むのが基本なのですが、先日の土曜日はおでかけ。
-
-スパイダーペインを使った後に、いつものようにナインテールブレイズで芋虫をたたいたら・・・
-
-周囲のMOBにもダメを与えられた＠ｗ＠
-え？そういうスキルだったの？？
-バグかと思って何度か試しましたが、スパイダーペインの中にいるMOB全体に攻撃がされるようです。
-数や範囲に上限があるかどうかは今のところも未検証ですが。。。。
-
-普段スパイダーペインなんて使っていないので気づきませんでした。
-スパイダーペイン・・・以外に使えるかもと思いました(´・ω・`)
-つか、今更？？？と思われるかもしれませんけどｗｗｗ
-
-
-他のネタと合わせて書こうと思っていましたが、他のネタがなかったので短い更新ですが書いてみました。
-短くてすみません(´・ω・`)
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
