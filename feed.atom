@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-17T01:52:33.703Z</updated>
+    <updated>2022-05-17T03:35:29.335Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1383,16 +1383,6 @@ MARCH  UPDATE -->
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キャプテンの延期、羊カーペット]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-743.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-743.html"/>
-        <updated>2022-04-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日息子が夜遅いのに部屋で大爆笑していたのでもう寝るぞーと声をかけたところこれを見ていましたナレーション似てますねー話の内容がとてもシュールで笑いを誘いますねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
