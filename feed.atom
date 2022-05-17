@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-17T15:53:06.587Z</updated>
+    <updated>2022-05-17T16:36:06.527Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1298,16 +1298,6 @@ MARCH  UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】オンラインゲームの終焉]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-899.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-899.html"/>
-        <updated>2022-04-18T04:05:00.000Z</updated>
-        <summary type="html"><![CDATA[最近リリースされ始めたオンラインゲームは第3世代と呼ばれているらしい。自分が遊んでいるもので例えると、REDSTONEは第1世代、LOST ARKは第2世代になる様だ。各世代のカテゴライズ条件はあまり詳しく分からないが、第1世代はコンテンツを追加していくタイプで、第2世代はコンテンツがほぼ予め決めてあり、内容だけ追加していくタイプらしい。第1第2世代いずれもコンテンツの良し悪しでゲームの評価が決まり、開発や運営はコンテ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
