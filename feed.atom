@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-17T11:48:10.502Z</updated>
+    <updated>2022-05-17T12:45:09.226Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1308,15 +1308,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[最近リリースされ始めたオンラインゲームは第3世代と呼ばれているらしい。自分が遊んでいるもので例えると、REDSTONEは第1世代、LOST ARKは第2世代になる様だ。各世代のカテゴライズ条件はあまり詳しく分からないが、第1世代はコンテンツを追加していくタイプで、第2世代はコンテンツがほぼ予め決めてあり、内容だけ追加していくタイプらしい。第1第2世代いずれもコンテンツの良し悪しでゲームの評価が決まり、開発や運営はコンテ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRIM DAWN 初実況初見プレイ]]></title>
-        <id>https://www.youtube.com/watch?v=fwCc-hiPnxo</id>
-        <link href="https://www.youtube.com/watch?v=fwCc-hiPnxo"/>
-        <updated>2022-04-18T00:28:19.000Z</updated>
-        <author>
-            <name>ひさプッチ</name>
         </author>
     </entry>
 </feed>
