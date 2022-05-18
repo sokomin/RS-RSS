@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-18T22:22:45.273Z</updated>
+    <updated>2022-05-18T22:49:13.514Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1303,16 +1303,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[2週間ほど放置してしまいました。まぁ、放置してた間にあった新着イベントが1週間に1つずつだったっぽいのですけど。゜。°。°。°。°。°。°。°。゜。°。°。°。黄金週間スペシャルミッションゲームミッションとログインミッションの2種類があるみたいですね。ログインミッションは期間中にログインするだけのものですが特定の曜日にはアイテムも配布されるみたいです。こちらの開始は今日からではなく28日0時からとなるようです。ゲ]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PVP攻撃力を計算してみた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204190000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202204190000/"/>
-        <updated>2022-04-19T10:35:04.000Z</updated>
-        <summary type="html"><![CDATA[クレスト35×3＝105％クリーチャー　55％武器　30％鎧　5％チョーカー　10％滅亡指2×2＝4％MB　合計5％バッジ　合計5％というわけで、現在の合計は219％でした。クレストを全部45％に交換できたとしたら、合計で30...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
