@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-18T10:51:10.854Z</updated>
+    <updated>2022-05-18T11:19:18.779Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.5.18 アプデ]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/c27d6744b3136bf5968b32155ff75eb0</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/c27d6744b3136bf5968b32155ff75eb0?fm=rss"/>
+        <updated>2022-05-18T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日3回目のワクチンを打ってきました。
+
+
+
+
+
+
+
+
+4月20日メンテ後から5月11日メンテ前まで
+
+
+課金イベントはこちら
+
+
+
+5月11日メンテ後から5月25日メンテ前まで
+
+
+来週はログキャンと箱ドロイベントが終わるので継続されるかな。
+ログキャンそろそろ飽きてきた・・・というか公式へのログインが面倒(￣ω￣;)
+ゲームにログインしてアイテムもらえるほうがいいなぁ。
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重要＆新着イベント情報更新]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1229.html</id>
