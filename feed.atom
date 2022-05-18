@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-18T15:24:34.173Z</updated>
+    <updated>2022-05-18T15:52:41.560Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1313,16 +1313,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[クレスト35×3＝105％クリーチャー　55％武器　30％鎧　5％チョーカー　10％滅亡指2×2＝4％MB　合計5％バッジ　合計5％というわけで、現在の合計は219％でした。クレストを全部45％に交換できたとしたら、合計で30...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[んみゅ？？謎アクセス]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=538</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=538"/>
-        <updated>2022-04-19T03:34:44.000Z</updated>
-        <summary type="html"><![CDATA[んー、アクセス数みるとこのブログ毎日2500ほどあるのだが、、、最近更新、あまりしてないのだが、、謎だ、謎だ！？コナン＝工藤新一　なみに謎だ＠＠けされっぞバーロけされっかよ消されてなかったら、また、あいましょうbbしーゆーあげん]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
