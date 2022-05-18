@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-18T08:27:50.264Z</updated>
+    <updated>2022-05-18T08:53:25.378Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重要＆新着イベント情報更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1229.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1229.html"/>
+        <updated>2022-05-18T08:33:58.000Z</updated>
+        <summary type="html"><![CDATA[( ・_ゝ・)o*――ﾟ+.――ﾟ+.――ﾟ+.――ﾟ+.――*o(・c_,・)MAY UPDATE量としては少なめ？ですがアップデートですね。基本的にヤティカヌで狩りしてるレベルの1250↑の上位者向けの内容でしょうか。以下がそれにあたるものですかね。レベル1250、5転以上が入場可能な精鋭討伐追加精鋭討伐関連クエスト追加新規セットオプション追加セットオプションに関してはトレジャーボックス[討伐]やオプション闇商人からもドロップあるようなので1250じゃ]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[取り返しのつかない要素 梟カーペット【RED STONE】]]></title>
         <id>https://chorrealism.com/?p=3210</id>
