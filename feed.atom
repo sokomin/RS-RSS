@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-19T23:22:56.761Z</updated>
+    <updated>2022-05-19T23:49:40.952Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1317,47 +1317,6 @@ MARCH  UPDATE -->
 The post 知識リトルLv1452狩り装備【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
         <author>
             <name>cho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.4.20 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/e3d4f3c932b6ef6fa8ebff703c5c994e</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/e3d4f3c932b6ef6fa8ebff703c5c994e?fm=rss"/>
-        <updated>2022-04-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[鼻炎がひどくなっています。
-
-MARCH  UPDATE -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4月6日メンテ後から4月27日メンテ前まで
-
-
-来週はアプデがあるかな？ないかな？
-いずれにしてもイベントが結構終わるので一掃されるかもしれませんね。
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
