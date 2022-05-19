@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-19T15:34:14.223Z</updated>
+    <updated>2022-05-19T16:15:17.312Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022/5/18 日本赤石アプデ考察]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202205200000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202205200000/"/>
+        <updated>2022-05-19T15:41:39.000Z</updated>
+        <summary type="html"><![CDATA[アプデに関して大分情報が出そろってきたので考察してみます。【5/19 17:00更新】Ver0.0775アップデート、新規追加内容をご紹介に記載されている内容をどういう感じで生かしていくコンテンツなのかも含めてご紹介...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[狩りコスにデュアルクレスト付けちゃった]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205190000/</id>
