@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-19T09:23:24.883Z</updated>
+    <updated>2022-05-19T09:50:28.774Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[狩りコスにデュアルクレスト付けちゃった]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205190000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202205190000/"/>
+        <updated>2022-05-19T09:28:26.000Z</updated>
+        <summary type="html"><![CDATA[ヤティカヌ暁のちょっと硬いMOB１種類だけですけど、こちらの攻撃が全赤になりません。↓こいつです。PTで狩るPVPエリアでは全赤なので問題ないのですが、ソロのときにこのMOBをもっとサクっと倒したいので、敵致...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[気づくとそこには・・・☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12743633503.html</id>
