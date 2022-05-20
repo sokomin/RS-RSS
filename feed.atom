@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-20T15:53:56.351Z</updated>
+    <updated>2022-05-20T16:32:34.595Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1212,16 +1212,6 @@ MARCH  UPDATE -->
         <link href="http://rs.bigcat31.floppy.jp/?eid=540"/>
         <updated>2022-04-22T03:52:52.000Z</updated>
         <summary type="html"><![CDATA[みいはなに目指してるんだっけ？？んー、、、、、まー猫は10生らしいからな？？？ニンゲンさんとはチガウのだよ！ハテハテまー、雑なゲームのフリーソース化もしたし多分？次のステップへGoやな！！オモシロいゲーム創るという目標はあるが？？一猫でヤル必要なんてないし...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝6の夜10の猫]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=539</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=539"/>
-        <updated>2022-04-21T03:54:04.000Z</updated>
-        <summary type="html"><![CDATA[8時間寝る時間ありゃじゅーぶんやこんちゃ、みぃでうームカシムカシは12時まで秘密待ちしてた廃な時期あるけど、その日のうちに寝る、これ基本よ！！ペカソ貯めるなら明日へのログインのために少し早いくらいに寝ること、これもーね、基本チューの基本bbまー、朝6であわた...]]></summary>
         <author>
             <name>猫ノみぃ</name>
         </author>
