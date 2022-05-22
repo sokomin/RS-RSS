@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-22T03:11:47.186Z</updated>
+    <updated>2022-05-22T03:50:07.168Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1222,16 +1222,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[皆様はユニークアイテム解放というものをご存じでしょうか？そう、「Nxユニーク」アイテムの封印された力を引き出し、Nxユニークアイテムを更に進化させるシステム（公式より引用）です。去年末から挑戦すること8回（うち3回は確率上昇中）ただの一度も解放されることはなかったのですが、ひょっとすると皆様の存じていらっしゃるユニークアイテム解放とは別物に挑戦していたのかもしれない第三の猫です。こんにちは。ついにUMU職]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[平日ですがGvに参加しました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204230000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202204230000/"/>
-        <updated>2022-04-22T15:39:39.000Z</updated>
-        <summary type="html"><![CDATA[今日は、仕事が終わった直後にGvに参加してみました。職場PCでGvに出るのは初めてでしたが、特に問題はありませんでした。スプレッドアローをメインスキルにしてから一度だけアリーナGvに参加していますが、その...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
