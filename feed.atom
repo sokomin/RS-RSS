@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-22T06:55:34.335Z</updated>
+    <updated>2022-05-22T07:21:24.605Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Apex Legends】久々えぺ]]></title>
+        <id>https://www.youtube.com/watch?v=bNJtCSb2CI0</id>
+        <link href="https://www.youtube.com/watch?v=bNJtCSb2CI0"/>
+        <updated>2022-05-22T07:05:02.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[やっと・・・！！☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12744138248.html</id>
