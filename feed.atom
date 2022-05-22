@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-22T13:41:54.717Z</updated>
+    <updated>2022-05-22T14:20:22.967Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1282,16 +1282,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[狩り用のコスチュームを着たまま出ていました＾＾；PVP攻撃・防御のクレストなしで戦っていたわけで・・やけに倒せないし、受けるダメージがでかいと思ったんですよねぇｗ（数分で落とされちゃったので、見直す暇...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔術師の汎用性]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-164.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-164.html"/>
-        <updated>2022-04-23T02:16:16.000Z</updated>
-        <summary type="html"><![CDATA[皆様はユニークアイテム解放というものをご存じでしょうか？そう、「Nxユニーク」アイテムの封印された力を引き出し、Nxユニークアイテムを更に進化させるシステム（公式より引用）です。去年末から挑戦すること8回（うち3回は確率上昇中）ただの一度も解放されることはなかったのですが、ひょっとすると皆様の存じていらっしゃるユニークアイテム解放とは別物に挑戦していたのかもしれない第三の猫です。こんにちは。ついにUMU職]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
