@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-24T20:50:43.585Z</updated>
+    <updated>2022-05-24T21:20:48.655Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1172,16 +1172,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[こんばんは～なんかもう、記事の書き方また忘れてる！リハビリ！リハビリ！！24日のイベント★春だよ！第２回プリプリ姫大戦★～アリーナサバで姫G対決～【プリンセスメーカー】（Bサバ）ｖｓ【Dear_my_Princess】（Vサバ）の前に23日の攻城【プリメ】と【さくら組】の時間が被っていたので【プリメ】のみｗ結果は攻めきれず敗退！SSはもういいよね？★★★　★★★　★★★そして、イベントの様子はこちら、ダイジェストでお送りします皆様、]]></summary>
         <author>
             <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[桜さり　連休は近し]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=541</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=541"/>
-        <updated>2022-04-25T09:19:35.000Z</updated>
-        <summary type="html"><![CDATA[みゅふふ、ハナミズキが咲いてますね♪オヒマナ　みーたんですぅノオシゴト？？んー、、、タマに変化球くるけど、基本ストレートだからね？！やつぱストレートは見逃しちイカンbbつか、みーたんの原動力は達成欲だからね？一日に2個はオシゴトおわらせするノんで、空いた時...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
