@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-24T08:28:52.635Z</updated>
+    <updated>2022-05-24T08:54:29.523Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ぶゆーデンデンデン]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=548</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=548"/>
+        <updated>2022-05-24T08:42:54.000Z</updated>
+        <summary type="html"><![CDATA[電車が遅れてるので？？時間グルグル発動☆ヒマなのねぶゆーデン？ぶゆーデン！？ぶゆーデンデンデンデンデン♪ぶゆーデンといえば？？初期のころは、スリング殴り姫育ててたわー、ダメの増加が極小だからマスっても意味ナスというね範囲攻撃したいならバルーンアタックがユ...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5月18日アップデート　【精鋭討伐、桜イベント、セットOP他】]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-748.html</id>
