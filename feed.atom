@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-24T19:18:43.264Z</updated>
+    <updated>2022-05-24T19:31:30.203Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1093,6 +1093,15 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[3/31より開始したしょっぱい方のルーレットですが、当ブログでは終了日時を間違えて記載していました。正しい時刻は以下のとおりです。ルーレット締め切り　4/25(月)23:59までコイン交換締め切り　4/26(火)23:59までルーレットにつきましては、すでに終了しております。大変申し訳ございません。なお、コインの交換も本日（4/26）までとなっております。10コインで黒い羊カーペットと交換ができますので、お忘れなく…ただでさえメ]]></summary>
         <author>
             <name>Trailblazer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Path of Exile　ネクロマンサー実況　３章から！]]></title>
+        <id>https://www.youtube.com/watch?v=-L0JTfyB2wU</id>
+        <link href="https://www.youtube.com/watch?v=-L0JTfyB2wU"/>
+        <updated>2022-04-25T21:24:44.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
         </author>
     </entry>
     <entry>

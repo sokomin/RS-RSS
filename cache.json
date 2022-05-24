@@ -381,7 +381,18 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-L0JTfyB2wU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-L0JTfyB2wU",
+          "publishedOn": "2022-04-25T21:24:44.000Z",
+          "wordCount": null,
+          "title": "Path of Exile　ネクロマンサー実況　３章から！",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "無職と美学とシュルレアリスム",
