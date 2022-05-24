@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-24T18:56:05.734Z</updated>
+    <updated>2022-05-24T19:18:43.264Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1173,15 +1173,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[みゅふふ、ハナミズキが咲いてますね♪オヒマナ　みーたんですぅノオシゴト？？んー、、、タマに変化球くるけど、基本ストレートだからね？！やつぱストレートは見逃しちイカンbbつか、みーたんの原動力は達成欲だからね？一日に2個はオシゴトおわらせするノんで、空いた時...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Path of Exile　ネクロマンサー実況　３章から！]]></title>
-        <id>https://www.youtube.com/watch?v=-L0JTfyB2wU</id>
-        <link href="https://www.youtube.com/watch?v=-L0JTfyB2wU"/>
-        <updated>2022-04-25T07:14:13.000Z</updated>
-        <author>
-            <name>ひさプッチ</name>
         </author>
     </entry>
 </feed>
