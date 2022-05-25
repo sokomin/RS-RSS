@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-25T05:25:00.534Z</updated>
+    <updated>2022-05-25T05:49:31.114Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1111,57 +1111,6 @@ MARCH  UPDATE -->
         <updated>2022-04-25T21:24:44.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE IN ALL！]]></title>
-        <id>kaze.gg-blog.com://entry/169</id>
-        <link href="http://kaze.gg-blog.com/status/one%20in%20all%EF%BC%81"/>
-        <updated>2022-04-25T17:38:20.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。
-ところで、これみんな知ってた？
-
-
-
-こないだトマトから教わったんだけど
-冒険リストの上2つの赤帯の冒険に出れば
-必ず報酬、マナ(大)が貰えるってこと！
- 
-パッシブ変換、やっとダブル水強化引けた！
-
-
-良い感じ！
-
-
-かわいいよドレアス
-
-
-ドレアス1体だけで水強化がかなり稼げるように！
-
-
-かっこいいよワンインオール
-
-
-
-ところで、いつになったらワンインオールは元に戻ることやら
-シルエットクイズじゃないんだから。。
-
-
-
-だーれだ
-
-
-
-わんいんおーる
-まだまだ知られざるクリチャに関する小技、
-あったらもっと教えてくださーい！
-
-
-
-
-またね～]]></summary>
-        <author>
-            <name>風に吹かれて</name>
         </author>
     </entry>
 </feed>
