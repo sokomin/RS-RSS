@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-25T05:49:31.114Z</updated>
+    <updated>2022-05-25T06:28:49.969Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1230.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1230.html"/>
+        <updated>2022-05-25T06:18:37.000Z</updated>
+        <summary type="html"><![CDATA[.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*.:*~*:._.:*~*:._.:*~*:チャレンジイベント実質計4つのチャレンジをクリアするイベントですね。1．ギルドデイリークエストを25回以上クリア2．レイドで紛失した冒険団Boxを1回以上入手3．試練のダンジョンで試練の証を10回以上入手4．ミント、アミール、フニンのいずれかに「変異したレッドストーン」を1回以上渡す以上の4つをクリアすればOKですね。これらすべてをクリアすると抽選1名にLRク]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ぶゆーデンデンデン]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=548</id>
