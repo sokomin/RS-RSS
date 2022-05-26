@@ -351,7 +351,18 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0d8rA_bCC3A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0d8rA_bCC3A",
+          "publishedOn": "2022-05-26T00:40:19.000Z",
+          "wordCount": null,
+          "title": "Path of Exile　新しいアプデ後　サイオン育成",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "無職と美学とシュルレアリスム",
