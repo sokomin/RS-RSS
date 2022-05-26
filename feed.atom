@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-26T05:49:17.168Z</updated>
+    <updated>2022-05-26T06:28:44.834Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[近況報告]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205260000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202205260000/"/>
+        <updated>2022-05-26T05:51:51.000Z</updated>
+        <summary type="html"><![CDATA[ちょっと更新が滞ってしまっていましたね＾＾；前回の記事にも書きましたが、若干モチベが下がっておりまして、ブログの更新が面倒になっていました。ぶっちゃけるとRSにインするのも億劫で、しばらく放置しよう...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Path of Exile　新しいアプデ後　サイオン育成]]></title>
         <id>https://www.youtube.com/watch?v=0d8rA_bCC3A</id>
