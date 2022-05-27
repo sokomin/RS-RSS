@@ -238,16 +238,6 @@
           "wordCount": null,
           "title": "水毒アルケミ育成配信#2【 REDSTONE 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jlbzIFMdgs8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jlbzIFMdgs8",
-          "publishedOn": "2022-04-27T17:58:18.000Z",
-          "wordCount": null,
-          "title": "水毒アルケミ育成配信#1【 REDSTONE 】",
-          "imageUrl": null
         }
       ]
     },
@@ -398,6 +388,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202205270000/",
+          "author": "雷神の弓",
+          "description": "​​リバースHPだよ！​​↑クリック以前紹介したときよりも内容がかなり充実しています。是非、ご覧ください。PCで当ブログをご覧の方は、左にある　Freepage List　にリンクがありますので、そこから飛ぶことができ...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202205270000/",
+          "publishedOn": "2022-05-27T06:24:03.000Z",
+          "wordCount": 85,
+          "title": "Re:BirthのHP　かなり進化しています",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/53881d86398ebfd091d99c393a300221c5852e20.73.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202205260000/",
           "author": "雷神の弓",

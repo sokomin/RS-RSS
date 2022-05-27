@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-27T05:49:35.702Z</updated>
+    <updated>2022-05-27T06:29:16.539Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re:BirthのHP　かなり進化しています]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205270000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202205270000/"/>
+        <updated>2022-05-27T06:24:03.000Z</updated>
+        <summary type="html"><![CDATA[​​リバースHPだよ！​​↑クリック以前紹介したときよりも内容がかなり充実しています。是非、ご覧ください。PCで当ブログをご覧の方は、左にある　Freepage List　にリンクがありますので、そこから飛ぶことができ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近況報告]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205260000/</id>
@@ -1017,15 +1027,6 @@ B
         <summary type="html"><![CDATA[ギルド Re:Birth にHPが出来ました！​​リバースHP（作成者dokuringo)​​まだ大枠が出来ただけですが、今後中身の方も充実していくはず！だよね？全１光奏師であり、リバースのアイドル的存在でもある dokuringo様...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水毒アルケミ育成配信#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=jlbzIFMdgs8</id>
-        <link href="https://www.youtube.com/watch?v=jlbzIFMdgs8"/>
-        <updated>2022-04-27T17:58:18.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
