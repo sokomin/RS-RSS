@@ -45,6 +45,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-749.html",
+          "author": "ミツリン",
+          "description": "先日家のPCで作業中にこれを聴いていました隣の部屋の息子が興味を持って聴きに来ていました1も2も好きな曲がたくさんありますが3だとこれが一番思い出に残っていますこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-749.html",
+          "publishedOn": "2022-05-29T15:00:00.000Z",
+          "wordCount": 459,
+          "title": "ヤティカヌ　精鋭討伐タビアクートについて",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-748.html",
           "author": "ミツリン",
           "description": "先日うちの息子が可愛い可愛いと連呼しているので何かなと思って聞いてみたらこれでしたうちにも少し前まで柴犬を飼っていたのですがやはり雷の時はガクガクに震えていましたこれから時期的にも雷は多くなりますので気をつけたいところですねこんにちは　ミツリンです",
@@ -388,6 +398,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202205290001/",
+          "author": "雷神の弓",
+          "description": "戻ったときにやること多すぎて駄目でした・・＾＾；まずステ4000ちょい振ってない、暴走を初期化して時空の歪みを取ってセットしないといけない等々があって大変なことになりました。しかも一番駄目だったのが、...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202205290001/",
+          "publishedOn": "2022-05-29T14:49:25.000Z",
+          "wordCount": 84,
+          "title": "Gvで強制喰らって",
+          "imageUrl": "http://plaza.jp.rakuten-static.com/img/common/blog_logo_ogp.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202205290000/",
           "author": "雷神の弓",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-29T14:48:09.167Z</updated>
+    <updated>2022-05-29T15:23:09.111Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヤティカヌ　精鋭討伐タビアクートについて]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-749.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-749.html"/>
+        <updated>2022-05-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日家のPCで作業中にこれを聴いていました隣の部屋の息子が興味を持って聴きに来ていました1も2も好きな曲がたくさんありますが3だとこれが一番思い出に残っていますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gvで強制喰らって]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205290001/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202205290001/"/>
+        <updated>2022-05-29T14:49:25.000Z</updated>
+        <summary type="html"><![CDATA[戻ったときにやること多すぎて駄目でした・・＾＾；まずステ4000ちょい振ってない、暴走を初期化して時空の歪みを取ってセットしないといけない等々があって大変なことになりました。しかも一番駄目だったのが、...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知識剣士育成配信#1【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=BpFbSaSZWvE</id>
