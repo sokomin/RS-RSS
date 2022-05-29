@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-29T04:15:48.799Z</updated>
+    <updated>2022-05-29T04:53:40.858Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1073,16 +1073,6 @@ B
         <summary type="html"><![CDATA[あれよあれよと気づけばGWが差し迫る4月末日。今月は天気・気温とも三歩進んで二歩下がるが如く、冬の残り香と夏の先走りのバトルが繰り広げていた気がします。 当の私は毎日のログインは欠かさずとも、せっかくの17周年バフやRS…]]></summary>
         <author>
             <name>The Adventure Of The Jacks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[要チェックですよ～]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202204300000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202204300000/"/>
-        <updated>2022-04-29T16:15:23.000Z</updated>
-        <summary type="html"><![CDATA[ギルド Re:Birth にHPが出来ました！​​リバースHP（作成者dokuringo)​​まだ大枠が出来ただけですが、今後中身の方も充実していくはず！だよね？全１光奏師であり、リバースのアイドル的存在でもある dokuringo様...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
