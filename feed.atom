@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-30T13:45:04.734Z</updated>
+    <updated>2022-05-30T14:21:49.637Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1011,50 +1011,6 @@ MARCH  UPDATE -->
         <updated>2022-05-01T04:17:25.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＧＷの一時帰省]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-322.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-322.html"/>
-        <updated>2022-05-01T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[やる事がすべて終わったかと言われるとまだ終わってない事が多少ありしかも新しくやる事が増えてる状況ではあるのですがそれでも時間に少し余裕が出てきたのでＧＷという事もあり帰省という名目でＲＳに遊びに来ていました＾＾ただ、現在のわたしの生活では夜にインする事が困難なため主な活動時間は朝～午後までで途中用事のため放置やログアウトを小まめにしてる感じです！申し訳ないですが攻城や前みたいに夜秘密などは今ちょっ]]></summary>
-        <author>
-            <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.4月のドロップ~♪]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/abb7689b17adb9bf84f2f59c3c43a69f</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/abb7689b17adb9bf84f2f59c3c43a69f?fm=rss"/>
-        <updated>2022-05-01T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[5月です。
-
-
-
-
-
-
-U品はたくさん落ちてもいいように少し大きめにしてあるけど、これだけしょぼいと小さくしてもいいかなぁ・・・と思ってしまいますね(´・ω・`)
-
-
-ただいま知識弓とメイドの転生をどうしようか悩み中です。
-転生後のレベル400程度にしたいので、もうちょっと頑張ろうかな・・・
-と考えている今日この頃。
-まぁ飽きたら転生しようと思います。
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
