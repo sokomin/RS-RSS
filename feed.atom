@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-30T02:01:08.712Z</updated>
+    <updated>2022-05-30T03:43:35.902Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】起爆剤が欲しかっただけ]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-905.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-905.html"/>
+        <updated>2022-05-30T03:23:46.000Z</updated>
+        <summary type="html"><![CDATA[攻城戦以外、ログインするだけになっているが、少しヤル気が出る話題があった。セットお守り「節制」の6セット効果「ダメ+1000%」が熱いらしい。Discordの戦士板でも話題に挙がっていて、表記には反映されないが、実ダメは上がるとか。問題は、セットお守りを付けるには既存オプションを赤解除する必要があり、キャラ間で使い回している場合、調整が難しいこと。自分の場合、頭、首、腰は雨アチャと使い回しだから、これら装備のオ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヤティカヌ　精鋭討伐タビアクートについて]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-749.html</id>
