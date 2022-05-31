@@ -83,16 +83,6 @@
           "wordCount": 452,
           "title": "GWを終えて",
           "imageUrl": null
-        },
-        {
-          "id": "https://mitsurin32.blog.fc2.com/blog-entry-745.html",
-          "author": "ミツリン",
-          "description": "最近某孔明アニメを見て楽しんでいますギャグアニメかと思いましたが結構勉強になりますね孔明と言うと私はこのBGMを思い出しますこんにちは　ミツリンです",
-          "link": "https://mitsurin32.blog.fc2.com/blog-entry-745.html",
-          "publishedOn": "2022-05-01T15:00:00.000Z",
-          "wordCount": 454,
-          "title": "運営からの返事",
-          "imageUrl": null
         }
       ]
     },
@@ -238,6 +228,16 @@
           "wordCount": null,
           "title": "水毒アルケミ育成配信#3【 REDSTONE 】",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=l440M7fGdRE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l440M7fGdRE",
+          "publishedOn": "2022-05-01T19:52:37.000Z",
+          "wordCount": null,
+          "title": "水毒アルケミ育成配信#2【 REDSTONE 】",
+          "imageUrl": null
         }
       ]
     },
@@ -323,16 +323,6 @@
           "publishedOn": "2022-05-01T21:43:04.000Z",
           "wordCount": null,
           "title": "#2【REDSTONE】マスケ１から育成してみた",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NNTlEuC5kN8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NNTlEuC5kN8",
-          "publishedOn": "2022-05-01T15:23:38.000Z",
-          "wordCount": null,
-          "title": "#1【REDSTONE】マスケ１から育ててみた！",
           "imageUrl": null
         }
       ]
@@ -814,6 +804,16 @@
       "feedUrl": "http://rscat31.jugem.jp/?mode=rss",
       "siteUrl": "http://rs.bigcat31.floppy.jp/",
       "articles": [
+        {
+          "id": "http://rs.bigcat31.floppy.jp/?eid=549",
+          "author": "猫ノみぃ",
+          "description": "ちょいとゲーム作成中につき、メモメモ面白い、ってなにさ？？面が白い＝美白が良いとされたのは昔のハナシ？？んがー！？面白いゲームねー、画像やアニメーションの良さ、個性的、つい笑える魅力、ルールにそって競う、ストーリー、取引、裏技、成長、交流、短時間or長時...",
+          "link": "http://rs.bigcat31.floppy.jp/?eid=549",
+          "publishedOn": "2022-05-31T02:28:52.000Z",
+          "wordCount": 181,
+          "title": "面白いゲームとは？？",
+          "imageUrl": "https://imaging.jugem.jp/template/img/jugem_og-image.png"
+        },
         {
           "id": "http://rs.bigcat31.floppy.jp/?eid=548",
           "author": "猫ノみぃ",
