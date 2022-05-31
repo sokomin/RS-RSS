@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-31T22:23:02.357Z</updated>
+    <updated>2022-05-31T22:49:37.140Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -998,16 +998,6 @@ MARCH  UPDATE -->
         <updated>2022-05-02T11:29:21.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】銀行整理]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-902.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-902.html"/>
-        <updated>2022-05-02T10:38:12.000Z</updated>
-        <summary type="html"><![CDATA[銀行のVIPが5日後に使えなくなるため、銀行整理に着手した。取引可能品はギルド倉庫に入れて、不可品は未稼働キャラに持たせるだけだが、これが超面倒。どのキャラが何を持っているか分からなくなるため、持ち物リストを作成ささたり、同じ系統は所持キャラを統一したいから移動したり・・・VIP1と2を空にするのに1時間くらい要した。これで心置きなく攻城戦だけの活動になれるが、最後のやり残しである雨アチャのレベリング(Lv110]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
