@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-31T15:28:07.199Z</updated>
+    <updated>2022-05-31T15:56:45.392Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1018,26 +1018,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[ま～た弱体化して調整してるよ…あ、隣の国情報だけどね。そのうちこっちでもよほどのことがない限りは同じようなことをするんじゃないかな？強すぎるから！って理由だろうけど、違うそうじゃないってことが多い気がするけど今に限ったことじゃなかった。RSのほうは相変わらずRSPassの処理程度しか行ってません。一日に130ポイントまで稼げるようになり、期限はそんな変わらないから余裕ができるほどです。アップグレードのあれ使う]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファンサイト　ランクイン]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=543</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=543"/>
-        <updated>2022-05-02T03:41:55.000Z</updated>
-        <summary type="html"><![CDATA[んー、、、何故がファンサイトランキングランクイン、、、オモシロジョーホー上げてないから投票入って来ないと思ったのだが、、、つか、投票入ってなかったらいったん、ブログ〆ようと思ったのだが？？んー、みぃたんのムダなボヤッキー読んでくれてる方いるのかー能ある...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[じょ〜だんは、やすみやすみ]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=542</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=542"/>
-        <updated>2022-05-02T03:29:35.000Z</updated>
-        <summary type="html"><![CDATA[オシゴト貯まってきたような？？まー、そういう冗談は休み休みね☆いま、出来ることからやれば良いしそもそも、みーたんの手借りるべきなのー？？猫の手シャイン的には、みーたん、オシゴトより小判が欲しいでう欲しいっていったら欲しいのでうーまー、冗談はほどほどに？...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
