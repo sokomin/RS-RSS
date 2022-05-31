@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-30T23:49:54.110Z</updated>
+    <updated>2022-05-31T02:00:13.726Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -992,25 +992,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[最近某孔明アニメを見て楽しんでいますギャグアニメかと思いましたが結構勉強になりますね孔明と言うと私はこのBGMを思い出しますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水毒アルケミ育成配信#2【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=l440M7fGdRE</id>
-        <link href="https://www.youtube.com/watch?v=l440M7fGdRE"/>
-        <updated>2022-05-01T13:42:28.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】　DIABLO IMMORTAL　リリース日決定]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-901.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-901.html"/>
-        <updated>2022-05-01T12:34:42.000Z</updated>
-        <summary type="html"><![CDATA[遂にサービス開始日が発表になった。ディアブロ イモータル（DIABLO IMMORTAL）6/3にPCとスマホ同時リリースかつ、クロスプレイ可能。胸熱と言わざるを得ない！しかも、今回のディアブロは「MMOARPG」（大規模マルチプレイヤーオンラインアクションRPG）らしい。REDSTONEやLOST ARKも楽しいが、やはり惰性プレイ感は否めず、DIABLOのMMOARPGとあっては乗り換えずにはいられない。ヌリカベよ、また浮気する俺を許してくれ！ていうか]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
