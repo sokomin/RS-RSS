@@ -276,6 +276,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gF8CVAnPhjs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gF8CVAnPhjs",
+          "publishedOn": "2022-06-01T13:58:43.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#２８",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SpbDn7Yxj_E",
           "author": null,
           "description": "",
@@ -563,6 +573,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-906.html",
+          "author": "JEFRY",
+          "description": "結構インストールに時間掛かるから、即やりたい人は事前にダウンロード＆インストールしようね！ちなみに、スマホ版は今日からプレイできる。自分の本命はもちろんPC版（オープンβテスト）だけど、会社とかで昼休みにやるには十分な出来かな。PC版、期待高まるわ～",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-906.html",
+          "publishedOn": "2022-06-01T14:07:05.000Z",
+          "wordCount": 355,
+          "title": "【DIABLO】事前ダウンロード＆インストールきた～",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-905.html",
           "author": "JEFRY",
