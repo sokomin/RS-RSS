@@ -276,6 +276,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SpbDn7Yxj_E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SpbDn7Yxj_E",
+          "publishedOn": "2022-06-01T09:46:54.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#２７",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bNJtCSb2CI0",
           "author": null,
           "description": "",
@@ -620,6 +630,16 @@
       "feedUrl": "http://extremetrailblazer.blog.fc2.com/?xml",
       "siteUrl": "https://extremetrailblazer.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-849.html",
+          "author": "Trailblazer",
+          "description": "遅れた原因はそれなのか…？【配布品など】・臨時メンテに伴う1時間スフィアと1時間パワキ各3・黄金週間ミッションのSPのほうだけ※アイテムは来週に持ち込み・港町Box公式のあれ【超（？）武装祭】6/15(水)メンテまで一応3つのイベントがある①ログインプレゼント後日プレゼントされるやつ。最後のは13日必要なため、猶予は2日。一応使えるものが多いし、ログキャンもいつも通りやってるからとりあえずINはしよう②ミッションプレゼン",
+          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-849.html",
+          "publishedOn": "2022-06-01T09:34:18.000Z",
+          "wordCount": null,
+          "title": "アイテムの配布は置いてきた",
+          "imageUrl": null
+        },
         {
           "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-848.html",
           "author": "Trailblazer",
