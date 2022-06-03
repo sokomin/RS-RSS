@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T11:18:08.456Z</updated>
+    <updated>2022-06-03T11:30:55.620Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[でたな例のクリスタル]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-850.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-850.html"/>
+        <updated>2022-06-03T11:28:36.000Z</updated>
+        <summary type="html"><![CDATA[知ってた。50％くらいでクリスタルなんじゃないかな通常マスで出るんだったらここで出す必要ある？え？RS？魔法強打型を考えてるんだけど、超越とクリパッシブは何とかなると思うただ1000UltU耳は非常に厳しいし、ヤティ手はそもそも適正に入ってない、勇猛5段階5セットは…今のところここしかない。その他の部位は1段階だけです、はい。というか強打型だと致命消さないといけないならメディなんとかの解放を消滅させないといけない]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[”節制の”を試しに３個所付けてみたら・・]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202206030000/</id>
