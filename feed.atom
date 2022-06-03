@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T11:30:55.620Z</updated>
+    <updated>2022-06-03T11:48:36.817Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -14,6 +14,15 @@
         <summary type="html"><![CDATA[知ってた。50％くらいでクリスタルなんじゃないかな通常マスで出るんだったらここで出す必要ある？え？RS？魔法強打型を考えてるんだけど、超越とクリパッシブは何とかなると思うただ1000UltU耳は非常に厳しいし、ヤティ手はそもそも適正に入ってない、勇猛5段階5セットは…今のところここしかない。その他の部位は1段階だけです、はい。というか強打型だと致命消さないといけないならメディなんとかの解放を消滅させないといけない]]></summary>
         <author>
             <name>Trailblazer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ディアブロイモータル配信！ストーリーをしながら雑談します！LV36　デーモンハンター]]></title>
+        <id>https://www.youtube.com/watch?v=_UbUd_AYDdI</id>
+        <link href="https://www.youtube.com/watch?v=_UbUd_AYDdI"/>
+        <updated>2022-06-03T11:17:18.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
         </author>
     </entry>
     <entry>
