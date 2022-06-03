@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T09:48:48.543Z</updated>
+    <updated>2022-06-03T10:26:08.868Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[”節制の”を試しに３個所付けてみたら・・]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202206030000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202206030000/"/>
+        <updated>2022-06-03T10:02:02.000Z</updated>
+        <summary type="html"><![CDATA[カカシで試しただけなのでGvフィールドだとどうなるか分かりませんけど、オーガが全く発動しなくなりました。（説明書きのとおりの効果なので文句は言えませぬｗ）”節制の”のダメUPは、表記には反映されないけれ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年4～5月総括【RED STONE】]]></title>
         <id>https://chorrealism.com/?p=3225</id>
