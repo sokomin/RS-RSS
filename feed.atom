@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T18:25:01.141Z</updated>
+    <updated>2022-06-03T18:51:42.554Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1127,16 +1127,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[2022年のGWに今のRS環境理解しようと、久々に1250Lvまでの育成やってみました。アルケミ育成ひと段落！1277まで育成して1000＆900UMUが0個の引き弱でした… pic.twitter.com/Izu7JZuJ2g— そこらの民衆 (@sok...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三か月後へ！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-323.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-323.html"/>
-        <updated>2022-05-05T06:43:04.000Z</updated>
-        <summary type="html"><![CDATA[ＧＷ中の一時帰省が今日終わりました。復帰時には1021だったオオカミ少年でしたが今日のレベルは1023で終了＾＾前までは複数キャラを回していたのですが今回の復帰ではほぼオオカミ少年だけ活動してたためかレベ上げがかなり早く感じました＾＾ＧＷで経験upとかしてたのも理由だと思いますが狩り効率が上がったわけでは決してありません＾＾；ちなみに引退時に装備などあげちゃったものもある為オオカミ少年以外装備が足りてないキ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
