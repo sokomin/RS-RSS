@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-04T10:21:47.384Z</updated>
+    <updated>2022-06-04T10:48:18.524Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1108,6 +1108,15 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[ダウ下がって、日経は上がって、、、んー、、、？？みぃにはダメージあるような、ないようなオーストラリアに　そこそこ入れてたから総合はプラスだにー☆とはいえ、リスク正常化しないとなー？？日本株は上がってくよ、タブンネモノ値上げでその分、株も必要になる円安だ...]]></summary>
         <author>
             <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B鯖 冒険家協会バー　定点観測 【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=LsXqXL6osT0</id>
+        <link href="https://www.youtube.com/watch?v=LsXqXL6osT0"/>
+        <updated>2022-05-06T03:53:04.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
