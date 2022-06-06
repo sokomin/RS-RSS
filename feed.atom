@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-06T21:48:26.174Z</updated>
+    <updated>2022-06-06T22:23:01.501Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1028,15 +1028,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[荒地ヒャッホー！したくてLv1200にした風剣士。狩り快適にしたくて、狩り用クリーチャーをプチ厳選した風剣士。気が付いたらディメンションな日々になってて草wサブ雨も似たような感じで、REDSTONEの日常プレイでやることが無い！GWも残り僅かだし、何かしら思い出を残したい気持ちに駆られ、サブサブ雨を知識槍に再振りしてみた。何故、知識槍かというと、風剣士や雨って、攻城戦攻めには強いが防衛でやることが無いから、防衛で]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#２６]]></title>
-        <id>https://www.youtube.com/watch?v=nRSfgjVcTIE</id>
-        <link href="https://www.youtube.com/watch?v=nRSfgjVcTIE"/>
-        <updated>2022-05-08T10:21:17.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
