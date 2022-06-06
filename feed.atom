@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-06T22:23:01.501Z</updated>
+    <updated>2022-06-06T22:48:12.769Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -989,6 +989,15 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[半年ぶりくらいの更新です。正月頃に裸でブレもらったらブレ強すぎるこれ以外にネタが全くない。RSやる時間がほとんど取れてなかったけど、最近は落ち着いてきてちょっとは出来てるから更新も一か月に一度は出来...]]></summary>
         <author>
             <name>たつ2307</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#２６]]></title>
+        <id>https://www.youtube.com/watch?v=nRSfgjVcTIE</id>
+        <link href="https://www.youtube.com/watch?v=nRSfgjVcTIE"/>
+        <updated>2022-05-08T21:54:29.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
