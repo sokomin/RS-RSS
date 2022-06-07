@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-07T05:32:31.990Z</updated>
+    <updated>2022-06-07T05:48:18.886Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1008,16 +1008,6 @@ MARCH  UPDATE -->
         <updated>2022-05-08T21:54:29.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[燃え上がる意志ついにできました。]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202205090000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202205090000/"/>
-        <updated>2022-05-08T17:41:31.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。3月中旬にヤティカヌデビューして約2か月弱…ついに燃え上がる意志が完成しました。GWですか？仕事が忙しくてちびちびコイン集めしてました…。（2層は卒業したかったけど…。コ...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
