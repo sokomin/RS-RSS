@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-07T22:37:03.200Z</updated>
+    <updated>2022-06-07T22:49:11.740Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -989,16 +989,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[速度装備でも作りましょうかね。私の場合、クリーチャーがこれなので、そこまで装備に速度は要りません。まず、これを破片強化します。取引不可なので、自分で混沌行かないといけないのが本当に・・これです。（...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハニーのさようならボトル姫]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1096.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1096.html"/>
-        <updated>2022-05-09T10:44:54.000Z</updated>
-        <summary type="html"><![CDATA[突然ですが、みなさん『さようなら！』ボトル姫のハニーは昨日まで！！今日から、スーパーアイドルとしてデビューしました！いや～前々からね？少し頭打ち感を感じていたのよ（繰り返し）それでもまあ、ボトル姫から転向する理由もなかったのですが・・・・・※女神で底上げ中（実体は９８９レベ）このイカさんMB（ミッションブック）を進めていくとぶち当たる壁海底神殿B１のイカさん！１週間ぐらいチャレンジして１体しか倒せてな]]></summary>
-        <author>
-            <name>リン・ドール</name>
         </author>
     </entry>
 </feed>
