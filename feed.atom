@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-07T01:51:49.555Z</updated>
+    <updated>2022-06-07T03:22:01.421Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1008,25 +1008,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。3月中旬にヤティカヌデビューして約2か月弱…ついに燃え上がる意志が完成しました。GWですか？仕事が忙しくてちびちびコイン集めしてました…。（2層は卒業したかったけど…。コ...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GWを終えて]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-746.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-746.html"/>
-        <updated>2022-05-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GW連休は実家に行ってきました親戚が来ていて産まれたばかりの赤ちゃんを抱っこさせていただきました私はこれを思い出してしまいましたうちの子は産まれたとき小さかったのですが親戚の赤ちゃんは結構重かったですね元気に育ってほしいものですねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#3【REDSTONE】マスケ１から育成してみた]]></title>
-        <id>https://www.youtube.com/watch?v=_If2EFohk9Y</id>
-        <link href="https://www.youtube.com/watch?v=_If2EFohk9Y"/>
-        <updated>2022-05-08T14:08:59.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
