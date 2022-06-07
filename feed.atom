@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-07T14:48:24.291Z</updated>
+    <updated>2022-06-07T15:23:26.084Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[動け、このポンコツが…動けってんだよ！！（ガンっ！！）]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-851.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-851.html"/>
+        <updated>2022-06-07T14:58:27.000Z</updated>
+        <summary type="html"><![CDATA[この手に限る。この手しか知りません最近のRS活動は以下の通り。①メイン1orメイン2でログイン②クリ冒険と討伐を処理してログアウト③サブ1とサブ2をログインして即ログアウト④ログインしてないメインで①と②⑤ログキャンをメイン1,2とサブ1,2でまわす⑥これでできたたったこれだけである。RSPassがあったら②の内容が増えるだけ。2PCにして60分放置をする工程を捻出。少なくとも、今はメイン1,2ともにレベ上げと装備更新の意味が見出せ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[みゅー？？なんだか てけてけ]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=551</id>
