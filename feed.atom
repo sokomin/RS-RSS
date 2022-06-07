@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-07T03:22:01.421Z</updated>
+    <updated>2022-06-07T04:06:17.926Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[みゅー？？なんだか てけてけ]]></title>
+        <id>http://rs.bigcat31.floppy.jp/?eid=551</id>
+        <link href="http://rs.bigcat31.floppy.jp/?eid=551"/>
+        <updated>2022-06-07T03:33:38.000Z</updated>
+        <summary type="html"><![CDATA[オシゴトがテキトーなのですデータをひたすら かき集めるという、、、しかも、チェックせんと あかんと、、猫の手より人の手を借りたいが？？？まー、簡単なオシゴトだからね、休み休みやったるでー✩え？？休みが多い？？？てけてけだからね、みーたんのオシゴトは...]]></summary>
+        <author>
+            <name>猫ノみぃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記#２９]]></title>
         <id>https://www.youtube.com/watch?v=qy_DQ9hy2ug</id>
