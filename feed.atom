@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-07T19:48:35.087Z</updated>
+    <updated>2022-06-07T20:24:46.787Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -999,16 +999,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[突然ですが、みなさん『さようなら！』ボトル姫のハニーは昨日まで！！今日から、スーパーアイドルとしてデビューしました！いや～前々からね？少し頭打ち感を感じていたのよ（繰り返し）それでもまあ、ボトル姫から転向する理由もなかったのですが・・・・・※女神で底上げ中（実体は９８９レベ）このイカさんMB（ミッションブック）を進めていくとぶち当たる壁海底神殿B１のイカさん！１週間ぐらいチャレンジして１体しか倒せてな]]></summary>
         <author>
             <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毒悪魔の改変に向けて]]></title>
-        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202205090000/</id>
-        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202205090000/"/>
-        <updated>2022-05-09T08:00:42.000Z</updated>
-        <summary type="html"><![CDATA[半年ぶりくらいの更新です。正月頃に裸でブレもらったらブレ強すぎるこれ以外にネタが全くない。RSやる時間がほとんど取れてなかったけど、最近は落ち着いてきてちょっとは出来てるから更新も一か月に一度は出来...]]></summary>
-        <author>
-            <name>たつ2307</name>
         </author>
     </entry>
 </feed>
