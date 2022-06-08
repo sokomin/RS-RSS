@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-08T16:30:56.447Z</updated>
+    <updated>2022-06-08T17:00:31.552Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1083,16 +1083,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[明日のメンテはただのメンテだけど、来週はアプデです。さすがに変更しないよね？RED'sルーレットは5/11(水)メンテまでのため、0時～8時半なら1回できますよっと。ﾊﾁｼﾞﾊｱｱｱｱﾝで、今週の土曜日は久しぶりの3倍石の日です。前回は去年の11月でしたからだいぶ空いたなぁと。狩場の混雑は確定ですので、空いてたらラッキーくらいでいきましょう。いっそ壺PTに使うのも？んでもって、来週のメンテは延期されていたアプデが来ます。何度]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[さて他にやることもないので]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205100000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202205100000/"/>
-        <updated>2022-05-10T04:45:13.000Z</updated>
-        <summary type="html"><![CDATA[速度装備でも作りましょうかね。私の場合、クリーチャーがこれなので、そこまで装備に速度は要りません。まず、これを破片強化します。取引不可なので、自分で混沌行かないといけないのが本当に・・これです。（...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
