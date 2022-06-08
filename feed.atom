@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-08T12:44:19.315Z</updated>
+    <updated>2022-06-08T13:42:06.883Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[更新は遅れましたが、日付が変わってないので問題ありません]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-852.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-852.html"/>
+        <updated>2022-06-08T13:08:02.000Z</updated>
+        <summary type="html"><![CDATA[ヨシッ！！【配布品など】・黄金週間ミッションのアイテムのほう（SPは先週に配りました）・クリーチャー冒険イベント・パソコンガードを6/16(木)までに解除すること（IEのサポート終了のため）これ以降はめんどうな手続きで解除しないといけない。メールアドレスが死んでると死ぬやつ。こっちは公式のあれこっちはパソコンガードのほう【討伐+】6/22(水)メンテまで。エリアボス討伐の完了回数を集計し、1日3回まで微妙な箱がもら]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[気づけば半年(´-ω-`)]]></title>
         <id>https://ameblo.jp/keykeykey2010/entry-12747227585.html</id>
