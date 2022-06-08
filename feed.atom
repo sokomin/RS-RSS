@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-08T05:48:29.065Z</updated>
+    <updated>2022-06-08T06:26:24.186Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1232.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1232.html"/>
+        <updated>2022-06-08T06:17:25.000Z</updated>
+        <summary type="html"><![CDATA[☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..討伐＋イベント文字通りファルコンとかゲリオとかの討伐ボスを倒すだけですね。討伐の完了回数を集計して、1日最大3個まで討伐完了プレゼントBoxというのをプレゼントのようですね。中身はまぁ・・・・・・イベントページにてご確認ください。期間中50回以上倒せば抽選1名に幸運チケットボックスプレゼントらしいです。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..課金キャンペー]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[動け、このポンコツが…動けってんだよ！！（ガンっ！！）]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-851.html</id>
