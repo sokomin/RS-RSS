@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-09T22:23:07.241Z</updated>
+    <updated>2022-06-09T22:49:52.372Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1073,16 +1073,6 @@ MARCH  UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想定よりは多いな…]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-844.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-844.html"/>
-        <updated>2022-05-11T10:23:36.000Z</updated>
-        <summary type="html"><![CDATA[0か1くらいと思ってた【配布品とか】・港町Box・祈りカケライベント・17周年カムバック公式のあれ【ネフォンクリーチャー冒険ランキングイベント】5/29(日)23:59まで。日曜締め切りの珍しいパターン。クリーチャー冒険の完了回数と結果で集計する…のだが、ちょっと特殊。大成功、成功、通常にポイントが設定されている。8,3,1といった感じに。ポイント制？！で、冒険回数は各日ごとに最大のポイント数となるよう、2回までとなって]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
