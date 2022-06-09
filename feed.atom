@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-09T03:34:21.796Z</updated>
+    <updated>2022-06-09T04:11:32.546Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【リアル】腰痛襲来！]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-907.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-907.html"/>
+        <updated>2022-06-09T03:47:29.000Z</updated>
+        <summary type="html"><![CDATA[仕事は在宅ワークで何とかなってるが、PCゲームが何も出来ない状態。スマホdiabloも疲れるからやってないし、腰をやると本当に厳しいね。来週までには治るとよいな@1週間経過中]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利益分配受取型？？再投資型？]]></title>
         <id>http://rs.bigcat31.floppy.jp/?eid=554</id>
