@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-09T17:49:42.803Z</updated>
+    <updated>2022-06-09T18:26:16.795Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1083,16 +1083,6 @@ MARCH  UPDATE -->
         <summary type="html"><![CDATA[0か1くらいと思ってた【配布品とか】・港町Box・祈りカケライベント・17周年カムバック公式のあれ【ネフォンクリーチャー冒険ランキングイベント】5/29(日)23:59まで。日曜締め切りの珍しいパターン。クリーチャー冒険の完了回数と結果で集計する…のだが、ちょっと特殊。大成功、成功、通常にポイントが設定されている。8,3,1といった感じに。ポイント制？！で、冒険回数は各日ごとに最大のポイント数となるよう、2回までとなって]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1228.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1228.html"/>
-        <updated>2022-05-11T06:07:18.000Z</updated>
-        <summary type="html"><![CDATA[゜。°。°。°。°。°。°。°。゜。°。°。°。ネフォンクリーチャー冒険ランキングイベントクリーチャーを冒険させるだけですね。冒険結果によって獲得ポイントが変わるようで「大成功」＝8ポイント「成功」＝3ポイント「通常」＝1ポイントとなっているようです。詳細は公式サイトのイベントページでご確認ください。やるのであれば1日で完了する冒険で毎日欠かさないほうが良さそう。゜。°。°。°。°。°。°。°。゜。°。°。°。課金キャン]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
