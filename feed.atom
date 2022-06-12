@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-12T14:48:21.122Z</updated>
+    <updated>2022-06-12T15:20:53.378Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パソコンガードの終了、ワンタイムキーの設定]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-751.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-751.html"/>
+        <updated>2022-06-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[息子のクラスでは席替えがあったそうです席替えと言えば学生時代の思い出を左右する一大イベントですよね私も当時は席替えのたびに頭にこれが流れていましたいつもドキドキ感を煽られていました折り畳み傘を使ってレーザーブレードの真似を良くしていましたちなみに息子は隣の女子こそ好みの可愛い生徒の様ですが教壇の前と言う何とも言えないくじ運だったそうですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【モンスターファーム２】３０代ホイホイ育成ゲームその１]]></title>
         <id>https://www.youtube.com/watch?v=8tJWK3vALoE</id>
@@ -1117,16 +1127,6 @@ The post 取り返しのつかない要素 梟カーペット【RED STONE】 fir
 運ばれてきた流れを...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウォーミングアップと装備改造]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-167.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-167.html"/>
-        <updated>2022-05-14T02:49:07.000Z</updated>
-        <summary type="html"><![CDATA[どなたか、このへんに置いてあったゴールデンウィーク、知りませんか？ちょっと目を離していた隙に、いなくなってしまったのです。見つけられましたらこちらまでご報告よろしくお願いします。第三の猫です。これ以上性向を下げられないので、久しぶりに天上へ行ってベルセルクを強化しました。ちょっぴり性能がアップして、戦い終わってから使い損ねたことに気づいた時のがっかり感も増量されました。忘れないうちにレイド戦に直行]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
