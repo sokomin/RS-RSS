@@ -234,6 +234,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KTfMFK03PbQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KTfMFK03PbQ",
+          "publishedOn": "2022-06-12T08:33:21.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記#３０",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qy_DQ9hy2ug",
           "author": null,
           "description": "",
