@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-13T16:36:25.968Z</updated>
+    <updated>2022-06-13T17:04:08.284Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1109,15 +1109,6 @@ The post 取り返しのつかない要素 梟カーペット【RED STONE】 fir
         <summary type="html"><![CDATA[先日ママ友と話している際に「あおり運転をされてしまった時どうしよう？」と言っている方が多かったです近年ではあおり運転に関する法律も出来て事件のニュースも良く目にするようになりました合ってしまったらこう対処すると良いそうです相手が格闘家だったとかヤバイ人だったと言うのも良く聞きます車の運転をする時は気をつけましょうねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識ランサー/アーチャー育成配信#3【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=0RJ1t6lRK7s</id>
-        <link href="https://www.youtube.com/watch?v=0RJ1t6lRK7s"/>
-        <updated>2022-05-15T04:52:17.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
