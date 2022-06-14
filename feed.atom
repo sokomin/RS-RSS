@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-14T02:08:42.471Z</updated>
+    <updated>2022-06-14T03:58:58.520Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】これから]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-908.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-908.html"/>
+        <updated>2022-06-14T03:26:38.000Z</updated>
+        <summary type="html"><![CDATA[ディメンションはおろか、攻城戦さえINしなくなった。腰痛が治っていないのもあるが、毎日のログインさえしないのは、自分の中で休止フラグが立っているからだと思う。REDSTONEも17年続いていて、そろそろサービス終了じゃね？と言われつつ、生き永らえて久しい。15年続いていたスクエニのファンタジーアースゼロ(通称FEZ)も9月でサービス終了が発表されたし、REDSTONEもいつ発表されても不思議じゃない状況ではありそう。ただし、]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1年ぶりにこんばんは]]></title>
         <id>http://fukars.blog.fc2.com/blog-entry-312.html</id>
@@ -1099,16 +1109,6 @@ The post 取り返しのつかない要素 梟カーペット【RED STONE】 fir
         <summary type="html"><![CDATA[RSに関連しない今（2022/5/16現在）ホット？な話題について。まぁ適当な内容だし、いつも通りな追記のあれだからうん。あとは追記]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宝箱について]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-747.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-747.html"/>
-        <updated>2022-05-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日ママ友と話している際に「あおり運転をされてしまった時どうしよう？」と言っている方が多かったです近年ではあおり運転に関する法律も出来て事件のニュースも良く目にするようになりました合ってしまったらこう対処すると良いそうです相手が格闘家だったとかヤバイ人だったと言うのも良く聞きます車の運転をする時は気をつけましょうねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
