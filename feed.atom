@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-14T15:52:01.428Z</updated>
+    <updated>2022-06-14T16:33:56.237Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドラゴンボールが４個集まった]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202206150000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202206150000/"/>
+        <updated>2022-06-14T16:19:34.000Z</updated>
+        <summary type="html"><![CDATA[赤枠で囲った部分が本物のドラゴンボールですねｗあと3個で願いが叶うのですが、防御超級Ⅱはぶっちゃけ要らないですよね。表記30万の物理なんか痛くも痒くもないので、表記制限が改善されるまで防御超級は35％で...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【モンスターファーム２】３０代ホイホイ育成ゲームその２]]></title>
         <id>https://www.youtube.com/watch?v=060sX5Kv7tE</id>
