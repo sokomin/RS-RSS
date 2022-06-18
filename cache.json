@@ -4,18 +4,7 @@
       "title": "GMの抵抗ワショーイ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
-      "articles": [
-        {
-          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202205200000/",
-          "author": "そこらの民衆",
-          "description": "アプデに関して大分情報が出そろってきたので考察してみます。【5/19 17:00更新】Ver0.0775アップデート、新規追加内容をご紹介に記載されている内容をどういう感じで生かしていくコンテンツなのかも含めてご紹介...",
-          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202205200000/",
-          "publishedOn": "2022-05-19T15:41:39.000Z",
-          "wordCount": 211,
-          "title": "2022/5/18 日本赤石アプデ考察",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/a5431f3501cc3719315104beb2b9414355bf66c6.10.9.9.3.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "KHBの部屋",
