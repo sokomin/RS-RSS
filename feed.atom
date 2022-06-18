@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-18T18:51:15.889Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-18T19:18:00.909Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
     <entry>
