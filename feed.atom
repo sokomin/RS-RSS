@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-19T14:48:19.261Z</updated>
+    <updated>2022-06-19T15:22:07.761Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アップルパイ]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-752.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-752.html"/>
+        <updated>2022-06-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7月に発売になるスイッチのソフトでリメイク物があるのですが先日一つの動画が公開されました影山さんが歌うと知ってわくわくしております近未来編は好きだったので楽しみですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エピソードクエスト「ぶつかる双星」 Chapter 2　攻略チャート作成]]></title>
+        <id>https://khbsroom.com/episode_que_butsukaru_sousei_02.html</id>
+        <link href="https://khbsroom.com/episode_que_butsukaru_sousei_02.html"/>
+        <updated>2022-06-19T14:54:00.000Z</updated>
+        <summary type="html"><![CDATA[2022/5/18 アップデートにより実装された、エピソードクエスト「ぶつかる双星」 Chapter 2の攻略チャートを作成しました。]]></summary>
+        <author>
+            <name>KHBの部屋</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黒魔育成配信#1【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=mdo6ZeHvkpM</id>
