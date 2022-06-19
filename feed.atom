@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-19T17:48:28.551Z</updated>
+    <updated>2022-06-19T18:24:17.391Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1059,16 +1059,6 @@ ONにしておくと時々音符マークがでて周囲に効果をもたらす
         <updated>2022-05-21T07:36:41.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地下墓地どこだ]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-168.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-168.html"/>
-        <updated>2022-05-21T05:53:37.000Z</updated>
-        <summary type="html"><![CDATA[桜フェスタイベントが始まりました。フランデル大陸の桜は遅咲きなんですね。こんにちは、SHIFTからのキー入力で開花するギミックは、割と良いと思う第三の猫です。→←↑→こんな感じですね。あと、新キャラであるキャプテン用の装備がドロップしました。専用鎧はシャツ。力が増加します。お酒は……補助武器でしょうか？武器はまだドロップしていませんが、多分錨だと思います。ところで、キャプテン本体はまだですかね？はい。最近は]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
