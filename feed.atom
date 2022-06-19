@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-19T03:47:04.288Z</updated>
+    <updated>2022-06-19T04:35:20.611Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黒魔育成配信#1【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=mdo6ZeHvkpM</id>
+        <link href="https://www.youtube.com/watch?v=mdo6ZeHvkpM"/>
+        <updated>2022-06-19T04:09:21.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[密教あれこれ（後編）]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-170.html</id>

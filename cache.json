@@ -138,6 +138,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mdo6ZeHvkpM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mdo6ZeHvkpM",
+          "publishedOn": "2022-06-19T04:09:21.000Z",
+          "wordCount": null,
+          "title": "黒魔育成配信#1【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cIEqaTkPC4I",
           "author": null,
           "description": "",
