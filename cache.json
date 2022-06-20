@@ -187,16 +187,6 @@
           "wordCount": null,
           "title": "知識剣士育成配信#1【 REDSTONE 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JOkOWpqmC5g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JOkOWpqmC5g",
-          "publishedOn": "2022-05-21T15:58:34.000Z",
-          "wordCount": null,
-          "title": "【2022/5/18アプデ】精鋭討伐挑戦配信【 REDSTONE 】",
-          "imageUrl": null
         }
       ]
     },
@@ -216,7 +206,18 @@
       "title": "ファーぶろぐ ☆ RED STONE ブリッジヘッド鯖",
       "feedUrl": "http://ashash.cocolog-nifty.com/blog/index.rdf",
       "siteUrl": "http://ashash.cocolog-nifty.com/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://ashash.cocolog-nifty.com/blog/2022/06/post-d93787.html",
+          "author": "シェララ",
+          "description": "近日中にＵＰします。（予定）...",
+          "link": "http://ashash.cocolog-nifty.com/blog/2022/06/post-d93787.html",
+          "publishedOn": "2022-06-20T03:45:46.000Z",
+          "wordCount": 232,
+          "title": "予告",
+          "imageUrl": "http://ashash.cocolog-nifty.com/.shared-pleasy/nifty_managed/images/web/ogp/default.png"
+        }
+      ]
     },
     {
       "title": "ロイ4世",

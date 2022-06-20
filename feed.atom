@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-20T03:21:46.799Z</updated>
+    <updated>2022-06-20T04:05:30.794Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[予告]]></title>
+        <id>http://ashash.cocolog-nifty.com/blog/2022/06/post-d93787.html</id>
+        <link href="http://ashash.cocolog-nifty.com/blog/2022/06/post-d93787.html"/>
+        <updated>2022-06-20T03:45:46.000Z</updated>
+        <summary type="html"><![CDATA[近日中にＵＰします。（予定）...]]></summary>
+        <author>
+            <name>シェララ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[セイバーの足鎧Lv30]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202206200000/</id>
@@ -1041,15 +1051,6 @@ ONにしておくと時々音符マークがでて周囲に効果をもたらす
 ばいば～～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2022/5/18アプデ】精鋭討伐挑戦配信【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=JOkOWpqmC5g</id>
-        <link href="https://www.youtube.com/watch?v=JOkOWpqmC5g"/>
-        <updated>2022-05-21T15:58:34.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
