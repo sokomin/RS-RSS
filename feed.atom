@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-21T01:59:32.467Z</updated>
+    <updated>2022-06-21T03:41:14.325Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -980,16 +980,6 @@ ONにしておくと時々音符マークがでて周囲に効果をもたらす
         <updated>2022-05-23T06:13:06.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5月18日アップデート　【精鋭討伐、桜イベント、セットOP他】]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-748.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-748.html"/>
-        <updated>2022-05-22T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日うちの息子が可愛い可愛いと連呼しているので何かなと思って聞いてみたらこれでしたうちにも少し前まで柴犬を飼っていたのですがやはり雷の時はガクガクに震えていましたこれから時期的にも雷は多くなりますので気をつけたいところですねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
