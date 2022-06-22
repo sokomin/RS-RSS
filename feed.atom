@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-22T05:48:25.955Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-22T06:27:01.257Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1234.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1234.html"/>
+        <updated>2022-06-22T06:25:15.000Z</updated>
+        <summary type="html"><![CDATA[☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..スペシャルデイリーログインイベント通常のデイリーログインと同様に１日１回受け取れるものですね。ミニマップ上部のチェックボタンから受け取り可能です。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..新キャラクイズ新キャラクター「キャプテン」に関するクイズですね。回答するには公式サイトにログインしてイベントページにあるクイズに回答するボタンを押してください。☆.。]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ご無沙汰になってしまいました]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-955.html</id>
