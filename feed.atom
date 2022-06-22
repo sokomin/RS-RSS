@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-22T20:22:35.770Z</updated>
+    <updated>2022-06-22T20:48:33.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1026,16 +1026,6 @@ ONにしておくと時々音符マークがでて周囲に効果をもたらす
         <summary type="html"><![CDATA[.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*.:*~*:._.:*~*:._.:*~*:チャレンジイベント実質計4つのチャレンジをクリアするイベントですね。1．ギルドデイリークエストを25回以上クリア2．レイドで紛失した冒険団Boxを1回以上入手3．試練のダンジョンで試練の証を10回以上入手4．ミント、アミール、フニンのいずれかに「変異したレッドストーン」を1回以上渡す以上の4つをクリアすればOKですね。これらすべてをクリアすると抽選1名にLRク]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぶゆーデンデンデン]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=548</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=548"/>
-        <updated>2022-05-24T08:42:54.000Z</updated>
-        <summary type="html"><![CDATA[電車が遅れてるので？？時間グルグル発動☆ヒマなのねぶゆーデン？ぶゆーデン！？ぶゆーデンデンデンデンデン♪ぶゆーデンといえば？？初期のころは、スリング殴り姫育ててたわー、ダメの増加が極小だからマスっても意味ナスというね範囲攻撃したいならバルーンアタックがユ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
