@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-23T17:50:52.066Z</updated>
+    <updated>2022-06-23T18:27:53.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1016,16 +1016,6 @@ ONにしておくと時々音符マークがでて周囲に効果をもたらす
         <summary type="html"><![CDATA[ごみクリスタルくんさぁ…【配布物とか】・臨時メンテお詫び（1時間スフィアと1時間パワキそれぞれ4個）・ゴールドキャンペ・精鋭討伐で経験値が複数回取れてた不具合修正・復活のログイン時4数字・セットOPつけると増幅再構成ができなかったのを修正・特定状況下での鯖落ち対策・断続的にゲームから切断される現象が発生しています。また臨時メンテするの？公式のあれ【コンプマスにごみを入れた永遠に汚れる事なきログキャン】6/2]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1230.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1230.html"/>
-        <updated>2022-05-25T06:18:37.000Z</updated>
-        <summary type="html"><![CDATA[.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*.:*~*:._.:*~*:._.:*~*:チャレンジイベント実質計4つのチャレンジをクリアするイベントですね。1．ギルドデイリークエストを25回以上クリア2．レイドで紛失した冒険団Boxを1回以上入手3．試練のダンジョンで試練の証を10回以上入手4．ミント、アミール、フニンのいずれかに「変異したレッドストーン」を1回以上渡す以上の4つをクリアすればOKですね。これらすべてをクリアすると抽選1名にLRク]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
