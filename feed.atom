@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-24T18:28:30.780Z</updated>
+    <updated>2022-06-24T18:54:26.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -943,6 +943,16 @@ ONにしておくと時々音符マークがでて周囲に効果をもたらす
         <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202205270000/"/>
         <updated>2022-05-27T06:24:03.000Z</updated>
         <summary type="html"><![CDATA[​​リバースHPだよ！​​↑クリック以前紹介したときよりも内容がかなり充実しています。是非、ご覧ください。PCで当ブログをご覧の方は、左にある　Freepage List　にリンクがありますので、そこから飛ぶことができ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近況報告]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205260000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202205260000/"/>
+        <updated>2022-05-27T03:30:29.000Z</updated>
+        <summary type="html"><![CDATA[ちょっと更新が滞っていましたね＾＾；前回の記事にも書きましたが、若干モチベが下がっておりまして、ブログの更新が面倒になっていました。ぶっちゃけるとRSにインするのも億劫で、しばらく放置しようかなと思...]]></summary>
         <author>
             <name>雷神の弓</name>
         </author>
