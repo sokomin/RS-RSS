@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-25T17:48:17.797Z</updated>
+    <updated>2022-06-25T18:25:52.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -935,16 +935,6 @@ ONにしておくと時々音符マークがでて周囲に効果をもたらす
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re:BirthのHP　かなり進化しています]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205270000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202205270000/"/>
-        <updated>2022-05-27T06:24:03.000Z</updated>
-        <summary type="html"><![CDATA[​​リバースHPだよ！​​↑クリック以前紹介したときよりも内容がかなり充実しています。是非、ご覧ください。PCで当ブログをご覧の方は、左にある　Freepage List　にリンクがありますので、そこから飛ぶことができ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
