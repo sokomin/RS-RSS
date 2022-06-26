@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-26T19:48:20.852Z</updated>
+    <updated>2022-06-26T20:21:35.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -908,52 +908,6 @@ B鯖
         <summary type="html"><![CDATA[デイリーのエリアボス討伐で大物を引き当てたエト子。 普通に狩りしているだけでポロッとUMUを拾ってくるようになった長女。 兄弟の討伐許可証をまとめて消費してようやく1~2個のUMU…]]></summary>
         <author>
             <name>The Adventure Of The Jacks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[悪魔の覚醒－アラクノエンブレス－]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/91371d67a94487373f6586bccbf291e5</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/91371d67a94487373f6586bccbf291e5?fm=rss"/>
-        <updated>2022-05-28T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[昨日は豪雨でしたが今日は一転晴れ。
-
-覚醒タイプは「アラクノエンブレス」
-
-「エクスタシーボム」
-
-専用強化スキルは「モータルクラウド」
-
-範囲の毒ガススキル。
-
-強化スキルの１つは「ポイズンボム」
-
-単体の攻撃スキルで獲得スキルでもある。
-
-ちなみにポイズンガスで中毒状況にすると
-
-打撃数が増加するのでそれなりに使えそうです。
-
-もう１つの強化スキルは「ディープスロウ」
-
-ONにしておくと時々音符マークがでて周囲に効果をもたらすようです。
-
-
-私の手持ち悪魔はバインド覚醒ですが、この覚醒はこの覚醒で楽しいかと思います。
-ただ毒スキルは意外と目が痛くなりそうなエフェクトなので使うかといわれると微妙。
-レベルがあがってどの程度になるのか気になるので、煉獄ちゃんには頑張って育成してほしいと思います。
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
