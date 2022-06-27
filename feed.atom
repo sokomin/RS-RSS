@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-27T15:53:43.218Z</updated>
+    <updated>2022-06-27T16:34:15.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -888,6 +888,16 @@ B鯖
         <updated>2022-05-29T06:03:33.000Z</updated>
         <author>
             <name>そこらの民衆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お買い物]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202205290000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202205290000/"/>
+        <updated>2022-05-29T05:48:12.000Z</updated>
+        <summary type="html"><![CDATA[必要かどうかよりも、直感を大切にしますｗ（要は映えるかどうかです！）これは、攻城用の面白装備として使うことにします。（うちのGはGvで”眠り”を禁止にしているので）城で使うだけなんで2解放でOKなんだけど...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
