@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-28T15:23:40.126Z</updated>
+    <updated>2022-06-28T15:52:19.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -849,16 +849,6 @@ B鯖
         <summary type="html"><![CDATA[本鯖の狩り時は↑の状態になっています。アリーナでは、ミニ超越スキル初期化の書（2個）を持っていって、使わないスキルと禁止されたスキルをリセットして、炎の石とぺパミンを持ち込んで時空の歪み等のレベルを...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】起爆剤が欲しかっただけ]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-905.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-905.html"/>
-        <updated>2022-05-30T03:23:46.000Z</updated>
-        <summary type="html"><![CDATA[攻城戦以外、ログインするだけになっているが、少しヤル気が出る話題があった。セットお守り「節制」の6セット効果「ダメ+1000%」が熱いらしい。Discordの戦士板でも話題に挙がっていて、表記には反映されないが、実ダメは上がるとか。問題は、セットお守りを付けるには既存オプションを赤解除する必要があり、キャラ間で使い回している場合、調整が難しいこと。自分の場合、頭、首、腰は雨アチャと使い回しだから、これら装備のオ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
