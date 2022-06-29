@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-29T21:35:16.256Z</updated>
+    <updated>2022-06-29T21:48:29.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -846,60 +846,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[それは毎日130ポイントとアイテムの入手第3弾より一日の上限が変わったため、だいぶ余裕をもって間に合う仕様になりました。次は期間短くするのかな？そのため、多少のさぼりがゆるされるし、早く終わればそれはそれで解放されるってこと。…でまぁ、回収を先延ばしにしていたらもう終わりに近づいているわけで。ラウンド1、ふぁい！！※このあとちゃんとプレミアムパスをねじこんで下段も開けました。銀行はかつかつ、G倉庫もかつか]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/1~31☆]]></title>
-        <id>https://ameblo.jp/sakuyuno0822/entry-12745761890.html</id>
-        <link href="https://ameblo.jp/sakuyuno0822/entry-12745761890.html"/>
-        <updated>2022-05-31T09:45:51.000Z</updated>
-        <summary type="html"><![CDATA[こんばんちゃお(´・ω・｀)
- 
- 
- 
-ご無沙汰してます。もこもこです
- 
- 
-さてここ１ヶ月のレベルははたして・・・？！
- 
- 
- 
-V鯖
- 
-
- 
-B鯖
- 
-
- 
- 
-。。。（ ＾ω＾）
- 
- 
-全然あがってない(´・ω・｀)
-サボリすぎた。
- 
- 
- 
-ふにゃ～～～～。
- 
-早くキャプテンが実装されてほしいです。
-そしたらモチベあがるかもしれん(ΦωΦ)
- 
- 
-それまでは地味にレベリングがんばっていきますね。
- 
- 
-今日は短いけどここらで終わりにします。
- 
- 
-では
-またみてね
- 
- 
-ばいば～い・ω・ﾉｼ]]></summary>
-        <author>
-            <name>もこもこの時たま日常レッドストーン</name>
         </author>
     </entry>
 </feed>
