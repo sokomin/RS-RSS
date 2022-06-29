@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-29T14:18:48.437Z</updated>
+    <updated>2022-06-29T15:28:54.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -900,16 +900,6 @@ B鯖
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面白いゲームとは？？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=549</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=549"/>
-        <updated>2022-05-31T02:28:52.000Z</updated>
-        <summary type="html"><![CDATA[ちょいとゲーム作成中につき、メモメモ面白い、ってなにさ？？面が白い＝美白が良いとされたのは昔のハナシ？？んがー！？面白いゲームねー、画像やアニメーションの良さ、個性的、つい笑える魅力、ルールにそって競う、ストーリー、取引、裏技、成長、交流、短時間or長時...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
