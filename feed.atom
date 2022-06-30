@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-30T22:48:19.094Z</updated>
+    <updated>2022-06-30T23:31:28.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -784,49 +784,6 @@ GW後半のU品10個ゲットしようというミッションの時は数個し
         <updated>2022-06-01T13:58:43.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.6.1 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/e1db7e6b3dfcd43e1f12ce3727d75366</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/e1db7e6b3dfcd43e1f12ce3727d75366?fm=rss"/>
-        <updated>2022-06-01T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[6月になりました。
-
-MAY UPDATE -->
-
-
-
-
-
-
-
-4月20日メンテ後から5月11日メンテ前まで
-
-
-課金イベントはこちら
-
-
-
-
-
-5月18日メンテ後から6月8日メンテ前まで
-
-
-来週またイベントの入れ替えがあるかな？
-そろそろ梅雨入りです。
-体調管理に気を付けましょう。
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
