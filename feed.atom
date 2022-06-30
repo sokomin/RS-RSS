@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-30T19:48:15.079Z</updated>
+    <updated>2022-06-30T20:24:11.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -837,16 +837,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[遅れた原因はそれなのか…？【配布品など】・臨時メンテに伴う1時間スフィアと1時間パワキ各3・黄金週間ミッションのSPのほうだけ※アイテムは来週に持ち込み・港町Box公式のあれ【超（？）武装祭】6/15(水)メンテまで一応3つのイベントがある①ログインプレゼント後日プレゼントされるやつ。最後のは13日必要なため、猶予は2日。一応使えるものが多いし、ログキャンもいつも通りやってるからとりあえずINはしよう②ミッションプレゼン]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1231.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1231.html"/>
-        <updated>2022-06-01T07:58:31.000Z</updated>
-        <summary type="html"><![CDATA[゜。°。°。°。°。°。°。°。゜。°。°。°。超武装祭装備関連のイベントみたいですね。イベント内容が3つあり1．期間中のログイン日数に応じて対象者全員プレゼント2．期間中ログインが12日以上でミッション1～4を達成した方に抽選権獲得3．特性封印開放箱系の成功確率アップ2つ目に関してのミッションですがこれは公式サイトのイベントページにてご確認ください。゜。°。°。°。°。°。°。°。゜。°。°。°。課金キャンペーンは刻銘ロト]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
