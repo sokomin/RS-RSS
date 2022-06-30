@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-30T22:21:35.602Z</updated>
+    <updated>2022-06-30T22:48:19.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -756,6 +756,15 @@ GW後半のU品10個ゲットしようというミッションの時は数個し
         <summary type="html"><![CDATA[アリアン徘徊中に安い成功70％の上級結晶を見つけたので購入。貼り付けの為、自リロを除去。消えてもいい装備だったので、賢者なしでやりました。全異常が46だったので、再構成を十数回やって49を引きました。今...]]></summary>
         <author>
             <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#２７]]></title>
+        <id>https://www.youtube.com/watch?v=SpbDn7Yxj_E</id>
+        <link href="https://www.youtube.com/watch?v=SpbDn7Yxj_E"/>
+        <updated>2022-06-01T14:59:44.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
