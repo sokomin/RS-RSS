@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-30T21:20:48.098Z</updated>
+    <updated>2022-06-30T21:37:32.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -827,16 +827,6 @@ MAY UPDATE -->
         <updated>2022-06-01T09:46:54.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アイテムの配布は置いてきた]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-849.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-849.html"/>
-        <updated>2022-06-01T09:34:18.000Z</updated>
-        <summary type="html"><![CDATA[遅れた原因はそれなのか…？【配布品など】・臨時メンテに伴う1時間スフィアと1時間パワキ各3・黄金週間ミッションのSPのほうだけ※アイテムは来週に持ち込み・港町Box公式のあれ【超（？）武装祭】6/15(水)メンテまで一応3つのイベントがある①ログインプレゼント後日プレゼントされるやつ。最後のは13日必要なため、猶予は2日。一応使えるものが多いし、ログキャンもいつも通りやってるからとりあえずINはしよう②ミッションプレゼン]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
