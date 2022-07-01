@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-30T23:48:15.949Z</updated>
+    <updated>2022-07-01T02:21:55.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -763,25 +763,6 @@ GW後半のU品10個ゲットしようというミッションの時は数個し
         <id>https://www.youtube.com/watch?v=SpbDn7Yxj_E</id>
         <link href="https://www.youtube.com/watch?v=SpbDn7Yxj_E"/>
         <updated>2022-06-01T14:59:44.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【DIABLO】事前ダウンロード＆インストールきた～]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-906.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-906.html"/>
-        <updated>2022-06-01T14:07:05.000Z</updated>
-        <summary type="html"><![CDATA[結構インストールに時間掛かるから、即やりたい人は事前にダウンロード＆インストールしようね！ちなみに、スマホ版は今日からプレイできる。自分の本命はもちろんPC版（オープンβテスト）だけど、会社とかで昼休みにやるには十分な出来かな。PC版、期待高まるわ～]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#２８]]></title>
-        <id>https://www.youtube.com/watch?v=gF8CVAnPhjs</id>
-        <link href="https://www.youtube.com/watch?v=gF8CVAnPhjs"/>
-        <updated>2022-06-01T13:58:43.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>
