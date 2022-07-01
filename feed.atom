@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-01T22:49:28.674Z</updated>
+    <updated>2022-07-01T23:21:15.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -750,42 +750,6 @@ MAY UPDATE -->
 The post 2022年4～5月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
         <author>
             <name>cho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.5月のドロップ~♪]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/28a25e64579ada1130b0f00df31691f8</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/28a25e64579ada1130b0f00df31691f8?fm=rss"/>
-        <updated>2022-06-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ここ最近また腰が痛くなりました。
-
-
-
-
-
-
-物理IDが頑張ってくれました。
-ただねぇ・・・GW前半にほとんどでたんですよね(￣ω￣;)
-GW後半のU品10個ゲットしようというミッションの時は数個しかでなかった( ﾉД`)ｼｸｼｸ…
-逆に前半赤石50個の時はでなかったのに後半は50個超えるくらいでたという有様。
-本当タイミングが悪いですね。
-
-
-5月はギルドデイリーのU品分解には事欠きませんでしたが、もうなくなりました。
-またでてくれるといいけどなぁ・・・・
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
