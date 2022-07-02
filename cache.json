@@ -4,7 +4,18 @@
       "title": "GMの抵抗ワショーイ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202202100000/",
+          "author": "そこらの民衆",
+          "description": "中古のPCは初心者にはオススメできないものの、ある程度自分でPCのメンテができる人にとってはコスパが良かったりする。「サーバ機のようにとりあえず動けばいい」「Officeとか付属品いらない」などの運用マシン...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202202100000/",
+          "publishedOn": "2022-07-02T22:53:44.000Z",
+          "wordCount": 947,
+          "title": "中古PC買って匂いのお掃除してみた",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/5137cb5dfb648bb3e825454662b7f429209ec7a2.10.9.9.3.png"
+        }
+      ]
     },
     {
       "title": "KHBの部屋",
@@ -128,6 +139,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8pMAy5Ifr2KgH8kM_xR9Og",
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZiFu6qLFakg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZiFu6qLFakg",
+          "publishedOn": "2022-07-02T23:12:38.000Z",
+          "wordCount": null,
+          "title": "知識ランサー/アーチャー育成配信#4【 REDSTONE 】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=i5HHNMY62dM",
           "author": null,
@@ -259,16 +280,6 @@
           "publishedOn": "2022-06-06T06:10:30.000Z",
           "wordCount": null,
           "title": "ディアブロイモータル配信！デーモンハンター のんびり雑談しながらやります",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_UbUd_AYDdI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_UbUd_AYDdI",
-          "publishedOn": "2022-06-03T11:17:18.000Z",
-          "wordCount": null,
-          "title": "ディアブロイモータル配信！ストーリーをしながら雑談します！LV36　デーモンハンター",
           "imageUrl": null
         }
       ]
