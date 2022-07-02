@@ -243,16 +243,6 @@
           "wordCount": null,
           "title": "【REDSTONE】赤石育成日記#２９",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gF8CVAnPhjs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gF8CVAnPhjs",
-          "publishedOn": "2022-06-02T16:24:42.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】赤石育成日記#２８",
-          "imageUrl": null
         }
       ]
     },
@@ -765,6 +755,16 @@
       "feedUrl": "http://3rdcat.blog.fc2.com/?xml",
       "siteUrl": "https://3rdcat.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://3rdcat.blog.fc2.com/blog-entry-171.html",
+          "author": "第三の猫",
+          "description": "とても暑い日が続く今日この頃。熱中症とPCの熱暴走には気を付けたいですね。さて、ついに900レベルが目前になりました.。カラフル第三の猫。レイド戦で仕上げにかかります。残り158億の経験値を確実に稼ぐために、今回はクリスタルを持ってきました。実は、ここのところ毎週クリスタルを忘れていたせいで、uramichannelにレベルを追い越されました。勝利の女神補正でそう見えているだけの可能性はありますか？それでは女神をかけ",
+          "link": "https://3rdcat.blog.fc2.com/blog-entry-171.html",
+          "publishedOn": "2022-07-02T04:32:30.000Z",
+          "wordCount": null,
+          "title": "レベル900",
+          "imageUrl": null
+        },
         {
           "id": "https://3rdcat.blog.fc2.com/blog-entry-170.html",
           "author": "第三の猫",

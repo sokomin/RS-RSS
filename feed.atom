@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-02T03:53:06.912Z</updated>
+    <updated>2022-07-02T04:41:01.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レベル900]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-171.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-171.html"/>
+        <updated>2022-07-02T04:32:30.000Z</updated>
+        <summary type="html"><![CDATA[とても暑い日が続く今日この頃。熱中症とPCの熱暴走には気を付けたいですね。さて、ついに900レベルが目前になりました.。カラフル第三の猫。レイド戦で仕上げにかかります。残り158億の経験値を確実に稼ぐために、今回はクリスタルを持ってきました。実は、ここのところ毎週クリスタルを忘れていたせいで、uramichannelにレベルを追い越されました。勝利の女神補正でそう見えているだけの可能性はありますか？それでは女神をかけ]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.6月のドロップ~♪]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/d3ed593bd158662696a2dfadbb1d33e4</id>
@@ -730,15 +740,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[カカシで試しただけなのでGvフィールドだとどうなるか分かりませんけど、オーガが全く発動しなくなりました。（説明書きのとおりの効果なので文句は言えませぬｗ）”節制の”のダメUPは、表記には反映されないけれ...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#２８]]></title>
-        <id>https://www.youtube.com/watch?v=gF8CVAnPhjs</id>
-        <link href="https://www.youtube.com/watch?v=gF8CVAnPhjs"/>
-        <updated>2022-06-02T16:24:42.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
