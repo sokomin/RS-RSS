@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-03T12:36:20.094Z</updated>
+    <updated>2022-07-03T13:05:32.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -798,15 +798,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[使うキャラクターの数が増えれば増えるほど、１キャラあたりの冒険時間が減ってしまうことに気づきました。これは、キャラクター枠の増加に隠された罠なのかもしれません。罠解除お願いします。第三の猫です。BOXアイテム拾いました。滅多に落ちないので拾えるとうれしいものです。そして、恩寵を風から水に変更しました。恩寵強化してあれば、恩寵変更しても強化状態が維持されるようです。ありがたいですね。さて、今回は2022/3/]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディアブロイモータル配信！ストーリーをしながら雑談します！LV36　デーモンハンター]]></title>
-        <id>https://www.youtube.com/watch?v=_UbUd_AYDdI</id>
-        <link href="https://www.youtube.com/watch?v=_UbUd_AYDdI"/>
-        <updated>2022-06-04T00:40:49.000Z</updated>
-        <author>
-            <name>ひさプッチ</name>
         </author>
     </entry>
 </feed>
