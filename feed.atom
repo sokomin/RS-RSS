@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-03T10:23:16.967Z</updated>
+    <updated>2022-07-03T10:48:35.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[多分来るであろう金鯖に向けて]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-856.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-856.html"/>
+        <updated>2022-07-03T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[とはいっても準備物は今からだと手遅れな感じが…だからある意味今更シリーズ【金鯖って？】経験値倍率がぶち抜けた期間限定サーバー。7月下旬～9月上旬くらい。倍率はよくわからん仕様で決まりますが、毎年最高倍率は獲得している模様。混雑がとんでもないことになっており、古都は土日や平日夜に接続満、900～1000レべ区間の狩場はミラーだと激重状態になる。ここが鯖統合を終えた世界か…【特殊仕様】経験値（ドロップは後半にな]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[異次元してみた♪]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/64f014ec9cc3b3956a715b3e7fd235b7</id>
