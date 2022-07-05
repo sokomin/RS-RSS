@@ -291,7 +291,18 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8wsCIsd-YkA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8wsCIsd-YkA",
+          "publishedOn": "2022-06-06T20:24:38.000Z",
+          "wordCount": null,
+          "title": "ディアブロイモータル配信！デーモンハンター のんびり雑談しながらやります",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "無職と美学とシュルレアリスム",
