@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-05T20:23:52.966Z</updated>
+    <updated>2022-07-05T20:49:14.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -818,16 +818,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[次は、もうちょい安くなってから買いたいですね。]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[円安ー はイイか、ワルか]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=550</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=550"/>
-        <updated>2022-06-06T08:26:15.000Z</updated>
-        <summary type="html"><![CDATA[株価、物価が上がってるのは円安だから？？んー？？？ある意味そうだが今までが安過ぎた件 とか？アメリカも株価上がって来てたり？まー、エンじゃない？？別にどーなったとしても、みぃの責任じゃないしねbbある本に書いてあった、江戸時代に産業革命ではなく勤勉革命が...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
