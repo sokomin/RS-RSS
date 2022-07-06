@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-06T14:20:47.747Z</updated>
+    <updated>2022-07-06T14:36:46.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[すみません]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1236.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1236.html"/>
+        <updated>2022-07-06T14:31:52.000Z</updated>
+        <summary type="html"><![CDATA[既に遅い時間にはなりますが、今日の新着情報更新はなしです。メンテナンス延期もあった分、やる気が急降下で萎えてしまってるもので。新職「キャプテン」実装の内容と各種イベントに関しては公式サイトにてご確認ください。それでは今週ものんびり楽しみましょう～( ´ω｀)]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[海賊〔キャプテン〕が実装されたので、無限になるか楽しみながら、、、、触る実況！]]></title>
         <id>https://www.youtube.com/watch?v=MS60xQQCjq4</id>
