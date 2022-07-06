@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-05T23:48:28.494Z</updated>
+    <updated>2022-07-06T02:18:31.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -790,6 +790,15 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[オシゴトがテキトーなのですデータをひたすら かき集めるという、、、しかも、チェックせんと あかんと、、猫の手より人の手を借りたいが？？？まー、簡単なオシゴトだからね、休み休みやったるでー✩え？？休みが多い？？？てけてけだからね、みーたんのオシゴトは...]]></summary>
         <author>
             <name>猫ノみぃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#２９]]></title>
+        <id>https://www.youtube.com/watch?v=qy_DQ9hy2ug</id>
+        <link href="https://www.youtube.com/watch?v=qy_DQ9hy2ug"/>
+        <updated>2022-06-06T21:40:21.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
