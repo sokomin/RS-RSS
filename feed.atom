@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-06T14:36:46.819Z</updated>
+    <updated>2022-07-06T14:49:04.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022/7/6　アップデート（悪魔について）]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202207060000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202207060000/"/>
+        <updated>2022-07-06T14:44:21.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは前回の更新からかなりの日数が経ちましたが、2022年7月6日のアップデートで待望の新キャラ「キャプテン」が実装されました(*´ω｀*)作って遊んでみましたが、覚醒が無いので弱いですｗただ、新しい物は...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[すみません]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1236.html</id>

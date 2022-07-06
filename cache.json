@@ -816,7 +816,18 @@
       "title": "カルDXのレッドストーン放浪",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/karudxrs/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/karudxrs/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202207060000/",
+          "author": "たつ2307",
+          "description": "こんばんは前回の更新からかなりの日数が経ちましたが、2022年7月6日のアップデートで待望の新キャラ「キャプテン」が実装されました(*´ω｀*)作って遊んでみましたが、覚醒が無いので弱いですｗただ、新しい物は...",
+          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202207060000/",
+          "publishedOn": "2022-07-06T14:44:21.000Z",
+          "wordCount": 1380,
+          "title": "2022/7/6　アップデート（悪魔について）",
+          "imageUrl": "http://plaza.jp.rakuten-static.com/img/common/blog_logo_ogp.png"
+        }
+      ]
     },
     {
       "title": "rb79kのブログ",
