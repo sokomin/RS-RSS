@@ -266,6 +266,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zWoMHbO3XVk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zWoMHbO3XVk",
+          "publishedOn": "2022-07-06T07:12:17.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】キャプテンやるぞ～！！６年ぶり新キャラ実装！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=060sX5Kv7tE",
           "author": null,
           "description": "",
