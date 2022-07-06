@@ -160,6 +160,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5392q1Fl0jU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5392q1Fl0jU",
+          "publishedOn": "2022-07-06T09:48:40.000Z",
+          "wordCount": null,
+          "title": "キャプテン促成栽培#1【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pRi1Mo_TxN4",
           "author": null,
           "description": "",
@@ -293,16 +303,6 @@
           "publishedOn": "2022-06-12T08:33:21.000Z",
           "wordCount": null,
           "title": "【REDSTONE】赤石育成日記#３０",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qy_DQ9hy2ug",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qy_DQ9hy2ug",
-          "publishedOn": "2022-06-06T21:40:21.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】赤石育成日記#２９",
           "imageUrl": null
         }
       ]
