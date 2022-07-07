@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-07T02:13:22.194Z</updated>
+    <updated>2022-07-07T03:55:41.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海賊〔キャプテン〕が実装されたので、無限になるか楽しみながら、、、、触る実況 その２！]]></title>
+        <id>https://www.youtube.com/watch?v=fEzc_b3Df10</id>
+        <link href="https://www.youtube.com/watch?v=fEzc_b3Df10"/>
+        <updated>2022-07-07T03:44:09.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022/7/6　アップデート（悪魔について）]]></title>
         <id>https://plaza.rakuten.co.jp/karudxrs/diary/202207060000/</id>
@@ -942,16 +951,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..討伐＋イベント文字通りファルコンとかゲリオとかの討伐ボスを倒すだけですね。討伐の完了回数を集計して、1日最大3個まで討伐完了プレゼントBoxというのをプレゼントのようですね。中身はまぁ・・・・・・イベントページにてご確認ください。期間中50回以上倒せば抽選1名に幸運チケットボックスプレゼントらしいです。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..課金キャンペー]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動け、このポンコツが…動けってんだよ！！（ガンっ！！）]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-851.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-851.html"/>
-        <updated>2022-06-07T14:58:27.000Z</updated>
-        <summary type="html"><![CDATA[この手に限る。この手しか知りません最近のRS活動は以下の通り。①メイン1orメイン2でログイン②クリ冒険と討伐を処理してログアウト③サブ1とサブ2をログインして即ログアウト④ログインしてないメインで①と②⑤ログキャンをメイン1,2とサブ1,2でまわす⑥これでできたたったこれだけである。RSPassがあったら②の内容が増えるだけ。2PCにして60分放置をする工程を捻出。少なくとも、今はメイン1,2ともにレベ上げと装備更新の意味が見出せ]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>

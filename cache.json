@@ -323,6 +323,16 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fEzc_b3Df10",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fEzc_b3Df10",
+          "publishedOn": "2022-07-07T03:44:09.000Z",
+          "wordCount": null,
+          "title": "海賊〔キャプテン〕が実装されたので、無限になるか楽しみながら、、、、触る実況 その２！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MS60xQQCjq4",
           "author": null,
           "description": "",
@@ -668,16 +678,6 @@
           "publishedOn": "2022-06-08T13:08:02.000Z",
           "wordCount": null,
           "title": "更新は遅れましたが、日付が変わってないので問題ありません",
-          "imageUrl": null
-        },
-        {
-          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-851.html",
-          "author": "Trailblazer",
-          "description": "この手に限る。この手しか知りません最近のRS活動は以下の通り。①メイン1orメイン2でログイン②クリ冒険と討伐を処理してログアウト③サブ1とサブ2をログインして即ログアウト④ログインしてないメインで①と②⑤ログキャンをメイン1,2とサブ1,2でまわす⑥これでできたたったこれだけである。RSPassがあったら②の内容が増えるだけ。2PCにして60分放置をする工程を捻出。少なくとも、今はメイン1,2ともにレベ上げと装備更新の意味が見出せ",
-          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-851.html",
-          "publishedOn": "2022-06-07T14:58:27.000Z",
-          "wordCount": null,
-          "title": "動け、このポンコツが…動けってんだよ！！（ガンっ！！）",
           "imageUrl": null
         }
       ]
