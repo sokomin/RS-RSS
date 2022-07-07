@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-07T21:20:53.570Z</updated>
+    <updated>2022-07-07T21:34:38.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -940,46 +940,6 @@ WEBマネーのきんきらのカード？（よくわかってない）が届�
 残してなかったっ…]]></summary>
         <author>
             <name>きぃこんぱ～んちっ( ﾟ∀ﾟ)Ξ〇) ﾟﾛﾟ)∵＜出張版☆＞</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.6.8 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/4b9f72d0acaf566b2db76026207764ed</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/4b9f72d0acaf566b2db76026207764ed?fm=rss"/>
-        <updated>2022-06-08T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[関東は梅雨に入りました。
-
-MAY UPDATE -->
-
-
-
-
-
-
-4月20日メンテ後から5月11日メンテ前まで
-
-
-課金イベントはこちら
-
-
-
-
-5月25日メンテ後から6月15日メンテ前まで
-
-
-来週またイベントの入れ替えがあるかな？
-寒暖差が激しいので体調管理に気を付けましょう。
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
