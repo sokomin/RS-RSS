@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-08T13:57:18.624Z</updated>
+    <updated>2022-07-08T14:34:28.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -866,26 +866,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[仕事は在宅ワークで何とかなってるが、PCゲームが何も出来ない状態。スマホdiabloも疲れるからやってないし、腰をやると本当に厳しいね。来週までには治るとよいな@1週間経過中]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利益分配受取型？？再投資型？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=554</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=554"/>
-        <updated>2022-06-09T02:16:08.000Z</updated>
-        <summary type="html"><![CDATA[みぃは受取型を好む複利とかいって再投資型ススメル本もあるが？？微差なのよね、、、、受取型にしてその分で投資すると手数料とられるデメリットはあるが？？価値が高くなったとき、より多く分配入って来るし、下がったときはガマン再投資型にすると、どこかで利益確定売...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[投資が上手くいってない件]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=552</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=552"/>
-        <updated>2022-06-09T02:06:19.000Z</updated>
-        <summary type="html"><![CDATA[んー？？アメリカ株の為替ヘッジありの投信してるがマイナス状態、、、まー、買うにはいいけど？？株安なのと、ヘッジありだからな、円安の恩恵も受けづらい、、、、むきゅゅ新規で始めるなら良いが＠w＠まは、ここのところ株は回復方向かな？？買い増しして平均価格下げ...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
