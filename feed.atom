@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-08T15:23:54.882Z</updated>
+    <updated>2022-07-08T15:52:18.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -856,16 +856,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[なんかね、、、ＲＳのパソコンガードの廃止でワンタイムパスワードのみになるという、、、んー、パソコン壊れてからしばらく復帰してないしＲＳメインじゃなく他のことも書きたいbbつーことで、ファンサイトから外してじゆーになるのじゃい、と思ってるメールで対応してく...]]></summary>
         <author>
             <name>猫ノみぃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【リアル】腰痛襲来！]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-907.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-907.html"/>
-        <updated>2022-06-09T03:47:29.000Z</updated>
-        <summary type="html"><![CDATA[仕事は在宅ワークで何とかなってるが、PCゲームが何も出来ない状態。スマホdiabloも疲れるからやってないし、腰をやると本当に厳しいね。来週までには治るとよいな@1週間経過中]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
