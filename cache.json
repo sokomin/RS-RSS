@@ -784,18 +784,7 @@
       "title": "猫ノみぃ 冒険談　〜　プリ猫たちのレッドストーン記",
       "feedUrl": "http://rscat31.jugem.jp/?mode=rss",
       "siteUrl": "http://rs.bigcat31.floppy.jp/",
-      "articles": [
-        {
-          "id": "http://rs.bigcat31.floppy.jp/?eid=555",
-          "author": "猫ノみぃ",
-          "description": "なんかね、、、ＲＳのパソコンガードの廃止でワンタイムパスワードのみになるという、、、んー、パソコン壊れてからしばらく復帰してないしＲＳメインじゃなく他のことも書きたいbbつーことで、ファンサイトから外してじゆーになるのじゃい、と思ってるメールで対応してく...",
-          "link": "http://rs.bigcat31.floppy.jp/?eid=555",
-          "publishedOn": "2022-06-10T03:30:48.000Z",
-          "wordCount": 184,
-          "title": "ＲＳのファンサイトから外す？？",
-          "imageUrl": "https://imaging.jugem.jp/template/img/jugem_og-image.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "どっかの物理ユーザの雑記",

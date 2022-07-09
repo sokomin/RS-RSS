@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-09T15:22:26.734Z</updated>
+    <updated>2022-07-09T15:49:47.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -886,16 +886,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[進みそうなロトでしたねぇ…。1200円で買える実質1個500円？なレギュラーロト10個入りのセットさん。実際はほかにもいろいろ込みで頭おかしいけど。SPで買える垢は購入して適当にさばきました。また塩漬けが増えるよ！内容的に全く期待してなかったのですが、案の定ごみばっかりで。1個500円の価値といったな、あれは嘘だ結局のところメシウマロトって感じですね！ということでごはんが進みそうなものを投入しておきます。どうだ？]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＲＳのファンサイトから外す？？]]></title>
-        <id>http://rs.bigcat31.floppy.jp/?eid=555</id>
-        <link href="http://rs.bigcat31.floppy.jp/?eid=555"/>
-        <updated>2022-06-10T03:30:48.000Z</updated>
-        <summary type="html"><![CDATA[なんかね、、、ＲＳのパソコンガードの廃止でワンタイムパスワードのみになるという、、、んー、パソコン壊れてからしばらく復帰してないしＲＳメインじゃなく他のことも書きたいbbつーことで、ファンサイトから外してじゆーになるのじゃい、と思ってるメールで対応してく...]]></summary>
-        <author>
-            <name>猫ノみぃ</name>
         </author>
     </entry>
 </feed>
