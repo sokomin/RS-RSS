@@ -160,6 +160,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bM8UurzlRmo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bM8UurzlRmo",
+          "publishedOn": "2022-07-10T03:39:22.000Z",
+          "wordCount": null,
+          "title": "知識剣士育成配信#3【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5392q1Fl0jU",
           "author": null,
           "description": "",
