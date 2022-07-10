@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-10T14:48:16.633Z</updated>
+    <updated>2022-07-10T15:21:55.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年7月6日アップデート]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-755.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-755.html"/>
+        <updated>2022-07-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日RSではアップデートが行われました同時にこんな動画も公開されています金の同窓会イベントの告知動画になりますね今回は運営さん色々と気合が入ってるなぁと思いました尚、全部で4バージョンあるようですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[表記制限についての私のスタンス]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207100000/</id>
