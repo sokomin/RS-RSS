@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-10T17:48:26.665Z</updated>
+    <updated>2022-07-10T18:26:08.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -888,61 +888,6 @@ MAY UPDATE -->
         <updated>2022-06-11T10:57:09.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[２体目☆]]></title>
-        <id>https://ameblo.jp/sakuyuno0822/entry-12747691586.html</id>
-        <link href="https://ameblo.jp/sakuyuno0822/entry-12747691586.html"/>
-        <updated>2022-06-11T06:06:50.000Z</updated>
-        <summary type="html"><![CDATA[こんばんちゃお＼(^o^)／
- 
- 
-なんと。。。
-もこもこ・・・！！
- 
- 
-２体目を無事１０００レベルになりました！！！
- 
- 
-８８８８８８８８８８８
- 
- 
-でで～ん
- 
-
- 
- 
-１０００超えてますけどね。あはは
- 
- 
-お次は光奏師のレベルを１０００にします＾＾
- 
-まだまだやることいっぱいですね(´・ω・｀)
- 
- 
-ここ最近攻城出れてないけど・・・
- 
- 
-死ぬけど攻城で暴れたいです
- 
- 
-ッと思う今日このごろ。
- 
- 
-ではもこもこはV鯖であそんできます。
- 
-またみてね
- 
- 
- 
-ばいば～～い・ω・ﾉｼ
- 
- 
- 
-おまけ]]></summary>
-        <author>
-            <name>もこもこの時たま日常レッドストーン</name>
         </author>
     </entry>
 </feed>
