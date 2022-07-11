@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-10T23:48:15.399Z</updated>
+    <updated>2022-07-11T02:06:02.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[運営さん仕事が早くて素敵ですね]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207110000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207110000/"/>
+        <updated>2022-07-11T01:49:19.000Z</updated>
+        <summary type="html"><![CDATA[早速、対人用のチャンネルを作ってくださいました。ついでに私のディスコードタグも晒しておきます。何かあれば、　雷神の弓♯2473　へご連絡ください。]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年7月6日アップデート]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-755.html</id>
