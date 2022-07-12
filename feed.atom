@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-12T23:21:43.077Z</updated>
+    <updated>2022-07-12T23:48:35.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -904,15 +904,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[前回の更新から1年ちょっと経過しております。その間に入院・手術、そして増えた持病…と健康不安を抱えながら生きています。でもRSにログインするのは10日に1回程度（G維持のため）GVをやめてしまったらやることがなくなってしまった…狩りも好きだけど、楽しいけれど手術創が痛んで長時間できないことから段々とログイン時間が減り…という半ば休止状態です。でもまたいつか狩りを楽しみたいなぁという気持ちはあるのでギルドは維持]]></summary>
         <author>
             <name>風華</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#３１]]></title>
-        <id>https://www.youtube.com/watch?v=N-RuM7q4j8A</id>
-        <link href="https://www.youtube.com/watch?v=N-RuM7q4j8A"/>
-        <updated>2022-06-13T11:38:28.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
