@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-12T17:04:07.224Z</updated>
+    <updated>2022-07-12T17:38:14.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -923,15 +923,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[ダニィ！？早速石の日から逃げるんだぁ…狩りたくないYO…！ということで、明日は石の日です。何なりとお使いください。平日なので経験値等は2倍だよ！メインを上げるのもよし、サブに使うのもよし！狩らないのもよし！！アイテム狙いのほかに、地図で稼ぐのもいいかも？あ、ログキャンはようやく第2マップを終えました。いつもなら第3マップは5日程度なのに、今回は10日だからきつい…。そして第2マップのコンプマス結果がこれだぁ！]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記#３０]]></title>
-        <id>https://www.youtube.com/watch?v=KTfMFK03PbQ</id>
-        <link href="https://www.youtube.com/watch?v=KTfMFK03PbQ"/>
-        <updated>2022-06-13T05:04:29.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
