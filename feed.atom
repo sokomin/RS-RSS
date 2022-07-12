@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-12T22:21:50.561Z</updated>
+    <updated>2022-07-12T22:48:18.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -913,16 +913,6 @@ MAY UPDATE -->
         <updated>2022-06-13T11:38:28.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[申し上げます！1か月ぶりに石の日が現れましたぁ！！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-854.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-854.html"/>
-        <updated>2022-06-13T10:28:39.000Z</updated>
-        <summary type="html"><![CDATA[ダニィ！？早速石の日から逃げるんだぁ…狩りたくないYO…！ということで、明日は石の日です。何なりとお使いください。平日なので経験値等は2倍だよ！メインを上げるのもよし、サブに使うのもよし！狩らないのもよし！！アイテム狙いのほかに、地図で稼ぐのもいいかも？あ、ログキャンはようやく第2マップを終えました。いつもなら第3マップは5日程度なのに、今回は10日だからきつい…。そして第2マップのコンプマス結果がこれだぁ！]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
