@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-12T02:15:48.195Z</updated>
+    <updated>2022-07-12T04:06:28.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -800,6 +800,15 @@ MAY UPDATE -->
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【モンスターファーム２】３０代ホイホイ育成ゲームその１]]></title>
+        <id>https://www.youtube.com/watch?v=8tJWK3vALoE</id>
+        <link href="https://www.youtube.com/watch?v=8tJWK3vALoE"/>
+        <updated>2022-06-15T14:23:20.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[更新は遅れ…こういうケースは前にもあったよな？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-855.html</id>
         <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-855.html"/>
@@ -923,16 +932,6 @@ MAY UPDATE -->
         <updated>2022-06-13T05:04:29.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パソコンガードの終了、ワンタイムキーの設定]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-751.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-751.html"/>
-        <updated>2022-06-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[息子のクラスでは席替えがあったそうです席替えと言えば学生時代の思い出を左右する一大イベントですよね私も当時は席替えのたびに頭にこれが流れていましたいつもドキドキ感を煽られていました折り畳み傘を使ってレーザーブレードの真似を良くしていましたちなみに息子は隣の女子こそ好みの可愛い生徒の様ですが教壇の前と言う何とも言えないくじ運だったそうですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
