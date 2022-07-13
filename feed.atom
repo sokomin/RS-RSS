@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-13T02:06:05.921Z</updated>
+    <updated>2022-07-13T03:50:28.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[匿名掲示板についての自論です]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207130000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207130000/"/>
+        <updated>2022-07-13T03:42:07.000Z</updated>
+        <summary type="html"><![CDATA[匿名掲示板で個人や団体（RSにおいてはギルド）の悪口を言うのは絶対に駄目だと思います。例えば、「あいつは表記守ってない！」とか「○○ギルドは人数だけで大したことない」とかが悪口ですね。こういう個人（団...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖のために休みを取る]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-862.html</id>
@@ -903,16 +913,6 @@ MAY UPDATE -->
         <updated>2022-06-14T02:49:58.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1年ぶりにこんばんは]]></title>
-        <id>http://fukars.blog.fc2.com/blog-entry-312.html</id>
-        <link href="http://fukars.blog.fc2.com/blog-entry-312.html"/>
-        <updated>2022-06-13T14:50:24.000Z</updated>
-        <summary type="html"><![CDATA[前回の更新から1年ちょっと経過しております。その間に入院・手術、そして増えた持病…と健康不安を抱えながら生きています。でもRSにログインするのは10日に1回程度（G維持のため）GVをやめてしまったらやることがなくなってしまった…狩りも好きだけど、楽しいけれど手術創が痛んで長時間できないことから段々とログイン時間が減り…という半ば休止状態です。でもまたいつか狩りを楽しみたいなぁという気持ちはあるのでギルドは維持]]></summary>
-        <author>
-            <name>風華</name>
         </author>
     </entry>
 </feed>
