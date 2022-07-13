@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-13T15:24:48.328Z</updated>
+    <updated>2022-07-13T15:53:18.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -955,16 +955,6 @@ MAY UPDATE -->
         <updated>2022-06-14T05:19:51.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】これから]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-908.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-908.html"/>
-        <updated>2022-06-14T03:26:38.000Z</updated>
-        <summary type="html"><![CDATA[ディメンションはおろか、攻城戦さえINしなくなった。腰痛が治っていないのもあるが、毎日のログインさえしないのは、自分の中で休止フラグが立っているからだと思う。REDSTONEも17年続いていて、そろそろサービス終了じゃね？と言われつつ、生き永らえて久しい。15年続いていたスクエニのファンタジーアースゼロ(通称FEZ)も9月でサービス終了が発表されたし、REDSTONEもいつ発表されても不思議じゃない状況ではありそう。ただし、]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
