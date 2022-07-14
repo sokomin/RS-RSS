@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-14T21:37:08.845Z</updated>
+    <updated>2022-07-14T21:49:01.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖2022　レベル上げルート（1～1000狩場）Ver.狩るＤＸ流毒悪魔]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202207150000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202207150000/"/>
+        <updated>2022-07-14T21:36:43.000Z</updated>
+        <summary type="html"><![CDATA[2年前くらいにも一度狩場ルートをあげたことはありましたが、環境が変わったのと私の知識も増えたので改めて、今回は金鯖2022で毒悪魔を作ったらこんな感じかな？って自分流のルートをあげさせてもらいます(｀・ω...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[買い物バッグ]]></title>
         <id>tag:blogger.com,1999:blog-6041969618045088376.post-3729351910924540297</id>
