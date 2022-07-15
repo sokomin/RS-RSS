@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-14T23:48:59.477Z</updated>
+    <updated>2022-07-15T02:24:35.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -927,25 +927,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[これまでのあらすじ。――は、前回の記事をご覧ください。こんにちは、第三の猫です。前回に引き続き、密教クエストを進めていきます。２体のペットを背景に隠したら、タイトゥスさんの話を聞きましょう。自己紹介で「訓練の日々を送る～」とか言っていたのに、訓練に対する姿勢は訓練不足のようです。しょうがないので、必要な素材を取りに――行ってきました。これだけ喜んでもらえるなら、面倒ごとを引き受けたかいがあるというもの]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【モンスターファーム２】３０代ホイホイ育成ゲームその１]]></title>
-        <id>https://www.youtube.com/watch?v=8tJWK3vALoE</id>
-        <link href="https://www.youtube.com/watch?v=8tJWK3vALoE"/>
-        <updated>2022-06-15T14:23:20.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更新は遅れ…こういうケースは前にもあったよな？]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-855.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-855.html"/>
-        <updated>2022-06-15T12:22:07.000Z</updated>
-        <summary type="html"><![CDATA[一週間前。【配布品とか】〇ございません☆一応いつものあれ【ダメな方のルーレット】7/16(土)23:59までと変則的。ルーレットとコインでの交換は7/17(日)23:59まで可ログイン時間で1日最大96枚もらえて、ルーレットを回したり回さなかったりしてコインを景品と交換するやつ。SR確定コクーンとただの特性解放が追加らしい。どちらもそれなりに使えるけどコインの量が…。特に必要なものがない場合は、40枚の乗ったまま攻撃できるカー]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
