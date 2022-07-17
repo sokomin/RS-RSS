@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-17T08:50:53.682Z</updated>
+    <updated>2022-07-17T09:20:37.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5度目の転生]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-173.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-173.html"/>
+        <updated>2022-07-17T08:52:36.000Z</updated>
+        <summary type="html"><![CDATA[突然雨が降ったり降らなかったりする天気に、振り回されたり振り回されなかったりする今日この頃。いかがお過ごしでしょうか。第三の猫です。レベルも無事900を超えたので、今回は５回目の転生クエストを進めたいと思います。はい。というわけで、転生の副作用について調査します。今回もうれしい現地送迎サービス付きクエストのようです。まずは他の転生者に聞き込み。レニさんのペットが転生ペットになっているのが、たいへん転]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迫りくる金鯖に向けて]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-864.html</id>
