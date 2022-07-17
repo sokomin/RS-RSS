@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-17T13:52:27.382Z</updated>
+    <updated>2022-07-17T14:19:16.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[称号クエスト 「密教」 Lv2～Lv5 攻略チャート作成]]></title>
+        <id>https://khbsroom.com/syougou10.html</id>
+        <link href="https://khbsroom.com/syougou10.html"/>
+        <updated>2022-07-17T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[2022/3/2 アップデートにより実装された、称号クエスト 「密教」 Lv2～Lv5 の攻略チャートを作成しました。]]></summary>
+        <author>
+            <name>KHBの部屋</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5度目の転生]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-173.html</id>
