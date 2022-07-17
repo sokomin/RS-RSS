@@ -746,7 +746,18 @@
       "title": "ジェンド日記",
       "feedUrl": "http://jendoradoo.blog.fc2.com/?xml",
       "siteUrl": "http://jendoradoo.blog.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-324.html",
+          "author": "ジェンド",
+          "description": "思っていた予定が保留中となりちょっと時間に余裕ができてきたこの頃です＾＾今年引越しをするかどうか検討していたのですが希望の物件が他の人に契約されちゃってたり他のは心理的瑕疵があったりしたので白紙になりました…今日のメンテ後に今年の金鯖が始まるようで休日なのでわたしも行けるかな？と考えていたりします＾＾ただし、今年は初盆なのでそれが終わるまではあまりゲームしてるのも申し訳ないなという気持ちがあり時間",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-324.html",
+          "publishedOn": "2022-07-17T23:30:00.000Z",
+          "wordCount": 361,
+          "title": "朝5時起きの今年",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "その槍の名前はフラジールニップ",
