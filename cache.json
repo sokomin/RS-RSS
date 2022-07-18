@@ -53,6 +53,16 @@
       "siteUrl": "http://www.zephyr.dti.ne.jp/hiroll/",
       "articles": [
         {
+          "id": "https://khbsroom.com/masterque.html#25",
+          "author": null,
+          "description": "2022/7/6 アップデートで実装された新キャラクター「キャプテン」の、スキルマスタークエストの攻略チャートを作成しました。",
+          "link": "https://khbsroom.com/masterque.html#25",
+          "publishedOn": "2022-07-18T13:45:00.000Z",
+          "wordCount": 1227,
+          "title": "スキルマスタークエスト（キャプテン）　攻略チャート作成",
+          "imageUrl": null
+        },
+        {
           "id": "https://khbsroom.com/syougou10.html",
           "author": null,
           "description": "2022/3/2 アップデートにより実装された、称号クエスト 「密教」 Lv2～Lv5 の攻略チャートを作成しました。",
@@ -352,6 +362,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kLv7HMpjCDc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kLv7HMpjCDc",
+          "publishedOn": "2022-07-18T13:08:21.000Z",
+          "wordCount": null,
+          "title": "夏だ！金〇だ！！毒〇魔だ！ひさ〇ちだ！！出遅れ金サバ無限　無限改変毒悪魔を目指して！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=WNyuYDfiaz4",
           "author": null,

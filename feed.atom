@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-18T12:46:32.504Z</updated>
+    <updated>2022-07-18T13:53:54.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スキルマスタークエスト（キャプテン）　攻略チャート作成]]></title>
+        <id>https://khbsroom.com/masterque.html#25</id>
+        <link href="https://khbsroom.com/masterque.html#25"/>
+        <updated>2022-07-18T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[2022/7/6 アップデートで実装された新キャラクター「キャプテン」の、スキルマスタークエストの攻略チャートを作成しました。]]></summary>
+        <author>
+            <name>KHBの部屋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏だ！金〇だ！！毒〇魔だ！ひさ〇ちだ！！出遅れ金サバ無限　無限改変毒悪魔を目指して！]]></title>
+        <id>https://www.youtube.com/watch?v=kLv7HMpjCDc</id>
+        <link href="https://www.youtube.com/watch?v=kLv7HMpjCDc"/>
+        <updated>2022-07-18T13:08:21.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！初日！【GoldEx World】]]></title>
         <id>https://www.youtube.com/watch?v=rlwuhgFqmss</id>
