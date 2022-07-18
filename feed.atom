@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-18T15:54:48.251Z</updated>
+    <updated>2022-07-18T16:33:57.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖初日]]></title>
+        <id>tag:blogger.com,1999:blog-6041969618045088376.post-4133280278092879261</id>
+        <link href="https://rs-kumapon.blogspot.com/2022/07/blog-post_19.html"/>
+        <updated>2022-07-18T15:56:00.000Z</updated>
+        <summary type="html"><![CDATA[金鯖スタートしましたね！
+私も夕方からそわそわしていましたが
+気付いたら１時間前にスタートしていたようで、完全に出遅れました。
+結局何時からスタートだったんだ！？
+
+
+とりまアーチャーで開始しました。
+「２０２２　金鯖　おすすめ」とかで検索したら知識アチャが一番オススメだよ！
+って出てきたので、それで決めました（それでいいのか
+
+主力スキルはグライディングファイアー（通称火雨）
+心臓がぶ飲みしなきゃ話になりませんよね
+買い物バッグにあった箱を手当たり次第に開けましたが
+中々心臓は出ないものです。
+結構節約しながらレベルを上げていきました。
+
+箱を開けたら上級経験値ってのが複数出てきたので使ったらLv50になりました
+その後、王窟やオーガの巣窟などをうろうろし、Lv90からコロッサスPTへ
+順当にボスPTツアーをやっていきました。
+スキルは覚醒の為にマジカルアロー、デュアルアロー、ランドマーカーをMAXに。
+あまりにもレベルがさくさく上がる為、覚醒したのがLv400を越えてからでした。
+
+よく分からず３種とも覚醒してしまったんですが、絶対ランドマーカー覚醒は
+する必要なかったな…。１度も使ってないんですよねぇ。
+しかしLv600まで育ててみて、知識弓も育成がとても楽な上に強いって思いました。
+何レベル帯まで強いって思えるのかは不明ですが、ゆっくりやっていこうと思います。
+サソリまではボスPTでやっていったんですが、ブレイマはソロで狩りが出来ました。
+MMMをマスタして、ブロック率を５０％まで上げたので、全然ダメージは受けませんでした。
+
+そこでそのままLv607まで上げて、初日はフィニッシュです。
+４時間ほど狩りしました。ボスPTは効率がとてもいいですね。
+ソロで狩るとなると、心臓より青ポガブ飲みスタイルの方が良かったりするのかな？
+効率よく狩れる場所があればいいですけれど。
+Lv600までのブーストを買っているので、明日は出来れば転生したいです。
+
+
+
+水低下はギルドで頂いた物で、火強化はドロップしました。
+カリスマが少し足りなくてまだ装備出来ていませんが、転生したら付けられるかな？
+久々に楽しい金鯖になりそうです。すぐに飽きてしまわないように気を付けます！
+ではまた]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スキルマスタークエスト（キャプテン）　攻略チャート作成]]></title>
         <id>https://khbsroom.com/masterque.html#25</id>
@@ -1140,15 +1190,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[2022/5/18 アップデートにより実装された、エピソードクエスト「ぶつかる双星」 Chapter 2の攻略チャートを作成しました。]]></summary>
         <author>
             <name>KHBの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔育成配信#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=mdo6ZeHvkpM</id>
-        <link href="https://www.youtube.com/watch?v=mdo6ZeHvkpM"/>
-        <updated>2022-06-19T04:09:21.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
