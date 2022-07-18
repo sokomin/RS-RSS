@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-18T09:53:13.673Z</updated>
+    <updated>2022-07-18T10:26:51.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！初日！【GoldEx World】]]></title>
+        <id>https://www.youtube.com/watch?v=rlwuhgFqmss</id>
+        <link href="https://www.youtube.com/watch?v=rlwuhgFqmss"/>
+        <updated>2022-07-18T10:00:04.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.7.18 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/43f3eaaf6cb6efeebe4577b9df4f7ab4</id>
