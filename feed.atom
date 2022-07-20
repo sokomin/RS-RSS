@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-20T03:50:56.598Z</updated>
+    <updated>2022-07-20T04:46:43.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖？]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207200000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207200000/"/>
+        <updated>2022-07-20T04:09:12.000Z</updated>
+        <summary type="html"><![CDATA[金鯖は今年もやりません。あと、本鯖Gvの休止も継続中です。金鯖開始により、検証Gvをやる時期は少し遅くなりそうです。そんなことより仕事忙しくて死にそう・・ゲームやってる場合じゃない感じですｗ]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖で、毒悪魔使ったら、めっちゃ強かった！オススメ職業！！]]></title>
         <id>https://www.youtube.com/watch?v=5APPFu-yMLg</id>
