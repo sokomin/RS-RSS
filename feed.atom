@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-21T22:22:15.737Z</updated>
+    <updated>2022-07-21T22:49:56.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1132,41 +1132,6 @@ MAY UPDATE -->
         <updated>2022-06-26T04:31:52.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.6.22 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/f3f4b6d66410e6bfa76b1a4df4a9091f</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/f3f4b6d66410e6bfa76b1a4df4a9091f?fm=rss"/>
-        <updated>2022-06-22T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[蒸し暑くなりましたね(´・ω・`)
-
-MAY UPDATE -->
-
-
-
-
-
-
-
-
-
-
-6月15日メンテ後から6月29日メンテ前まで
-
-
-来週はイベントの更新、再来週はアプデになりそうですね＾＾
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
