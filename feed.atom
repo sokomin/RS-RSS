@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-21T17:52:07.417Z</updated>
+    <updated>2022-07-21T18:29:11.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1177,16 +1177,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[開催されるかは不明だが、金鯖をやるなら絶対に参加しておくべきイベントが来てます。あと7/18(月・祝)にメンテがあるって。なぜ平日の水曜日ではないんですかねぇ…。【配布物とか】・Uハンティング・チャレンジイベント（プチランサーのあれ）公式のあれ【新キャラクイズ】7/6(水)メンテまで。5問あるクイズの正解数に応じてアイテムがもらえます。クイズ内容は以下の通り。①「キャプテン」の実装予定日②「キャプテン」の本名③「]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1234.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1234.html"/>
-        <updated>2022-06-22T06:25:15.000Z</updated>
-        <summary type="html"><![CDATA[☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..スペシャルデイリーログインイベント通常のデイリーログインと同様に１日１回受け取れるものですね。ミニマップ上部のチェックボタンから受け取り可能です。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..新キャラクイズ新キャラクター「キャプテン」に関するクイズですね。回答するには公式サイトにログインしてイベントページにあるクイズに回答するボタンを押してください。☆.。]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
