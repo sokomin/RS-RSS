@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-21T14:48:20.921Z</updated>
+    <updated>2022-07-21T15:24:53.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1187,16 +1187,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..スペシャルデイリーログインイベント通常のデイリーログインと同様に１日１回受け取れるものですね。ミニマップ上部のチェックボタンから受け取り可能です。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..新キャラクイズ新キャラクター「キャプテン」に関するクイズですね。回答するには公式サイトにログインしてイベントページにあるクイズに回答するボタンを押してください。☆.。]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ご無沙汰になってしまいました]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-955.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-955.html"/>
-        <updated>2022-06-22T03:18:39.000Z</updated>
-        <summary type="html"><![CDATA[ごきげんよう。RSは相変わらず露店放置が多いです。例によってメンテ前ギリギリに慌てて桜の花を集め、赤い光と交換して参りました。もっと参加して色々なものをもらえばよかった、とイベントのたびに思います。何年も続く、あとのまつり。◆◆◆◆◆◆離席することが多いのですが、ソロなので問題なしです。放置して狩っては許可証をためて、できるだけ協会討伐に行っています。イベントのためもありますけれど、たまに良いドロップがあ]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
 </feed>
