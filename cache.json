@@ -295,6 +295,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=98fvwBrmmtA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=98fvwBrmmtA",
+          "publishedOn": "2022-07-22T11:29:23.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】２０２２年金鯖開始！３日目キャプテン育成！【GoldEx World】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KyWvyK3tJZs",
           "author": null,
           "description": "",
