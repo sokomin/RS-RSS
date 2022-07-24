@@ -179,6 +179,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ArevyS1k7U0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ArevyS1k7U0",
+          "publishedOn": "2022-07-24T11:49:36.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】10分で出来るチュートリアル100Lv 【古都入場回避版】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kn0obpOoQFo",
           "author": null,
           "description": "",
