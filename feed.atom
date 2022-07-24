@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-24T14:48:23.043Z</updated>
+    <updated>2022-07-24T15:23:02.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖をプレイする]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-757.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-757.html"/>
+        <updated>2022-07-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[息子はいつも塾の帰りに連絡をしてきますその日は「今から帰りマッスル・リベンジャー」と打ってきたのでマリポーサですか？フェニックスですか？と返信したら「マリポーサだよ」と返信が来ました偽物じゃないか！普段お風呂で私がこれを歌ってるせいか漫画の影響が出てしまったのでしょう親の影響って大きいんですねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】10分で出来るチュートリアル100Lv 【古都入場回避版】]]></title>
         <id>https://www.youtube.com/watch?v=ArevyS1k7U0</id>
