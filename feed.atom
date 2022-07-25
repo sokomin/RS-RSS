@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-25T21:48:06.156Z</updated>
+    <updated>2022-07-25T22:21:09.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】2022金鯖版 職別考察]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202207250000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202207250000/"/>
+        <updated>2022-07-25T22:09:40.000Z</updated>
+        <summary type="html"><![CDATA[2022年金鯖がオープンして1週間が経ちました。多くの人はそろそろ1キャラ目が育成終了の目途が経ってきたのではないでしょうか。今回はレベルランキングを集計してどの職がどれぐらい人気なのか、その要因は何な...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今回は前日だな！]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-869.html</id>
