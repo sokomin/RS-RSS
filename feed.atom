@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-25T16:31:56.734Z</updated>
+    <updated>2022-07-25T17:03:33.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1408,15 +1408,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[息子がやっているスマホゲームに登場するキャラはユニークなものが多いのですが「このキャラ何だかわかる？？」と聞かれたので即答しましたこれです私世代の男性は誰でも知っているはずですもちろん前フリのキグナスダンスも出来ます個人的には鳳翼天翔も好きですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔育成配信#2【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=i5HHNMY62dM</id>
-        <link href="https://www.youtube.com/watch?v=i5HHNMY62dM"/>
-        <updated>2022-06-26T04:31:52.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
