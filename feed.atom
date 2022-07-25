@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-25T11:48:33.866Z</updated>
+    <updated>2022-07-25T12:47:02.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今回は前日だな！]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-869.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-869.html"/>
+        <updated>2022-07-25T11:54:09.000Z</updated>
+        <summary type="html"><![CDATA[ただし午後6時に告示…【第2回金鯖公式生放送】7/26(火)21:00から。内容としては…初心者が頑張ってレベル上げるみたいな？前回は1時間、介護それなりで200レべちょいまで上がってました。今回は…どうやら転生するまで続けるらしいです。余裕のある人は視聴と同時に手助けをしてみては？横はやめようね！ちなみに抽選式公式グッズプレゼントがあるみたい。期限がやたら短いから見た人限定的な…？これは詳細こっちは配信に飛ぶちなみ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！育成キャラ未定！【GoldEx World】]]></title>
         <id>https://www.youtube.com/watch?v=nU6KoK3ciS0</id>
