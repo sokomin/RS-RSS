@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-25T09:50:45.017Z</updated>
+    <updated>2022-07-25T10:26:23.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！育成キャラ未定！【GoldEx World】]]></title>
+        <id>https://www.youtube.com/watch?v=nU6KoK3ciS0</id>
+        <link href="https://www.youtube.com/watch?v=nU6KoK3ciS0"/>
+        <updated>2022-07-25T09:54:47.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第１４回 怪談大会のお知らせ]]></title>
         <id>gregorio29.blog.shinobi.jp://entry/319</id>
