@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-27T11:32:55.812Z</updated>
+    <updated>2022-07-27T11:48:17.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！悪魔育成パート３！【GoldEx World】]]></title>
+        <id>https://www.youtube.com/watch?v=5c9yjLo7y6o</id>
+        <link href="https://www.youtube.com/watch?v=5c9yjLo7y6o"/>
+        <updated>2022-07-27T11:36:32.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なぜお試しセットがここに…]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-870.html</id>
