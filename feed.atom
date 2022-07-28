@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-28T12:50:13.883Z</updated>
+    <updated>2022-07-28T13:46:17.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[50％（笑）]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-871.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-871.html"/>
+        <updated>2022-07-28T13:29:37.000Z</updated>
+        <summary type="html"><![CDATA[本当に神秘系統の成功率上がってんだろうなぁ？！Burst以前に神秘鏡をあれこれぶちこんで失敗や成功を繰り返していたのに、突如始まったBrustの神秘鏡verやってやろうじゃねぇかこの野郎！と意気込んで神秘鏡Ultをぶち込みまくったんだ6連敗→成功1回→9連敗→成功1回→また失敗どんな乱数してんだよ。賢者を入れようが、入れなかろうが、神秘鏡のかけらにしてみようが…本格的に呪われているんじゃねぇかこれ…※なのにGメンから賢者を提]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！悪魔育成パート３！【GoldEx World】]]></title>
         <id>https://www.youtube.com/watch?v=5c9yjLo7y6o</id>
