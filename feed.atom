@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-28T21:35:55.655Z</updated>
+    <updated>2022-07-28T21:48:23.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1473,16 +1473,6 @@ MAY UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本命は来週だから…]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-858.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-858.html"/>
-        <updated>2022-06-29T09:45:02.000Z</updated>
-        <summary type="html"><![CDATA[今週は静かにいこう。なんか静かですねぇ（詠唱開始）【配布品とか】・超武装祭・ブライトロトとプリズムコクーンのキャンペが１週間伸びた・ルーレットコインが正常に付与できなかった公式のあれ【アプデ前日恒例の生放送】7/5(火)21:00から。アプデ前日恒例の生放送です。内容は以下の通り・7/6(水)アプデ内容紹介・2022年の金鯖の情報紹介アプデはともかく、金鯖の情報も来るみたいですな。ログキャンの終わりやメンテ日から7/1]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
