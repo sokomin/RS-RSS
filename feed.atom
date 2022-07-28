@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-28T22:21:28.704Z</updated>
+    <updated>2022-07-28T22:48:10.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1432,47 +1432,6 @@ The post 2022年6月総括【RED STONE】 first appeared on 無職と美学と�
 なんやかんやフリーランスのエンジニアとして働き始めて…]]></summary>
         <author>
             <name>The Adventure Of The Jacks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.6.29 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/2ab9053c9868f7d39776f798d44c1368</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/2ab9053c9868f7d39776f798d44c1368?fm=rss"/>
-        <updated>2022-06-29T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[暑いですね＠ｗ＠
-
-MAY UPDATE -->
-
-
-第1期（5/25ら6/1：「高級仕立箱[外套･耳飾]」
-第2期（6/1から6/8）：「高級仕立箱[首飾･手袋]」
-第3期（6/8から6/15）：「高級仕立箱[鎧･帯]」
-第4期（6/15から6/22）：「高級仕立箱[冠･靴]」
-第5期（6/22から6/29）：「NewエンチャントBOX」
-第5期「NewエンチャントBOX」がドロップします。 -->
-
-
-
-
-
-
-
-6月15日メンテ後から6月29日7月6日メンテ前まで
-
-
-来週はアプデ、イベントの更新と盛りだくさんになりそうですね。
-がんばらねば。
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
