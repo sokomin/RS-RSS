@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-28T15:23:32.753Z</updated>
+    <updated>2022-07-28T15:52:23.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1493,16 +1493,6 @@ MAY UPDATE -->
         <summary type="html"><![CDATA[更新と言っても常設イベント状態のログインキャンペーン、ボックスドロップイベントの2つのみのようですね。ボックスドロップの中身は775UMUの共用防具が出るようです。最近、steamにて20日まで無料だったarkに没入してるせいでRSのほうはいつも以上に全く動いてないですが・・・。来週キャプテン実装だし、流石に新キャラ来たら少しは動こうかなぁ。それでは今週ものんびり楽しみましょう～( ´ω｀)]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】だらだらプレイ]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-909.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-909.html"/>
-        <updated>2022-06-29T03:26:05.000Z</updated>
-        <summary type="html"><![CDATA[腰痛はマシになった程度で改善はしていない。故に、DIABLOもガッツリやる気も起きず、未だにチュートリアル中(Lv30)※メインストーリーを進めながらゲームシステムを覚えてLv60にする=チュートリアル出遅れたのもあるが、DIABLOが期待していたようなMMORPGじゃないのがやる気が起きない要因になってる。Lv60後に上げていくパラゴンLvというものが結局はレベリングじゃん？というのも萎え要因。また、スマホとPC両方でキャラ共有して]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
