@@ -325,6 +325,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_x4bB4Birnc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_x4bB4Birnc",
+          "publishedOn": "2022-07-29T02:31:23.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】２０２２年金鯖開始！悪魔育成パート４！【GoldEx World】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5c9yjLo7y6o",
           "author": null,
           "description": "",
@@ -507,6 +517,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202207290000/",
+          "author": "雷神の弓",
+          "description": "みなさんが金鯖に夢中なので、金鯖が落ち着くまで待つことにします。今回の検証は、知識職の方たちにメリットがないところをお願いするので仕方がありませんよね。あと私自身も１年の中で仕事が最も忙しい時期で...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202207290000/",
+          "publishedOn": "2022-07-29T02:19:59.000Z",
+          "wordCount": 1320,
+          "title": "早く検証したいところですが",
+          "imageUrl": "http://plaza.jp.rakuten-static.com/img/common/blog_logo_ogp.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202207200000/",
           "author": "雷神の弓",
