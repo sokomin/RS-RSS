@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-29T11:48:08.032Z</updated>
+    <updated>2022-07-29T12:46:59.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1458,17 +1458,6 @@ The post 2022年6月総括【RED STONE】 first appeared on 無職と美学と�
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二代目金食い虫就任式 ～やっぱり知識職も辛いよ編～]]></title>
-        <id>https://rs-clair-de-lune.com/2022-06-30/</id>
-        <link href="https://rs-clair-de-lune.com/2022-06-30/"/>
-        <updated>2022-06-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[よく見たらここ半年以上月末滑り込み更新をかまし続けていることに気付いてしまったJ氏です。 プライベートの話になりますが、1年半の間参画していた案件を離れることになりました。（ちなみに明日から早速次案件なので無職は回避！）
-なんやかんやフリーランスのエンジニアとして働き始めて…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
 </feed>
