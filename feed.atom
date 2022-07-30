@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-30T12:36:29.627Z</updated>
+    <updated>2022-07-30T13:06:30.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[良い質問を受けたので更新]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207300000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207300000/"/>
+        <updated>2022-07-30T12:37:11.000Z</updated>
+        <summary type="html"><![CDATA[この会話はやらせではありません。刻印代行のバイトが終わった後に、思いがけず熱い気持ちが甦ったので記事を書きたくなりました。自分のためだったら、検証やら何やらこんな面倒くさいことやりませんからね。]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！RHYNⅡ初城攻め！【GoldEx World】]]></title>
         <id>https://www.youtube.com/watch?v=GaIYdIy8bzA</id>
