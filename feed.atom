@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-30T02:11:17.159Z</updated>
+    <updated>2022-07-30T03:54:48.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[転生後あれこれ]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-174.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-174.html"/>
+        <updated>2022-07-30T02:53:56.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。過ごしづらい暑さになってきたので、夏の終了を待ち望む第三の猫です。はい。夏はまだ続きそうですが、長かったチュートリアルはついに終了しました。ダリンありがとう。クエスト一覧もすっきりしました。・・・メインクエストのシーズン２が丸ごと残っているのですが、開始時期のスケジュールは自己判断でしょうか。とりあえず、5次転生したので、5次転生称号をもらいに行きます。好きな能力強化称号をもらえるみたい]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022金鯖獣人育成！！！【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=CurvxMkXU_4</id>
