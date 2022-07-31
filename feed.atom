@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-31T14:48:13.596Z</updated>
+    <updated>2022-07-31T15:22:06.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[精鋭討伐周回しながら雑談する配信【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=EATi3QlwfQM</id>
+        <link href="https://www.youtube.com/watch?v=EATi3QlwfQM"/>
+        <updated>2022-07-31T15:14:13.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヤティカヌ秘密妖精の試練（難しい）、【時間に抗う者】]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-758.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-758.html"/>
+        <updated>2022-07-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日出かけた際にふと横を見ると一軒家で飼われている犬が居たのですがホースの水をがぶ飲みしていましたこんな感じでした2年前に亡くなってしましましたがうちが飼っていた犬もホースの水が大好きで親の仇のようにガブガブ飲んでいたのを思い出しましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！物理武道（シーフ）育成！【GoldEx World】]]></title>
         <id>https://www.youtube.com/watch?v=ga8hooh8gKY</id>
