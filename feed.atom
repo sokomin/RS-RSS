@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-31T16:58:58.467Z</updated>
+    <updated>2022-07-31T17:24:19.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1485,6 +1485,16 @@ The post 2022年6月総括【RED STONE】 first appeared on 無職と美学と�
         <summary type="html"><![CDATA[中古のPCは初心者にはオススメできないものの、ある程度自分でPCのメンテができる人にとってはコスパが良かったりする。「サーバ機のようにとりあえず動けばいい」「Officeとか付属品いらない」などの運用マシン...]]></summary>
         <author>
             <name>そこらの民衆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[久しぶりに黒魔のこと]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207020000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207020000/"/>
+        <updated>2022-07-02T09:07:35.000Z</updated>
+        <summary type="html"><![CDATA[前とあまり変わっていませんが、装備の外観です。遺物コイフを製錬10に上げたり、T力皆既日食Nxの3解放を導入したり、多少の変更はあります。お金に困って、TRSULT太極Nxは全部売っちゃったので、火力はかなり下...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
