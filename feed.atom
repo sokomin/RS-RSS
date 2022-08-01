@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-01T22:23:52.333Z</updated>
+    <updated>2022-08-01T22:49:13.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1558,25 +1558,6 @@ The post 2022年6月総括【RED STONE】 first appeared on 無職と美学と�
         <summary type="html"><![CDATA[先日職場の方から「職場に来る時に聞いている曲は何ですか？」と聞かれましたこれです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識ランサー/アーチャー育成配信#4【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=ZiFu6qLFakg</id>
-        <link href="https://www.youtube.com/watch?v=ZiFu6qLFakg"/>
-        <updated>2022-07-03T10:38:04.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多分来るであろう金鯖に向けて]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-856.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-856.html"/>
-        <updated>2022-07-03T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[とはいっても準備物は今からだと手遅れな感じが…だからある意味今更シリーズ【金鯖って？】経験値倍率がぶち抜けた期間限定サーバー。7月下旬～9月上旬くらい。倍率はよくわからん仕様で決まりますが、毎年最高倍率は獲得している模様。混雑がとんでもないことになっており、古都は土日や平日夜に接続満、900～1000レべ区間の狩場はミラーだと激重状態になる。ここが鯖統合を終えた世界か…【特殊仕様】経験値（ドロップは後半にな]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
