@@ -54,16 +54,6 @@
           "wordCount": 1125,
           "title": "用途別！レッドストーンの仮想OS用PCの選び方",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/06882d04d09396f2bc530dde3fa9d17a1c228628.10.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202202100000/",
-          "author": "そこらの民衆",
-          "description": "中古のPCは初心者にはオススメできないものの、ある程度自分でPCのメンテができる人にとってはコスパが良かったりする。「サーバ機のようにとりあえず動けばいい」「Officeとか付属品いらない」などの運用マシン...",
-          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202202100000/",
-          "publishedOn": "2022-07-02T22:53:44.000Z",
-          "wordCount": 947,
-          "title": "中古PC買って匂いのお掃除してみた",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/5137cb5dfb648bb3e825454662b7f429209ec7a2.10.9.9.3.png"
         }
       ]
     },
@@ -306,16 +296,6 @@
           "publishedOn": "2022-07-05T10:54:54.000Z",
           "wordCount": null,
           "title": "2022/07 公式生放送 同時試聴会！【 REDSTONE 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZiFu6qLFakg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZiFu6qLFakg",
-          "publishedOn": "2022-07-02T23:12:38.000Z",
-          "wordCount": null,
-          "title": "知識ランサー/アーチャー育成配信#4【 REDSTONE 】",
           "imageUrl": null
         }
       ]
@@ -1250,6 +1230,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/f819b3d8fff8ad6e071b126eca92fbfc",
+          "author": null,
+          "description": "8月になりました。\n\n\n\n\n\nいつもどおりしょぼいですね(´・ω・`)\nもっとも記事が書けるだけありがたいと思わないといけないのかもしれません。\n私はともかく緋sはコンスタントにU品を集めてくれるのでギルドクエノU品分解には事欠きません。\nちょっとでもでてくれるので良しとしましょう。\n\n\nWIZくんが700を超えてきました。\nそろそろ装備をちゃんとしてあげようかな・・・と考え始めています。\n何がいいんだろうね(´・ω・`)\n今一番の悩みは首かなぁ。\nギルド倉庫に辛苦がしまってあったので、とりあえずそれにしようか考え中。\n知識職はいまいち装備が難しいですね。\n鎧はシックスがいいのかな？\n色褪せはあるんだけどなぁ(￣ω￣;)\nまぁまだ775まで到達していないし、少し考えながら育成しましょう。\n\n今月中にはメイドと剣士が転生できそうだし、そっちも装備を考えていきましょう。\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/f819b3d8fff8ad6e071b126eca92fbfc?fm=rss",
+          "publishedOn": "2022-08-01T10:00:00.000Z",
+          "wordCount": 1345,
+          "title": "2022.7月のドロップ~♪",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/29/dc/68632ba65e93a7b2ccbbbd64b1b1f6f3.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/06af7bdd71b2eac2e02f3de2b35d1a82",
           "author": null,

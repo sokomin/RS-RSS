@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-01T10:52:46.711Z</updated>
+    <updated>2022-08-01T11:19:37.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.7月のドロップ~♪]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/f819b3d8fff8ad6e071b126eca92fbfc</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/f819b3d8fff8ad6e071b126eca92fbfc?fm=rss"/>
+        <updated>2022-08-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[8月になりました。
+
+
+
+
+
+いつもどおりしょぼいですね(´・ω・`)
+もっとも記事が書けるだけありがたいと思わないといけないのかもしれません。
+私はともかく緋sはコンスタントにU品を集めてくれるのでギルドクエノU品分解には事欠きません。
+ちょっとでもでてくれるので良しとしましょう。
+
+
+WIZくんが700を超えてきました。
+そろそろ装備をちゃんとしてあげようかな・・・と考え始めています。
+何がいいんだろうね(´・ω・`)
+今一番の悩みは首かなぁ。
+ギルド倉庫に辛苦がしまってあったので、とりあえずそれにしようか考え中。
+知識職はいまいち装備が難しいですね。
+鎧はシックスがいいのかな？
+色褪せはあるんだけどなぁ(￣ω￣;)
+まぁまだ775まで到達していないし、少し考えながら育成しましょう。
+
+今月中にはメイドと剣士が転生できそうだし、そっちも装備を考えていきましょう。
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精鋭討伐周回しながら雑談する配信【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=EATi3QlwfQM</id>
@@ -1466,25 +1509,6 @@ The post 2022年6月総括【RED STONE】 first appeared on 無職と美学と�
 そんな感じで[壁]ω・)ノシシ</strong]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識ランサー/アーチャー育成配信#4【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=ZiFu6qLFakg</id>
-        <link href="https://www.youtube.com/watch?v=ZiFu6qLFakg"/>
-        <updated>2022-07-02T23:12:38.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中古PC買って匂いのお掃除してみた]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202202100000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202202100000/"/>
-        <updated>2022-07-02T22:53:44.000Z</updated>
-        <summary type="html"><![CDATA[中古のPCは初心者にはオススメできないものの、ある程度自分でPCのメンテができる人にとってはコスパが良かったりする。「サーバ機のようにとりあえず動けばいい」「Officeとか付属品いらない」などの運用マシン...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
