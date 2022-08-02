@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-02T13:44:04.082Z</updated>
+    <updated>2022-08-02T14:21:51.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1535,6 +1535,16 @@ CMの話が出たのでぺたぺた。
         <id>https://www.youtube.com/watch?v=GONUe-4vVEc</id>
         <link href="https://www.youtube.com/watch?v=GONUe-4vVEc"/>
         <updated>2022-07-05T10:54:54.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用途別！レッドストーンの仮想OS用PCの選び方]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202206300000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202206300000/"/>
+        <updated>2022-07-04T12:51:25.000Z</updated>
+        <summary type="html"><![CDATA[今回は実製品をもとに仮想PCを活用したレッドストーン向けのPC選び方を紹介。REDSTONEは仮想PCが不要なら一般的なWin10以上のノートPCであれば動作するので、今回は2PC以上を前提としたパソコン選定について紹介...]]></summary>
         <author>
             <name>そこらの民衆</name>
         </author>
