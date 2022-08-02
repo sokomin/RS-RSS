@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-02T02:28:37.035Z</updated>
+    <updated>2022-08-02T04:18:27.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】集金捗る金鯖]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-912.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-912.html"/>
+        <updated>2022-08-02T03:19:09.000Z</updated>
+        <summary type="html"><![CDATA[Lv902になった。記事にする予定だったキャプテン育成も、いろんなブログで紹介済なので止めるわ！まあ、Lv900止めするにしてもマゾ過ぎるので、金鯖だけ楽しむ人には絶対にお勧めしないw変わらず無課金継続中で、動かしているキャラもキャプテンのみだけど、討伐連れてってくれるギルメンと、１日1時間程度のソロ(討伐書収集)だけでもインゴ130本くらいの資産は出来た。物が売れるって楽しいわ。今後も教会装備中心の装備構成を更]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8/2】Lv1001達成]]></title>
         <id>https://ameblo.jp/tori-tori121/entry-12756537716.html</id>
@@ -1548,16 +1558,6 @@ CMの話が出たのでぺたぺた。
 The post 2022年6月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
         <author>
             <name>cho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[妖精の翼の欠片稼ぎ]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-754.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-754.html"/>
-        <updated>2022-07-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日職場の方から「職場に来る時に聞いている曲は何ですか？」と聞かれましたこれです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>

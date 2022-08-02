@@ -134,16 +134,6 @@
           "wordCount": 573,
           "title": "2022年7月6日アップデート",
           "imageUrl": null
-        },
-        {
-          "id": "https://mitsurin32.blog.fc2.com/blog-entry-754.html",
-          "author": "ミツリン",
-          "description": "先日職場の方から「職場に来る時に聞いている曲は何ですか？」と聞かれましたこれです",
-          "link": "https://mitsurin32.blog.fc2.com/blog-entry-754.html",
-          "publishedOn": "2022-07-03T15:00:00.000Z",
-          "wordCount": 573,
-          "title": "妖精の翼の欠片稼ぎ",
-          "imageUrl": null
         }
       ]
     },
@@ -762,6 +752,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-912.html",
+          "author": "JEFRY",
+          "description": "Lv902になった。記事にする予定だったキャプテン育成も、いろんなブログで紹介済なので止めるわ！まあ、Lv900止めするにしてもマゾ過ぎるので、金鯖だけ楽しむ人には絶対にお勧めしないw変わらず無課金継続中で、動かしているキャラもキャプテンのみだけど、討伐連れてってくれるギルメンと、１日1時間程度のソロ(討伐書収集)だけでもインゴ130本くらいの資産は出来た。物が売れるって楽しいわ。今後も教会装備中心の装備構成を更",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-912.html",
+          "publishedOn": "2022-08-02T03:19:09.000Z",
+          "wordCount": 535,
+          "title": "【REDSTONE】集金捗る金鯖",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-911.html",
           "author": "JEFRY",
