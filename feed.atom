@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-02T11:48:24.297Z</updated>
+    <updated>2022-08-02T12:48:41.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1547,17 +1547,6 @@ CMの話が出たのでぺたぺた。
         <summary type="html"><![CDATA[今回は実製品をもとに仮想PCを活用したレッドストーン向けのPC選び方を紹介。REDSTONEは仮想PCが不要なら一般的なWin10以上のノートPCであれば動作するので、今回は2PC以上を前提としたパソコン選定について紹介...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年6月総括【RED STONE】]]></title>
-        <id>https://chorrealism.com/?p=3265</id>
-        <link href="https://chorrealism.com/redstone/su220630/"/>
-        <updated>2022-07-04T00:02:17.000Z</updated>
-        <summary type="html"><![CDATA[6月の2週目ぐらいからやたらとバタバタしてて、INしない日もちらほら。INしてもクリーチャー冒険と週1で秘密14連(道中MOBでヤティウィークリクエ)、レイドに行くだけだった。 今週は少し余裕があるけど、来週からまた8月 […]
-The post 2022年6月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
 </feed>
