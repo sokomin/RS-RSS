@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-03T22:49:05.221Z</updated>
+    <updated>2022-08-03T23:22:55.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1613,15 +1613,6 @@ CMの話が出たのでぺたぺた。
         <summary type="html"><![CDATA[どうせ明日は地獄を見るんだ…【7/6アプデ内容】・キャプテン実装。金鯖で育ててもいいし、本鯖でやってもいい↑物理と知識両方一応ある・武道、悪魔、ウルフマン、メイド、霊術の調整（攻撃能力向上らしい）武道…オーラマスターを調整（烈風のCTが消滅、風ダメ死す、感電に…？）悪魔…アラクノエンプレスを調整（毒状態的に追加ダメ、一部CT消滅など）ウルフマン…火玉の射程範囲増える（あとリニアの仕様変更）メイド…マジェスティッ]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022/07 公式生放送 同時試聴会！【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=GONUe-4vVEc</id>
-        <link href="https://www.youtube.com/watch?v=GONUe-4vVEc"/>
-        <updated>2022-07-05T10:54:54.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
