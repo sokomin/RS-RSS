@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-04T21:20:38.862Z</updated>
+    <updated>2022-08-04T21:36:58.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1581,16 +1581,6 @@ CMの話が出たのでぺたぺた。
         <id>https://www.youtube.com/watch?v=5392q1Fl0jU</id>
         <link href="https://www.youtube.com/watch?v=5392q1Fl0jU"/>
         <updated>2022-07-06T09:48:40.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022/7/6 日本赤石アプデ考察]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202207060000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202207060000/"/>
-        <updated>2022-07-06T09:24:30.000Z</updated>
-        <summary type="html"><![CDATA[本日8:30より実施しております定期メンテナンスにつきまして、不具合を確認し、調査・修正のため、終了時間を未定とさせて頂きます。ご迷惑をおかけいたしまして誠に申し訳ございませんが、メンテナンス終了まで...]]></summary>
         <author>
             <name>そこらの民衆</name>
         </author>
