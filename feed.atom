@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-03T23:49:00.095Z</updated>
+    <updated>2022-08-04T02:02:41.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1603,25 +1603,6 @@ CMの話が出たのでぺたぺた。
         <summary type="html"><![CDATA[自分は少し感動しました。物理の表記制限についてのアンケートをTwitter上でやってくださったようです。（自分はTwitterアカウントを持っていないので、投票しておりません）この結果から読み取れることは、表記...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022/07 公式生放送 同時試聴会！【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=GONUe-4vVEc</id>
-        <link href="https://www.youtube.com/watch?v=GONUe-4vVEc"/>
-        <updated>2022-07-05T13:46:02.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前日だからあっさり味だ！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-859.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-859.html"/>
-        <updated>2022-07-05T12:59:18.000Z</updated>
-        <summary type="html"><![CDATA[どうせ明日は地獄を見るんだ…【7/6アプデ内容】・キャプテン実装。金鯖で育ててもいいし、本鯖でやってもいい↑物理と知識両方一応ある・武道、悪魔、ウルフマン、メイド、霊術の調整（攻撃能力向上らしい）武道…オーラマスターを調整（烈風のCTが消滅、風ダメ死す、感電に…？）悪魔…アラクノエンプレスを調整（毒状態的に追加ダメ、一部CT消滅など）ウルフマン…火玉の射程範囲増える（あとリニアの仕様変更）メイド…マジェスティッ]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
