@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-04T17:41:59.690Z</updated>
+    <updated>2022-08-04T18:28:15.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1593,16 +1593,6 @@ CMの話が出たのでぺたぺた。
         <updated>2022-07-06T06:46:09.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アンケートの結果]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207060000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207060000/"/>
-        <updated>2022-07-06T05:54:32.000Z</updated>
-        <summary type="html"><![CDATA[自分は少し感動しました。物理の表記制限についてのアンケートをTwitter上でやってくださったようです。（自分はTwitterアカウントを持っていないので、投票しておりません）この結果から読み取れることは、表記...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
