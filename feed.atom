@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-04T22:48:35.758Z</updated>
+    <updated>2022-08-04T23:21:31.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1524,56 +1524,6 @@ CMの話が出たのでぺたぺた。
 ﾊﾞｨ(o･ω･o)ﾉﾊﾞｨヽ(o･ω･o)ｷｰﾝ(ﾉo･ω･o)ﾉ]]></summary>
         <author>
             <name>きぃこんぱ～んちっ( ﾟ∀ﾟ)Ξ〇) ﾟﾛﾟ)∵＜出張版☆＞</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.7.6 アプデ！]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/82a64ddca8387544cddc7715f22b58ea</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/82a64ddca8387544cddc7715f22b58ea?fm=rss"/>
-        <updated>2022-07-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[台風4号が温帯低気圧になりました。
-
-
-
-
-
-
-第1期（5/25ら6/1：「高級仕立箱[外套･耳飾]」
-第2期（6/1から6/8）：「高級仕立箱[首飾･手袋]」
-第3期（6/8から6/15）：「高級仕立箱[鎧･帯]」
-第4期（6/15から6/22）：「高級仕立箱[冠･靴]」
-第5期（6/22から6/29）：「NewエンチャントBOX」
-第5期「NewエンチャントBOX」がドロップします。 -->
-
-
-
-
-
-「金の同窓会」も開催中です。
-
-
-
-
-
-
-
-6月22日メンテ後から7月13日メンテ前まで
-
-
-7月18日にメンテがあるような書きっぷりですが、祝日にする気か？？
-まぁ次の更新は18日のメンテになりそうですね。
-金鯖実装かな？
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
