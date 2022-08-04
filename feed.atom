@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-04T21:49:17.874Z</updated>
+    <updated>2022-08-04T22:21:54.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1565,24 +1565,6 @@ CMの話が出たのでぺたぺた。
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メンテ明け待ち枠】キャプテン促成栽培配信 #0【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=pRi1Mo_TxN4</id>
-        <link href="https://www.youtube.com/watch?v=pRi1Mo_TxN4"/>
-        <updated>2022-07-06T09:59:13.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キャプテン促成栽培#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=5392q1Fl0jU</id>
-        <link href="https://www.youtube.com/watch?v=5392q1Fl0jU"/>
-        <updated>2022-07-06T09:48:40.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
