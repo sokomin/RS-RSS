@@ -249,6 +249,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=pRi1Mo_TxN4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pRi1Mo_TxN4",
+          "publishedOn": "2022-07-06T09:59:13.000Z",
+          "wordCount": null,
+          "title": "【メンテ明け待ち枠】キャプテン促成栽培配信 #0【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5392q1Fl0jU",
           "author": null,
           "description": "",
@@ -422,16 +432,6 @@
           "publishedOn": "2022-07-09T11:31:31.000Z",
           "wordCount": null,
           "title": "【モンスターファーム２】３０代ホイホイ育成ゲームその３",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zWoMHbO3XVk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zWoMHbO3XVk",
-          "publishedOn": "2022-07-06T07:12:17.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】キャプテンやるぞ～！！６年ぶり新キャラ実装！",
           "imageUrl": null
         }
       ]
