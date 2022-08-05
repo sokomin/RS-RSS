@@ -462,6 +462,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=MS60xQQCjq4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MS60xQQCjq4",
+          "publishedOn": "2022-07-07T03:47:37.000Z",
+          "wordCount": null,
+          "title": "海賊〔キャプテン〕が実装されたので、無限になるか楽しみながら、、、、触る実況！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fEzc_b3Df10",
           "author": null,
           "description": "",
@@ -666,16 +676,6 @@
           "publishedOn": "2022-07-18T07:36:07.000Z",
           "wordCount": 604,
           "title": "金鯖",
-          "imageUrl": null
-        },
-        {
-          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1236.html",
-          "author": "クレリューフ",
-          "description": "既に遅い時間にはなりますが、今日の新着情報更新はなしです。メンテナンス延期もあった分、やる気が急降下で萎えてしまってるもので。新職「キャプテン」実装の内容と各種イベントに関しては公式サイトにてご確認ください。それでは今週ものんびり楽しみましょう～( ´ω｀)",
-          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1236.html",
-          "publishedOn": "2022-07-06T14:31:52.000Z",
-          "wordCount": 619,
-          "title": "すみません",
           "imageUrl": null
         }
       ]
@@ -1024,16 +1024,6 @@
           "wordCount": 1376,
           "title": "毒悪魔改変　ＳＳ撮ったので再揚げ",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/7affa0acaae3c6a549375a9122c5f92b1456f15a.35.9.9.3.jpeg"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202207060000/",
-          "author": "たつ2307",
-          "description": "こんばんは前回の更新からかなりの日数が経ちましたが、2022年7月6日のアップデートで待望の新キャラ「キャプテン」が実装されました(*´ω｀*)作って遊んでみましたが、覚醒が無いので弱いですｗただ、新しい物は...",
-          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202207060000/",
-          "publishedOn": "2022-07-06T14:44:21.000Z",
-          "wordCount": 1380,
-          "title": "2022/7/6　アップデート（悪魔について）",
-          "imageUrl": "http://plaza.jp.rakuten-static.com/img/common/blog_logo_ogp.png"
         }
       ]
     },
