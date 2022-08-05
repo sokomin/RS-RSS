@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-05T09:22:11.183Z</updated>
+    <updated>2022-08-05T09:49:01.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[かつての存在]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-874.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-874.html"/>
+        <updated>2022-08-05T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[討伐用のキャラがいなかったので、急遽作成することになったとなると作りなれてるFIになるよねってことで装備を調達してさくっと5転900に。狩場があいてりゃ1日で行けるということで完成したのがこちらです。名前は鯖大規模合併前に使ってたメインの。名前使えないようにした案山子がいたんだよ…確保しなかった自分が悪いけどもちなみに地下墓地B1なら超越油キメて一撃です。1000レべまでいけるけどやらないファルコンなら4発くら]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.8.3 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/cd40c5c91c3eeca2b18c318e4153f8cd</id>
@@ -1440,15 +1450,6 @@ CMの話が出たのでぺたぺた。
         <updated>2022-07-07T03:44:09.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】キャプテンやるぞ～！！６年ぶり新キャラ実装！]]></title>
-        <id>https://www.youtube.com/watch?v=zWoMHbO3XVk</id>
-        <link href="https://www.youtube.com/watch?v=zWoMHbO3XVk"/>
-        <updated>2022-07-06T21:40:08.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
