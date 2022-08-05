@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-05T22:21:32.912Z</updated>
+    <updated>2022-08-05T22:48:08.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1421,16 +1421,6 @@ CMの話が出たのでぺたぺた。
         <summary type="html"><![CDATA[スプレッド+インター+シャドウのスタイルがバグで使えなくなってしまいました。表記30万の単体4フレビットでGvに出ると、弱過ぎて腹が立ってストレスが溜まるので、Gvは休止することにします。頑張ってPVP攻撃力2...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あとからやってくる不具合]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-861.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-861.html"/>
-        <updated>2022-07-07T10:35:12.000Z</updated>
-        <summary type="html"><![CDATA[まぁあれだ、いつものいつもの。なんでもかんでもいつものにできる…【キャプテンのIF強化について】キャプテンのIFをガード使用して強化した場合に、本来のレベルとは違う完成値のIF武器になる、または素材として使用したIF武器が消滅する不具合が発生中。意図的に発生させるとBANされるかもしれない。そうじゃないならたぶん大丈夫。たぶん。強制垢一時停止じゃなくてよかったもしやっちゃった場合は連絡帳の「補填・復旧対応」窓]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
