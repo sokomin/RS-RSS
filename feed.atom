@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-05T20:23:15.287Z</updated>
+    <updated>2022-08-05T20:49:11.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1422,15 +1422,6 @@ CMの話が出たのでぺたぺた。
         <summary type="html"><![CDATA[まぁあれだ、いつものいつもの。なんでもかんでもいつものにできる…【キャプテンのIF強化について】キャプテンのIFをガード使用して強化した場合に、本来のレベルとは違う完成値のIF武器になる、または素材として使用したIF武器が消滅する不具合が発生中。意図的に発生させるとBANされるかもしれない。そうじゃないならたぶん大丈夫。たぶん。強制垢一時停止じゃなくてよかったもしやっちゃった場合は連絡帳の「補填・復旧対応」窓]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海賊〔キャプテン〕が実装されたので、無限になるか楽しみながら、、、、触る実況 その3！]]></title>
-        <id>https://www.youtube.com/watch?v=WNyuYDfiaz4</id>
-        <link href="https://www.youtube.com/watch?v=WNyuYDfiaz4"/>
-        <updated>2022-07-07T08:47:33.000Z</updated>
-        <author>
-            <name>ひさプッチ</name>
         </author>
     </entry>
 </feed>
