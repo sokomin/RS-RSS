@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-05T17:06:41.919Z</updated>
+    <updated>2022-08-05T17:43:40.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1440,16 +1440,6 @@ CMの話が出たのでぺたぺた。
         <updated>2022-07-07T06:23:07.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毒悪魔改変　ＳＳ撮ったので再揚げ]]></title>
-        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202207070000/</id>
-        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202207070000/"/>
-        <updated>2022-07-07T05:18:44.000Z</updated>
-        <summary type="html"><![CDATA[昨日の続きです！色々とやってＳＳ撮れたのであげます。毒覚醒の専用パッシブアラクノエンブレス覚醒スキルで敵にダメージを与えると中毒状態つまりは「ヴェノムクラウド」　　　　「ポイズンエクスプロッシブ」...]]></summary>
-        <author>
-            <name>たつ2307</name>
         </author>
     </entry>
 </feed>
