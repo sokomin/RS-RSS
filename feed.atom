@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-05T15:52:23.950Z</updated>
+    <updated>2022-08-05T16:34:34.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1429,6 +1429,15 @@ CMの話が出たのでぺたぺた。
         <id>https://www.youtube.com/watch?v=WNyuYDfiaz4</id>
         <link href="https://www.youtube.com/watch?v=WNyuYDfiaz4"/>
         <updated>2022-07-07T08:47:33.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海賊〔キャプテン〕が実装されたので、無限になるか楽しみながら、、、、触る実況 その２！]]></title>
+        <id>https://www.youtube.com/watch?v=fEzc_b3Df10</id>
+        <link href="https://www.youtube.com/watch?v=fEzc_b3Df10"/>
+        <updated>2022-07-07T06:23:07.000Z</updated>
         <author>
             <name>ひさプッチ</name>
         </author>
