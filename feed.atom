@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-06T10:23:09.784Z</updated>
+    <updated>2022-08-06T10:49:06.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！物理武道（シーフ）育成！パート４！【GoldEx World】]]></title>
+        <id>https://www.youtube.com/watch?v=_G8Q4zA6xfE</id>
+        <link href="https://www.youtube.com/watch?v=_G8Q4zA6xfE"/>
+        <updated>2022-08-06T10:22:14.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運営と戦う金鯖攻城戦【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=1QxuDQTAu-o</id>
