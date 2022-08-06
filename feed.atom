@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-06T17:24:32.516Z</updated>
+    <updated>2022-08-06T17:48:18.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スキル盛り盛り金鯖]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-875.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-875.html"/>
+        <updated>2022-08-06T17:41:37.000Z</updated>
+        <summary type="html"><![CDATA[金鯖なのにSlv401とかいうわけの分かんない数値をたたき出してますが、実際にどうなるかというとこうなります。HP+619％、防御+1228％Slvさらに増えてるって？知らんな。実際のところは+10バッジが入ってもうちょっと増えます。あと改良点も残ってます。どんだけねじこんだんだって？もし火力装備だったら去年ほどではないけど…並み程度なら壊滅できるほどでも今年は支援だからね！安心だよ！ちなみにWIZだと支援にほぼ上限祭りの]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！物理武道（シーフ）育成！パート４！【GoldEx World】]]></title>
         <id>https://www.youtube.com/watch?v=_G8Q4zA6xfE</id>
