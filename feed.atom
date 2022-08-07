@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-07T15:21:38.062Z</updated>
+    <updated>2022-08-07T15:50:03.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1458,16 +1458,6 @@ CMの話が出たのでぺたぺた。
         <updated>2022-07-09T11:31:31.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[涼しい遺物作成]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-172.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-172.html"/>
-        <updated>2022-07-09T03:43:31.000Z</updated>
-        <summary type="html"><![CDATA[ついにキャプテンが実装されましたね。覚醒が未実装かつ金鯖が控えているからでしょうか、今のところ町中キャプテンだらけという感じにはなってないみたいです。どうもこんにちは、2021年くらいだと思っていた「はじめて冒険した日」が存外昔だったので、過去改変する方法を模索中の、第三の猫です。この前のメンテでも色々と改変されているみたいです。例えば、協会のレンタル装備。レンタル精霊王よりも優秀な冠。総合的に見れば]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
