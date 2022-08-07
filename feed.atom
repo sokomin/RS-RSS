@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-07T23:21:07.237Z</updated>
+    <updated>2022-08-07T23:37:04.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1449,15 +1449,6 @@ CMの話が出たのでぺたぺた。
 金鯖で出会いましたらよろしくお願いします。]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【モンスターファーム２】３０代ホイホイ育成ゲームその３]]></title>
-        <id>https://www.youtube.com/watch?v=FNqN5yjRfPo</id>
-        <link href="https://www.youtube.com/watch?v=FNqN5yjRfPo"/>
-        <updated>2022-07-09T11:31:31.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
