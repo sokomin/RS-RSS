@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-08T20:50:15.975Z</updated>
+    <updated>2022-08-08T21:19:36.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1400,15 +1400,6 @@ RSのID作ったことあってログインできる人は試しに公式ﾛｸ�
         <summary type="html"><![CDATA[先日RSではアップデートが行われました同時にこんな動画も公開されています金の同窓会イベントの告知動画になりますね今回は運営さん色々と気合が入ってるなぁと思いました尚、全部で4バージョンあるようですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識剣士育成配信#3【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=bM8UurzlRmo</id>
-        <link href="https://www.youtube.com/watch?v=bM8UurzlRmo"/>
-        <updated>2022-07-10T09:00:58.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
