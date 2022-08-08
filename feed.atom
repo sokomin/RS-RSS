@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-08T15:53:25.478Z</updated>
+    <updated>2022-08-08T16:33:09.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1403,6 +1403,15 @@ RSのID作ったことあってログインできる人は試しに公式ﾛｸ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[知識剣士育成配信#3【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=bM8UurzlRmo</id>
+        <link href="https://www.youtube.com/watch?v=bM8UurzlRmo"/>
+        <updated>2022-07-10T09:00:58.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[表記制限についての私のスタンス]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207100000/</id>
         <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207100000/"/>
@@ -1410,34 +1419,6 @@ RSのID作ったことあってログインできる人は試しに公式ﾛｸ�
         <summary type="html"><![CDATA[誤解のないように言っておくのですが、私はずっと前から物理の表記制限には大反対でしたからね。​​​当ブログ3月18日の記事​​↑この記事を見ていただければ分かると思いますが、表記制限はおかしいと今年の3月の時...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMだって。٩(๑`ȏ´๑)۶]]></title>
-        <id>https://ameblo.jp/keykeykey2010/entry-12752707317.html</id>
-        <link href="https://ameblo.jp/keykeykey2010/entry-12752707317.html"/>
-        <updated>2022-07-10T04:20:04.000Z</updated>
-        <summary type="html"><![CDATA[(o・Д・o)ｺ(o・ω・o)ﾝ(o・∀・o)ﾁｬ♪
-CMの話が出たのでぺたぺた。
-
-
-
- 
-歴代冒険家パネル今見たら66％になってた。
-100％とか無理でしょ(๑¯ω¯๑)
- 
-
-4月1日に「結婚しました！！！！！！」って言ったら
-ずっと祝ってくれる(*ﾉωﾉ)2人でお祝いとかした記憶ないけどｗ
-エイプリルフールで騙されたことを認めたくない、ひねくれほたるちゃんでした(ฅ'ω'ฅ)​♥
-結婚は一人じゃ出来ないので3食昼寝付き家政婦さん付きゲーム環境完備で
-病弱な人を迎えてくれる方が居たら誰か教えてくださいね(๑´ლ`๑)ﾌﾌ♡
- 
-動画久しぶりにぺたぺたしたら画面のサイズの変え方わからなくて
-丁度いいサイズの画面に出来なかったょ(´-ω-`)ﾁｰﾝ♪
-ﾊﾞｨ(o･ω･o)ﾉﾊﾞｨヽ(o･ω･o)ｷｰﾝ(ﾉo･ω･o)ﾉ]]></summary>
-        <author>
-            <name>きぃこんぱ～んちっ( ﾟ∀ﾟ)Ξ〇) ﾟﾛﾟ)∵＜出張版☆＞</name>
         </author>
     </entry>
 </feed>
