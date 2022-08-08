@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-08T05:04:47.855Z</updated>
+    <updated>2022-08-08T05:38:22.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1418,16 +1418,6 @@ CMの話が出たのでぺたぺた。
         <updated>2022-07-10T03:39:22.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[混沌の大地15層]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202207100000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202207100000/"/>
-        <updated>2022-07-09T17:15:32.000Z</updated>
-        <summary type="html"><![CDATA[みなさんお久しぶりです。魔法の壁です。5月からほぼINしていませんが、記録として動画を撮っていたのでYoutubeにアップしました。​https://youtu.be/KpXJS7Zklqc​未解明の部分もあり適当ですが解説です。ウェー...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
