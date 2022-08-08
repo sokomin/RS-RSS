@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-08T17:03:30.304Z</updated>
+    <updated>2022-08-08T17:40:49.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1409,16 +1409,6 @@ RSのID作ったことあってログインできる人は試しに公式ﾛｸ�
         <updated>2022-07-10T09:00:58.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[表記制限についての私のスタンス]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207100000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207100000/"/>
-        <updated>2022-07-10T05:16:28.000Z</updated>
-        <summary type="html"><![CDATA[誤解のないように言っておくのですが、私はずっと前から物理の表記制限には大反対でしたからね。​​​当ブログ3月18日の記事​​↑この記事を見ていただければ分かると思いますが、表記制限はおかしいと今年の3月の時...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
