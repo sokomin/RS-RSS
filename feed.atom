@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-08T10:51:03.881Z</updated>
+    <updated>2022-08-08T11:18:40.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サブクエスト「ある異邦人」（Lv1150～）　攻略チャート作成]]></title>
+        <id>https://khbsroom.com/Sub_que_1150_Aru_Ihoujin.html</id>
+        <link href="https://khbsroom.com/Sub_que_1150_Aru_Ihoujin.html"/>
+        <updated>2022-08-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022/6/29 アップデートにより実装された、サブクエスト「ある異邦人」の攻略チャートを作成しました。]]></summary>
+        <author>
+            <name>KHBの部屋</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖にて　【オーラマスター、キャプテン、ライトニングサンダー検証】]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-759.html</id>
