@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-07T23:49:00.528Z</updated>
+    <updated>2022-08-08T02:00:57.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1428,27 +1428,6 @@ CMの話が出たのでぺたぺた。
         <summary type="html"><![CDATA[みなさんお久しぶりです。魔法の壁です。5月からほぼINしていませんが、記録として動画を撮っていたのでYoutubeにアップしました。​https://youtu.be/KpXJS7Zklqc​未解明の部分もあり適当ですが解説です。ウェー...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖]]></title>
-        <id>tag:blogger.com,1999:blog-6041969618045088376.post-525679445221536491</id>
-        <link href="https://rs-kumapon.blogspot.com/2022/07/blog-post.html"/>
-        <updated>2022-07-09T12:21:00.000Z</updated>
-        <summary type="html"><![CDATA[そろそろ金鯖の季節が近づいてまいりましたね
-今年も参加しようと思います（いつも通り直ぐ辞めそうですが
-
-
-今年はどの職をやろうかと色々なサイトを見ていましたら
-こちらのサイトで知識アチャがお勧めだと書かれていました。
-折角の金鯖ですからね、やった事がない職を育てるのもいいかと思います。
-アーチャー自体は育てた事がありますが、知識アーチャーは初めてです。
-しかも覚醒するのはいつもランサーでした…。
-
-
-金鯖で出会いましたらよろしくお願いします。]]></summary>
-        <author>
-            <name>noreply@blogger.com (Unknown)</name>
         </author>
     </entry>
 </feed>
