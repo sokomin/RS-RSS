@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-09T15:26:00.470Z</updated>
+    <updated>2022-08-09T15:53:39.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1390,16 +1390,6 @@ RSのID作ったことあってログインできる人は試しに公式ﾛｸ�
         <summary type="html"><![CDATA[早速、対人用のチャンネルを作ってくださいました。ついでに私のディスコードタグも晒しておきます。何かあれば、　雷神の弓♯2473　へご連絡ください。★追記一番乗りはできませんでしたが、早速発言させていただ...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】2022金鯖版レベルート]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202207110000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202207110000/"/>
-        <updated>2022-07-11T03:31:41.000Z</updated>
-        <summary type="html"><![CDATA[毎年恒例の金鯖版レベルート、今年も書きます。2021金鯖版レベルート と基本的な内容は同じで、環境が変わった部分について注力して解説していきます。今年の金鯖情報経験値17倍、Lv1000まで！金鯖終了後にキャプ...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
