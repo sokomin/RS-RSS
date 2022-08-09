@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-09T13:51:46.963Z</updated>
+    <updated>2022-08-09T14:23:50.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1380,6 +1380,16 @@ RSのID作ったことあってログインできる人は試しに公式ﾛｸ�
 ばぃちゃっ☆(´ゝ∀・｀)ﾉｼ]]></summary>
         <author>
             <name>きぃこんぱ～んちっ( ﾟ∀ﾟ)Ξ〇) ﾟﾛﾟ)∵＜出張版☆＞</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[運営さん仕事が早くて素敵ですね]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207110000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207110000/"/>
+        <updated>2022-07-11T04:58:07.000Z</updated>
+        <summary type="html"><![CDATA[早速、対人用のチャンネルを作ってくださいました。ついでに私のディスコードタグも晒しておきます。何かあれば、　雷神の弓♯2473　へご連絡ください。★追記一番乗りはできませんでしたが、早速発言させていただ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
