@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-09T11:18:50.390Z</updated>
+    <updated>2022-08-09T11:32:59.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なぜジェンドなのか？]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-325.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-325.html"/>
+        <updated>2022-08-09T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[お盆も近くなり現在準備を少しずつしている所で忘れ物がないかなと色々考えているところです！金鯖は初日に行ったきりで無課金支部どうしてるかな？と気になってますがみんなしっかりしてるし大丈夫だろうと思ってました＾＾今回は名前のルーツの話でどうしてわたしはジェンドなのか？という話です。ＲＳを始めたのが2008年頃でネトゲ自体が初めてだったのでキャラ名をつけるのに当時知ってたマンガやアニメ・ドラマ・映画の登場人]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仕事が全然落ち着かないですね]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202208090000/</id>
