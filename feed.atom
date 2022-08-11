@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-11T15:23:50.448Z</updated>
+    <updated>2022-08-11T15:51:58.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1402,16 +1402,6 @@ PortTownBox		ちょくちょくある
         <summary type="html"><![CDATA[はっきり言って、来週に集中させた方がいい。ってかちゃっかり臨時メンテしてたんかい…【お死らせ】・キャプテンのIF武器強化の不具合修正・アチャのスプレッドアローで発生していた不具合修正・ギルドスキルにキャプテンのスキル「航海術」がなかった不具合修正アイテム配布？来週だよ、来週。公式のあれ【再びきた生放送】7/18(月)16:00から。祝日だから月曜の16時です。金鯖カウントダウンの生放送らしい。内容は以下の通り。・]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[匿名掲示板についての自論です]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207130000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207130000/"/>
-        <updated>2022-07-13T03:42:07.000Z</updated>
-        <summary type="html"><![CDATA[匿名掲示板で個人や団体（RSにおいてはギルド）の悪口を言うのは絶対に駄目だと思います。例えば、「あいつは表記守ってない！」とか「○○ギルドは人数だけで大したことない」とかが悪口ですね。こういう個人（団...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
