@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-12T14:48:53.368Z</updated>
+    <updated>2022-08-12T15:26:31.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1413,16 +1413,6 @@ PortTownBox		ちょくちょくある
         <summary type="html"><![CDATA[まず最初の検証は、オーガ30万の4フレビットとミラー貫通知識の秒間ダメの比較をやろうかなと思っています。幸い私のアーチャーは、PVP攻撃が上限付近の249％あります。ここにフロントラインを調達してくれば、30...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】Gvの攻撃力表記制限について]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-910.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-910.html"/>
-        <updated>2022-07-14T03:24:12.000Z</updated>
-        <summary type="html"><![CDATA[個人的には賛成。ただし、制限する以上、不公平感が無いことが前提。今回、DIscordに対人戦チャンネルが設置されたため、Gvの攻撃力表記制限について議論が開始された。以前から、現状の制限には不公平感がある、上限を緩和すべきと訴えている人もいたが、個人の意見だと伝わらず緩和の兆しも無かった。Discordで議論が進み、不公平感の無い制限になることを願ってやまない。ここらからは思い出話中心の私見になるため、興味無い方]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
