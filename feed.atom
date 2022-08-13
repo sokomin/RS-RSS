@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-13T04:04:19.883Z</updated>
+    <updated>2022-08-13T04:46:53.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「金」況報告]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-175.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-175.html"/>
+        <updated>2022-08-13T04:08:33.000Z</updated>
+        <summary type="html"><![CDATA[金鯖を始めても、１キャラ増やすくらいのより道だと思っていました。ですが実際にやってみると、高速道路の出口を通り過ぎた感じでした。戻ってきた第三の猫です。討伐で集めた「シュラグの角」と討伐バッジを交換しました。シュラグ君は今のところいっぱいいるので乱獲しても多分大丈夫です。バッジの効果はこちら。結構強いです。他の討伐モンスターのバッジもある※みたいなので、（※アスタロト君はグッズ化されていませんでした]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8/12】金鯖剣士のGv装備]]></title>
         <id>https://ameblo.jp/tori-tori121/entry-12758331637.html</id>
