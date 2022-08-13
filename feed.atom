@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-13T09:36:20.515Z</updated>
+    <updated>2022-08-13T09:48:26.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1374,16 +1374,6 @@ Lv750よりクエスト受領できる。冒険者本部内のNPCパウン（座
 Lv900より冒険家協会バーのNPCエルウッド（座標4.42）より入場できるダンジョン。各階層ごとに１日１回参加可能で、クリア時に大量の経験値を取得できる（らしい）。詳細は公式HPへ]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖2022　レベル上げルート（1～1000狩場）Ver.狩るＤＸ流毒悪魔]]></title>
-        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202207150000/</id>
-        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202207150000/"/>
-        <updated>2022-07-14T21:36:43.000Z</updated>
-        <summary type="html"><![CDATA[2年前くらいにも一度狩場ルートをあげたことはありましたが、環境が変わったのと私の知識も増えたので改めて、今回は金鯖2022で毒悪魔を作ったらこんな感じかな？って自分流のルートをあげさせてもらいます(｀・ω...]]></summary>
-        <author>
-            <name>たつ2307</name>
         </author>
     </entry>
 </feed>
