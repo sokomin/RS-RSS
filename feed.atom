@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-15T19:48:32.153Z</updated>
+    <updated>2022-08-15T20:23:24.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1362,16 +1362,6 @@ Lv600までのブーストを買っているので、明日は出来れば転生
         <summary type="html"><![CDATA[もう明日じゃん…とりあえずだけど、だめなほうのルーレットのコイン使用期限が今日の23:59までです。忘れないように変えておきましょう。特にほしいものないんですけど…な場合は移動しながら攻撃できるカーペットにしておけばいいです。コインが足りない？そう…あとは適当な情報を以下に。・金鯖開始は7/18(月)17:00から（ただし、メンテが伸びたり臨時メンテが来たりしたらわかんない）・16:00よりカウントダウン生放送がある。と]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[強打型知識（ミラー貫通）の皆様へ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207170000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207170000/"/>
-        <updated>2022-07-17T08:15:34.000Z</updated>
-        <summary type="html"><![CDATA[アリーナでGvに参加している強打型のクレセント、トワー、ボトル、ブラックスターの皆様にお願いがあります。検証を実施するために、皆様のGv時のスペックを教えてください。スペックというのは、表記ダメージ、...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
