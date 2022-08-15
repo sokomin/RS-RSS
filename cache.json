@@ -169,6 +169,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T0V3dmE4eQA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T0V3dmE4eQA",
+          "publishedOn": "2022-08-15T06:05:24.000Z",
+          "wordCount": null,
+          "title": "知識剣士育成配信#4【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1QxuDQTAu-o",
           "author": null,
           "description": "",
