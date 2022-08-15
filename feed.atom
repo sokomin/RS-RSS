@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-15T17:06:13.448Z</updated>
+    <updated>2022-08-15T17:41:50.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1333,6 +1333,15 @@ Lv600までのブーストを買っているので、明日は出来れば転生
         <summary type="html"><![CDATA[2022/3/2 アップデートにより実装された、称号クエスト 「密教」 Lv2～Lv5 の攻略チャートを作成しました。]]></summary>
         <author>
             <name>KHBの部屋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャプテン促成栽培#2【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=8aoLZmQrRK4</id>
+        <link href="https://www.youtube.com/watch?v=8aoLZmQrRK4"/>
+        <updated>2022-07-17T09:18:33.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
