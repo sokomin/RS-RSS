@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-16T17:02:46.725Z</updated>
+    <updated>2022-08-16T17:39:25.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新キャラ始動です。]]></title>
+        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202208170000/</id>
+        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202208170000/"/>
+        <updated>2022-08-16T17:25:31.000Z</updated>
+        <summary type="html"><![CDATA[嘘です。みなさんこんにちは。魔法の壁です。新キャラが実装されたことに加え、お盆で暇すぎなところさらに追い打ちをかけるように金鯖ですよ。5000GEMくらいする金鯖ラストスパートセットを買うアカウント間違え...]]></summary>
+        <author>
+            <name>裁判官</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キャプテン実装一ヶ月 期待を込めて☆5です！！【RED STONE】]]></title>
         <id>https://chorrealism.com/?p=3341</id>

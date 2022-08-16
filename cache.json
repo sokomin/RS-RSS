@@ -251,7 +251,18 @@
       "title": "魔法の壁のリアルライふ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/mahounokabe/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/mahounokabe/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/mahounokabe/diary/202208170000/",
+          "author": "裁判官",
+          "description": "嘘です。みなさんこんにちは。魔法の壁です。新キャラが実装されたことに加え、お盆で暇すぎなところさらに追い打ちをかけるように金鯖ですよ。5000GEMくらいする金鯖ラストスパートセットを買うアカウント間違え...",
+          "link": "https://plaza.rakuten.co.jp/mahounokabe/diary/202208170000/",
+          "publishedOn": "2022-08-16T17:25:31.000Z",
+          "wordCount": 1369,
+          "title": "新キャラ始動です。",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/93f16ca3c84d82f35a2facd0d02610fd49c0edc0.49.9.9.3.png"
+        }
+      ]
     },
     {
       "title": "ファーぶろぐ ☆ RED STONE ブリッジヘッド鯖",
