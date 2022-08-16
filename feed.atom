@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-16T18:55:35.108Z</updated>
+    <updated>2022-08-16T19:18:12.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1315,15 +1315,6 @@ Lv600までのブーストを買っているので、明日は出来れば転生
         <summary type="html"><![CDATA[という事でこのあと17時メンテナンス終了後から金鯖が開催となります。開催イベントは↑の画像をクリックすれば金鯖ページに飛べるのでそこでご確認頂ければと思います。それと←のイベント情報欄ですが、一旦常設化してる2つだけ置いときます。単にやる気の問題でそこまで更新するのが面倒くさくなってるだけで体調不良とかはないので、その点はご安心を。ぶっちゃけ最近RSやその他ゲームよりARKというゲームにどっぷり状態なもので]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖育成！！！#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=j2jN4hjCz8g</id>
-        <link href="https://www.youtube.com/watch?v=j2jN4hjCz8g"/>
-        <updated>2022-07-18T07:10:09.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
