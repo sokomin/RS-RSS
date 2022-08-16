@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-16T19:48:32.288Z</updated>
+    <updated>2022-08-16T20:23:33.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1304,16 +1304,6 @@ Lv600までのブーストを買っているので、明日は出来れば転生
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今回もイベキャンペまとめがあるじゃないか！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-865.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-865.html"/>
-        <updated>2022-07-18T08:18:25.000Z</updated>
-        <summary type="html"><![CDATA[まともなのは僕だけか！？ボートを用意しろ。RSPassもだ。何気にRSPassを始めるのやめてくれない？【配布品とか】・金鯖が始まりました。・臨時メンテのお詫びでスフィア1時間とパワキ1時間が各2・新キャラクイズとりあえず公式のあれ【イベキャンペの公式まとめ】また公式のイベキャンペまとめがあるんだよね…もうこれでいいんじゃないかなぁ。すべてを集約した公式のまとめ…だからといって、こっちでまとめないってのはだめだろ]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
