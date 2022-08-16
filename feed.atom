@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-16T11:29:25.770Z</updated>
+    <updated>2022-08-16T11:48:24.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1324,16 +1324,6 @@ Lv600までのブーストを買っているので、明日は出来れば転生
         <summary type="html"><![CDATA[アリーナでGvに参加している強打型のクレセント、トワー、ボトル、ブラックスターの皆様にお願いがあります。検証を実施するために、皆様のGv時のスペックを教えてください。スペックというのは、表記ダメージ、...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝5時起きの今年]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-324.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-324.html"/>
-        <updated>2022-07-17T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[思っていた予定が保留中となりちょっと時間に余裕ができてきたこの頃です＾＾今年引越しをするかどうか検討していたのですが希望の物件が他の人に契約されちゃってたり他のは心理的瑕疵があったりしたので白紙になりました…今日のメンテ後に今年の金鯖が始まるようで休日なのでわたしも行けるかな？と考えていたりします＾＾ただし、今年は初盆なのでそれが終わるまではあまりゲームしてるのも申し訳ないなという気持ちがあり時間]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
