@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-17T05:59:06.393Z</updated>
+    <updated>2022-08-17T06:35:15.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[真の後半戦？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-879.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-879.html"/>
+        <updated>2022-08-17T06:21:01.000Z</updated>
+        <summary type="html"><![CDATA[ドロ率の変化が始まったし、金鯖も後半戦といってもいいだろう。先週から後半戦だって？知らんよ。【配布物とか】〇ございません一応公式のあれ【ナンバーズの結果】まぁなんというか…予想通りの結果でした。8/17(水)メンテ後から9/7(水)メンテまで金鯖のドロ率が500％に変化します。なお、ナンバーズのプレゼントアイテムはまだ先らしいよ。とにかく、金鯖泥狩りならこっから本番…かな？出るとは言ってない当選番号とかはこっから]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不完全復帰！？]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-326.html</id>
