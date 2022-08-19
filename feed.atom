@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-19T02:19:44.630Z</updated>
+    <updated>2022-08-19T03:58:42.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1205,16 +1205,6 @@ Discordにてミッションを達成した人に抽選！
         <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-867.html"/>
         <updated>2022-07-22T09:27:47.000Z</updated>
         <summary type="html"><![CDATA[なんか公式生放送するらしいけど…今日の昼に告知して今日の夜にやるって…【公式生放送】7/22(金)21:00から。内容は…なんだこれ？・ライデン池田の野望【金鯖出張編】どうやら公式グッズを抽選でプレゼントするらしいよ。それにしても、今の金鯖は昼ですら古都満ではじき出される始末…うっかり古都に入ってはじき出され、なんてことはないよね？それとも専用回線？こっちは詳細こっちは配信ページせめて前日に連絡があれば…まぁいい]]></summary>
-        <author>
-            <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖でできない事などいろいろ]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-866.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-866.html"/>
-        <updated>2022-07-20T15:19:01.000Z</updated>
-        <summary type="html"><![CDATA[これも一緒につけるべきだったな…まぁいいや。【金鯖でできない事など】公式のまとめがこれ一応ざっくりと下記に。・炎の石クエ、冒険家レポートの1と2はできません・その関係でダリンのチュートリアルも止まります。あとMQ2のチャプター4ができない・ディメンションさんも使えません。・クリーチャーの冒険もできません。なぜだ…・転生称号の経験値ブーストは浜で死にました・キャラは3枠まで・通常ワールド用のレべアップ達成は]]></summary>
         <author>
             <name>Trailblazer</name>
         </author>
