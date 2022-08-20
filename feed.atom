@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-20T13:42:06.359Z</updated>
+    <updated>2022-08-20T14:19:49.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[俺たちのSlvは、これからだ！]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-880.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-880.html"/>
+        <updated>2022-08-20T13:48:28.000Z</updated>
+        <summary type="html"><![CDATA[これ以上は増えませんよ？いや増やす手段微妙にあるけどさぁ盛りに盛って結局S l v 4 8 7まで到達するという。プチヘイがヘイスト超えてるんですけど…。上限値がなければなぁ…結局のところ、装備はこうなりました。武器…T職スキルホルフェ（WIZはWRS+職スキルIF8）補助武器…T職スキルMPDF（WIZはT職スキルブローチ）腰…TRS騎士首…TRS辛苦腕…TRSハンズ頭…TRS権能鎧…TRSエンジェルローブ背…TRSディザスター足…TRS黄金指…TRSDXタート×]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メイドの覚醒 －ルナティックサーハント－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/b6140a3f76e9e53f414e132563032f32</id>
