@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-21T14:48:22.388Z</updated>
+    <updated>2022-08-21T15:22:05.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近のシルフラについて]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-761.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-761.html"/>
+        <updated>2022-08-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日仕事帰りの駅のホームで前に並んでいた若い女性が電話に出ていました見た目の若さと黒のスーツ姿から察するに新卒の方でしょうか「申し訳ございません！」と何度も誤りながら焦りながらトラブルに対応しているようでした自分も新卒の頃のつらかった思いが頭に浮かびました同時にこの曲も浮かびました私が新卒の頃はもう何年も前になりますが歌詞を聞くと本当に共感できる曲です仕事で辛いことがあると「頑張れオレ」と自分に言]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖！悪魔育成パート８！【GoldEx World】]]></title>
         <id>https://www.youtube.com/watch?v=uN3beTgCfkk</id>
