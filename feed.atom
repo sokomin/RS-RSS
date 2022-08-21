@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-21T03:48:55.028Z</updated>
+    <updated>2022-08-21T04:37:40.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022金鯖ギルドポイントを貯めようの会【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=qiPHOItd5Lo</id>
+        <link href="https://www.youtube.com/watch?v=qiPHOItd5Lo"/>
+        <updated>2022-08-21T03:50:05.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俺たちのSlvは、これからだ！]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-880.html</id>
