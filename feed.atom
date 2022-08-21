@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-21T23:21:37.805Z</updated>
+    <updated>2022-08-21T23:48:33.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1251,16 +1251,6 @@ Discordにてミッションを達成した人に抽選！
         <updated>2022-07-23T13:43:26.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[接続過多？]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-868.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-868.html"/>
-        <updated>2022-07-23T11:36:54.000Z</updated>
-        <summary type="html"><![CDATA[なんだこれはぁ？！…はい、RSにはログインできるけども、コミュニティサーバへは接続できないという状態です。本鯖は問題なく接続できました。おそらく金鯖の接続が多いことに起因するのでしょう。たぶん。この状態になると、できない事が複数あります。・全体叫び・Gチャ・PTリスト・ショートカットにスキル登録（設定しても保存されないだけ）などなど。白チャやただの叫び、PTチャはできました。耳もできますよ。平日には起きな]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
