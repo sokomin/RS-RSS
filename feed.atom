@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-21T14:19:37.489Z</updated>
+    <updated>2022-08-21T14:34:02.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1251,15 +1251,6 @@ Discordにてミッションを達成した人に抽選！
         <summary type="html"><![CDATA[なんだこれはぁ？！…はい、RSにはログインできるけども、コミュニティサーバへは接続できないという状態です。本鯖は問題なく接続できました。おそらく金鯖の接続が多いことに起因するのでしょう。たぶん。この状態になると、できない事が複数あります。・全体叫び・Gチャ・PTリスト・ショートカットにスキル登録（設定しても保存されないだけ）などなど。白チャやただの叫び、PTチャはできました。耳もできますよ。平日には起きな]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！改変後悪魔育成！【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=38EZIAvgbg8</id>
-        <link href="https://www.youtube.com/watch?v=38EZIAvgbg8"/>
-        <updated>2022-07-23T02:19:42.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
