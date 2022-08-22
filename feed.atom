@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-21T23:48:33.346Z</updated>
+    <updated>2022-08-22T02:10:41.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8月20日攻城は？]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1099.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1099.html"/>
+        <updated>2022-08-22T02:09:26.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは～ハニーですよ土曜日は攻城なのですが本サバと金サバの攻城が同じ時間でした一応キャラはどちらも準備していたのですがいつものように開始時間割り込んで寝落ちしてましたｗ５分経過ぐらいであわてて飛び起きて金サバへ（本サバは不戦勝と思った）挨拶もそこそこに門に向かって走りましたが瞬殺されまくりですね～こちらのメンバーは２人？かな？３人かな？健闘むなしく敗退ハニーは１回だけ扉にタッチできましたｗ◆◆◆]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近のシルフラについて]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-761.html</id>
@@ -1242,15 +1252,6 @@ Discordにてミッションを達成した人に抽選！
         <updated>2022-07-24T02:55:35.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【金鯖】捨てられた地下墓地B3　PT狩り【REDSTONE】]]></title>
-        <id>https://www.youtube.com/watch?v=kn0obpOoQFo</id>
-        <link href="https://www.youtube.com/watch?v=kn0obpOoQFo"/>
-        <updated>2022-07-23T13:43:26.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>

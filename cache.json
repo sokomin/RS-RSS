@@ -121,6 +121,16 @@
       "siteUrl": "http://rinsmile.blog70.fc2.com/",
       "articles": [
         {
+          "id": "http://rinsmile.blog70.fc2.com/blog-entry-1099.html",
+          "author": "リン・ドール",
+          "description": "こんばんは～ハニーですよ土曜日は攻城なのですが本サバと金サバの攻城が同じ時間でした一応キャラはどちらも準備していたのですがいつものように開始時間割り込んで寝落ちしてましたｗ５分経過ぐらいであわてて飛び起きて金サバへ（本サバは不戦勝と思った）挨拶もそこそこに門に向かって走りましたが瞬殺されまくりですね～こちらのメンバーは２人？かな？３人かな？健闘むなしく敗退ハニーは１回だけ扉にタッチできましたｗ◆◆◆",
+          "link": "http://rinsmile.blog70.fc2.com/blog-entry-1099.html",
+          "publishedOn": "2022-08-22T02:09:26.000Z",
+          "wordCount": 805,
+          "title": "8月20日攻城は？",
+          "imageUrl": null
+        },
+        {
           "id": "http://rinsmile.blog70.fc2.com/blog-entry-1098.html",
           "author": "リン・ドール",
           "description": "夏は金サバ！今年も、全姫G合同で金サバに出店しております今回の姫Gは『プリトル学園お姫様部』でございます、おほほほほハニーも行ってるけど、（そこそこ）頑張ったのは・・・最初の3日間ぐらいかなｗあとは、ゆるゆる放置気味です＾＾；★★★　★★★　★★★メンテ明けのたびに　『F12』　を押してSSを撮る確認をするのですが、今回も強制終了ですねこれつらいですね、公式を見ると強制終了しない場合もあるようなのですがその条件が",
@@ -217,16 +227,6 @@
           "publishedOn": "2022-07-24T11:49:36.000Z",
           "wordCount": null,
           "title": "【REDSTONE】10分で出来るチュートリアル100Lv 【古都入場回避版】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kn0obpOoQFo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kn0obpOoQFo",
-          "publishedOn": "2022-07-23T13:43:26.000Z",
-          "wordCount": null,
-          "title": "【金鯖】捨てられた地下墓地B3　PT狩り【REDSTONE】",
           "imageUrl": null
         }
       ]
