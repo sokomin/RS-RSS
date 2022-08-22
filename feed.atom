@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-22T14:48:32.747Z</updated>
+    <updated>2022-08-22T15:26:16.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1345,15 +1345,6 @@ Discordにてミッションを達成した人に抽選！
 それではまた会いましょう(*‘∀‘)ﾉｼ]]></summary>
         <author>
             <name>とりくんのREDSTONEＶ鯖ブログ！</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！WIZ育成！ぱーと１【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=qqUxL307qLk</id>
-        <link href="https://www.youtube.com/watch?v=qqUxL307qLk"/>
-        <updated>2022-07-24T02:55:35.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
