@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-22T11:33:57.737Z</updated>
+    <updated>2022-08-22T11:48:24.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[残ったお金の使い道]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-881.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-881.html"/>
+        <updated>2022-08-22T11:38:33.000Z</updated>
+        <summary type="html"><![CDATA[TRSDXタート用にと残していたお金は、謎の40％2連続成功により不要となってしまった。改良点ももうまともに残ってないため、使い道のないまま終わる…はずだった…。混ぜるんだよぉ！！というのも、本鯖で予知に全吸収を1個だけつけたのがほしかった。そして露店で素材と予知が売られていたならば…答えは一つ！何気に今まで2OPと混ぜることは多かったけど、3OPと混ぜるのは久しぶりだなぁ…。まぁいいや、1OPだけでも残ってしまえば、]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[できる限り☆ミ]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12760169007.html</id>
