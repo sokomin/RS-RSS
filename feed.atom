@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-23T15:52:04.095Z</updated>
+    <updated>2022-08-23T16:31:27.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1145,34 +1145,6 @@ WIZくんが700を超えてきました。
         <updated>2022-07-25T09:54:47.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第１４回 怪談大会のお知らせ]]></title>
-        <id>gregorio29.blog.shinobi.jp://entry/319</id>
-        <link href="http://gregorio29.blog.shinobi.jp/%E6%AD%BB%E3%81%97%E3%81%A6%E5%B1%8D%E3%80%81%E6%94%BE%E7%BD%AE%E3%83%97%E3%83%AC%E3%82%A4/20220725"/>
-        <updated>2022-07-25T04:20:08.000Z</updated>
-        <summary type="html"><![CDATA[第１４回　怪談大会
-HESTIA'ｓWonderland
-
-日時：8月1日（月）　20:00
- 
-
-
-えー、怪談大会おそらく初の8月開催です
-「守護霊」]]></summary>
-        <author>
-            <name>グレゴリオ麺道　〜Red Stoneと麺類〜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】金鯖漫遊記]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-911.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-911.html"/>
-        <updated>2022-07-25T03:56:52.000Z</updated>
-        <summary type="html"><![CDATA[キャプテンが気になって、金鯖始めちゃった。キャプテンって、覚醒前は物理寄りらしいけど、覚醒で本格知識スキルが実装されるらしいから、DTや氷雨装備使い回して遊べそうだな〜と興味が出たのがきっかけ。キャラだけは金鯖開始時に3キャラ作っておいたので、キャプテンで序盤のお決まり事を進めていく。今回、冒険団コイン100枚も貰えるから、教会レンタル品借り放題で超楽。しかも、知らないうちに教会レンタル品がパワーアップ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>

@@ -550,16 +550,6 @@
           "wordCount": 535,
           "title": "【REDSTONE】集金捗る金鯖",
           "imageUrl": null
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-911.html",
-          "author": "JEFRY",
-          "description": "キャプテンが気になって、金鯖始めちゃった。キャプテンって、覚醒前は物理寄りらしいけど、覚醒で本格知識スキルが実装されるらしいから、DTや氷雨装備使い回して遊べそうだな〜と興味が出たのがきっかけ。キャラだけは金鯖開始時に3キャラ作っておいたので、キャプテンで序盤のお決まり事を進めていく。今回、冒険団コイン100枚も貰えるから、教会レンタル品借り放題で超楽。しかも、知らないうちに教会レンタル品がパワーアップ",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-911.html",
-          "publishedOn": "2022-07-25T03:56:52.000Z",
-          "wordCount": 536,
-          "title": "【REDSTONE】金鯖漫遊記",
-          "imageUrl": null
         }
       ]
     },
@@ -1057,18 +1047,7 @@
       "title": "グレゴリオ麺道　〜Red Stoneと麺類〜",
       "feedUrl": "http://gregorio29.blog.shinobi.jp/RSS/",
       "siteUrl": "http://gregorio29.blog.shinobi.jp/",
-      "articles": [
-        {
-          "id": "gregorio29.blog.shinobi.jp://entry/319",
-          "author": null,
-          "description": "第１４回　怪談大会\nHESTIA'ｓWonderland\n\n日時：8月1日（月）　20:00\n \n\n\nえー、怪談大会おそらく初の8月開催です\n「守護霊」",
-          "link": "http://gregorio29.blog.shinobi.jp/%E6%AD%BB%E3%81%97%E3%81%A6%E5%B1%8D%E3%80%81%E6%94%BE%E7%BD%AE%E3%83%97%E3%83%AC%E3%82%A4/20220725",
-          "publishedOn": "2022-07-25T04:20:08.000Z",
-          "wordCount": 311,
-          "title": "第１４回 怪談大会のお知らせ",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
