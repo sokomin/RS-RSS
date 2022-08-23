@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-23T23:23:02.105Z</updated>
+    <updated>2022-08-23T23:49:50.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[これもう要らない？？]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-327.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-327.html"/>
+        <updated>2022-08-23T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[休止している間に色々変わったようなのですが金鯖でとてもびっくりしたのが治療費がとても安い事です！それで金鯖限定なのかと周りの人にたずねてみたところ今変わって本鯖でも同じだというので試しにオオカミ少年で治療費の確認をしてみました＾＾前に治療費のＳＳとか撮った事がなかったと思うのでうろ覚えですが1億超えていたのは確かだったのですけど今回試してみると昔の1/10くらいのお値段に値下げされていました＾＾このく]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[残ったお金の使い道]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-881.html</id>
