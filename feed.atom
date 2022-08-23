@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-23T02:22:35.336Z</updated>
+    <updated>2022-08-23T03:08:16.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1173,16 +1173,6 @@ HESTIA'ｓWonderland
         <summary type="html"><![CDATA[キャプテンが気になって、金鯖始めちゃった。キャプテンって、覚醒前は物理寄りらしいけど、覚醒で本格知識スキルが実装されるらしいから、DTや氷雨装備使い回して遊べそうだな〜と興味が出たのがきっかけ。キャラだけは金鯖開始時に3キャラ作っておいたので、キャプテンで序盤のお決まり事を進めていく。今回、冒険団コイン100枚も貰えるから、教会レンタル品借り放題で超楽。しかも、知らないうちに教会レンタル品がパワーアップ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖をプレイする]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-757.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-757.html"/>
-        <updated>2022-07-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[息子はいつも塾の帰りに連絡をしてきますその日は「今から帰りマッスル・リベンジャー」と打ってきたのでマリポーサですか？フェニックスですか？と返信したら「マリポーサだよ」と返信が来ました偽物じゃないか！普段お風呂で私がこれを歌ってるせいか漫画の影響が出てしまったのでしょう親の影響って大きいんですねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
