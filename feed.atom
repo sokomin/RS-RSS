@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-24T13:39:36.763Z</updated>
+    <updated>2022-08-24T13:59:11.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MTGアリーナのお話]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1101.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1101.html"/>
+        <updated>2022-08-24T13:56:43.000Z</updated>
+        <summary type="html"><![CDATA[イベント中のRSPASSミッションログイン時間！日中の放置が増えているハニーです。こんばんはこの系統のイベントがあるときってなんとなく放置してしまうことが多いですよね？え？いつも放置・・・？・・・今週実は仕事がお休み、そんな中久々にインしてましたその後、少しマニアックなカード談議ｗMTGというのはマジックザギャザリングというトレーディングカードゲームの略で世界中で最も遊ばれている？とも言われているカードデ]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ウマ娘】新シナリオ初見配信！]]></title>
         <id>https://www.youtube.com/watch?v=HVHFt_UQ82E</id>
