@@ -4,18 +4,7 @@
       "title": "GMの抵抗ワショーイ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
-      "articles": [
-        {
-          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202207250000/",
-          "author": "そこらの民衆",
-          "description": "2022年金鯖がオープンして1週間が経ちました。多くの人はそろそろ1キャラ目が育成終了の目途が経ってきたのではないでしょうか。今回はレベルランキングを集計してどの職がどれぐらい人気なのか、その要因は何な...",
-          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202207250000/",
-          "publishedOn": "2022-07-25T22:09:40.000Z",
-          "wordCount": 1152,
-          "title": "【REDSTONE】2022金鯖版 職別考察",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/ff4d9bfa322744ed5ca666586da908004fd1a3e1.10.9.9.3.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "KHBの部屋",
