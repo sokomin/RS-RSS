@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-24T09:22:16.814Z</updated>
+    <updated>2022-08-24T09:49:44.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[これが2022年金鯖最後のロトか？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-882.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-882.html"/>
+        <updated>2022-08-24T09:48:37.000Z</updated>
+        <summary type="html"><![CDATA[去年と同じなら最後だろうけども…【配布品とか】・金鯖チャレンジャー公式のあれ【ゴールデンサンシャインロト】9/7(水)メンテまで。ようするに金鯖期間の終了まで。1個1000円のあれ。ラストスパートというけど…いつも通りの高額セット…と思ったら異物がある。レア3幸運 鏡、レア2特改賢者赤異界完全開放さんはいずこ…。真の高額セットに付随するもののせいで、レア3の内容が弱いです。華麗勇猛×2と華麗純粋×2が露骨。レア2はOP選]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[これもう要らない？？]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-327.html</id>
