@@ -180,6 +180,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hlO9NpBmFjE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hlO9NpBmFjE",
+          "publishedOn": "2022-08-27T07:02:06.000Z",
+          "wordCount": null,
+          "title": "【 金鯖 】今年初の攻め！攻城戦【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HVHFt_UQ82E",
           "author": null,
           "description": "",
