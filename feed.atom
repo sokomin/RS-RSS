@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-27T14:34:54.839Z</updated>
+    <updated>2022-08-27T14:48:09.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[討伐バッジおめ！]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1107.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1107.html"/>
+        <updated>2022-08-27T14:37:19.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは、ハニーです！ついに、討伐３体ｘ４０回を終え、3つのバッジを手に入れましたファルコンシュラグゲリオうん、いいですね＾＾見てるだけで、よだれが出そうｗ■■■　■■■　■■■8月27日攻城戦、プリメは不戦勝攻城戦なく、GH２をキープ！さくら組はGH3への攻めでしたお互いに人数少なく（当方3人、先方2人）相手のスキを見て扉に向かって走ります。数回扉に張り付いて扉をノックしましたがこじ開けることはできませんでした時]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 金鯖 】今年初の攻め！攻城戦【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=hlO9NpBmFjE</id>
@@ -1108,6 +1118,15 @@ WIZくんが700を超えてきました。
         <summary type="html"><![CDATA[こんにちは。過ごしづらい暑さになってきたので、夏の終了を待ち望む第三の猫です。はい。夏はまだ続きそうですが、長かったチュートリアルはついに終了しました。ダリンありがとう。クエスト一覧もすっきりしました。・・・メインクエストのシーズン２が丸ごと残っているのですが、開始時期のスケジュールは自己判断でしょうか。とりあえず、5次転生したので、5次転生称号をもらいに行きます。好きな能力強化称号をもらえるみたい]]></summary>
         <author>
             <name>第三の猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！悪魔育成パート４！【GoldEx World】]]></title>
+        <id>https://www.youtube.com/watch?v=_x4bB4Birnc</id>
+        <link href="https://www.youtube.com/watch?v=_x4bB4Birnc"/>
+        <updated>2022-07-29T14:19:44.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
