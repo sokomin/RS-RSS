@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-27T14:48:09.729Z</updated>
+    <updated>2022-08-27T15:23:08.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Slv490到達のためだけに…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-883.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-883.html"/>
+        <updated>2022-08-27T14:57:47.000Z</updated>
+        <summary type="html"><![CDATA[現在のSLvは487500は（かなり無茶をすればできなくもないが）無理だとしても、あと3をどうにか稼ぎたい。今思えば無理やりでもTRSDXレドネにしておくべきだったんだろうなとは思ってます。でもやらないそんな中であと3を稼ぐには…どうすれば…あ…※色々漁ってたら出てきた完璧選択のSP図案書が2つ、来るぞ！これでできた。…はい、SP図案書5段階2か所によるスキル+3を持ってきました。実際のところ、既に勇猛で同じことはしてました。]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[討伐バッジおめ！]]></title>
         <id>http://rinsmile.blog70.fc2.com/blog-entry-1107.html</id>
