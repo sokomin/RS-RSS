@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-27T14:19:51.768Z</updated>
+    <updated>2022-08-27T14:34:54.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1126,25 +1126,6 @@ WIZくんが700を超えてきました。
         <updated>2022-07-29T09:30:00.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！悪魔育成パート４！【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=_x4bB4Birnc</id>
-        <link href="https://www.youtube.com/watch?v=_x4bB4Birnc"/>
-        <updated>2022-07-29T02:31:23.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早く検証したいところですが]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207290000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207290000/"/>
-        <updated>2022-07-29T02:19:59.000Z</updated>
-        <summary type="html"><![CDATA[みなさんが金鯖に夢中なので、金鯖が落ち着くまで待つことにします。今回の検証は、知識職の方たちにメリットがないところをお願いするので仕方がありませんよね。あと私自身も１年の中で仕事が最も忙しい時期で...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
