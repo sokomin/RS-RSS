@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-28T14:48:22.638Z</updated>
+    <updated>2022-08-28T15:23:15.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[混沌にチャレンジ]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-762.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-762.html"/>
+        <updated>2022-08-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日仕事帰りに駅の階段を降りている時前の人がとても背が高くてお尻がプリッとしている男性が居ましたなんてプリケツなんだろうと思いつつこれを思い出しましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フロントラインが買えないので]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202208280000/</id>
@@ -1155,16 +1165,6 @@ WIZくんが700を超えてきました。
         <updated>2022-07-30T03:40:10.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[転生後あれこれ]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-174.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-174.html"/>
-        <updated>2022-07-30T02:53:56.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。過ごしづらい暑さになってきたので、夏の終了を待ち望む第三の猫です。はい。夏はまだ続きそうですが、長かったチュートリアルはついに終了しました。ダリンありがとう。クエスト一覧もすっきりしました。・・・メインクエストのシーズン２が丸ごと残っているのですが、開始時期のスケジュールは自己判断でしょうか。とりあえず、5次転生したので、5次転生称号をもらいに行きます。好きな能力強化称号をもらえるみたい]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
