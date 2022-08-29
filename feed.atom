@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-29T02:30:08.737Z</updated>
+    <updated>2022-08-29T04:26:31.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム全般】夏も終わり]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-913.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-913.html"/>
+        <updated>2022-08-29T04:16:53.000Z</updated>
+        <summary type="html"><![CDATA[すっかり涼しくなって過ごしやすい！ゲームも捗るぜwREDSTONEキャプテン育てる宣言した金鯖も、結局レベリングだるくて放置し始めて早1週間。もう頑張ることは無いと思うので、早めに帰り支度をしようかな。今回は金鯖S鯖どちらの相場も分からない状態なので、インゴそのまま持ち帰ろうとおもう。結局、教会装備以外は売り払って400本くらいにはなったし、無課金かつ狩りあまりしない割には稼ぎが良かったのかもしれない。ゲリオ討]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[混沌にチャレンジ]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-762.html</id>
@@ -1107,6 +1117,15 @@ WIZくんが700を超えてきました。
         <summary type="html"><![CDATA[先日出かけた際にふと横を見ると一軒家で飼われている犬が居たのですがホースの水をがぶ飲みしていましたこんな感じでした2年前に亡くなってしましましたがうちが飼っていた犬もホースの水が大好きで親の仇のようにガブガブ飲んでいたのを思い出しましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！RHYNⅡ初城攻め！【GoldEx World】]]></title>
+        <id>https://www.youtube.com/watch?v=GaIYdIy8bzA</id>
+        <link href="https://www.youtube.com/watch?v=GaIYdIy8bzA"/>
+        <updated>2022-07-31T12:48:34.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>

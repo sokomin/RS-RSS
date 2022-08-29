@@ -416,6 +416,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=GaIYdIy8bzA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GaIYdIy8bzA",
+          "publishedOn": "2022-07-31T12:48:34.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】２０２２年金鯖開始！RHYNⅡ初城攻め！【GoldEx World】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ga8hooh8gKY",
           "author": null,
           "description": "",
@@ -540,6 +550,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-913.html",
+          "author": "JEFRY",
+          "description": "すっかり涼しくなって過ごしやすい！ゲームも捗るぜwREDSTONEキャプテン育てる宣言した金鯖も、結局レベリングだるくて放置し始めて早1週間。もう頑張ることは無いと思うので、早めに帰り支度をしようかな。今回は金鯖S鯖どちらの相場も分からない状態なので、インゴそのまま持ち帰ろうとおもう。結局、教会装備以外は売り払って400本くらいにはなったし、無課金かつ狩りあまりしない割には稼ぎが良かったのかもしれない。ゲリオ討",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-913.html",
+          "publishedOn": "2022-08-29T04:16:53.000Z",
+          "wordCount": 536,
+          "title": "【ゲーム全般】夏も終わり",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-912.html",
           "author": "JEFRY",
