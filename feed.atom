@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-28T23:50:21.229Z</updated>
+    <updated>2022-08-29T02:30:08.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1127,35 +1127,6 @@ WIZくんが700を超えてきました。
 7月だ！夏だ！夏休みだ！ということは毎年お馴染み、**ゴールドエクスペリエンスサーバー（金鯖）**開放の季節です。 実は2012年から続いて1…]]></summary>
         <author>
             <name>The Adventure Of The Jacks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022金鯖での支援Slv現況]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-872.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-872.html"/>
-        <updated>2022-07-30T14:28:29.000Z</updated>
-        <summary type="html"><![CDATA[50％裏切り、絶賛続行中。絶賛…？進む気がしないスキル装備改良。50％も40％もだめ。でもどうでもいいお守りは成功する部位ごとの完成度でいうなら…武器…WIZはおｋ、BISはスキルつけたい補助武器…WIZはおｋ、BISはスキルｒｙ腰…TRS完成首…TRS完成手…TRS完成頭…TRS権勢どこー？鎧…WRSで1つOP足りない背…TRS完成足…WRSで1つOP足りないし、呪われている指…TRSで妥協したいけど足がさぁ…。WRSやや多めBFOPはスキル+5を2つつけたし、完]]></summary>
-        <author>
-            <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[良い質問を受けたので更新]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202207300000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202207300000/"/>
-        <updated>2022-07-30T12:37:11.000Z</updated>
-        <summary type="html"><![CDATA[この会話はやらせではありません。刻印代行のバイトが終わった後に、思いがけず熱い気持ちが甦ったので記事を書きたくなりました。自分のためだったら、検証やら何やらこんな面倒くさいことやりませんからね。]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！RHYNⅡ初城攻め！【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=GaIYdIy8bzA</id>
-        <link href="https://www.youtube.com/watch?v=GaIYdIy8bzA"/>
-        <updated>2022-07-30T12:16:19.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
