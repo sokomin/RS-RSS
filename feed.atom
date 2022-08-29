@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-29T13:44:11.016Z</updated>
+    <updated>2022-08-29T14:22:07.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1133,15 +1133,6 @@ WIZくんが700を超えてきました。
         <id>https://www.youtube.com/watch?v=GaIYdIy8bzA</id>
         <link href="https://www.youtube.com/watch?v=GaIYdIy8bzA"/>
         <updated>2022-07-31T12:48:34.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！物理武道（シーフ）育成！【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=ga8hooh8gKY</id>
-        <link href="https://www.youtube.com/watch?v=ga8hooh8gKY"/>
-        <updated>2022-07-31T01:49:55.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>
