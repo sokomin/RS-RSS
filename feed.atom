@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-30T11:48:25.159Z</updated>
+    <updated>2022-08-30T12:50:13.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[検証の準備を進めていきますか]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202208300000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202208300000/"/>
+        <updated>2022-08-30T12:44:37.000Z</updated>
+        <summary type="html"><![CDATA[7000本でNを売ってもらって完成させました。完成したところで、当面は検証でしか使わないんですけどね。表記制限されていなければこんなOP構成にしないのですが、表記制限下ではこれが最適解ですね。物理痛くない...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖！悪魔育成パート９！【GoldEx World】]]></title>
         <id>https://www.youtube.com/watch?v=_KkgBQPXQ2c</id>
