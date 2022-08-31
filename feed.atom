@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-31T04:48:20.775Z</updated>
+    <updated>2022-08-31T06:26:48.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[んにゃ～・・・]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1238.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1238.html"/>
+        <updated>2022-08-31T05:59:45.000Z</updated>
+        <summary type="html"><![CDATA[金鯖期間中、丸々がっつり更新サボりましたね(；´ω｀)まぁ、実際これといったイベントはなかったのと新規開催が課金のキャンペーンくらいしかありませんでしたしね。金鯖終了まで残り1週間、既に育成完了してる人が殆どかと思いますが終了まで楽しんでほしいところですねぇ。因みに僕は最初2，3日で370辺りまで上げて以降はログインボーナスもらいにインするくらいのような状態です...(　= =)いやー・・・arkが止められない。なん]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年7～8月総括【RED STONE】]]></title>
         <id>https://chorrealism.com/?p=3392</id>
@@ -988,49 +998,6 @@ TRSDXSG１
         <summary type="html"><![CDATA[Lv902になった。記事にする予定だったキャプテン育成も、いろんなブログで紹介済なので止めるわ！まあ、Lv900止めするにしてもマゾ過ぎるので、金鯖だけ楽しむ人には絶対にお勧めしないw変わらず無課金継続中で、動かしているキャラもキャプテンのみだけど、討伐連れてってくれるギルメンと、１日1時間程度のソロ(討伐書収集)だけでもインゴ130本くらいの資産は出来た。物が売れるって楽しいわ。今後も教会装備中心の装備構成を更]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.7月のドロップ~♪]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/f819b3d8fff8ad6e071b126eca92fbfc</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/f819b3d8fff8ad6e071b126eca92fbfc?fm=rss"/>
-        <updated>2022-08-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[8月になりました。
-
-
-
-
-
-いつもどおりしょぼいですね(´・ω・`)
-もっとも記事が書けるだけありがたいと思わないといけないのかもしれません。
-私はともかく緋sはコンスタントにU品を集めてくれるのでギルドクエノU品分解には事欠きません。
-ちょっとでもでてくれるので良しとしましょう。
-
-
-WIZくんが700を超えてきました。
-そろそろ装備をちゃんとしてあげようかな・・・と考え始めています。
-何がいいんだろうね(´・ω・`)
-今一番の悩みは首かなぁ。
-ギルド倉庫に辛苦がしまってあったので、とりあえずそれにしようか考え中。
-知識職はいまいち装備が難しいですね。
-鎧はシックスがいいのかな？
-色褪せはあるんだけどなぁ(￣ω￣;)
-まぁまだ775まで到達していないし、少し考えながら育成しましょう。
-
-今月中にはメイドと剣士が転生できそうだし、そっちも装備を考えていきましょう。
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
