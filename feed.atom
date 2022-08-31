@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-31T09:24:58.208Z</updated>
+    <updated>2022-08-31T09:51:42.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8月の終わりと金鯖最終週]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-884.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-884.html"/>
+        <updated>2022-08-31T09:40:39.000Z</updated>
+        <summary type="html"><![CDATA[8月…宿題…うっ頭がそして金鯖は最終週へ…。【配布物】・ナンバーズそれだけの公式【今週のイベキャンペ】イベキャンペは置いてきた。来週が地獄。まぁあえて言うならラストスパートセールが始まったくらい？ラストスパートの割には盛り上がりに欠けるが…まぁ、去年もそうだったかおそらく、金鯖後に色々来ると思う。そしてその次は…うん。隣の国情報見たら分かるけど…荒れそうおわり]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[んにゃ～・・・]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1238.html</id>
