@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-31T14:49:07.911Z</updated>
+    <updated>2022-08-31T15:24:10.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1073,16 +1073,6 @@ TRSDXSG１
         <summary type="html"><![CDATA[去る8月1日夜8時、グレゴリオ29さん(スティ・カフィ先生)主催の怪談大会に参加させていただけました。ご来場の方はわたしを含めて5名様、今年もこぢんまりと。園長先生、わたしと同ギルドのディガさん、同鯖のスターリングさん(光/獣人のグレイ君)、そして常連のKさん。ところで管理人は雑事に取り紛れ、ここひと月ほどRSをプレイしておりません。ギルド維持のために少し狩ったくらいで。したがって公式ページもあまりチェックして]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】集金捗る金鯖]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-912.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-912.html"/>
-        <updated>2022-08-02T03:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Lv902になった。記事にする予定だったキャプテン育成も、いろんなブログで紹介済なので止めるわ！まあ、Lv900止めするにしてもマゾ過ぎるので、金鯖だけ楽しむ人には絶対にお勧めしないw変わらず無課金継続中で、動かしているキャラもキャプテンのみだけど、討伐連れてってくれるギルメンと、１日1時間程度のソロ(討伐書収集)だけでもインゴ130本くらいの資産は出来た。物が売れるって楽しいわ。今後も教会装備中心の装備構成を更]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
