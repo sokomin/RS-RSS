@@ -296,6 +296,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rK4-6ndpWz4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rK4-6ndpWz4",
+          "publishedOn": "2022-09-01T11:25:05.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】２０２２年金鯖！悪魔育成パート１０！【GoldEx World】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_KkgBQPXQ2c",
           "author": null,
           "description": "",
@@ -968,6 +978,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/a74576adcad1b14bd2c37aa10732f548",
+          "author": null,
+          "description": "9月です。\n\n\n知識ID\n\n\n霊珠がでません(´・ω・`)\n\n記事でも書きましたがルナティックサーハントに覚醒タイプを変更。\n通常の狩りに支障はないです。範囲は狭くて若干使いにくいですが・・・\nただ敏捷が低いのか運が低いのか450の王宮指名手配犯にはなかなか当たらず苦戦。\nへっぽこ装備の場合アージェントサーハントの方がよいかも・・・と実感しました。\n2次転生したら元に戻そうかな(´・ω・`)\nその辺りは装備と相談ですね。\n\n\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/a74576adcad1b14bd2c37aa10732f548?fm=rss",
+          "publishedOn": "2022-09-01T10:30:00.000Z",
+          "wordCount": 1345,
+          "title": "2022.8月のドロップ~♪",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/44/ee/200d7011c49455fb6ab9b9949c9a359b.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/72d617cba5a12235c54b13e28c5f852b",
           "author": null,
