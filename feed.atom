@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-03T21:36:15.121Z</updated>
+    <updated>2022-09-03T21:48:31.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1093,16 +1093,6 @@ TRSDXSG１
         <updated>2022-08-05T10:35:41.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かつての存在]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-874.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-874.html"/>
-        <updated>2022-08-05T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[討伐用のキャラがいなかったので、急遽作成することになったとなると作りなれてるFIになるよねってことで装備を調達してさくっと5転900に。狩場があいてりゃ1日で行けるということで完成したのがこちらです。名前は鯖大規模合併前に使ってたメインの。名前使えないようにした案山子がいたんだよ…確保しなかった自分が悪いけどもちなみに地下墓地B1なら超越油キメて一撃です。1000レべまでいけるけどやらないファルコンなら4発くら]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
