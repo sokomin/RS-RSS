@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-04T13:34:28.359Z</updated>
+    <updated>2022-09-04T13:52:05.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年最後の金鯖攻城（と本鯖も）]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-885.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-885.html"/>
+        <updated>2022-09-04T13:38:46.000Z</updated>
+        <summary type="html"><![CDATA[あれ、もう金鯖終わるんだ…時の流れが加速してる気がするけどまぁいいや、サァ行くか。金鯖最後の攻城も、ほかのギルドに出張という形に。それまでも何度か出向いて、意味不明なブレエビをばらまいてました。本鯖基準でも盛り盛りなのにそれを金鯖でやるんだから…最終的なSlvは492でした。まぁ満足。それを所属しているとこにほとんど使えなかったのは残念で、最後の攻城支援はというと…復活多めの30分ぶん回しの刑…矢継ぎ早にやっ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】金鯖！なんか育成&紅白戦Gv！【GoldEx World】]]></title>
         <id>https://www.youtube.com/watch?v=0AxSGPlX37Y</id>
