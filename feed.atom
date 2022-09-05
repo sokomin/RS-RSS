@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-05T04:30:48.345Z</updated>
+    <updated>2022-09-05T05:54:03.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ギターコンクール終了・プレリュード第３番【ギター】]]></title>
+        <id>https://chorrealism.com/?p=3364</id>
+        <link href="https://chorrealism.com/guitar-music/prelude-no3/"/>
+        <updated>2022-09-05T05:40:10.000Z</updated>
+        <summary type="html"><![CDATA[毎年７月末～お盆に資格試験＋アマ向けギターコンクールがあるのだけど、今年はタイミングが８月の頭にほぼ被っていて一週のうちにすべてが終わるような怒涛の週が出てしまった。 コンクールのことを書くのを契機として、今年こそこのブ […]
+The post ギターコンクール終了・プレリュード第３番【ギター】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[取得経験値]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-763.html</id>
@@ -1103,16 +1114,6 @@ TRSDXSG１
         <updated>2022-08-07T00:14:57.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スキル盛り盛り金鯖]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-875.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-875.html"/>
-        <updated>2022-08-06T17:41:37.000Z</updated>
-        <summary type="html"><![CDATA[金鯖なのにSlv401とかいうわけの分かんない数値をたたき出してますが、実際にどうなるかというとこうなります。HP+619％、防御+1228％Slvさらに増えてるって？知らんな。実際のところは+10バッジが入ってもうちょっと増えます。あと改良点も残ってます。どんだけねじこんだんだって？もし火力装備だったら去年ほどではないけど…並み程度なら壊滅できるほどでも今年は支援だからね！安心だよ！ちなみにWIZだと支援にほぼ上限祭りの]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>

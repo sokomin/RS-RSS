@@ -469,6 +469,16 @@
       "siteUrl": "https://chorrealism.com",
       "articles": [
         {
+          "id": "https://chorrealism.com/?p=3364",
+          "author": "cho",
+          "description": "毎年７月末～お盆に資格試験＋アマ向けギターコンクールがあるのだけど、今年はタイミングが８月の頭にほぼ被っていて一週のうちにすべてが終わるような怒涛の週が出てしまった。 コンクールのことを書くのを契機として、今年こそこのブ […]\nThe post ギターコンクール終了・プレリュード第３番【ギター】 first appeared on 無職と美学とシュルレアリスム.",
+          "link": "https://chorrealism.com/guitar-music/prelude-no3/",
+          "publishedOn": "2022-09-05T05:40:10.000Z",
+          "wordCount": 4304,
+          "title": "ギターコンクール終了・プレリュード第３番【ギター】",
+          "imageUrl": "https://chorrealism.com/wpcho/wp-content/uploads/2022/08/maxresdefault-2.jpg"
+        },
+        {
           "id": "https://chorrealism.com/?p=3392",
           "author": "cho",
           "description": "6月の前半からINがまばらになりクリーチャー冒険だけする日々。キャプテン実装前後で若干余裕ができ、キャプテンをスクロール＋レポで育成。その後、地下墓地B1でワンパンできる気がしなかったので、Lv920弱までディメンション […]\nThe post 2022年7～8月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.",
@@ -746,16 +756,6 @@
           "publishedOn": "2022-08-07T10:33:39.000Z",
           "wordCount": 114,
           "title": "今更でもなさそうな壺PTで準備したいもの",
-          "imageUrl": null
-        },
-        {
-          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-875.html",
-          "author": "Trailblazer",
-          "description": "金鯖なのにSlv401とかいうわけの分かんない数値をたたき出してますが、実際にどうなるかというとこうなります。HP+619％、防御+1228％Slvさらに増えてるって？知らんな。実際のところは+10バッジが入ってもうちょっと増えます。あと改良点も残ってます。どんだけねじこんだんだって？もし火力装備だったら去年ほどではないけど…並み程度なら壊滅できるほどでも今年は支援だからね！安心だよ！ちなみにWIZだと支援にほぼ上限祭りの",
-          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-875.html",
-          "publishedOn": "2022-08-06T17:41:37.000Z",
-          "wordCount": null,
-          "title": "スキル盛り盛り金鯖",
           "imageUrl": null
         }
       ]
