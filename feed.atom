@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-05T21:49:48.805Z</updated>
+    <updated>2022-09-05T22:23:46.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1106,15 +1106,6 @@ TRSDXSG１
         <summary type="html"><![CDATA[なんか抜けだらけな気がするので、追加あればコメントでお願いします。今更かどうなのかは知らない。【壺PTで用意するもの】火力は足りると思いますので、経験値系統のものを山盛りにする必要があります。用意しておきたいものは以下の通り・スフィアとパワキとバッジ・ギルドの旗バフ・実2種（パインベリーとその他です）・ｴｸﾍﾟﾘ指（できればLv30を2つ、金鯖なら1つ）・知恵比率指（ｴｸﾍﾟﾘについてると無駄がない）・火力に支障が]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖！知識天使（BIS）育成！パート２！【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=QU-PePHAahw</id>
-        <link href="https://www.youtube.com/watch?v=QU-PePHAahw"/>
-        <updated>2022-08-07T09:55:41.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
