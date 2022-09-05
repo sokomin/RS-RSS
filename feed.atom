@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-05T23:25:11.401Z</updated>
+    <updated>2022-09-05T23:54:07.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖８９２+α]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-329.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-329.html"/>
+        <updated>2022-09-05T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[今年の金鯖も終わりとなりました＾＾わたし的には途中参加で時間もあまりなかった割にはキャプテンのレベル８９２まで行けたのでよかったかなと思います＾＾月曜朝の時点のレベルです！出来れば９００行きたかったと思いますが水曜日の朝のレイドに参加出来たらギリギリ行けるのかな？という感じでそれ以外だと狩りでもう少し上がるかもしれないかな？という状態です＾＾これ書いてるのが月曜なので火曜の朝＆夜と水曜の朝次第なの]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[偶然見つけたんだけど…]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-886.html</id>
