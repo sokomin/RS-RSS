@@ -275,7 +275,18 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://intothe.info/?p=1686",
+          "author": "marsborn",
+          "description": "この1年近く精鋭討伐くらいしかやってなかったので迷ったけれども参加な...",
+          "link": "https://intothe.info/red-stone/goldex2022/",
+          "publishedOn": "2022-09-06T15:27:54.000Z",
+          "wordCount": 872,
+          "title": "金鯖2022後記",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "魔法の壁のリアルライふ",

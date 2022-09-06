@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-06T15:24:53.505Z</updated>
+    <updated>2022-09-06T15:53:49.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖2022後記]]></title>
+        <id>https://intothe.info/?p=1686</id>
+        <link href="https://intothe.info/red-stone/goldex2022/"/>
+        <updated>2022-09-06T15:27:54.000Z</updated>
+        <summary type="html"><![CDATA[この1年近く精鋭討伐くらいしかやってなかったので迷ったけれども参加な...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖2022 最終日オークション＆古都　定点観測 【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=xo5UFZi7XIw</id>
