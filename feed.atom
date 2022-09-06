@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-06T15:53:49.216Z</updated>
+    <updated>2022-09-06T16:33:45.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[きんさばを満喫しましたか？]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202209070000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202209070000/"/>
+        <updated>2022-09-06T16:27:51.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！みなさんはきんさば満喫しましたか？私は1000ＢＩＳと892キャプテン300制限用のキャラを4体（299で止め）作成しました('Д')お土産は、ロシペル×２と細々した消耗品を補充しました。ちょっと暑くてあ...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖2022後記]]></title>
         <id>https://intothe.info/?p=1686</id>
