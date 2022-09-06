@@ -10,18 +10,7 @@
       "title": "KHBの部屋",
       "feedUrl": "https://khbsroom.com/index.xml",
       "siteUrl": "http://www.zephyr.dti.ne.jp/hiroll/",
-      "articles": [
-        {
-          "id": "https://khbsroom.com/Sub_que_1150_Aru_Ihoujin.html",
-          "author": null,
-          "description": "2022/6/29 アップデートにより実装された、サブクエスト「ある異邦人」の攻略チャートを作成しました。",
-          "link": "https://khbsroom.com/Sub_que_1150_Aru_Ihoujin.html",
-          "publishedOn": "2022-08-08T11:00:00.000Z",
-          "wordCount": 567,
-          "title": "サブクエスト「ある異邦人」（Lv1150～）　攻略チャート作成",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "リヤンのペット図鑑+だらだら戯言日記 in RS",
