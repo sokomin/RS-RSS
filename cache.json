@@ -200,6 +200,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xo5UFZi7XIw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xo5UFZi7XIw",
+          "publishedOn": "2022-09-06T14:35:31.000Z",
+          "wordCount": null,
+          "title": "金鯖2022 最終日オークション＆古都　定点観測 【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zxYmd0IChcs",
           "author": null,
           "description": "",
