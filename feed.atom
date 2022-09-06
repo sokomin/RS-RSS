@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-06T09:26:20.400Z</updated>
+    <updated>2022-09-06T09:51:03.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1087,24 +1087,6 @@ TRSDXSG１
         <summary type="html"><![CDATA[2022/6/29 アップデートにより実装された、サブクエスト「ある異邦人」の攻略チャートを作成しました。]]></summary>
         <author>
             <name>KHBの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖！知識天使（BIS）育成！パート２！【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=QU-PePHAahw</id>
-        <link href="https://www.youtube.com/watch?v=QU-PePHAahw"/>
-        <updated>2022-08-07T21:41:51.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖！知識天使（BIS）育成！パート１！【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=3sgTw0XyvtI</id>
-        <link href="https://www.youtube.com/watch?v=3sgTw0XyvtI"/>
-        <updated>2022-08-07T21:40:18.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
