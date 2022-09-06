@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-06T02:34:39.557Z</updated>
+    <updated>2022-09-06T04:35:33.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1105,16 +1105,6 @@ TRSDXSG１
         <updated>2022-08-07T21:40:18.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖にて　【オーラマスター、キャプテン、ライトニングサンダー検証】]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-759.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-759.html"/>
-        <updated>2022-08-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[絶賛夏休み中の息子は部屋で涼しみながら動画を見て爆笑しています何の動画かなと思ったんですが流行りのインクレディブルミームのやつでしたどこかで聴いたBGMも使われているようですね何をやってもかっこよく決まってしまう坂本君ですねまるで往年の快傑ズバットのようで個人的に好きですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
