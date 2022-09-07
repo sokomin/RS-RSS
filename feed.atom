@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-07T02:32:42.657Z</updated>
+    <updated>2022-09-07T04:45:06.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1096,16 +1096,6 @@ TRSDXSG１
         <updated>2022-08-08T21:39:48.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仕事が全然落ち着かないですね]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202208090000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202208090000/"/>
-        <updated>2022-08-08T15:03:27.000Z</updated>
-        <summary type="html"><![CDATA[バイトの大学生たちが、「家族がコロナに感染したので数日出勤できません」とか「コロナになっちゃったのでお盆明けまで出勤できません」とか電話してくるので、仕事がもう本当に壊滅状態です。ストレスと疲労が...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
