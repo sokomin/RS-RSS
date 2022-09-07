@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-07T16:34:18.161Z</updated>
+    <updated>2022-09-07T17:07:47.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フロントライン配布かいな]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202209080000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202209080000/"/>
+        <updated>2022-09-07T17:03:21.000Z</updated>
+        <summary type="html"><![CDATA[買った直後に無料で配布されるなんて、ブログネタとして最高ですよね。ですが、自力で買うということに拘った結果なので、大損しましたがあまり気にしていません。もう欲しいアイテムもあまりないですしね。イン...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いくらなんでも荒れすぎなアプデ明け]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-887.html</id>
