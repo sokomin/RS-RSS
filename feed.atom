@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-06T23:54:45.748Z</updated>
+    <updated>2022-09-07T02:32:42.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1087,6 +1087,15 @@ TRSDXSG１
         <summary type="html"><![CDATA[お盆も近くなり現在準備を少しずつしている所で忘れ物がないかなと色々考えているところです！金鯖は初日に行ったきりで無課金支部どうしてるかな？と気になってますがみんなしっかりしてるし大丈夫だろうと思ってました＾＾今回は名前のルーツの話でどうしてわたしはジェンドなのか？という話です。ＲＳを始めたのが2008年頃でネトゲ自体が初めてだったのでキャラ名をつけるのに当時知ってたマンガやアニメ・ドラマ・映画の登場人]]></summary>
         <author>
             <name>ジェンド</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖開始！物理武道（シーフ）育成！パート５！【GoldEx World】]]></title>
+        <id>https://www.youtube.com/watch?v=F727HJLlzok</id>
+        <link href="https://www.youtube.com/watch?v=F727HJLlzok"/>
+        <updated>2022-08-08T21:39:48.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
