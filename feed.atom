@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-07T11:37:23.931Z</updated>
+    <updated>2022-09-07T11:49:23.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.9.7 アプデ!!]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/da08a5da15f0297ea90b84986ffa79d7</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/da08a5da15f0297ea90b84986ffa79d7?fm=rss"/>
+        <updated>2022-09-07T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[雨です。
+
+
+「アニバーサリーモード」が始まっています
+「不思議なチケットイベント」
+「BIGログインイベント」
+「栄光の箱ドロップイベント」
+「メインクエスト応援イベント」
+「ありがとう金鯖イベント」
+「チャットバフイベント」
+「経験値＆アイテムドロップ率上昇イベント」
+
+
+
+
+
+
+
+
+
+9月7日メンテ後から10月5日メンテ前まで
+
+
+手抜きしたけど結構大変だったな(´・ω・`)
+とりあえず多くのイベントは10月5日までなので、それまではちまちま更新でしょう。
+やれるイベントは頑張って参加しましょう。
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重要＆新着イベント情報]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1239.html</id>
