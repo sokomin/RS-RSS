@@ -316,6 +316,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=V8gE1dSJxj4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V8gE1dSJxj4",
+          "publishedOn": "2022-09-07T10:32:56.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】2022年9月アップデート情報！キャプテン覚醒！神？！チケイベ！【GoldEx World】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0AxSGPlX37Y",
           "author": null,
           "description": "",
@@ -538,6 +548,16 @@
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
       "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1239.html",
+          "author": "クレリューフ",
+          "description": "･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ SEPTEMBER UPDATE終わった辺りで大量のイベントか、アプデあるかなと思ってましたけどどっちもあったようですね・・・そのせいでメンテ延長なってたのかな。キャプテンの覚醒とか宝地図改変とか色々あるようです。アプデ内容は公式サイトのアプデページでご確認ください。･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ 金鯖お疲れ様的なイベント多数、ですかね？イベント数は課金キャンペ",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1239.html",
+          "publishedOn": "2022-09-07T10:33:36.000Z",
+          "wordCount": 611,
+          "title": "重要＆新着イベント情報",
+          "imageUrl": null
+        },
         {
           "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1238.html",
           "author": "クレリューフ",
