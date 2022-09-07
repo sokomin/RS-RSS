@@ -4,7 +4,18 @@
       "title": "GMの抵抗ワショーイ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202209080000/",
+          "author": "そこらの民衆",
+          "description": "本日8:30より実施しております定期メンテナンスにつきまして、不具合を確認し、調査・修正のため、終了時間を未定とさせて頂きます。ご迷惑をおかけいたしまして誠に申し訳ございませんが、メンテナンス終了まで...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202209080000/",
+          "publishedOn": "2022-09-07T23:46:40.000Z",
+          "wordCount": 1121,
+          "title": "2022/9/7 日本赤石アプデ考察",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/fec2de1342359944b826a8991bee37d320ac7b47.10.9.9.3.png"
+        }
+      ]
     },
     {
       "title": "KHBの部屋",
@@ -793,16 +804,6 @@
           "publishedOn": "2022-08-16T23:30:00.000Z",
           "wordCount": 363,
           "title": "不完全復帰！？",
-          "imageUrl": null
-        },
-        {
-          "id": "http://jendoradoo.blog.fc2.com/blog-entry-325.html",
-          "author": "ジェンド",
-          "description": "お盆も近くなり現在準備を少しずつしている所で忘れ物がないかなと色々考えているところです！金鯖は初日に行ったきりで無課金支部どうしてるかな？と気になってますがみんなしっかりしてるし大丈夫だろうと思ってました＾＾今回は名前のルーツの話でどうしてわたしはジェンドなのか？という話です。ＲＳを始めたのが2008年頃でネトゲ自体が初めてだったのでキャラ名をつけるのに当時知ってたマンガやアニメ・ドラマ・映画の登場人",
-          "link": "http://jendoradoo.blog.fc2.com/blog-entry-325.html",
-          "publishedOn": "2022-08-09T11:30:00.000Z",
-          "wordCount": null,
-          "title": "なぜジェンドなのか？",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-07T23:28:55.194Z</updated>
+    <updated>2022-09-07T23:58:03.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022/9/7 日本赤石アプデ考察]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202209080000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202209080000/"/>
+        <updated>2022-09-07T23:46:40.000Z</updated>
+        <summary type="html"><![CDATA[本日8:30より実施しております定期メンテナンスにつきまして、不具合を確認し、調査・修正のため、終了時間を未定とさせて頂きます。ご迷惑をおかけいたしまして誠に申し訳ございませんが、メンテナンス終了まで...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フロントライン配布かいな]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202209080000/</id>
@@ -1160,16 +1170,6 @@ TRSDXSG１
         <summary type="html"><![CDATA[あれ、もう後半戦か…はやいな…【配布品とか】・金鯖ｶｰﾍﾟｯﾄ簡易版の不具合修正・金鯖1000レベルのモンスターからRSオーラがでなかった不具合修正・金の同窓会パネル解放率分の金鯖2022Box・最初に開けた人のあれ（メアドが死んでるともらえませんえん）・100万円山分け・生放送のあれ・思い出投稿入選作品公式のあれ【実は終わってないルーレット】9/7(水)メンテまで。なんか突然終わったなと思ったら帰ってきました。おいしいほう]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜジェンドなのか？]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-325.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-325.html"/>
-        <updated>2022-08-09T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[お盆も近くなり現在準備を少しずつしている所で忘れ物がないかなと色々考えているところです！金鯖は初日に行ったきりで無課金支部どうしてるかな？と気になってますがみんなしっかりしてるし大丈夫だろうと思ってました＾＾今回は名前のルーツの話でどうしてわたしはジェンドなのか？という話です。ＲＳを始めたのが2008年頃でネトゲ自体が初めてだったのでキャラ名をつけるのに当時知ってたマンガやアニメ・ドラマ・映画の登場人]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
