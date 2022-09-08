@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-08T18:28:47.130Z</updated>
+    <updated>2022-09-08T18:58:54.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1199,16 +1199,6 @@ TRSDXSG１
         <updated>2022-08-10T09:54:35.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[後半戦…？]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-877.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-877.html"/>
-        <updated>2022-08-10T06:38:56.000Z</updated>
-        <summary type="html"><![CDATA[あれ、もう後半戦か…はやいな…【配布品とか】・金鯖ｶｰﾍﾟｯﾄ簡易版の不具合修正・金鯖1000レベルのモンスターからRSオーラがでなかった不具合修正・金の同窓会パネル解放率分の金鯖2022Box・最初に開けた人のあれ（メアドが死んでるともらえませんえん）・100万円山分け・生放送のあれ・思い出投稿入選作品公式のあれ【実は終わってないルーレット】9/7(水)メンテまで。なんか突然終わったなと思ったら帰ってきました。おいしいほう]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
