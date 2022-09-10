@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-10T14:49:52.130Z</updated>
+    <updated>2022-09-10T15:24:26.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[これは仕様なのかそれとも…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-889.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-889.html"/>
+        <updated>2022-09-10T14:58:21.000Z</updated>
+        <summary type="html"><![CDATA[ログアウトしても地図バフはその時間で保持されるどういうこっちゃい…。あと数回宝箱見逃した軽く狩って漁ってだからまだ検証回数は少ないけど…うん。欲張りななんとかさんがでたので、1079レべでぶちのめした結果は…13.6億。しょぼい…950から劇的に下がるらしいけど、その近辺だとどれくらいもらえるのやらあとゴールドバフが出たときは上限値が変わるみたいで…拾いで4万、宝箱で200万になっていた通常の4倍になる模様。上限値が]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ＶＳ真のボス]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-177.html</id>
