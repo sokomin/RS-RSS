@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-09T23:56:53.731Z</updated>
+    <updated>2022-09-10T02:42:18.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ＶＳ真のボス]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-177.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-177.html"/>
+        <updated>2022-09-10T00:46:10.000Z</updated>
+        <summary type="html"><![CDATA[金鯖が終わり、アニバーサリーが始まり、季節の移り変わりを感じる今日この頃。いかがお過ごしでしょうか、第三の猫です。よく考えたら、金鯖からアニバーサリーイベントの流れを見たのは、今年が初めてでした（適当なことを言ってしまいました）さて、今回はメインクエストの続きをやっていきます。前回遭遇したNPCのエステルさんが、シーズン１でいう会長のポジションみたいです。話の流れは、主にストレンジの調査です。ブラッ]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】キャプテン覚醒実装！全部やるっぞ！【GoldEx World】]]></title>
         <id>https://www.youtube.com/watch?v=qJTnwC5m3q8</id>
