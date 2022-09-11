@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-11T15:54:06.656Z</updated>
+    <updated>2022-09-11T16:32:34.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1151,16 +1151,6 @@ The post キャプテン実装一ヶ月 期待を込めて☆5です！！【RED
         <summary type="html"><![CDATA[ようやく達人お守り探しを終えたり、スキルのためだけに陽ツインにしてみたりと…やりたい放題しました。クリーチャーは手を抜いたそして2022/8/14現在の支援SlvがこれであるS　L　v　4　5　2…金鯖ってなんだ？S鯖時代並みになったんですけどHP+688％、防御+1366％という頭おかしい数値を叩き出してます。耐久を大きく底上げします。特に制限のない防御なんか人によっては大変なことに。実はこれでも指がTRSやWRSDXな箇所はある…が]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「金」況報告]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-175.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-175.html"/>
-        <updated>2022-08-13T04:08:33.000Z</updated>
-        <summary type="html"><![CDATA[金鯖を始めても、１キャラ増やすくらいのより道だと思っていました。ですが実際にやってみると、高速道路の出口を通り過ぎた感じでした。戻ってきた第三の猫です。討伐で集めた「シュラグの角」と討伐バッジを交換しました。シュラグ君は今のところいっぱいいるので乱獲しても多分大丈夫です。バッジの効果はこちら。結構強いです。他の討伐モンスターのバッジもある※みたいなので、（※アスタロト君はグッズ化されていませんでした]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
