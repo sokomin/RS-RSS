@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-11T22:51:40.643Z</updated>
+    <updated>2022-09-11T23:25:02.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SUMMER/久石譲【ギター】]]></title>
+        <id>https://chorrealism.com/?p=3431</id>
+        <link href="https://chorrealism.com/guitar-music/summer/"/>
+        <updated>2022-09-11T23:23:30.000Z</updated>
+        <summary type="html"><![CDATA[ジブリ曲で有名なみんな大好き久石譲の『SUMMER』！テレビで使われたりすることも多々あるので、久石譲が好きじゃなくても聞き覚えがあるかもしれない。 個人的に、ソロギターを始めたら弾きたくなっちゃう三大曲のうちのひとつだ […]
+The post SUMMER/久石譲【ギター】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】キャプテン成長記(1)]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-914.html</id>
