@@ -347,6 +347,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=E410X1fitYs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E410X1fitYs",
+          "publishedOn": "2022-09-11T07:55:48.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】玲瓏な混沌の破片がほしいゾ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qJTnwC5m3q8",
           "author": null,
           "description": "",
