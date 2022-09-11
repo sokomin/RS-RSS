@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-11T15:25:00.927Z</updated>
+    <updated>2022-09-11T15:54:06.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[精鋭討伐周回とアプデ雑談配信【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=hwP0JhrhhcI</id>
+        <link href="https://www.youtube.com/watch?v=hwP0JhrhhcI"/>
+        <updated>2022-09-11T15:50:49.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年9月7日アップデート]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-764.html</id>
