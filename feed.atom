@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-11T22:24:33.077Z</updated>
+    <updated>2022-09-11T22:51:40.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】キャプテン成長記(1)]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-914.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-914.html"/>
+        <updated>2022-09-11T22:30:26.000Z</updated>
+        <summary type="html"><![CDATA[楽しかったREDSTONEよ、もう一度・・・ということで、金鯖から持ち帰ったキャプテンを育成し、Lv1600目指していこうとおもう。現在Lv922だけどな！覚醒スタイルは知識。これは最初から決めており、一番の理由は装備の使いまわしができるから。使いまわしも何も、物理装備持ってないから、知識覚醒は必然ｗ覚醒スキルの使用感が上々だったので、まずは装備を整えるところから。武器知識用775UMU30本が高いのか安いのか分からないが]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精鋭討伐周回とアプデ雑談配信【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=hwP0JhrhhcI</id>
