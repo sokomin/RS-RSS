@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-12T12:52:33.944Z</updated>
+    <updated>2022-09-12T13:52:01.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[これが…ULTOP…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-890.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-890.html"/>
+        <updated>2022-09-12T13:47:46.000Z</updated>
+        <summary type="html"><![CDATA[ごみ不可避。誰が使うの低下系抵抗……はい、神殿B2外周漁ってたら出ましたよ、ULTOP品。U品がないのにやたらエフェクト出てんなーと思ったらDXまたはULTOP品です。DXも反応するからたちが悪い指が出たり、〇〇抵抗系がでる狩場だと最初に拾うことになりそう。とはいえ、そんなにいっぱい出るわけもなく…指系統が出る狩場を1時間狩って1個くらい？そうでないならあまり見ないものです。結局何が実装されたんだろうね？ならばこの低下]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUMMER/久石譲【ギター】]]></title>
         <id>https://chorrealism.com/?p=3431</id>
