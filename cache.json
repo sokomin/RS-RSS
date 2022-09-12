@@ -569,6 +569,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202209130000/",
+          "author": "雷神の弓",
+          "description": "※職場PCで検証を実施し、帰宅後にこの記事を書いているので、SSはありません。Lv1535物理アーチャー　ビット表記299700　PVP攻撃249％　フロントライン有　属性抵抗MAXVSLv1432クレセント　風表記400万　強打率70...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202209130000/",
+          "publishedOn": "2022-09-12T15:21:07.000Z",
+          "wordCount": 1384,
+          "title": "検証Gv速報！！！",
+          "imageUrl": "http://plaza.jp.rakuten-static.com/img/common/blog_logo_ogp.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202209080000/",
           "author": "雷神の弓",
           "description": "買った直後に無料で配布されるなんて、ブログネタとして最高ですよね。ですが、自力で買うということに拘った結果なので、大損しましたがあまり気にしていません。もう欲しいアイテムもあまりないですしね。イン...",
@@ -672,6 +682,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-915.html",
+          "author": "JEFRY",
+          "description": "レベル：1UP（次レベルアップ経験値70%程度）チケット状況狩っても1時間くらいが限界なので、チケットもなかなか集まらない。キャプテン職鎧は遠いな・・・そういえば、キャプテン補助武器のコレ、露店とかで見かけたこと無いんだけど、実装してるのかな。とても欲しいが、未だ見かけず。こっちはよく見かけるんだけどな。ちなみに、ドロップ率って上がってる？こいつ拾った後、すぐ天使775UMU羽もドロップした。ギルメンもUMU結構",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-915.html",
+          "publishedOn": "2022-09-12T15:00:01.000Z",
+          "wordCount": 537,
+          "title": "【REDSTONE】キャプテン成長記(2)",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-914.html",
           "author": "JEFRY",
