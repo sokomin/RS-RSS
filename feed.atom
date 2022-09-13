@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-13T02:47:46.436Z</updated>
+    <updated>2022-09-13T04:53:31.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1182,16 +1182,6 @@ The post キャプテン実装一ヶ月 期待を込めて☆5です！！【RED
         <updated>2022-08-15T06:05:24.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お盆休み]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-760.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-760.html"/>
-        <updated>2022-08-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日お盆休みを使って息子とお墓参りに行ってきました帰りにショッピングモールに寄りましたがそこのゲームコーナーで息子が太鼓をやりたいと言うので早速これをやってました珍しくクラシックをやりたいと言うので見ていたらすごい譜面でした終わった後いつも通り腕が筋肉痛になっていましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
