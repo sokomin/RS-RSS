@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-14T16:36:47.023Z</updated>
+    <updated>2022-09-14T17:14:01.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1202,17 +1202,6 @@ B鯖は安定のディメしかいってません。
         <summary type="html"><![CDATA[嘘です。みなさんこんにちは。魔法の壁です。新キャラが実装されたことに加え、お盆で暇すぎなところさらに追い打ちをかけるように金鯖ですよ。5000GEMくらいする金鯖ラストスパートセットを買うアカウント間違え...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キャプテン実装一ヶ月 期待を込めて☆5です！！【RED STONE】]]></title>
-        <id>https://chorrealism.com/?p=3341</id>
-        <link href="https://chorrealism.com/redstone/captain/"/>
-        <updated>2022-08-16T04:48:01.000Z</updated>
-        <summary type="html"><![CDATA[忙しかったタイミングもなるべくキャプテンのマキナ消化ぐらいは…と頑張っていたこともあり、ようやく4桁レベルに突入！この4桁レベル突入というのが私にとってはまぁまぁ重要。というのも、ここでレベル上げを止めているキャラが複数 […]
-The post キャプテン実装一ヶ月 期待を込めて☆5です！！【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
 </feed>
