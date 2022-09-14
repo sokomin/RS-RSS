@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-14T13:55:39.680Z</updated>
+    <updated>2022-09-14T14:30:14.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[長きメンテの果てに…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-892.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-892.html"/>
+        <updated>2022-09-14T14:12:31.000Z</updated>
+        <summary type="html"><![CDATA[ログキャンには間に合ったから、ヨシ！！【配布物とか】・長時間ログイン不可に対するお詫び→1日版スフィア×3、1時間パワキ×20、不思議なチケット×10、プリズムコクーン×2・冒険枠減少した垢にその分のストラップ配布・ありがとう金鯖イベントで不足していたアイテムの配布・ログイン関連のキャンペーン期間変更→ログインSPミッションとSTAMPミッションは10/12(水)メンテまで。いつものログキャンは10/11(火)23:59まで。NPCミッシ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[検証記事フル]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202209140000/</id>
