@@ -169,16 +169,6 @@
           "wordCount": 832,
           "title": "ゴールドな近況とOSの機能でSSを残そう",
           "imageUrl": null
-        },
-        {
-          "id": "http://rinsmile.blog70.fc2.com/blog-entry-1097.html",
-          "author": "リン・ドール",
-          "description": "ブログっていうのは～適当なSS（スクリーンショット）を張り付けて～テキトーな文章をくっつけてればいいのです！が最近ハニーのPCは、RSのSSを撮れません＞＜なんか、強制終了になっちゃうんだよね、ここ数ヶ月そんなわけでハニーレモネードのレベルが１０００になった時も、サブハニーたちで遊んでる時も・・・・SSが残っていませんん～こうなったら、テキトーな文章のほうだけで、書くしかないんだけど・・・言い訳すると、忙し",
-          "link": "http://rinsmile.blog70.fc2.com/blog-entry-1097.html",
-          "publishedOn": "2022-08-15T14:56:54.000Z",
-          "wordCount": 803,
-          "title": "SSがないとブログ書くのむずいね",
-          "imageUrl": null
         }
       ]
     },
@@ -673,6 +663,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-916.html",
+          "author": "JEFRY",
+          "description": "ブログ徘徊(趣味)していたら、失敗しないギルド選びっていう記事を見かけたので便乗しようとおもう。キャプテン育成？ちまちまやってるけど、報告する程の進捗は無い(もう狩り嫌になり掛けてる、危ない！)ギルド選びギルドに入りたい人には、当然それぞれ理由がある。バフの恩恵を受けたい、ギルメンと楽しい会話がしたい、対人戦がしたい、情報提供を受けたい、討伐参加に加わりたい等、様々だろう。REDSTONEは過疎まっしぐらで、",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-916.html",
+          "publishedOn": "2022-09-14T03:14:56.000Z",
+          "wordCount": 537,
+          "title": "【REDSTONE】ギルド選び",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-915.html",
           "author": "JEFRY",

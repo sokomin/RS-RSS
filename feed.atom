@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-14T02:41:59.635Z</updated>
+    <updated>2022-09-14T04:48:02.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】ギルド選び]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-916.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-916.html"/>
+        <updated>2022-09-14T03:14:56.000Z</updated>
+        <summary type="html"><![CDATA[ブログ徘徊(趣味)していたら、失敗しないギルド選びっていう記事を見かけたので便乗しようとおもう。キャプテン育成？ちまちまやってるけど、報告する程の進捗は無い(もう狩り嫌になり掛けてる、危ない！)ギルド選びギルドに入りたい人には、当然それぞれ理由がある。バフの恩恵を受けたい、ギルメンと楽しい会話がしたい、対人戦がしたい、情報提供を受けたい、討伐参加に加わりたい等、様々だろう。REDSTONEは過疎まっしぐらで、]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022金鯖終了！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-330.html</id>
@@ -1192,16 +1202,6 @@ The post キャプテン実装一ヶ月 期待を込めて☆5です！！【RED
         <updated>2022-08-15T21:38:28.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSがないとブログ書くのむずいね]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1097.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1097.html"/>
-        <updated>2022-08-15T14:56:54.000Z</updated>
-        <summary type="html"><![CDATA[ブログっていうのは～適当なSS（スクリーンショット）を張り付けて～テキトーな文章をくっつけてればいいのです！が最近ハニーのPCは、RSのSSを撮れません＞＜なんか、強制終了になっちゃうんだよね、ここ数ヶ月そんなわけでハニーレモネードのレベルが１０００になった時も、サブハニーたちで遊んでる時も・・・・SSが残っていませんん～こうなったら、テキトーな文章のほうだけで、書くしかないんだけど・・・言い訳すると、忙し]]></summary>
-        <author>
-            <name>リン・ドール</name>
         </author>
     </entry>
 </feed>
