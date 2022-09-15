@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-15T04:34:11.524Z</updated>
+    <updated>2022-09-15T05:51:15.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1202,16 +1202,6 @@ B鯖は安定のディメしかいってません。
         <summary type="html"><![CDATA[お盆が無事終わったのでなんとかＲＳには復帰する事が出来ました！ただ、やはりちょっと前と生活が変わっているため前のような活動は今のところ無理かなと思いました＾＾；まず朝は5時起きになったため夜寝る時間が早くなってしまい前はＲＳできていた18～20時あたりのインが今のところちょっと無理なのでＲＳできる時間が朝の6時～40分程度5時前に早起きしてたら6時前に活動する事はあるかもです。夜は21時付近にだいたい30分位が]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新キャラ始動です。]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202208170000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202208170000/"/>
-        <updated>2022-08-16T17:25:31.000Z</updated>
-        <summary type="html"><![CDATA[嘘です。みなさんこんにちは。魔法の壁です。新キャラが実装されたことに加え、お盆で暇すぎなところさらに追い打ちをかけるように金鯖ですよ。5000GEMくらいする金鯖ラストスパートセットを買うアカウント間違え...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
