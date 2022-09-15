@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-15T10:27:39.554Z</updated>
+    <updated>2022-09-15T10:55:44.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.9.14 イベ更新]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/e313b0b8b4a309ae95cad8a6aa0a66a8</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/e313b0b8b4a309ae95cad8a6aa0a66a8?fm=rss"/>
+        <updated>2022-09-15T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[台風14号が発生しましたね。
+
+
+「アニバーサリーモード」が始まっています
+「不思議なチケットイベント」
+「BIGログインイベント」
+「栄光の箱ドロップイベント」
+「メインクエスト応援イベント」
+「ありがとう金鯖イベント」
+「チャットバフイベント」
+「経験値＆アイテムドロップ率上昇イベント」
+
+
+
+
+
+
+
+
+
+
+9月7日メンテ後から10月5日メンテ前まで
+
+
+不具合は改善されたのでしょうかね。
+とりあえず期待したいと思います。
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】1000UMU]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-917.html</id>
