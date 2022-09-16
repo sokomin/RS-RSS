@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-16T21:53:16.234Z</updated>
+    <updated>2022-09-16T22:26:42.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1153,15 +1153,6 @@ B鯖は安定のディメしかいってません。
         <summary type="html"><![CDATA[数年が過ぎたね〜何年INしてないんだろ別にやめた訳じゃ無いんだよ？パソコン事情と体調事情で離れて気がつけば、、、何年？よくみんなどうしてるかな〜？とか思い出しているんだよねまた話そうよ(*'▽'*)♪以上！]]></summary>
         <author>
             <name>ユンユン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖！悪魔育成パート７！【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=eCQmQix7JDc</id>
-        <link href="https://www.youtube.com/watch?v=eCQmQix7JDc"/>
-        <updated>2022-08-18T10:21:00.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
