@@ -626,7 +626,18 @@
       "title": "今日のアリアン",
       "feedUrl": "http://scratch2009.blog.fc2.com/?xml",
       "siteUrl": "http://scratch2009.blog.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://scratch2009.blog.fc2.com/blog-entry-213.html",
+          "author": "scratch2009",
+          "description": "2018/09/23　「いつの間にかサービス終了」2020/02/16　「いつの間にかサービス再開」で過去二回取り上げたFPSゲーム「スペシャルフォース2」。この度、二度目のサービス終了。正確には、初代はハンゲームでサービスが提供されており、復活した際はHappyTukという会社？で再開されたものです。FPSゲームなんて全く興味なかったんですが、当時「インストールして数回遊ぶとハンゲーム商品券がもらえる！」というキャンペーンにつら",
+          "link": "http://scratch2009.blog.fc2.com/blog-entry-213.html",
+          "publishedOn": "2022-09-17T02:41:26.000Z",
+          "wordCount": 467,
+          "title": "サービス終了再び",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "JEFRYの悪足掻き",
