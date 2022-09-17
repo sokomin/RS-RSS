@@ -180,6 +180,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CmCXIVzQi-U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CmCXIVzQi-U",
+          "publishedOn": "2022-09-17T06:00:36.000Z",
+          "wordCount": null,
+          "title": "知識剣士育成配信#5【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hwP0JhrhhcI",
           "author": null,
           "description": "",
@@ -509,6 +519,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202209170000/",
+          "author": "雷神の弓",
+          "description": "公式ディスコードにも書きましたが、オーガ物理組合的なものを作って、B鯖だけでなく他鯖の方たちとも意見交換をしたいと思っています。ディスコードに新しいサーバーを作ってそこに集まってもらえばいいかな？デ...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202209170000/",
+          "publishedOn": "2022-09-17T06:23:13.000Z",
+          "wordCount": 1338,
+          "title": "今後の方針について",
+          "imageUrl": "http://plaza.jp.rakuten-static.com/img/common/blog_logo_ogp.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202209140000/",
           "author": "雷神の弓",
