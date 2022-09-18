@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-18T02:44:49.512Z</updated>
+    <updated>2022-09-18T04:41:43.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ディスコードに物理用サーバー作りました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202209180000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202209180000/"/>
+        <updated>2022-09-18T03:50:23.000Z</updated>
+        <summary type="html"><![CDATA[”オーガ物理組合”というサーバーを作りました。https://discord.gg/UpEructa参加してくださる方は、↑このリンクから入ってみてください。参加条件は、アリーナの制限に疑問・不満を持っていて、現状を変えた方が...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今後の方針について]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202209170000/</id>
