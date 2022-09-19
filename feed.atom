@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-19T13:55:40.550Z</updated>
+    <updated>2022-09-19T14:30:22.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[１人を攻撃するならビットだよ？]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202209190000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202209190000/"/>
+        <updated>2022-09-19T14:16:13.000Z</updated>
+        <summary type="html"><![CDATA[私は、１人を攻撃するならビットの方が強いと思っています。スプレッドの良さは、敵をタゲらなくても地面クリックで発動することと、範囲スキルであるという点です。もし１対１で戦うなら、私は今でもビットを使...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】チケット出し状況]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-918.html</id>
