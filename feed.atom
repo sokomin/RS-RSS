@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-19T23:30:19.800Z</updated>
+    <updated>2022-09-19T23:59:07.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1166,6 +1166,15 @@ B鯖は安定のディメしかいってません。
         <summary type="html"><![CDATA[こんばんは～ハニーですよ土曜日は攻城なのですが本サバと金サバの攻城が同じ時間でした一応キャラはどちらも準備していたのですがいつものように開始時間割り込んで寝落ちしてましたｗ５分経過ぐらいであわてて飛び起きて金サバへ（本サバは不戦勝と思った）挨拶もそこそこに門に向かって走りましたが瞬殺されまくりですね～こちらのメンバーは２人？かな？３人かな？健闘むなしく敗退ハニーは１回だけ扉にタッチできましたｗ◆◆◆]]></summary>
         <author>
             <name>リン・ドール</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖！悪魔育成パート８！【GoldEx World】]]></title>
+        <id>https://www.youtube.com/watch?v=uN3beTgCfkk</id>
+        <link href="https://www.youtube.com/watch?v=uN3beTgCfkk"/>
+        <updated>2022-08-21T21:40:00.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
