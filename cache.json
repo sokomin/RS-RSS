@@ -159,16 +159,6 @@
           "wordCount": 789,
           "title": "MTGアリーナのお話",
           "imageUrl": null
-        },
-        {
-          "id": "http://rinsmile.blog70.fc2.com/blog-entry-1100.html",
-          "author": "リン・ドール",
-          "description": "レッドストーンには賭博師武器というシリーズがあります姫でいうとこれ＞＞T（トリプル）姫Gの夢 『 王家の遊具 』物理用の武器としてはまずまずだと思うのですがなんせ取引不可なので・・・・って思ってました、今までのハニーは。・・・・最近気が付いたのですｗこれｗ銀行に預けることができるｗ（そこですか！）同じIDなら使えるじゃんｗサブハニーを物理に転向だ！そう思ったら、速攻強化！ここまではすぐ来れたんだけどなぜ",
-          "link": "http://rinsmile.blog70.fc2.com/blog-entry-1100.html",
-          "publishedOn": "2022-08-22T05:54:05.000Z",
-          "wordCount": 806,
-          "title": "レッツ、フォースクイーン！",
-          "imageUrl": null
         }
       ]
     },
@@ -499,6 +489,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202209210000/",
+          "author": "雷神の弓",
+          "description": "フロントラインを持っているので、↓これにしました。まだ強化途中ですが、Wガイルートにはしないつもりです。無限に金が湧いているように見えるかもですが、そろそろやばい・・ガイルートW力比にするので、あと↓...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202209210000/",
+          "publishedOn": "2022-09-20T18:15:58.000Z",
+          "wordCount": 1340,
+          "title": "1000ULT選択BOX",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/aba390892d871d177b362d99f53d7394c88839c0.73.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202209190000/",
           "author": "雷神の弓",
