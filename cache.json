@@ -6,6 +6,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202207270000/",
+          "author": "そこらの民衆",
+          "description": "金鯖がオープンしてから早11年。最近では本鯖の経レベリング体制が整って金鯖を介さずともスピーディにレベリングができるようになりました。そうなってくると「金鯖と本鯖、どっちで育てるのが良いか？」って疑...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202207270000/",
+          "publishedOn": "2022-09-20T14:55:57.000Z",
+          "wordCount": 985,
+          "title": "【REDSTONE】金鯖と本鯖、どっちが良い？",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/01535f262daf4a94b01cecf1ae2d708cf08f10da.10.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202209200000/",
           "author": "そこらの民衆",
           "description": "9/7より金鯖終了後に開催された「アニバーサリーモード」装備強化において非常に有用なイベント・キャンペーンが盛りだくさんです。もうすでにイベントも残り2週間ですが、チケットイベントについて紹介していき...",
@@ -888,6 +898,16 @@
       "feedUrl": "http://jendoradoo.blog.fc2.com/?xml",
       "siteUrl": "http://jendoradoo.blog.fc2.com/",
       "articles": [
+        {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-331.html",
+          "author": "ジェンド",
+          "description": "いまチケットを集めて色んなものと交換するイベントをしていますがわたしにはちょっと厳しい状況だったりします＾＾；ちなみにわたしのメイン垢はネクロ悪魔が半分くらい占めていてしかもネクロ悪魔は単体攻撃が多くその他のキャラは実験体の装備があまりないので狩りが苦しいキャラそれ以外は倉庫キャラだったりするのでこうゆう物集めイベントがあると毎回苦労してます＾＾；キャプテンを覚醒すると範囲狩りできそうなんですけど",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-331.html",
+          "publishedOn": "2022-09-20T15:00:00.000Z",
+          "wordCount": 365,
+          "title": "効率の懸念",
+          "imageUrl": null
+        },
         {
           "id": "http://jendoradoo.blog.fc2.com/blog-entry-330.html",
           "author": "ジェンド",
