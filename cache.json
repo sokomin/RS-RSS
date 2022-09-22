@@ -306,6 +306,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tV-BhNxzFok",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tV-BhNxzFok",
+          "publishedOn": "2022-09-22T11:41:01.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記＃３２",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=E410X1fitYs",
           "author": null,
           "description": "",
@@ -935,16 +945,6 @@
           "publishedOn": "2022-08-30T23:30:12.000Z",
           "wordCount": 363,
           "title": "残り1週間",
-          "imageUrl": null
-        },
-        {
-          "id": "http://jendoradoo.blog.fc2.com/blog-entry-327.html",
-          "author": "ジェンド",
-          "description": "休止している間に色々変わったようなのですが金鯖でとてもびっくりしたのが治療費がとても安い事です！それで金鯖限定なのかと周りの人にたずねてみたところ今変わって本鯖でも同じだというので試しにオオカミ少年で治療費の確認をしてみました＾＾前に治療費のＳＳとか撮った事がなかったと思うのでうろ覚えですが1億超えていたのは確かだったのですけど今回試してみると昔の1/10くらいのお値段に値下げされていました＾＾このく",
-          "link": "http://jendoradoo.blog.fc2.com/blog-entry-327.html",
-          "publishedOn": "2022-08-23T23:30:00.000Z",
-          "wordCount": 363,
-          "title": "これもう要らない？？",
           "imageUrl": null
         }
       ]

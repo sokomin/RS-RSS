@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-22T11:21:34.821Z</updated>
+    <updated>2022-09-22T11:49:52.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃３２]]></title>
+        <id>https://www.youtube.com/watch?v=tV-BhNxzFok</id>
+        <link href="https://www.youtube.com/watch?v=tV-BhNxzFok"/>
+        <updated>2022-09-22T11:41:01.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初心ってなんだっけ？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-894.html</id>
@@ -1159,16 +1168,6 @@ The post 物理槍＆妨害リトル迅速計画【RED STONE】 first appeared o
         <summary type="html"><![CDATA[去年と同じなら最後だろうけども…【配布品とか】・金鯖チャレンジャー公式のあれ【ゴールデンサンシャインロト】9/7(水)メンテまで。ようするに金鯖期間の終了まで。1個1000円のあれ。ラストスパートというけど…いつも通りの高額セット…と思ったら異物がある。レア3幸運 鏡、レア2特改賢者赤異界完全開放さんはいずこ…。真の高額セットに付随するもののせいで、レア3の内容が弱いです。華麗勇猛×2と華麗純粋×2が露骨。レア2はOP選]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これもう要らない？？]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-327.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-327.html"/>
-        <updated>2022-08-23T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[休止している間に色々変わったようなのですが金鯖でとてもびっくりしたのが治療費がとても安い事です！それで金鯖限定なのかと周りの人にたずねてみたところ今変わって本鯖でも同じだというので試しにオオカミ少年で治療費の確認をしてみました＾＾前に治療費のＳＳとか撮った事がなかったと思うのでうろ覚えですが1億超えていたのは確かだったのですけど今回試してみると昔の1/10くらいのお値段に値下げされていました＾＾このく]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
