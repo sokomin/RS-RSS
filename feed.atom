@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-23T04:52:31.136Z</updated>
+    <updated>2022-09-23T06:04:12.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[初心（出るもの的な意味で）]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-895.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-895.html"/>
+        <updated>2022-09-23T05:12:28.000Z</updated>
+        <summary type="html"><![CDATA[なんだこれは！この俺をこんな安物のアイテムで刺しやがって！！アルファロト3万円分買ってみたのですが、1000円から出るものがひどかった。レア3がでないのは当たり前で、70％がレア1、レア2になってもしょぼいのがいぱーい…嫌がらせか！！まぁSロトが完全に化けたからよかったけど、それ以外は碌なものがない…やはり地雷ロト…DXはごみ、ULTは黄金人形…SPもどうせごみだろ！知ってるよ！だって今までここからまともなものが出たこ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃３２]]></title>
         <id>https://www.youtube.com/watch?v=tV-BhNxzFok</id>
