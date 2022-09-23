@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-23T08:31:44.924Z</updated>
+    <updated>2022-09-23T09:00:34.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プリリトル、６００までの属性（強化・弱化）装備一覧]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1111.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1111.html"/>
+        <updated>2022-09-23T08:58:09.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは～ハニーです９００レベあたりまで特に苦労しなくなってしまった今日この頃昔、属性攻撃が効かない敵とかいたよな～とか思いつつ、・・・（今更感があったりしますが）属性強化・弱化の装備をまとめてみようそんなことを思いついてまとめてみました（プリリトル限定で）強化または弱化がついている装備を集めてます（指以外）最初は全部まとめた一覧表を作ったんだけどちょっと見にくかったのでポイントを絞った表に作り]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初心（出るもの的な意味で）]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-895.html</id>
