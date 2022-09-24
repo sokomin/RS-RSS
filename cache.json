@@ -1058,6 +1058,16 @@
       "siteUrl": "https://3rdcat.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://3rdcat.blog.fc2.com/blog-entry-178.html",
+          "author": "第三の猫",
+          "description": "期限付きのクリーチャー経験値が入る指輪いいですね。今あるイベントの中では地味ですが、割と気に入ってます。普段連れて歩かないクリーチャーが後ろをついてくるところとか。こんにちは、メインクリーチャーを変えてもそこまで違いがなかった第三の猫です。前回チャプター１のボスを倒したので、チャプター２が始まりました。シーズン２も長そうですね。ひょっとして、REDSTONE納品先ナンバーワンが天上界だったら、メインクエス",
+          "link": "https://3rdcat.blog.fc2.com/blog-entry-178.html",
+          "publishedOn": "2022-09-24T00:42:43.000Z",
+          "wordCount": null,
+          "title": "いろいろと",
+          "imageUrl": null
+        },
+        {
           "id": "https://3rdcat.blog.fc2.com/blog-entry-177.html",
           "author": "第三の猫",
           "description": "金鯖が終わり、アニバーサリーが始まり、季節の移り変わりを感じる今日この頃。いかがお過ごしでしょうか、第三の猫です。よく考えたら、金鯖からアニバーサリーイベントの流れを見たのは、今年が初めてでした（適当なことを言ってしまいました）さて、今回はメインクエストの続きをやっていきます。前回遭遇したNPCのエステルさんが、シーズン１でいう会長のポジションみたいです。話の流れは、主にストレンジの調査です。ブラッ",
@@ -1119,6 +1129,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/229297b8435a2a25b1694a5d0b035c93",
+          "author": null,
+          "description": "連休後半も終了に近づいてきましたね。\n\n覚醒タイプは「ストレンジコンジュラー」\n\n「ライフスティール」\n\n専用強化スキルは「死の香り」\n\n自分にかけるスキルでしたね。\n\n強化スキルの１つは「ダークネスイリュージョン」\n\n「力」と「知識」「敏捷」と「知恵」を自分も含めて反転させるスキル。\n\nもう１つの強化スキルは「フルアタック」\n\n手数が増えるので使えるかな。\n物理攻撃なので力と敏捷をふらないといけないのが難点。\n\n\nそもそも狩り用に作ったわけではないので、実践で使えるかを判断するのは難しいかな。\n機会があればミズナの芋虫でも狩ってみようと思います。\n\n\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/229297b8435a2a25b1694a5d0b035c93?fm=rss",
+          "publishedOn": "2022-09-24T01:00:00.000Z",
+          "wordCount": 1351,
+          "title": "ネクロの覚醒 －ストレンジコンジュラー－",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/52/41/abbc6a9060866a600903ae0671898cdb.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/12acb64fe5eb466a2ceea48dacf973c6",
           "author": null,
