@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-24T14:50:03.759Z</updated>
+    <updated>2022-09-24T15:24:53.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ようやく超えた壁]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-896.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-896.html"/>
+        <updated>2022-09-24T14:50:15.000Z</updated>
+        <summary type="html"><![CDATA[ミニPとバッジなしでSlv500を超えましたいやー、長かった…かな？今はアニバのバフがあるからスキル+3できるけど、普段はないと考えれば常時500達成できてよかったです。その気になったらミニPとバッジを出すってスタンスにしておこう…だってもう引きこもらせてくれないし…ちなみに改良点はまだあります。もうちょっと伸ばしておきたい所…。闇のパッシブ厳選へようこそ。あとV鯖はこんなんができました。1000ULT箱からマナ選んであ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネクロの覚醒 －ストレンジコンジュラー－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/229297b8435a2a25b1694a5d0b035c93</id>
