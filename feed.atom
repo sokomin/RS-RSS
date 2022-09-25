@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T19:22:40.611Z</updated>
+    <updated>2022-09-25T19:48:25.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1185,6 +1185,15 @@ The post 2022年7～8月総括【RED STONE】 first appeared on 無職と美学�
         <summary type="html"><![CDATA[こんばんは、ハニーです！ついに、討伐３体ｘ４０回を終え、3つのバッジを手に入れましたファルコンシュラグゲリオうん、いいですね＾＾見てるだけで、よだれが出そうｗ■■■　■■■　■■■8月27日攻城戦、プリメは不戦勝攻城戦なく、GH２をキープ！さくら組はGH3への攻めでしたお互いに人数少なく（当方3人、先方2人）相手のスキを見て扉に向かって走ります。数回扉に張り付いて扉をノックしましたがこじ開けることはできませんでした時]]></summary>
         <author>
             <name>リン・ドール</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 金鯖 】今年初の攻め！攻城戦【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=hlO9NpBmFjE</id>
+        <link href="https://www.youtube.com/watch?v=hlO9NpBmFjE"/>
+        <updated>2022-08-27T13:11:10.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
