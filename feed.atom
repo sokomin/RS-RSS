@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T13:58:17.291Z</updated>
+    <updated>2022-09-25T14:24:13.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1174,16 +1174,6 @@ The post 2022年7～8月総括【RED STONE】 first appeared on 無職と美学�
         <updated>2022-08-27T07:02:06.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[信義のチキチャカ族]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-176.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-176.html"/>
-        <updated>2022-08-27T02:13:36.000Z</updated>
-        <summary type="html"><![CDATA[夏の終わりが見えてきて、少しすずしくなった夕方の街と、定員オーバーになりにくくなった金鯖の古都。こんにちは。金鯖の古都でフィルタをかけずに露店検索したら、再起動を余儀なくされた第三の猫です。今回はセットオプションを試してみます。用意しましたのは「信義の」セットその効果はなんと、調教成功率UP！そうとくれば、さっそく捕まえに行こうと思います。以前1000匹の犠牲を出しながらテイムできなかったチキチャカ族を]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
