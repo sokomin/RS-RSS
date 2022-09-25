@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T15:54:58.026Z</updated>
+    <updated>2022-09-25T16:32:57.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オーガ物理組合]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202209260000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202209260000/"/>
+        <updated>2022-09-25T16:13:59.000Z</updated>
+        <summary type="html"><![CDATA[https://discord.gg/cG7FcTqt招待の有効期間が7日間みたいなので、新しいリンクを貼っておきます。]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダメージの上限値]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-766.html</id>
