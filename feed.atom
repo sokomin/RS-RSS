@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-24T23:56:44.238Z</updated>
+    <updated>2022-09-25T02:40:39.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃３３　無限チケ出し]]></title>
+        <id>https://www.youtube.com/watch?v=kFHlMgcQXzQ</id>
+        <link href="https://www.youtube.com/watch?v=kFHlMgcQXzQ"/>
+        <updated>2022-09-25T02:36:48.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知識リトル育成配信#1【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=BeOQnFvk0fE</id>
+        <link href="https://www.youtube.com/watch?v=BeOQnFvk0fE"/>
+        <updated>2022-09-25T01:15:25.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ようやく超えた壁]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-896.html</id>

@@ -169,6 +169,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BeOQnFvk0fE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BeOQnFvk0fE",
+          "publishedOn": "2022-09-25T01:15:25.000Z",
+          "wordCount": null,
+          "title": "知識リトル育成配信#1【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CmCXIVzQi-U",
           "author": null,
           "description": "",
@@ -305,6 +315,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA",
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kFHlMgcQXzQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kFHlMgcQXzQ",
+          "publishedOn": "2022-09-25T02:36:48.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記＃３３　無限チケ出し",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tV-BhNxzFok",
           "author": null,
