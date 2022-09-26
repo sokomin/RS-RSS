@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T23:57:06.008Z</updated>
+    <updated>2022-09-26T02:48:53.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1175,25 +1175,6 @@ The post 2022年7～8月総括【RED STONE】 first appeared on 無職と美学�
         <summary type="html"><![CDATA[現在のSLvは487500は（かなり無茶をすればできなくもないが）無理だとしても、あと3をどうにか稼ぎたい。今思えば無理やりでもTRSDXレドネにしておくべきだったんだろうなとは思ってます。でもやらないそんな中であと3を稼ぐには…どうすれば…あ…※色々漁ってたら出てきた完璧選択のSP図案書が2つ、来るぞ！これでできた。…はい、SP図案書5段階2か所によるスキル+3を持ってきました。実際のところ、既に勇猛で同じことはしてました。]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[討伐バッジおめ！]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1107.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1107.html"/>
-        <updated>2022-08-27T14:37:19.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは、ハニーです！ついに、討伐３体ｘ４０回を終え、3つのバッジを手に入れましたファルコンシュラグゲリオうん、いいですね＾＾見てるだけで、よだれが出そうｗ■■■　■■■　■■■8月27日攻城戦、プリメは不戦勝攻城戦なく、GH２をキープ！さくら組はGH3への攻めでしたお互いに人数少なく（当方3人、先方2人）相手のスキを見て扉に向かって走ります。数回扉に張り付いて扉をノックしましたがこじ開けることはできませんでした時]]></summary>
-        <author>
-            <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 金鯖 】今年初の攻め！攻城戦【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=hlO9NpBmFjE</id>
-        <link href="https://www.youtube.com/watch?v=hlO9NpBmFjE"/>
-        <updated>2022-08-27T13:11:10.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
