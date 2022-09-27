@@ -6,6 +6,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202209280000/",
+          "author": "そこらの民衆",
+          "description": "レッドストーンの魔法職には「知識装備パズル」なる問題がしばしば挙がってきます。強化・弱化・魔法致命打（魔法強打）などをどこの部位でどれだけ稼ぐか？という問題です。今回はその知識装備パズルについて装...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202209280000/",
+          "publishedOn": "2022-09-27T16:40:02.000Z",
+          "wordCount": 1264,
+          "title": "【REDSTONE】 知識装備パズル攻略",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/eaa65c0d14546048c88efdc5d0578ee4905c8f85.10.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202207270000/",
           "author": "そこらの民衆",
           "description": "金鯖がオープンしてから早11年。最近では本鯖の経レベリング体制が整って金鯖を介さずともスピーディにレベリングができるようになりました。そうなってくると「金鯖と本鯖、どっちで育てるのが良いか？」って疑...",
@@ -761,16 +771,6 @@
           "publishedOn": "2022-09-11T22:30:26.000Z",
           "wordCount": 537,
           "title": "【REDSTONE】キャプテン成長記(1)",
-          "imageUrl": null
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-913.html",
-          "author": "JEFRY",
-          "description": "すっかり涼しくなって過ごしやすい！ゲームも捗るぜwREDSTONEキャプテン育てる宣言した金鯖も、結局レベリングだるくて放置し始めて早1週間。もう頑張ることは無いと思うので、早めに帰り支度をしようかな。今回は金鯖S鯖どちらの相場も分からない状態なので、インゴそのまま持ち帰ろうとおもう。結局、教会装備以外は売り払って400本くらいにはなったし、無課金かつ狩りあまりしない割には稼ぎが良かったのかもしれない。ゲリオ討",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-913.html",
-          "publishedOn": "2022-08-29T04:16:53.000Z",
-          "wordCount": 536,
-          "title": "【ゲーム全般】夏も終わり",
           "imageUrl": null
         }
       ]

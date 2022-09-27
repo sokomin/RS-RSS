@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T15:59:09.445Z</updated>
+    <updated>2022-09-27T16:48:48.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】 知識装備パズル攻略]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202209280000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202209280000/"/>
+        <updated>2022-09-27T16:40:02.000Z</updated>
+        <summary type="html"><![CDATA[レッドストーンの魔法職には「知識装備パズル」なる問題がしばしば挙がってきます。強化・弱化・魔法致命打（魔法強打）などをどこの部位でどれだけ稼ぐか？という問題です。今回はその知識装備パズルについて装...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[悩める喜び！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-332.html</id>
@@ -1197,16 +1207,6 @@ The post 2022年7～8月総括【RED STONE】 first appeared on 無職と美学�
         <updated>2022-08-29T10:48:09.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】夏も終わり]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-913.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-913.html"/>
-        <updated>2022-08-29T04:16:53.000Z</updated>
-        <summary type="html"><![CDATA[すっかり涼しくなって過ごしやすい！ゲームも捗るぜwREDSTONEキャプテン育てる宣言した金鯖も、結局レベリングだるくて放置し始めて早1週間。もう頑張ることは無いと思うので、早めに帰り支度をしようかな。今回は金鯖S鯖どちらの相場も分からない状態なので、インゴそのまま持ち帰ろうとおもう。結局、教会装備以外は売り払って400本くらいにはなったし、無課金かつ狩りあまりしない割には稼ぎが良かったのかもしれない。ゲリオ討]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
