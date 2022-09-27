@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T09:34:28.179Z</updated>
+    <updated>2022-09-27T09:59:18.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1197,15 +1197,6 @@ The post 2022年7～8月総括【RED STONE】 first appeared on 無職と美学�
         <summary type="html"><![CDATA[すっかり涼しくなって過ごしやすい！ゲームも捗るぜwREDSTONEキャプテン育てる宣言した金鯖も、結局レベリングだるくて放置し始めて早1週間。もう頑張ることは無いと思うので、早めに帰り支度をしようかな。今回は金鯖S鯖どちらの相場も分からない状態なので、インゴそのまま持ち帰ろうとおもう。結局、教会装備以外は売り払って400本くらいにはなったし、無課金かつ狩りあまりしない割には稼ぎが良かったのかもしれない。ゲリオ討]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖！サマナー育成！その１【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=Taf2-OrGwE8</id>
-        <link href="https://www.youtube.com/watch?v=Taf2-OrGwE8"/>
-        <updated>2022-08-28T21:41:34.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
