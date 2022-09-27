@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T14:59:38.494Z</updated>
+    <updated>2022-09-27T15:34:53.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[悩める喜び！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-332.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-332.html"/>
+        <updated>2022-09-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いまやっている不思議なチケットイベントで50枚チケを集めるともらえる1000ULT選択Boxがやっともらえる状態になりました＾＾とは言っても周りのみんなのように自力で50枚集めたのではなくわたしが集めたのは38枚で残りはメンテ延長の補填10枚と本人には何が不具合だったのかわからない金鯖補填の2枚を合わせて50枚達成だったりします＾＾；みなさんすごいなって実感＾＾；1000umはもちろんですが唯一の1000超えキャラであるオオカ]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ゲーム全般】頑張り過ぎはよくない]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-919.html</id>
