@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T09:03:32.263Z</updated>
+    <updated>2022-09-28T09:46:53.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1188,15 +1188,6 @@ The post 2022年7～8月総括【RED STONE】 first appeared on 無職と美学�
         <summary type="html"><![CDATA[7000本でNを売ってもらって完成させました。完成したところで、当面は検証でしか使わないんですけどね。表記制限されていなければこんなOP構成にしないのですが、表記制限下ではこれが最適解ですね。物理痛くない...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖！悪魔育成パート９！【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=_KkgBQPXQ2c</id>
-        <link href="https://www.youtube.com/watch?v=_KkgBQPXQ2c"/>
-        <updated>2022-08-29T21:26:39.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
