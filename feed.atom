@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T04:53:16.724Z</updated>
+    <updated>2022-09-28T06:12:16.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1197,16 +1197,6 @@ The post 2022年7～8月総括【RED STONE】 first appeared on 無職と美学�
         <updated>2022-08-29T21:26:39.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フロントラインが買えないので]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202208280000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202208280000/"/>
-        <updated>2022-08-29T16:58:58.000Z</updated>
-        <summary type="html"><![CDATA[レッドストーンが面倒くさくなってきましたね。どうせ精鋭討伐でボコボコ出て値下がりするのが分かってるのに、飛びついてまで買うのはポリシーに反するんですよね。（7000で買えないなら要らん）検証はやらない...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
