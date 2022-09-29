@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T00:00:55.620Z</updated>
+    <updated>2022-09-29T02:55:13.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1241,16 +1241,6 @@ The post 2022年7～8月総括【RED STONE】 first appeared on 無職と美学�
         <summary type="html"><![CDATA[復帰してから２週間くらい経ちました＾＾イン時間が短く人がいない事の多い時間に来てるためか主な活動時間が6～6:40ですから＾＾；全く会えない人が多く、まだわたしの復帰を知らなかったりGチャ挨拶やG募集の全チャ履歴をみてその存在を後から気づいた人もいるのかなと思います＾＾；そういえばGメン募集叫びしてたら耳くれた方が5人位いたのでうれしかったです＾＾この2週間でわたしがしてたのは主にメインキャラのオオカミ少年]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[検証の準備を進めていきますか]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202208300000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202208300000/"/>
-        <updated>2022-08-30T12:44:37.000Z</updated>
-        <summary type="html"><![CDATA[7000本でNを売ってもらって完成させました。完成したところで、当面は検証でしか使わないんですけどね。表記制限されていなければこんなOP構成にしないのですが、表記制限下ではこれが最適解ですね。物理痛くない...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
