@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T22:55:09.926Z</updated>
+    <updated>2022-09-29T23:34:26.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[魔法強打リトルLv1501狩り装備【RED STONE】]]></title>
+        <id>https://chorrealism.com/?p=3440</id>
+        <link href="https://chorrealism.com/redstone/lv1501-little/"/>
+        <updated>2022-09-29T23:06:00.000Z</updated>
+        <summary type="html"><![CDATA[SS撮ったのが先週なのでLv1501にしてるけど、現在はLv1531。装備に変更を加えたわけでもないし、Lv1501時点で最終狩場のヤティ暁なのでどっちで書いても変わらないのだけども笑 3月にあった風船イベント以後ほぼ狩 […]
+The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なんだこれ？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-898.html</id>
