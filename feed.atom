@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T11:51:31.836Z</updated>
+    <updated>2022-09-29T12:52:24.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1229,18 +1229,6 @@ T力比と迷いましたが、今回はT運比でチャレンジすることに
 The post 2022年7～8月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
         <author>
             <name>cho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長女成長記録]]></title>
-        <id>https://rs-clair-de-lune.com/2022-08-31/</id>
-        <link href="https://rs-clair-de-lune.com/2022-08-31/"/>
-        <updated>2022-08-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月末日に更新される世にも珍しい月刊ブログと化している当サイトです。
-月の終わりになると何かやり残していることはないか…と考え、「あっ！ブログ！」となってこうなることが多いためです。 ちなみに私は学生時代夏休みの宿題は最後の週に駆け込みで終わらせるタイプでした。
-金鯖は…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
 </feed>
