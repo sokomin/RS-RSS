@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T21:55:07.351Z</updated>
+    <updated>2022-09-29T22:27:19.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1188,16 +1188,6 @@ T力比と迷いましたが、今回はT運比でチャレンジすることに
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本日も討伐！UMUは影も形も見えません！]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1110.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1110.html"/>
-        <updated>2022-08-31T10:11:05.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは～ハニーです！例によってギルチャのSSが残ってなかったりしますが、討伐のお誘いを受けました。＾＾ｘ７０連荘！！当然ねらいはUMUです！！！結果は！！！！なんと！！！！！UMU落ちません！！！！！！！まああれでしょ物欲センサーが働いてしまったのでしょう！なんか落ちるような気がしたんだけど錯覚でしたｗ次は倍の１４０枚ためて連荘します！（フレンドが！）ん～でも、どうせ落ちないなら拾って結晶石にすればよ]]></summary>
-        <author>
-            <name>リン・ドール</name>
         </author>
     </entry>
 </feed>
