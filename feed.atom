@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T11:23:46.848Z</updated>
+    <updated>2022-09-29T11:51:31.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なんだこれ？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-898.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-898.html"/>
+        <updated>2022-09-29T11:50:23.000Z</updated>
+        <summary type="html"><![CDATA[知識、物理ときたし、ペット系統もあるだろうなと思って露店検索機能を使いました。もしかしたら乗ってるかもしれないし、名前もわかる！と思って検索しました。なんか多くない？え？もしかして物理指の違うタイプが…？知識指は割と完結していたけど…致命型？知らんな。もしかしたら別の指輪なのかもしれないが…まぁ期待して損はないか。一応隠しているけど、露店検索で指輪と入れてスクロールしたらありますよっと。調べようと思]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[書き起こし怪談「幽霊の味」]]></title>
         <id>gregorio29.blog.shinobi.jp://entry/320</id>
@@ -1231,16 +1241,6 @@ The post 2022年7～8月総括【RED STONE】 first appeared on 無職と美学�
 金鯖は…]]></summary>
         <author>
             <name>The Adventure Of The Jacks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[残り1週間]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-328.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-328.html"/>
-        <updated>2022-08-30T23:30:12.000Z</updated>
-        <summary type="html"><![CDATA[復帰してから２週間くらい経ちました＾＾イン時間が短く人がいない事の多い時間に来てるためか主な活動時間が6～6:40ですから＾＾；全く会えない人が多く、まだわたしの復帰を知らなかったりGチャ挨拶やG募集の全チャ履歴をみてその存在を後から気づいた人もいるのかなと思います＾＾；そういえばGメン募集叫びしてたら耳くれた方が5人位いたのでうれしかったです＾＾この2週間でわたしがしてたのは主にメインキャラのオオカミ少年]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
