@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T12:52:24.868Z</updated>
+    <updated>2022-09-29T13:56:41.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1218,17 +1218,6 @@ T力比と迷いましたが、今回はT運比でチャレンジすることに
         <summary type="html"><![CDATA[金鯖期間中、丸々がっつり更新サボりましたね(；´ω｀)まぁ、実際これといったイベントはなかったのと新規開催が課金のキャンペーンくらいしかありませんでしたしね。金鯖終了まで残り1週間、既に育成完了してる人が殆どかと思いますが終了まで楽しんでほしいところですねぇ。因みに僕は最初2，3日で370辺りまで上げて以降はログインボーナスもらいにインするくらいのような状態です...(　= =)いやー・・・arkが止められない。なん]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年7～8月総括【RED STONE】]]></title>
-        <id>https://chorrealism.com/?p=3392</id>
-        <link href="https://chorrealism.com/redstone/su220831/"/>
-        <updated>2022-08-31T01:02:46.000Z</updated>
-        <summary type="html"><![CDATA[6月の前半からINがまばらになりクリーチャー冒険だけする日々。キャプテン実装前後で若干余裕ができ、キャプテンをスクロール＋レポで育成。その後、地下墓地B1でワンパンできる気がしなかったので、Lv920弱までディメンション […]
-The post 2022年7～8月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
 </feed>
