@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T22:27:54.646Z</updated>
+    <updated>2022-09-30T22:55:30.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1121,42 +1121,6 @@ T力比と迷いましたが、今回はT運比でチャレンジすることに
         <updated>2022-09-01T11:25:05.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.8月のドロップ~♪]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/a74576adcad1b14bd2c37aa10732f548</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/a74576adcad1b14bd2c37aa10732f548?fm=rss"/>
-        <updated>2022-09-01T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[9月です。
-
-
-知識ID
-
-
-霊珠がでません(´・ω・`)
-
-記事でも書きましたがルナティックサーハントに覚醒タイプを変更。
-通常の狩りに支障はないです。範囲は狭くて若干使いにくいですが・・・
-ただ敏捷が低いのか運が低いのか450の王宮指名手配犯にはなかなか当たらず苦戦。
-へっぽこ装備の場合アージェントサーハントの方がよいかも・・・と実感しました。
-2次転生したら元に戻そうかな(´・ω・`)
-その辺りは装備と相談ですね。
-
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
