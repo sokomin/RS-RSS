@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T10:55:32.914Z</updated>
+    <updated>2022-10-01T11:21:47.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[狩り装備強化などなど]]></title>
+        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202210010000/</id>
+        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202210010000/"/>
+        <updated>2022-10-01T11:10:26.000Z</updated>
+        <summary type="html"><![CDATA[みなさんこんばんは。魔法の壁です。先々週のメンテ後にこんなロトが始まりましたね。ほぉほぉ、アルファロトですか。初心の指輪とかいう初心もクソもないような指輪が出て来ましたが、まじで強いですね。魔法強...]]></summary>
+        <author>
+            <name>裁判官</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.9月のドロップ~♪]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/16ea5df10d1f656417cfb849d01a8807</id>
