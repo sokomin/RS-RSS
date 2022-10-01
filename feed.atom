@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T23:29:21.036Z</updated>
+    <updated>2022-10-01T23:58:43.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1144,6 +1144,15 @@ T力比と迷いましたが、今回はT運比でチャレンジすることに
 そんな感じで[壁]ω・)ノシシ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖！悪魔育成パート１１！【GoldEx World】]]></title>
+        <id>https://www.youtube.com/watch?v=qy5weCPlngk</id>
+        <link href="https://www.youtube.com/watch?v=qy5weCPlngk"/>
+        <updated>2022-09-02T21:36:33.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
