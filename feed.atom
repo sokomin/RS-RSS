@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T09:00:27.448Z</updated>
+    <updated>2022-10-01T09:33:35.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.9月のドロップ~♪]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/16ea5df10d1f656417cfb849d01a8807</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/16ea5df10d1f656417cfb849d01a8807?fm=rss"/>
+        <updated>2022-10-01T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[10月になりました。
+
+
+
+
+
+
+
+霊珠がでないと書いていたら霊珠が出ましたｗｗｗ
+ドロップ率アップイベントのおかげか、アチャは100体狩りだけでU品5個という最高記録をだしました。
+もちろんでない日の方が多いですけどね＾＾；
+
+
+メイドに続いて剣士が転生しました。
+知識剣士もなかなか面白いですが、剣士は物理でいいかな。。。と思う今日この頃。
+年内に転生できそうなのがマスケと武道家、
+武道家は殴り一択ですが、マスケはどうしようかな。
+正直アルケミの方がいいなぁ・・・と思ったりして。
+もうちょっと悩みたいと思います。
+
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ざっくりキャプテン覚醒調査報告]]></title>
         <id>https://rs-clair-de-lune.com/2022-09-30/</id>
@@ -1100,15 +1141,6 @@ T力比と迷いましたが、今回はT運比でチャレンジすることに
         <id>https://www.youtube.com/watch?v=qy5weCPlngk</id>
         <link href="https://www.youtube.com/watch?v=qy5weCPlngk"/>
         <updated>2022-09-02T11:26:48.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖！悪魔育成パート１０！【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=rK4-6ndpWz4</id>
-        <link href="https://www.youtube.com/watch?v=rK4-6ndpWz4"/>
-        <updated>2022-09-01T21:25:48.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>

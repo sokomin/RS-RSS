@@ -404,16 +404,6 @@
           "wordCount": null,
           "title": "【REDSTONE】２０２２年金鯖！悪魔育成パート１１！【GoldEx World】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rK4-6ndpWz4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rK4-6ndpWz4",
-          "publishedOn": "2022-09-01T21:25:48.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】２０２２年金鯖！悪魔育成パート１０！【GoldEx World】",
-          "imageUrl": null
         }
       ]
     },
@@ -1119,6 +1109,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/16ea5df10d1f656417cfb849d01a8807",
+          "author": null,
+          "description": "10月になりました。\n\n\n\n\n\n\n\n霊珠がでないと書いていたら霊珠が出ましたｗｗｗ\nドロップ率アップイベントのおかげか、アチャは100体狩りだけでU品5個という最高記録をだしました。\nもちろんでない日の方が多いですけどね＾＾；\n\n\nメイドに続いて剣士が転生しました。\n知識剣士もなかなか面白いですが、剣士は物理でいいかな。。。と思う今日この頃。\n年内に転生できそうなのがマスケと武道家、\n武道家は殴り一択ですが、マスケはどうしようかな。\n正直アルケミの方がいいなぁ・・・と思ったりして。\nもうちょっと悩みたいと思います。\n\n\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/16ea5df10d1f656417cfb849d01a8807?fm=rss",
+          "publishedOn": "2022-10-01T08:30:00.000Z",
+          "wordCount": 1340,
+          "title": "2022.9月のドロップ~♪",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/38/98/cb6f57499360a90ed3721555648fdb1b.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/ae6676539d0b82889d523779c6759a5d",
           "author": null,
