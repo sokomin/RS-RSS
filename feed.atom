@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T00:00:10.102Z</updated>
+    <updated>2022-10-01T03:13:04.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1111,16 +1111,6 @@ T力比と迷いましたが、今回はT運比でチャレンジすることに
         <updated>2022-09-01T21:25:48.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今更タビアクートソロ]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202209010000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202209010000/"/>
-        <updated>2022-09-01T14:53:35.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんばんは。魔法の壁です。さて、1000UMUが出ると噂の精鋭討伐に行ってきました。動画も撮っておりますので良ければどうぞ。​YouTubeの動画へ​完全復活で復活はできるのですが、スフィアULTが無いのでデ...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
