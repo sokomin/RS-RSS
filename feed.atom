@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T23:29:21.174Z</updated>
+    <updated>2022-10-02T23:58:29.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1101,6 +1101,15 @@ The post ギターコンクール終了・プレリュード第３番【ギタ�
         <id>https://www.youtube.com/watch?v=0AxSGPlX37Y</id>
         <link href="https://www.youtube.com/watch?v=0AxSGPlX37Y"/>
         <updated>2022-09-04T11:22:51.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２２年金鯖！悪魔育成パート１２！最終回！【GoldEx World】]]></title>
+        <id>https://www.youtube.com/watch?v=-tX_OEXO-sg</id>
+        <link href="https://www.youtube.com/watch?v=-tX_OEXO-sg"/>
+        <updated>2022-09-04T03:52:51.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>
