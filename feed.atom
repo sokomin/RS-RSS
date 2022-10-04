@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T02:31:57.520Z</updated>
+    <updated>2022-10-04T04:02:04.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1083,25 +1083,6 @@ The post ギターコンクール終了・プレリュード第３番【ギタ�
         <updated>2022-09-05T02:43:51.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖紅白Gvに出る悪魔を半日で育成する会【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=zxYmd0IChcs</id>
-        <link href="https://www.youtube.com/watch?v=zxYmd0IChcs"/>
-        <updated>2022-09-04T15:46:02.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[取得経験値]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-763.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-763.html"/>
-        <updated>2022-09-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日息子が私に「ボンバーマンの連続爆破のやつがどうしてもやりたい」と急にわがままを言うので最強パスワードを教えてあげたらこれやってました私も若い頃はゴーデス出しまくるくらいやり込んだものですAボタン押しっぱで扉に爆風を当ててわざと敵を出し倒しまくって点を稼いだりしたものですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
