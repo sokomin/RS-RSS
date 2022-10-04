@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T16:49:28.298Z</updated>
+    <updated>2022-10-04T17:44:48.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1073,17 +1073,6 @@ The post SUMMER/久石譲【ギター】 first appeared on 無職と美学とシ
         <summary type="html"><![CDATA[公式にのってねぇ生放送…そのうち告知くるのかな？ツイッターで見つけた。でも公式がRTしてない【2022年金鯖最後の公式生放送】9/6(火)20時から。だいぶ前にあったライデン池田の野望金鯖編。最後のレベ上げを行うらしいのです。時間がある人は手伝ったり外掛けをしたりするといいかも？ならば俺はSlvがいかれたブレエビをかける生放送に飛ぶリンクそういえばだけど、アプデ前にやる生放送はないんだねまぁ当日をお楽しみにってこ]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ギターコンクール終了・プレリュード第３番【ギター】]]></title>
-        <id>https://chorrealism.com/?p=3364</id>
-        <link href="https://chorrealism.com/guitar-music/prelude-no3/"/>
-        <updated>2022-09-05T05:40:10.000Z</updated>
-        <summary type="html"><![CDATA[毎年７月末～お盆に資格試験＋アマ向けギターコンクールがあるのだけど、今年はタイミングが８月の頭にほぼ被っていて一週のうちにすべてが終わるような怒涛の週が出てしまった。 コンクールのことを書くのを契機として、今年こそこのブ […]
-The post ギターコンクール終了・プレリュード第３番【ギター】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
 </feed>
