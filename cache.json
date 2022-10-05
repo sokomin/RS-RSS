@@ -896,16 +896,6 @@
           "wordCount": 365,
           "title": "2022金鯖終了！",
           "imageUrl": null
-        },
-        {
-          "id": "http://jendoradoo.blog.fc2.com/blog-entry-329.html",
-          "author": "ジェンド",
-          "description": "今年の金鯖も終わりとなりました＾＾わたし的には途中参加で時間もあまりなかった割にはキャプテンのレベル８９２まで行けたのでよかったかなと思います＾＾月曜朝の時点のレベルです！出来れば９００行きたかったと思いますが水曜日の朝のレイドに参加出来たらギリギリ行けるのかな？という感じでそれ以外だと狩りでもう少し上がるかもしれないかな？という状態です＾＾これ書いてるのが月曜なので火曜の朝＆夜と水曜の朝次第なの",
-          "link": "http://jendoradoo.blog.fc2.com/blog-entry-329.html",
-          "publishedOn": "2022-09-05T23:30:00.000Z",
-          "wordCount": 365,
-          "title": "金鯖８９２+α",
-          "imageUrl": null
         }
       ]
     },
@@ -1089,6 +1079,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/950d70797f2cc1624b698bd0cf69f556",
+          "author": null,
+          "description": "寒いです(´・ω・`)\n\nSEPTEMBER UPDATE -->\n\n\n\n(3ボックスドロップイベント\n\n9月7日メンテ後から10月5日メンテ前まで\n前期（9/7から9/21：「コンテスト装備BOX」\n後期（9/21から10/5）：「コンテスト装備BOXⅡ」\n後期「コンテスト装備BOXⅡ」がドロップします。\n\n9月7日メンテ後から10月5日メンテ前まで\n\n\n課金イベントはこちら\n\n\n\n\n9月21日メンテ後から10月12日メンテ前まで\n\n\n大変な更新は来週に持ち越しですね。\nとりあえず不具合を何とかしてほしいですが・・・・\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/950d70797f2cc1624b698bd0cf69f556?fm=rss",
+          "publishedOn": "2022-10-05T11:30:00.000Z",
+          "wordCount": 1368,
+          "title": "2022.10.5 イベ更新",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/71/a6/deca5d5f9af14d9a9e8bfb52caa8531f.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/16ea5df10d1f656417cfb849d01a8807",
           "author": null,
