@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T02:30:52.667Z</updated>
+    <updated>2022-10-05T03:53:23.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1063,16 +1063,6 @@ The post SUMMER/久石譲【ギター】 first appeared on 無職と美学とシ
         <summary type="html"><![CDATA[今年の金鯖も終わりとなりました＾＾わたし的には途中参加で時間もあまりなかった割にはキャプテンのレベル８９２まで行けたのでよかったかなと思います＾＾月曜朝の時点のレベルです！出来れば９００行きたかったと思いますが水曜日の朝のレイドに参加出来たらギリギリ行けるのかな？という感じでそれ以外だと狩りでもう少し上がるかもしれないかな？という状態です＾＾これ書いてるのが月曜なので火曜の朝＆夜と水曜の朝次第なの]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偶然見つけたんだけど…]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-886.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-886.html"/>
-        <updated>2022-09-05T15:16:38.000Z</updated>
-        <summary type="html"><![CDATA[公式にのってねぇ生放送…そのうち告知くるのかな？ツイッターで見つけた。でも公式がRTしてない【2022年金鯖最後の公式生放送】9/6(火)20時から。だいぶ前にあったライデン池田の野望金鯖編。最後のレベ上げを行うらしいのです。時間がある人は手伝ったり外掛けをしたりするといいかも？ならば俺はSlvがいかれたブレエビをかける生放送に飛ぶリンクそういえばだけど、アプデ前にやる生放送はないんだねまぁ当日をお楽しみにってこ]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
