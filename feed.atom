@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T06:47:50.084Z</updated>
+    <updated>2022-10-05T07:36:54.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1242.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1242.html"/>
+        <updated>2022-10-05T07:19:18.000Z</updated>
+        <summary type="html"><![CDATA[゜。°。°。°。°。°。°。°。゜。°。°。°。REDSTONEオーラ開放イベント狩り中に出るオーラを開放するとクリーチャーのマナがドロップするようです。確か以前にもやった事のあるイベントですね。マナのドロップは確率らしいので、確定ドロップではないですね。来週メンテ前まではマナ(中)が、来週メンテ後からはマナ(大)が出るようです。゜。°。°。°。°。°。°。°。゜。°。°。°。課金キャンペーンはスフィアリミテッドキャンペーンが新]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チケイベ終了。]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-333.html</id>
