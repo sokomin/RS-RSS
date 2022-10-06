@@ -257,16 +257,6 @@
           "wordCount": null,
           "title": "ただいまB鯖！キャプテン覚醒と地図改変を見ていこう！【 REDSTONE 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xo5UFZi7XIw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xo5UFZi7XIw",
-          "publishedOn": "2022-09-06T14:35:31.000Z",
-          "wordCount": null,
-          "title": "金鯖2022 最終日オークション＆古都　定点観測 【 REDSTONE 】",
-          "imageUrl": null
         }
       ]
     },
@@ -274,18 +264,7 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": [
-        {
-          "id": "https://intothe.info/?p=1686",
-          "author": "marsborn",
-          "description": "この1年近く精鋭討伐くらいしかやってなかったので迷ったけれども参加な...",
-          "link": "https://intothe.info/red-stone/goldex2022/",
-          "publishedOn": "2022-09-06T15:27:54.000Z",
-          "wordCount": 872,
-          "title": "金鯖2022後記",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "魔法の壁のリアルライふ",
