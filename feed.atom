@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-06T22:27:10.014Z</updated>
+    <updated>2022-10-06T22:56:02.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1079,25 +1079,6 @@ The post SUMMER/久石譲【ギター】 first appeared on 無職と美学とシ
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重要＆新着イベント情報]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1239.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1239.html"/>
-        <updated>2022-09-07T10:33:36.000Z</updated>
-        <summary type="html"><![CDATA[･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ SEPTEMBER UPDATE終わった辺りで大量のイベントか、アプデあるかなと思ってましたけどどっちもあったようですね・・・そのせいでメンテ延長なってたのかな。キャプテンの覚醒とか宝地図改変とか色々あるようです。アプデ内容は公式サイトのアプデページでご確認ください。･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ 金鯖お疲れ様的なイベント多数、ですかね？イベント数は課金キャンペ]]></summary>
-        <author>
-            <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】2022年9月アップデート情報！キャプテン覚醒！神？！チケイベ！【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=V8gE1dSJxj4</id>
-        <link href="https://www.youtube.com/watch?v=V8gE1dSJxj4"/>
-        <updated>2022-09-07T10:32:56.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
