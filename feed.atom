@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-07T11:40:22.167Z</updated>
+    <updated>2022-10-07T11:54:37.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1005,16 +1005,6 @@ The post SUMMER/久石譲【ギター】 first appeared on 無職と美学とシ
         <summary type="html"><![CDATA[2022年金鯖が終わったけど、本鯖で何をしたらいいのかわからない人向け。ざっくりまとめだから、各自確認が必要なとこもある。【ログインキャンペーン関連の処理】公式HPに行かないといけないのが1個、あとはゲーム内処理3個。まぁ実際は2個なんだけども…800レべ以上のキャラ作って25日以上ログインすりゃいいから。で、ゲーム内処理の2つは…1 その日の初回ログインに出るやつに追加タブがあるのでそこで入手するやつ2 古都のNPCイ]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022/9/7 日本赤石アプデ考察]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202209080000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202209080000/"/>
-        <updated>2022-09-07T23:46:40.000Z</updated>
-        <summary type="html"><![CDATA[本日8:30より実施しております定期メンテナンスにつきまして、不具合を確認し、調査・修正のため、終了時間を未定とさせて頂きます。ご迷惑をおかけいたしまして誠に申し訳ございませんが、メンテナンス終了まで...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
