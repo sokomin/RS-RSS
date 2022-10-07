@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-07T00:00:22.554Z</updated>
+    <updated>2022-10-07T02:41:54.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1034,16 +1034,6 @@ The post SUMMER/久石譲【ギター】 first appeared on 無職と美学とシ
         <summary type="html"><![CDATA[買った直後に無料で配布されるなんて、ブログネタとして最高ですよね。ですが、自力で買うということに拘った結果なので、大損しましたがあまり気にしていません。もう欲しいアイテムもあまりないですしね。イン...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いくらなんでも荒れすぎなアプデ明け]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-887.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-887.html"/>
-        <updated>2022-09-07T12:42:27.000Z</updated>
-        <summary type="html"><![CDATA[接続死、金鯖キャラ消失、接続不可…はいはいいつものといいたいところだけど、キャラ消失はちょっと…とにかく今はいつも通りまとめよう。とはいっても運営がまとめてるページあるんですけど。【配布品とか】・港町Box・金鯖のレベルに応じた後述イベのチケット・デザインコンテスト最優秀賞受賞者への連絡・キャラスロの上限が14に・黄金人形や各種幸運チケの一部機能が即時対応可能に・混沌関係の便利アイテム追加これは公式のあ]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
