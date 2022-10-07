@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-07T15:00:34.317Z</updated>
+    <updated>2022-10-07T15:35:37.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -995,16 +995,6 @@ The post SUMMER/久石譲【ギター】 first appeared on 無職と美学とシ
         <summary type="html"><![CDATA[公式でも載ってはいましたけど接続を制限してるようですね。おかげで昨日のメンテ後からずっとインできてませんけど。今日のP戦も僕はインできなかったので多分行けてないでしょうし。なんか明日とか明後日まで続いてそうな気もしなくはない・・・。いっそ臨時メンテにして直した方が早そうな気もするけど、どうなんでしょうねぇ。とりあえずまだ暫くは待機ですかねぇ。その分arkに時間がつぎ込まれてるんですがね。]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年金鯖後にやること]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-888.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-888.html"/>
-        <updated>2022-09-08T03:33:25.000Z</updated>
-        <summary type="html"><![CDATA[2022年金鯖が終わったけど、本鯖で何をしたらいいのかわからない人向け。ざっくりまとめだから、各自確認が必要なとこもある。【ログインキャンペーン関連の処理】公式HPに行かないといけないのが1個、あとはゲーム内処理3個。まぁ実際は2個なんだけども…800レべ以上のキャラ作って25日以上ログインすりゃいいから。で、ゲーム内処理の2つは…1 その日の初回ログインに出るやつに追加タブがあるのでそこで入手するやつ2 古都のNPCイ]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
