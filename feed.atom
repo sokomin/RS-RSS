@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-08T02:23:07.118Z</updated>
+    <updated>2022-10-08T03:49:26.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -975,26 +975,6 @@ The post SUMMER/久石譲【ギター】 first appeared on 無職と美学とシ
         <updated>2022-09-08T17:29:03.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IFテイル蠱惑]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202209080000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202209080000/"/>
-        <updated>2022-09-08T14:52:26.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんばんは。魔法の壁です。なんだか超大型メンテナンスでしばらくログインができないようです。詫び石はフロントミッションでOKです。最近思う事があるのですが、悪魔の1000UMU武器ってしょぼくないです...]]></summary>
-        <author>
-            <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ログイン不可]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1240.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1240.html"/>
-        <updated>2022-09-08T14:46:04.000Z</updated>
-        <summary type="html"><![CDATA[公式でも載ってはいましたけど接続を制限してるようですね。おかげで昨日のメンテ後からずっとインできてませんけど。今日のP戦も僕はインできなかったので多分行けてないでしょうし。なんか明日とか明後日まで続いてそうな気もしなくはない・・・。いっそ臨時メンテにして直した方が早そうな気もするけど、どうなんでしょうねぇ。とりあえずまだ暫くは待機ですかねぇ。その分arkに時間がつぎ込まれてるんですがね。]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
