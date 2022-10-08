@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-08T21:52:57.485Z</updated>
+    <updated>2022-10-08T22:25:50.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -977,15 +977,6 @@ The post SUMMER/久石譲【ギター】 first appeared on 無職と美学とシ
         <summary type="html"><![CDATA[金鯖が終わり、アニバーサリーが始まり、季節の移り変わりを感じる今日この頃。いかがお過ごしでしょうか、第三の猫です。よく考えたら、金鯖からアニバーサリーイベントの流れを見たのは、今年が初めてでした（適当なことを言ってしまいました）さて、今回はメインクエストの続きをやっていきます。前回遭遇したNPCのエステルさんが、シーズン１でいう会長のポジションみたいです。話の流れは、主にストレンジの調査です。ブラッ]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】キャプテン覚醒実装！全部やるっぞ！【GoldEx World】]]></title>
-        <id>https://www.youtube.com/watch?v=qJTnwC5m3q8</id>
-        <link href="https://www.youtube.com/watch?v=qJTnwC5m3q8"/>
-        <updated>2022-09-09T10:13:06.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
