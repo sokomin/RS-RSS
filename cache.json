@@ -265,6 +265,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XUgsabpq7ns",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XUgsabpq7ns",
+          "publishedOn": "2022-10-09T01:23:31.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記＃３６　朝活　戦士狩り",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kIeXsZoYcTg",
           "author": null,
           "description": "",
