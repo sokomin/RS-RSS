@@ -265,6 +265,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T1SFsHgKVIY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T1SFsHgKVIY",
+          "publishedOn": "2022-10-09T09:31:44.000Z",
+          "wordCount": null,
+          "title": "【Cities: Skylines】ロイ４世の都市建設#１",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XUgsabpq7ns",
           "author": null,
           "description": "",
@@ -322,16 +332,6 @@
           "publishedOn": "2022-09-11T07:55:48.000Z",
           "wordCount": null,
           "title": "【REDSTONE】玲瓏な混沌の破片がほしいゾ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qJTnwC5m3q8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qJTnwC5m3q8",
-          "publishedOn": "2022-09-09T21:47:56.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】キャプテン覚醒実装！全部やるっぞ！",
           "imageUrl": null
         }
       ]
