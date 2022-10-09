@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-09T14:52:43.694Z</updated>
+    <updated>2022-10-09T15:28:12.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[突然のめまい]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-768.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-768.html"/>
+        <updated>2022-10-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先週の半ばに息子が学校を早退してきましためまいが酷く歩くのも大変な状態でした一週間ほど休養をして今は元気になっています部屋でこれを見て大笑いしている程にまで回復しています季節の変わり目で疲れが出たのだと思いますみなさんも気をつけてくださいこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Cities: Skylines】ロイ４世の都市建設#１]]></title>
         <id>https://www.youtube.com/watch?v=T1SFsHgKVIY</id>
