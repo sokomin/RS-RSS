@@ -209,6 +209,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uDVPvYcedAo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uDVPvYcedAo",
+          "publishedOn": "2022-10-10T07:35:37.000Z",
+          "wordCount": null,
+          "title": "黒魔育成配信#3【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BeOQnFvk0fE",
           "author": null,
           "description": "",
