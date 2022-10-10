@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-10T14:06:42.092Z</updated>
+    <updated>2022-10-10T14:54:01.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[実質TNPC]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-901.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-901.html"/>
+        <updated>2022-10-10T14:14:53.000Z</updated>
+        <summary type="html"><![CDATA[使わないのに作っちゃった☆経緯①運増強素材を作成②手持ちにW運比ランディス足がある③いつぞやのNPC称号ロトでランディスが出てる④ランディスを貼り付ける⑤運増強も貼り付ける⑥できちゃった☆1101レべで装備するとちゃんと7/3増えるのを確認しました。DXUだから貼り付けできるから楽。固定増強系統もだいぶでてきたから、そろそろこういった装備も増えていくんだろうなぁ。ULTOPとの差し替え、素材の提供もある程度は出ているけども]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黒魔育成配信#3【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=uDVPvYcedAo</id>
