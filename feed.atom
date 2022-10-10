@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-10T17:42:27.542Z</updated>
+    <updated>2022-10-10T18:37:44.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -996,58 +996,6 @@ The post SUMMER/久石譲【ギター】 first appeared on 無職と美学とシ
         <updated>2022-09-11T07:55:48.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剣士の覚醒 －嵐の剣士－]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/fc0e37d7bb8a205d45497f3129725f9a</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/fc0e37d7bb8a205d45497f3129725f9a?fm=rss"/>
-        <updated>2022-09-11T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[朝晩は涼しいですが日中はまだまだ暑いですね。
-
-覚醒タイプは「嵐の剣士」
-
-「一挙両得」
-
-専用強化スキルは「トワリングプロテクター」
-
-方向性範囲・・・・かな？
-
-強化スキルの１つは「コンプリートプロテクション」
-
-竜巻を1体の敵にくらわして、持続的にダメを与えます。
-
-もう１つの強化スキルは「ウォークライ」
-
-周囲の敵にダメを与えるスキル。
-範囲は意外と広めな気がします。
-
-
-剣士は自動的に力があがるので、知識タイプはどうだろう・・・といまだに悩み中。
-加えて盾で攻撃をするのでシマーが使えなくなるのが痛い。
-実戦で狩れるかどうかかなり心配ですが・・・・(￣ω￣;)
-ちなみに剣士は物理装備のため知識装備が揃ってません。
-仕方ないので、協会で装備を借りてきました。
-いつの間にか協会借り物装備が変わっていましたね。
-既存の装備の廉価版ではなく、本当の境界装備になったので意外と使えるかもしれません。
-
-
-とりあえずこれで当分狩ってみましょう。
-
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
