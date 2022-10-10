@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-10T19:42:45.919Z</updated>
+    <updated>2022-10-10T20:29:15.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -987,15 +987,6 @@ The post SUMMER/久石譲【ギター】 first appeared on 無職と美学とシ
         <summary type="html"><![CDATA[先日息子が聞いてきたのですが「文系と理系　どっちに進んだら良いのかなぁ・・・」との事でした私は思い出してこれを見せました毎回とても興味深く見ております息子もこれを見て何か思うところがあり参考になった様子です当時数学が壊滅的だった私が言えることではありませんが！こんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】玲瓏な混沌の破片がほしいゾ]]></title>
-        <id>https://www.youtube.com/watch?v=E410X1fitYs</id>
-        <link href="https://www.youtube.com/watch?v=E410X1fitYs"/>
-        <updated>2022-09-11T07:55:48.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
