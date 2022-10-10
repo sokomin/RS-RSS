@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-10T20:29:15.324Z</updated>
+    <updated>2022-10-10T20:56:43.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -968,6 +968,15 @@ The post SUMMER/久石譲【ギター】 first appeared on 無職と美学とシ
         <summary type="html"><![CDATA[楽しかったREDSTONEよ、もう一度・・・ということで、金鯖から持ち帰ったキャプテンを育成し、Lv1600目指していこうとおもう。現在Lv922だけどな！覚醒スタイルは知識。これは最初から決めており、一番の理由は装備の使いまわしができるから。使いまわしも何も、物理装備持ってないから、知識覚醒は必然ｗ覚醒スキルの使用感が上々だったので、まずは装備を整えるところから。武器知識用775UMU30本が高いのか安いのか分からないが]]></summary>
         <author>
             <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】玲瓏な混沌の破片がほしいゾ]]></title>
+        <id>https://www.youtube.com/watch?v=E410X1fitYs</id>
+        <link href="https://www.youtube.com/watch?v=E410X1fitYs"/>
+        <updated>2022-09-11T21:23:46.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
