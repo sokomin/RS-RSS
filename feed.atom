@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-12T22:56:02.372Z</updated>
+    <updated>2022-10-12T23:30:36.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -991,15 +991,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[実質石の日二つになったのはこのせい…か？さすがに考えすぎか。【メンテ終了時間変更】19：45になって、終了時間が変更されました。バグ対応が多いだろうし、妥当なとこかな…。こっちの被害はV鯖のクリ冒険枠2つ消し飛んだこと。念のため、公式の詳細適当に公式覗いてたら見つかったので、一応報告。]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShatterLine　初心者配信]]></title>
-        <id>https://www.youtube.com/watch?v=utuVNyriJbo</id>
-        <link href="https://www.youtube.com/watch?v=utuVNyriJbo"/>
-        <updated>2022-09-13T11:10:54.000Z</updated>
-        <author>
-            <name>ひさプッチ</name>
         </author>
     </entry>
 </feed>
