@@ -330,7 +330,18 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=utuVNyriJbo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=utuVNyriJbo",
+          "publishedOn": "2022-09-14T00:13:39.000Z",
+          "wordCount": null,
+          "title": "ShatterLine　初心者配信",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "無職と美学とシュルレアリスム",
