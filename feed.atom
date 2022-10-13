@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T04:50:21.970Z</updated>
+    <updated>2022-10-13T06:03:44.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[もう１個、Wダメ健比滅亡指]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202210130000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202210130000/"/>
+        <updated>2022-10-13T05:24:47.000Z</updated>
+        <summary type="html"><![CDATA[もう１個の滅亡もWダメにしておきました。あとは刻印を上げるだけなんですが、赤い光の刻印書DXが売ってないので気長にやるしかないですね。（昨日３連敗したｗ）では、また次回の更新で！]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wダメ滅亡指]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202210120000/</id>
