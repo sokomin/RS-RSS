@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T02:46:47.490Z</updated>
+    <updated>2022-10-13T04:50:21.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -980,16 +980,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <updated>2022-09-14T00:13:39.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022金鯖終了！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-330.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-330.html"/>
-        <updated>2022-09-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[お盆後からの復帰だったので半分くらいしか参加してませんが今年の金鯖が終わりました＾＾実際にはイン時間も減ってるので例年の1/10くらいしか参加してないですけど＾＾；今年は時間の関係でキャプテンのじぇんど（海）だけ育成していましたが本鯖移行後は青藍遊泳と命名＾＾金鯖は８９３で終了し、本鯖来てからレイド行ったのでいま８９４になってます＾＾いまのところわたしにあまり時間がないのでしばらくは無課金サブGで荷物]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
