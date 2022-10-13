@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T14:47:41.570Z</updated>
+    <updated>2022-10-13T15:28:58.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -971,16 +971,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[前回の記事から引用せーの！でクレセントと同時に撃ち合った10試合の結果物理アーチャー側与ダメ　　物理アーチャー側被ダメ112797                           200000116716                           200000 67...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ギルド選び]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-916.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-916.html"/>
-        <updated>2022-09-14T03:14:56.000Z</updated>
-        <summary type="html"><![CDATA[ブログ徘徊(趣味)していたら、失敗しないギルド選びっていう記事を見かけたので便乗しようとおもう。キャプテン育成？ちまちまやってるけど、報告する程の進捗は無い(もう狩り嫌になり掛けてる、危ない！)ギルド選びギルドに入りたい人には、当然それぞれ理由がある。バフの恩恵を受けたい、ギルメンと楽しい会話がしたい、対人戦がしたい、情報提供を受けたい、討伐参加に加わりたい等、様々だろう。REDSTONEは過疎まっしぐらで、]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
