@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T23:59:52.296Z</updated>
+    <updated>2022-10-14T03:07:03.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -951,26 +951,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[みなさん、チケットで何をもらうか決めましたか？自分は超悩んでる。いや〜、マジ悩むw嬉しい悩みなんだが、悩み過ぎてREDSTONE投げ出しそう。そもそも、どのキャラでもらうべきかも決めきれていないのに、何をもらうかなんて決められるわけがない。よし、まずはどのキャラでもらうかを決めよう！選択肢は以下の3キャラ。1.剣士/戦士知識には間違いないが、節制DTがあまり強くなかったから、風剣士に戻そうか検討中のキャラ。スキ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長きメンテの果てに…]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-892.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-892.html"/>
-        <updated>2022-09-14T14:12:31.000Z</updated>
-        <summary type="html"><![CDATA[ログキャンには間に合ったから、ヨシ！！【配布物とか】・長時間ログイン不可に対するお詫び→1日版スフィア×3、1時間パワキ×20、不思議なチケット×10、プリズムコクーン×2・冒険枠減少した垢にその分のストラップ配布・ありがとう金鯖イベントで不足していたアイテムの配布・ログイン関連のキャンペーン期間変更→ログインSPミッションとSTAMPミッションは10/12(水)メンテまで。いつものログキャンは10/11(火)23:59まで。NPCミッシ]]></summary>
-        <author>
-            <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[検証記事フル]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202209140000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202209140000/"/>
-        <updated>2022-09-14T12:30:50.000Z</updated>
-        <summary type="html"><![CDATA[前回の記事から引用せーの！でクレセントと同時に撃ち合った10試合の結果物理アーチャー側与ダメ　　物理アーチャー側被ダメ112797                           200000116716                           200000 67...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
