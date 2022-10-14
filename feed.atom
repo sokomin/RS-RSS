@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-14T14:50:57.550Z</updated>
+    <updated>2022-10-14T15:30:54.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PVP攻撃1％上げるだけで大変でしたよ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202210150000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202210150000/"/>
+        <updated>2022-10-14T15:26:07.000Z</updated>
+        <summary type="html"><![CDATA[もうこれで十分ですね。赤い光の刻印書DX（成功率30％、破壊確率0％）は、けっこう出にくいようで、数を集めるのが大変でした。刻印上げるのは本当に大変でしたが、これでPVP攻撃が合計250％になりました。切りの...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[もう１個、Wダメ健比滅亡指]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202210130000/</id>
