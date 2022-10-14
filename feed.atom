@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-14T22:27:11.323Z</updated>
+    <updated>2022-10-14T22:56:15.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -907,50 +907,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[2018/09/23　「いつの間にかサービス終了」2020/02/16　「いつの間にかサービス再開」で過去二回取り上げたFPSゲーム「スペシャルフォース2」。この度、二度目のサービス終了。正確には、初代はハンゲームでサービスが提供されており、復活した際はHappyTukという会社？で再開されたものです。FPSゲームなんて全く興味なかったんですが、当時「インストールして数回遊ぶとハンゲーム商品券がもらえる！」というキャンペーンにつら]]></summary>
         <author>
             <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.9.14 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/e313b0b8b4a309ae95cad8a6aa0a66a8</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/e313b0b8b4a309ae95cad8a6aa0a66a8?fm=rss"/>
-        <updated>2022-09-15T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[台風14号が発生しましたね。
-
-
-「アニバーサリーモード」が始まっています
-「不思議なチケットイベント」
-「BIGログインイベント」
-「栄光の箱ドロップイベント」
-「メインクエスト応援イベント」
-「ありがとう金鯖イベント」
-「チャットバフイベント」
-「経験値＆アイテムドロップ率上昇イベント」
-
-
-
-
-
-
-
-
-
-
-9月7日メンテ後から10月5日メンテ前まで
-
-
-不具合は改善されたのでしょうかね。
-とりあえず期待したいと思います。
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
