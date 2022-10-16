@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-16T17:47:31.106Z</updated>
+    <updated>2022-10-16T18:31:01.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -917,25 +917,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[”オーガ物理組合”というサーバーを作りました。https://discord.gg/UpEructa参加してくださる方は、↑このリンクから入ってみてください。参加条件は、アリーナの制限に疑問・不満を持っていて、現状を変えた方が...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今後の方針について]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202209170000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202209170000/"/>
-        <updated>2022-09-17T06:23:13.000Z</updated>
-        <summary type="html"><![CDATA[公式ディスコードにも書きましたが、オーガ物理組合的なものを作って、B鯖だけでなく他鯖の方たちとも意見交換をしたいと思っています。ディスコードに新しいサーバーを作ってそこに集まってもらえばいいかな？デ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識剣士育成配信#5【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=CmCXIVzQi-U</id>
-        <link href="https://www.youtube.com/watch?v=CmCXIVzQi-U"/>
-        <updated>2022-09-17T06:00:36.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
