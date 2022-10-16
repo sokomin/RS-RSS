@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-16T14:53:30.404Z</updated>
+    <updated>2022-10-16T15:27:24.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石の日とスキル不発]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-769.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-769.html"/>
+        <updated>2022-10-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日私の職場の敷地内にあまりみかけない鳥がうずくまったまま動かなくてびっくりしましたこんな感じでしたぷるぷるしていて寒いのかなとも思えましたしもしかしたら調子が悪いのかなとも思えました車が通る場所なのでバケツに入れてどかしてあげようとも思いましたそうこうしてる内に飛び立って行きましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今更ですがダブクリ100万超えました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202210160000/</id>
