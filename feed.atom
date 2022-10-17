@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-17T15:32:30.782Z</updated>
+    <updated>2022-10-17T16:03:41.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -917,16 +917,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディスコードに物理用サーバー作りました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202209180000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202209180000/"/>
-        <updated>2022-09-18T03:50:23.000Z</updated>
-        <summary type="html"><![CDATA[”オーガ物理組合”というサーバーを作りました。https://discord.gg/UpEructa参加してくださる方は、↑このリンクから入ってみてください。参加条件は、アリーナの制限に疑問・不満を持っていて、現状を変えた方が...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
