@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-18T14:49:38.773Z</updated>
+    <updated>2022-10-18T15:32:51.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[同じ道へ]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-335.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-335.html"/>
+        <updated>2022-10-18T15:00:29.000Z</updated>
+        <summary type="html"><![CDATA[現在赤ダメ狩り化計画で健康ネクロから物理ネクロへと変化しているオオカミ少年です。前は知識と力がほとんど同じでしたけど結構力が増えました＾＾前回報告したようにGメンのえこーさんから装備を大量にお借りしてるので狩りはとても楽になりもともと狩り効率の良いキャラを持ってる方だとどうかわかりませんが狩り効率の悪いキャラばかり持ってるわたしにとってはかなり良い感じです＾＾ところで物理ネクロ化した事でキャラがか]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[追記にあるやーつ]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-904.html</id>
