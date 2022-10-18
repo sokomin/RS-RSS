@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-18T14:04:11.938Z</updated>
+    <updated>2022-10-18T14:49:38.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[追記にあるやーつ]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-904.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-904.html"/>
+        <updated>2022-10-18T14:14:52.000Z</updated>
+        <summary type="html"><![CDATA[久しぶりに追記ねじこみタイプ。そういえば適当装備のあれ、久しぶりに更新しておくかな…いつもの3人。]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作った素材色々]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-903.html</id>
