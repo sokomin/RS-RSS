@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-18T02:52:07.396Z</updated>
+    <updated>2022-10-18T04:55:23.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -871,16 +871,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[まずはキャプテンでチケ集め。脳死で集めて、30枚でキャプテン職鎧を交換。錬成して自リロ付けたところで気が付いた。チケット30枚で職鎧交換するとか、俺アホだろ？チケット集め、続けられるのか？1000UMUにたどり着けないかもよ？わああああああ、しまｔったああああ！軽く落ち込んだが、とにかく雨で1000UMUを貰うと決めた以上、狩りをしなければならない。まずは、雨の狩りモチベを上げるために武器を購入。安いのか？分からな]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アプデ後の様子]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-765.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-765.html"/>
-        <updated>2022-09-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[息子はリズムゲームが好きですがこれをやってみたいと言っていましたクラスの友達で得意な子が居るそうですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
