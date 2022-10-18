@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-18T21:27:50.323Z</updated>
+    <updated>2022-10-18T21:54:34.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -881,16 +881,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[私は、１人を攻撃するならビットの方が強いと思っています。スプレッドの良さは、敵をタゲらなくても地面クリックで発動することと、範囲スキルであるという点です。もし１対１で戦うなら、私は今でもビットを使...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】チケット出し状況]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-918.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-918.html"/>
-        <updated>2022-09-19T09:50:20.000Z</updated>
-        <summary type="html"><![CDATA[まずはキャプテンでチケ集め。脳死で集めて、30枚でキャプテン職鎧を交換。錬成して自リロ付けたところで気が付いた。チケット30枚で職鎧交換するとか、俺アホだろ？チケット集め、続けられるのか？1000UMUにたどり着けないかもよ？わああああああ、しまｔったああああ！軽く落ち込んだが、とにかく雨で1000UMUを貰うと決めた以上、狩りをしなければならない。まずは、雨の狩りモチベを上げるために武器を購入。安いのか？分からな]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
