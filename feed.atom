@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-19T07:22:51.503Z</updated>
+    <updated>2022-10-19T08:06:39.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重要＆新着イベント情報]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1244.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1244.html"/>
+        <updated>2022-10-19T07:47:43.000Z</updated>
+        <summary type="html"><![CDATA[･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ アップデート来たようで。新規1250ULT武器とか精鋭討伐難易度追加とか限界ダメージの変更とかあったようです。とりあえず僕にはほぼ全て無縁の更新だらけではありますね。関係してるとしたら不具合修正の悪魔スキルの部分だけかな。･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ 新規開催のイベントは1つですね。゜。°。°。°。°。°。°。°。゜。°。°。°。狩りでドロップするハンターの証を]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[同じ道へ]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-335.html</id>
