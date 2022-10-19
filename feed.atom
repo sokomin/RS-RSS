@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-19T10:50:51.082Z</updated>
+    <updated>2022-10-19T11:25:09.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.10.19 アプデ]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/235628a35685138426f0f5461729cad4</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/235628a35685138426f0f5461729cad4?fm=rss"/>
+        <updated>2022-10-19T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[山の方では紅葉がいい感じになってきました。
+
+
+
+
+(3ボックスドロップイベント
+
+9月7日メンテ後から10月5日メンテ前まで
+前期（9/7から9/21：「コンテスト装備BOX」
+後期（9/21から10/5）：「コンテスト装備BOXⅡ」
+後期「コンテスト装備BOXⅡ」がドロップします。
+
+9月7日メンテ後から10月5日メンテ前まで
+
+
+課金イベントはこちら
+
+
+
+
+10月5日メンテ後から10月26日メンテ前まで
+
+
+さて、今週もまったり楽しみましょう。
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重要＆新着イベント情報]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1244.html</id>
