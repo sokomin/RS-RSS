@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-19T22:58:17.297Z</updated>
+    <updated>2022-10-19T23:36:41.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -923,16 +923,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[9/7より金鯖終了後に開催された「アニバーサリーモード」装備強化において非常に有用なイベント・キャンペーンが盛りだくさんです。もうすでにイベントも残り2週間ですが、チケットイベントについて紹介していき...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移行は済んだか？]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-893.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-893.html"/>
-        <updated>2022-09-20T11:12:22.000Z</updated>
-        <summary type="html"><![CDATA[9/21(水)のメンテまでが金鯖キャラの移行期間です。忘れると消滅します。ちゃんと移行させておきましょう。鯖を間違えた？知りません…。何気にメンテ17時終了…まぁ仕方ないか。RSの方はチケ集めを何とかしているところ。隠された方の収容所で1時間7枚分前後だからそれなりな感じ。メインは碌な狩場じゃないからサブで集めて銀行経由という方針。箱のままなら銀行に入るからね！！サブで開けたら死だけど。でもって、金鯖後は引きこ]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
