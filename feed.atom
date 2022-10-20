@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-20T02:52:23.673Z</updated>
+    <updated>2022-10-20T04:24:14.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -893,26 +893,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[フロントラインを持っているので、↓これにしました。まだ強化途中ですが、Wガイルートにはしないつもりです。無限に金が湧いているように見えるかもですが、そろそろやばい・・ガイルートW力比にするので、あと↓...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[効率の懸念]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-331.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-331.html"/>
-        <updated>2022-09-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[いまチケットを集めて色んなものと交換するイベントをしていますがわたしにはちょっと厳しい状況だったりします＾＾；ちなみにわたしのメイン垢はネクロ悪魔が半分くらい占めていてしかもネクロ悪魔は単体攻撃が多くその他のキャラは実験体の装備があまりないので狩りが苦しいキャラそれ以外は倉庫キャラだったりするのでこうゆう物集めイベントがあると毎回苦労してます＾＾；キャプテンを覚醒すると範囲狩りできそうなんですけど]]></summary>
-        <author>
-            <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】金鯖と本鯖、どっちが良い？]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202207270000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202207270000/"/>
-        <updated>2022-09-20T14:55:57.000Z</updated>
-        <summary type="html"><![CDATA[金鯖がオープンしてから早11年。最近では本鯖の経レベリング体制が整って金鯖を介さずともスピーディにレベリングができるようになりました。そうなってくると「金鯖と本鯖、どっちで育てるのが良いか？」って疑...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
