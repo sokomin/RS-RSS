@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-20T19:30:24.700Z</updated>
+    <updated>2022-10-20T19:54:17.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -873,16 +873,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1241.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1241.html"/>
-        <updated>2022-09-21T07:31:30.000Z</updated>
-        <summary type="html"><![CDATA[･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ 買取アップイベント今週金曜0時～日曜23：59と、来週土曜0時～日曜23：59の期間が開催になりますね。ただ、拾って売りに行くのが面倒なイベントでもあるので往復して売りに行く人って今じゃ少ない気もしますしねぇ。これで稼ぐより露店開いて物売ったほうが稼ぎはありそうですし。･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ 他、課金キャンペーンとしてロトと祈り探索機が開催してます]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
