@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-20T06:05:01.809Z</updated>
+    <updated>2022-10-20T07:01:16.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -883,16 +883,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ 買取アップイベント今週金曜0時～日曜23：59と、来週土曜0時～日曜23：59の期間が開催になりますね。ただ、拾って売りに行くのが面倒なイベントでもあるので往復して売りに行く人って今じゃ少ない気もしますしねぇ。これで稼ぐより露店開いて物売ったほうが稼ぎはありそうですし。･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ 他、課金キャンペーンとしてロトと祈り探索機が開催してます]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1000ULT選択BOX]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202209210000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202209210000/"/>
-        <updated>2022-09-20T18:15:58.000Z</updated>
-        <summary type="html"><![CDATA[フロントラインを持っているので、↓これにしました。まだ強化途中ですが、Wガイルートにはしないつもりです。無限に金が湧いているように見えるかもですが、そろそろやばい・・ガイルートW力比にするので、あと↓...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
