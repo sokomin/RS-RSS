@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-20T00:00:03.380Z</updated>
+    <updated>2022-10-20T02:52:23.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -911,16 +911,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202207270000/"/>
         <updated>2022-09-20T14:55:57.000Z</updated>
         <summary type="html"><![CDATA[金鯖がオープンしてから早11年。最近では本鯖の経レベリング体制が整って金鯖を介さずともスピーディにレベリングができるようになりました。そうなってくると「金鯖と本鯖、どっちで育てるのが良いか？」って疑...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】アニバイベント チケット交換おすすめ考察]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202209200000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202209200000/"/>
-        <updated>2022-09-20T13:40:53.000Z</updated>
-        <summary type="html"><![CDATA[9/7より金鯖終了後に開催された「アニバーサリーモード」装備強化において非常に有用なイベント・キャンペーンが盛りだくさんです。もうすでにイベントも残り2週間ですが、チケットイベントについて紹介していき...]]></summary>
         <author>
             <name>そこらの民衆</name>
         </author>
