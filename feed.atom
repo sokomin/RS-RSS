@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-20T22:27:57.025Z</updated>
+    <updated>2022-10-20T22:57:24.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -828,51 +828,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[初心の時代に魔法強打なんてなかったけど【配布物】・キャプテン育成・カムバック・1時間スフィア×6、1時間パワキ×6、不思議なチケット×2・冒険枠減ってた人のうち、9/14までの減少分を対応・9/22(木)の23:59まで経験値が2倍（計測したけど2倍だった）いつもの公式のあれ【祈りカケラ探索機】10/5(水)メンテまで。祈りカケラ探索機ULTとキットの販売。時機を逃すと割と売られないから、必要な場合は確保しておくべき。ULTはドロッ]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.9.21 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/12acb64fe5eb466a2ceea48dacf973c6</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/12acb64fe5eb466a2ceea48dacf973c6?fm=rss"/>
-        <updated>2022-09-21T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[台風一過ですが晴れません(´・ω・`)
-
-
-「アニバーサリーモード」が始まっています
-「不思議なチケットイベント」
-「BIGログインイベント」
-「栄光の箱ドロップイベント」
-「メインクエスト応援イベント」
-「ありがとう金鯖イベント」
-「チャットバフイベント」
-「経験値＆アイテムドロップ率上昇イベント」
-
-
-
-
-
-
-
-
-
-
-
-9月7日メンテ後から10月5日メンテ前まで
-
-
-シルバーウィークも今週末は後半戦。
-まったり頑張りましょう。
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
