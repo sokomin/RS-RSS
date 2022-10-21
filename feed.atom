@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T16:01:27.949Z</updated>
+    <updated>2022-10-21T17:04:32.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PVP攻撃251％になりましたが・・]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202210220000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202210220000/"/>
+        <updated>2022-10-21T16:59:41.000Z</updated>
+        <summary type="html"><![CDATA[不毛な戦いがやっと終わりました。前回Lv11まで上げた滅亡は、似ていますがあれは力比でした。というわけで、２個目の滅亡をLv11まで上げましたが、このコンテンツはキツ過ぎるのでもうやりたくありませんねぇ。...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ちなみに]]></title>
         <id>http://yuntohoozuki.blog.fc2.com/blog-entry-95.html</id>
