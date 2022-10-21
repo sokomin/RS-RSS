@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T23:33:32.404Z</updated>
+    <updated>2022-10-21T23:59:17.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -839,15 +839,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[なんだこれは！この俺をこんな安物のアイテムで刺しやがって！！アルファロト3万円分買ってみたのですが、1000円から出るものがひどかった。レア3がでないのは当たり前で、70％がレア1、レア2になってもしょぼいのがいぱーい…嫌がらせか！！まぁSロトが完全に化けたからよかったけど、それ以外は碌なものがない…やはり地雷ロト…DXはごみ、ULTは黄金人形…SPもどうせごみだろ！知ってるよ！だって今までここからまともなものが出たこ]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃３２]]></title>
-        <id>https://www.youtube.com/watch?v=tV-BhNxzFok</id>
-        <link href="https://www.youtube.com/watch?v=tV-BhNxzFok"/>
-        <updated>2022-09-22T11:41:01.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
