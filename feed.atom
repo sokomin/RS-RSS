@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T12:55:14.793Z</updated>
+    <updated>2022-10-21T14:03:09.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ちなみに]]></title>
+        <id>http://yuntohoozuki.blog.fc2.com/blog-entry-95.html</id>
+        <link href="http://yuntohoozuki.blog.fc2.com/blog-entry-95.html"/>
+        <updated>2022-10-21T13:55:18.000Z</updated>
+        <summary type="html"><![CDATA[こんな子・。・]]></summary>
+        <author>
+            <name>ユンユン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぼちぼちと]]></title>
+        <id>http://yuntohoozuki.blog.fc2.com/blog-entry-94.html</id>
+        <link href="http://yuntohoozuki.blog.fc2.com/blog-entry-94.html"/>
+        <updated>2022-10-21T13:32:36.000Z</updated>
+        <summary type="html"><![CDATA[RS戻ってきてます・。・新キャラでINしてますほぼ深海シリーズ名で船乗り（キャプテン）で遊んでます他のキャラスキル変わってたり面倒なのも併せて面倒ってのもあるけど・・・体調優先で短時間だけど昼間だったり夜だったりただいま・。・ノ]]></summary>
+        <author>
+            <name>ユンユン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アプデに参った]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-905.html</id>
