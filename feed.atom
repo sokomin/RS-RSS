@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-22T20:56:08.346Z</updated>
+    <updated>2022-10-22T21:24:16.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -874,16 +874,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[期限付きのクリーチャー経験値が入る指輪いいですね。今あるイベントの中では地味ですが、割と気に入ってます。普段連れて歩かないクリーチャーが後ろをついてくるところとか。こんにちは、メインクリーチャーを変えてもそこまで違いがなかった第三の猫です。前回チャプター１のボスを倒したので、チャプター２が始まりました。シーズン２も長そうですね。ひょっとして、REDSTONE納品先ナンバーワンが天上界だったら、メインクエス]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プリリトル、６００までの属性（強化・弱化）装備一覧]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1111.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1111.html"/>
-        <updated>2022-09-23T08:58:09.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは～ハニーです９００レベあたりまで特に苦労しなくなってしまった今日この頃昔、属性攻撃が効かない敵とかいたよな～とか思いつつ、・・・（今更感があったりしますが）属性強化・弱化の装備をまとめてみようそんなことを思いついてまとめてみました（プリリトル限定で）強化または弱化がついている装備を集めてます（指以外）最初は全部まとめた一覧表を作ったんだけどちょっと見にくかったのでポイントを絞った表に作り]]></summary>
-        <author>
-            <name>リン・ドール</name>
         </author>
     </entry>
 </feed>
