@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T23:59:17.634Z</updated>
+    <updated>2022-10-22T02:37:45.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[かわいそうなレビット]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-180.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-180.html"/>
+        <updated>2022-10-22T02:31:10.000Z</updated>
+        <summary type="html"><![CDATA[小さい秋といいますが、どちらかというと短い秋のほうがしっくりくる気がしませんか？第三の猫です。今回は主に金鯖で作ったキャプテンのメインクエストをこなしておりました。金鯖ではメインクエを放置したまま転生したこともあり、開始のタイミングは２度目の転生直後になりました。アークデビル君はゆっくりと遊べるくらいのHPを身に着けた方がいいと思います。それと、転生の際に覚醒タイプをチェイスストライカーからワールウ]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PVP攻撃251％になりましたが・・]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202210220000/</id>
