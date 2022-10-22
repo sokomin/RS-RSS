@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-22T09:00:54.010Z</updated>
+    <updated>2022-10-22T09:34:14.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[こたつの出番です]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/ca5078472166489d68c70eb689f76752</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/ca5078472166489d68c70eb689f76752?fm=rss"/>
+        <updated>2022-10-22T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[寒いです(´・ω・`)
+
+牙ゲット(・ω・)b
+
+実はメインアチャは以前にドラゴートからも戦利品をいただいておりまして、これが2つ目となります。
+「ハンターコインイベント」
+
+個人的感想ですが、ドロップ率は決して高くない。
+とはいえ、まったくドロップしない訳でもない感じです。
+ただいつもよりもドロップ率は悪いので集まらないだろうな・・・
+と思っていたのですが
+
+ハンターの証は銀行取引ができるのですよ！！！！
+
+これはいい。マジで助かる。
+つか、なぜ今まで銀行取引は可にしてくれなかったんだろう。
+ドロップ率は微妙ですが銀行取引できれば無駄になる数も減るので良かった。
+そんなに集まらないでしょうけど、ちまちま頑張りたいと思います。
+
+
+金鯖終わってからですがキャプテンを作ろうかと悩み中。
+ただ作ってやろうという気があまり起きないのですよね(´・ω・`)
+こんな状態なのでキャプテンが作成されるのはかなり先になりそうです。
+週末手持ちキャラでギルドデイリーやるだけで精一杯ですから。
+年末年始とかまとまったお休みにやる気ができたら考えます。
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[かわいそうなレビット]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-180.html</id>
