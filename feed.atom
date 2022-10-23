@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-23T12:50:27.416Z</updated>
+    <updated>2022-10-23T13:47:45.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -829,50 +829,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[ミニPとバッジなしでSlv500を超えましたいやー、長かった…かな？今はアニバのバフがあるからスキル+3できるけど、普段はないと考えれば常時500達成できてよかったです。その気になったらミニPとバッジを出すってスタンスにしておこう…だってもう引きこもらせてくれないし…ちなみに改良点はまだあります。もうちょっと伸ばしておきたい所…。闇のパッシブ厳選へようこそ。あとV鯖はこんなんができました。1000ULT箱からマナ選んであ]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ネクロの覚醒 －ストレンジコンジュラー－]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/229297b8435a2a25b1694a5d0b035c93</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/229297b8435a2a25b1694a5d0b035c93?fm=rss"/>
-        <updated>2022-09-24T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[連休後半も終了に近づいてきましたね。
-
-覚醒タイプは「ストレンジコンジュラー」
-
-「ライフスティール」
-
-専用強化スキルは「死の香り」
-
-自分にかけるスキルでしたね。
-
-強化スキルの１つは「ダークネスイリュージョン」
-
-「力」と「知識」「敏捷」と「知恵」を自分も含めて反転させるスキル。
-
-もう１つの強化スキルは「フルアタック」
-
-手数が増えるので使えるかな。
-物理攻撃なので力と敏捷をふらないといけないのが難点。
-
-
-そもそも狩り用に作ったわけではないので、実践で使えるかを判断するのは難しいかな。
-機会があればミズナの芋虫でも狩ってみようと思います。
-
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
