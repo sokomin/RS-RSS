@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-23T11:50:52.295Z</updated>
+    <updated>2022-10-23T12:50:27.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -873,16 +873,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いろいろと]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-178.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-178.html"/>
-        <updated>2022-09-24T00:42:43.000Z</updated>
-        <summary type="html"><![CDATA[期限付きのクリーチャー経験値が入る指輪いいですね。今あるイベントの中では地味ですが、割と気に入ってます。普段連れて歩かないクリーチャーが後ろをついてくるところとか。こんにちは、メインクリーチャーを変えてもそこまで違いがなかった第三の猫です。前回チャプター１のボスを倒したので、チャプター２が始まりました。シーズン２も長そうですね。ひょっとして、REDSTONE納品先ナンバーワンが天上界だったら、メインクエス]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
