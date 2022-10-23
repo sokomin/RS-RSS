@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-23T14:55:18.322Z</updated>
+    <updated>2022-10-23T15:27:39.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年10月アップデートに関して　【精鋭討伐失敗】]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-770.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-770.html"/>
+        <updated>2022-10-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日実家にお土産を送ったのですが両親から電話が来ました母親はぶるぶるマシンを使いながらだった様でこんな感じでした高齢にはなりましたがなかなかに元気でしたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知識獣人育成配信#2【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=qhdRERRoqAs</id>
