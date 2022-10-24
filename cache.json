@@ -179,6 +179,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wxu5kyO59MA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wxu5kyO59MA",
+          "publishedOn": "2022-10-24T15:30:12.000Z",
+          "wordCount": null,
+          "title": "REDSTONE 精鋭討伐 初級",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tBVZrgPjOo0",
           "author": null,
           "description": "",
@@ -322,6 +332,16 @@
           "publishedOn": "2022-10-02T11:12:34.000Z",
           "wordCount": null,
           "title": "【REDSTONE】赤石育成日記＃３４　無限チケ出し",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kFHlMgcQXzQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kFHlMgcQXzQ",
+          "publishedOn": "2022-09-25T13:05:37.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記＃３３　無限チケ出し",
           "imageUrl": null
         }
       ]
