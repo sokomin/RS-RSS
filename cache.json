@@ -217,6 +217,16 @@
           "wordCount": null,
           "title": "黒魔育成配信#3【 REDSTONE 】",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BeOQnFvk0fE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BeOQnFvk0fE",
+          "publishedOn": "2022-09-25T15:57:06.000Z",
+          "wordCount": null,
+          "title": "知識リトル育成配信#1【 REDSTONE 】",
+          "imageUrl": null
         }
       ]
     },
@@ -312,16 +322,6 @@
           "publishedOn": "2022-10-02T11:12:34.000Z",
           "wordCount": null,
           "title": "【REDSTONE】赤石育成日記＃３４　無限チケ出し",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kFHlMgcQXzQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kFHlMgcQXzQ",
-          "publishedOn": "2022-09-25T02:36:48.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】赤石育成日記＃３３　無限チケ出し",
           "imageUrl": null
         }
       ]
