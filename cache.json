@@ -275,6 +275,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gRN-lWJ3smQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gRN-lWJ3smQ",
+          "publishedOn": "2022-10-24T11:23:50.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】ロイ４世の現状報告的なあれ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=T1SFsHgKVIY",
           "author": null,
           "description": "",
