@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T14:52:55.080Z</updated>
+    <updated>2022-10-25T15:32:26.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ネクロ敗北。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-336.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-336.html"/>
+        <updated>2022-10-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先週メンテから始まったハンター証ドロップイベント。月曜～日曜のサイクルで垢につき週100個限定ドロップで銀行に入れてまとめる事が出来るのが良い所ですが毎週月曜にリセットされるというのが人によっては苦しいかなと思います＾＾；キャラごとに出したのを銀行でまとめられるのはすごくいいです＾＾このイベは垢で出せる上限がついちゃってるのが人によっては物足りないかもしれませんがわたしにとっては週ごとにリセットされ]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウェポンブレイカー]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202210250000/</id>
