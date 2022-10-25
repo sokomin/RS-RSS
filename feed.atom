@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T20:57:43.211Z</updated>
+    <updated>2022-10-25T21:27:53.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -796,46 +796,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <link href="http://rinsmile.blog70.fc2.com/blog-entry-1109.html"/>
         <updated>2022-09-26T09:28:24.000Z</updated>
         <summary type="html"><![CDATA[◆バルーンアタックいわゆるデブ姫、巨大なプリンセスに変身（ボール状）してプレス攻撃。周期発動の範囲攻撃スキル、覚醒前は完全な物理スキル。◆ビックバルーンアタックトランスクイーンの共通覚醒スキル物理用という誤解があるが、知識キャラでも使えるスキル。覚醒すれば、HPベースのダメージが追加される。（ピンク色のダメ）この部分は、物理ダメージの計算と知識ダメージの計算の両方の影響を受けている（表現を端折ってます]]></summary>
-        <author>
-            <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[武器変身・特殊武器変身・ドレスパワー]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1108.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1108.html"/>
-        <updated>2022-09-26T09:21:14.000Z</updated>
-        <summary type="html"><![CDATA[◆武器変身おそらくはプリンセスのスキルの中で最もチョイスされていると思うサブ垢で姫が大量に作られる理由はこのスキルがあるから！PTメンバーの武器に変身して、インベントリーに入り込む。寄生スキルともいわれているが、かばんの拡張代わりに使っている人も多いはず。本来の武器としての使われ方は、・・・・おそらくあまりない？。トランスクイーンの覚醒用武器変身中に使用可能なスキル、（必殺）ボトル投げ、ボトル束投擲]]></summary>
-        <author>
-            <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポーション投げ・特約処方・うそ泣き]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1106.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1106.html"/>
-        <updated>2022-09-26T09:16:22.000Z</updated>
-        <summary type="html"><![CDATA[◆ポーション投げ回復スキル、昔のポーション投げと薬投げが一つになった。ポーションを投げて・・・と書かれているが、アイテムは消費しないHP回復、状態異常回復、範囲スキル（PTメンバーでなくても回復する、辻ヒール可能）知識ステータスによってHPの回復量が増える、状態異常の回復はスキルレベルの変化なし知識キャラじゃなくても１レベル取っておくべき武器変身中に使用可◆特約処方ボトル投げにデバフを載せますが、５秒間と]]></summary>
-        <author>
-            <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ボトル束投擲・ボトル束洗礼]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1105.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1105.html"/>
-        <updated>2022-09-26T09:12:49.000Z</updated>
-        <summary type="html"><![CDATA[◆ボトル束投擲（たばとうてき）知識姫唯一の範囲スキル、武器変身中に使用可。前方のすべての敵にダメージを与えると書いてあるがあまりに範囲が狭いほぼ直線上にダメージをあたえる、少しでもずれていたら当たらない◆ボトル束洗礼（汎用覚醒スキル）ボトル束投擲との違い射程距離が長い、攻撃範囲が長い、攻撃回数３回→６回、デバフがある（詳細割愛）。しかし大地ボトルで多段になるわけでもなく、炎ボトルで範囲が広がるわけで]]></summary>
-        <author>
-            <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ボトル専門家・ボトル権威者・マジックスリング]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1104.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1104.html"/>
-        <updated>2022-09-26T09:07:59.000Z</updated>
-        <summary type="html"><![CDATA[◆ボトル専門家ボトル攻撃を強化する魔法攻撃力増加の上限は２０％(スキルレベル２４０)ケイオスクイーンの覚醒用◆ボトル権威者ケイオスクイーンの専用覚醒スキルボトル攻撃を強化する魔法攻撃力増加の上限は２０％(スキルレベル１９０)限界ダメージ増加は１％で固定←覚醒による強化部分◆マジックスリングケイオスクイーンに覚醒して得られる専用パッシブスキル覚醒によってボトル投げが強化されるが束投げのほうはイマイチ弱いボト]]></summary>
         <author>
             <name>リン・ドール</name>
         </author>
