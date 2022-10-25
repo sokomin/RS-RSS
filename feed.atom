@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T05:01:12.269Z</updated>
+    <updated>2022-10-25T06:22:27.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウェポンブレイカー]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202210250000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202210250000/"/>
+        <updated>2022-10-25T05:35:59.000Z</updated>
+        <summary type="html"><![CDATA[ハンターの証でもらった製錬ガードでやっと+10になり完成しました。予算の関係でWガイルートにする予定はありませんが、精鋭討伐等でタダでガイルートが手に入ったらWにするかも知れません。短いですが、今回はこ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REDSTONE 精鋭討伐 初級]]></title>
         <id>https://www.youtube.com/watch?v=wxu5kyO59MA</id>
