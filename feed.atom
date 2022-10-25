@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T02:55:37.440Z</updated>
+    <updated>2022-10-25T05:01:12.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -818,35 +818,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[◆ボトル専門家ボトル攻撃を強化する魔法攻撃力増加の上限は２０％(スキルレベル２４０)ケイオスクイーンの覚醒用◆ボトル権威者ケイオスクイーンの専用覚醒スキルボトル攻撃を強化する魔法攻撃力増加の上限は２０％(スキルレベル１９０)限界ダメージ増加は１％で固定←覚醒による強化部分◆マジックスリングケイオスクイーンに覚醒して得られる専用パッシブスキル覚醒によってボトル投げが強化されるが束投げのほうはイマイチ弱いボト]]></summary>
         <author>
             <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オーガ物理組合]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202209260000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202209260000/"/>
-        <updated>2022-09-25T16:13:59.000Z</updated>
-        <summary type="html"><![CDATA[https://discord.gg/cG7FcTqt招待の有効期間が7日間みたいなので、新しいリンクを貼っておきます。]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識リトル育成配信#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=BeOQnFvk0fE</id>
-        <link href="https://www.youtube.com/watch?v=BeOQnFvk0fE"/>
-        <updated>2022-09-25T15:57:06.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダメージの上限値]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-766.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-766.html"/>
-        <updated>2022-09-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[私は仕事の休憩時間はお昼寝をしていることがありますアラームをかけているのですが先日アラーム音を聞いた職場の先輩が「何だその血と汗と涙を流しそうな曲はー」と言ってました絶対やったことある人ですよねしかもアビスまで行ってクリアしてますよねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
