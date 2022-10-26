@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-26T09:24:29.241Z</updated>
+    <updated>2022-10-26T09:51:31.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[その不具合から修正するんだ…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-906.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-906.html"/>
+        <updated>2022-10-26T09:37:47.000Z</updated>
+        <summary type="html"><![CDATA[そりゃ前のアプデから続いていたことではあるけど…【配布品とか】・ログキャンが正常に受け取れなかった人用に補填・削除待機マークが出る不具合を修正だけどそれより先にやるべきのはあるんですが…公式のあれ【陰陽変異ブースト】11/9(水)メンテまで。シャードと成長呪文書に変異促進剤だったり、それ以外のものだったりがセットになってるあれ。相変わらずだが、お試し（笑）セットがある。同じ値段で上位互換がいるってのに…交]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネクロ敗北。]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-336.html</id>
