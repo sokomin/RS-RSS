@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-27T02:08:40.472Z</updated>
+    <updated>2022-10-27T03:54:45.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -822,16 +822,6 @@ The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared o
         <summary type="html"><![CDATA[レッドストーンの魔法職には「知識装備パズル」なる問題がしばしば挙がってきます。強化・弱化・魔法致命打（魔法強打）などをどこの部位でどれだけ稼ぐか？という問題です。今回はその知識装備パズルについて装...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[悩める喜び！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-332.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-332.html"/>
-        <updated>2022-09-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[いまやっている不思議なチケットイベントで50枚チケを集めるともらえる1000ULT選択Boxがやっともらえる状態になりました＾＾とは言っても周りのみんなのように自力で50枚集めたのではなくわたしが集めたのは38枚で残りはメンテ延長の補填10枚と本人には何が不具合だったのかわからない金鯖補填の2枚を合わせて50枚達成だったりします＾＾；みなさんすごいなって実感＾＾；1000umはもちろんですが唯一の1000超えキャラであるオオカ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
