@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-28T23:27:35.165Z</updated>
+    <updated>2022-10-28T23:53:20.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -739,16 +739,6 @@ SEPTEMBER UPDATE -->
 The post 魔法強打リトルLv1501狩り装備【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
         <author>
             <name>cho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なんだこれ？]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-898.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-898.html"/>
-        <updated>2022-09-29T11:50:23.000Z</updated>
-        <summary type="html"><![CDATA[知識、物理ときたし、ペット系統もあるだろうなと思って露店検索機能を使いました。もしかしたら乗ってるかもしれないし、名前もわかる！と思って検索しました。なんか多くない？え？もしかして物理指の違うタイプが…？知識指は割と完結していたけど…致命型？知らんな。もしかしたら別の指輪なのかもしれないが…まぁ期待して損はないか。一応隠しているけど、露店検索で指輪と入れてスクロールしたらありますよっと。調べようと思]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
