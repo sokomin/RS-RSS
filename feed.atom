@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-29T14:49:15.467Z</updated>
+    <updated>2022-10-29T15:25:01.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[まだ伸びるけども…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-907.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-907.html"/>
+        <updated>2022-10-29T15:05:17.000Z</updated>
+        <summary type="html"><![CDATA[金鯖ではドーピングしてもSlv500には届かなかった。そして今は…バッジ、ミニP抜きでSlv528とはいえ、まだ改良点はあるわけで…。・クリパッシブがまだ終わってない・MBのスキル+3を取ってない・指のベースがタートじゃないとこやや多め・しかも1か所はTRSDXタート簡単な改善点はこのくらいじゃぁ簡単じゃないのは言われたら…・TRSULTレドネ（ULTOP異次元不可のため、自作不可）・TRSDX金襴（素材どこ？あとレベル圧倒的に足りない）]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知識獣人育成配信#3【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=hZNc67fIk4Q</id>
