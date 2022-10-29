@@ -748,18 +748,7 @@
       "title": "The Adventure Of The Jacks",
       "feedUrl": "https://rs-clair-de-lune.com/rss.xml",
       "siteUrl": "https://rs-clair-de-lune.com",
-      "articles": [
-        {
-          "id": "https://rs-clair-de-lune.com/2022-09-30/",
-          "author": null,
-          "description": "金鯖閉幕！（と歴代最長クラスのメンテナンス明け！）とともに、待ち望んだキャプテン覚醒が実装されました。\n耳にしていた前評判に違わず、3スタイルとも昨今の職業改変のインフレに十分着いていける性能に仕上がっています。 10月…",
-          "link": "https://rs-clair-de-lune.com/2022-09-30/",
-          "publishedOn": "2022-09-30T00:00:00.000Z",
-          "wordCount": 1169,
-          "title": "ざっくりキャプテン覚醒調査報告",
-          "imageUrl": "https://rs-clair-de-lune.com/static/e1d49f84cf2982ae099436103a6fd345/06a95/2022-09-30-01.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "バインダーに栄光あれ",

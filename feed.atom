@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-29T11:48:24.941Z</updated>
+    <updated>2022-10-29T12:41:48.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -726,17 +726,6 @@ SEPTEMBER UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ざっくりキャプテン覚醒調査報告]]></title>
-        <id>https://rs-clair-de-lune.com/2022-09-30/</id>
-        <link href="https://rs-clair-de-lune.com/2022-09-30/"/>
-        <updated>2022-09-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[金鯖閉幕！（と歴代最長クラスのメンテナンス明け！）とともに、待ち望んだキャプテン覚醒が実装されました。
-耳にしていた前評判に違わず、3スタイルとも昨今の職業改変のインフレに十分着いていける性能に仕上がっています。 10月…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
 </feed>
