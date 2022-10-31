@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-31T22:52:03.609Z</updated>
+    <updated>2022-10-31T23:28:11.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -707,15 +707,6 @@ SEPTEMBER UPDATE -->
         <summary type="html"><![CDATA[先日通勤時に電車で動画を見たりするのにワイヤレスのイヤホンが欲しいなと思いブルートゥースのイヤホンを通販で買いました通勤時に電車に乗ってから使ってみたところペアリングに失敗していたようでこれがスマホから大音量で流れました朝早い時間の電車なのですいていましたがチーンのところで乗客が一斉に私を見るのが辛かったです多少もたつきましたがすぐ消せました今は問題なく使えておりますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃３４　無限チケ出し]]></title>
-        <id>https://www.youtube.com/watch?v=lIl8FxYG2Do</id>
-        <link href="https://www.youtube.com/watch?v=lIl8FxYG2Do"/>
-        <updated>2022-10-02T11:12:34.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
