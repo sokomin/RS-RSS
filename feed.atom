@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-31T14:31:37.413Z</updated>
+    <updated>2022-10-31T14:55:03.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[長女成長記録 - アニバイベントマラソン編]]></title>
+        <id>https://rs-clair-de-lune.com/2022-10-31/</id>
+        <link href="https://rs-clair-de-lune.com/2022-10-31/"/>
+        <updated>2022-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[トリックオアトリート！
+月末ということは。そう！ブログ更新日ですね！ アニバイベント＆宝物地図箱改定＆経験値イベント同時襲来 キャプテン覚醒実装と同時に訪れた怒涛の狩り催促イベントたち。 宝物地図システム改変 経験値+アイテムドロップアップイベント開催！ ULTU職業防具やBF…]]></summary>
+        <author>
+            <name>The Adventure Of The Jacks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精鋭討伐にリベンジ]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-771.html</id>
