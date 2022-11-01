@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T09:29:34.348Z</updated>
+    <updated>2022-11-01T09:54:45.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.10月のドロップ~♪]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/f9ae894a7d1352662a6745922957a1f3</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/f9ae894a7d1352662a6745922957a1f3?fm=rss"/>
+        <updated>2022-11-01T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[11月です。
+
+
+知識ID
+
+
+うん、しょぼい(´・ω・`)
+まぁ稼働時間からすればこんなものかもしれませんね。
+出ただけでも感謝しなくては。
+
+
+武道家とマスケが600超えてきたので転生か・・・
+と思っていますが、なかなか思うようにレベルが上がらず停滞。
+年末に転生できるか、年明けに転生するか・・・・って感じですね。
+そういえば今年の目標まだ達成してないなぁ・・・・(￣ω￣;)
+
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[長女成長記録 - アニバイベントマラソン編]]></title>
         <id>https://rs-clair-de-lune.com/2022-10-31/</id>
