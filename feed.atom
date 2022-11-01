@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T08:55:06.660Z</updated>
+    <updated>2022-11-01T09:29:34.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -697,15 +697,6 @@ SEPTEMBER UPDATE -->
         <summary type="html"><![CDATA[金鯖終了直後から始まったチケイベも終わりとなりました！わたしはなんとか1000箱もらえたのでホッとしてるところです＾＾あとは補填があり各垢最低でも12枚もらえたので運命の選択チケをもらえたのでメンテ延長も悪い事ばかりじゃないかなと思いました＾＾メンテ明けどんなイベが始まるかわからないですがとりあえず他の事もしないとなのでよほどいいイベントじゃない限りは次はスルーかなと思います＾＾；1000箱から何もらうかま]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃３４　無限チケ出し]]></title>
-        <id>https://www.youtube.com/watch?v=lIl8FxYG2Do</id>
-        <link href="https://www.youtube.com/watch?v=lIl8FxYG2Do"/>
-        <updated>2022-10-02T21:15:00.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
