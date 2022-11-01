@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T02:31:16.850Z</updated>
+    <updated>2022-11-01T04:22:51.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -706,16 +706,6 @@ SEPTEMBER UPDATE -->
         <updated>2022-10-02T21:15:00.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ULTオプションがドロップするようになって]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-767.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-767.html"/>
-        <updated>2022-10-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日通勤時に電車で動画を見たりするのにワイヤレスのイヤホンが欲しいなと思いブルートゥースのイヤホンを通販で買いました通勤時に電車に乗ってから使ってみたところペアリングに失敗していたようでこれがスマホから大音量で流れました朝早い時間の電車なのですいていましたがチーンのところで乗客が一斉に私を見るのが辛かったです多少もたつきましたがすぐ消せました今は問題なく使えておりますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
