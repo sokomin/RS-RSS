@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-02T05:56:44.406Z</updated>
+    <updated>2022-11-02T06:35:06.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベントは特になし]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1245.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1245.html"/>
+        <updated>2022-11-02T06:13:41.000Z</updated>
+        <summary type="html"><![CDATA[先週に続き今週もこれといった新着イベントはないようです。課金キャンペーンでコクーンとスフィアのものが始まったくらいですかね。ログインキャンペーンが来週までなので来週は何かしらある・・・のかどうか。さてさて、6月頃から「Ark: Survival Evolved」というゲームにどっぷり浸かってるんですが。RS以外のゲーム記事に関しては、別のブログに書こうとは思ってます。そっちの更新はだいぶ稀にはなるんですけどね、毎回。リン]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サブキャラ達]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-337.html</id>
