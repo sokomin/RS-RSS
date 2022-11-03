@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-03T02:03:37.247Z</updated>
+    <updated>2022-11-03T03:43:35.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -798,16 +798,6 @@ SEPTEMBER UPDATE -->
         <summary type="html"><![CDATA[゜。°。°。°。°。°。°。°。゜。°。°。°。REDSTONEオーラ開放イベント狩り中に出るオーラを開放するとクリーチャーのマナがドロップするようです。確か以前にもやった事のあるイベントですね。マナのドロップは確率らしいので、確定ドロップではないですね。来週メンテ前まではマナ(中)が、来週メンテ後からはマナ(大)が出るようです。゜。°。°。°。°。°。°。°。゜。°。°。°。課金キャンペーンはスフィアリミテッドキャンペーンが新]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チケイベ終了。]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-333.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-333.html"/>
-        <updated>2022-10-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[金鯖終了直後から始まったチケイベも終わりとなりました！わたしはなんとか1000箱もらえたのでホッとしてるところです＾＾あとは補填があり各垢最低でも12枚もらえたので運命の選択チケをもらえたのでメンテ延長も悪い事ばかりじゃないかなと思いました＾＾メンテ明けどんなイベが始まるかわからないですがとりあえず他の事もしないとなのでよほどいいイベントじゃない限りは次はスルーかなと思います＾＾；1000箱から何もらうかま]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
