@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-03T14:49:03.655Z</updated>
+    <updated>2022-11-03T15:32:15.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[供給がないなら、突っ込むしかない]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-910.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-910.html"/>
+        <updated>2022-11-03T14:52:49.000Z</updated>
+        <summary type="html"><![CDATA[TRSULTタートを探しても見つからない現状です。ベースとしてみたら使い勝手悪いから総数が多くないのかそれとも…ならばもう手持ちの鏡をぶち込むしかねぇ！！他に魅力的なのは多いけど、知らん。ということで、割る前提でねじこんだ。割れなかったなんで？…とにかく、これで10か所TRSULT相当のものが入りました。なんで相当かって？1個TRSDXSGだもんあとはベースをタートに差し替えていく作業が待っている…でも買えないし、ワーム]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メテオWIZ育成配信#3【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=6mF3qobP_Gg</id>
