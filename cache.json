@@ -107,6 +107,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6mF3qobP_Gg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6mF3qobP_Gg",
+          "publishedOn": "2022-11-03T06:01:15.000Z",
+          "wordCount": null,
+          "title": "メテオWIZ育成配信#3【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hZNc67fIk4Q",
           "author": null,
           "description": "",
