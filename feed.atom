@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-04T14:48:20.272Z</updated>
+    <updated>2022-11-04T15:26:19.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[狩りしないけど狩り装備を作成してみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211040000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211040000/"/>
+        <updated>2022-11-04T14:59:47.000Z</updated>
+        <summary type="html"><![CDATA[800本で買った万能解放で4解放にしたので、全部で900本近く掛かっています。え？なんでこんな物作ったのかって？それはな、欲しい物もやりたいこともなくて暇だったからだよ！こんなので無駄使いしちゃって大丈夫...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[供給がないなら、突っ込むしかない]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-910.html</id>
