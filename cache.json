@@ -688,18 +688,7 @@
       "title": "カルDXのレッドストーン放浪",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/karudxrs/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/karudxrs/",
-      "articles": [
-        {
-          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202210050000/",
-          "author": "たつ2307",
-          "description": "こんばんは先日かなり前からアイテムかごに入っていた無限のスキル再振り巻物を使用してバインド悪魔から契約悪魔へと再振りをしました( ;∀;)毒悪魔を間に挟んだりしていろいろと検証した結果契約悪魔が一番強い...",
-          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202210050000/",
-          "publishedOn": "2022-10-05T13:02:48.000Z",
-          "wordCount": 1590,
-          "title": "契約破棄悪魔　恩寵の",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/6bde219ca8261dd9eb4f9feb943b7af8391f1943.35.9.9.3.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "rb79kのブログ",
