@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-05T05:48:18.230Z</updated>
+    <updated>2022-11-05T06:28:03.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nise1110と事実だけ]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-181.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-181.html"/>
+        <updated>2022-11-05T05:49:04.000Z</updated>
+        <summary type="html"><![CDATA[次回は主役の出番があると信じてくださった皆さんにお知らせです。出番、ないです。第三の猫です。ちなみに、現在こんな状態です。63%が他キャラ共用という大変エコノミーな装備構成のおかげで、銀行前で金縛りにあっています。というわけで、今回は装備受取先であるnise1110がお送りします。↑貴重な狩りシーン（クリムゾン・アイ改＋光子砲）スキルレベルを上げて、CP獲得装備を積んで、闇恩寵をつければ、無限撃ちに近い状態に持]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[狩りしないけど狩り装備を作成してみた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211040000/</id>
