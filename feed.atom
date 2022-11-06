@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-06T02:04:56.885Z</updated>
+    <updated>2022-11-06T03:36:23.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[物理弓で攻城出てて悲しいとき～]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211060001/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211060001/"/>
+        <updated>2022-11-06T02:19:16.000Z</updated>
+        <summary type="html"><![CDATA[攻撃モーションが派手な近接職（武道家など）と一緒に攻撃して敵を倒したとき～○○さん（武道の人）TUEEEE！！！え・・・ほとんど俺が削ったんだけど・・・誰にも気づいてもらえねぇｗｗｗｗｗ（GvではLAが表示さ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダブクリダメ104万]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211060000/</id>
