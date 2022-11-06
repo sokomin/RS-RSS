@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-06T16:30:27.854Z</updated>
+    <updated>2022-11-06T16:58:59.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -806,6 +806,15 @@ T知識比西欧しましたo(*^▽^*)o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃３５　超久々にメイン戦士強くしたい回]]></title>
+        <id>https://www.youtube.com/watch?v=kIeXsZoYcTg</id>
+        <link href="https://www.youtube.com/watch?v=kIeXsZoYcTg"/>
+        <updated>2022-10-09T01:17:30.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[騙したな！]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-900.html</id>
         <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-900.html"/>
@@ -813,16 +822,6 @@ T知識比西欧しましたo(*^▽^*)o
         <summary type="html"><![CDATA[ダ〇オン「やっと能天気なお前でも呑み込めたようだな。すべてはお前の言うとおりだ…。こぉ～んなセットOP（恩寵の）には何の未練もない。はっ、FIに恩寵追加ダメが効かないことが分かったからこそ、このOPを利用したのだ。俺の狙いは、お前のインゴット消費なのだからな！ふわぁ～は、ははｗｗｗｗお前のインゴットを無駄に消費させ、それを大笑いすることが、俺の本来の計画なのだよ。そのためには、OPの詳細を知らせるわけには]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青亀ＶＳファルコン]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-179.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-179.html"/>
-        <updated>2022-10-08T04:38:04.000Z</updated>
-        <summary type="html"><![CDATA[ビーストテイマースキルで強化した青亀（Lv1）が、まさか2発で沈むなんて。……逆に考えれば１撃は耐えられるのですね。Lv1000相手に。こんにちは、第三の猫です。さっそくですが、ここまでの経緯からお話しいたします。皆様は「青亀」をご存じでしょうか。そう、ギルディル川 / ナス橋付近にいるLv1のモンスターです。正確には淡水亀という名前で、これといった特殊技は○ございません。あと色々あって、第三の猫はこの青亀を「師匠]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
