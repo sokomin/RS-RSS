@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-06T13:14:37.648Z</updated>
+    <updated>2022-11-06T13:42:19.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暴走禁止のときの超越スキル]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211060002/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211060002/"/>
+        <updated>2022-11-06T13:37:06.000Z</updated>
+        <summary type="html"><![CDATA[※無課金マンなので課金スロットを使う予定はありません。アリーナGvで暴走禁止のときは、これが最適解かなと思います。筋力集中鍛錬Lv10と運集中鍛錬Lv4を本鯖で取っているのですが、アリーナでは使わないので初...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五月の女王の変身解除無効とSSのその後]]></title>
         <id>http://rinsmile.blog70.fc2.com/blog-entry-1112.html</id>
