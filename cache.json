@@ -24,6 +24,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-772.html",
+          "author": "ミツリン",
+          "description": "先日部屋でPC作業をしている時にこの曲をかけていたのですが隣の部屋から息子が飛んできて「なんかこれ聴いたことがある！」と言っていましたそうですねブルース・リーのあの映画の曲が元ですリズムゲームなどにも収録されていますこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-772.html",
+          "publishedOn": "2022-11-06T15:00:00.000Z",
+          "wordCount": 579,
+          "title": "混沌指完成",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-771.html",
           "author": "ミツリン",
           "description": "最近息子も姪っ子もハマっている曲がありますなんて綺麗な高音なのでしょう見事な主題歌だなと聞き惚れました私はファーストから見ているのですが息子や姪っ子は初めてのガンダムになりますビットがシールドに、そこから展開してファンネル化するのはブルっときましたこんにちは　ミツリンです",
@@ -477,7 +487,18 @@
       "title": "JEFRYの悪足掻き",
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-920.html",
+          "author": "JEFRY",
+          "description": "遂に風剣士がLv1250になった。クエは超ダルかったけど、なんとかヤティカヌにもデビューした。精鋭討伐に行ってみたい！そんな想いだけで、日々ディメンションに通い、休みの日にはマキナを消費した。そして遂に、今日という日を迎えることができた。お世話になった荒地からも、ちょっとしたプレゼントをもらった。今となっては、高値では売れないんだろうが、初1000UMUは嬉しかった。ヤティカヌで狩るには、命中補正無視は必須だ",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-920.html",
+          "publishedOn": "2022-11-06T15:11:47.000Z",
+          "wordCount": 534,
+          "title": "【REDSTONE】節目",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "「RED STONE（レッドストーン）」公式ブログ",

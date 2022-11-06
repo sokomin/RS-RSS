@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-06T14:48:16.098Z</updated>
+    <updated>2022-11-06T15:24:19.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】節目]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-920.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-920.html"/>
+        <updated>2022-11-06T15:11:47.000Z</updated>
+        <summary type="html"><![CDATA[遂に風剣士がLv1250になった。クエは超ダルかったけど、なんとかヤティカヌにもデビューした。精鋭討伐に行ってみたい！そんな想いだけで、日々ディメンションに通い、休みの日にはマキナを消費した。そして遂に、今日という日を迎えることができた。お世話になった荒地からも、ちょっとしたプレゼントをもらった。今となっては、高値では売れないんだろうが、初1000UMUは嬉しかった。ヤティカヌで狩るには、命中補正無視は必須だ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[混沌指完成]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-772.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-772.html"/>
+        <updated>2022-11-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日部屋でPC作業をしている時にこの曲をかけていたのですが隣の部屋から息子が飛んできて「なんかこれ聴いたことがある！」と言っていましたそうですねブルース・リーのあの映画の曲が元ですリズムゲームなどにも収録されていますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暴走禁止のときの超越スキル]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211060002/</id>
