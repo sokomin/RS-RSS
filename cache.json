@@ -87,7 +87,18 @@
       "title": "リンズカフェ",
       "feedUrl": "http://rinsmile.blog70.fc2.com/?xml",
       "siteUrl": "http://rinsmile.blog70.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://rinsmile.blog70.fc2.com/blog-entry-1112.html",
+          "author": "リン・ドール",
+          "description": "リア仕事も一段落し、プリメのGMに復帰しました。ハニーです。こんち～！まだ忙しい日もあるものの、一時期に比べたらマシマシです。●●●　●●●　●●●◆ユニークの効果が変わってる！？お気づきの方も多いかもしれませんが、ユニークの効果が変更されているものがあるようです（Discordでペコリーノさんが発言していたので）『五月の女王』を見てきました以前と赤枠の部分が変わっていますね。（公式の案内ってあった？サイレント修正",
+          "link": "http://rinsmile.blog70.fc2.com/blog-entry-1112.html",
+          "publishedOn": "2022-11-06T07:02:48.000Z",
+          "wordCount": 812,
+          "title": "五月の女王の変身解除無効とSSのその後",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "苺桜三玖のぐ〜たらメイド日記",

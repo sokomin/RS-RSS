@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-06T07:48:13.762Z</updated>
+    <updated>2022-11-06T08:27:07.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[五月の女王の変身解除無効とSSのその後]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1112.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1112.html"/>
+        <updated>2022-11-06T07:02:48.000Z</updated>
+        <summary type="html"><![CDATA[リア仕事も一段落し、プリメのGMに復帰しました。ハニーです。こんち～！まだ忙しい日もあるものの、一時期に比べたらマシマシです。●●●　●●●　●●●◆ユニークの効果が変わってる！？お気づきの方も多いかもしれませんが、ユニークの効果が変更されているものがあるようです（Discordでペコリーノさんが発言していたので）『五月の女王』を見てきました以前と赤枠の部分が変わっていますね。（公式の案内ってあった？サイレント修正]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[物理弓で攻城出てて悲しいとき～]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211060001/</id>
