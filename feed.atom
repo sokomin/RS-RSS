@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-07T03:42:40.668Z</updated>
+    <updated>2022-11-07T04:48:36.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -812,16 +812,6 @@ T知識比西欧しましたo(*^▽^*)o
         <updated>2022-10-09T01:17:30.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[騙したな！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-900.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-900.html"/>
-        <updated>2022-10-08T16:25:58.000Z</updated>
-        <summary type="html"><![CDATA[ダ〇オン「やっと能天気なお前でも呑み込めたようだな。すべてはお前の言うとおりだ…。こぉ～んなセットOP（恩寵の）には何の未練もない。はっ、FIに恩寵追加ダメが効かないことが分かったからこそ、このOPを利用したのだ。俺の狙いは、お前のインゴット消費なのだからな！ふわぁ～は、ははｗｗｗｗお前のインゴットを無駄に消費させ、それを大笑いすることが、俺の本来の計画なのだよ。そのためには、OPの詳細を知らせるわけには]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
