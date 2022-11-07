@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-07T18:28:05.642Z</updated>
+    <updated>2022-11-07T18:54:08.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ダブクリ107万！！！]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211080000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211080000/"/>
+        <updated>2022-11-07T18:46:40.000Z</updated>
+        <summary type="html"><![CDATA[わたしの戦闘力は1,070,999​です　ですがもちろんフルパワーであなたと戦う気はありませんからご心配なく・・・混沌指を２つ装備したり、ダブクリダメが上がる超越スキルを取ったりすればもう少し上げられますが...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】節目]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-920.html</id>
