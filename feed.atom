@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-08T19:04:19.715Z</updated>
+    <updated>2022-11-08T19:38:54.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[再調整でWダメ指ってまだ作れます？]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211090000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211090000/"/>
+        <updated>2022-11-08T19:05:47.000Z</updated>
+        <summary type="html"><![CDATA[再調整実装直後に作ったWダメ滅亡指を最高補正に再構成しました。うん、かなり見映え良くなりましたね！満足です！！というわけで本題に入りますけど、↑のSSのとおり再調整の実装当初は1OP目にダメがあっても2OP...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ギルドガーディアン]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-338.html</id>
@@ -752,15 +762,6 @@ SEPTEMBER UPDATE -->
         <summary type="html"><![CDATA[使わないのに作っちゃった☆経緯①運増強素材を作成②手持ちにW運比ランディス足がある③いつぞやのNPC称号ロトでランディスが出てる④ランディスを貼り付ける⑤運増強も貼り付ける⑥できちゃった☆1101レべで装備するとちゃんと7/3増えるのを確認しました。DXUだから貼り付けできるから楽。固定増強系統もだいぶでてきたから、そろそろこういった装備も増えていくんだろうなぁ。ULTOPとの差し替え、素材の提供もある程度は出ているけども]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔育成配信#3【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=uDVPvYcedAo</id>
-        <link href="https://www.youtube.com/watch?v=uDVPvYcedAo"/>
-        <updated>2022-10-10T07:35:37.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>

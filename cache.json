@@ -186,16 +186,6 @@
           "wordCount": null,
           "title": "知識獣人育成配信#1【 REDSTONE 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uDVPvYcedAo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uDVPvYcedAo",
-          "publishedOn": "2022-10-10T07:35:37.000Z",
-          "wordCount": null,
-          "title": "黒魔育成配信#3【 REDSTONE 】",
-          "imageUrl": null
         }
       ]
     },
@@ -274,6 +264,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202211090000/",
+          "author": "雷神の弓",
+          "description": "再調整実装直後に作ったWダメ滅亡指を最高補正に再構成しました。うん、かなり見映え良くなりましたね！満足です！！というわけで本題に入りますけど、↑のSSのとおり再調整の実装当初は1OP目にダメがあっても2OP...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202211090000/",
+          "publishedOn": "2022-11-08T19:05:47.000Z",
+          "wordCount": 1456,
+          "title": "再調整でWダメ指ってまだ作れます？",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/478b43593035dbafc1f259a63c746ab7cda84880.73.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202211080000/",
           "author": "雷神の弓",
