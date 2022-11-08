@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-08T08:55:16.943Z</updated>
+    <updated>2022-11-08T09:23:26.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -795,15 +795,6 @@ T知識比西欧しましたo(*^▽^*)o
 そんな感じで[壁]ω・)ノシシ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Cities: Skylines】ロイ４世の都市建設#１]]></title>
-        <id>https://www.youtube.com/watch?v=T1SFsHgKVIY</id>
-        <link href="https://www.youtube.com/watch?v=T1SFsHgKVIY"/>
-        <updated>2022-10-09T21:14:04.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
