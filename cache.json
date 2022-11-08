@@ -62,16 +62,6 @@
           "wordCount": 576,
           "title": "石の日とスキル不発",
           "imageUrl": null
-        },
-        {
-          "id": "https://mitsurin32.blog.fc2.com/blog-entry-768.html",
-          "author": "ミツリン",
-          "description": "先週の半ばに息子が学校を早退してきましためまいが酷く歩くのも大変な状態でした一週間ほど休養をして今は元気になっています部屋でこれを見て大笑いしている程にまで回復しています季節の変わり目で疲れが出たのだと思いますみなさんも気をつけてくださいこんにちは　ミツリンです",
-          "link": "https://mitsurin32.blog.fc2.com/blog-entry-768.html",
-          "publishedOn": "2022-10-09T15:00:00.000Z",
-          "wordCount": 576,
-          "title": "突然のめまい",
-          "imageUrl": null
         }
       ]
     },
@@ -261,16 +251,6 @@
           "publishedOn": "2022-10-09T21:14:04.000Z",
           "wordCount": null,
           "title": "【Cities: Skylines】ロイ４世の都市建設#１",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XUgsabpq7ns",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XUgsabpq7ns",
-          "publishedOn": "2022-10-09T14:10:11.000Z",
-          "wordCount": null,
-          "title": "１０００UMUが出る？！【REDSTONE】赤石育成日記＃３６　朝活　戦士狩り",
           "imageUrl": null
         }
       ]
@@ -488,6 +468,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-921.html",
+          "author": "JEFRY",
+          "description": "1日もモチベを維持できなかったオッサンが1人。装備改善や数々の助言をいただいた方々に申し訳ない・・・言い訳でしかないが、永らく無課金で遊んでいるため、鞄内のスフィアや補填の1日スフィア、プチポタ関係がどんどん減っていき、遂に底をついてしまった。マキナやソロ経験宝箱、大量に配布された攻撃できるカーペットがあるため、レベリング的にはあまり困らないが、やはりスフィア無しはモチベが上がらない。選択肢としては",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-921.html",
+          "publishedOn": "2022-11-08T03:36:58.000Z",
+          "wordCount": 539,
+          "title": "【REDSTONE】これからどうする？",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-920.html",
           "author": "JEFRY",

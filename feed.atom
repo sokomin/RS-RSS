@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-08T01:58:43.310Z</updated>
+    <updated>2022-11-08T03:38:37.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】これからどうする？]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-921.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-921.html"/>
+        <updated>2022-11-08T03:36:58.000Z</updated>
+        <summary type="html"><![CDATA[1日もモチベを維持できなかったオッサンが1人。装備改善や数々の助言をいただいた方々に申し訳ない・・・言い訳でしかないが、永らく無課金で遊んでいるため、鞄内のスフィアや補填の1日スフィア、プチポタ関係がどんどん減っていき、遂に底をついてしまった。マキナやソロ経験宝箱、大量に配布された攻撃できるカーペットがあるため、レベリング的にはあまり困らないが、やはりスフィア無しはモチベが上がらない。選択肢としては]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダブクリ107万！！！]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211080000/</id>
@@ -792,25 +802,6 @@ T知識比西欧しましたo(*^▽^*)o
         <id>https://www.youtube.com/watch?v=T1SFsHgKVIY</id>
         <link href="https://www.youtube.com/watch?v=T1SFsHgKVIY"/>
         <updated>2022-10-09T21:14:04.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突然のめまい]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-768.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-768.html"/>
-        <updated>2022-10-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先週の半ばに息子が学校を早退してきましためまいが酷く歩くのも大変な状態でした一週間ほど休養をして今は元気になっています部屋でこれを見て大笑いしている程にまで回復しています季節の変わり目で疲れが出たのだと思いますみなさんも気をつけてくださいこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[１０００UMUが出る？！【REDSTONE】赤石育成日記＃３６　朝活　戦士狩り]]></title>
-        <id>https://www.youtube.com/watch?v=XUgsabpq7ns</id>
-        <link href="https://www.youtube.com/watch?v=XUgsabpq7ns"/>
-        <updated>2022-10-09T14:10:11.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>
