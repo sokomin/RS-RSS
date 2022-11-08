@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-08T17:08:32.178Z</updated>
+    <updated>2022-11-08T17:42:08.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -761,50 +761,6 @@ SEPTEMBER UPDATE -->
         <updated>2022-10-10T07:35:37.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡、再び。]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/255e9380d2a9c5e1ee7df5732926c31d</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/255e9380d2a9c5e1ee7df5732926c31d?fm=rss"/>
-        <updated>2022-10-10T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[3連休も最終日です。
-
-姫は5年ぶりの鏡ですね。
-
-TRSは成功していますが、T知識比はまだ成功せず・・・
-
-成功確率は34％・・・・
-
-！！！！！！
-
-キタ━━━━ヽ(・ω・`)ノ━━━━!!!!
-T知識比西欧しましたo(*^▽^*)o
-これで多少火力あがる・・・・・かな？
-
-
-これでトータルは10勝9敗（物理ID：5勝6敗、知識ID：5勝3敗)。
-知識IDの方が成功率高いですね。
-物理IDはいまだにシフ君が成功していないからな・・・
-失敗の半分はシフ君だし(￣ω￣;)
-
-
-次は・・・・つか、鏡できそうなキャラは当分いないな(￣ω￣;)
-また数年後に鏡の記事を書ければと思います。
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ノシシ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
