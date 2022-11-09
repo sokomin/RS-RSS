@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-09T11:35:16.296Z</updated>
+    <updated>2022-11-09T11:48:16.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不具合修正と先行実装？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-911.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-911.html"/>
+        <updated>2022-11-09T11:35:31.000Z</updated>
+        <summary type="html"><![CDATA[珍しいというかなんというか…【ご案内】・900レべ以降の主要な狩場にミラーを追加一足早く実装されました。なお、対象となった狩場は既存のミラーもひっくるめて仕様が変わっています。つまるところ、ミラーの記憶とクエ進行はさせねぇから！ヤティ狩場の仕様にひっぱられた※RSかけらやイベントアイテムは出る。闇商人はでない？あと地味にハブられた狩場があるんですけど…地下墓地B2は追加されています。あ、ミラーの数は狩場によ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.11.9 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/e2b60994658e710f87630e9b83efea19</id>
