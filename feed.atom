@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-10T17:02:05.490Z</updated>
+    <updated>2022-11-10T17:39:42.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[更にダブクリダメを少しUPさせました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211110000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211110000/"/>
+        <updated>2022-11-10T17:18:06.000Z</updated>
+        <summary type="html"><![CDATA[ダブクリダメが、​1,078,351​　になりました。（7000ちょいしか上がっていませんが）ダブクリ増加10％で3万～4万程度赤ダメがUPするので、7000ちょっとの増加ということは・・・こういうことです！露店に350本で...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[終わりなき修正の旅]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-912.html</id>
