@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-10T21:21:59.456Z</updated>
+    <updated>2022-11-10T21:49:14.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -794,16 +794,6 @@ SEPTEMBER UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特にパッとしないというかなんというか…]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-902.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-902.html"/>
-        <updated>2022-10-12T09:41:38.000Z</updated>
-        <summary type="html"><![CDATA[まぁアプデ近いし…【配布品など】・冒険家アンケート公式のあれ【復活100％なログキャン】11/8(火)23:59まで。前回と変わらず、ランダムアイテムタイプ。コンプマスとかもなんか手抜きになってない？GO☆MIクリスタルでないからいいけど…25日必要なため、猶予は3日です。いつまで新をつけるかわかんない詳細TOPにもある直飛び【ゲーム内でやるほうのログキャン】11/9(水)メンテまで。こっちはゲーム内でやるタイプ。その日の初回ロ]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
