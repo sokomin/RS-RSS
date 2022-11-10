@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-10T02:02:45.649Z</updated>
+    <updated>2022-11-10T03:40:24.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -794,16 +794,6 @@ SEPTEMBER UPDATE -->
         <summary type="html"><![CDATA[:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::冒険家感謝祭デイリーログインイベント第1弾となってるので第2弾もあるものと思いますが。第1弾はゲームにログインして冒険家感謝祭のログインチェックするだけですね。もらえるアイテムについてはゲーム内で確認が良いかと思います。:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::他、常設状態のログインキャンペーン開催。課金のほうはアンケートロト]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[借り物で狩り！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-334.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-334.html"/>
-        <updated>2022-10-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[狩りがとても不得意で他の人の1/10くらいのペースで成長しているオオカミ少年ですがそろそろ何とかしないといけないかなと思っていました＾＾；怒り装備の限界を感じました＾＾；それで赤ダメで狩れるように純粋を買い集めベースをどうしようかなと考えていたところ無課金Gメンのえこーさんから純粋装備+武器+ピースを貸してくれると言われたのでお言葉に甘え装備を借りる事にしました＾＾他人様の装備なのでSS撮って公開するわけ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
