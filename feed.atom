@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-11T08:31:33.202Z</updated>
+    <updated>2022-11-11T08:55:36.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年9～10月総括【RED STONE】]]></title>
+        <id>https://chorrealism.com/?p=3488</id>
+        <link href="https://chorrealism.com/redstone/su221031/"/>
+        <updated>2022-11-11T08:31:03.000Z</updated>
+        <summary type="html"><![CDATA[この2ヶ月はとにかくつらかった。とにかくレッドストーンの負担が尋常じゃない。途中投げ出したくて仕方がなかったが、このゲームは頑張るべきタイミングで頑張らないと後悔することが往々にしてあるので、歯を食いしばってゲームをする […]
+The post 2022年9～10月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更にダブクリダメを少しUPさせました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211110000/</id>

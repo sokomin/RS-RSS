@@ -245,7 +245,18 @@
       "title": "無職と美学とシュルレアリスム",
       "feedUrl": "https://chorrealism.com/feed/",
       "siteUrl": "https://chorrealism.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://chorrealism.com/?p=3488",
+          "author": "cho",
+          "description": "この2ヶ月はとにかくつらかった。とにかくレッドストーンの負担が尋常じゃない。途中投げ出したくて仕方がなかったが、このゲームは頑張るべきタイミングで頑張らないと後悔することが往々にしてあるので、歯を食いしばってゲームをする […]\nThe post 2022年9～10月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.",
+          "link": "https://chorrealism.com/redstone/su221031/",
+          "publishedOn": "2022-11-11T08:31:03.000Z",
+          "wordCount": 4380,
+          "title": "2022年9～10月総括【RED STONE】",
+          "imageUrl": "https://chorrealism.com/wpcho/wp-content/uploads/2021/12/rs220111-プレイ記録.png"
+        }
+      ]
     },
     {
       "title": "淑女の休日",
