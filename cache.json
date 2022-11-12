@@ -741,7 +741,18 @@
       "title": "カルDXのレッドストーン放浪",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/karudxrs/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/karudxrs/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202211120000/",
+          "author": "たつ2307",
+          "description": "Ｓ鯖　ＶＳ　Ｂ鯖の300制限ＧＶのルール等こちらのブログに詳細が記載されております。​300制限ＧＶ​よろしくお願いします！300制限の醍醐味は、装備とかが結構簡単わいわい楽しく出来る（今はちょっと人数少ない...",
+          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202211120000/",
+          "publishedOn": "2022-11-12T13:32:59.000Z",
+          "wordCount": 1597,
+          "title": "300制限ルール（S鯖 VS B鯖）",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/5b0a0eca95cfedfc8971842c2de71238d1ef77bf.35.9.9.3.jpeg"
+        }
+      ]
     },
     {
       "title": "rb79kのブログ",
