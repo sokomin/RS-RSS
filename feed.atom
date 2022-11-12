@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-12T13:42:37.190Z</updated>
+    <updated>2022-11-12T14:19:41.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[増えるミラーと増えないやる気]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-913.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-913.html"/>
+        <updated>2022-11-12T14:18:03.000Z</updated>
+        <summary type="html"><![CDATA[むしろ減ってる。ようやく解禁されたULTOP異次元、早速と言わんばかりにあれこれねじ込んだ。全部死んだ。素材が出るときは中途半端にまじり、ベースが出るときは何も混じらない…次は逆成功か？！それかどうでもいいのが成功するパターン…おまけに最近色々と空回り気味だし、Slvも増えない（タートベースのTRSULTが全く見つからない上に競合多い）し、確率は仕事しない…。やっぱり戻るか？一人にという状況です。偶然にも所用で入]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[300制限ルール（S鯖 VS B鯖）]]></title>
         <id>https://plaza.rakuten.co.jp/karudxrs/diary/202211120000/</id>
