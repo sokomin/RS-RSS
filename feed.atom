@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-13T14:48:23.946Z</updated>
+    <updated>2022-11-13T15:23:02.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アプデ後のミラーを調べる]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-773.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-773.html"/>
+        <updated>2022-11-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近はだいぶ寒くなりましたね先日台所に季節外れのムカデ（10センチくらい）が出現しました我が家ではムカデが出現すると親子で即座に脳内でこれが再生されます逃してしまうと何だか安心出来ませんが無事に退治できましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[増えるミラーと増えないやる気]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-913.html</id>
