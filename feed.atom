@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-13T23:50:35.851Z</updated>
+    <updated>2022-11-14T01:57:01.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ダブクリ111万]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211140000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211140000/"/>
+        <updated>2022-11-14T01:53:33.000Z</updated>
+        <summary type="html"><![CDATA[頭を全吸収ULTからフロントラインに変更すると111万台までUPします。暁のPVPエリアは吸収が必要ないので、ダブクリ111万で狩りができます。石の日なので、少しだけ狩りしてきます。]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アプデ後のミラーを調べる]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-773.html</id>
