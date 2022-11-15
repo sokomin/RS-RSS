@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-15T03:18:44.618Z</updated>
+    <updated>2022-11-15T03:57:11.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -743,16 +743,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[強いられたから…2022/9/7のアプデで実装されたULTOPもだいぶ出回り始めたこの頃その前から素材作成の依頼を受けてました。使用したお金は払うとのことなので、もろもろ合わせた金額の100％OFFしたお金を請求しました。要するに0本だ！！ちなみにS鯖です。V鯖？知らんよ結局作った素材はこんな感じ。力固定増強（50％）健康固定増強（50％）知識固定増強（50％）運増強（50％）攻撃力増強（50％）魔力増強（49％）攻撃ULT（250％）]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今更シュラグソロ]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202210170000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202210170000/"/>
-        <updated>2022-10-16T15:50:13.000Z</updated>
-        <summary type="html"><![CDATA[どうもみなさん。魔法の壁です。さて、課金も切れたので特にやることが無く今更ながらシュラグ超絶級なるものに行ってきました。今回も動画を撮ってありますのでどうぞ。​シュラグ超絶級ソロ​まずは1段階目ですが...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
