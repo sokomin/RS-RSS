@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-16T10:49:22.626Z</updated>
+    <updated>2022-11-16T11:18:41.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[変わっていくもの（しれっとも含む）]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-914.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-914.html"/>
+        <updated>2022-11-16T11:07:30.000Z</updated>
+        <summary type="html"><![CDATA[数は多くないけど…重要度がねぇ？【お知らせ？】・ハンターコインのアイテム交換は11/23(水)10時までです。メンテまでかと思ったが、祝日だからなぁ…・MQスクロールと称号任命書が常設されました。…とうとう常設されたのか。ちなみにモールの「おすすめアイテム」にいますよ。いつも通りの公式のあれ【日本プロデューサー交代】6年間プロデューサーであった清水氏が退任し、運営チームから卒業することになりました。今後は見守る]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.11.16イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/ca6d4a00c75d8d9f2d18d346defbcd42</id>
