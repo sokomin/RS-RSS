@@ -189,7 +189,18 @@
       "title": "魔法の壁のリアルライふ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/mahounokabe/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/mahounokabe/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/mahounokabe/diary/202211160000/",
+          "author": "裁判官",
+          "description": "下記のとおりです。・・・・・・・・・・・・・・・・・・ｗｗ",
+          "link": "https://plaza.rakuten.co.jp/mahounokabe/diary/202211160000/",
+          "publishedOn": "2022-11-16T08:43:54.000Z",
+          "wordCount": 1493,
+          "title": "珍しく最近のリアルねたでも。",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/d1bcdc8528cf87d353b8aea8999abeee3a2ed919.49.9.9.3.png"
+        }
+      ]
     },
     {
       "title": "ファーぶろぐ ☆ RED STONE ブリッジヘッド鯖",
