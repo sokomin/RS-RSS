@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T03:16:30.083Z</updated>
+    <updated>2022-11-17T03:51:52.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム全般】次なるオンラインゲームは？]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-922.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-922.html"/>
+        <updated>2022-11-17T03:25:37.000Z</updated>
+        <summary type="html"><![CDATA[LOST ARKの過疎化は今なお進行していて、今後はギルドに所属していないと最新の軍団長レイドさえままならない様になるだろう。いや、既にそうなっており、野良PT募集だと揃うのに1時間以上かかることも珍しく無い。こうなってくると、過疎化はますます進行してしまう悪循環に陥る。おそらく、もう以前のような活気は戻らないだろう。要因はエンドコンテンツ不足、ゲーム性が日本人に合わないなどと言われているが、運営がテコ入れ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[変わっていくもの（しれっとも含む）]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-914.html</id>
