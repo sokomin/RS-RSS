@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T07:48:23.463Z</updated>
+    <updated>2022-11-17T08:29:20.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[再調整でダメが出るか実験]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211170000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211170000/"/>
+        <updated>2022-11-17T07:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Wダメプログレスを作ろうとしたら61連敗したので、2OP目にダメが出るか試してみました。1OP目が速度だと普通に2OP目にダメを引けますね。ということは、1OP目と同じOPは2OP目に付かないようになっているのか、そ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ゲーム全般】次なるオンラインゲームは？]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-922.html</id>
