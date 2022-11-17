@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T11:30:33.481Z</updated>
+    <updated>2022-11-17T11:48:38.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[常設といったな]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-915.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-915.html"/>
+        <updated>2022-11-17T11:36:10.000Z</updated>
+        <summary type="html"><![CDATA[あれは嘘だ【称号とMQスクロールの販売期間設定】2022/11/17の17時に称号とMQスクロールは期間限定ですって追記されました。普段のキャンペページを用意してないから常設と思ったら…しかも水曜日祝日のせいか、火曜日メンテで販売期間が1日短いなお、いつまでかというと11/22（火）メンテまで。つまり1週間パターンでした。どうしてキャンペーンページを作らなかったんですか？…とにかく、いつも通りの販売と思えばいいのだろうか]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再調整でダメが出るか実験]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211170000/</id>
