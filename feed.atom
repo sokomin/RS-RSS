@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T01:51:43.453Z</updated>
+    <updated>2022-11-19T03:13:08.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フェンシングヘッジャー]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-182.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-182.html"/>
+        <updated>2022-11-19T02:27:45.000Z</updated>
+        <summary type="html"><![CDATA[布団の脱出難易度が徐々に上がってまいりましたが、気合を入れて脱出に成功しました。そんな夢を見た第三の猫です。ついに導きの楽士で習得できる覚醒スキルをコンプリートしました。最後に覚えたスキルはこちら、「ヘッジャーフェンシング」です。ヘッジャーヘッジングの覚醒版で、防御低下が追加されました。もう一度使ってみましょう。・・・2HITするんですね（知らなかった）次は範囲を見てみます。フェンシングはマジロリ（ア]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[常設といったな]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-915.html</id>
