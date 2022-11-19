@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T07:30:53.465Z</updated>
+    <updated>2022-11-19T07:48:14.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一応動いてはいる]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-916.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-916.html"/>
+        <updated>2022-11-19T07:41:25.000Z</updated>
+        <summary type="html"><![CDATA[V鯖での話。弱化から強化に差し替えるために、予知が必要な状況。しかし、全吸収ULTは盛らないともったいないというかなんというか…そのうち来る1250のあれ？買えないってしばらく動いてなかったけど、ようやく素材が出回っていたので異次元するよ！最近よく混ぜる…そして完成したものがこちらです。過程は置いてきた。素材1OP消滅からの1OP残り調子に乗ってT吸収にしたのはいいけど、問題点が一つ。武器どうすんだこれメディｒｙ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フェンシングヘッジャー]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-182.html</id>
