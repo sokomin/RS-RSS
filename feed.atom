@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T08:51:14.438Z</updated>
+    <updated>2022-11-19T09:20:19.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Music Center for PCからMusic Beeへの移行とカスタマイズ【音楽】]]></title>
+        <id>https://chorrealism.com/?p=3279</id>
+        <link href="https://chorrealism.com/guitar-music/music-bee/"/>
+        <updated>2022-11-19T09:03:13.000Z</updated>
+        <summary type="html"><![CDATA[私は携帯用の音楽プレイヤーとして、長いことSONYのウォークマンを使っている。そのため、音楽ファイルの管理にずっと同社の「Music Center for PC」を使っていたんだけど、アルバム数が増えるにつれて挙動が遅い […]
+The post Music Center for PCからMusic Beeへの移行とカスタマイズ【音楽】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一応動いてはいる]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-916.html</id>
