@@ -276,6 +276,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202211190000/",
+          "author": "雷神の弓",
+          "description": "​なぜ全吸収型にしたかというと、再調整のために黒魔を混沌11層～に行かせるようになったからです。そこでは魔法吸収がないと即死することが多いので、弓で使っているＴ吸収ULT精霊王を付けてみました。しかし、...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202211190000/",
+          "publishedOn": "2022-11-19T15:05:49.000Z",
+          "wordCount": 1520,
+          "title": "黒魔を全吸収型に変更しました",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/f8899016c7c414bb690799dff9514dec8db5d659.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202211170000/",
           "author": "雷神の弓",
           "description": "Wダメプログレスを作ろうとしたら61連敗したので、2OP目にダメが出るか試してみました。1OP目が速度だと普通に2OP目にダメを引けますね。ということは、1OP目と同じOPは2OP目に付かないようになっているのか、そ...",

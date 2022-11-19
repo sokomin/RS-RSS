@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T14:48:15.363Z</updated>
+    <updated>2022-11-19T15:21:24.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黒魔を全吸収型に変更しました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211190000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211190000/"/>
+        <updated>2022-11-19T15:05:49.000Z</updated>
+        <summary type="html"><![CDATA[​なぜ全吸収型にしたかというと、再調整のために黒魔を混沌11層～に行かせるようになったからです。そこでは魔法吸収がないと即死することが多いので、弓で使っているＴ吸収ULT精霊王を付けてみました。しかし、...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Music Center for PCからMusic Beeへの移行とカスタマイズ【音楽】]]></title>
         <id>https://chorrealism.com/?p=3279</id>
