@@ -470,6 +470,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-923.html",
+          "author": "JEFRY",
+          "description": "割と真面目な提案。マキナやオーラ、経験値ソロバフが実装されて、スフィア課金ってほぼ必要無くなってるのもあり、大半の人は無課金プレイなんじゃないかと思う今日この頃。複垢所持、VPCによる多重起動により、外掛け支援や狩場移動も自由自在。イベントや不具合の度に配布される大量の贈り物で溢れたアカウントは、物によってはアカウント共有可能で、課金などせずとも快適にプレイできる。そうやってプレイしている人が課金し",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-923.html",
+          "publishedOn": "2022-11-20T00:30:48.000Z",
+          "wordCount": 539,
+          "title": "【REDSTONE】そろそろ有料化しないか？",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-922.html",
           "author": "JEFRY",
           "description": "LOST ARKの過疎化は今なお進行していて、今後はギルドに所属していないと最新の軍団長レイドさえままならない様になるだろう。いや、既にそうなっており、野良PT募集だと揃うのに1時間以上かかることも珍しく無い。こうなってくると、過疎化はますます進行してしまう悪循環に陥る。おそらく、もう以前のような活気は戻らないだろう。要因はエンドコンテンツ不足、ゲーム性が日本人に合わないなどと言われているが、運営がテコ入れ",
@@ -957,28 +967,7 @@
       "title": "～軌跡Ⅱ～(RSﾌﾞﾘｯｼﾞﾍｯﾄﾞ)",
       "feedUrl": "http://yuntohoozuki.blog.fc2.com/?xml",
       "siteUrl": "http://yuntohoozuki.blog.fc2.com/",
-      "articles": [
-        {
-          "id": "http://yuntohoozuki.blog.fc2.com/blog-entry-95.html",
-          "author": "ユンユン",
-          "description": "こんな子・。・",
-          "link": "http://yuntohoozuki.blog.fc2.com/blog-entry-95.html",
-          "publishedOn": "2022-10-21T13:55:18.000Z",
-          "wordCount": null,
-          "title": "ちなみに",
-          "imageUrl": null
-        },
-        {
-          "id": "http://yuntohoozuki.blog.fc2.com/blog-entry-94.html",
-          "author": "ユンユン",
-          "description": "RS戻ってきてます・。・新キャラでINしてますほぼ深海シリーズ名で船乗り（キャプテン）で遊んでます他のキャラスキル変わってたり面倒なのも併せて面倒ってのもあるけど・・・体調優先で短時間だけど昼間だったり夜だったりただいま・。・ノ",
-          "link": "http://yuntohoozuki.blog.fc2.com/blog-entry-94.html",
-          "publishedOn": "2022-10-21T13:32:36.000Z",
-          "wordCount": null,
-          "title": "ぼちぼちと",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "グレゴリオ麺道　〜Red Stoneと麺類〜",

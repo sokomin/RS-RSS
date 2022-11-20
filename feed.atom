@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T23:48:13.644Z</updated>
+    <updated>2022-11-20T01:59:26.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】そろそろ有料化しないか？]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-923.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-923.html"/>
+        <updated>2022-11-20T00:30:48.000Z</updated>
+        <summary type="html"><![CDATA[割と真面目な提案。マキナやオーラ、経験値ソロバフが実装されて、スフィア課金ってほぼ必要無くなってるのもあり、大半の人は無課金プレイなんじゃないかと思う今日この頃。複垢所持、VPCによる多重起動により、外掛け支援や狩場移動も自由自在。イベントや不具合の度に配布される大量の贈り物で溢れたアカウントは、物によってはアカウント共有可能で、課金などせずとも快適にプレイできる。そうやってプレイしている人が課金し]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黒魔を全吸収型に変更しました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211190000/</id>
@@ -782,26 +792,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[不毛な戦いがやっと終わりました。前回Lv11まで上げた滅亡は、似ていますがあれは力比でした。というわけで、２個目の滅亡をLv11まで上げましたが、このコンテンツはキツ過ぎるのでもうやりたくありませんねぇ。...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ちなみに]]></title>
-        <id>http://yuntohoozuki.blog.fc2.com/blog-entry-95.html</id>
-        <link href="http://yuntohoozuki.blog.fc2.com/blog-entry-95.html"/>
-        <updated>2022-10-21T13:55:18.000Z</updated>
-        <summary type="html"><![CDATA[こんな子・。・]]></summary>
-        <author>
-            <name>ユンユン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぼちぼちと]]></title>
-        <id>http://yuntohoozuki.blog.fc2.com/blog-entry-94.html</id>
-        <link href="http://yuntohoozuki.blog.fc2.com/blog-entry-94.html"/>
-        <updated>2022-10-21T13:32:36.000Z</updated>
-        <summary type="html"><![CDATA[RS戻ってきてます・。・新キャラでINしてますほぼ深海シリーズ名で船乗り（キャプテン）で遊んでます他のキャラスキル変わってたり面倒なのも併せて面倒ってのもあるけど・・・体調優先で短時間だけど昼間だったり夜だったりただいま・。・ノ]]></summary>
-        <author>
-            <name>ユンユン</name>
         </author>
     </entry>
 </feed>
