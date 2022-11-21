@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-21T14:48:22.905Z</updated>
+    <updated>2022-11-21T15:23:33.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ぶつかる双星]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-340.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-340.html"/>
+        <updated>2022-11-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回のイベ箱集めは雨アチャではなくオオカミ少年でいいかなと思っていたのでオオカミ少年のレベ上げと同時にしていましたがそのおかげでオオカミ少年が1050になりました＾＾お盆に復帰した時に1025くらいだったので月8くらいずつ上がってたのかな？他の方から見たらスローペースなんでしょうけどわたし的にはハイペースだったりします＾＾いままで年間２０upするくらいだったかな＾＾：それで休日だった事と復帰ボックス開けて1週]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【LOST ARK】無期限休止]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-924.html</id>
