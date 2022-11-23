@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-23T17:30:44.203Z</updated>
+    <updated>2022-11-23T17:48:39.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -791,16 +791,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[先週メンテから始まったハンター証ドロップイベント。月曜～日曜のサイクルで垢につき週100個限定ドロップで銀行に入れてまとめる事が出来るのが良い所ですが毎週月曜にリセットされるというのが人によっては苦しいかなと思います＾＾；キャラごとに出したのを銀行でまとめられるのはすごくいいです＾＾このイベは垢で出せる上限がついちゃってるのが人によっては物足りないかもしれませんがわたしにとっては週ごとにリセットされ]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウェポンブレイカー]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202210250000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202210250000/"/>
-        <updated>2022-10-25T05:35:59.000Z</updated>
-        <summary type="html"><![CDATA[ハンターの証でもらった製錬ガードでやっと+10になり完成しました。予算の関係でWガイルートにする予定はありませんが、精鋭討伐等でタダでガイルートが手に入ったらWにするかも知れません。短いですが、今回はこ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
