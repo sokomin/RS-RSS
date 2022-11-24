@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-24T09:48:35.719Z</updated>
+    <updated>2022-11-24T10:21:58.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ポケットモンスタースカーレット】その２ヌシを先にボコる&ポケモン乱獲]]></title>
+        <id>https://www.youtube.com/watch?v=onvGNXp3fZg</id>
+        <link href="https://www.youtube.com/watch?v=onvGNXp3fZg"/>
+        <updated>2022-11-24T10:00:17.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[懲りずに異次元するやつ]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-918.html</id>
