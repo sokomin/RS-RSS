@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-26T10:48:12.361Z</updated>
+    <updated>2022-11-26T11:16:14.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バインドと恩寵]]></title>
+        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202211260000/</id>
+        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202211260000/"/>
+        <updated>2022-11-26T10:57:05.000Z</updated>
+        <summary type="html"><![CDATA[みなさんこんばんは。魔法の壁です。最近セットOPが気になっていろいろ調べているのですが、「恩寵の」でダメージを伸ばすといいらしいです。しかし、僕のこれまでの認識ではバインドブレイズに恩寵ダメは乗らな...]]></summary>
+        <author>
+            <name>裁判官</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[混沌でたまに突然死するので]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211250000/</id>
