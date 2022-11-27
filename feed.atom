@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-27T14:48:18.335Z</updated>
+    <updated>2022-11-27T15:19:33.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RSPASS、クリティカルの注意点]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-775.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-775.html"/>
+        <updated>2022-11-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[息子が好きなVチューバーが配信でとあるゲームをやっていた影響を受けて息子もこれをやってみたいと始めていました今はちょうどここではまっていますもちろんガキやマタドールも大苦戦していましたパトリまくりですね誰もが通る道ですので頑張りましょうこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ポケットモンスタースカーレット】その３　ジムリーダー絶滅させる（ついでに☆も）]]></title>
         <id>https://www.youtube.com/watch?v=hYdavrzCpkA</id>
