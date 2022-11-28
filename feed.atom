@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-28T07:48:22.150Z</updated>
+    <updated>2022-11-28T08:27:04.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[9/8拍子って何だよ]]></title>
+        <id>kaze.gg-blog.com://entry/171</id>
+        <link href="http://kaze.gg-blog.com/wakuteka/9-8%E6%8B%8D%E5%AD%90%E3%81%A3%E3%81%A6%E4%BD%95%E3%81%A0%E3%82%88"/>
+        <updated>2022-11-28T08:01:37.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+ 
+
+なんだこれ
+
+
+とりあえず
+いつもいじめられている銀さんの醜態を晒しておきます
+
+
+では！]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RSPASS、クリティカルの注意点]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-775.html</id>
