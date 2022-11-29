@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-29T02:55:54.188Z</updated>
+    <updated>2022-11-29T03:30:01.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -756,16 +756,6 @@ OCTOBER UPDATE -->
 月末ということは。そう！ブログ更新日ですね！ アニバイベント＆宝物地図箱改定＆経験値イベント同時襲来 キャプテン覚醒実装と同時に訪れた怒涛の狩り催促イベントたち。 宝物地図システム改変 経験値+アイテムドロップアップイベント開催！ ULTU職業防具やBF…]]></summary>
         <author>
             <name>The Adventure Of The Jacks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精鋭討伐にリベンジ]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-771.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-771.html"/>
-        <updated>2022-10-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近息子も姪っ子もハマっている曲がありますなんて綺麗な高音なのでしょう見事な主題歌だなと聞き惚れました私はファーストから見ているのですが息子や姪っ子は初めてのガンダムになりますビットがシールドに、そこから展開してファンネル化するのはブルっときましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
