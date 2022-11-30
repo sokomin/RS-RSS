@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-30T14:19:08.269Z</updated>
+    <updated>2022-11-30T14:33:49.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[再調整でWRS指は作れました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211300000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211300000/"/>
+        <updated>2022-11-30T14:26:00.000Z</updated>
+        <summary type="html"><![CDATA[1OP目にダメが付いているプログレスの2OP目を再調整してWダメにしようとしましたが、何とですね現在63連敗中ですｗ1OP目に付いているOPは2OP目に出ないのかも？などと思いましたが、WRSは簡単に成功してしまいま...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.1.30 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/774e4ab9c31d692218d8235bd68852f7</id>
