@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-30T10:48:27.489Z</updated>
+    <updated>2022-11-30T11:17:51.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.1.30 イベ更新]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/774e4ab9c31d692218d8235bd68852f7</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/774e4ab9c31d692218d8235bd68852f7?fm=rss"/>
+        <updated>2022-11-30T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[最近またよく眠れなくなりました。
+
+OCTOBER UPDATE -->
+
+
+
+
+(3ボックスドロップイベント
+
+9月7日メンテ後から10月5日メンテ前まで
+前期（9/7から9/21：「コンテスト装備BOX」
+後期（9/21から10/5）：「コンテスト装備BOXⅡ」
+後期「コンテスト装備BOXⅡ」がドロップします。
+
+9月7日メンテ後から10月5日メンテ前まで
+
+
+課金イベントはこちら
+
+
+11月22日メンテ後から12月14日メンテ前まで
+
+
+さて、今週もまったり楽しみましょう。
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[久しぶりのスクラッチ？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-919.html</id>
