@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-30T10:22:32.837Z</updated>
+    <updated>2022-11-30T10:48:27.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[久しぶりのスクラッチ？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-919.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-919.html"/>
+        <updated>2022-11-30T10:21:56.000Z</updated>
+        <summary type="html"><![CDATA[久しぶりかはしらんけど。【お知らせ？】・ラウンドロトの一部アイテムが違ってた件・それに関する補填・ログキャンがおかしかったとこの処理いつものあれ【ゲーム内でやるログキャン】12/14(水)メンテまで。12日分ある。猶予は…3日？ゲーム内だから楽だと思うよ？詳細ですよ【スクラッチ】12/21(水)メンテまで。1回にコイン10枚です。とはいえ、いつも通りお得セットがあるから実質500円？レアの設定が特異なので何とも言えないが]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いざ、ヤティカヌ！]]></title>
         <id>https://rs-clair-de-lune.com/2022-11-30/</id>
