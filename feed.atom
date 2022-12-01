@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-01T23:20:52.988Z</updated>
+    <updated>2022-12-01T23:34:39.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -765,16 +765,6 @@ OCTOBER UPDATE -->
         <updated>2022-11-03T06:01:15.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近日って？]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-909.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-909.html"/>
-        <updated>2022-11-02T11:29:04.000Z</updated>
-        <summary type="html"><![CDATA[2週間たっても治りません。元々できた仕様をしれっと変えるくせに、すぐ治さない【配布物】・港町Boxそれだけの詳細【スフィアリミテッド】11/9(水)メンテまで。いつも通りのあれ。スフィアの値段におまけがついているだけのあれ。羊もいつも通りだし、それ以外も特にひねったものもなく…あっさりとした詳細【実質プリズムコクーン販売】11/16(水)メンテまで。かつてあったアンケートの結果が反映されている。けど正直忘れてた。値]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
