@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-03T03:21:10.898Z</updated>
+    <updated>2022-12-03T03:34:38.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MQ2：その２]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-183.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-183.html"/>
+        <updated>2022-12-03T03:20:37.000Z</updated>
+        <summary type="html"><![CDATA[師走を迎え、暖房器具もいよいよウォーミングアップを始めましたので、私もメインクエストシーズン２を再開していきたいと思います。ポタ出しがソロで可能になった、やさしさあふれるシーズン２の秘密ダンジョンは良いものです。今回はエステルさんも付いてきてくれるようです。ギルドダンジョンのように後ろをついてくるのかと思いましたが、エステルさんは不動さん。少しダンジョンを進んだ先、入口から徒歩5秒のところに、第二]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リバースのHP]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212020000/</id>
