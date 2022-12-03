@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-03T02:29:19.369Z</updated>
+    <updated>2022-12-03T02:55:02.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -775,16 +775,6 @@ OCTOBER UPDATE -->
         <updated>2022-11-03T15:39:26.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[供給がないなら、突っ込むしかない]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-910.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-910.html"/>
-        <updated>2022-11-03T14:52:49.000Z</updated>
-        <summary type="html"><![CDATA[TRSULTタートを探しても見つからない現状です。ベースとしてみたら使い勝手悪いから総数が多くないのかそれとも…ならばもう手持ちの鏡をぶち込むしかねぇ！！他に魅力的なのは多いけど、知らん。ということで、割る前提でねじこんだ。割れなかったなんで？…とにかく、これで10か所TRSULT相当のものが入りました。なんで相当かって？1個TRSDXSGだもんあとはベースをタートに差し替えていく作業が待っている…でも買えないし、ワーム]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
