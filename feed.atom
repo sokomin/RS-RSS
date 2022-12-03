@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-03T03:34:38.991Z</updated>
+    <updated>2022-12-03T03:48:13.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -776,15 +776,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[800本で買った万能解放で4解放にしたので、全部で900本近く掛かっています。え？なんでこんな物作ったのかって？それはな、欲しい物もやりたいこともなくて暇だったからだよ！こんなので無駄使いしちゃって大丈夫...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メテオWIZ育成配信#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=6mF3qobP_Gg</id>
-        <link href="https://www.youtube.com/watch?v=6mF3qobP_Gg"/>
-        <updated>2022-11-03T15:39:26.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
