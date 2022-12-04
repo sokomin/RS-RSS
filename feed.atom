@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-04T14:48:31.152Z</updated>
+    <updated>2022-12-04T15:18:42.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヤティカヌで被弾するとどうなるか、今日の闇商人]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-776.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-776.html"/>
+        <updated>2022-12-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日息子がスマホを見ながらニヤニヤしていたのでこれはもしやお年頃だし綺麗なお姉さんの水着動画でも見て発情しているのか！？と思い聞いてみたらこれでした私の勘違いでしたね思えば私も息子くらいの時に学校から帰ってくると母親が勝手に部屋を掃除したようで隠しておいたはずのエッ○な本が1月号から順に本棚に並べられていていた時は焦ったものですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[導きサマナ育成配信#1【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=zS4hldCTHj4</id>
