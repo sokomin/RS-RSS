@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-04T03:48:26.839Z</updated>
+    <updated>2022-12-04T04:23:21.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】キャプテン育成開始]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-926.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-926.html"/>
+        <updated>2022-12-04T03:47:47.000Z</updated>
+        <summary type="html"><![CDATA[LOST ARKとの掛け持ちをやめてから、REDSTONEの狩りに時間がかなり長くなった。狩り嫌いだとおもってんだが、どうやら掛け持ちが精神的に負担で、狩りが長続きしないだけだったようだ。動画観ながらのダラダラ狩りでも、レベルはそれなりに上がり、雨アチャはLv1200突破。※12/4現在、Lv1202になっている。1000UMU(BISのそっちじゃない方ｗ)もゲット済だ。ちなみに、BISのそっちの方は、風剣士が精鋭討伐でゲット。※何故か文字が見]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MQ2：その２]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-183.html</id>
