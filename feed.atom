@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-05T18:48:17.329Z</updated>
+    <updated>2022-12-05T19:15:36.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -746,16 +746,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[※無課金マンなので課金スロットを使う予定はありません。アリーナGvで暴走禁止のときは、これが最適解かなと思います。筋力集中鍛錬Lv10と運集中鍛錬Lv4を本鯖で取っているのですが、アリーナでは使わないので初...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五月の女王の変身解除無効とSSのその後]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1112.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1112.html"/>
-        <updated>2022-11-06T07:02:48.000Z</updated>
-        <summary type="html"><![CDATA[リア仕事も一段落し、プリメのGMに復帰しました。ハニーです。こんち～！まだ忙しい日もあるものの、一時期に比べたらマシマシです。●●●　●●●　●●●◆ユニークの効果が変わってる！？お気づきの方も多いかもしれませんが、ユニークの効果が変更されているものがあるようです（Discordでペコリーノさんが発言していたので）『五月の女王』を見てきました以前と赤枠の部分が変わっていますね。（公式の案内ってあった？サイレント修正]]></summary>
-        <author>
-            <name>リン・ドール</name>
         </author>
     </entry>
 </feed>
