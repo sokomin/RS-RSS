@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T01:35:01.891Z</updated>
+    <updated>2022-12-06T02:35:47.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -736,16 +736,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[先日部屋でPC作業をしている時にこの曲をかけていたのですが隣の部屋から息子が飛んできて「なんかこれ聴いたことがある！」と言っていましたそうですねブルース・リーのあの映画の曲が元ですリズムゲームなどにも収録されていますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暴走禁止のときの超越スキル]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211060002/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211060002/"/>
-        <updated>2022-11-06T13:37:06.000Z</updated>
-        <summary type="html"><![CDATA[※無課金マンなので課金スロットを使う予定はありません。アリーナGvで暴走禁止のときは、これが最適解かなと思います。筋力集中鍛錬Lv10と運集中鍛錬Lv4を本鯖で取っているのですが、アリーナでは使わないので初...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
