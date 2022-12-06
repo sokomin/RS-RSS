@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T14:48:36.781Z</updated>
+    <updated>2022-12-06T15:20:22.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[おさらい]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-342.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-342.html"/>
+        <updated>2022-12-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年も雪の季節がやってきたので冬支度が忙しくなってきたこの頃です＾＾；もう今年雪かきしないとダメでした＾＾；ＲＳ世界の方では活動はしてるものの代り映えしない日常を送っているのでブログになにかいたらいいのかな？と困っている所でしたがＧチャしてて意外と知らない人がいるようなので今回はその事にしようと思いました＾＾まずはギルドによっては旗バフから毎日もらえるギルド協力Ｂｏｘです。旗バフからの物は毎日6時]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隙を見せたな！（異次元だ！）]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-920.html</id>
