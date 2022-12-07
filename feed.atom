@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T15:34:32.278Z</updated>
+    <updated>2022-12-07T15:48:30.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -798,16 +798,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[まだまだハンター証イベ中で狩りが忙しくほとんど新しい事はしてなかったのですが証出し中によくアイテムが落ちるのでついでにと言う事で数日前からギルドガーディアンに餌をあげる事にしました＾＾ギルドペットやガーディアンって昔だと育ててるG様が結構あって攻城戦でたまに防衛側がハローナイトを大量に配置しててびっくりした事もあったんですけど最近の攻城戦では使ってるG様見かけないかな…？ちなみにわたし昔はドロップが]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】これからどうする？]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-921.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-921.html"/>
-        <updated>2022-11-08T03:36:58.000Z</updated>
-        <summary type="html"><![CDATA[1日もモチベを維持できなかったオッサンが1人。装備改善や数々の助言をいただいた方々に申し訳ない・・・言い訳でしかないが、永らく無課金で遊んでいるため、鞄内のスフィアや補填の1日スフィア、プチポタ関係がどんどん減っていき、遂に底をついてしまった。マキナやソロ経験宝箱、大量に配布された攻撃できるカーペットがあるため、レベリング的にはあまり困らないが、やはりスフィア無しはモチベが上がらない。選択肢としては]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
