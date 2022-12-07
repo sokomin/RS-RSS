@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T09:48:22.937Z</updated>
+    <updated>2022-12-07T10:21:27.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[物理職だけどメインクリーチャーをアビスにしてみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212070000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212070000/"/>
+        <updated>2022-12-07T10:12:20.000Z</updated>
+        <summary type="html"><![CDATA[そして、出来たのが↓これ！（Gvで強制落ちしたときに面倒なので本鯖でLRにしておきました）↑こんなのが出来ちゃったので、メインクリーチャー用に↓これを作ってみました。そして新しい編成になったパッシブ全体が...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特になし]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1247.html</id>
