@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T23:35:17.682Z</updated>
+    <updated>2022-12-08T23:48:11.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -724,16 +724,6 @@ The post 2022年9～10月総括【RED STONE】 first appeared on 無職と美学
         <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-912.html"/>
         <updated>2022-11-10T12:20:42.000Z</updated>
         <summary type="html"><![CDATA[1つの不具合修正は、また1つの不具合を産む…終わりなき修正【問い合わせが多いらしい不具合】・一部スキルが正常に使用できない→右下のPTメンバーHPバーを使ったスキルの使用が一部できないとかなんとか。10/19アプデ時に対応したけど続いているらしい？・1000ULT箱から選択後のアイテムが錬成できない→一部アイテムにコス強化不可、錬成不可と表示され、実際に錬成できないとか。・削除待機マーク、まだいる→勝手に消えることはな]]></summary>
-        <author>
-            <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不具合修正と先行実装？]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-911.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-911.html"/>
-        <updated>2022-11-09T11:35:31.000Z</updated>
-        <summary type="html"><![CDATA[珍しいというかなんというか…【ご案内】・900レべ以降の主要な狩場にミラーを追加一足早く実装されました。なお、対象となった狩場は既存のミラーもひっくるめて仕様が変わっています。つまるところ、ミラーの記憶とクエ進行はさせねぇから！ヤティ狩場の仕様にひっぱられた※RSかけらやイベントアイテムは出る。闇商人はでない？あと地味にハブられた狩場があるんですけど…地下墓地B2は追加されています。あ、ミラーの数は狩場によ]]></summary>
         <author>
             <name>Trailblazer</name>
         </author>
