@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T06:49:00.362Z</updated>
+    <updated>2022-12-08T07:17:31.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -778,16 +778,6 @@ OCTOBER UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再調整でWダメ指ってまだ作れます？]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211090000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211090000/"/>
-        <updated>2022-11-08T19:05:47.000Z</updated>
-        <summary type="html"><![CDATA[再調整実装直後に作ったWダメ滅亡指を最高補正に再構成しました。うん、かなり見映え良くなりましたね！満足です！！というわけで本題に入りますけど、↑のSSのとおり再調整の実装当初は1OP目にダメがあっても2OP...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
