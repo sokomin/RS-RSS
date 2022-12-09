@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T17:48:28.841Z</updated>
+    <updated>2022-12-09T18:23:42.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1OP削って迅速を付けた部位は]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212100000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212100000/"/>
+        <updated>2022-12-09T17:58:40.000Z</updated>
+        <summary type="html"><![CDATA[ちょっと今のRSに萎え気味なので、読むと貴方のモチベも下がるかも知れません！閲覧注意です！！！！！！ダメDXを削って迅速を付けました。ついでに、BFOPを薬回復から移動速度に変更しておきました。表記制限を...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成功100％薬回復お守り]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212080000/</id>
