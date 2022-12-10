@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T23:48:29.869Z</updated>
+    <updated>2022-12-10T01:26:46.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -726,16 +726,6 @@ The post 2022年9～10月総括【RED STONE】 first appeared on 無職と美学
         <summary type="html"><![CDATA[ダブクリダメが、​1,078,351​　になりました。（7000ちょいしか上がっていませんが）ダブクリ増加10％で3万～4万程度赤ダメがUPするので、7000ちょっとの増加ということは・・・こういうことです！露店に350本で...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[終わりなき修正の旅]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-912.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-912.html"/>
-        <updated>2022-11-10T12:20:42.000Z</updated>
-        <summary type="html"><![CDATA[1つの不具合修正は、また1つの不具合を産む…終わりなき修正【問い合わせが多いらしい不具合】・一部スキルが正常に使用できない→右下のPTメンバーHPバーを使ったスキルの使用が一部できないとかなんとか。10/19アプデ時に対応したけど続いているらしい？・1000ULT箱から選択後のアイテムが錬成できない→一部アイテムにコス強化不可、錬成不可と表示され、実際に錬成できないとか。・削除待機マーク、まだいる→勝手に消えることはな]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
