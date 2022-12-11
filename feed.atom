@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T14:48:19.397Z</updated>
+    <updated>2022-12-11T15:18:49.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[手持ちのゴールド]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-777.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-777.html"/>
+        <updated>2022-12-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日家でPC作業をしている時にこれを聴いていたのですが隣の部屋から息子が走ってきましたRSやってる人にはとある動画でおなじみの曲ですよね息子曰く「棍棒持った人たちがいっぱい走ってるやつだよね」と言っていましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わー、石の日にメンテだー…え？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-922.html</id>
