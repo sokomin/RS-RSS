@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T05:48:30.496Z</updated>
+    <updated>2022-12-11T06:23:34.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年の課金額を正直に申告します]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212110000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212110000/"/>
+        <updated>2022-12-11T06:22:15.000Z</updated>
+        <summary type="html"><![CDATA[私ですね実は・・無課金であると嘘をついておりました。実は、2000円だけ課金しちゃっていました＾＾；※Webmoneyの2000円と500円は、キャンペーンでゲームオンからもらったものなので、私の中でこれらは課金では...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃３８]]></title>
         <id>https://www.youtube.com/watch?v=468yyr_zqyI</id>
