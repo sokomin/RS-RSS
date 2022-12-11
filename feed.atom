@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T17:30:14.209Z</updated>
+    <updated>2022-12-11T17:48:23.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アビスをメインにしてGvに出てみました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212120000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212120000/"/>
+        <updated>2022-12-11T17:39:49.000Z</updated>
+        <summary type="html"><![CDATA[本日のパッシブは↓これアリーナでちょっとだけいじって、上級体力に変更しました。今回の対戦相手は物理職が主力だと聞いたので、人間型ダメージ抵抗があった方がいいと判断しました。124190　対　111831　という...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手持ちのゴールド]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-777.html</id>
