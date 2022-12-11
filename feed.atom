@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T12:34:33.089Z</updated>
+    <updated>2022-12-11T13:01:58.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[わー、石の日にメンテだー…え？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-922.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-922.html"/>
+        <updated>2022-12-11T12:34:41.000Z</updated>
+        <summary type="html"><![CDATA[終　了　時　刻　1　9　時　予　定…はい、よりにもよって石の日に19時終了という告知が来てます。一応石の日にメンテがあった場合は、次の日終日まで伸びるとあるのでそこは大丈夫。ただしメンテが翌日まで延びたら？知らん！それにしてもなぜ17時ではなく19時なの…①アプデします！②アプデの準備です！③でもなんかやばそうなので、あらかじめ長く設定しておきました！④石の日だしいいかなって…⑤なんとなくさぁ、どれだ！！もしかし]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年の課金額を正直に申告します]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212110000/</id>
