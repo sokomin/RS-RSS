@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T23:48:13.891Z</updated>
+    <updated>2022-12-12T01:39:42.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -753,16 +753,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[むしろ減ってる。ようやく解禁されたULTOP異次元、早速と言わんばかりにあれこれねじ込んだ。全部死んだ。素材が出るときは中途半端にまじり、ベースが出るときは何も混じらない…次は逆成功か？！それかどうでもいいのが成功するパターン…おまけに最近色々と空回り気味だし、Slvも増えない（タートベースのTRSULTが全く見つからない上に競合多い）し、確率は仕事しない…。やっぱり戻るか？一人にという状況です。偶然にも所用で入]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[300制限ルール（S鯖 VS B鯖）]]></title>
-        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202211120000/</id>
-        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202211120000/"/>
-        <updated>2022-11-12T13:32:59.000Z</updated>
-        <summary type="html"><![CDATA[Ｓ鯖　ＶＳ　Ｂ鯖の300制限ＧＶのルール等こちらのブログに詳細が記載されております。​300制限ＧＶ​よろしくお願いします！300制限の醍醐味は、装備とかが結構簡単わいわい楽しく出来る（今はちょっと人数少ない...]]></summary>
-        <author>
-            <name>たつ2307</name>
         </author>
     </entry>
 </feed>
