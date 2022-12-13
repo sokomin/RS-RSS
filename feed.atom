@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T13:48:12.203Z</updated>
+    <updated>2022-12-13T14:19:06.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -733,16 +733,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[もうちょっとあると思っていたハンター証イベが水曜日に終わるようで平日の狩り時間が短いわたしにとっては日曜でほぼイベント終了となりました！たぶんあとは出たとしても証10個くらいとかかな？＾＾；普段は使わない雨アチャを動員した事もあり証は毎週集めきっていて完全開放を2個もらいました＾＾それでこの完全開放を使いオオカミ少年の装備課題だった聖戦の強化をして3個開放成功しました＾＾もう1個の完全開放は姫のスリン]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダブクリ111万]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211140000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211140000/"/>
-        <updated>2022-11-14T01:53:33.000Z</updated>
-        <summary type="html"><![CDATA[頭を全吸収ULTからフロントラインに変更すると111万台までUPします。暁のPVPエリアは吸収が必要ないので、ダブクリ111万で狩りができます。石の日なので、少しだけ狩りしてきます。]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
