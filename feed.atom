@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T02:54:20.835Z</updated>
+    <updated>2022-12-13T03:27:02.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】雨アチャのヤティカヌ装備検討]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-927.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-927.html"/>
+        <updated>2022-12-13T03:23:30.000Z</updated>
+        <summary type="html"><![CDATA[雨アチャは現在Lv1229で、ヤティカヌまで@21レベルまできている。やはり、ソロ経験値バフがかなり効いており、狩りのモチベーションアップに繋がっている。ソロゴールドバフも地味においしい(いつの間にか所持ゴールド10億超えがしばしば)ため、長く狩るメリットにもなっている。先週末はロイさん配信もあり、ついテンション上がって長く狩ってしまい、腰痛が再発。明日明後日は経験値2倍だが、おそらく狩れないだろう。無念だ。雨]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アビスをメインにしてGvに出てみました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212120000/</id>
@@ -733,16 +743,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[頭を全吸収ULTからフロントラインに変更すると111万台までUPします。暁のPVPエリアは吸収が必要ないので、ダブクリ111万で狩りができます。石の日なので、少しだけ狩りしてきます。]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アプデ後のミラーを調べる]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-773.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-773.html"/>
-        <updated>2022-11-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近はだいぶ寒くなりましたね先日台所に季節外れのムカデ（10センチくらい）が出現しました我が家ではムカデが出現すると親子で即座に脳内でこれが再生されます逃してしまうと何だか安心出来ませんが無事に退治できましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>

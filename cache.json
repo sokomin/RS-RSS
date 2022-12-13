@@ -62,16 +62,6 @@
           "wordCount": 581,
           "title": "一撃必殺、プロデューサー変更、妖精の翼のかけらについて",
           "imageUrl": null
-        },
-        {
-          "id": "https://mitsurin32.blog.fc2.com/blog-entry-773.html",
-          "author": "ミツリン",
-          "description": "最近はだいぶ寒くなりましたね先日台所に季節外れのムカデ（10センチくらい）が出現しました我が家ではムカデが出現すると親子で即座に脳内でこれが再生されます逃してしまうと何だか安心出来ませんが無事に退治できましたこんにちは　ミツリンです",
-          "link": "https://mitsurin32.blog.fc2.com/blog-entry-773.html",
-          "publishedOn": "2022-11-13T15:00:00.000Z",
-          "wordCount": 581,
-          "title": "アプデ後のミラーを調べる",
-          "imageUrl": null
         }
       ]
     },
@@ -489,6 +479,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-927.html",
+          "author": "JEFRY",
+          "description": "雨アチャは現在Lv1229で、ヤティカヌまで@21レベルまできている。やはり、ソロ経験値バフがかなり効いており、狩りのモチベーションアップに繋がっている。ソロゴールドバフも地味においしい(いつの間にか所持ゴールド10億超えがしばしば)ため、長く狩るメリットにもなっている。先週末はロイさん配信もあり、ついテンション上がって長く狩ってしまい、腰痛が再発。明日明後日は経験値2倍だが、おそらく狩れないだろう。無念だ。雨",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-927.html",
+          "publishedOn": "2022-12-13T03:23:30.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】雨アチャのヤティカヌ装備検討",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-926.html",
           "author": "JEFRY",
