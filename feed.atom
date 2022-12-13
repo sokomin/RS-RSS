@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T14:48:29.813Z</updated>
+    <updated>2022-12-13T15:24:34.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[やっと知識へ！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-343.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-343.html"/>
+        <updated>2022-12-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年の金鯖で育成しその後無課金サブＧのＧＭに収まっている青藍遊泳ですがけっこういいレベルになってきたのでそろそろ転生して知識キャプテンになろうかな？と思いました＾＾実際には2～3週間くらい前から思ってましたけど準備に時間がかかってました＾＾；ここまで転生してなかったのは理由があってとりあえず物理グルグル覚醒のワールウィンドでディメンション安定して回る事が出来てたので知識に変えてディメきつくなると嫌だ]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】雨アチャのヤティカヌ装備検討]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-927.html</id>
