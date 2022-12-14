@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T19:48:24.863Z</updated>
+    <updated>2022-12-14T20:20:28.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[解放オプション変換器使ってみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212150000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212150000/"/>
+        <updated>2022-12-14T19:54:57.000Z</updated>
+        <summary type="html"><![CDATA[HP86％は、かなりの当たりOPですね。最大攻撃力14増加は、なかなかの良OPです。表記がこれだけでかなり上がるので、その分の力を削って健康に回せます。タビアクートの欠片で３個交換して、さらに50本で4個購入し...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[やっぱりアプデじゃないか！]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-923.html</id>
