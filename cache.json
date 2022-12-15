@@ -193,6 +193,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_6bebH2acEU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_6bebH2acEU",
+          "publishedOn": "2022-12-15T10:44:31.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記＃４０",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_SNKV2dMRzc",
           "author": null,
           "description": "",
@@ -616,6 +626,16 @@
       "feedUrl": "http://extremetrailblazer.blog.fc2.com/?xml",
       "siteUrl": "https://extremetrailblazer.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-924.html",
+          "author": "Trailblazer",
+          "description": "臨　時　メ　ン　テ石の日にアプデ入れるから…【絶望の臨時メンテ】12/15(木)20:00～25:00ですなんか予期せぬ不具合が出たらしい。それの修正だとかいったい何をやらかしたのやら…まぁいつも通りの事だが。公式はそのまんまみたい？一応詳細臨時メンテはあるだろうと思ってたけど…タイミングぇ鐘なってたんだけど。おわり☆",
+          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-924.html",
+          "publishedOn": "2022-12-15T10:43:35.000Z",
+          "wordCount": 118,
+          "title": "なんだいつもの…",
+          "imageUrl": null
+        },
         {
           "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-923.html",
           "author": "Trailblazer",
