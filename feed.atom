@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T20:31:04.408Z</updated>
+    <updated>2022-12-15T20:48:08.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -832,16 +832,6 @@ OCTOBER UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[珍しく最近のリアルねたでも。]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202211160000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202211160000/"/>
-        <updated>2022-11-16T08:43:54.000Z</updated>
-        <summary type="html"><![CDATA[下記のとおりです。・・・・・・・・・・・・・・・・・・ｗｗ]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
