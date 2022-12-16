@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T06:23:13.489Z</updated>
+    <updated>2022-12-16T06:48:41.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gv復帰（9月）以降のLA数、死亡数のメモ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212160000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212160000/"/>
+        <updated>2022-12-16T06:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Gv復帰以降に参加したGvのメモです。※ギルド名は通称で記載、敬称略　動画を見て数えた数値なので、数え間違っている場合があるかも知れません。対戦日　対戦ギルド　　LA数　死亡数　得点/失点　　　勝敗　制限...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃４０]]></title>
         <id>https://www.youtube.com/watch?v=_6bebH2acEU</id>
