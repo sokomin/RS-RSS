@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T14:48:18.632Z</updated>
+    <updated>2022-12-18T15:17:29.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[12月14日アップデートについて　【武道家スキル修正、他】]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-778.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-778.html"/>
+        <updated>2022-12-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日6日、歌手の水木一郎さんが肺がんの為に亡くなりました私が子供の頃から大好きだったアニメの主題歌は水木さんが歌う物が多く好きな曲はたくさんありますが、その中でも一番好きだったのはこれです闘病生活を送りながらも命尽きるまで精力的に活動を続けたまさにアニキと呼ばれる生き様だったと思いますご冥福をお祈りしますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ディメンション変わってた]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/95f6e5364ced227f6bd906968e83a459</id>
