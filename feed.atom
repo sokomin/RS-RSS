@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T17:29:19.113Z</updated>
+    <updated>2022-12-19T17:48:36.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -768,6 +768,15 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[無期限休止することにした。理由は今までブログにも書いてきたが、軍団長レイドが全て！というゲーム性に魅力や将来性を見出せないこと。1年と10ヶ月ほど遊ばせてもらったが、ここ半年くらいは惰性でのプレイだった。開始1年間は本当に楽しくて、寝る間も惜しんでプレイした。あの頃に戻りたい・・・おそらく実現することはないんだろうが、こうなればLOST ARKに未来はあるのでは？という改善点を挙げておく。(1)レイドコンテンツ]]></summary>
         <author>
             <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ポケットモンスタースカーレット】その１　最新ポケモンやるぞ]]></title>
+        <id>https://www.youtube.com/watch?v=F1oB7Qi708A</id>
+        <link href="https://www.youtube.com/watch?v=F1oB7Qi708A"/>
+        <updated>2022-11-20T15:46:21.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
