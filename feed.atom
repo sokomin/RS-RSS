@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T02:51:44.836Z</updated>
+    <updated>2022-12-19T03:20:09.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -816,16 +816,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[割と真面目な提案。マキナやオーラ、経験値ソロバフが実装されて、スフィア課金ってほぼ必要無くなってるのもあり、大半の人は無課金プレイなんじゃないかと思う今日この頃。複垢所持、VPCによる多重起動により、外掛け支援や狩場移動も自由自在。イベントや不具合の度に配布される大量の贈り物で溢れたアカウントは、物によってはアカウント共有可能で、課金などせずとも快適にプレイできる。そうやってプレイしている人が課金し]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔を全吸収型に変更しました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211190000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211190000/"/>
-        <updated>2022-11-19T15:05:49.000Z</updated>
-        <summary type="html"><![CDATA[​なぜ全吸収型にしたかというと、再調整のために黒魔を混沌11層～に行かせるようになったからです。そこでは魔法吸収がないと即死することが多いので、弓で使っているＴ吸収ULT精霊王を付けてみました。しかし、...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
