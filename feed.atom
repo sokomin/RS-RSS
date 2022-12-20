@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T02:54:54.672Z</updated>
+    <updated>2022-12-20T03:20:09.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -787,16 +787,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[前回の記事で未完成だった部分を完成させました。勇猛を付けて、BFOPを最上級に付け直しました。BFOPが両方とも最高補正が付いたのでテンション上がりましたねｗこれで、黒魔装備はいったん完成したということに...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一撃必殺、プロデューサー変更、妖精の翼のかけらについて]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-774.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-774.html"/>
-        <updated>2022-11-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日は記念的な皆既月食がありました私はちょうど仕事の帰り道で駅まで歩いていたのですがこれを聴きながら見ていました私の地域からでもはっきり見えるような月食で神秘的でした月食を見ながらハカイダーを聴いていた人は全国的にも少ないのではないでしょうか見られて良かったですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
