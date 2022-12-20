@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T14:48:05.025Z</updated>
+    <updated>2022-12-20T15:21:29.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ディメンションの変化]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-344.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-344.html"/>
+        <updated>2022-12-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この前のアプデで大きく変化したのがディメンション・ハブです。狩らないといけない総数が減ったのとマップ自体が変わった事により今までよりはるかに楽になりました＾＾これで2回改変した事になりますが最初の頃の狩り数かなりありましたよね…最初だと30分で狩れなくて時間切れで終わったキャラも結構いたかな＾＾；ちなみにオオカミ少年が行く第2区はこんな感じでわたしのほかのキャラ達が行く第１区はこんなです！第3区～は行っ]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12月14日アップデートについて　【武道家スキル修正、他】]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-778.html</id>
