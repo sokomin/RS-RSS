@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T16:52:28.100Z</updated>
+    <updated>2022-12-22T17:17:00.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黒魔のステを詰めてみたら]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212230000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212230000/"/>
+        <updated>2022-12-22T17:13:32.000Z</updated>
+        <summary type="html"><![CDATA[知恵・運・スキルを削って力を増やしてみました。表記が40万近く増えたので、かなり良い感じです。黒魔は、MBやクリーチャーの登録をほとんどやっていません。それらをやれば、ステが増えたり最終ダメが上がるの...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2フレなんてもう]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212220000/</id>
