@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T01:25:56.081Z</updated>
+    <updated>2022-12-23T02:30:19.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -821,16 +821,6 @@ OCTOBER UPDATE -->
         <updated>2022-11-24T10:00:17.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[懲りずに異次元するやつ]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-918.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-918.html"/>
-        <updated>2022-11-23T13:46:05.000Z</updated>
-        <summary type="html"><![CDATA[異次元で装備を消し飛ばす瞬間がｒｙというか、売られてないから異次元で作ろうって発想に…少し前からずっとそう。ということで、今回混ぜたのはTRSULT首とレドネ。目的？そりゃBISのSlv確保のためにryそして混ぜた結果がこちらです。〇ヵ月ぶりの全移植うれしいようなうれしくないような…とはいっても、ここまでに2回失敗しているんだけどね。1OP消滅素材吐き出しと全く混ざらないベース吐き出し。ということで、あとはこれの魔力]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
