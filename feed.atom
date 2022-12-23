@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T22:17:25.155Z</updated>
+    <updated>2022-12-23T22:30:47.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -831,6 +831,15 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[みなさんこんばんは。魔法の壁です。最近セットOPが気になっていろいろ調べているのですが、「恩寵の」でダメージを伸ばすといいらしいです。しかし、僕のこれまでの認識ではバインドブレイズに恩寵ダメは乗らな...]]></summary>
         <author>
             <name>裁判官</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ポケットモンスタースカーレット】その２　ヌシを先にボコる&ポケモン乱獲]]></title>
+        <id>https://www.youtube.com/watch?v=onvGNXp3fZg</id>
+        <link href="https://www.youtube.com/watch?v=onvGNXp3fZg"/>
+        <updated>2022-11-24T21:18:39.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
