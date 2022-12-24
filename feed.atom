@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T03:48:37.362Z</updated>
+    <updated>2022-12-24T04:22:07.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -859,16 +859,6 @@ OCTOBER UPDATE -->
         <updated>2022-11-24T21:18:39.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[混沌でたまに突然死するので]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202211250000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202211250000/"/>
-        <updated>2022-11-24T15:52:33.000Z</updated>
-        <summary type="html"><![CDATA[黒魔のHPを上げてみました。まず、イベントで解放箱がたくさん出たので、この耳を２解放しました。これによって魔法強化が50％以上余った状態になりました。というわけで、↓これの魔法強化をHPに変更しました。あ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
