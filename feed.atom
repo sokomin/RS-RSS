@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T01:20:59.031Z</updated>
+    <updated>2022-12-24T02:14:16.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MQ2：その４]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-185.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-185.html"/>
+        <updated>2022-12-24T01:46:27.000Z</updated>
+        <summary type="html"><![CDATA[はい。今回はチャプター４を開始し、直後のクエスト遂行中に何となくボスを撃破したところからスタートです。犯人はバルザロス。そして木に取り込まれちゃったマン（実は偉い悪魔らしい）に、ブラックファイヤーの未来を託される第三の猫。手始めに裏切った悪魔の粛清に行きます。この人のようですが、どうやって裏切りを判定すれば良いのでしょう？うーん……攻撃して死んだから裏切り者ですね。その判定方法で大丈夫ですか？大丈夫]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更に突き詰めてみたら]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212240000/</id>
