@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T14:48:08.199Z</updated>
+    <updated>2022-12-25T15:17:37.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レイドが混んでいます]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-779.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-779.html"/>
+        <updated>2022-12-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日息子とマイナンバーカードを受け取りに出張所のある駅まで行きましたすると息子が「僕がフルコンできたら焼肉おごってくれ！」と言うのでOKしました曲はこれです結果は可もありましたがフルコンしていましたそれにしてもなんて良い声で凄い事言ってる歌詞なんだろうと思いました二人で焼肉食べて帰りましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バインドと「恩寵の」]]></title>
         <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202212250000/</id>
