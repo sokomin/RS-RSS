@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T19:28:19.722Z</updated>
+    <updated>2022-12-27T19:48:20.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暇だったので必要のないギャンブルしてみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212280000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212280000/"/>
+        <updated>2022-12-27T19:29:30.000Z</updated>
+        <summary type="html"><![CDATA[まず上級抽出成功からの～速度を最高補正に～でも１OPじゃ使い物にならないので～やっぱこんなもの要らん～ってことで破壊～ｗ（この前のロングビル破壊のリベンジをしてみただけで、２フレはもうやる気ないです...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年も終わり！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-345.html</id>
