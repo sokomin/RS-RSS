@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T19:48:20.302Z</updated>
+    <updated>2022-12-27T20:18:57.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -888,26 +888,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[お盆過ぎから復帰しそろそろ3か月が経ちました＾＾復帰直後は金鯖が忙しく、その後本鯖に来てからは活動時間短縮の為オオカミ少年の活動がほとんどで他のサブキャラ達は討伐やデイリーをするくらいだったのですが最近は毎日ではないもののサブキャラ達もディメンションにも行くようになりました＾＾それでこの前倉庫Ｇにいるバインド悪魔でディメンションに行った時の事なのですけど1体ずつ敵を狩るのが面倒なのでスパイダーペイン]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9/8拍子って何だよ]]></title>
-        <id>kaze.gg-blog.com://entry/171</id>
-        <link href="http://kaze.gg-blog.com/wakuteka/9-8%E6%8B%8D%E5%AD%90%E3%81%A3%E3%81%A6%E4%BD%95%E3%81%A0%E3%82%88"/>
-        <updated>2022-11-28T08:01:37.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。
- 
-
-なんだこれ
-
-
-とりあえず
-いつもいじめられている銀さんの醜態を晒しておきます
-
-
-では！]]></summary>
-        <author>
-            <name>風に吹かれて</name>
         </author>
     </entry>
 </feed>
