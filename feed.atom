@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T14:48:07.890Z</updated>
+    <updated>2022-12-27T15:18:39.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年も終わり！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-345.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-345.html"/>
+        <updated>2022-12-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[早いもので2022年ももう終わりとなりました。ＲＳ世界での1年と言うと前半は引退中だったのでお盆過ぎから金鯖での活動スタートとなりました。去年の11月からお盆までＲＳを離れていたわけですが新しいＧメンさんが増えていて今副マスをしてくれているので良い人が増えてくれたと思いました＾＾また、引退中わたしと同じく引退しちゃってた方もいたのですがまたいつか戻ってきてくれたらいいかなと思います＾＾課金をしない限りは]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[久しぶりにオーガ物理組合のチャットが動いた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212270000/</id>
