@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T05:29:29.465Z</updated>
+    <updated>2022-12-28T05:48:25.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[治った不具合は…一つ？！]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-930.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-930.html"/>
+        <updated>2022-12-28T05:31:34.000Z</updated>
+        <summary type="html"><![CDATA[しかも後発の…【お知らせ】・Passのアイテムがおかしかった不具合の修正え？それ以外の？1000年後でどうだ？いつものあれ【ドリームツイート】2023/1/11(水)メンテまで。まず公式のツイッターをフォローします。次にハッシュタグ「#レッドストーン2023」をつけて2023年にRSでやりたいことをツイートしましょう。その中から「なんだこれは！この俺を安物のツイートで刺しやがって！」と心動かされたツイート10件を選定するらしい。]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暇だったので必要のないギャンブルしてみた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212280000/</id>
