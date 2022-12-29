@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T11:48:29.571Z</updated>
+    <updated>2022-12-29T12:33:38.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -942,16 +942,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[久しぶりかはしらんけど。【お知らせ？】・ラウンドロトの一部アイテムが違ってた件・それに関する補填・ログキャンがおかしかったとこの処理いつものあれ【ゲーム内でやるログキャン】12/14(水)メンテまで。12日分ある。猶予は…3日？ゲーム内だから楽だと思うよ？詳細ですよ【スクラッチ】12/21(水)メンテまで。1回にコイン10枚です。とはいえ、いつも通りお得セットがあるから実質500円？レアの設定が特異なので何とも言えないが]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いざ、ヤティカヌ！]]></title>
-        <id>https://rs-clair-de-lune.com/2022-11-30/</id>
-        <link href="https://rs-clair-de-lune.com/2022-11-30/"/>
-        <updated>2022-11-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[202…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
 </feed>
