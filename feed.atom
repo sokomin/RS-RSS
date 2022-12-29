@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T02:54:55.563Z</updated>
+    <updated>2022-12-29T03:20:24.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -943,16 +943,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[202…]]></summary>
         <author>
             <name>The Adventure Of The Jacks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[糸とナインテール]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-341.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-341.html"/>
-        <updated>2022-11-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[お盆過ぎから復帰しそろそろ3か月が経ちました＾＾復帰直後は金鯖が忙しく、その後本鯖に来てからは活動時間短縮の為オオカミ少年の活動がほとんどで他のサブキャラ達は討伐やデイリーをするくらいだったのですが最近は毎日ではないもののサブキャラ達もディメンションにも行くようになりました＾＾それでこの前倉庫Ｇにいるバインド悪魔でディメンションに行った時の事なのですけど1体ずつ敵を狩るのが面倒なのでスパイダーペイン]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
