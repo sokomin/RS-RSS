@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T20:30:51.413Z</updated>
+    <updated>2022-12-30T20:48:15.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -889,17 +889,6 @@ OCTOBER UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L.ブローウェル:11月のある日【ギター】]]></title>
-        <id>https://chorrealism.com/?p=3516</id>
-        <link href="https://chorrealism.com/guitar-music/un-dia-de-noviembre/"/>
-        <updated>2022-12-01T08:46:31.000Z</updated>
-        <summary type="html"><![CDATA[陰キャソング(褒めてる)ブローウェルの11月のある日！ 一般的にアコギと呼ばれるスチール弦のギターやバンドなんかで使われるエレキギターではなく、クラシックギターを選び弾く人は、もれなく陰キャ要素をいっぱい持ってると個人的 […]
-The post L.ブローウェル:11月のある日【ギター】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
 </feed>
