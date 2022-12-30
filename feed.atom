@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T10:33:05.235Z</updated>
+    <updated>2022-12-30T10:48:24.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年最後の買い物かな]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212300000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212300000/"/>
+        <updated>2022-12-30T10:38:34.000Z</updated>
+        <summary type="html"><![CDATA[魔力注入が購入時は一角だったので勇猛に変えました。もともと使っていた秤の女にはBFの与魔法ダメHP吸収が付いていましたが、回避型になったのでこの秤の女にはスキルを付けることにしました。お遊びで育て始め...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年末ですね]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-958.html</id>
