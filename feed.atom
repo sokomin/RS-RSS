@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T17:28:22.787Z</updated>
+    <updated>2022-12-31T18:21:20.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新年あけましておめでとうございます。]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/87f935ccbaf259f86a4a3577baaeca2d</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/87f935ccbaf259f86a4a3577baaeca2d?fm=rss"/>
+        <updated>2022-12-31T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[新年あけましておめでとうございます。
+
+現在W大天使までいきました。＠１個なのでなんとかしたい。
+
+大魔導師が1個ついているので＠２個がんばればOKですね
+がんばりましょう。
+
+
+○キャラの目標
+
+キャラは地味に育成しています。
+低レベルタイと高レベルタイとバランスよく育成したいと思います。
+・闘士の５次転生
+・姫の4次転生
+・知識槍＆黒魔の2次転生
+・マスケ、武道家、悪魔の1次転生
+・WIZ＆テイマをレベル800に
+ちょっと欲張りすぎかな(´・ω・`)
+1次転生はなんとかなると思うので。それ以外をちと頑張りたいですね。
+WIZとテイマは800装備を装備したいので、最優先でがんばりたいですね。
+・・・・頑張る気力があればだけど(￣ω￣;)
+
+
+プラス、ブログがイベント更新メインになってしまいました。
+書けるようなネタもないので仕方ないのですが、ちょっとずつネタだしも考えていきたいですね。
+
+
+今年も1年よろしくおねがいしますm(_ _"m)ペコリ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[はいはい年始ロトこうし…あれ？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-931.html</id>
