@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T14:48:23.535Z</updated>
+    <updated>2022-12-31T15:17:32.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -899,16 +899,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[リバースHP（リニューアル）​URLが変わったので、再度貼りますね。（かなり前から変わっていたみたいだけど・・ｗ）クエスト攻略やお役立ち情報などを掲載しておりますので、ぜひご覧になってくださいね！！！HP...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ヤティカヌ到達がゴール？]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-925.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-925.html"/>
-        <updated>2022-12-02T02:58:45.000Z</updated>
-        <summary type="html"><![CDATA[Lv1250からのメイン狩場ヤティカヌは、ご存じの通り経験効率が非常に悪い。mobは硬く、数も少なく、妖精のカケラを出すだけの狩りでさえ苦痛なレベル。ヤティカヌはMAPも特殊で、記憶不可、スフィア機能によるMAP移動不可の制限がある。条件クリア者しか踏破できない神域？という設定なのかもしれないが、面倒くさ過ぎて行く気がしない。Lv1250の風剣士は実質、精鋭討伐に参加するだけの活動になっている。まだ2回しか行ってないが]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
