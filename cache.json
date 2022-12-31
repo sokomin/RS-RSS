@@ -523,16 +523,6 @@
           "wordCount": 1458,
           "title": "物理職だけどメインクリーチャーをアビスにしてみた",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/32b0fd43c2a112b65b55f5b858a3eaa54381f4cd.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202212020000/",
-          "author": "雷神の弓",
-          "description": "リバースHP（リニューアル）​URLが変わったので、再度貼りますね。（かなり前から変わっていたみたいだけど・・ｗ）クエスト攻略やお役立ち情報などを掲載しておりますので、ぜひご覧になってくださいね！！！HP...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202212020000/",
-          "publishedOn": "2022-12-02T03:42:53.000Z",
-          "wordCount": 1453,
-          "title": "リバースのHP",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/b70ef6f64695e176d168f2776948c3925648ba7f.73.9.9.3.png"
         }
       ]
     },
@@ -675,6 +665,16 @@
       "feedUrl": "http://extremetrailblazer.blog.fc2.com/?xml",
       "siteUrl": "https://extremetrailblazer.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-931.html",
+          "author": "Trailblazer",
+          "description": "明けまして、おめでとうございます。今年もいつも通りに…。【運営会社変更のおしらせ】もう臨時メンテとか不具合とかあってもダメオンなんて言えないね！…どうやら、ゲムオンの100％子会社「株式会社G・O・P」に運営会社を変更するみたいです。会社は変わるけど、体制は変わらない…のかな？とはいえ、ゲムオンの100％子会社…ならダメオンといってもいい？一応詳細【2023年ロト】1/11(水)メンテまで。ロトを盛ったあれ。一応量的に",
+          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-931.html",
+          "publishedOn": "2022-12-31T15:41:42.000Z",
+          "wordCount": null,
+          "title": "はいはい年始ロトこうし…あれ？",
+          "imageUrl": null
+        },
         {
           "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-930.html",
           "author": "Trailblazer",

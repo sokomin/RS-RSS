@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T15:29:34.190Z</updated>
+    <updated>2022-12-31T15:48:20.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[はいはい年始ロトこうし…あれ？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-931.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-931.html"/>
+        <updated>2022-12-31T15:41:42.000Z</updated>
+        <summary type="html"><![CDATA[明けまして、おめでとうございます。今年もいつも通りに…。【運営会社変更のおしらせ】もう臨時メンテとか不具合とかあってもダメオンなんて言えないね！…どうやら、ゲムオンの100％子会社「株式会社G・O・P」に運営会社を変更するみたいです。会社は変わるけど、体制は変わらない…のかな？とはいえ、ゲムオンの100％子会社…ならダメオンといってもいい？一応詳細【2023年ロト】1/11(水)メンテまで。ロトを盛ったあれ。一応量的に]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃４６　２０２２年狩り納]]></title>
         <id>https://www.youtube.com/watch?v=kU3fyRqLDx4</id>
@@ -889,16 +899,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[師走を迎え、暖房器具もいよいよウォーミングアップを始めましたので、私もメインクエストシーズン２を再開していきたいと思います。ポタ出しがソロで可能になった、やさしさあふれるシーズン２の秘密ダンジョンは良いものです。今回はエステルさんも付いてきてくれるようです。ギルドダンジョンのように後ろをついてくるのかと思いましたが、エステルさんは不動さん。少しダンジョンを進んだ先、入口から徒歩5秒のところに、第二]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リバースのHP]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212020000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212020000/"/>
-        <updated>2022-12-02T03:42:53.000Z</updated>
-        <summary type="html"><![CDATA[リバースHP（リニューアル）​URLが変わったので、再度貼りますね。（かなり前から変わっていたみたいだけど・・ｗ）クエスト攻略やお役立ち情報などを掲載しておりますので、ぜひご覧になってくださいね！！！HP...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
