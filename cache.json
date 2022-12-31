@@ -233,6 +233,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kU3fyRqLDx4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kU3fyRqLDx4",
+          "publishedOn": "2022-12-31T11:41:25.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記＃４６　２０２２年狩り納",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=e4IVUa3lAHY",
           "author": null,
           "description": "",
@@ -1000,7 +1010,18 @@
       "title": "The Adventure Of The Jacks",
       "feedUrl": "https://rs-clair-de-lune.com/rss.xml",
       "siteUrl": "https://rs-clair-de-lune.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://rs-clair-de-lune.com/2022-12-31/",
+          "author": null,
+          "description": "今年の大晦日は土曜日！ということは、攻城戦で締めくくる年！今晩の攻城戦が楽しみですね。\nその前に何としてでもこの記事を更新しなければ！実家に帰省する電車内で必死にカタカタしているJ氏です。（隣のお席の方、ごめんなさい…） 今年最後の更新ということで、2022年のREDSTONE…",
+          "link": "https://rs-clair-de-lune.com/2022-12-31/",
+          "publishedOn": "2022-12-31T00:00:00.000Z",
+          "wordCount": 1210,
+          "title": "2022年アップデート所感＆ジャック家振り返り",
+          "imageUrl": "https://rs-clair-de-lune.com/static/f67b92315e95b2575233fc5fa5f26988/39c51/2022-12-31-01.png"
+        }
+      ]
     },
     {
       "title": "バインダーに栄光あれ",
