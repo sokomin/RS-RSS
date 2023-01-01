@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T01:46:49.769Z</updated>
+    <updated>2023-01-01T02:53:25.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゲーム運営会社の承継って？]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202301010000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202301010000/"/>
+        <updated>2023-01-01T01:53:29.000Z</updated>
+        <summary type="html"><![CDATA[明けましておめでとうございます、今年もよろしくお願いします。レッドストーンの運営周りが、ゲームオンから子会社に承継が行われることになりましたね～。いわゆるサービスに移管に近い形になるのかなと。（※別...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新年あけましておめでとうございます。]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/87f935ccbaf259f86a4a3577baaeca2d</id>

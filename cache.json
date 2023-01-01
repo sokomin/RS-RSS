@@ -4,7 +4,18 @@
       "title": "GMの抵抗ワショーイ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202301010000/",
+          "author": "そこらの民衆",
+          "description": "明けましておめでとうございます、今年もよろしくお願いします。レッドストーンの運営周りが、ゲームオンから子会社に承継が行われることになりましたね～。いわゆるサービスに移管に近い形になるのかなと。（※別...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202301010000/",
+          "publishedOn": "2023-01-01T01:53:29.000Z",
+          "wordCount": 970,
+          "title": "ゲーム運営会社の承継って？",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/770a3ce4786abb52b9d10ce5dc1c53b3e0e3438b.10.9.9.3.png"
+        }
+      ]
     },
     {
       "title": "KHBの部屋",
