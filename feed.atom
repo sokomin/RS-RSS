@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T15:17:44.671Z</updated>
+    <updated>2023-01-01T15:29:52.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -946,16 +946,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[LOST ARKとの掛け持ちをやめてから、REDSTONEの狩りに時間がかなり長くなった。狩り嫌いだとおもってんだが、どうやら掛け持ちが精神的に負担で、狩りが長続きしないだけだったようだ。動画観ながらのダラダラ狩りでも、レベルはそれなりに上がり、雨アチャはLv1200突破。※12/4現在、Lv1202になっている。1000UMU(BISのそっちじゃない方ｗ)もゲット済だ。ちなみに、BISのそっちの方は、風剣士が精鋭討伐でゲット。※何故か文字が見]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MQ2：その２]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-183.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-183.html"/>
-        <updated>2022-12-03T03:20:37.000Z</updated>
-        <summary type="html"><![CDATA[師走を迎え、暖房器具もいよいよウォーミングアップを始めましたので、私もメインクエストシーズン２を再開していきたいと思います。ポタ出しがソロで可能になった、やさしさあふれるシーズン２の秘密ダンジョンは良いものです。今回はエステルさんも付いてきてくれるようです。ギルドダンジョンのように後ろをついてくるのかと思いましたが、エステルさんは不動さん。少しダンジョンを進んだ先、入口から徒歩5秒のところに、第二]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
