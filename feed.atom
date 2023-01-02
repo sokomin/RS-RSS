@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T19:14:38.756Z</updated>
+    <updated>2023-01-02T19:28:12.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -971,6 +971,15 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[また異次元してる…理由はT速度首が手ごろな値段で売られていたため。そしてベースを変えるために混ぜないといけない…でもまぁいいやと異次元探して混ぜました。ま た 成 功 し た…あとはOPを1個増やして純粋とBFOPと1解放して完成させました。そして赤ダメがいくら増えたのか！！前　105.2万後　107.0万1.8万くらい増えました☆…大して変わってないおしまい。]]></summary>
         <author>
             <name>Trailblazer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[導きサマナ育成配信#1【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=zS4hldCTHj4</id>
+        <link href="https://www.youtube.com/watch?v=zS4hldCTHj4"/>
+        <updated>2022-12-04T15:06:13.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
