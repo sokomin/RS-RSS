@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T02:54:48.552Z</updated>
+    <updated>2023-01-02T03:20:30.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国テイマ改変20221228情報①]]></title>
+        <id>http://akira773.blog22.fc2.com/blog-entry-763.html</id>
+        <link href="http://akira773.blog22.fc2.com/blog-entry-763.html"/>
+        <updated>2023-01-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年明けましておめでとうございます今年もよろしくお願いしますどうもお元気ですか前回の記事の後真面目にディメンジョンなどをこなしつつ狩りをしてテイマは1250に到達しました。そして図鑑もN以外はテイムして作ってしまったのでブログの命題的なものを遂げたのもあり大分放置しておりました。ネタは作ればいろいろあったんですけどなんか昔より日課としてやることも増えたし動かしてるキャラも増えていまいち手が伸びなかっ]]></summary>
+        <author>
+            <name>リヤン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[謹賀新年]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-780.html</id>
