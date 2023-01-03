@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T09:48:28.263Z</updated>
+    <updated>2023-01-03T10:20:02.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年もよろしく＾＾]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-346.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-346.html"/>
+        <updated>2023-01-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[お正月休みは12/30～1/3までで大晦日と元日はRSできなかったのでRS正月は約3日間！これを書いてる日が最終日となります＾＾年末年始はレビットBox狙いのレイド通いがメインでその待ち時間に狩りやGメンの討伐手伝いあとはリアルのほうで雪かきなどしてました！今年の目標はオオカミ少年の装備をもう少しまともにする事かな＾＾；皆さん今年もよろしくお願いします＾＾★もうすぐ1000★2回目の復帰の時からいろんなGを遊びまわってい]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国テイマ改変20221228情報②]]></title>
         <id>http://akira773.blog22.fc2.com/blog-entry-764.html</id>
