@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T02:53:20.025Z</updated>
+    <updated>2023-01-03T03:20:06.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国テイマ改変20221228情報②]]></title>
+        <id>http://akira773.blog22.fc2.com/blog-entry-764.html</id>
+        <link href="http://akira773.blog22.fc2.com/blog-entry-764.html"/>
+        <updated>2023-01-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[さて、昨日の続きです。変更・追加スキルの内容を見ていきます画像をどうにかしたくてスタイルシートを弄ったと書きましたが今回の画像のためですそれでも横に大きすぎて入らないので多少加工して表を詰めるという謎の作業が文字を書くより時間がかかったとは口が裂けても言えない（言ってる）当然ですが画像内の文字や数字は何も弄ってませんよ余白を詰めただけです。ということで、続きを開くと大量のスキル画像が登場しますお覚]]></summary>
+        <author>
+            <name>リヤン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年初異次元？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-932.html</id>
@@ -971,25 +981,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[また異次元してる…理由はT速度首が手ごろな値段で売られていたため。そしてベースを変えるために混ぜないといけない…でもまぁいいやと異次元探して混ぜました。ま た 成 功 し た…あとはOPを1個増やして純粋とBFOPと1解放して完成させました。そして赤ダメがいくら増えたのか！！前　105.2万後　107.0万1.8万くらい増えました☆…大して変わってないおしまい。]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[導きサマナ育成配信#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=zS4hldCTHj4</id>
-        <link href="https://www.youtube.com/watch?v=zS4hldCTHj4"/>
-        <updated>2022-12-04T15:06:13.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヤティカヌで被弾するとどうなるか、今日の闇商人]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-776.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-776.html"/>
-        <updated>2022-12-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日息子がスマホを見ながらニヤニヤしていたのでこれはもしやお年頃だし綺麗なお姉さんの水着動画でも見て発情しているのか！？と思い聞いてみたらこれでした私の勘違いでしたね思えば私も息子くらいの時に学校から帰ってくると母親が勝手に部屋を掃除したようで隠しておいたはずのエッ○な本が1月号から順に本棚に並べられていていた時は焦ったものですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
