@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T11:48:15.469Z</updated>
+    <updated>2023-01-03T12:36:32.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なんと１２年ぶりのウサギ年！]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1113.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1113.html"/>
+        <updated>2023-01-03T11:54:45.000Z</updated>
+        <summary type="html"><![CDATA[２０２３年、あけましておめでとうございます。＾＾二０二三というわけでウサギ年二〇二三年がやってきました皆様いかがお過ごしでしょうか今年はなんと１２年ぶりのウサギ年でございます！つまりチョットさぼってここで告知したなかったりしますが、１月２日・・・【うさ祭り2023 第1回うさレース】が、開催されました。＾＾ひゃっほうんで、途中のSSがうまく取れてなかったので～いきなり結果報告ですよ【うさ祭り2023 第1回うさ]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新年早々賭け事]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301030000/</id>
