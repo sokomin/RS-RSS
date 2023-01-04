@@ -160,6 +160,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Wy2CIkUSexQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Wy2CIkUSexQ",
+          "publishedOn": "2023-01-04T06:01:23.000Z",
+          "wordCount": null,
+          "title": "1250Lvから始める 支援光奏師育成配信#1【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LGgJbhrzNTo",
           "author": null,
           "description": "",
@@ -728,6 +738,16 @@
       "feedUrl": "http://extremetrailblazer.blog.fc2.com/?xml",
       "siteUrl": "https://extremetrailblazer.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-933.html",
+          "author": "Trailblazer",
+          "description": "影も形もなかった…【配布品とか】・期限切れのGEMとSP償却・12月トレジャーカードのSPただそれだけの詳細これだけである。まぁロトは新年のあれだから…おしまい",
+          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-933.html",
+          "publishedOn": "2023-01-04T06:10:43.000Z",
+          "wordCount": 114,
+          "title": "新しいイベントは見えるか？",
+          "imageUrl": null
+        },
         {
           "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-932.html",
           "author": "Trailblazer",
