@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T18:23:49.096Z</updated>
+    <updated>2023-01-04T18:48:56.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[荒れ地のゾンビとデブ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301050000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301050000/"/>
+        <updated>2023-01-04T18:22:53.000Z</updated>
+        <summary type="html"><![CDATA[荒れ地の骸骨は柔らかいのでブラックスター１発確定で倒せます。しかし、細ゾンビとデブはけっこう硬いMOBで、なかなか１発で倒せません。↑細ゾンビ↓デブしかし、レベルが上がりステが増加し、さらに装備も更新し...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天空の要塞異次元]]></title>
         <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202301050000/</id>
