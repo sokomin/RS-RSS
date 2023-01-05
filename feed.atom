@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T17:48:22.485Z</updated>
+    <updated>2023-01-05T18:23:29.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1103,16 +1103,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[そして、出来たのが↓これ！（Gvで強制落ちしたときに面倒なので本鯖でLRにしておきました）↑こんなのが出来ちゃったので、メインクリーチャー用に↓これを作ってみました。そして新しい編成になったパッシブ全体が...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特になし]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1247.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1247.html"/>
-        <updated>2022-12-07T05:51:33.000Z</updated>
-        <summary type="html"><![CDATA[先週書いてませんでしたが冒険家感謝祭第3弾が先週から始まってます。第1弾から続いてるものだし、特に載せる必要がないかと。課金の方ではクリスマスキャンペーンが始まりましたね。クリスマスコスチュームとコクーンが販売中です。それでは今週ものんびり楽しみましょう～( ´ω｀)]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
