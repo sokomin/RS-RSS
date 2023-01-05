@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T02:57:21.148Z</updated>
+    <updated>2023-01-05T03:22:19.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国テイマ改変20221228情報④]]></title>
+        <id>http://akira773.blog22.fc2.com/blog-entry-766.html</id>
+        <link href="http://akira773.blog22.fc2.com/blog-entry-766.html"/>
+        <updated>2023-01-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[韓国テイマ改変①～③見てきてどうでしたかもやもや、ざわざわ、わくわくしたことと思います。さて④で総括なんですがあまりに情報が多すぎてとっ散らかっているので正直困っています。分かりやすく書くのって難しいですよね…まぁ未来の出来事を断片的な情報だけで予想して書いているので多少はね…なお、お断りとして、あくまで韓国公式の内容を適当に翻訳したのをもとに記事を書いているので1)ちょっとぐらい間違ってても怒っちゃだ]]></summary>
+        <author>
+            <name>リヤン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[荒れ地のゾンビとデブ]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301050000/</id>
@@ -1103,16 +1113,6 @@ OCTOBER UPDATE -->
         <summary type="html"><![CDATA[先週書いてませんでしたが冒険家感謝祭第3弾が先週から始まってます。第1弾から続いてるものだし、特に載せる必要がないかと。課金の方ではクリスマスキャンペーンが始まりましたね。クリスマスコスチュームとコクーンが販売中です。それでは今週ものんびり楽しみましょう～( ´ω｀)]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おさらい]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-342.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-342.html"/>
-        <updated>2022-12-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年も雪の季節がやってきたので冬支度が忙しくなってきたこの頃です＾＾；もう今年雪かきしないとダメでした＾＾；ＲＳ世界の方では活動はしてるものの代り映えしない日常を送っているのでブログになにかいたらいいのかな？と困っている所でしたがＧチャしてて意外と知らない人がいるようなので今回はその事にしようと思いました＾＾まずはギルドによっては旗バフから毎日もらえるギルド協力Ｂｏｘです。旗バフからの物は毎日6時]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
