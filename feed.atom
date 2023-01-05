@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T22:48:27.866Z</updated>
+    <updated>2023-01-05T23:20:18.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1083,16 +1083,6 @@ OCTOBER UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリスマスが今年も…え？クリスマス？]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-921.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-921.html"/>
-        <updated>2022-12-07T10:58:41.000Z</updated>
-        <summary type="html"><![CDATA[2022年だいぶ終わってる…【配布物】・港町Boxいつものあれ【何の変わり映えもないログキャン】2023/1/10(火)23:59まで。ランダムアイテムだし、コンプもプレコンも前回と一緒。いい加減　新　外したら？マップ構成も変わらずで10日、10日、5日。猶予も変わらず…と思ったら10日あるよ。年末年始いなくても安心！本来ならひとつ前の週を想定なんだろうな…不変の詳細ログキャン直飛びはこっち【ボックスドロップ】1/11(水)メンテまで]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
