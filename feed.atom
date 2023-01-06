@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T16:52:32.214Z</updated>
+    <updated>2023-01-06T17:17:47.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[終わりなき装備改良]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-934.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-934.html"/>
+        <updated>2023-01-06T17:06:04.000Z</updated>
+        <summary type="html"><![CDATA[いつになったらいい線まで行くのかたまにはV鯖のお話。魔法強打型へ変更するためのクリーチャー厳選がある程度まとまった。魔法強打と魔法ダメ吸収はともかく、魔法強化はメインの都合。被魔法ダメ吸収は微妙に足りない吸収のため。あとは経験値にした。これに超越魔法強打と勇猛5段階と初心と権能で…58％です。吸収の方も100％に調整済み。なんかしれっとBF強化で最大の数値が出るようになってるから、被魔法ダメ吸収を15％×2にで]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃４７　今年初狩り配信&スマホ考える回]]></title>
         <id>https://www.youtube.com/watch?v=9HOCC_Uog4o</id>
