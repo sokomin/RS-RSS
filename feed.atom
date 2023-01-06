@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T03:00:30.671Z</updated>
+    <updated>2023-01-06T03:24:31.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1029,16 +1029,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212100000/"/>
         <updated>2022-12-09T17:58:40.000Z</updated>
         <summary type="html"><![CDATA[ちょっと今のRSに萎え気味なので、読むと貴方のモチベも下がるかも知れません！閲覧注意です！！！！！！ダメDXを削って迅速を付けました。ついでに、BFOPを薬回復から移動速度に変更しておきました。表記制限を...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成功100％薬回復お守り]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212080000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212080000/"/>
-        <updated>2022-12-07T15:23:29.000Z</updated>
-        <summary type="html"><![CDATA[こんな物が手に入ったので・・・↓の迅速を消して貼り付けしました。（SSは増幅と再構成後のものです）どうせ薬を付けるなら、Lv3まで増幅できる箇所で、抽出が使用不可であるUMUにするのが一番良いかなと思いまし...]]></summary>
         <author>
             <name>雷神の弓</name>
         </author>
