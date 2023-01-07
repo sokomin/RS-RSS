@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T08:48:25.901Z</updated>
+    <updated>2023-01-07T09:16:55.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不死アタック]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-186.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-186.html"/>
+        <updated>2023-01-07T08:49:49.000Z</updated>
+        <summary type="html"><![CDATA[あけましておめでとうございます。第三の猫です。年末年始想定していた以上に時間が取れず、今回の内容は大体去年の話になります。まずは覚醒ボーンキメラをテイムするところから。理由はなんとなくです。なんとなくつかまえました。さあ、がんばれ覚醒ボーンキメラ。レッドアイ研究員(310)をやっつけろ。青亀かな？移動速度は控えめですが攻撃速度は控えません。とても速いです。だてに3本も首生えてませんね。それではこの骨を連]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[終わりなき装備改良]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-934.html</id>
