@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-08T16:49:12.029Z</updated>
+    <updated>2023-01-08T17:15:48.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1119,16 +1119,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <updated>2022-12-10T11:19:46.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T力比権能売却とスフィアULTGEM買い]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212100001/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212100001/"/>
-        <updated>2022-12-10T05:04:31.000Z</updated>
-        <summary type="html"><![CDATA[T力比権能は700で露店しても全然売れなかったのですが、650で売り叫びしたら即売れしてくれました。（取引したのが別PCだったのでSSは無し）所持金9本から659本になったので、早速スフィアULTをGEM買いしました。...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
