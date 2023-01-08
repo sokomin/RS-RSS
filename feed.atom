@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-08T15:30:23.036Z</updated>
+    <updated>2023-01-08T15:48:24.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[年末年始の休みも終わりましただらけた生活リズムを元に戻すためにも出勤時にはこれを聴いています他にも古いゲームの曲等もあるので聴いてて気合が入りますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旗バフ80分おめでとう記念！ドミノ練習会復刻版！！]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1114.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1114.html"/>
+        <updated>2023-01-08T14:59:40.000Z</updated>
+        <summary type="html"><![CDATA[それはいきなりやってきた！２０２３年の1月8日、22時！！プリンセスメーカーの旗バフがついに80分になりました。イエーイ！！メンバーの皆様！感謝の感謝！！※これは直前のSSそしてそしてｗ予定も準備も打ち合わせもｗ何もしていませんでしたがｗいきなりの記念イベントをやってしまいました＾＾；【プリンセスメーカー】【旗バフ80分おめでとう記念！ドミノ練習会復刻版！！】1月8日22時30分いきなりワーチャで叫んだにも関わら]]></summary>
+        <author>
+            <name>リン・ドール</name>
         </author>
     </entry>
     <entry>
