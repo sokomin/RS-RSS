@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-08T05:48:24.491Z</updated>
+    <updated>2023-01-08T06:22:12.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1088,16 +1088,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212100001/"/>
         <updated>2022-12-10T05:04:31.000Z</updated>
         <summary type="html"><![CDATA[T力比権能は700で露店しても全然売れなかったのですが、650で売り叫びしたら即売れしてくれました。（取引したのが別PCだったのでSSは無し）所持金9本から659本になったので、早速スフィアULTをGEM買いしました。...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1OP削って迅速を付けた部位は]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212100000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212100000/"/>
-        <updated>2022-12-09T17:58:40.000Z</updated>
-        <summary type="html"><![CDATA[ちょっと今のRSに萎え気味なので、読むと貴方のモチベも下がるかも知れません！閲覧注意です！！！！！！ダメDXを削って迅速を付けました。ついでに、BFOPを薬回復から移動速度に変更しておきました。表記制限を...]]></summary>
         <author>
             <name>雷神の弓</name>
         </author>
