@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T23:48:08.519Z</updated>
+    <updated>2023-01-08T01:40:23.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】900-1250Lvの知識職育成Tier表]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202301070000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202301070000/"/>
+        <updated>2023-01-08T00:59:45.000Z</updated>
+        <summary type="html"><![CDATA[￥年末にこんなツイートをしてみたところ、それなりに良い反響いただきました。知識職　育成難易度表 https://t.co/YF6EiNzknN #TierMaker 各職の1250Lvまでの育成難易度が知りたい！って要望多いのでざっと作っ...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無課金マン廃業]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301070000/</id>
