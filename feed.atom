@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T15:51:58.674Z</updated>
+    <updated>2023-01-09T16:33:43.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1110,15 +1110,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[私ですね実は・・無課金であると嘘をついておりました。実は、2000円だけ課金しちゃっていました＾＾；※Webmoneyの2000円と500円は、キャンペーンでゲームオンからもらったものなので、私の中でこれらは課金では...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃３８]]></title>
-        <id>https://www.youtube.com/watch?v=468yyr_zqyI</id>
-        <link href="https://www.youtube.com/watch?v=468yyr_zqyI"/>
-        <updated>2022-12-11T04:17:30.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
