@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T14:49:30.974Z</updated>
+    <updated>2023-01-10T15:26:22.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[回避初心者。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-347.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-347.html"/>
+        <updated>2023-01-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[メインキャラのオオカミ少年は健康振りでとても頑丈で低下もできるためこれまでの狩場ではあまり死にそうになる事がなく狩り効率が悪すぎて死にそうなのはいつもですけど＾＾；ＨＰがあれば何とかなるかな？という気持ちで育てていました。ところがもう少し上の狩場に行くと回避は必要になるという事を上の狩場に行ってるＧメンさん達から聞いていたので回避の事も考えないとダメなのかな・・・？と思い始めてきました＾＾；それで]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[妥協〇]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-935.html</id>
