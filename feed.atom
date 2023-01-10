@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T05:29:28.907Z</updated>
+    <updated>2023-01-10T05:48:24.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1070,16 +1070,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[雨アチャは現在Lv1229で、ヤティカヌまで@21レベルまできている。やはり、ソロ経験値バフがかなり効いており、狩りのモチベーションアップに繋がっている。ソロゴールドバフも地味においしい(いつの間にか所持ゴールド10億超えがしばしば)ため、長く狩るメリットにもなっている。先週末はロイさん配信もあり、ついテンション上がって長く狩ってしまい、腰痛が再発。明日明後日は経験値2倍だが、おそらく狩れないだろう。無念だ。雨]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アビスをメインにしてGvに出てみました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212120000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212120000/"/>
-        <updated>2022-12-11T17:39:49.000Z</updated>
-        <summary type="html"><![CDATA[本日のパッシブは↓これアリーナでちょっとだけいじって、上級体力に変更しました。今回の対戦相手は物理職が主力だと聞いたので、人間型ダメージ抵抗があった方がいいと判断しました。124190　対　111831　という...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
