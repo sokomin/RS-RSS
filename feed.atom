@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T10:36:35.508Z</updated>
+    <updated>2023-01-10T10:48:45.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[妥協〇]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-935.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-935.html"/>
+        <updated>2023-01-10T10:47:38.000Z</updated>
+        <summary type="html"><![CDATA[明日のメンテは終了時刻が17時…たぶん不具合修正関連じゃないかな。前夜祭やアプデには早すぎる。あとほとんどのイベキャンペが一掃されます。ヘラクレスリッキーロトに年始のあれにドリームなんとかに…。V鯖のお話。もはや自身ですら把握していない物置を漁っていると、知識比1/2素材を発掘しました。そして手持ちには、妥協枠として持っていたハーモニースピアが2本…じゃあ壊すしかないよな？という思いつきで上級抽出ULTでぶっ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[罠シフ育成配信#1【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=oQS3dIk2ftU</id>
