@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T02:39:35.412Z</updated>
+    <updated>2023-01-10T03:01:35.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1080,16 +1080,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[本日のパッシブは↓これアリーナでちょっとだけいじって、上級体力に変更しました。今回の対戦相手は物理職が主力だと聞いたので、人間型ダメージ抵抗があった方がいいと判断しました。124190　対　111831　という...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手持ちのゴールド]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-777.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-777.html"/>
-        <updated>2022-12-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日家でPC作業をしている時にこれを聴いていたのですが隣の部屋から息子が走ってきましたRSやってる人にはとある動画でおなじみの曲ですよね息子曰く「棍棒持った人たちがいっぱい走ってるやつだよね」と言っていましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
