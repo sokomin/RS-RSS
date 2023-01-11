@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T05:48:30.929Z</updated>
+    <updated>2023-01-11T06:23:46.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1週間以上経ってますが]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1251.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1251.html"/>
+        <updated>2023-01-11T06:17:37.000Z</updated>
+        <summary type="html"><![CDATA[今更ですが明けましておめでとうございます。今年もよろしくお願いいたします。先週更新するのは忘れてたというよりかは新着イベントが特に何もなかったからですね。そして今週もこれといってなにもないのですが・・・。強いてであれば、今日のメンテでログインキャンペーンは新規開催されてます。今回はコクーンしか出ないようです。課金のほうはアセンションロトとRS探索機のキャンペーンが開始。気になる方は公式サイトからご確]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[思いつきで装備作成してみた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301110000/</id>
