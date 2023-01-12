@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T02:57:35.536Z</updated>
+    <updated>2023-01-12T03:22:44.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1154,16 +1154,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。あまりINしていない時期がありましたが、ようやくLv1400になりました。箱バフになってからソロでも経験値がおいしいので、狩りする時間が増えました。狩場はヤティカヌ3層です...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[やっと知識へ！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-343.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-343.html"/>
-        <updated>2022-12-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年の金鯖で育成しその後無課金サブＧのＧＭに収まっている青藍遊泳ですがけっこういいレベルになってきたのでそろそろ転生して知識キャプテンになろうかな？と思いました＾＾実際には2～3週間くらい前から思ってましたけど準備に時間がかかってました＾＾；ここまで転生してなかったのは理由があってとりあえず物理グルグル覚醒のワールウィンドでディメンション安定して回る事が出来てたので知識に変えてディメきつくなると嫌だ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
