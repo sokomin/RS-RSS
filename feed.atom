@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T05:18:50.085Z</updated>
+    <updated>2023-01-12T05:29:54.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1154,16 +1154,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <updated>2022-12-14T10:23:47.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[悪魔Lv1400　狩りステ晒し]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202212140000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202212140000/"/>
-        <updated>2022-12-13T17:27:00.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。あまりINしていない時期がありましたが、ようやくLv1400になりました。箱バフになってからソロでも経験値がおいしいので、狩りする時間が増えました。狩場はヤティカヌ3層です...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
