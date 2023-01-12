@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T23:20:26.252Z</updated>
+    <updated>2023-01-12T23:32:39.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1104,57 +1104,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[゜。°。°。°。°。°。°。°。゜。°。°。°。DECEMBER UPDATE新規1250UMU追加、新規装備強化アイテム追加各種コンテンツ改善・報酬追加etc色々と追加やら修正やらがきてます。詳しい事は公式サイトのアップデートページをご確認ください。゜。°。°。°。°。°。°。°。゜。°。°。°。思ったよりも少ないです新規イベント。:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::イベントキャンペーンが3つあり、今日のメンテ後から1]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.12.14 アプデ]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/4225f811b6a7e5ee9db3158c4979160f</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/4225f811b6a7e5ee9db3158c4979160f?fm=rss"/>
-        <updated>2022-12-14T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[今日は双子座流星群が見えるみたいですね。
-
-
-
-
-
-
-前期（9/7から9/21：「コンテスト装備BOX」
-後期（9/21から10/5）：「コンテスト装備BOXⅡ」
-後期「コンテスト装備BOXⅡ」がドロップします。 -->
-
-
-9月7日メンテ後から10月5日メンテ前まで
-
-
-課金イベントはこちら
-
-
-
-
-11月30日メンテ後から12月21日メンテ前まで
-
-
-さて、今週もまったり楽しみましょう。
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃３９]]></title>
-        <id>https://www.youtube.com/watch?v=_SNKV2dMRzc</id>
-        <link href="https://www.youtube.com/watch?v=_SNKV2dMRzc"/>
-        <updated>2022-12-14T11:23:21.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
