@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-13T22:31:17.126Z</updated>
+    <updated>2023-01-13T22:48:05.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1145,25 +1145,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[Gv復帰以降に参加したGvのメモです。※ギルド名は通称で記載、敬称略　動画を見て数えた数値なので、数え間違っている場合があるかも知れません。対戦日　対戦ギルド　　LA数　死亡数　得点/失点　　　勝敗　制限...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃４０]]></title>
-        <id>https://www.youtube.com/watch?v=_6bebH2acEU</id>
-        <link href="https://www.youtube.com/watch?v=_6bebH2acEU"/>
-        <updated>2022-12-15T10:44:31.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なんだいつもの…]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-924.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-924.html"/>
-        <updated>2022-12-15T10:43:35.000Z</updated>
-        <summary type="html"><![CDATA[臨　時　メ　ン　テ石の日にアプデ入れるから…【絶望の臨時メンテ】12/15(木)20:00～25:00ですなんか予期せぬ不具合が出たらしい。それの修正だとかいったい何をやらかしたのやら…まぁいつも通りの事だが。公式はそのまんまみたい？一応詳細臨時メンテはあるだろうと思ってたけど…タイミングぇ鐘なってたんだけど。おわり☆]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
