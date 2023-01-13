@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-13T04:23:42.418Z</updated>
+    <updated>2023-01-13T04:48:09.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[経験値３倍に向けて]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301130000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301130000/"/>
+        <updated>2023-01-13T04:36:48.000Z</updated>
+        <summary type="html"><![CDATA[準備完了！ヤティカヌ前提クエもクリアしてあるし、装備バッジが切れる前に1245も達成したし、経験値バフ３にしてログアウトしたしｗあとは0時以降に少し狩りをすれば、Lv1250になってヤティカヌです。狩り嫌いな...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[攻城に出たよ]]></title>
         <id>kaze.gg-blog.com://entry/172</id>
