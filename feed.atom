@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-13T07:48:19.718Z</updated>
+    <updated>2023-01-13T08:24:44.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1164,16 +1164,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[臨　時　メ　ン　テ石の日にアプデ入れるから…【絶望の臨時メンテ】12/15(木)20:00～25:00ですなんか予期せぬ不具合が出たらしい。それの修正だとかいったい何をやらかしたのやら…まぁいつも通りの事だが。公式はそのまんまみたい？一応詳細臨時メンテはあるだろうと思ってたけど…タイミングぇ鐘なってたんだけど。おわり☆]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解放オプション変換器使ってみた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212150000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212150000/"/>
-        <updated>2022-12-14T19:54:57.000Z</updated>
-        <summary type="html"><![CDATA[HP86％は、かなりの当たりOPですね。最大攻撃力14増加は、なかなかの良OPです。表記がこれだけでかなり上がるので、その分の力を削って健康に回せます。タビアクートの欠片で３個交換して、さらに50本で4個購入し...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
