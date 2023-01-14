@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-14T21:48:34.673Z</updated>
+    <updated>2023-01-14T22:16:53.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1126,16 +1126,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <updated>2022-12-16T11:14:15.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MQ2：その３]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-184.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-184.html"/>
-        <updated>2022-12-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ここまでのあらすじ。ついにメインクエストシーズン2も大詰め、仲間たちと一緒に最後の戦いに挑みます。――といった感じでバッサリカットしても特に問題ない気もしませんか？第三の猫です。実は先週の段階でメインクエスト２を完了していて、その大量の内容をどう片づけるのか、記事を書き始めた現段階で何も決まっていないのです。……どうなるんでしょうね。はい。ブラックファイヤーちほーにある漆黒の城の中で、ストーリー後半の]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
