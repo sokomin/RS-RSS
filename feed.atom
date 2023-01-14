@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-14T18:21:15.778Z</updated>
+    <updated>2023-01-14T18:48:33.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1145,16 +1145,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <updated>2022-12-16T07:08:31.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gv復帰（9月）以降のLA数、死亡数のメモ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212160000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212160000/"/>
-        <updated>2022-12-16T06:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Gv復帰以降に参加したGvのメモです。※ギルド名は通称で記載、敬称略　動画を見て数えた数値なので、数え間違っている場合があるかも知れません。対戦日　対戦ギルド　　LA数　死亡数　得点/失点　　　勝敗　制限...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
