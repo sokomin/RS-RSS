@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-15T10:31:37.633Z</updated>
+    <updated>2023-01-15T10:48:31.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[悪魔Lv1450　狩りステ晒し（適当）]]></title>
+        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202301150000/</id>
+        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202301150000/"/>
+        <updated>2023-01-15T10:45:40.000Z</updated>
+        <summary type="html"><![CDATA[みなさんこんばんは。魔法の壁です。1月は石の日が土曜日だったので経験値・ドロップ3倍でした。みなさんお疲れさまでした。えぇ、もちろん１ｓｔキャラクターであるBISのレベルを上げました。もちろんです。​嘘...]]></summary>
+        <author>
+            <name>裁判官</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【FACTORIO】自動工業化ゲームやるぞ　その１]]></title>
         <id>https://www.youtube.com/watch?v=pniHhidjhiI</id>
