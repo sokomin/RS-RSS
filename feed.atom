@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-15T12:59:38.648Z</updated>
+    <updated>2023-01-15T13:24:37.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お酒入れたときに行動するから…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-938.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-938.html"/>
+        <updated>2023-01-15T13:09:32.000Z</updated>
+        <summary type="html"><![CDATA[やっちゃったぜ☆※事の経緯①コラプ知識槍が売られてた②物売れば届くくらいの金額だった③なら買うしかないよな？④ここでお酒が入ります。飲まずにはｒｙ⑤買ってしまいます⑥補正値妥協します⑦なぜか万能解放を使ってしまいます⑧なぜか製錬も終えます⑨どうしてこうなった…4解放目いらない(´・ω:;.:...あ、性能は痒い所に手が届くというか…魔力のをつけなくても400％に到達するからよし！あとはこれをT知識比にすればいいんだけど…お守]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[悪魔Lv1450　狩りステ晒し（適当）]]></title>
         <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202301150000/</id>
