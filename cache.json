@@ -356,6 +356,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qbAd_srnsUg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qbAd_srnsUg",
+          "publishedOn": "2023-01-16T11:18:05.000Z",
+          "wordCount": null,
+          "title": "【FACTORIO】自動工業化ゲームやるぞ　その２",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pniHhidjhiI",
           "author": null,
           "description": "",
