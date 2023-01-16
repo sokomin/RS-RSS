@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-16T13:48:15.633Z</updated>
+    <updated>2023-01-16T14:17:56.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2キャラ同時進行]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-939.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-939.html"/>
+        <updated>2023-01-16T14:03:02.000Z</updated>
+        <summary type="html"><![CDATA[槍とBISのレベ上げを強いられたため、どっちもマキナ処理をやってます。石の日はさぼった。どっちも装備は揃っているので、槍は月谷を、BISは収容所B2を卒業しました。次は星谷と収容所B3か…前者は適正外になってから本番、後者は相変わらずの万病必須めんどくせぇ(´・ω:;.:...※星谷右側だと物理でも快適に狩れるのを知ったので、気は楽になったちなみにだけど、大量ミラー追加から唯一ハブられた月谷だが、経験値効率は十分ありま]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【FACTORIO】自動工業化ゲームやるぞ　その２]]></title>
         <id>https://www.youtube.com/watch?v=qbAd_srnsUg</id>
