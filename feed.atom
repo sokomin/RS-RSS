@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-17T14:48:18.351Z</updated>
+    <updated>2023-01-17T15:19:50.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欲張りレビット終了。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-348.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-348.html"/>
+        <updated>2023-01-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[年末から始まったレイドボスが欲張りレビットに変わり欲張りレビットBoxをドロップするイベントが終わりとなりました＾＾いつも瞬殺されてるのでＳＳ撮るのも大変です＾＾；レビットBoxからは赤い心臓や混沌のかけらなど様々なものが出ていましたが個人的に実りがあったと思うのがお守りが5個入りの物で前回のぷぷりの回避装備もこれでほとんどまかなっていたり多くの失敗をしましたがHP効率もちょっとずつ装備につけられたりと装]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[もう太極は必要ないので]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301170000/</id>
