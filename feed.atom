@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-17T14:17:17.666Z</updated>
+    <updated>2023-01-17T14:30:17.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[もう太極は必要ないので]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301170000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301170000/"/>
+        <updated>2023-01-17T14:22:07.000Z</updated>
+        <summary type="html"><![CDATA[↓こういうベースに変更していきます。他には、T力比太極Nx2個を売り払って、代わりにT力比永遠とT力比ウロボロス4解放を導入しています。それでもまだ闇強化が余っているので、残りのTRSULT太極Nx2個も他ベースへ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REDSTONE　ヤティカヌ秘密　非常に難しい]]></title>
         <id>https://www.youtube.com/watch?v=eRd6obz6BuU</id>
