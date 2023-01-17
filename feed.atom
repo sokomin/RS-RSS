@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-17T13:04:20.172Z</updated>
+    <updated>2023-01-17T13:33:13.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[REDSTONE　ヤティカヌ秘密　非常に難しい]]></title>
+        <id>https://www.youtube.com/watch?v=eRd6obz6BuU</id>
+        <link href="https://www.youtube.com/watch?v=eRd6obz6BuU"/>
+        <updated>2023-01-17T13:27:37.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2キャラ同時進行]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-939.html</id>
