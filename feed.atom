@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-16T23:48:20.567Z</updated>
+    <updated>2023-01-17T01:35:06.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1147,15 +1147,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[先日6日、歌手の水木一郎さんが肺がんの為に亡くなりました私が子供の頃から大好きだったアニメの主題歌は水木さんが歌う物が多く好きな曲はたくさんありますが、その中でも一番好きだったのはこれです闘病生活を送りながらも命尽きるまで精力的に活動を続けたまさにアニキと呼ばれる生き様だったと思いますご冥福をお祈りしますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃４２ レプリカ開放オプション変換やりまくり]]></title>
-        <id>https://www.youtube.com/watch?v=IyB8rmf0drs</id>
-        <link href="https://www.youtube.com/watch?v=IyB8rmf0drs"/>
-        <updated>2022-12-18T12:56:20.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
