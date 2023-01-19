@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-19T04:24:13.510Z</updated>
+    <updated>2023-01-19T04:48:12.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1201,16 +1201,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[全吸収＆全回避型が一応完成したので記事にします。まず、ショボいですが装備とステです。（素の状態）お次はクレスト！力+150のクレストを付けたいのですが売っていないので、とりあえずカリスマのクレストを付...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解放OP変換かぁ…]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-925.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-925.html"/>
-        <updated>2022-12-20T16:24:09.000Z</updated>
-        <summary type="html"><![CDATA[また装備作らないといけないじゃん…V鯖なら素材色々と売ってるのに…前のアプデで実装された解放OP変換により、Slvはさらなる次元に到達できるようになってしまいました。あっちの情報のままであれば、武器、首、手、頭、背耳、足にいるらしい。自身の装備とOPを確かめた結果、武器、手、頭、足は変換がいるだろうという状況です。背と首は苦労の割に増加量が…なので保留。このうち、手と頭はベースをUMUにしないといけないわけで…]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
