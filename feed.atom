@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-19T04:48:12.929Z</updated>
+    <updated>2023-01-19T05:18:13.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黒魔の耳とクレストを更新しました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301190000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301190000/"/>
+        <updated>2023-01-19T05:12:59.000Z</updated>
+        <summary type="html"><![CDATA[4解放が400本と安かったので購入しました。BF魔法弱化16％、一角5段が付いていました。とりあえず恩寵のを赤解除で消して、ブリッジでダメエンチャを失敗するまで繰り返して、わざと壊します。そしたら、地獄の鉄...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新しいイベキャンペは]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-940.html</id>
