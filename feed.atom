@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-19T23:20:13.702Z</updated>
+    <updated>2023-01-19T23:32:10.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1135,52 +1135,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <updated>2022-12-22T11:08:20.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.12.21 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/67dbb244fbdfaaf0f12bae549b8f5228</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/67dbb244fbdfaaf0f12bae549b8f5228?fm=rss"/>
-        <updated>2022-12-21T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[今日も寒いですね。
-
-
-
-
-
-
-
-
-前期（9/7から9/21：「コンテスト装備BOX」
-後期（9/21から10/5）：「コンテスト装備BOXⅡ」
-後期「コンテスト装備BOXⅡ」がドロップします。 -->
-
-
-9月7日メンテ後から10月5日メンテ前まで
-
-
-課金イベントはこちら
-
-
-
-
-
-12月7日メンテ後から2023年1月4日メンテ前まで
-
-
-今年も残りわずかですね。
-残りの期間もまったり楽しみましょう。
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
