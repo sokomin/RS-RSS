@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-20T15:20:24.515Z</updated>
+    <updated>2023-01-20T15:34:39.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今明かされる衝撃の真実！]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-941.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-941.html"/>
+        <updated>2023-01-20T15:29:22.000Z</updated>
+        <summary type="html"><![CDATA[ヘーリオスコクーン[E]からはRもでるよ！ふざけるなぁ！！※R34%、HR50%、SR15％、LR1％らしいから、プリズムが選ばれていたころからしれっと弱体化してる本当にしれっと改悪を重ねるあたり、いつものって感じがする…猶予が長いなぁと思ったらそういうことだったか。それだけ。]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黒魔クリーチャーパッシブ完成（仮）]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301200000/</id>
