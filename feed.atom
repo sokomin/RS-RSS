@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-20T23:48:38.726Z</updated>
+    <updated>2023-01-21T01:35:10.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nise2023]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-187.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-187.html"/>
+        <updated>2023-01-21T00:17:51.000Z</updated>
+        <summary type="html"><![CDATA[ひいきにしていた書店がまた一つ、ドラッグストアへとその姿を変えてしまいました。これ、知ってます。何かの映画で見ました。ドラッグストアにかまれるとドラッグストアになるぞー！第三の猫です。nise1110がレベル900になりました。長い道のりでしたが、動き出せばあっという間でした。長らく放置気味で申し訳ない。というわけで、メインクエ２を進めていきます。3キャラ目にもなると慣れたものです。秘密ダンジョンでREDSTONE文]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今明かされる衝撃の真実！]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-941.html</id>
@@ -1135,26 +1145,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[知恵・運・スキルを削って力を増やしてみました。表記が40万近く増えたので、かなり良い感じです。黒魔は、MBやクリーチャーの登録をほとんどやっていません。それらをやれば、ステが増えたり最終ダメが上がるの...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2フレなんてもう]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212220000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212220000/"/>
-        <updated>2022-12-22T13:18:57.000Z</updated>
-        <summary type="html"><![CDATA[２フレなんてもうやるつもりもないので、それに伴い↑これも処分しておきました。作るのに200本くらい掛かったロングビルでしたが、まぁもう使わないしいいかなとｗ]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[緩和指なんかに負けないぞ！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-927.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-927.html"/>
-        <updated>2022-12-22T12:16:32.000Z</updated>
-        <summary type="html"><![CDATA[こういうケースは前にもあったよな？]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>

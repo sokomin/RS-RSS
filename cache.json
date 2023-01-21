@@ -646,16 +646,6 @@
           "wordCount": 1453,
           "title": "黒魔のステを詰めてみたら",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/921b07273f28bba1c8f2e5cb818d7b830dc2780e.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202212220000/",
-          "author": "雷神の弓",
-          "description": "２フレなんてもうやるつもりもないので、それに伴い↑これも処分しておきました。作るのに200本くらい掛かったロングビルでしたが、まぁもう使わないしいいかなとｗ",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202212220000/",
-          "publishedOn": "2022-12-22T13:18:57.000Z",
-          "wordCount": 1449,
-          "title": "2フレなんてもう",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/730a8dc115680287a514fb0137c33d5de5fcb24f.73.9.9.3.png"
         }
       ]
     },
@@ -928,16 +918,6 @@
           "wordCount": 114,
           "title": "来週はメンテをしないと約束したな",
           "imageUrl": null
-        },
-        {
-          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-927.html",
-          "author": "Trailblazer",
-          "description": "こういうケースは前にもあったよな？",
-          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-927.html",
-          "publishedOn": "2022-12-22T12:16:32.000Z",
-          "wordCount": null,
-          "title": "緩和指なんかに負けないぞ！",
-          "imageUrl": null
         }
       ]
     },
@@ -1116,6 +1096,16 @@
       "feedUrl": "http://3rdcat.blog.fc2.com/?xml",
       "siteUrl": "https://3rdcat.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://3rdcat.blog.fc2.com/blog-entry-187.html",
+          "author": "第三の猫",
+          "description": "ひいきにしていた書店がまた一つ、ドラッグストアへとその姿を変えてしまいました。これ、知ってます。何かの映画で見ました。ドラッグストアにかまれるとドラッグストアになるぞー！第三の猫です。nise1110がレベル900になりました。長い道のりでしたが、動き出せばあっという間でした。長らく放置気味で申し訳ない。というわけで、メインクエ２を進めていきます。3キャラ目にもなると慣れたものです。秘密ダンジョンでREDSTONE文",
+          "link": "https://3rdcat.blog.fc2.com/blog-entry-187.html",
+          "publishedOn": "2023-01-21T00:17:51.000Z",
+          "wordCount": 262,
+          "title": "nise2023",
+          "imageUrl": null
+        },
         {
           "id": "https://3rdcat.blog.fc2.com/blog-entry-186.html",
           "author": "第三の猫",
