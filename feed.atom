@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-21T09:17:02.504Z</updated>
+    <updated>2023-01-21T09:28:52.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1135,15 +1135,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[そ、そうだ運営、助けて…あれは嘘だ【やっぱりメンテをやるみたい】前回のメンテ終了のお知らせにて、次回メンテは年明けと書いてましたが、やっぱり来週もメンテをやるみたいです。まぁPassやら復帰者やら一部イベントアイテムやらあったし、それらを先延ばしにはしないほうがいいという判断…よね？ちゃんと解消するかは別問題とにかく、いつも通りの水曜日ってことで…その詳細結局いつも通りの水曜日だった…おしまい]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃４３　帰ってきたRT]]></title>
-        <id>https://www.youtube.com/watch?v=x23xJ6CJDT4</id>
-        <link href="https://www.youtube.com/watch?v=x23xJ6CJDT4"/>
-        <updated>2022-12-22T21:20:11.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
