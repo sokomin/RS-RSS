@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-21T04:48:13.948Z</updated>
+    <updated>2023-01-21T05:16:40.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1135,16 +1135,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <updated>2022-12-22T21:20:11.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔のステを詰めてみたら]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212230000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212230000/"/>
-        <updated>2022-12-22T17:13:32.000Z</updated>
-        <summary type="html"><![CDATA[知恵・運・スキルを削って力を増やしてみました。表記が40万近く増えたので、かなり良い感じです。黒魔は、MBやクリーチャーの登録をほとんどやっていません。それらをやれば、ステが増えたり最終ダメが上がるの...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
