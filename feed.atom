@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-22T01:40:20.950Z</updated>
+    <updated>2023-01-22T02:38:44.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1116,15 +1116,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[ここまで表記が上がりました。しかし、メインクエ２とMBとクリーチャー登録をしていない無課金の私では、ここまでが限界かなと思いました。]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識リトル育成配信#2【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=Bd_H6t0QZK4</id>
-        <link href="https://www.youtube.com/watch?v=Bd_H6t0QZK4"/>
-        <updated>2022-12-23T14:14:35.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
