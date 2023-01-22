@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-22T13:25:04.130Z</updated>
+    <updated>2023-01-22T13:48:16.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1096,16 +1096,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <updated>2022-12-24T02:58:51.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MQ2：その４]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-185.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-185.html"/>
-        <updated>2022-12-24T01:46:27.000Z</updated>
-        <summary type="html"><![CDATA[はい。今回はチャプター４を開始し、直後のクエスト遂行中に何となくボスを撃破したところからスタートです。犯人はバルザロス。そして木に取り込まれちゃったマン（実は偉い悪魔らしい）に、ブラックファイヤーの未来を託される第三の猫。手始めに裏切った悪魔の粛清に行きます。この人のようですが、どうやって裏切りを判定すれば良いのでしょう？うーん……攻撃して死んだから裏切り者ですね。その判定方法で大丈夫ですか？大丈夫]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
