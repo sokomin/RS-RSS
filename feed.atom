@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-22T18:48:22.368Z</updated>
+    <updated>2023-01-22T19:14:27.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年1月Gv戦績]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301230000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301230000/"/>
+        <updated>2023-01-22T18:58:29.000Z</updated>
+        <summary type="html"><![CDATA[※ギルド名は通称で敬称略対戦日　対戦ギルド　　LA数　死亡数　得点/失点　　　勝敗　制限　　　1月15日　三顧　　　　14LA　2死　100900対162538　負　30万1月22日　武神　　　　12LA　3死　 80210対148298　 負...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初めてレビットを見ました]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-783.html</id>
