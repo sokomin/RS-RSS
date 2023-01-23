@@ -394,6 +394,16 @@
           "wordCount": null,
           "title": "【REDSTONE】赤石育成日記＃４６　２０２２年狩り納",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=e4IVUa3lAHY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e4IVUa3lAHY",
+          "publishedOn": "2022-12-25T14:14:09.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記＃４５　クリスマスにダラダラリトル育成するゾ",
+          "imageUrl": null
         }
       ]
     },
@@ -749,6 +759,16 @@
       "feedUrl": "http://extremetrailblazer.blog.fc2.com/?xml",
       "siteUrl": "https://extremetrailblazer.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-942.html",
+          "author": "Trailblazer",
+          "description": "あ、RSPass第5回は1/25(水)のメンテで終わるよ！回収後回しにしていた人は要注意！今回は早期回収したのでヨシ！と思ったらカメカーペット忘れてた落書きは例によってRSじゃないので追記にねじこみます。",
+          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-942.html",
+          "publishedOn": "2023-01-23T15:40:37.000Z",
+          "wordCount": 114,
+          "title": "たまには落書き更新を",
+          "imageUrl": null
+        },
         {
           "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-941.html",
           "author": "Trailblazer",

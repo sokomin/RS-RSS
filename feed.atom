@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-23T15:20:18.518Z</updated>
+    <updated>2023-01-23T15:48:21.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[たまには落書き更新を]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-942.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-942.html"/>
+        <updated>2023-01-23T15:40:37.000Z</updated>
+        <summary type="html"><![CDATA[あ、RSPass第5回は1/25(水)のメンテで終わるよ！回収後回しにしていた人は要注意！今回は早期回収したのでヨシ！と思ったらカメカーペット忘れてた落書きは例によってRSじゃないので追記にねじこみます。]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】雨アチャ日の出デビュー]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-930.html</id>
@@ -1080,6 +1090,15 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[先日息子とマイナンバーカードを受け取りに出張所のある駅まで行きましたすると息子が「僕がフルコンできたら焼肉おごってくれ！」と言うのでOKしました曲はこれです結果は可もありましたがフルコンしていましたそれにしてもなんて良い声で凄い事言ってる歌詞なんだろうと思いました二人で焼肉食べて帰りましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃４５　クリスマスにダラダラリトル育成するゾ]]></title>
+        <id>https://www.youtube.com/watch?v=e4IVUa3lAHY</id>
+        <link href="https://www.youtube.com/watch?v=e4IVUa3lAHY"/>
+        <updated>2022-12-25T14:14:09.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
