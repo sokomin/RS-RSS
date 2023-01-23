@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-23T17:48:33.137Z</updated>
+    <updated>2023-01-23T18:22:10.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1108,16 +1108,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <updated>2022-12-25T12:10:21.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バインドと「恩寵の」]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202212250000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202212250000/"/>
-        <updated>2022-12-25T06:12:08.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんばんは。魔法の壁です。先日、バインドに恩寵ダメージが乗ることが今更ながらわかったわけですが、じゃあセットオプション「恩寵の」ってどうなんだよ？ってところが気になりますよね。とうことで実...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
