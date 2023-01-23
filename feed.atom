@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-23T10:20:40.318Z</updated>
+    <updated>2023-01-23T10:36:17.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1070,6 +1070,15 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[先日息子とマイナンバーカードを受け取りに出張所のある駅まで行きましたすると息子が「僕がフルコンできたら焼肉おごってくれ！」と言うのでOKしました曲はこれです結果は可もありましたがフルコンしていましたそれにしてもなんて良い声で凄い事言ってる歌詞なんだろうと思いました二人で焼肉食べて帰りましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1250Lvから始める BIS育成配信#1【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=20SqGzP0Xm0</id>
+        <link href="https://www.youtube.com/watch?v=20SqGzP0Xm0"/>
+        <updated>2022-12-25T12:10:21.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
