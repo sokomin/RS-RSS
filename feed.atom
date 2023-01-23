@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-23T11:16:20.979Z</updated>
+    <updated>2023-01-23T11:28:25.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】雨アチャ日の出デビュー]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-930.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-930.html"/>
+        <updated>2023-01-23T11:15:43.000Z</updated>
+        <summary type="html"><![CDATA[雨アチャで日の出デビューした。事前に調べてみると、日の出PVPは相当旨いらしく、最高効率時は20分1レベル上がるらしい。期待に胸を膨らませて行ってみるも、全然旨くない・・・我慢して通い、何とかここまで育ててみて、経験値バフ3、パワキでやっと旨いと感じる様になってきた。Lv1325あたりの適正真っただ中なら、mobによっては1匹1億expもらえるかもしれない。幸い、ペア狩りくらいなら平日でも組んでもらえるくらい人気狩場]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年1月Gv戦績]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301230000/</id>
