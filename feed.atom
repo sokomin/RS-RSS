@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-23T14:48:44.177Z</updated>
+    <updated>2023-01-23T15:20:18.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1099,15 +1099,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[みなさんこんばんは。魔法の壁です。先日、バインドに恩寵ダメージが乗ることが今更ながらわかったわけですが、じゃあセットオプション「恩寵の」ってどうなんだよ？ってところが気になりますよね。とうことで実...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃４５　クリスマスにダラダラリトル育成するゾ]]></title>
-        <id>https://www.youtube.com/watch?v=e4IVUa3lAHY</id>
-        <link href="https://www.youtube.com/watch?v=e4IVUa3lAHY"/>
-        <updated>2022-12-25T03:15:31.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
