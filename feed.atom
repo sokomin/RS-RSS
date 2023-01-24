@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-24T14:48:22.019Z</updated>
+    <updated>2023-01-24T15:19:51.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ｓ鯖]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-349.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-349.html"/>
+        <updated>2023-01-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一昨年の金鯖で作ったキャラたちは本鯖であるＢ鯖には持ってくる枠がなかったためＢＩＳはＶ鯖、サマナはＳ鯖へとそれぞれ開拓の使命を持って行くことになりました。そしてＶ鯖ではその後、Ｖ鯖にもある姫Ｇとご縁がありそちらに新しくリトルを作成したまに挨拶しに行くくらいでしたがお盆の復帰後にイベなどのアイテムが欲しいという事でまめにＶ鯖姫Ｇに顔を出していました＾＾これに対し、Ｓ鯖のほうは知り合いがいなくサマナが]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[固定増強ってなーに！]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-943.html</id>
