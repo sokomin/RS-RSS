@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-24T03:20:11.606Z</updated>
+    <updated>2023-01-24T03:32:40.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1070,16 +1070,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[無駄とは分かっちゃいるけど、討ち死に覚悟で声を上げていかないとね。今回で何も変わらなければ、今度こそ対人はやめます。ゲームでストレス溜めてたら本末転倒ですしねぇ。※念のため言っておきますが、私は物理...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0時開始のキャンペ…]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-929.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-929.html"/>
-        <updated>2022-12-25T15:19:45.000Z</updated>
-        <summary type="html"><![CDATA[そういうケースもあるよね、うん…【ダメオ…ゲームオンチケット】2023/1/31(火)23:59まで。やたら長い。セブンイレブンのマルチコピー機からゲームオンチケットを買うと、金種に応じた製錬ガードがもらえる。もらえる量は…だいたい1個1000円ロトと同じ扱い。2千円から始まり、最大は3万円のやつ。前者だと2個、後者だと40個。なお、ゲームオンチケットコードと別にアイテムコードが記載されてます。それぞれ別のとこで入力する仕様]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
