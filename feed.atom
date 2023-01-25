@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-25T16:51:19.656Z</updated>
+    <updated>2023-01-25T17:17:01.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1146,16 +1146,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[早いもので2022年ももう終わりとなりました。ＲＳ世界での1年と言うと前半は引退中だったのでお盆過ぎから金鯖での活動スタートとなりました。去年の11月からお盆までＲＳを離れていたわけですが新しいＧメンさんが増えていて今副マスをしてくれているので良い人が増えてくれたと思いました＾＾また、引退中わたしと同じく引退しちゃってた方もいたのですがまたいつか戻ってきてくれたらいいかなと思います＾＾課金をしない限りは]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[久しぶりにオーガ物理組合のチャットが動いた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212270000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212270000/"/>
-        <updated>2022-12-27T05:13:20.000Z</updated>
-        <summary type="html"><![CDATA[無駄とは分かっちゃいるけど、討ち死に覚悟で声を上げていかないとね。今回で何も変わらなければ、今度こそ対人はやめます。ゲームでストレス溜めてたら本末転倒ですしねぇ。※念のため言っておきますが、私は物理...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
