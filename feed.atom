@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-25T06:23:08.236Z</updated>
+    <updated>2023-01-25T06:48:28.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1252.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1252.html"/>
+        <updated>2023-01-25T06:36:37.000Z</updated>
+        <summary type="html"><![CDATA[゜。°。°。°。°。°。°。°。゜。°。°。°。恒例の1つになってる周年記念のリング製作ですね。リングは通常ログインチェックと同様のようなのでログイン時に獲得できるようになってます。後はデイリークエストイベントもあるようで古都中央広場にいるデリンからデイリークエスト受諾できます。詳細や報酬などは↑のバナーにリンク貼ってあるので公式サイトのイベントページでご確認ください。゜。°。°。°。°。°。°。°。゜。°。°。°。特]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ｓ鯖]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-349.html</id>
