@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-26T02:57:05.225Z</updated>
+    <updated>2023-01-26T03:22:10.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1136,16 +1136,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[まず上級抽出成功からの～速度を最高補正に～でも１OPじゃ使い物にならないので～やっぱこんなもの要らん～ってことで破壊～ｗ（この前のロングビル破壊のリベンジをしてみただけで、２フレはもうやる気ないです...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年も終わり！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-345.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-345.html"/>
-        <updated>2022-12-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[早いもので2022年ももう終わりとなりました。ＲＳ世界での1年と言うと前半は引退中だったのでお盆過ぎから金鯖での活動スタートとなりました。去年の11月からお盆までＲＳを離れていたわけですが新しいＧメンさんが増えていて今副マスをしてくれているので良い人が増えてくれたと思いました＾＾また、引退中わたしと同じく引退しちゃってた方もいたのですがまたいつか戻ってきてくれたらいいかなと思います＾＾課金をしない限りは]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
