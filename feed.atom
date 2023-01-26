@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-26T17:48:20.917Z</updated>
+    <updated>2023-01-26T18:22:44.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1106,16 +1106,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1250.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1250.html"/>
-        <updated>2022-12-28T06:06:37.000Z</updated>
-        <summary type="html"><![CDATA[.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*.:*~*:._.:*~*:._.:*~*:トリプルドリーム年末祭の第3弾ですね。専用ハッシュタグをつけて、2023年にRSでやりたい事を呟くだけ、ですかね。詳細は↑の画像をクリックしてイベントページにてご確認ください。.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*.:*~*:._.:*~*:._.:*~*:さて、今日含めてあと4日で2022年も終わりますねぇ。僕はもうP戦と攻城以外では全然動かずチャットストーンになってましたが。]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
