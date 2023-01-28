@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-28T22:29:35.998Z</updated>
+    <updated>2023-01-28T22:48:25.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1052,16 +1052,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
 その前に何としてでもこの記事を更新しなければ！実家に帰省する電車内で必死にカタカタしているJ氏です。（隣のお席の方、ごめんなさい…） 今年最後の更新ということで、2022年のREDSTONE…]]></summary>
         <author>
             <name>The Adventure Of The Jacks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年最後の買い物かな]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202212300000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202212300000/"/>
-        <updated>2022-12-30T10:38:34.000Z</updated>
-        <summary type="html"><![CDATA[魔力注入が購入時は一角だったので勇猛に変えました。もともと使っていた秤の女にはBFの与魔法ダメHP吸収が付いていましたが、回避型になったのでこの秤の女にはスキルを付けることにしました。お遊びで育て始め...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
