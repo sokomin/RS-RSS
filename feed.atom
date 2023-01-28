@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-28T07:28:28.701Z</updated>
+    <updated>2023-01-28T07:48:19.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[久しぶりにロトやってみたよ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301280000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301280000/"/>
+        <updated>2023-01-28T07:35:13.000Z</updated>
+        <summary type="html"><![CDATA[昨夜、封印解放やってみたら結果が最悪で腹が立ったので、久しぶりに禁断のロトに手を出してしまいました。※昨夜の状況は、万能が買えなかったので、完全1解放→特製×→完全1解放→特製×→完全1解放→特製○からの改２...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黒魔の図鑑、MBの進捗状況]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301270000/</id>
