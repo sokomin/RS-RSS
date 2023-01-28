@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-28T15:30:19.750Z</updated>
+    <updated>2023-01-28T15:48:28.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1062,16 +1062,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
         <summary type="html"><![CDATA[魔力注入が購入時は一角だったので勇猛に変えました。もともと使っていた秤の女にはBFの与魔法ダメHP吸収が付いていましたが、回避型になったのでこの秤の女にはスキルを付けることにしました。お遊びで育て始め...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年末ですね]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-958.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-958.html"/>
-        <updated>2022-12-30T03:40:06.000Z</updated>
-        <summary type="html"><![CDATA[大変ご無沙汰になってしまい、恐縮です。もう今年も残りわずかになってしまいましたね。寒い毎日が続きますけれど、お元気でいらっしゃいますか？わたしは今のところコロナ感染も免れていて、元気でやっております。これまでにないほどの更新ブランクになってしまいましたけれど、理由は単純です。RED STONEをやっていないからです。夏以来どうにもＰＣとの相性が悪くなってしまったようで、ログインするとカクカクします。(あ、F1]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
 </feed>
