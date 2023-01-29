@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-29T11:48:16.988Z</updated>
+    <updated>2023-01-29T12:33:09.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1050,17 +1050,6 @@ The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美�
 それではよいお年を＾＾]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年アップデート所感＆ジャック家振り返り]]></title>
-        <id>https://rs-clair-de-lune.com/2022-12-31/</id>
-        <link href="https://rs-clair-de-lune.com/2022-12-31/"/>
-        <updated>2022-12-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年の大晦日は土曜日！ということは、攻城戦で締めくくる年！今晩の攻城戦が楽しみですね。
-その前に何としてでもこの記事を更新しなければ！実家に帰省する電車内で必死にカタカタしているJ氏です。（隣のお席の方、ごめんなさい…） 今年最後の更新ということで、2022年のREDSTONE…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
 </feed>
