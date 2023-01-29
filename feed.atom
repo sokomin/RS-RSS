@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-29T15:29:42.906Z</updated>
+    <updated>2023-01-29T15:48:10.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1032,17 +1032,6 @@ WIZとテイマは800装備を装備したいので、最優先でがんばり�
         <updated>2022-12-31T11:41:25.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年11～12月総括【RED STONE】]]></title>
-        <id>https://chorrealism.com/?p=3534</id>
-        <link href="https://chorrealism.com/redstone/su221231/"/>
-        <updated>2022-12-31T03:38:32.000Z</updated>
-        <summary type="html"><![CDATA[2022年も残すところあとわずか！あっという間だったなぁ…。 今年はRSやってるようでやってないようでやってるような、いたりいなかったりを繰り返した一年だった。 このゲームはね～風船イベとアニバイベの時だけ全力出せばそれ […]
-The post 2022年11～12月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
     <entry>
