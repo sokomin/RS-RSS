@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-29T14:48:36.418Z</updated>
+    <updated>2023-01-29T15:17:35.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[18周年前夜祭、体調不要の原因]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-784.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-784.html"/>
+        <updated>2023-01-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日の記事では風邪をひいたと書きましたが体調不良の原因が判明しました]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[めちゃかっこいい動画]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301290000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301290000/"/>
+        <updated>2023-01-29T14:53:05.000Z</updated>
+        <summary type="html"><![CDATA[クオリティがすごいよね～]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知識天使育成配信#1【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=bm0s7m_FH6A</id>
