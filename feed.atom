@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-29T23:31:02.175Z</updated>
+    <updated>2023-01-29T23:48:15.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1023,15 +1023,6 @@ WIZとテイマは800装備を装備したいので、最優先でがんばり�
         <summary type="html"><![CDATA[明けまして、おめでとうございます。今年もいつも通りに…。【運営会社変更のおしらせ】もう臨時メンテとか不具合とかあってもダメオンなんて言えないね！…どうやら、ゲムオンの100％子会社「株式会社G・O・P」に運営会社を変更するみたいです。会社は変わるけど、体制は変わらない…のかな？とはいえ、ゲムオンの100％子会社…ならダメオンといってもいい？一応詳細【2023年ロト】1/11(水)メンテまで。ロトを盛ったあれ。一応量的に]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃４６　２０２２年狩り納]]></title>
-        <id>https://www.youtube.com/watch?v=kU3fyRqLDx4</id>
-        <link href="https://www.youtube.com/watch?v=kU3fyRqLDx4"/>
-        <updated>2022-12-31T11:41:25.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
