@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-30T03:34:30.912Z</updated>
+    <updated>2023-01-30T03:48:17.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1022,16 +1022,6 @@ WIZとテイマは800装備を装備したいので、最優先でがんばり�
 今年も1年よろしくおねがいしますm(_ _"m)ペコリ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[はいはい年始ロトこうし…あれ？]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-931.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-931.html"/>
-        <updated>2022-12-31T15:41:42.000Z</updated>
-        <summary type="html"><![CDATA[明けまして、おめでとうございます。今年もいつも通りに…。【運営会社変更のおしらせ】もう臨時メンテとか不具合とかあってもダメオンなんて言えないね！…どうやら、ゲムオンの100％子会社「株式会社G・O・P」に運営会社を変更するみたいです。会社は変わるけど、体制は変わらない…のかな？とはいえ、ゲムオンの100％子会社…ならダメオンといってもいい？一応詳細【2023年ロト】1/11(水)メンテまで。ロトを盛ったあれ。一応量的に]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
