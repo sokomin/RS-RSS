@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-29T23:48:15.234Z</updated>
+    <updated>2023-01-30T01:26:46.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -966,6 +966,15 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[年末年始と言う事で年が変わる瞬間の息子のテンションは高くこんな感じでした皆様あけましておめでとうございますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃４６　２０２２年狩り納]]></title>
+        <id>https://www.youtube.com/watch?v=kU3fyRqLDx4</id>
+        <link href="https://www.youtube.com/watch?v=kU3fyRqLDx4"/>
+        <updated>2023-01-01T03:42:27.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
