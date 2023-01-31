@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-31T13:36:59.575Z</updated>
+    <updated>2023-01-31T13:49:08.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[お久しぶりです。ブログの存在も忘れてましたｗギルド色々あって解散して今のギルド入って職やめて無職すごしてまた就職してで色々あったのでｗRSは城だけみたいな感じですがまだ続いてます。結構遊んだりｗ落ち...]]></summary>
         <author>
             <name>rb79k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年年始・新育成ローテ]]></title>
+        <id>https://rs-clair-de-lune.com/2023-01-31/</id>
+        <link href="https://rs-clair-de-lune.com/2023-01-31/"/>
+        <updated>2023-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[皆さん、大変です！なんと今日は1月最終日だそうです。（デジャヴ） 2023年あけましておめでとうございます！！！今年も月の光をよろしくお願いいたします！ 公式：RED STONE 18周年特設｜基本無料オンラインゲーム「RED STONE」  1…]]></summary>
+        <author>
+            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
     <entry>
