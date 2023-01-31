@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-31T02:40:18.784Z</updated>
+    <updated>2023-01-31T03:02:14.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -956,16 +956,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[2023年明けましておめでとうございます今年もよろしくお願いしますどうもお元気ですか前回の記事の後真面目にディメンジョンなどをこなしつつ狩りをしてテイマは1250に到達しました。そして図鑑もN以外はテイムして作ってしまったのでブログの命題的なものを遂げたのもあり大分放置しておりました。ネタは作ればいろいろあったんですけどなんか昔より日課としてやることも増えたし動かしてるキャラも増えていまいち手が伸びなかっ]]></summary>
         <author>
             <name>リヤン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謹賀新年]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-780.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-780.html"/>
-        <updated>2023-01-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[年末年始と言う事で年が変わる瞬間の息子のテンションは高くこんな感じでした皆様あけましておめでとうございますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
