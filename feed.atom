@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-31T10:48:28.262Z</updated>
+    <updated>2023-01-31T11:15:45.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お久しぶりです]]></title>
+        <id>https://plaza.rakuten.co.jp/rb79k2/diary/202301310000/</id>
+        <link href="https://plaza.rakuten.co.jp/rb79k2/diary/202301310000/"/>
+        <updated>2023-01-31T11:07:19.000Z</updated>
+        <summary type="html"><![CDATA[お久しぶりです。ブログの存在も忘れてましたｗギルド色々あって解散して今のギルド入って職やめて無職すごしてまた就職してで色々あったのでｗRSは城だけみたいな感じですがまだ続いてます。結構遊んだりｗ落ち...]]></summary>
+        <author>
+            <name>rb79k</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[18周年前夜祭、体調不要の原因]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-784.html</id>
