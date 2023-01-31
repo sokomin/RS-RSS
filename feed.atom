@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-31T14:48:34.704Z</updated>
+    <updated>2023-01-31T15:19:43.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フロントラインの解放OPのダブクリ増加]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302010000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302010000/"/>
+        <updated>2023-01-31T15:11:31.000Z</updated>
+        <summary type="html"><![CDATA[表題のダブクリ増加ですが、必要だと思ってる人は何に使うんですかね？日の出以降の狩場だと、知識攻撃してくるMOBがいるとフロントラインを装備してたらすぐに死んじゃって狩りにならないですけどね。というわけ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私はこの装備で狩れませんと言ってました]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-945.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-945.html"/>
+        <updated>2023-01-31T15:01:05.000Z</updated>
+        <summary type="html"><![CDATA[絶対怒られるちなみにまだ改良点が残ってます。ちょっとした…ねでもまぁ…耐久はほとんどないから実質初心者だよね！絶対違うか(´・ω:;.:...余談、S鯖の物理槍こっちも何かがおかしい。※首T速度50、腕TダメDXとかいう異物混入。それと異常ベース指さん。そして場違いなT回避セーフさん…赤ダメ100万一応出るよ。おしまい☆]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コツコツ18周年！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-350.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-350.html"/>
+        <updated>2023-01-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近はとても寒い日が続いていて寒波が来た最初の辺りは寒いのは辛いですが降ってくる雪がサラサラだったので実は喜んでいたりしました＾＾サラサラ雪は軽くて雪かきしやすいです＾＾ところがここ数日は雪の質が変わってきてしっとりと重い雪がドカドカと降ってきてるので雪かきがかなりつらい状況です＾＾；雪の量と重さが数倍にもなった感じがします＾＾；そんな中ＲＳ世界では18周年前夜祭が始まっていて古都噴水の下の方にいる]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お久しぶりです]]></title>
         <id>https://plaza.rakuten.co.jp/rb79k2/diary/202301310000/</id>
@@ -966,16 +996,6 @@ DECEMBER UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国テイマ改変20221228情報①]]></title>
-        <id>http://akira773.blog22.fc2.com/blog-entry-763.html</id>
-        <link href="http://akira773.blog22.fc2.com/blog-entry-763.html"/>
-        <updated>2023-01-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年明けましておめでとうございます今年もよろしくお願いしますどうもお元気ですか前回の記事の後真面目にディメンジョンなどをこなしつつ狩りをしてテイマは1250に到達しました。そして図鑑もN以外はテイムして作ってしまったのでブログの命題的なものを遂げたのもあり大分放置しておりました。ネタは作ればいろいろあったんですけどなんか昔より日課としてやることも増えたし動かしてるキャラも増えていまいち手が伸びなかっ]]></summary>
-        <author>
-            <name>リヤン</name>
         </author>
     </entry>
 </feed>

@@ -77,16 +77,6 @@
           "wordCount": 542,
           "title": "韓国テイマ改変20221228情報②",
           "imageUrl": null
-        },
-        {
-          "id": "http://akira773.blog22.fc2.com/blog-entry-763.html",
-          "author": "リヤン",
-          "description": "2023年明けましておめでとうございます今年もよろしくお願いしますどうもお元気ですか前回の記事の後真面目にディメンジョンなどをこなしつつ狩りをしてテイマは1250に到達しました。そして図鑑もN以外はテイムして作ってしまったのでブログの命題的なものを遂げたのもあり大分放置しておりました。ネタは作ればいろいろあったんですけどなんか昔より日課としてやることも増えたし動かしてるキャラも増えていまいち手が伸びなかっ",
-          "link": "http://akira773.blog22.fc2.com/blog-entry-763.html",
-          "publishedOn": "2023-01-02T03:00:00.000Z",
-          "wordCount": 483,
-          "title": "韓国テイマ改変20221228情報①",
-          "imageUrl": null
         }
       ]
     },
@@ -376,6 +366,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202302010000/",
+          "author": "雷神の弓",
+          "description": "表題のダブクリ増加ですが、必要だと思ってる人は何に使うんですかね？日の出以降の狩場だと、知識攻撃してくるMOBがいるとフロントラインを装備してたらすぐに死んじゃって狩りにならないですけどね。というわけ...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202302010000/",
+          "publishedOn": "2023-01-31T15:11:31.000Z",
+          "wordCount": 1463,
+          "title": "フロントラインの解放OPのダブクリ増加",
+          "imageUrl": "http://plaza.jp.rakuten-static.com/img/common/blog_logo_ogp.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202301290000/",
           "author": "雷神の弓",
@@ -689,6 +689,16 @@
       "siteUrl": "https://extremetrailblazer.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-945.html",
+          "author": "Trailblazer",
+          "description": "絶対怒られるちなみにまだ改良点が残ってます。ちょっとした…ねでもまぁ…耐久はほとんどないから実質初心者だよね！絶対違うか(´・ω:;.:...余談、S鯖の物理槍こっちも何かがおかしい。※首T速度50、腕TダメDXとかいう異物混入。それと異常ベース指さん。そして場違いなT回避セーフさん…赤ダメ100万一応出るよ。おしまい☆",
+          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-945.html",
+          "publishedOn": "2023-01-31T15:01:05.000Z",
+          "wordCount": 114,
+          "title": "私はこの装備で狩れませんと言ってました",
+          "imageUrl": null
+        },
+        {
           "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-944.html",
           "author": "Trailblazer",
           "description": "寝言をｒｙ【お死らせ】・18周年デイリークエのモンスター討伐とPT討伐のカウントが上昇しない…4択のうち2つが機能不全ってそれでいいのか。現地ではこういうことが起きているんだろうなぁと勝手に脳内で変換しておきます。いつものあれ【おいしいほうのルーレット】2/21(火)メンテまで。久しぶりのおいしいほうのルーレット。レア3のクロウシャイエンは置いておくとして、それ以外なら当たるかもしれないしレア2にもいいものがあ",
@@ -825,6 +835,16 @@
       "feedUrl": "http://jendoradoo.blog.fc2.com/?xml",
       "siteUrl": "http://jendoradoo.blog.fc2.com/",
       "articles": [
+        {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-350.html",
+          "author": "ジェンド",
+          "description": "最近はとても寒い日が続いていて寒波が来た最初の辺りは寒いのは辛いですが降ってくる雪がサラサラだったので実は喜んでいたりしました＾＾サラサラ雪は軽くて雪かきしやすいです＾＾ところがここ数日は雪の質が変わってきてしっとりと重い雪がドカドカと降ってきてるので雪かきがかなりつらい状況です＾＾；雪の量と重さが数倍にもなった感じがします＾＾；そんな中ＲＳ世界では18周年前夜祭が始まっていて古都噴水の下の方にいる",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-350.html",
+          "publishedOn": "2023-01-31T15:00:00.000Z",
+          "wordCount": 376,
+          "title": "コツコツ18周年！",
+          "imageUrl": null
+        },
         {
           "id": "http://jendoradoo.blog.fc2.com/blog-entry-349.html",
           "author": "ジェンド",
