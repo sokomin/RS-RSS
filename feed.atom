@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-31T19:48:37.231Z</updated>
+    <updated>2023-01-31T20:19:56.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[解放OP変換にはある程度の妥協は必要かな]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302010001/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302010001/"/>
+        <updated>2023-01-31T20:00:32.000Z</updated>
+        <summary type="html"><![CDATA[解放OP変換器6個使って一番良かったのがこれでした。３回目でSSのOPを引いたのですが、1OP目の知識が気に入らなくて、その後無駄に３個変換器を使いました。（3OP目のダブクリ減少も対人では無意味ですが、他に良...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フロントラインの解放OPのダブクリ増加]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302010000/</id>
