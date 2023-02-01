@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-01T02:57:44.075Z</updated>
+    <updated>2023-02-01T03:29:27.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】稼ぎ方今昔]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-931.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-931.html"/>
+        <updated>2023-02-01T03:23:44.000Z</updated>
+        <summary type="html"><![CDATA[REDSTONEもサービス開始から17年経過し、ゲーム内通貨の稼ぎ方も様変わりした。・10万品を鍛冶屋に売る。・レア装備からインクを作成し売却する。・赤い光を売る。・赤い光を買取り混沌の大地に潜り、各種ドロップ品を売る。・地域ボス討伐で得たドロップ品を売る。・ユニークアイテムを分解し、神秘石、遺跡出土品、結晶石を貯めて売る。・精鋭ボス討伐で得たドロップ品を売る。・鏡の魔法書で装備をコピーし、取引可にして売る。]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解放OP変換にはある程度の妥協は必要かな]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302010001/</id>
