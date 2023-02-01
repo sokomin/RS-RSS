@@ -67,16 +67,6 @@
           "wordCount": 492,
           "title": "韓国テイマ改変20221228情報③",
           "imageUrl": null
-        },
-        {
-          "id": "http://akira773.blog22.fc2.com/blog-entry-764.html",
-          "author": "リヤン",
-          "description": "さて、昨日の続きです。変更・追加スキルの内容を見ていきます画像をどうにかしたくてスタイルシートを弄ったと書きましたが今回の画像のためですそれでも横に大きすぎて入らないので多少加工して表を詰めるという謎の作業が文字を書くより時間がかかったとは口が裂けても言えない（言ってる）当然ですが画像内の文字や数字は何も弄ってませんよ余白を詰めただけです。ということで、続きを開くと大量のスキル画像が登場しますお覚",
-          "link": "http://akira773.blog22.fc2.com/blog-entry-764.html",
-          "publishedOn": "2023-01-03T03:00:00.000Z",
-          "wordCount": 542,
-          "title": "韓国テイマ改変20221228情報②",
-          "imageUrl": null
         }
       ]
     },
@@ -272,6 +262,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/mahounokabe/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/mahounokabe/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/mahounokabe/diary/202302010000/",
+          "author": "裁判官",
+          "description": "​​どうもみなさん。魔法の壁です。早速ですが、表題の件についてです。僕の1stキャラクターである裁判官は元気です。​っだ、違う！！！​へぇー、コラプテッドって堕落したとかそういうことなんですね。つまり訳す...",
+          "link": "https://plaza.rakuten.co.jp/mahounokabe/diary/202302010000/",
+          "publishedOn": "2023-02-01T14:53:20.000Z",
+          "wordCount": 1566,
+          "title": "コラプテッドフォーステール",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/b8755ddb7f1e868ffdc653300b7d2d7ab92a8860.49.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/mahounokabe/diary/202301150000/",
           "author": "裁判官",
