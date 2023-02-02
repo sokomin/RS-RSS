@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-02T14:48:27.128Z</updated>
+    <updated>2023-02-02T15:19:45.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1011,26 +1011,6 @@ DECEMBER UPDATE -->
         <updated>2023-01-04T06:01:23.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】年末年始からの近況]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-928.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-928.html"/>
-        <updated>2023-01-04T03:15:13.000Z</updated>
-        <summary type="html"><![CDATA[2022年を締め括る記事を書くつもりが、気付けば1/4のメンテ中。12/31～1/9の大型連休だが、コロナと娘受験で引きこもりの日々。経験値2倍で狩りまくりで書く暇無しか？と問われれば、そんなこともなかったり。腰痛持ち故に、長時間ガッツリは狩れなかったが、レベルはそこそこ上がったのかもしれない。レベリング中のキャラ状況はこちら。雨アチャ　Lv1278知識キャプテン　Lv1045レベリングは止めて精鋭討伐とコインクエのみの風剣]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国テイマ改変20221228情報③]]></title>
-        <id>http://akira773.blog22.fc2.com/blog-entry-765.html</id>
-        <link href="http://akira773.blog22.fc2.com/blog-entry-765.html"/>
-        <updated>2023-01-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[さてさて全体アナウンス、各スキルの内容を見て、次はおそらく一番気になるであろう覚醒の話題です盛大にもやもや、ざわざわ、わくわくしましょう私はずっともやもやざわざわわくわくしています。なお、お断りとして、あくまで韓国公式の内容を適当に翻訳したのをもとにまとめているので1)ちょっとぐらい間違ってても怒っちゃだめよ2)実際このまま日本に実装されるかは実装されないと分からないので100%信じてはいけませんを先に言]]></summary>
-        <author>
-            <name>リヤン</name>
         </author>
     </entry>
 </feed>
