@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-02T05:48:14.843Z</updated>
+    <updated>2023-02-02T06:23:36.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -995,16 +995,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[さてさて全体アナウンス、各スキルの内容を見て、次はおそらく一番気になるであろう覚醒の話題です盛大にもやもや、ざわざわ、わくわくしましょう私はずっともやもやざわざわわくわくしています。なお、お断りとして、あくまで韓国公式の内容を適当に翻訳したのをもとにまとめているので1)ちょっとぐらい間違ってても怒っちゃだめよ2)実際このまま日本に実装されるかは実装されないと分からないので100%信じてはいけませんを先に言]]></summary>
         <author>
             <name>リヤン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[結果発表～]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301040000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301040000/"/>
-        <updated>2023-01-03T18:10:06.000Z</updated>
-        <summary type="html"><![CDATA[というわけで、2倍期間でLv1213になりました。1212と予想した　らぴんさん　惜しくもピタリ賞はならずでしたが10本獲得おめでとう！（本当は1212のときに疲労困憊で狩りやめたかったけどピタリは何か悔しいので1...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
