@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-03T14:48:18.113Z</updated>
+    <updated>2023-02-03T15:19:56.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -919,16 +919,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[まず、この足を使うことにしました。※本来の装備レベルは1245です。夢想家のが付いているところには運比1/2があったのですが、装備レベルの関係でいったん消しました。それでもレベルが足りないので、仕方なく↓こ...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国テイマ改変20221228情報④]]></title>
-        <id>http://akira773.blog22.fc2.com/blog-entry-766.html</id>
-        <link href="http://akira773.blog22.fc2.com/blog-entry-766.html"/>
-        <updated>2023-01-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[韓国テイマ改変①～③見てきてどうでしたかもやもや、ざわざわ、わくわくしたことと思います。さて④で総括なんですがあまりに情報が多すぎてとっ散らかっているので正直困っています。分かりやすく書くのって難しいですよね…まぁ未来の出来事を断片的な情報だけで予想して書いているので多少はね…なお、お断りとして、あくまで韓国公式の内容を適当に翻訳したのをもとに記事を書いているので1)ちょっとぐらい間違ってても怒っちゃだ]]></summary>
-        <author>
-            <name>リヤン</name>
         </author>
     </entry>
 </feed>
