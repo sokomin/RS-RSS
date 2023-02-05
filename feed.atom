@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-05T14:48:27.997Z</updated>
+    <updated>2023-02-05T15:17:59.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[500円もらえました]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-785.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-785.html"/>
+        <updated>2023-02-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新年になってから一ヶ月が経ちました早いものですねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知識天使育成配信#2【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=GqyPd93nUCQ</id>
