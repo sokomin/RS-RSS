@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-06T18:48:21.488Z</updated>
+    <updated>2023-02-06T19:15:41.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -917,16 +917,6 @@ DECEMBER UPDATE -->
         <id>https://www.youtube.com/watch?v=8hV5oQtP-Yw</id>
         <link href="https://www.youtube.com/watch?v=8hV5oQtP-Yw"/>
         <updated>2023-01-08T07:16:04.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ギルドレベルの効率的な上げ方]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202301080000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202301080000/"/>
-        <updated>2023-01-08T07:02:06.000Z</updated>
-        <summary type="html"><![CDATA[レッドストーンのギルドレベルは2023/1現在、最大200Lvまで上げられます。ですが、これを1人で上げるとなるとかなり苦労するもの。一番難易度を高くして挑むと大体8.97兆EXP必要になります。1014Lvまでに必要な経...]]></summary>
         <author>
             <name>そこらの民衆</name>
         </author>
