@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-06T01:34:53.014Z</updated>
+    <updated>2023-02-06T02:32:28.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -919,16 +919,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[￥年末にこんなツイートをしてみたところ、それなりに良い反響いただきました。知識職　育成難易度表 https://t.co/YF6EiNzknN #TierMaker 各職の1250Lvまでの育成難易度が知りたい！って要望多いのでざっと作っ...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無課金マン廃業]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301070000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301070000/"/>
-        <updated>2023-01-07T14:18:20.000Z</updated>
-        <summary type="html"><![CDATA[黒魔のクリーチャーを強化しようと思ったら、枠が少な過ぎて出来ねーじゃん！！ってなりました。また、黒魔の装備強化をしながら、スフィアやツインフレームまでGEM買いするだけの稼ぎが私にはありません。という...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
