@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-06T17:48:33.981Z</updated>
+    <updated>2023-02-06T18:23:12.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黒魔の狩り装備（全てSSを掲載）]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302070000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302070000/"/>
+        <updated>2023-02-06T18:17:49.000Z</updated>
+        <summary type="html"><![CDATA[※装備20バッジを所持しているので、SSの装備レベルは-20されています。・武器最終ダメを上げ過ぎるとループすると聞いたので、敢えて２解放止めです。・耳致命型なので、これで十分です。・足それなりに回避でき...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タビアクートはZAKO]]></title>
         <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202302070000/</id>
