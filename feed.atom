@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-06T15:48:24.317Z</updated>
+    <updated>2023-02-06T16:26:08.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[タビアクートはZAKO]]></title>
+        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202302070000/</id>
+        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202302070000/"/>
+        <updated>2023-02-06T16:09:25.000Z</updated>
+        <summary type="html"><![CDATA[どうもみなさん。魔法の壁です。前回記事にしたタビアクートはまるで弾幕ゲーのようだという内容だったと思いますが、毎週あんないつ死ぬかわからない、リタイアを繰り返すような戦い方をしていてはこの先気力が...]]></summary>
+        <author>
+            <name>裁判官</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2月の甘い誘惑]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-960.html</id>
