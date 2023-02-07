@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-07T12:36:51.533Z</updated>
+    <updated>2023-02-07T13:04:04.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お死らせ]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-947.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-947.html"/>
+        <updated>2023-02-07T13:02:32.000Z</updated>
+        <summary type="html"><![CDATA[しばらくメンテ後更新くらいしかやりませんというのもリアルがどうしようもない状態になってしまったから。水曜日の更新以外は気力でないかな…水曜日だけがんばる（違う…18周年も碌にできそうにないか、まぁ仕方ない。それだけの更新。]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黒魔の狩り装備（全てSSを掲載）]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302070000/</id>
