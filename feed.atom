@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-07T14:48:21.099Z</updated>
+    <updated>2023-02-07T15:19:57.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コツコツの効果]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-351.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-351.html"/>
+        <updated>2023-02-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前回18周年デイリーをできるだけやっているという事を書きましたがその甲斐あってかクロウ箱をもらいました！ランダム箱の方だったのですがその箱を開けてみると光奏師のアカシックレコードの写本が出てきました＾＾；どうせならクロウ・レビアタンのほうがコレクション的によかったかな…これをもらった時にTwitterで今年の金鯖は物理光奏かな…と呟きましたがよくよく考えると知識ですが本鯖に2体の光奏がいるので半年後の金鯖まで]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B鯖 冒険家協会バー　定点観測 【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=Oa9tadYdt4A</id>
