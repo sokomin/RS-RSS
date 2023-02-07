@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-07T04:48:23.924Z</updated>
+    <updated>2023-02-07T05:17:38.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -888,15 +888,6 @@ DECEMBER UPDATE -->
         <id>https://www.youtube.com/watch?v=oQS3dIk2ftU</id>
         <link href="https://www.youtube.com/watch?v=oQS3dIk2ftU"/>
         <updated>2023-01-09T08:27:30.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1250Lvから始める BIS育成配信#3【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=8hV5oQtP-Yw</id>
-        <link href="https://www.youtube.com/watch?v=8hV5oQtP-Yw"/>
-        <updated>2023-01-08T17:13:09.000Z</updated>
         <author>
             <name>そこらの民衆</name>
         </author>
