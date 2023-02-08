@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-08T05:48:25.032Z</updated>
+    <updated>2023-02-08T06:23:33.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1253.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1253.html"/>
+        <updated>2023-02-08T05:54:53.000Z</updated>
+        <summary type="html"><![CDATA[:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::装備強化Burstイベント度々開催されているイベントですね。今回はかけら含めた神秘鏡の成功率が上昇。とはいえ個人的には、以前にあった時に試してた感じだと装備破壊イベントなんですよねぇ・・・。成功率がむしろ下がった感でそれ以降イベント期間中にはほぼやってませんし。チャレンジする人は天上の鉄床をちゃんと用意してから挑戦しましょう。もしくは困らないよ]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コツコツの効果]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-351.html</id>
