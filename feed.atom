@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-08T22:48:26.675Z</updated>
+    <updated>2023-02-08T23:19:24.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -962,16 +962,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[メインキャラのオオカミ少年は健康振りでとても頑丈で低下もできるためこれまでの狩場ではあまり死にそうになる事がなく狩り効率が悪すぎて死にそうなのはいつもですけど＾＾；ＨＰがあれば何とかなるかな？という気持ちで育てていました。ところがもう少し上の狩場に行くと回避は必要になるという事を上の狩場に行ってるＧメンさん達から聞いていたので回避の事も考えないとダメなのかな・・・？と思い始めてきました＾＾；それで]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[妥協〇]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-935.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-935.html"/>
-        <updated>2023-01-10T10:47:38.000Z</updated>
-        <summary type="html"><![CDATA[明日のメンテは終了時刻が17時…たぶん不具合修正関連じゃないかな。前夜祭やアプデには早すぎる。あとほとんどのイベキャンペが一掃されます。ヘラクレスリッキーロトに年始のあれにドリームなんとかに…。V鯖のお話。もはや自身ですら把握していない物置を漁っていると、知識比1/2素材を発掘しました。そして手持ちには、妥協枠として持っていたハーモニースピアが2本…じゃあ壊すしかないよな？という思いつきで上級抽出ULTでぶっ]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
