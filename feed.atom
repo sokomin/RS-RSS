@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T16:27:20.388Z</updated>
+    <updated>2023-02-09T16:53:38.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[タビアクートソロ用の頭を作成]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302100000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302100000/"/>
+        <updated>2023-02-09T16:24:07.000Z</updated>
+        <summary type="html"><![CDATA[↑×２回3回目でやっと抽出が成功し、こんな感じに仕上げました。（BFOPと魔力注入は後でやります）これで抵抗最大値が+41%されます。なぜこんなOP構成にしたかというと、現仕様における最大難度の狩場である暁の抵...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超級Ⅱ出してやろうと思ったら]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302090000/</id>
