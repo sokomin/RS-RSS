@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T22:19:20.065Z</updated>
+    <updated>2023-02-09T22:34:19.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -942,16 +942,6 @@ DECEMBER UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[どうみても普段のメンテじゃないか！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-936.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-936.html"/>
-        <updated>2023-01-11T10:21:08.000Z</updated>
-        <summary type="html"><![CDATA[まともなのはｒｙ【配布物とか】・港町Box・解放OP変換使用後に再錬成して錬成するとOPが初期化されてしまうらしいいつものあれ【アセンションロト】2/1(水)メンテまで。1個1000円のあれ。今回も新たな指が生まれてる。レア3完全幸運、レア2賢者特改選択SP図案SRレア超越書上級ULTはあるけど、正直前回のヘラクレスロトよりしょぼいような…つよさ200or300だからね仕方ないね1万でレア2以上、3万で等倍3種。ただし前回より価値下が]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
