@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T06:25:25.483Z</updated>
+    <updated>2023-02-09T06:48:34.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[超級Ⅱ出してやろうと思ったら]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302090000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302090000/"/>
+        <updated>2023-02-09T06:45:56.000Z</updated>
+        <summary type="html"><![CDATA[ちゃんと負けましたよ。お守りの成功率次第ですが総額1600～1800ってところですね。攻撃超級Ⅱを２個買ったときは、そのうち値下がりして大損するだろうと思っていましたが、この渋さを見るとまだ値下がりしないか...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[よく見ろ…そいつは確率式だぜ]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-948.html</id>
