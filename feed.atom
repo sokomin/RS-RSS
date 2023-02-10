@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T23:48:13.981Z</updated>
+    <updated>2023-02-10T01:43:57.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -898,50 +898,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[どうもお元気ですか今回は改変前のテイマの装備の記録こんな時代もあったなといつか見られるように(´￢｀)マジで自分用の備忘録記事なので何も面白いところはない。]]></summary>
         <author>
             <name>リヤン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023.1.11 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/60b15d528b2da9b91c50364b4be56d65</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/60b15d528b2da9b91c50364b4be56d65?fm=rss"/>
-        <updated>2023-01-11T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[毎日寒いですね。
-
-DECEMBER UPDATE -->
-
-
-(5ボックスドロップイベント
-
-2022年12月7日メンテ後から1月11日メンテ前まで
-「クールウィンターBOX2022」がドロップします
-前期（9/7から9/21：「コンテスト装備BOX」
-後期（9/21から10/5）：「コンテスト装備BOXⅡ」
-後期「コンテスト装備BOXⅡ」がドロップします。 -->
-
-
-9月7日メンテ後から10月5日メンテ前まで
-
-
-課金イベントはこちら
-
-
-
-2022年12月21日メンテ後から2月8日メンテ前まで
-
-
-イベントがしょぼくなりましたね(´・ω・`)
-新たな何かはじまらないかなぁ・・・・
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
