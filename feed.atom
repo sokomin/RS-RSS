@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-10T15:34:24.364Z</updated>
+    <updated>2023-02-10T15:48:35.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -888,16 +888,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[でもどういうときにかかるんだっけ…？手持ちにRTキャラがいたので調べてみることにした。ちょうどいい敵は…PTボスを使えば経験値を固定できるだろう。それで適当なキャラを引っ張り出して、思いつく限りの条件で倒してみた。結果。ソロ　445経験値範囲内で泡なし　619経験値範囲外で泡なし　454経験値範囲内で泡あり　454経験値範囲外で泡あり　454別マップ　445別マップ（ミラー）　445別マップ（連動）　445同マップで黒落ち　44]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サンドマン始めました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301120000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301120000/"/>
-        <updated>2023-01-12T03:40:52.000Z</updated>
-        <summary type="html"><![CDATA[魔力のお守りが成功しないので未完成です。このサンドマンを使ったら、弱化の偉大さを思い知りました。どういうことかと言いますと、↓サンドマン装備時の表記です。”魔力の”がまだないので、魔法強化が344しかあ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
