@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T15:48:13.847Z</updated>
+    <updated>2023-02-11T16:24:34.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -827,86 +827,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[準備完了！ヤティカヌ前提クエもクリアしてあるし、装備バッジが切れる前に1245も達成したし、経験値バフ３にしてログアウトしたしｗあとは0時以降に少し狩りをすれば、Lv1250になってヤティカヌです。狩り嫌いな...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攻城に出たよ]]></title>
-        <id>kaze.gg-blog.com://entry/172</id>
-        <link href="http://kaze.gg-blog.com/wakuteka/%E6%94%BB%E5%9F%8E%E3%81%AB%E5%87%BA%E3%81%9F%E3%82%88"/>
-        <updated>2023-01-13T04:14:08.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。
-  
-クリスマスイブに久々に攻城出ました
-
-
-
-いつもこの時間まで仕事なので、意識してなかったけど
-
-
-
-死屍累々
-
-
-
-
-どうやら勝利したようです
-
-
-
-ご褒美に死神さんにダブルもふもふさせてもらいました
-年は明け
-あ、あけましておめでとうです(遅)
-
-
-
-
-またもや攻城に参加！
-
-
-
-はい。秒で殺されました。
-
-
-
-犯人はあなたです
-
-
-
-ちゃんと耳返してくれるところがまちんの優しさ
-
-
-
-
-お礼に100万の氷雨くらえええええええ
-
-
-
-支援ありがとうございました。
-レイドもディメンションもGクエも何にもしていない私だけれど
-クリチャ冒険だけは実はしています
-
-
-
-
-だけど今日は
-
-
-
-
-やっと良い感じのパッシブ引けた！
-おまけ
-
-
-
-
-食べとるやないかい
-
-
-
-
-ではまた]]></summary>
-        <author>
-            <name>風に吹かれて</name>
         </author>
     </entry>
 </feed>
