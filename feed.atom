@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T01:26:40.929Z</updated>
+    <updated>2023-02-11T02:34:39.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -888,16 +888,6 @@ DECEMBER UPDATE -->
 ではまた]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[せっかくだから、俺はRT経験値補正が効く条件を選ぶぜ！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-937.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-937.html"/>
-        <updated>2023-01-12T14:29:24.000Z</updated>
-        <summary type="html"><![CDATA[でもどういうときにかかるんだっけ…？手持ちにRTキャラがいたので調べてみることにした。ちょうどいい敵は…PTボスを使えば経験値を固定できるだろう。それで適当なキャラを引っ張り出して、思いつく限りの条件で倒してみた。結果。ソロ　445経験値範囲内で泡なし　619経験値範囲外で泡なし　454経験値範囲内で泡あり　454経験値範囲外で泡あり　454別マップ　445別マップ（ミラー）　445別マップ（連動）　445同マップで黒落ち　44]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
