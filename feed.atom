@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T16:24:34.960Z</updated>
+    <updated>2023-02-11T16:49:43.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -817,16 +817,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[元日は快晴で、美しい白富士が見えました。撮影がお粗末で恐縮ですごきげんよう、年が明けましたね。旧年中は更新率ガタ落ち状態にもかかわらず足をお運びくださいまして、まことにありがとうございました。おかげさまで、当脱線ブログは15年目を迎えることができました。今後は赤石に関係のない記事が増えるかも知れませんけれど、プレイできずともわたしの心の座標軸は常にRED STONEにあります。本年も貴方様に、めいっぱい楽し]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[経験値３倍に向けて]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301130000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301130000/"/>
-        <updated>2023-01-13T04:36:48.000Z</updated>
-        <summary type="html"><![CDATA[準備完了！ヤティカヌ前提クエもクリアしてあるし、装備バッジが切れる前に1245も達成したし、経験値バフ３にしてログアウトしたしｗあとは0時以降に少し狩りをすれば、Lv1250になってヤティカヌです。狩り嫌いな...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
