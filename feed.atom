@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T18:24:30.872Z</updated>
+    <updated>2023-02-13T18:48:34.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -828,15 +828,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[みなさんこんばんは。魔法の壁です。1月は石の日が土曜日だったので経験値・ドロップ3倍でした。みなさんお疲れさまでした。えぇ、もちろん１ｓｔキャラクターであるBISのレベルを上げました。もちろんです。​嘘...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【FACTORIO】自動工業化ゲームやるぞ　その１]]></title>
-        <id>https://www.youtube.com/watch?v=pniHhidjhiI</id>
-        <link href="https://www.youtube.com/watch?v=pniHhidjhiI"/>
-        <updated>2023-01-15T06:29:00.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
