@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T18:48:34.978Z</updated>
+    <updated>2023-02-13T19:15:50.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -789,6 +789,15 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[雨アチャはLv1300、キャプテンはLv1095まで上げた。腰痛に怯えながらの狩り、しんどかった。雨アチャはヤティカヌ月の出PVPが狩場だったんだが、来訪者やPT狩りの依頼もほぼ無く(1回殺され、1回PT狩り1時間)、のんびりレベリングできた。やはり、ソロ経験値バフは偉大で、Lv3維持すれば楽に上がり、更新できないと途端に不味くモチベーションにかなり影響する。3倍明けの日曜、早速、ヤティカヌ日の出PVPに行ってみたが、全吸収必]]></summary>
         <author>
             <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【FACTORIO】自動工業化ゲームやるぞ　その１]]></title>
+        <id>https://www.youtube.com/watch?v=pniHhidjhiI</id>
+        <link href="https://www.youtube.com/watch?v=pniHhidjhiI"/>
+        <updated>2023-01-15T21:22:47.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
