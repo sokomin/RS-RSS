@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T07:18:03.628Z</updated>
+    <updated>2023-02-13T07:30:14.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黒魔の表記がほぼ元に戻りました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302130001/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302130001/"/>
+        <updated>2023-02-13T07:28:50.000Z</updated>
+        <summary type="html"><![CDATA[領域展開を採用したことにより表記ダメが大幅に下がっていましたが、装備を調整したりMB・MQ2を進めたりでほぼ元に戻すことができました。ついにメインクエ２をクリアしました。メインクエ１の方も、次回で性向を...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2月12日Gv結果（VSラオスさん）]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302130000/</id>
