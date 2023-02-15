@@ -244,6 +244,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202302150000/",
+          "author": "雷神の弓",
+          "description": "Lv20のボーナスがスキル4じゃなくて5でした。最終ダメ自体の加算は２％とショボいですが、スキル5は大きいですね。これにより表記が、632万になりました。この感じだと、700万↑にするのにそんなに時間は掛からな...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202302150000/",
+          "publishedOn": "2023-02-15T10:13:16.000Z",
+          "wordCount": 1461,
+          "title": "最終ダメLv20",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/b643f5b2b1a1b06fbeb8f06d71067663d1455c26.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202302130001/",
           "author": "雷神の弓",
           "description": "領域展開を採用したことにより表記ダメが大幅に下がっていましたが、装備を調整したりMB・MQ2を進めたりでほぼ元に戻すことができました。ついにメインクエ２をクリアしました。メインクエ１の方も、次回で性向を...",
