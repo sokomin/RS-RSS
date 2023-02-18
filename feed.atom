@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-18T14:29:07.735Z</updated>
+    <updated>2023-02-18T14:48:06.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -791,16 +791,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[ヘーリオスコクーン[E]からはRもでるよ！ふざけるなぁ！！※R34%、HR50%、SR15％、LR1％らしいから、プリズムが選ばれていたころからしれっと弱体化してる本当にしれっと改悪を重ねるあたり、いつものって感じがする…猶予が長いなぁと思ったらそういうことだったか。それだけ。]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔クリーチャーパッシブ完成（仮）]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301200000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301200000/"/>
-        <updated>2023-01-20T02:36:34.000Z</updated>
-        <summary type="html"><![CDATA[狩り用パッシブが一応完成したので載せておきます。（ラストウィッチメイン）色々と妥協してはいますが、現時点で出来ることをやった結果こうなりました。※妥協点は、LRがいないこと、3パッシブを狙っていないこ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
