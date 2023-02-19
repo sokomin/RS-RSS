@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-19T18:22:20.328Z</updated>
+    <updated>2023-02-19T18:48:25.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -835,6 +835,15 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[週の半ばに鼻風邪をひいてしまったせいで鼻水がずるずるですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャプテン促成栽培#3【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=A48bBmD22R8</id>
+        <link href="https://www.youtube.com/watch?v=A48bBmD22R8"/>
+        <updated>2023-01-21T15:08:56.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
