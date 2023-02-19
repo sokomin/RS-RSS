@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-19T03:23:15.843Z</updated>
+    <updated>2023-02-19T03:48:31.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -781,16 +781,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[ひいきにしていた書店がまた一つ、ドラッグストアへとその姿を変えてしまいました。これ、知ってます。何かの映画で見ました。ドラッグストアにかまれるとドラッグストアになるぞー！第三の猫です。nise1110がレベル900になりました。長い道のりでしたが、動き出せばあっという間でした。長らく放置気味で申し訳ない。というわけで、メインクエ２を進めていきます。3キャラ目にもなると慣れたものです。秘密ダンジョンでREDSTONE文]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今明かされる衝撃の真実！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-941.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-941.html"/>
-        <updated>2023-01-20T15:29:22.000Z</updated>
-        <summary type="html"><![CDATA[ヘーリオスコクーン[E]からはRもでるよ！ふざけるなぁ！！※R34%、HR50%、SR15％、LR1％らしいから、プリズムが選ばれていたころからしれっと弱体化してる本当にしれっと改悪を重ねるあたり、いつものって感じがする…猶予が長いなぁと思ったらそういうことだったか。それだけ。]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
