@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-19T04:23:19.248Z</updated>
+    <updated>2023-02-19T04:48:28.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[航海術＜キャプテンスキルマスター＞]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/0bcc7ecda4a53080325ce3611b9f7e5b</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/0bcc7ecda4a53080325ce3611b9f7e5b?fm=rss"/>
+        <updated>2023-02-19T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[『一覧へ戻る』
+
+
+受託場所はシュトラセラトにいるレイザックさん(139,72)です。
+
+
+fmfm
+
+
+南フォーリンロード／シュトラセラト西部地域にいるネイサンさんに会いに行きます。
+
+
+矢印がちょっとわかりにくいですが、蟹のいるエリアですね
+
+
+ネイサンさん
+
+
+恒例のMOB退治。
+
+
+海の神殿入口にいるゾンビが対象。
+
+
+海の神殿入口はブリッジヘッドの上のMAP。魚の形の岬にあります。
+
+
+ゾンビ
+
+
+狩り終わったらネイサンさんの処に戻ります。
+
+
+無事に航海術ゲットですo(*^▽^*)o
+『一覧へ戻る』]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近況]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/936a627875caeeee9c6dddfb734bd3fa</id>
