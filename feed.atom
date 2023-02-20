@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-20T18:48:22.431Z</updated>
+    <updated>2023-02-20T19:15:23.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エクペリ指で火力UP]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302210000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302210000/"/>
+        <updated>2023-02-20T18:55:20.000Z</updated>
+        <summary type="html"><![CDATA[まず、↓このエクペリを外せるようにします。無振りなので敏捷比（反転すると知恵比）が無くなると、頭・首・足が外れてしまいます。そこで、遺物の比率を変更します。運比→敏捷比に変更しました。運が減ったこと...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slv盛り盛り装備について]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-951.html</id>
