@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-20T15:48:20.841Z</updated>
+    <updated>2023-02-20T16:26:41.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Slv盛り盛り装備について]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-951.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-951.html"/>
+        <updated>2023-02-20T16:15:48.000Z</updated>
+        <summary type="html"><![CDATA[主に攻城の初期位置支援で活躍する装備。Slv以外のすべてを捨てることになるため、殴られると死ぬ模様。一応ある程度犠牲にして耐久を持たせることも可能ではあるが…そこは好み。簡単にできるものからめんどうなものまで大雑把な紹介。ただし、BISに主眼を置いています。武器や補助武器、鎧はそれぞれの職で見定めてください。【武器】「ベース」・ホールオブフェイス→単体で+18とかいう狂った性能をしておきながら、価格も安いと]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テイマとサマナ]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-354.html</id>
