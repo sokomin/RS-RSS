@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-20T14:48:22.150Z</updated>
+    <updated>2023-02-20T15:20:28.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テイマとサマナ]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-354.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-354.html"/>
+        <updated>2023-02-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[基本的にブログ更新はメンテの日に合わせて水曜0時に公開できるよう書いてましたが今回のメンテが火曜日だとさっき知ったばかりなので急いで作りました＾＾；公式ちゃんと見てなくてすみません＾＾；実は生放送もまだ見てなくて他の人たちから聞いて何となく内容を知ってるくらいなのですがテイマとサマナの改変が来るって言うのとどんな改変なのかをすこし聞いていた程度と言うのが今のところです＾＾；そこでわたしの所持してる]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃４８　リトル育てたり変換したり]]></title>
         <id>https://www.youtube.com/watch?v=9k-K-pjpuf4</id>
