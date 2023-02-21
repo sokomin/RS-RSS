@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T08:25:07.938Z</updated>
+    <updated>2023-02-21T08:48:08.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重要＆新着イベント情報更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1254.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1254.html"/>
+        <updated>2023-02-21T08:35:15.000Z</updated>
+        <summary type="html"><![CDATA[まずこちらですね↓･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ FEBRUARY UPDATEテイマ、サマナ調整と新規ペット追加。他新規フィールド追加なのですね。詳細はアップデートページをご覧ください。･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ 続いて18周年本祭イベント。人によりそうだけど、途中で飽きそうなのばかりなのでさっくりと。今回説明は載せないので、イベント内容に関しては↓のそれぞれのバナーにリンクを貼ってあるの]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エクペリ指で火力UP]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302210000/</id>
