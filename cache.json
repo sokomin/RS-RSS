@@ -107,6 +107,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vosk_9h2FvM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vosk_9h2FvM",
+          "publishedOn": "2023-02-21T11:47:40.000Z",
+          "wordCount": null,
+          "title": "2023/2アプデを見ていく配信【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0ugMWXd3poU",
           "author": null,
           "description": "",
