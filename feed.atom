@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T06:48:15.256Z</updated>
+    <updated>2023-02-21T07:17:59.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -984,16 +984,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[雨アチャで日の出デビューした。事前に調べてみると、日の出PVPは相当旨いらしく、最高効率時は20分1レベル上がるらしい。期待に胸を膨らませて行ってみるも、全然旨くない・・・我慢して通い、何とかここまで育ててみて、経験値バフ3、パワキでやっと旨いと感じる様になってきた。Lv1325あたりの適正真っただ中なら、mobによっては1匹1億expもらえるかもしれない。幸い、ペア狩りくらいなら平日でも組んでもらえるくらい人気狩場]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年1月Gv戦績]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202301230000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202301230000/"/>
-        <updated>2023-01-22T18:58:29.000Z</updated>
-        <summary type="html"><![CDATA[※ギルド名は通称で敬称略対戦日　対戦ギルド　　LA数　死亡数　得点/失点　　　勝敗　制限　　　1月15日　三顧　　　　14LA　2死　100900対162538　負　30万1月22日　武神　　　　12LA　3死　 80210対148298　 負...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
