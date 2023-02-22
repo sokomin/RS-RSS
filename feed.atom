@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T22:48:28.317Z</updated>
+    <updated>2023-02-22T23:18:30.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1145,16 +1145,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[一昨年の金鯖で作ったキャラたちは本鯖であるＢ鯖には持ってくる枠がなかったためＢＩＳはＶ鯖、サマナはＳ鯖へとそれぞれ開拓の使命を持って行くことになりました。そしてＶ鯖ではその後、Ｖ鯖にもある姫Ｇとご縁がありそちらに新しくリトルを作成したまに挨拶しに行くくらいでしたがお盆の復帰後にイベなどのアイテムが欲しいという事でまめにＶ鯖姫Ｇに顔を出していました＾＾これに対し、Ｓ鯖のほうは知り合いがいなくサマナが]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[固定増強ってなーに！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-943.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-943.html"/>
-        <updated>2023-01-24T10:56:02.000Z</updated>
-        <summary type="html"><![CDATA[固定増強とは、NPC称号と合わせないと残念なOPのことである…。【なんだこれは？！】この俺をｒｙ説明をそのまま持ってくると…「該当装備の称号の〇〇増加オプション数値40～50％上昇」例えばWダメULTの装備に攻撃力増強を差し込めば、実質TダメULTになる。ULTOP実装に伴い、ついでに来たのだが、その仕様上武器に付くものやどうでもいいものは割と安価に売られている。補正が50％になっているかどうかは別問題だが以降は補正が50％]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
