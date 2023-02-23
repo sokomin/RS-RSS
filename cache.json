@@ -4,7 +4,18 @@
       "title": "GMの抵抗ワショーイ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202302240000/",
+          "author": "そこらの民衆",
+          "description": "アプデで新狩場(1550-1625)とテイマ・サマナ改変がきたのでその辺りの情報についてまとめ今回は無限メンテナンス編に陥るどころか、定時で普通に終わるという異例の事態になりました2023 なーんてこともなく、今...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202302240000/",
+          "publishedOn": "2023-02-23T19:43:59.000Z",
+          "wordCount": 1016,
+          "title": "2023/2/21 日本赤石アプデ考察",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/b4f06546f49f35c4e6030f370fc726fa7f74a9f2.10.9.9.3.png"
+        }
+      ]
     },
     {
       "title": "KHBの部屋",
