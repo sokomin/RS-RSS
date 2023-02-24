@@ -306,6 +306,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202302250000/",
+          "author": "雷神の弓",
+          "description": "秤の女の解放オプションを変換したいのですが、4解放目の魔法弱化8％が無くなると弱化の数値が悪化してしまいます。そこで、いくつかの装備をいじって秤の女の魔法弱化がなくても大丈夫な状態にしていきます。ま...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202302250000/",
+          "publishedOn": "2023-02-24T16:33:25.000Z",
+          "wordCount": 1533,
+          "title": "秤の女の解放オプションを変換したくて",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/b2df59358a3bf6290dc3f093985fc6f4d968274a.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202302240000/",
           "author": "雷神の弓",
           "description": "先日の記事で、最終ダメのループについて書きましたが、最終ダメが30％台後半でループした人たち（2人います）は強打型でした。私は致命型ですので、おそらくループするのは強打型よりもっと上なんだろうなと予測...",

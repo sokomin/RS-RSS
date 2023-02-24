@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T16:27:19.238Z</updated>
+    <updated>2023-02-24T16:53:37.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[秤の女の解放オプションを変換したくて]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302250000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302250000/"/>
+        <updated>2023-02-24T16:33:25.000Z</updated>
+        <summary type="html"><![CDATA[秤の女の解放オプションを変換したいのですが、4解放目の魔法弱化8％が無くなると弱化の数値が悪化してしまいます。そこで、いくつかの装備をいじって秤の女の魔法弱化がなくても大丈夫な状態にしていきます。ま...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[きぃさんは鳥に興味ないようです(๑¯ω¯๑)]]></title>
         <id>https://ameblo.jp/keykeykey2010/entry-12790754702.html</id>
