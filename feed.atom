@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T23:31:58.391Z</updated>
+    <updated>2023-02-24T23:48:40.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】念願の1000UMUドロップ(2個目)]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-933.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-933.html"/>
+        <updated>2023-02-24T23:42:05.000Z</updated>
+        <summary type="html"><![CDATA[1000UMUドロップを願って、キャプテンで狩り in 星谷。たまに撲殺されるゴリラに怯えつつ、遂に念願の1000UMUが・・・キター！って、ダメなやつじゃんｗ以前80本くらいで売れましたよ、というありがたい情報をいただきつつ、300本で露店放置してたら売れました。1000本超えのドロップが舞い込むのは、いつになるのやら・・・景気付けに、280本でも全然売れる気配のないT移動ULTストライダーとニケ靴を異次元することにした。お気付]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秤の女の解放オプションを変換したくて]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302250000/</id>
