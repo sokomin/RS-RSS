@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T01:48:08.210Z</updated>
+    <updated>2023-02-26T02:59:23.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サマナの覚醒 －導きの楽士－]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/27c8108f64c2d00194f15ee7bdac103c</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/27c8108f64c2d00194f15ee7bdac103c?fm=rss"/>
+        <updated>2023-02-26T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暖かかったり寒かったりと繰り返されますね。
+「FEBRUARY UPDATE」
+「海と大地の楽士」の覚醒ネタをいただきましたが、今回は私の手持ちサマナが覚醒しました。
+
+覚醒タイプは「導きの楽士」
+
+「絶対服従」
+
+専用強化スキルは「サモンソウル」
+
+使用すると矢印のようにふわふわとした物体がつきます。
+
+強化スキルの１つは「サモンパワーアップ」
+
+使用すると召喚獣に矢印のようなエフェクトがつきます。
+
+もう１つの強化スキルは「召喚獣ダブルパワーアップ」
+
+ONにしておくと、時々きらきら光るエフェクトが現れます。
+
+さて、後述すると書いた覚醒パッシブです。
+
+3体で叩くと壮観ですね。
+なかなか楽しいです。
+
+
+狩場ではとりあえず狩れる感じですね。
+指名手配犯は時間かかりました。ボスレベルはちゃんとステ＆スキルをふらないとダメかな。
+スキルもどれをあげればいいのか悩みどころです。
+刺青をどの系統にするかも悩みどころですね。
+とりあえず、もう１つの覚醒である太陽と風の楽士を試してみようかな。
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[検証生活4日目]]></title>
         <id>http://akira773.blog22.fc2.com/blog-entry-768.html</id>
