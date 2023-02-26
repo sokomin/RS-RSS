@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T14:48:30.134Z</updated>
+    <updated>2023-02-26T15:18:52.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年2月21日アップデート　【ウポスマイヤー、テイマサマナ改変、イベント等】]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-788.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-788.html"/>
+        <updated>2023-02-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[朝の出勤時に受験生と見える生徒さんをよく見ますもうそんな時期なのですね幸運をお祈りしますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運営が味方してくれる(*´ω`*)]]></title>
         <id>https://ameblo.jp/keykeykey2010/entry-12791160445.html</id>
