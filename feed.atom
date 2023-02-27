@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-27T18:25:16.309Z</updated>
+    <updated>2023-02-27T18:49:11.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1407,6 +1407,15 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[クオリティがすごいよね～]]></summary>
         <author>
             <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知識天使育成配信#1【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=bm0s7m_FH6A</id>
+        <link href="https://www.youtube.com/watch?v=bm0s7m_FH6A"/>
+        <updated>2023-01-29T13:20:57.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
