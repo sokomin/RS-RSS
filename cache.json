@@ -39,6 +39,16 @@
       "siteUrl": "http://akira773.blog22.fc2.com/",
       "articles": [
         {
+          "id": "http://akira773.blog22.fc2.com/blog-entry-769.html",
+          "author": "リヤン",
+          "description": "どうも。\r\n今日も私は元気ですよ！！！！\r\nさて、ペットのスキルへの超越スキルの視界展開と領域展開の適用について検証が終わりました。\r\n結論だけ言うと、基本的に、範囲攻撃をするペットスキルには領域展開はすべて適用されていました。\r\nそして、単体スキルについては適用されていないと思っていいようです。\r\nペットの単体特殊スキルがエントラやパラなど領域展開が適用されてたまるかみたいなものが多いので仕方ないでしょう",
+          "link": "http://akira773.blog22.fc2.com/blog-entry-769.html",
+          "publishedOn": "2023-02-27T11:10:21.000Z",
+          "wordCount": 955,
+          "title": "ペットスキル一覧【簡易】",
+          "imageUrl": null
+        },
+        {
           "id": "http://akira773.blog22.fc2.com/blog-entry-768.html",
           "author": "リヤン",
           "description": "どうも。お元気ですか私はテイマサマナ改変でやらなければならないことがてんこ盛りになってなんか大変です。さて、ここ2－3日ツイッターに書いたことに調べてわかったことをちょっとだけ補足で付けてあと叫びやツイッターでみた質問みたいなのをまとめたらいいかなって思ってQ&A方式で雑に書いた記事です。抜けや間違いがあってもご愛敬という記事です。またあとでちゃんとそれぞれ記事する予定ではありますけど速報みたいな感じ",
@@ -264,6 +274,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA",
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=c8UnEhxqVMM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c8UnEhxqVMM",
+          "publishedOn": "2023-02-27T10:47:03.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記＃５０　リトルまったり育成",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eguB7Ov6jCw",
           "author": null,
