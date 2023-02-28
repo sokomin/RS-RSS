@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-28T14:48:28.259Z</updated>
+    <updated>2023-02-28T15:20:59.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ネクロのペット変化（嚆矢）]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-355.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-355.html"/>
+        <updated>2023-02-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先週のアプデでテイマ・サマナさんの改変がありどちらもかなりの変化を遂げました。そしてテイマさんのペット事情も変わったようでいままでのzinやexなどといったものがなくなりそれらを別々にテイムしても同系列の一番上位？と思われるものが手に入るようでした。それでテイマさんがペットをテイムするとレベルが本体と同じくなる仕様に変化したのと同じくネクロもペットをテイムすると同じになるのかな？くらいの気持ちでまずは]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[18周年のツキ回り]]></title>
         <id>https://rs-clair-de-lune.com/2023-02-28/</id>
