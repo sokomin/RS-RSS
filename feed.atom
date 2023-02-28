@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-28T13:06:32.195Z</updated>
+    <updated>2023-02-28T13:37:53.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[18周年のツキ回り]]></title>
+        <id>https://rs-clair-de-lune.com/2023-02-28/</id>
+        <link href="https://rs-clair-de-lune.com/2023-02-28/"/>
+        <updated>2023-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2月の終わり。個人事業主にとっては頭の痛いシーズンがやってきました。年に一度、お金と真剣に向き合わなければならない期間！
+昨年の私は悠々とした…]]></summary>
+        <author>
+            <name>The Adventure Of The Jacks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ペットスキル一覧【簡易】]]></title>
         <id>http://akira773.blog22.fc2.com/blog-entry-769.html</id>
