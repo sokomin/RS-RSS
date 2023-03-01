@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T22:48:25.002Z</updated>
+    <updated>2023-03-01T23:20:10.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1461,16 +1461,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[最近はとても寒い日が続いていて寒波が来た最初の辺りは寒いのは辛いですが降ってくる雪がサラサラだったので実は喜んでいたりしました＾＾サラサラ雪は軽くて雪かきしやすいです＾＾ところがここ数日は雪の質が変わってきてしっとりと重い雪がドカドカと降ってきてるので雪かきがかなりつらい状況です＾＾；雪の量と重さが数倍にもなった感じがします＾＾；そんな中ＲＳ世界では18周年前夜祭が始まっていて古都噴水の下の方にいる]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お久しぶりです]]></title>
-        <id>https://plaza.rakuten.co.jp/rb79k2/diary/202301310000/</id>
-        <link href="https://plaza.rakuten.co.jp/rb79k2/diary/202301310000/"/>
-        <updated>2023-01-31T11:07:19.000Z</updated>
-        <summary type="html"><![CDATA[お久しぶりです。ブログの存在も忘れてましたｗギルド色々あって解散して今のギルド入って職やめて無職すごしてまた就職してで色々あったのでｗRSは城だけみたいな感じですがまだ続いてます。結構遊んだりｗ落ち...]]></summary>
-        <author>
-            <name>rb79k</name>
         </author>
     </entry>
 </feed>
