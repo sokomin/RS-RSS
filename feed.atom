@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T11:17:25.666Z</updated>
+    <updated>2023-03-01T11:29:40.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[すばやい対応]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-953.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-953.html"/>
+        <updated>2023-03-01T11:27:16.000Z</updated>
+        <summary type="html"><![CDATA[ただし、既存の不具合は知らない【お知らせ】・「色褪せた混沌の魔法書」が出ないように修正。ただし、既にある分は自己判断で対応してください・サマナ覚醒で誤った前提スキル（海と大地の楽士の前提スキル大地崩壊）をメンテ前にLv50にしてしまった場合は連絡帳へ。・精鋭討伐の箱が出るように修正。・各種称号任命書を銀行取引可能に変更。・選択LRコクーンが銀行に入らなかったのを入るように修正。・復活確率について、PVPフ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.3.1 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/b0b177d1ba77f8448a069e01e09d9f0a</id>
