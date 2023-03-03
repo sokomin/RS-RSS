@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T23:20:31.344Z</updated>
+    <updated>2023-03-03T02:12:53.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1410,16 +1410,6 @@ U品のドロップアップイベントでもやってくれないかなぁ・�
         <summary type="html"><![CDATA[​​どうもみなさん。魔法の壁です。早速ですが、表題の件についてです。僕の1stキャラクターである裁判官は元気です。​っだ、違う！！！​へぇー、コラプテッドって堕落したとかそういうことなんですね。つまり訳す...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近メンテ終わりが…]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-946.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-946.html"/>
-        <updated>2023-02-01T12:57:00.000Z</updated>
-        <summary type="html"><![CDATA[はやいね？【お知らせ】・18ｔｈデイリークエがカウントしなかったのを治したあと前のドリームプレゼントは…当たった人は前の週に来ていたのかな？それとも今日？13時に終わったいつものあれ【スフィアリミテッド】2/8(水)メンテまで。1週間です。いつも通りに戻った？リミテッドです。ほら、おまけがついてくる…羊も染まってない…期間もいつも通りの1週間。1週間だけの詳細？これだけだよ？まぁロトは冬ロトが次の週に力尽きる都]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
