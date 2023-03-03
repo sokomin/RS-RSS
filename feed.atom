@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T02:12:53.933Z</updated>
+    <updated>2023-03-03T04:17:36.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1390,26 +1390,6 @@ U品のドロップアップイベントでもやってくれないかなぁ・�
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運営がプリズムコクーン10個くれた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302020000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302020000/"/>
-        <updated>2023-02-01T15:53:33.000Z</updated>
-        <summary type="html"><![CDATA[他に、サービスポイント1000も貰いました。プリズムは、もちろん黒魔で開けたのですが、登録できないSRとHRばかりでした。そこで、もったいないですが図鑑完成のために合成しまくったら、最後に吸血姫が出てほっ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コラプテッドフォーステール]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202302010000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202302010000/"/>
-        <updated>2023-02-01T14:53:20.000Z</updated>
-        <summary type="html"><![CDATA[​​どうもみなさん。魔法の壁です。早速ですが、表題の件についてです。僕の1stキャラクターである裁判官は元気です。​っだ、違う！！！​へぇー、コラプテッドって堕落したとかそういうことなんですね。つまり訳す...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
 </feed>
