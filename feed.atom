@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T03:31:55.339Z</updated>
+    <updated>2023-03-04T03:48:33.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黒魔ツインと指の解放]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202303040000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202303040000/"/>
+        <updated>2023-03-04T03:31:19.000Z</updated>
+        <summary type="html"><![CDATA[やるなら徹底的にやろうぜ！ってことで、黒魔に陽Pを買ってツインしてみました。光Pの方は、↓こんな感じでけっこう使えるので、狩り専の間はこれを陽Pに変更する必要性は無いです。・指の解放について３解放済の...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウポスマイヤー秘密ダンジョン【REDSTONE / 붉은보석】]]></title>
         <id>https://www.youtube.com/watch?v=ZnzHfCagNYc</id>
