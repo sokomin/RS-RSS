@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T11:28:07.830Z</updated>
+    <updated>2023-03-04T11:48:19.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[２月２２日【Gravity】様の２周年イベントに参加してきたよ]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1115.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1115.html"/>
+        <updated>2023-03-04T11:45:36.000Z</updated>
+        <summary type="html"><![CDATA[ハニーレモネードです、こんばんは～もう先月のことになってしまいましたが、22日は【Gravity】様の創立2周年記念イベントにお邪魔してきました。かつてプリメの『ドミノ発表会（ドミノGV）』で対戦していただいたりといろいろご縁のあるギルドです。プリメのメンバー（＋【Gravity】様の姫さまたち）でドミノをしたりクイズ（ミニゲーム）をやったりとかですね。今回実施したプリメのクイズ（ミニゲーム）は２種類◆ケーキクイズ（]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黒魔ツインと指の解放]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202303040000/</id>
