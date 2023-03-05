@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T06:48:15.833Z</updated>
+    <updated>2023-03-05T07:17:14.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1415,16 +1415,6 @@ DECEMBER UPDATE -->
         <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302050000/"/>
         <updated>2023-02-05T02:11:53.000Z</updated>
         <summary type="html"><![CDATA[けっこう頑張っていますが、経験値入らないMOBを狩るやつがダルシムすぎｗ全職に殴ってもらうやつがGメンだけでカバーできなかったので、叫びで募集したところ複数の方がお手伝いに来てくれたので助かりました！...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴァルキリー登録後の黒星表記]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302040000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302040000/"/>
-        <updated>2023-02-03T19:11:33.000Z</updated>
-        <summary type="html"><![CDATA[旗バフ込みだと↓こうなりました。ちなみに旗バフなしだと577万3千くらいです。まだ吸血姫とレオフォールド（こいつも合成で作れました）が未登録です。クリーチャーコインが冒険でなかなか出ないのがきついですが...]]></summary>
         <author>
             <name>雷神の弓</name>
         </author>
