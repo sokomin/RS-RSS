@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T03:02:30.196Z</updated>
+    <updated>2023-03-05T03:39:55.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テイマの覚醒 －慈愛の民－]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/713788db9628211f33a8c2517ded7bf3</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/713788db9628211f33a8c2517ded7bf3?fm=rss"/>
+        <updated>2023-03-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日買い物に行ったら、ホワイトデーの菓子コーナーができていました。
+「FEBRUARY UPDATE」
+「信望の民」を書いたときも書きましたが、テイマのスキルは結構変わりましたね。
+
+覚醒タイプは「慈愛の民」
+
+「親切な保護者」
+
+専用強化スキルは「音符の烙印：元素」
+
+いわゆる攻撃命令ですね。
+
+強化スキルの１つは「教える」
+
+音符の烙印同様タゲをとるのかと思いましたが、ペットにかけるスキルです。
+
+かけるとペットの頭の上にこんなマークが現れます。
+
+もう１つの強化スキルは「協同：爆音」
+
+多分タゲ取らなくてもいけるスキル。
+
+褒める、励ます、とうがらし。詳しく教えるをかけた状態で叩くとこんな感じ。
+
+
+覚醒を知識に変えたので、聖エルフ貴族（人間）は封印。
+とりあえず聖シーク守護者（人間）が風属性だったので使ってみました。
+覚醒ウォリアや覚醒魔サキュバスも試してみようかな・・・とは思います。
+
+残りは真心の民。
+ペットが３体召喚できるんですよね。
+限界ダメの増加量を気にしなければ真心もいいな・・・・
+とりあえずそのうち試してみようと思います。
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[２月２２日【Gravity】様の２周年イベントに参加してきたよ]]></title>
         <id>http://rinsmile.blog70.fc2.com/blog-entry-1115.html</id>
