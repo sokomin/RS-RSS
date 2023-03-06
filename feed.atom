@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T02:54:00.156Z</updated>
+    <updated>2023-03-06T03:25:34.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レベリングの壁と乗り越え方(自己流)]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-934.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-934.html"/>
+        <updated>2023-03-06T03:17:47.000Z</updated>
+        <summary type="html"><![CDATA[自身が感じたレベリング時の壁と、自己流の乗り越え方を書いてみる。・最初の壁　Lv900 〜 Lv950とにかく、レベルが上がり難い。狩場は地下墓地B1、2、3と薄暗く湿っぽい雰囲気で、775UMUに価値が無い今となってはドロップも期待できず、モチベ維持に一苦労。おそらく、ここを超えられずに休止、引退するケースが最も多いと予想。個人的な乗り越え方ギルドデイリー、ディメンション、マキナ消化を毎日欠かさず実施。ユスピナ持参で]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3月5日Gv結果（VSリーリエさん）]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202303060000/</id>
