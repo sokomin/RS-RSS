@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T23:48:33.925Z</updated>
+    <updated>2023-03-08T01:45:55.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本体のステータスとペットの関係]]></title>
+        <id>http://akira773.blog22.fc2.com/blog-entry-770.html</id>
+        <link href="http://akira773.blog22.fc2.com/blog-entry-770.html"/>
+        <updated>2023-03-08T00:58:17.000Z</updated>
+        <summary type="html"><![CDATA[どうもお元気ですか新しいテイマサマナ楽しんでますか？私はここのところRS三昧というか検証と日課に追われており狩りを楽しむのはもう少し先になりそうですまだまだ検証したいことがいっぱいあってな(´～｀)さて今回は本体のステータスとペットの関係について、です。]]></summary>
+        <author>
+            <name>リヤン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネクロのペット変化（終局）]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-356.html</id>
