@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T02:28:33.784Z</updated>
+    <updated>2023-03-11T02:52:43.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サマナの覚醒 －太陽と風の楽士－]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/0f9248208cd163f63279dec3eabb315a</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/0f9248208cd163f63279dec3eabb315a?fm=rss"/>
+        <updated>2023-03-11T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[3月も上旬が終わりますね。
+「FEBRUARY UPDATE」
+「海と大地の楽士」と「導きの楽士」は掲載しました。
+
+覚醒タイプは「太陽と風の楽士」
+
+「火と風の祭」
+
+専用強化スキルは「インシナレイト」
+
+ON/OFFスキルではなく、攻撃対象に使用するようです。
+
+強化スキルの１つは「ゲイルパンチ」
+
+竜巻が飛んでいき、周囲にダメを与える感じですね。
+
+もう１つの強化スキルは「バキュームポイント」
+
+使用するとサマナの周りで風が起こります。
+
+かかしでは周囲のかかしにも風のエフェクトがでて地蔵的にダメを与えていましたが、狩場ではライディング＋インシナ状態だったためさくさく倒してしまい状況確認できず。
+
+
+これでサマナの覚醒はとりあえず確認できたかな。
+どれが使いやすいかは好みになるかもしれません。
+どの召喚獣を使うかというところをベースに決めるのがいいかもしれませんね。
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウポスマイヤーの日常【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=kqSABCzUFtY</id>
