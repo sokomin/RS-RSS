@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T01:43:20.239Z</updated>
+    <updated>2023-03-12T02:49:11.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PVP攻撃が253％になりました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202303120000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202303120000/"/>
+        <updated>2023-03-12T02:05:39.000Z</updated>
+        <summary type="html"><![CDATA[もう１個の滅亡もLv17に上げました。しばらくこのコンテンツに手を出したくない気分でしたが、自分で拾った赤い光の刻印書DXが成功したので、つい欲に負けてまたやってしまいました。途中まで成功率40％前後だっ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テイマwithペット3体 育成配信#1【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=_H7IuCYyqxc</id>
