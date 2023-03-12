@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T23:48:26.438Z</updated>
+    <updated>2023-03-12T01:43:20.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テイマwithペット3体 育成配信#1【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=_H7IuCYyqxc</id>
+        <link href="https://www.youtube.com/watch?v=_H7IuCYyqxc"/>
+        <updated>2023-03-12T01:12:55.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pythonのrequests, BeautifulSoupを使うときに文字コード直接指定する際の注意点]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202210120000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202210120000/"/>
+        <updated>2023-03-12T01:02:15.000Z</updated>
+        <summary type="html"><![CDATA[pythonでwebスクレイピングをするときに以下のようなコードを書くことがあるかと思います。今回はこのコードを書いた時にハマった話を紹介。            response = requests.get(url, headers=headers_dic)     ...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マスケの覚醒 －アルティメットエンフォーサー－]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/d5d5e1eb708c8d93375e74793d60aaed</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/d5d5e1eb708c8d93375e74793d60aaed?fm=rss"/>
+        <updated>2023-03-12T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[首が痛い(´・ω・`)
+
+覚醒は「アルティメットエンフォーサー」
+
+覚醒パッシブは「デアデブル」
+
+専用強化スキルは「ホロウポイント」
+
+弾丸が放射状に５発飛んでいく感じですね。
+
+強化スキルの1つは「アブソープヒート」
+
+使用するとこんな感じ。
+
+強化スキルの1つは「パーティタイム」
+
+タゲをとったMOBだけでなく周囲にもダメを与える範囲スキル。
+かかしなのでちょっとわかりにくかった。
+狩場でどの程度効果があるのかは試していこうと思います。
+
+
+残りは「アブソリュートヒーター」ですね。
+次の転生までは道のりが長そうですね。
+この覚醒タイプの使い勝手が悪いときは、イベントでもらったスキル再振り巻物で振り直ししよう。
+
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[勿忘]]></title>
         <id>https://ameblo.jp/pochi-bird/entry-12793022060.html</id>
@@ -1569,16 +1634,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[先日のロトで出た黄金人形をどうするか考えました。メイン弓にプチファルコンを出せば図鑑が完成しますが、登録でもらえるのが威厳比1/2とちょっと微妙です。（既に解放変換でCPが大幅にUPしているので）黒魔の方...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ネットカフェでの経験値]]></title>
-        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202302100000/</id>
-        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202302100000/"/>
-        <updated>2023-02-10T12:46:21.000Z</updated>
-        <summary type="html"><![CDATA[どうも、ネカフェ難民です。年明け頃に、公認ネカフェでクエストをやったら経験値が1.5倍になるよ！っていう情報を貰いまして、本日ついにネカフェに行ってみました('Д')結論から言いますと、経験値は増えます！...]]></summary>
-        <author>
-            <name>たつ2307</name>
         </author>
     </entry>
 </feed>

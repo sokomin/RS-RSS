@@ -6,6 +6,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202210120000/",
+          "author": "そこらの民衆",
+          "description": "pythonでwebスクレイピングをするときに以下のようなコードを書くことがあるかと思います。今回はこのコードを書いた時にハマった話を紹介。            response = requests.get(url, headers=headers_dic)     ...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202210120000/",
+          "publishedOn": "2023-03-12T01:02:15.000Z",
+          "wordCount": 1064,
+          "title": "pythonのrequests, BeautifulSoupを使うときに文字コード直接指定する際の注意点",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/fd1d88a40916f919a0699ec11e0949037373fc2e.10.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202212220000/",
           "author": "そこらの民衆",
           "description": "AWS Certified Solutions Architect - Associateの資格を取得したので、その時の感想の話とかを備忘録として残しておきます。概要AWS SAAとは、「AWS Certified Solutions Architect - Associate」の略称で、AWS...",
@@ -180,6 +190,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8pMAy5Ifr2KgH8kM_xR9Og",
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_H7IuCYyqxc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_H7IuCYyqxc",
+          "publishedOn": "2023-03-12T01:12:55.000Z",
+          "wordCount": null,
+          "title": "テイマwithペット3体 育成配信#1【 REDSTONE 】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kqSABCzUFtY",
           "author": null,
@@ -846,18 +866,7 @@
       "title": "カルDXのレッドストーン放浪",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/karudxrs/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/karudxrs/",
-      "articles": [
-        {
-          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202302100000/",
-          "author": "たつ2307",
-          "description": "どうも、ネカフェ難民です。年明け頃に、公認ネカフェでクエストをやったら経験値が1.5倍になるよ！っていう情報を貰いまして、本日ついにネカフェに行ってみました('Д')結論から言いますと、経験値は増えます！...",
-          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202302100000/",
-          "publishedOn": "2023-02-10T12:46:21.000Z",
-          "wordCount": 1590,
-          "title": "ネットカフェでの経験値",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/1e204216e8fe4badd28c3dd7d7eef7c782abebd1.35.9.9.3.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "rb79kのブログ",
@@ -960,6 +969,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/d5d5e1eb708c8d93375e74793d60aaed",
+          "author": null,
+          "description": "首が痛い(´・ω・`)\n\n覚醒は「アルティメットエンフォーサー」\n\n覚醒パッシブは「デアデブル」\n\n専用強化スキルは「ホロウポイント」\n\n弾丸が放射状に５発飛んでいく感じですね。\n\n強化スキルの1つは「アブソープヒート」\n\n使用するとこんな感じ。\n\n強化スキルの1つは「パーティタイム」\n\nタゲをとったMOBだけでなく周囲にもダメを与える範囲スキル。\nかかしなのでちょっとわかりにくかった。\n狩場でどの程度効果があるのかは試していこうと思います。\n\n\n残りは「アブソリュートヒーター」ですね。\n次の転生までは道のりが長そうですね。\nこの覚醒タイプの使い勝手が悪いときは、イベントでもらったスキル再振り巻物で振り直ししよう。\n\n\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/d5d5e1eb708c8d93375e74793d60aaed?fm=rss",
+          "publishedOn": "2023-03-12T01:00:00.000Z",
+          "wordCount": 1324,
+          "title": "マスケの覚醒 －アルティメットエンフォーサー－",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/28/25/caae7009a44d235d50543244f8bbd9e2.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/0f9248208cd163f63279dec3eabb315a",
           "author": null,
