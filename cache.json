@@ -6,6 +6,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202303140000/",
+          "author": "そこらの民衆",
+          "description": "前回までの経験値テーブルの話(1~2000)今回のアップデートで新狩場が実装されたので、恒例の経験値テーブル確認タイム！実際にレベルを上げて必要経験値がいくつなのか確認させていただきました。以下ツイートの...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202303140000/",
+          "publishedOn": "2023-03-13T21:14:35.000Z",
+          "wordCount": 1000,
+          "title": "【REDSTONE】1700～の経験値テーブルまとめ",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/598d310a5500801df8c3869a1e7c856a6b4bab1f.10.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202210120000/",
           "author": "そこらの民衆",
           "description": "pythonでwebスクレイピングをするときに以下のようなコードを書くことがあるかと思います。今回はこのコードを書いた時にハマった話を紹介。            response = requests.get(url, headers=headers_dic)     ...",
