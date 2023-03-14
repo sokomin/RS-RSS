@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T02:44:41.256Z</updated>
+    <updated>2023-03-14T03:20:50.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1635,16 +1635,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[※ギルド名は通称で敬称略対戦日　対戦ギルド　　LA数　死亡数　得点/失点　　　勝敗　制限　　　1月15日　三顧　　　　14LA　2死　100900対162538　負　30万（単体40万）1月22日　武神　　　　12LA　3死　 80210...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今週色々　【コスチューム、魔法強打、カニ等】]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-786.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-786.html"/>
-        <updated>2023-02-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[バレンタインデーの直前の連休と言う事もあり恋人とお出かけと言う人も多かったのではないでしょうかこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
