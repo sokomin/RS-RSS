@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T03:48:19.001Z</updated>
+    <updated>2023-03-15T04:23:09.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ペットのステータスについて]]></title>
+        <id>http://akira773.blog22.fc2.com/blog-entry-771.html</id>
+        <link href="http://akira773.blog22.fc2.com/blog-entry-771.html"/>
+        <updated>2023-03-15T03:49:51.000Z</updated>
+        <summary type="html"><![CDATA[どうも
+お元気ですか
+
+さて今回はペットのステータスについて、です。
+本体のステータスとペットのステータスの関係は前回の記事でやりました。
+では、全体的にペットのステータスはどういう風になっているのか、何か特徴があるのか
+ということでペットのステータスを全部書きだした一覧を作りました。
+そしてそれを眺めるだけの記事です。
+なお、改変後からは「ペットのステータスは本体依存」なので「人によって違います]]></summary>
+        <author>
+            <name>リヤン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[もうすぐ1000の方たち]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-357.html</id>
