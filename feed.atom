@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T13:34:44.927Z</updated>
+    <updated>2023-03-15T13:48:25.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本祭も後半戦？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-955.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-955.html"/>
+        <updated>2023-03-15T13:41:11.000Z</updated>
+        <summary type="html"><![CDATA[いうて追加の何かは…【配布品？】・ありません！でもverが変わった詳細【終わりなきログキャン】4/11(火)23:59まで。ランダムタイプのあれ。今回はコンプマスもランダム仕様。クリスタルは除外したから通常マスの方で出るもはや恒例の　10　10　5　構成です。猶予はメンテ後の日を含めて3日いつも通りな詳細【RS探索機キャンペ】3/29(水)メンテまで。W探索機やPlusがお得になっているあれ。それなりに期間が空くから、必要な場合は]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.3.15 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/a90b2d13414c057d365a19d31541c494</id>
