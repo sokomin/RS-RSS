@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-16T02:56:07.625Z</updated>
+    <updated>2023-03-16T03:20:14.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1683,16 +1683,6 @@ DECEMBER UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[月の谷見学！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-353.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-353.html"/>
-        <updated>2023-02-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[かなり前からですがオオカミ少年の狩場といえば海底神殿B２でしかも外周はいつもドロップ品があるので姿は見えない事が多いですが誰か使っているんだろうと思い内周を使用していました＾＾ちなみにオオカミ少年の狩り効率では5か所狩り切れないため中央と上と右だけ普段使ってます＾＾ネームレスアタックで狩るオオカミ少年はまとめて狩るのが難しいので一旦悪魔になりドローで敵を集めてからネームレスで殲滅しているのですがこれ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
