@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-16T14:33:06.971Z</updated>
+    <updated>2023-03-16T14:48:36.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[次回、ぺいぺい死す]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-956.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-956.html"/>
+        <updated>2023-03-16T14:36:36.000Z</updated>
+        <summary type="html"><![CDATA[デュエルスタ…え？【PayPay決済終了のおしらせ】どうやら2023年3月31日（金）をもってPayPayによる決済を終了するということです。…あれ、一時的に利用停止してなかったっけ。原因は不正決済による購入らしいよ。去年の末ごろから継続的に起きていたんだってさ。再発の可能性があるから終了とのこと。これも全部、詳細って奴の仕業なんだ結局帰ってくることはなかったのであったおわり]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本祭も後半戦？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-955.html</id>
