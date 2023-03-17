@@ -306,6 +306,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HrL43H2GnK0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HrL43H2GnK0",
+          "publishedOn": "2023-03-17T11:27:08.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記＃５１　雨降るって言わなかった？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=c8UnEhxqVMM",
           "author": null,
           "description": "",
