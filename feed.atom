@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T06:22:45.843Z</updated>
+    <updated>2023-03-17T06:48:19.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1617,16 +1617,6 @@ fmfm
         <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302170000/"/>
         <updated>2023-02-17T07:43:00.000Z</updated>
         <summary type="html"><![CDATA[特殊強化+5にして、SPがもらえるクエストを２つやってLv10まで上げておきました。黒星は射程がけっこう短くて、本体の近くでしか発動しないのですが、視界展開があると少し遠くをクリックしても発動してくれるの...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今週でMB１クリアする予定だったけど・・]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302160000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302160000/"/>
-        <updated>2023-02-15T18:38:39.000Z</updated>
-        <summary type="html"><![CDATA[レイドモンスターとの対決Ⅱが800万くらいだったので、とりあえず1000万にして途中抜けしようと思っていました。（今週レイドに３回行けばMB1がクリアできるはずでした）しかし、ベルセを使って数秒で倒しちゃう人...]]></summary>
         <author>
             <name>雷神の弓</name>
         </author>
