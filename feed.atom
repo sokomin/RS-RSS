@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T01:27:36.182Z</updated>
+    <updated>2023-03-17T02:29:43.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1629,16 +1629,6 @@ fmfm
         <summary type="html"><![CDATA[レイドモンスターとの対決Ⅱが800万くらいだったので、とりあえず1000万にして途中抜けしようと思っていました。（今週レイドに３回行けばMB1がクリアできるはずでした）しかし、ベルセを使って数秒で倒しちゃう人...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次回、アプデ+周年！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-949.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-949.html"/>
-        <updated>2023-02-15T13:37:29.000Z</updated>
-        <summary type="html"><![CDATA[去年は地獄だったね？【配布品？】〇ございません。いつものあれ【生放送】2/17(金)21時から。内容は来週のアプデと18周年本祭に関すること。アプデ内容自体はだいたい隣の国情報で分かるが、本祭はここでしかわかんないと思うよこれは詳細これは配信ページ【また始まったログキャン】3/14(火)23:59まで。本祭からでもよかったのでは…？ランダムアイテムタイプ。ただしコンプマスは固定。恒例になりつつある10,10,5の構成です。つ]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
