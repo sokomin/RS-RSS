@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T19:28:20.328Z</updated>
+    <updated>2023-03-18T19:48:19.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1647,16 +1647,6 @@ fmfm
         <summary type="html"><![CDATA[代償は風船イベ。…まじでやらないの？【経験値とドロップ2倍】2/18(土)0:00から2/19(日)23:59まで。この期間は経験値とアイテムドロップが2倍です。それだけです。一応詳細あ、先行情報は…思ったより……うん。風船はもしかして後夜祭に？おわり]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視界展開完成]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302170000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302170000/"/>
-        <updated>2023-02-17T07:43:00.000Z</updated>
-        <summary type="html"><![CDATA[特殊強化+5にして、SPがもらえるクエストを２つやってLv10まで上げておきました。黒星は射程がけっこう短くて、本体の近くでしか発動しないのですが、視界展開があると少し遠くをクリックしても発動してくれるの...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
