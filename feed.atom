@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T01:26:54.221Z</updated>
+    <updated>2023-03-18T02:29:45.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ようやくサマナー]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-191.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-191.html"/>
+        <updated>2023-03-18T01:57:49.000Z</updated>
+        <summary type="html"><![CDATA[春らしい朝の明るさに春らしいあたたかさ、そして、春らしい体調不良！こんにちは、第三の猫です。今回はサマナー（導きの楽士）で狩りに行ってきます。まずはケルビー。これが新技「フレアードライブ」です。2HITしているのはマルチプルサモンソウルさんの仕業です。使用感はWIZのテレポに似ている気がします。移動後すぐに次の攻撃を行えるようになるといい感じです。次はウィンディ。変則的なスキルだったバキュームポイントと]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃５１　雨降るって言わなかった？]]></title>
         <id>https://www.youtube.com/watch?v=HrL43H2GnK0</id>
