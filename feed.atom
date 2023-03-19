@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-19T14:48:36.978Z</updated>
+    <updated>2023-03-19T15:18:14.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[花粉症と石の日]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-791.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-791.html"/>
+        <updated>2023-03-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マスクを外しても良いとの事ですが一年中花粉に苦しむ私はやはりつけたまま外出していますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3月12日Gv結果（VS武神さん）]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202303180000/</id>
