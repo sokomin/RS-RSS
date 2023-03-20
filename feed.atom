@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T18:24:10.294Z</updated>
+    <updated>2023-03-20T18:48:40.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1572,15 +1572,6 @@ RSもほとんどしてない_(:3 」∠)_
         <summary type="html"><![CDATA[花粉がやる気を出してきたせいか仕事中も何かと鼻と涙がしんどい時期になってきましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毒闇悪魔育成配信#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=qFv4TouxKjw</id>
-        <link href="https://www.youtube.com/watch?v=qFv4TouxKjw"/>
-        <updated>2023-02-19T06:42:41.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
