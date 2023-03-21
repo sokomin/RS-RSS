@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T14:48:17.876Z</updated>
+    <updated>2023-03-21T15:16:32.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[頭か首か。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-358.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-358.html"/>
+        <updated>2023-03-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現在無課金Ｇメンえこーさんから純粋装備を借りてフルアタ狩りをしているオオカミ少年なのですがずっと借りっぱなしもどうかなと思っていたので少しずつですが装備集めをしていました＾＾けっこうベースが決まらずに悩んでたのですが足をＧメンのきなこさんから売ってもらい手も他の候補を用意してましたがＧメンのへへへさんから最近頂いたのでそちらを採用＾＾Ｇメンさんたちありがとうございます＾＾ちなみに廃案になった手のほ]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メインWIZの装備を整える#1【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=mfmvD_F8tXo</id>
