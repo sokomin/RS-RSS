@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T16:49:51.566Z</updated>
+    <updated>2023-03-22T17:16:25.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[装備処分の進捗]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202303230000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202303230000/"/>
+        <updated>2023-03-22T17:06:03.000Z</updated>
+        <summary type="html"><![CDATA[PVP攻撃45％クレスト×２とWダメ比率滅亡Lv17×2は、知人に売却しました。今のアリーナは物理職にとって最低最悪な環境ですが、やれるところまで頑張ってくれたらなと思います。他には、セイバー足が露店に2300で出...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[18周年も間もなく消えてしまう…]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-957.html</id>
