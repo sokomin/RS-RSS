@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T06:48:31.370Z</updated>
+    <updated>2023-03-24T07:16:08.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[チャット勢だってたまには狩りするんだぜ]]></title>
+        <id>kaze.gg-blog.com://entry/175</id>
+        <link href="http://kaze.gg-blog.com/status/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E5%8B%A2%E3%81%A0%E3%81%A3%E3%81%A6%E3%81%9F%E3%81%BE%E3%81%AB%E3%81%AF%E7%8B%A9%E3%82%8A%E3%81%99%E3%82%8B%E3%82%93%E3%81%A0%E3%81%9C"/>
+        <updated>2023-03-24T06:59:45.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+
+
+
+チャット勢もたまには狩りします。
+9か月ぶりにレベルも上がりました。
+
+
+
+狙うは石造の結晶！
+ 
+
+とりあえず拾い集めた文字
+氷雨アチャと謳いながら覚醒はFIランサです
+今日はFIと氷雨のちがいと狩り風景を公開！
+
+
+ブレイズ・アンド・ブリザード
+
+
+
+ほかの覚醒でも取れるスキルだけど、「エレメンタルランサー」覚醒だと
+
+ 
+
+
+最大範囲は6m
+ 
+
+通常は4段攻撃だけど、近距離(2m？)の敵には8段になるよ
+ 
+◎燃費がよい
+◎敵の攻撃無視
+○マウスが移動だけでよい
+△一度に範囲狩りするには敵の中心まで移動しないといけない
+
+
+ウォーターフォール
+ 
+
+攻撃回数：一撃で6打
+
+ 
+武器は調和が強いです
+ 
+イジョウイジョウうるさい()
+ 
+ 
+×燃費が超悪いので心臓必須
+×マウス移動が忙しい
+
+◎敵の射程に入る前に攻撃できる
+
+
+以上が氷雨の特徴です。
+それぞれ長所・短所があるので
+状況に応じて使いこなしましょう！
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[きぃさんやきうわからない₍₍ (ง ˙ω˙)ว ⁾⁾]]></title>
         <id>https://ameblo.jp/keykeykey2010/entry-12795050060.html</id>
