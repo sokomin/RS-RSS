@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T21:48:25.723Z</updated>
+    <updated>2023-03-24T22:17:02.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1342,50 +1342,6 @@ ONにしておくと、時々きらきら光るエフェクトが現れます。
         <summary type="html"><![CDATA[先日の記事で、最終ダメのループについて書きましたが、最終ダメが30％台後半でループした人たち（2人います）は強打型でした。私は致命型ですので、おそらくループするのは強打型よりもっと上なんだろうなと予測...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サマナの覚醒 －海と大地の楽士－]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/4e1ed51cf9d11ff915dd185391e4a10d</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/4e1ed51cf9d11ff915dd185391e4a10d?fm=rss"/>
-        <updated>2023-02-23T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本日2月23日は語呂合わせで「富士山」の日らしいです。
-「FEBRUARY UPDATE」
-
-覚醒タイプは「海と大地の楽士」
-
-「土と水の恵み」
-
-専用強化スキルは「アルマジロローリング」
-
-使用すると大地属性ダメを与えます。
-
-強化スキルの１つは「アクアバンブー」
-
-ちょっとわかりにくいけど、タゲを中心にサークル上の範囲が現れます。
-
-もう１つの強化スキルは「バブルガムエクスプロージョン」
-
-上から水滴がぼたぼたと落ちてくるスキル。
-改変前もこんな感じだったので変わってないのかな。
-
-
-サマナに関しては海と大地の楽士と太陽と風の楽士は非常に大きな変更・・・とまでではない感じ。
-新たなスキルが加わった導きの楽士がどんなものか気になりますね。
-私のサマナは導きで覚醒し、だめなら振り直しで太陽と風の楽士にしようかな。
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
