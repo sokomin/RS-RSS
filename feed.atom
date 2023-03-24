@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T17:48:14.805Z</updated>
+    <updated>2023-03-24T18:22:43.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1386,16 +1386,6 @@ ONにしておくと、時々きらきら光るエフェクトが現れます。
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2度目の改変とボトル束]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-189.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-189.html"/>
-        <updated>2023-02-23T05:52:40.000Z</updated>
-        <summary type="html"><![CDATA[ビーストテイマー／サマナーのスキルが再び改変され、ステータスとスキルがリセットされました。今までのようにペットと召喚獣を同時に使うことはできなくなりましたが、総合的に見れば両職ともに強化調整のようです。それでは新しくなったスキルを一覧で見てみましょう。まずはサマナーから。半分くらいが新スキルになってますね。次はビーストテイマー。長らく未実装だったペット奪取は、無事に過去の思い出になったみたいです。]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
