@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T10:30:49.218Z</updated>
+    <updated>2023-03-25T10:48:04.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -237,6 +237,16 @@ RSのこのキャラたちは年齢重ねてる設定じゃないとは思うん
         <summary type="html"><![CDATA[マスクを外しても良いとの事ですが一年中花粉に苦しむ私はやはりつけたまま外出していますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS SAA C03資格取った時の話]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202212220000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202212220000/"/>
+        <updated>2023-03-19T14:54:21.000Z</updated>
+        <summary type="html"><![CDATA[AWS Certified Solutions Architect - Associateの資格を取得したので、その時の感想の話とかを備忘録として残しておきます。概要AWS SAAとは、「AWS Certified Solutions Architect - Associate」の略称で、AWS...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>

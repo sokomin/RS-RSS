@@ -6,6 +6,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202212220000/",
+          "author": "そこらの民衆",
+          "description": "AWS Certified Solutions Architect - Associateの資格を取得したので、その時の感想の話とかを備忘録として残しておきます。概要AWS SAAとは、「AWS Certified Solutions Architect - Associate」の略称で、AWS...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202212220000/",
+          "publishedOn": "2023-03-19T14:54:21.000Z",
+          "wordCount": 1061,
+          "title": "AWS SAA C03資格取った時の話",
+          "imageUrl": "https://hbb.afl.rakuten.co.jp/hgb/3007e8e6.1b3988f4.3007e8e7.61889144/?me_id=1249489&item_id=11602464&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fcomicset%2Fcabinet%2F05018654%2Fbkvzatknlwvkxkve.jpg%3F_ex%3D240x240&s=240x240&t=picttext"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202303140000/",
           "author": "そこらの民衆",
           "description": "前回までの経験値テーブルの話(1~2000)今回のアップデートで新狩場が実装されたので、恒例の経験値テーブル確認タイム！実際にレベルを上げて必要経験値がいくつなのか確認させていただきました。以下ツイートの...",
