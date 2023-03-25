@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T10:17:43.337Z</updated>
+    <updated>2023-03-25T10:30:49.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1303,16 +1303,6 @@ ONにしておくと、時々きらきら光るエフェクトが現れます。
 ばぃちゃっ☆(´ゝ∀・｀)ﾉｼ]]></summary>
         <author>
             <name>きぃこんぱ～んちっ( ﾟ∀ﾟ)Ξ〇) ﾟﾛﾟ)∵＜出張版☆＞</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS SAA C03資格取った時の話]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202212220000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202212220000/"/>
-        <updated>2023-02-23T22:17:05.000Z</updated>
-        <summary type="html"><![CDATA[AWS Certified Solutions Architect - Associateの資格を取得したので、その時の感想の話とかを備忘録として残しておきます。概要AWS SAAとは、「AWS Certified Solutions Architect - Associate」の略称で、AWS...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
