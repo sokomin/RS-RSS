@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T17:48:39.208Z</updated>
+    <updated>2023-03-26T18:20:40.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1521,16 +1521,6 @@ ONにしておくと、時々きらきら光るエフェクトが現れます。
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[検証生活4日目]]></title>
-        <id>http://akira773.blog22.fc2.com/blog-entry-768.html</id>
-        <link href="http://akira773.blog22.fc2.com/blog-entry-768.html"/>
-        <updated>2023-02-25T06:07:53.000Z</updated>
-        <summary type="html"><![CDATA[どうも。お元気ですか私はテイマサマナ改変でやらなければならないことがてんこ盛りになってなんか大変です。さて、ここ2－3日ツイッターに書いたことに調べてわかったことをちょっとだけ補足で付けてあと叫びやツイッターでみた質問みたいなのをまとめたらいいかなって思ってQ&A方式で雑に書いた記事です。抜けや間違いがあってもご愛敬という記事です。またあとでちゃんとそれぞれ記事する予定ではありますけど速報みたいな感じ]]></summary>
-        <author>
-            <name>リヤン</name>
         </author>
     </entry>
 </feed>
