@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T04:35:34.900Z</updated>
+    <updated>2023-03-26T04:48:26.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1562,6 +1562,16 @@ ONにしておくと、時々きらきら光るエフェクトが現れます。
         <summary type="html"><![CDATA[1000UMUドロップを願って、キャプテンで狩り in 星谷。たまに撲殺されるゴリラに怯えつつ、遂に念願の1000UMUが・・・キター！って、ダメなやつじゃんｗ以前80本くらいで売れましたよ、というありがたい情報をいただきつつ、300本で露店放置してたら売れました。1000本超えのドロップが舞い込むのは、いつになるのやら・・・景気付けに、280本でも全然売れる気配のないT移動ULTストライダーとニケ靴を異次元することにした。お気付]]></summary>
         <author>
             <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秤の女の解放オプションを変換したくて]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202302250000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202302250000/"/>
+        <updated>2023-02-24T16:54:24.000Z</updated>
+        <summary type="html"><![CDATA[秤の女の解放オプションを変換したいのですが、4解放目の魔法弱化8％が無くなると弱化の数値が悪化してしまいます。そこで、いくつかの装備をいじって秤の女の魔法弱化がなくても大丈夫な状態にしていきます。ま...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
