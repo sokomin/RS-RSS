@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-27T11:48:41.671Z</updated>
+    <updated>2023-03-27T13:41:30.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アリエル。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-480.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-480.html"/>
+        <updated>2023-03-27T12:58:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。不思議の国のアリスかな。DXUにULT称号はレアかも。今、一番欲しいNPC称号です。最後にビーストテイマーのクリーチャー。読んで下さって、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RSpass、ウポス補助武器の強化]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-792.html</id>
