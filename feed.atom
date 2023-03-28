@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T22:30:07.959Z</updated>
+    <updated>2023-03-28T22:48:26.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1372,15 +1372,6 @@ The post 2023年1～2月総括【RED STONE】 first appeared on 無職と美学�
 ペットの単体特殊スキルがエントラやパラなど領域展開が適用されてたまるかみたいなものが多いので仕方ないでしょう]]></summary>
         <author>
             <name>リヤン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃５０　リトルまったり育成]]></title>
-        <id>https://www.youtube.com/watch?v=c8UnEhxqVMM</id>
-        <link href="https://www.youtube.com/watch?v=c8UnEhxqVMM"/>
-        <updated>2023-02-27T10:47:03.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
