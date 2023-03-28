@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T02:52:55.213Z</updated>
+    <updated>2023-03-28T03:19:24.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1361,16 +1361,6 @@ The post 2023年1～2月総括【RED STONE】 first appeared on 無職と美学�
         <updated>2023-02-27T10:47:03.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年2月21日アップデート　【ウポスマイヤー、テイマサマナ改変、イベント等】]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-788.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-788.html"/>
-        <updated>2023-02-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[朝の出勤時に受験生と見える生徒さんをよく見ますもうそんな時期なのですね幸運をお祈りしますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
