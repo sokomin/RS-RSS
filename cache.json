@@ -6,6 +6,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202302030000/",
+          "author": "そこらの民衆",
+          "description": "chromeのキャッシュがなぜか大量にディレクトリの上側に生成されていたので、それを掃除する話気づいたらProgram Files以下に大量のファイルが…まず、これが何なのかbingAIにきいてみたchrome_BITS_***_***という...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202302030000/",
+          "publishedOn": "2023-03-28T23:08:54.000Z",
+          "wordCount": 999,
+          "title": "chromeのキャッシュが暴走した時の話",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/ee09b36440320453e55cc327b60c6dc3d1f2daa4.10.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202212220000/",
           "author": "そこらの民衆",
           "description": "AWS Certified Solutions Architect - Associateの資格を取得したので、その時の感想の話とかを備忘録として残しておきます。概要AWS SAAとは、「AWS Certified Solutions Architect - Associate」の略称で、AWS...",
