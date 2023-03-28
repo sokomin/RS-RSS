@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T22:48:26.497Z</updated>
+    <updated>2023-03-28T23:17:55.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1360,18 +1360,12 @@ The post 2023年1～2月総括【RED STONE】 first appeared on 無職と美学�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ペットスキル一覧【簡易】]]></title>
-        <id>http://akira773.blog22.fc2.com/blog-entry-769.html</id>
-        <link href="http://akira773.blog22.fc2.com/blog-entry-769.html"/>
-        <updated>2023-02-27T11:10:21.000Z</updated>
-        <summary type="html"><![CDATA[どうも。
-今日も私は元気ですよ！！！！
-さて、ペットのスキルへの超越スキルの視界展開と領域展開の適用について検証が終わりました。
-結論だけ言うと、基本的に、範囲攻撃をするペットスキルには領域展開はすべて適用されていました。
-そして、単体スキルについては適用されていないと思っていいようです。
-ペットの単体特殊スキルがエントラやパラなど領域展開が適用されてたまるかみたいなものが多いので仕方ないでしょう]]></summary>
+        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃５０　リトルまったり育成]]></title>
+        <id>https://www.youtube.com/watch?v=c8UnEhxqVMM</id>
+        <link href="https://www.youtube.com/watch?v=c8UnEhxqVMM"/>
+        <updated>2023-02-27T23:48:06.000Z</updated>
         <author>
-            <name>リヤン</name>
+            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>

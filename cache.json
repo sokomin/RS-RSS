@@ -67,16 +67,6 @@
           "wordCount": 457,
           "title": "本体のステータスとペットの関係",
           "imageUrl": null
-        },
-        {
-          "id": "http://akira773.blog22.fc2.com/blog-entry-769.html",
-          "author": "リヤン",
-          "description": "どうも。\r\n今日も私は元気ですよ！！！！\r\nさて、ペットのスキルへの超越スキルの視界展開と領域展開の適用について検証が終わりました。\r\n結論だけ言うと、基本的に、範囲攻撃をするペットスキルには領域展開はすべて適用されていました。\r\nそして、単体スキルについては適用されていないと思っていいようです。\r\nペットの単体特殊スキルがエントラやパラなど領域展開が適用されてたまるかみたいなものが多いので仕方ないでしょう",
-          "link": "http://akira773.blog22.fc2.com/blog-entry-769.html",
-          "publishedOn": "2023-02-27T11:10:21.000Z",
-          "wordCount": 955,
-          "title": "ペットスキル一覧【簡易】",
-          "imageUrl": null
         }
       ]
     },
@@ -293,6 +283,16 @@
           "publishedOn": "2023-03-17T11:27:08.000Z",
           "wordCount": null,
           "title": "【REDSTONE】赤石育成日記＃５１　雨降るって言わなかった？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=c8UnEhxqVMM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c8UnEhxqVMM",
+          "publishedOn": "2023-02-27T23:48:06.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】赤石育成日記＃５０　リトルまったり育成",
           "imageUrl": null
         }
       ]
