@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T11:48:28.535Z</updated>
+    <updated>2023-03-29T12:38:50.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1407,26 +1407,6 @@ The post 2023年1～2月総括【RED STONE】 first appeared on 無職と美学�
 　また、範囲狩りをしたいなとなればスウェルファーとヘッジャーを出して範囲火力を高め、残り1体も範囲攻撃したいならウインディ、移動速度もどうせなら高めたいと思うならケルビー出して犬乗りといろいろな組み合わせが考えられます。ボミングやゲイルパンチMk2は共通覚醒なのでSPに余裕があればそれも取得して範囲スキルの乱れ撃ちも…]]></summary>
         <author>
             <name>曇りのち晴れ４８日</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18周年のツキ回り]]></title>
-        <id>https://rs-clair-de-lune.com/2023-02-28/</id>
-        <link href="https://rs-clair-de-lune.com/2023-02-28/"/>
-        <updated>2023-02-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2月の終わり。個人事業主にとっては頭の痛いシーズンがやってきました。年に一度、お金と真剣に向き合わなければならない期間！
-昨年の私は悠々とした…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】赤石育成日記＃５０　リトルまったり育成]]></title>
-        <id>https://www.youtube.com/watch?v=c8UnEhxqVMM</id>
-        <link href="https://www.youtube.com/watch?v=c8UnEhxqVMM"/>
-        <updated>2023-02-27T23:48:06.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
