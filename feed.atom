@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T13:49:20.496Z</updated>
+    <updated>2023-03-30T14:17:40.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1387,17 +1387,6 @@ WBC見ながらブログ更新している風です。
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年1～2月総括【RED STONE】]]></title>
-        <id>https://chorrealism.com/?p=3572</id>
-        <link href="https://chorrealism.com/redstone/su230228/"/>
-        <updated>2023-03-01T01:59:03.000Z</updated>
-        <summary type="html"><![CDATA[去年の年末から転職活動！なんやかんやで本命だった会社に内定をいただく。12月の最終週に適性検査の玉手箱を受けて、そこから3回の面接を経て内定まで一ヶ月半…思ったより時間かかったなぁ…。 この間のRSでの活動はというと、レ […]
-The post 2023年1～2月総括【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
-        <author>
-            <name>cho</name>
         </author>
     </entry>
 </feed>
