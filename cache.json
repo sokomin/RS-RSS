@@ -6,6 +6,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202304010000/",
+          "author": "そこらの民衆",
+          "description": "ウポス補助武器の成功確率は段階（１～３０）によって変動します。5レベルごとにセーブポイントがあり、そこまでどう頑張って到達するか？のゲームとなります。（素材の必要個数は1~10が5個、11~20が7個、21～30...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202304010000/",
+          "publishedOn": "2023-03-31T22:44:46.000Z",
+          "wordCount": 1050,
+          "title": "ウポス補助武武器強化と確率計算～chatGPTを添えて～",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/72ded611dea1e00e09aeed76c8e7ae3c288c435c.10.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202302030000/",
           "author": "そこらの民衆",
           "description": "chromeのキャッシュがなぜか大量にディレクトリの上側に生成されていたので、それを掃除する話気づいたらProgram Files以下に大量のファイルが…まず、これが何なのかbingAIにきいてみたchrome_BITS_***_***という...",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T22:28:28.247Z</updated>
+    <updated>2023-03-31T22:48:29.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウポス補助武武器強化と確率計算～chatGPTを添えて～]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202304010000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202304010000/"/>
+        <updated>2023-03-31T22:44:46.000Z</updated>
+        <summary type="html"><![CDATA[ウポス補助武器の成功確率は段階（１～３０）によって変動します。5レベルごとにセーブポイントがあり、そこまでどう頑張って到達するか？のゲームとなります。（素材の必要個数は1~10が5個、11~20が7個、21～30...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[九州旅行。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-484.html</id>
