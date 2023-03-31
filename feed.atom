@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T03:19:10.153Z</updated>
+    <updated>2023-03-31T03:31:01.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1335,16 +1335,6 @@ WBC見ながらブログ更新している風です。
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2月26日Gv結果（VSくらえーさん）]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202303020000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202303020000/"/>
-        <updated>2023-03-01T15:29:15.000Z</updated>
-        <summary type="html"><![CDATA[※ギルド名は通称で敬称略対戦日　対戦ギルド　　LA数　死亡数　得点/失点　　　勝敗　制限　　　1月15日　三顧　　　　14LA　2死　100900対162538　負　30万（単体40万）1月22日　武神　　　　12LA　3死　 80210...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
