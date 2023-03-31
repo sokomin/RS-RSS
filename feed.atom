@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T23:28:45.098Z</updated>
+    <updated>2023-03-31T23:48:22.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソフトバンクホークス。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-485.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-485.html"/>
+        <updated>2023-03-31T23:32:21.000Z</updated>
+        <summary type="html"><![CDATA[おはようございます。日本で2番目に大きい球場です。臨場感があります。鷹弁です。ソフトバンクVSロッテマリーンズ。4ー0でソフトバンクが勝利勝利しました。ドームですが花火が上がります。迫力があり、とても楽しかったです。読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウポス補助武武器強化と確率計算～chatGPTを添えて～]]></title>
         <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202304010000/</id>
