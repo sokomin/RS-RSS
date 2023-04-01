@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T23:48:22.521Z</updated>
+    <updated>2023-04-01T01:24:54.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023.3月のドロップ~♪]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/66d8252370ec1312dd3e6d22b282f866</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/66d8252370ec1312dd3e6d22b282f866?fm=rss"/>
+        <updated>2023-04-01T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[4月になりました。
+
+
+
+
+
+物理IDが久々に霊珠をだしました。
+闘士はコンスタントにU品出していますね。ゴミだけどｗ
+
+
+テイマが物理タイプから知識タイプに変えたのですが、微妙に使い勝手が悪い(´・ω・`)
+そろそろもう１つの覚醒タイプであるペットを3体持てるやつに変えようか悩み中です。
+まぁ試してみるのが大切だよね。
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソフトバンクホークス。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-485.html</id>
