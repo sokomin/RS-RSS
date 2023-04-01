@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T08:32:37.688Z</updated>
+    <updated>2023-04-01T08:48:21.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1377,15 +1377,6 @@ WBC見ながらブログ更新している風です。
 　ちなみに地下墓地B1にいるアデッドロックはアイスボルトを撃ってきますが、これが水属性なのでヘ…]]></summary>
         <author>
             <name>曇りのち晴れ４８日</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウポスマイヤー秘密ダンジョン【REDSTONE / 붉은보석】]]></title>
-        <id>https://www.youtube.com/watch?v=ZnzHfCagNYc</id>
-        <link href="https://www.youtube.com/watch?v=ZnzHfCagNYc"/>
-        <updated>2023-03-02T20:40:23.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
