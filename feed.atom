@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T02:48:22.710Z</updated>
+    <updated>2023-04-01T03:18:03.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1376,16 +1376,6 @@ WBC見ながらブログ更新している風です。
         <updated>2023-03-02T20:40:23.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滅亡指Lv17と黒星700万]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202303030000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202303030000/"/>
-        <updated>2023-03-02T15:10:40.000Z</updated>
-        <summary type="html"><![CDATA[暇だったので何となく滅亡の刻印を上げてみました。Lv11→Lv16は、赤い光の刻印書DX12個で上げることができました。成功率30％のアイテムで、41％くらい成功したので「ついてるぜ！」とか思っていました。しかし、...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
