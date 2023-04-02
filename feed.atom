@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T05:48:22.704Z</updated>
+    <updated>2023-04-02T06:20:58.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メテオWIZ育成配信#3【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=qLtJYlgVM9M</id>
+        <link href="https://www.youtube.com/watch?v=qLtJYlgVM9M"/>
+        <updated>2023-04-02T05:57:42.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解放ＯＰ変換と謎の動物霊]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-192.html</id>
