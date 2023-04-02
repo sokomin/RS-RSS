@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T23:28:06.395Z</updated>
+    <updated>2023-04-02T23:48:27.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1364,16 +1364,6 @@ WBC見ながらブログ更新している風です。
         <summary type="html"><![CDATA[やるなら徹底的にやろうぜ！ってことで、黒魔に陽Pを買ってツインしてみました。光Pの方は、↓こんな感じでけっこう使えるので、狩り専の間はこれを陽Pに変更する必要性は無いです。・指の解放について３解放済の...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[２月２２日【Gravity】様の２周年イベントに参加してきたよ]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1115.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1115.html"/>
-        <updated>2023-03-04T11:45:36.000Z</updated>
-        <summary type="html"><![CDATA[ハニーレモネードです、こんばんは～もう先月のことになってしまいましたが、22日は【Gravity】様の創立2周年記念イベントにお邪魔してきました。かつてプリメの『ドミノ発表会（ドミノGV）』で対戦していただいたりといろいろご縁のあるギルドです。プリメのメンバー（＋【Gravity】様の姫さまたち）でドミノをしたりクイズ（ミニゲーム）をやったりとかですね。今回実施したプリメのクイズ（ミニゲーム）は２種類◆ケーキクイズ（]]></summary>
-        <author>
-            <name>リン・ドール</name>
         </author>
     </entry>
 </feed>
