@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T15:18:33.196Z</updated>
+    <updated>2023-04-04T15:30:31.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1322,16 +1322,6 @@ WBC見ながらブログ更新している風です。
         <summary type="html"><![CDATA[ナス橋付近からこんにちは。ビーストテイマー／サマナー再改変の影響で、心臓もぐもぐ勢になった第三の猫です。ところで、カラフルトカゲさんって元からこんな色でしたっけ？と思って過去のスクリーンショットを調べてみたところ、どちらかというと第三の猫の方が色違いでした。それなら大丈夫ですね。何が？スキル「協同：波長」を試す第三の猫。全員で攻撃している感じがいいですね。新特技である分身攻撃を繰り出すカラフルトカ]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レベリングの壁と乗り越え方(自己流)]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-934.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-934.html"/>
-        <updated>2023-03-06T03:17:47.000Z</updated>
-        <summary type="html"><![CDATA[自身が感じたレベリング時の壁と、自己流の乗り越え方を書いてみる。・最初の壁　Lv900 〜 Lv950とにかく、レベルが上がり難い。狩場は地下墓地B1、2、3と薄暗く湿っぽい雰囲気で、775UMUに価値が無い今となってはドロップも期待できず、モチベ維持に一苦労。おそらく、ここを超えられずに休止、引退するケースが最も多いと予想。個人的な乗り越え方ギルドデイリー、ディメンション、マキナ消化を毎日欠かさず実施。ユスピナ持参で]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
