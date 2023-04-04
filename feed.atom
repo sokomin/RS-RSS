@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T20:48:08.325Z</updated>
+    <updated>2023-04-04T21:15:01.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1312,16 +1312,6 @@ WBC見ながらブログ更新している風です。
         <summary type="html"><![CDATA[前回ネクロでテイムできなかったペットを捕獲し試してみたのですがオオカミ少年に適したものはどれなのかな？と思い再度色々試してみました＾＾ちなみにですが装備でペットの強さは左右されるようなのでテイム装備（信義の）と狩り装備ではカカシでのペットのダメは倍くらい違いがありやはり物理ネクロには物理系ペットがいいかなと思いました＾＾今回試したのはまずブレーガーでこれは基本ゾンビと同じで通常2発の攻撃とたまに500]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分身するもの、しないもの]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-190.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-190.html"/>
-        <updated>2023-03-06T09:12:39.000Z</updated>
-        <summary type="html"><![CDATA[ナス橋付近からこんにちは。ビーストテイマー／サマナー再改変の影響で、心臓もぐもぐ勢になった第三の猫です。ところで、カラフルトカゲさんって元からこんな色でしたっけ？と思って過去のスクリーンショットを調べてみたところ、どちらかというと第三の猫の方が色違いでした。それなら大丈夫ですね。何が？スキル「協同：波長」を試す第三の猫。全員で攻撃している感じがいいですね。新特技である分身攻撃を繰り出すカラフルトカ]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
