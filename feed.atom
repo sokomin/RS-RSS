@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T12:41:29.130Z</updated>
+    <updated>2023-04-05T13:29:47.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日常。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-489.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-489.html"/>
+        <updated>2023-04-05T12:52:48.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。密会。今更ですが、らっきー♪何が出るかな。高かったけど今は…(笑)サブのテイマーが928Lvです。読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.4.5 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/aa4c4a6c3ef1cded095ff3a4632fbbe4</id>
