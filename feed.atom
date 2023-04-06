@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T02:52:30.710Z</updated>
+    <updated>2023-04-06T03:17:55.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1364,16 +1364,6 @@ WBC見ながらブログ更新している風です。
         <summary type="html"><![CDATA[魔力抽出ふたたび・・・パワキ美味しいです（　＾ω＾）]]></summary>
         <author>
             <name>pera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ネクロのペット変化（終局）]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-356.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-356.html"/>
-        <updated>2023-03-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前回ネクロでテイムできなかったペットを捕獲し試してみたのですがオオカミ少年に適したものはどれなのかな？と思い再度色々試してみました＾＾ちなみにですが装備でペットの強さは左右されるようなのでテイム装備（信義の）と狩り装備ではカカシでのペットのダメは倍くらい違いがありやはり物理ネクロには物理系ペットがいいかなと思いました＾＾今回試したのはまずブレーガーでこれは基本ゾンビと同じで通常2発の攻撃とたまに500]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
