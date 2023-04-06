@@ -77,16 +77,6 @@
           "wordCount": 1135,
           "title": "ペットのステータスについて",
           "imageUrl": null
-        },
-        {
-          "id": "http://akira773.blog22.fc2.com/blog-entry-770.html",
-          "author": "リヤン",
-          "description": "どうもお元気ですか新しいテイマサマナ楽しんでますか？私はここのところRS三昧というか検証と日課に追われており狩りを楽しむのはもう少し先になりそうですまだまだ検証したいことがいっぱいあってな(´～｀)さて今回は本体のステータスとペットの関係について、です。",
-          "link": "http://akira773.blog22.fc2.com/blog-entry-770.html",
-          "publishedOn": "2023-03-08T00:58:17.000Z",
-          "wordCount": 457,
-          "title": "本体のステータスとペットの関係",
-          "imageUrl": null
         }
       ]
     },
@@ -1065,6 +1055,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-490.html",
+          "author": "medaka1985",
+          "description": "こんばんは。アメリカンフットボールかな。久々のドロップ。ペットのステータスです。シーフが1031Lvです。読んでくれてありがとうございます。お疲れさまです。",
+          "link": "https://medaka1985.fc2.net/blog-entry-490.html",
+          "publishedOn": "2023-04-06T13:01:07.000Z",
+          "wordCount": 1017,
+          "title": "赤い光。",
+          "imageUrl": "https://blog-imgs-165.fc2.com/m/e/d/medaka1985/20230406215711386.png"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-489.html",
           "author": "medaka1985",
