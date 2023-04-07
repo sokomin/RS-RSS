@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T03:18:11.019Z</updated>
+    <updated>2023-04-07T03:30:23.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1295,16 +1295,6 @@ WBC見ながらブログ更新している風です。
         <summary type="html"><![CDATA[まず、2個目のT力皆既日食4解放を購入しました。魔法強化が400を下回っているので、皆既日食を使う意味は十分あります。・MBの進捗まずMB1についてMB1やっと終了しました。最後の”レイドで与ダメいくつ与える”み...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[忘れていたわけじゃない]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-954.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-954.html"/>
-        <updated>2023-03-08T15:22:26.000Z</updated>
-        <summary type="html"><![CDATA[帰った時間的に無理ゲーだっただけ【配布品とか】・継続感謝プレゼント・精鋭討伐で箱がもらえなかった期間にクリアした数だけ箱補填いつものあれです。【ボックスがドロップ】3/29(水)メンテまで。すでに色々ある中に乱入してきたいつものボックスドロップ。なんか普段よりドロップ率は上がってるらしい。その分質がお察しになるのはいつもの一応この手のやつは自動取得だが…鞄圧迫は加速する？とりあえずの詳細【フラッシュロト]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
