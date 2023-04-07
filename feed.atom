@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T16:22:24.549Z</updated>
+    <updated>2023-04-07T16:48:31.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1305,16 +1305,6 @@ WBC見ながらブログ更新している風です。
         <summary type="html"><![CDATA[https://orientalrose4.blog.fc2.com/blog-entry-266.html]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔の進捗状況]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202303090000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202303090000/"/>
-        <updated>2023-03-09T04:43:40.000Z</updated>
-        <summary type="html"><![CDATA[まず、2個目のT力皆既日食4解放を購入しました。魔法強化が400を下回っているので、皆既日食を使う意味は十分あります。・MBの進捗まずMB1についてMB1やっと終了しました。最後の”レイドで与ダメいくつ与える”み...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
