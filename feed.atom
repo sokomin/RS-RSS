@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T02:36:36.152Z</updated>
+    <updated>2023-04-08T02:48:44.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【雀魂】三麻　何切る問題（回し打ち）]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202303010000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202303010000/"/>
+        <updated>2023-04-08T02:46:28.000Z</updated>
+        <summary type="html"><![CDATA[本日の何切る問題はこれ！状況は平場ですが手牌が尋常なく偏っている状況ツイッターで似たような場面見たことあり、よく考えればこの手の場面は答えがほぼ絞られます。さぁ何を切る？どうする？（※実際にこういう...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[和風。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-491.html</id>
