@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T14:13:48.287Z</updated>
+    <updated>2023-04-08T14:28:25.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1262,6 +1262,16 @@ ON/OFFスキルではなく、攻撃対象に使用するようです。
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[弥生のごあいさつ]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-961.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-961.html"/>
+        <updated>2023-03-10T23:07:23.000Z</updated>
+        <summary type="html"><![CDATA[ごきげんよう…|ヮ；)､動画だけの謎記事に「？？」となられた方はごめんなさい。あとで文章を足してＵＰするよう下書き保存したつもりが、公開になっておりました。イヴァさん教えてくださってありがとう愛してる大変失礼いたしました(まだ赤面で顔が熱い)。赤石のＳＳも添えるつもりで編集中でしたけれど、雑記を先にＵＰします。◆◆◆◆◆◆予想通りあっという間に3月になってしまった感がございますけれど、お元気でいらっしゃいます]]></summary>
+        <author>
+            <name>アル・シェリ</name>
         </author>
     </entry>
     <entry>
