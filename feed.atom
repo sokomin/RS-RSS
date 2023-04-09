@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-09T05:48:22.618Z</updated>
+    <updated>2023-04-09T06:21:00.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知識獣人育成配信#4【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=i3PJRaMWEzE</id>
+        <link href="https://www.youtube.com/watch?v=i3PJRaMWEzE"/>
+        <updated>2023-04-09T05:58:26.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[討伐。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-492.html</id>
