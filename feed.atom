@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T14:15:46.995Z</updated>
+    <updated>2023-04-10T14:28:31.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[遅ればせながら]]></title>
+        <id>tag:blogger.com,1999:blog-6041969618045088376.post-3113595071514581851</id>
+        <link href="https://rs-kumapon.blogspot.com/2023/04/blog-post.html"/>
+        <updated>2023-04-10T14:16:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年もよろしくお願いします(遅]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再びログインキャンペーン　20日目]]></title>
         <id>https://ankokuprpr.blog.fc2.com/blog-entry-16.html</id>
