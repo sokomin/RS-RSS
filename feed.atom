@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T12:32:22.513Z</updated>
+    <updated>2023-04-10T12:57:50.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SUSHI食べたい。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-494.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-494.html"/>
+        <updated>2023-04-10T12:41:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。マグロ尽くし。見て下さって誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[希望の橋　対決オナクシヌ　【ウポスマイヤー秘密】]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-794.html</id>
