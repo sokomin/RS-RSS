@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T22:48:32.842Z</updated>
+    <updated>2023-04-10T23:17:09.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1106,16 +1106,6 @@ That being said, I will clean them up a bit tonight prob (fix some outdated info
         <summary type="html"><![CDATA[野球が盛り上がってますねー私もわくわくしながら見ていますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光奏師日記NEO　装備作成してる時が一番RSやってる実感わく]]></title>
-        <id>https://ankokuprpr.blog.fc2.com/blog-entry-12.html</id>
-        <link href="https://ankokuprpr.blog.fc2.com/blog-entry-12.html"/>
-        <updated>2023-03-12T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[皆さまこんにちわここ最近は物価上昇よりも花粉症に殺されそうになってますperaです今はチュートリアルクエストなるものおかげでレベル上げもサクサクと行えるようになっていますね。同時にクリア報酬でいろいろアイテムも手に入ってインベントリを圧迫しながら様々なコンテンツをお試しできるって訳ですね。今回はそんなデリンのクエストで手に入れた混沌の破片200個を使って破片強化指の作成に挑戦します(ﾟдﾟ)！破片強化指…復帰]]></summary>
-        <author>
-            <name>pera</name>
         </author>
     </entry>
 </feed>
