@@ -374,16 +374,6 @@
           "wordCount": 1532,
           "title": "黒魔のMB3完了",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/92d8c9de5d066d7e1e0fc3e822ee780566ee66ba.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202303120000/",
-          "author": "雷神の弓",
-          "description": "もう１個の滅亡もLv17に上げました。しばらくこのコンテンツに手を出したくない気分でしたが、自分で拾った赤い光の刻印書DXが成功したので、つい欲に負けてまたやってしまいました。途中まで成功率40％前後だっ...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202303120000/",
-          "publishedOn": "2023-03-12T02:05:39.000Z",
-          "wordCount": 1461,
-          "title": "PVP攻撃が253％になりました",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/5b40a95a5d08f1b47fd3db083a6b2a283ac53de9.73.9.9.3.png"
         }
       ]
     },
@@ -967,6 +957,16 @@
       "feedUrl": "https://ankokuprpr.blog.fc2.com/?xml",
       "siteUrl": "https://ankokuprpr.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://ankokuprpr.blog.fc2.com/blog-entry-16.html",
+          "author": "pera",
+          "description": "記事はなかなか更新しないけどログインはしてますよプチポタとパワキありがた",
+          "link": "https://ankokuprpr.blog.fc2.com/blog-entry-16.html",
+          "publishedOn": "2023-04-10T14:00:00.000Z",
+          "wordCount": 246,
+          "title": "再びログインキャンペーン　20日目",
+          "imageUrl": "https://blog-imgs-165.fc2.com/a/n/k/ankokuprpr/20230410224041a47.jpg"
+        },
         {
           "id": "https://ankokuprpr.blog.fc2.com/blog-entry-15.html",
           "author": "pera",

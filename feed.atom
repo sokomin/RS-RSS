@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T13:48:22.484Z</updated>
+    <updated>2023-04-10T14:15:46.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[再びログインキャンペーン　20日目]]></title>
+        <id>https://ankokuprpr.blog.fc2.com/blog-entry-16.html</id>
+        <link href="https://ankokuprpr.blog.fc2.com/blog-entry-16.html"/>
+        <updated>2023-04-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[記事はなかなか更新しないけどログインはしてますよプチポタとパワキありがた]]></summary>
+        <author>
+            <name>pera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUSHI食べたい。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-494.html</id>
@@ -1105,16 +1115,6 @@ That being said, I will clean them up a bit tonight prob (fix some outdated info
         <updated>2023-03-12T09:12:24.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PVP攻撃が253％になりました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202303120000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202303120000/"/>
-        <updated>2023-03-12T02:05:39.000Z</updated>
-        <summary type="html"><![CDATA[もう１個の滅亡もLv17に上げました。しばらくこのコンテンツに手を出したくない気分でしたが、自分で拾った赤い光の刻印書DXが成功したので、つい欲に負けてまたやってしまいました。途中まで成功率40％前後だっ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
