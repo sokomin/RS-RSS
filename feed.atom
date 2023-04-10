@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T20:48:18.016Z</updated>
+    <updated>2023-04-10T21:15:33.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1116,15 +1116,6 @@ That being said, I will clean them up a bit tonight prob (fix some outdated info
         <summary type="html"><![CDATA[皆さまこんにちわここ最近は物価上昇よりも花粉症に殺されそうになってますperaです今はチュートリアルクエストなるものおかげでレベル上げもサクサクと行えるようになっていますね。同時にクリア報酬でいろいろアイテムも手に入ってインベントリを圧迫しながら様々なコンテンツをお試しできるって訳ですね。今回はそんなデリンのクエストで手に入れた混沌の破片200個を使って破片強化指の作成に挑戦します(ﾟдﾟ)！破片強化指…復帰]]></summary>
         <author>
             <name>pera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テイマwithペット3体 育成配信#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=_H7IuCYyqxc</id>
-        <link href="https://www.youtube.com/watch?v=_H7IuCYyqxc"/>
-        <updated>2023-03-12T09:12:24.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
