@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T02:53:12.319Z</updated>
+    <updated>2023-04-11T03:17:56.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1096,16 +1096,6 @@ That being said, I will clean them up a bit tonight prob (fix some outdated info
         <summary type="html"><![CDATA[MB3が終わったので、クリーチャーいじりを再開しました。まず、↓これを完成させました。Nクリーチャーベースですが、3パッシブで作りました。これをパッシブに組み込みつつ、ヴァルキリーの変換も実施して上級経...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超越スキルを見直しました]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-790.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-790.html"/>
-        <updated>2023-03-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[野球が盛り上がってますねー私もわくわくしながら見ていますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
