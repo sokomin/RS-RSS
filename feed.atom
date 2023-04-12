@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T08:48:26.943Z</updated>
+    <updated>2023-04-12T09:17:00.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1161,16 +1161,6 @@ That being said, I will clean them up a bit tonight prob (fix some outdated info
         <summary type="html"><![CDATA[現在わたしの持ちキャラで1000を超えているのはメインネクロのオオカミ少年と姫のぷぷりの2キャラなのですがディメが簡単になった事でいままでより多くのキャラをディメに行かせることができるようになったのでサブキャラ達はこれまでのペースより早く成長しています＾＾昔は1日2～3キャラ程度しかディメ回してないんですけど今5～6キャラ行ってるかな…その結果ディメ行ってるだけなのですが1000に近くなってきたキャラたちがいま]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】1700～の経験値テーブルまとめ]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202303140000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202303140000/"/>
-        <updated>2023-03-13T21:14:35.000Z</updated>
-        <summary type="html"><![CDATA[前回までの経験値テーブルの話(1~2000)今回のアップデートで新狩場が実装されたので、恒例の経験値テーブル確認タイム！実際にレベルを上げて必要経験値がいくつなのか確認させていただきました。以下ツイートの...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
