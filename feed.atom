@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T23:48:25.595Z</updated>
+    <updated>2023-04-12T01:22:01.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1106,16 +1106,6 @@ That being said, I will clean them up a bit tonight prob (fix some outdated info
         <summary type="html"><![CDATA[前回までの経験値テーブルの話(1~2000)今回のアップデートで新狩場が実装されたので、恒例の経験値テーブル確認タイム！実際にレベルを上げて必要経験値がいくつなのか確認させていただきました。以下ツイートの...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ログインキャンペーン完走]]></title>
-        <id>https://ankokuprpr.blog.fc2.com/blog-entry-13.html</id>
-        <link href="https://ankokuprpr.blog.fc2.com/blog-entry-13.html"/>
-        <updated>2023-03-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[25日でいいんですねパワキがもう少し欲しかったですがとりあえず完走できてよかったです]]></summary>
-        <author>
-            <name>pera</name>
         </author>
     </entry>
 </feed>
