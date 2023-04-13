@@ -57,18 +57,7 @@
       "title": "リヤンのペット図鑑+だらだら戯言日記 in RS",
       "feedUrl": "https://akira773.blog22.fc2.com/?xml",
       "siteUrl": "http://akira773.blog22.fc2.com/",
-      "articles": [
-        {
-          "id": "http://akira773.blog22.fc2.com/blog-entry-771.html",
-          "author": "リヤン",
-          "description": "どうも\r\nお元気ですか\r\n\r\nさて今回はペットのステータスについて、です。\r\n本体のステータスとペットのステータスの関係は前回の記事でやりました。\r\nでは、全体的にペットのステータスはどういう風になっているのか、何か特徴があるのか\r\nということでペットのステータスを全部書きだした一覧を作りました。\r\nそしてそれを眺めるだけの記事です。\r\nなお、改変後からは「ペットのステータスは本体依存」なので「人によって違います",
-          "link": "http://akira773.blog22.fc2.com/blog-entry-771.html",
-          "publishedOn": "2023-03-15T03:49:51.000Z",
-          "wordCount": 1135,
-          "title": "ペットのステータスについて",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ミツリンの記録簿",
