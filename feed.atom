@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T19:13:28.298Z</updated>
+    <updated>2023-04-15T19:28:28.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1160,22 +1160,6 @@ Instead of lo…]]></summary>
         <updated>2023-03-17T11:27:08.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yet another design change (yea yea, I know, but hear me out)]]></title>
-        <id>tag:blogger.com,1999:blog-622089654895304373.post-4149685511701872107</id>
-        <link href="https://diaanrs.blogspot.com/2023/03/yet-another-design-change-yea-yea-i.html"/>
-        <updated>2023-03-17T07:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The main reason that I decided to change this up again, is that I found an issue with the old blog background (it had several spots where it didn't line up) that I only noticed tonight...
-That being said, I hope y'all like this new design more~
-
-
-(I will start on the update post later today (I say today, cuz it is currently almost 2:30am here) and have the update for the build guide done at the same time)
-Update is posted, I had misread the monk update as being a complete (PvE + PvP) change, but it is only PvP so I don't need to update the build guides heh
-That being said, I will clean them up a bit tonight prob (fix some outdated info, IE: wind monk)]]></summary>
-        <author>
-            <name>noreply@blogger.com (Unknown)</name>
         </author>
     </entry>
 </feed>
