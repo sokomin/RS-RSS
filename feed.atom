@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T02:23:03.417Z</updated>
+    <updated>2023-04-15T03:18:05.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1166,16 +1166,6 @@ Update is posted, I had misread the monk update as being a complete (PvE + PvP) 
 That being said, I will clean them up a bit tonight prob (fix some outdated info, IE: wind monk)]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次回、ぺいぺい死す]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-956.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-956.html"/>
-        <updated>2023-03-16T14:36:36.000Z</updated>
-        <summary type="html"><![CDATA[デュエルスタ…え？【PayPay決済終了のおしらせ】どうやら2023年3月31日（金）をもってPayPayによる決済を終了するということです。…あれ、一時的に利用停止してなかったっけ。原因は不正決済による購入らしいよ。去年の末ごろから継続的に起きていたんだってさ。再発の可能性があるから終了とのこと。これも全部、詳細って奴の仕業なんだ結局帰ってくることはなかったのであったおわり]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
