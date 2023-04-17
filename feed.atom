@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T03:48:13.619Z</updated>
+    <updated>2023-04-17T04:21:28.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1140,15 +1140,6 @@ Instead of lo…]]></summary>
         <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202212220000/"/>
         <updated>2023-03-19T14:54:21.000Z</updated>
         <summary type="html"><![CDATA[AWS Certified Solutions Architect - Associateの資格を取得したので、その時の感想の話とかを備忘録として残しておきます。概要AWS SAAとは、「AWS Certified Solutions Architect - Associate」の略称で、AWS...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サマナwith召喚獣3体 育成配信#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=0R2BDJPO1ew</id>
-        <link href="https://www.youtube.com/watch?v=0R2BDJPO1ew"/>
-        <updated>2023-03-18T15:54:19.000Z</updated>
         <author>
             <name>そこらの民衆</name>
         </author>
