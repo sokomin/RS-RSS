@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T10:48:26.229Z</updated>
+    <updated>2023-04-17T11:15:27.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レベル上げ連続配信挑戦１日目！]]></title>
+        <id>https://www.youtube.com/watch?v=fgh9tWgIQfY</id>
+        <link href="https://www.youtube.com/watch?v=fgh9tWgIQfY"/>
+        <updated>2023-04-17T10:46:01.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石の日でした]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-795.html</id>

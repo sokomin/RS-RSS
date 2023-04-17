@@ -242,7 +242,18 @@
       "title": "ロイ4世",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA",
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fgh9tWgIQfY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fgh9tWgIQfY",
+          "publishedOn": "2023-04-17T10:46:01.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レベル上げ連続配信挑戦１日目！",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "ひさプッチ",
