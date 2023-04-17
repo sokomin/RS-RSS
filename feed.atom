@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T11:48:19.152Z</updated>
+    <updated>2023-04-17T12:34:52.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[八宝菜。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-501.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-501.html"/>
+        <updated>2023-04-17T11:48:26.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。中華料理です。読んでくれてありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レベル上げ連続配信挑戦１日目！]]></title>
         <id>https://www.youtube.com/watch?v=fgh9tWgIQfY</id>
