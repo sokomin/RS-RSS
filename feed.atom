@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T05:28:58.321Z</updated>
+    <updated>2023-04-18T05:48:09.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1151,16 +1151,6 @@ V: Change of NPC Models
 Instead of lo…]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔のパッシブとアリーナGvをやめる件について]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202303200000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202303200000/"/>
-        <updated>2023-03-19T17:28:17.000Z</updated>
-        <summary type="html"><![CDATA[まずは黒魔のパッシブガチャが終わったのでSSを貼ります。マナ4000ガチャ２回目で上級攻撃速度を引きました。狙っていたパッシブと違いますが、よく考えてみたら旗バフが切れたら5フレなので、攻撃速度が必要だと...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
