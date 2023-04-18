@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T02:52:57.278Z</updated>
+    <updated>2023-04-18T03:18:12.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1161,26 +1161,6 @@ Instead of lo…]]></summary>
         <summary type="html"><![CDATA[まずは黒魔のパッシブガチャが終わったのでSSを貼ります。マナ4000ガチャ２回目で上級攻撃速度を引きました。狙っていたパッシブと違いますが、よく考えてみたら旗バフが切れたら5フレなので、攻撃速度が必要だと...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花粉症と石の日]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-791.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-791.html"/>
-        <updated>2023-03-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[マスクを外しても良いとの事ですが一年中花粉に苦しむ私はやはりつけたまま外出していますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS SAA C03資格取った時の話]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202212220000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202212220000/"/>
-        <updated>2023-03-19T14:54:21.000Z</updated>
-        <summary type="html"><![CDATA[AWS Certified Solutions Architect - Associateの資格を取得したので、その時の感想の話とかを備忘録として残しておきます。概要AWS SAAとは、「AWS Certified Solutions Architect - Associate」の略称で、AWS...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
