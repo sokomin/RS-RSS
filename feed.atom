@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T07:28:14.943Z</updated>
+    <updated>2023-04-18T07:48:16.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1109,58 +1109,6 @@ RSのこのキャラたちは年齢重ねてる設定じゃないとは思うん
         <updated>2023-03-20T08:28:08.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March 2023 Update Guide (COMPLETE Guide)]]></title>
-        <id>tag:blogger.com,1999:blog-622089654895304373.post-4464388338560843766</id>
-        <link href="https://diaanrs.blogspot.com/2023/03/march-2023-update-guide-complete-guide.html"/>
-        <updated>2023-03-19T19:44:00.000Z</updated>
-        <summary type="html"><![CDATA[TABLE OF CONTENTS
-I: Monk PvP Balance Patch
-II: 1250 UMU Weapons
-III: 1250 UMU Armor
-IV: Maximum Damage Limit Increase
-V: Change of NPC Models
-VI: Grinding Slot Option Converting System
-VII: Various Content Reward/Loot Changes
-VIII: Mirror Field Changes/Additions
-IX: Lvl 1500+ Content Participation Difficulty Decreased 
-X: Notes
-
-
-I: Monk PvP Balance Patch
-There was apparently an error in the damage % numbers, they changed that and below are the tables
-
-
-
-
-
-
-
-Oh, also a nerf to utility as well ^
-
-
-
-
-II: 1250 UMU Weapons
-
-
-
-III: 1250 UMU Armor
-
-
-
-
-
-IV: Maximum Damage Limit Increase
-The damage cap has been raised from 21.4M to 40M (you will notice this with your BTL on magic side, my demon did 40ks+ at low level with btl 1 so yea...this is a huge plus)
-
-
-V: Change of NPC Models
-Instead of lo…]]></summary>
-        <author>
-            <name>noreply@blogger.com (Unknown)</name>
         </author>
     </entry>
 </feed>
