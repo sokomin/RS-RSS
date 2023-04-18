@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T10:32:07.388Z</updated>
+    <updated>2023-04-18T10:48:11.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レベル上げ連続配信挑戦２日目！]]></title>
+        <id>https://www.youtube.com/watch?v=ScEEYiriP9Y</id>
+        <link href="https://www.youtube.com/watch?v=ScEEYiriP9Y"/>
+        <updated>2023-04-18T10:06:21.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[庭にて。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-502.html</id>
