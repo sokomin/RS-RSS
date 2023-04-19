@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T23:17:38.793Z</updated>
+    <updated>2023-04-19T23:29:45.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1176,15 +1176,6 @@ RSのこのキャラたちは年齢重ねてる設定じゃないとは思うん
         <summary type="html"><![CDATA[​​こんにちは！​ブログ開始時点でのサマナーを紹介します。簡単な自己紹介にお付き合いください。​​ということで、まずはこちらをご覧ください。​かわいい！​​​​はいかわいい！​早く笛になりたいです。おススメの...]]></summary>
         <author>
             <name>ほしめろちゃん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メインWIZの装備を整える#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=mfmvD_F8tXo</id>
-        <link href="https://www.youtube.com/watch?v=mfmvD_F8tXo"/>
-        <updated>2023-03-21T11:19:03.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
