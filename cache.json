@@ -458,6 +458,16 @@
       "siteUrl": "https://extremetrailblazer.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-965.html",
+          "author": "Trailblazer",
+          "description": "今更（実装してまもなく）【次元PTボスって？】150レべから50レべ間隔で実装された狩場。敵レベルはそこから±15の範囲で出現。プレミアムマップのため、要スフィア関連のアイテム。一つのマップに1体の敵がまだらに現れます。一律で40秒わきです。適性だとそれなりの耐久力はある…かな？ガイドや古都の協会NPCから飛べます。記憶可能。ただしミラーはないです。場所によっては…うん。以降に各マップと敵を紹介。経験値は…まだ測定",
+          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-965.html",
+          "publishedOn": "2023-04-19T11:08:05.000Z",
+          "wordCount": 114,
+          "title": "今更には早すぎる次元マップのあれ",
+          "imageUrl": null
+        },
+        {
           "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-964.html",
           "author": "Trailblazer",
           "description": "あー…やっぱり？【Ver0.0790アップデート】公式で確認するならこれ順番に…◆Lv800～899ディメンション・ハブ追加◆とうとう800台でもディメなんとかの恩恵を受けられます。得られるマキナが10％ではありますが…（100％までは蓄積する。平日貯めて休日に使うってやり方ができる）それと適正の階層にて、多次元結晶を80個使うことでクリア経験値を上昇させることができます。あとは…主要目的と補助目的が統合されたくらい？それと多次",
@@ -755,6 +765,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/06d73cf0192e883f6e620dcc07436c52",
+          "author": null,
+          "description": "筋トレの一環としてスクワットをしていました。\n\n\n\n\n\n\n\n(3)ボックスドロップイベント\n\n3月8日メンテ後から3月29日メンテ前まで\n「超ドリームBoxⅡ」 や、覚醒石、ネフォンクリーチャーのマナといったアイテムが出現する、『プレシャスハンティングBox』がドロップします！\n前期（9/7から9/21：「コンテスト装備BOX」\n後期（9/21から10/5）：「コンテスト装備BOXⅡ」\n後期「コンテスト装備BOXⅡ」がドロップします。 -->\n\n\n\n\n\n\n4月12日メンテ後から4月26日メンテ前まで\n\n\n通常イベントが来週終わるので、来週はGW前のイベント更新がありそうですね。\n何があるんだろう。\nまぁ経験値アップイベントや箱ドロップイベントあたりが妥当ですかね。\n\nでは今週もまったり楽しみましょう。\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/06d73cf0192e883f6e620dcc07436c52?fm=rss",
+          "publishedOn": "2023-04-19T10:30:00.000Z",
+          "wordCount": 1359,
+          "title": "2023.4.19 アプデ！",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/70/e7/2843d82545a716b494a7b6d170dd1f7c.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/b37f5ef921a735264b40e66ca14dd9c7",
           "author": null,
