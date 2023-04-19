@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T01:23:39.252Z</updated>
+    <updated>2023-04-19T02:25:40.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1099,16 +1099,6 @@ RSのこのキャラたちは年齢重ねてる設定じゃないとは思うん
         <updated>2023-03-21T07:43:47.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光奏師日記short　800000000!]]></title>
-        <id>https://ankokuprpr.blog.fc2.com/blog-entry-14.html</id>
-        <link href="https://ankokuprpr.blog.fc2.com/blog-entry-14.html"/>
-        <updated>2023-03-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[レベル800到達しました過去の自分からしたら経験したことのない未知の領域なのでいろいろと夢が広がりますねそれにしても新規で始めてわずか2か月で到達するとは今では900まではチュートリアルって言われてたりもするのも納得できてしまう（　＾ω＾）・・・今後も細々とレベルは上げていくと思います]]></summary>
-        <author>
-            <name>pera</name>
         </author>
     </entry>
 </feed>
