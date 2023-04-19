@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T19:48:29.380Z</updated>
+    <updated>2023-04-19T20:19:05.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1179,13 +1179,12 @@ RSのこのキャラたちは年齢重ねてる設定じゃないとは思うん
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[簡単レシピ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-474.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-474.html"/>
-        <updated>2023-03-21T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。①冷蔵バナナ買ってきたバナナを冷蔵庫にいれるだけ。持ちも良く、味も格段に上がります。②冷凍カロリーメイト。チーズ味はチーズケーキのような味になります。（チョコ味は旨みが増し　ザクザク感がたまりません！）目安として一晩、冷凍庫に寝かせ置くと味がひきしまります。侍ジャパンのメキシコ戦。素晴らしい試合をありがとう。サヨナラの出迎えがナウシカのエンディングに見えました（謎）いつもありがとうござい]]></summary>
+        <title type="html"><![CDATA[メインWIZの装備を整える#1【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=mfmvD_F8tXo</id>
+        <link href="https://www.youtube.com/watch?v=mfmvD_F8tXo"/>
+        <updated>2023-03-21T11:19:03.000Z</updated>
         <author>
-            <name>medaka1985</name>
+            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
