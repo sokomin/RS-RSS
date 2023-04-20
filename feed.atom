@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T02:41:56.752Z</updated>
+    <updated>2023-04-20T03:18:14.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1146,36 +1146,6 @@ RSのこのキャラたちは年齢重ねてる設定じゃないとは思うん
         <summary type="html"><![CDATA[こんにちは。良い感じ。ビーストテイマーの遺物品です。最近、攻城ギルドを作りました。まだまだですが、遊びに来て頂けると嬉しいです。毎度、読んでくれてありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[頭か首か。]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-358.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-358.html"/>
-        <updated>2023-03-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現在無課金Ｇメンえこーさんから純粋装備を借りてフルアタ狩りをしているオオカミ少年なのですがずっと借りっぱなしもどうかなと思っていたので少しずつですが装備集めをしていました＾＾けっこうベースが決まらずに悩んでたのですが足をＧメンのきなこさんから売ってもらい手も他の候補を用意してましたがＧメンのへへへさんから最近頂いたのでそちらを採用＾＾Ｇメンさんたちありがとうございます＾＾ちなみに廃案になった手のほ]]></summary>
-        <author>
-            <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魔法強打について考える（サマナーの敏捷編）]]></title>
-        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202303210001/</id>
-        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202303210001/"/>
-        <updated>2023-03-21T14:58:56.000Z</updated>
-        <summary type="html"><![CDATA[今日2回目の更新​​​​​​​​​​​結論​​知識が12,959以上​​​なら、​​​敏捷6,000強打型サマナー​​​​を目指してもいいと思う。ここまで読んでいただきありがとうございました。以下本編です。​先日の改変アプデからサマ...]]></summary>
-        <author>
-            <name>ほしめろちゃん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自己紹介（1334Lv導きの楽士サマナーのステータスなど）]]></title>
-        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202303210000/</id>
-        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202303210000/"/>
-        <updated>2023-03-21T14:44:52.000Z</updated>
-        <summary type="html"><![CDATA[​​こんにちは！​ブログ開始時点でのサマナーを紹介します。簡単な自己紹介にお付き合いください。​​ということで、まずはこちらをご覧ください。​かわいい！​​​​はいかわいい！​早く笛になりたいです。おススメの...]]></summary>
-        <author>
-            <name>ほしめろちゃん</name>
         </author>
     </entry>
 </feed>
