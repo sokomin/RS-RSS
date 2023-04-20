@@ -204,6 +204,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OlBj4Aa10Cg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OlBj4Aa10Cg",
+          "publishedOn": "2023-04-20T12:45:17.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】連続配信挑戦４日目！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oJcNa-ZIfv8",
           "author": null,
           "description": "",
@@ -923,6 +933,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-504.html",
+          "author": "medaka1985",
+          "description": "こんばんは。近未来的です。こってり味で美味しいです。読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-504.html",
+          "publishedOn": "2023-04-20T12:55:21.000Z",
+          "wordCount": null,
+          "title": "PayPayドーム。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-503.html",
           "author": "medaka1985",
