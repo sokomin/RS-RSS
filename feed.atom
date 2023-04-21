@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T04:48:22.352Z</updated>
+    <updated>2023-04-21T05:16:49.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1094,16 +1094,6 @@ RSのこのキャラたちは年齢重ねてる設定じゃないとは思うん
         <summary type="html"><![CDATA[ディアブロ3の発売から早11年。遂にディアブロ4のclosedβが始まった。今回のディアブロ4は、セミオープンワールドのオンライン仕様らしく、現地でたまたま集まった人達と協力プレイなんかも出来る。ただし、プレイするにはゲームを購入する必要があり、約1万円〜1.5万円と安くはない価格設定になっている。自分はまだ購入はしていないが、6月の正式サービス開始にあわせて購入する予定。※βテストのデータはリセットされるため、デ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装備処分の進捗]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202303230000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202303230000/"/>
-        <updated>2023-03-22T17:06:03.000Z</updated>
-        <summary type="html"><![CDATA[PVP攻撃45％クレスト×２とWダメ比率滅亡Lv17×2は、知人に売却しました。今のアリーナは物理職にとって最低最悪な環境ですが、やれるところまで頑張ってくれたらなと思います。他には、セイバー足が露店に2300で出...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
