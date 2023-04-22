@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-22T23:29:08.621Z</updated>
+    <updated>2023-04-22T23:48:35.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1061,16 +1061,6 @@
         <summary type="html"><![CDATA[プチポタたくさんうれしいですね（　＾ω＾）ログインゲーが加速していくぅ！]]></summary>
         <author>
             <name>pera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ノンアルコールビール。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-477.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-477.html"/>
-        <updated>2023-03-24T11:43:56.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。キンッキンに冷えています。枝豆が良く合います。いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
