@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T11:48:30.224Z</updated>
+    <updated>2023-04-23T12:32:05.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スフィアが切れたので]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202304230000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202304230000/"/>
+        <updated>2023-04-23T12:19:50.000Z</updated>
+        <summary type="html"><![CDATA[しばらくRSやめようと思って、１週間以上インしてなかったのですが、間違って１ヵ月のスフィアULT出しちゃいました＾＾；というわけで、１ヵ月間はデイリー（秘密は面倒なのでやらない）と精鋭討伐とレイドと露店...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夕食。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-507.html</id>
