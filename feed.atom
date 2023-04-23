@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T22:48:10.538Z</updated>
+    <updated>2023-04-23T23:16:42.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1148,16 +1148,6 @@
         <summary type="html"><![CDATA[こんばんは。ボーンキメラ。結構強いです。前から欲しかったNPC称号♪925Lv到達。もういっちょ1029Lv達成！読んでくれてありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再びログインキャンペーン　10日目]]></title>
-        <id>https://ankokuprpr.blog.fc2.com/blog-entry-15.html</id>
-        <link href="https://ankokuprpr.blog.fc2.com/blog-entry-15.html"/>
-        <updated>2023-03-25T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[プチポタたくさんうれしいですね（　＾ω＾）ログインゲーが加速していくぅ！]]></summary>
-        <author>
-            <name>pera</name>
         </author>
     </entry>
 </feed>
