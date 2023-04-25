@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T23:48:24.447Z</updated>
+    <updated>2023-04-25T01:23:52.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1138,25 +1138,6 @@
         <summary type="html"><![CDATA[野球すごかったですねとても感動しましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TUBIS育成配信#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=JDOuU6lR4v4</id>
-        <link href="https://www.youtube.com/watch?v=JDOuU6lR4v4"/>
-        <updated>2023-03-26T13:07:16.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[焼きそば。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-479.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-479.html"/>
-        <updated>2023-03-26T12:27:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。即席麺に、キャベツ＋ベーコン。フライパンで作る焼きそば、最高です。いつも読んで下さり誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
