@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T01:23:52.513Z</updated>
+    <updated>2023-04-25T02:24:50.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1128,6 +1128,15 @@
         <summary type="html"><![CDATA[こんばんは。不思議の国のアリスかな。DXUにULT称号はレアかも。今、一番欲しいNPC称号です。最後にビーストテイマーのクリーチャー。読んで下さって、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シルフラBIS育成配信#1【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=JDOuU6lR4v4</id>
+        <link href="https://www.youtube.com/watch?v=JDOuU6lR4v4"/>
+        <updated>2023-03-26T18:06:54.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
