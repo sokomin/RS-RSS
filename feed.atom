@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T13:48:30.441Z</updated>
+    <updated>2023-04-26T14:16:21.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[製錬ガード。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-511.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-511.html"/>
+        <updated>2023-04-26T14:03:06.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。コクーン商人です。製錬ガード代行、2回目で成功です。読んで貰って誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[毎日ログイン]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-966.html</id>
