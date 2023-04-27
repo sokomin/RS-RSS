@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T02:49:54.602Z</updated>
+    <updated>2023-04-27T03:18:35.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1278,16 +1278,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[chromeのキャッシュがなぜか大量にディレクトリの上側に生成されていたので、それを掃除する話気づいたらProgram Files以下に大量のファイルが…まず、これが何なのかbingAIにきいてみたchrome_BITS_***_***という...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄金コインの結果]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-359.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-359.html"/>
-        <updated>2023-03-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2/21から始まった18周年記念イベントの黄金コイン商店イベが3/29で終わりとなります！コイン枚数で色々交換できるのでもう結構なものと取引してる方が多いかと思います。ところでわたしはどうなのかと言うと…まだ何も交換していなくてコイン枚数がブログを書いてる時点でやっと98枚だったりします＾＾；なんでこんなに少ないの？？と思う方もいるのではないかと思いますが今回のイベで黄金コインを出すにはオーラを出す必要があり]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
