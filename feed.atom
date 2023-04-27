@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T01:23:37.221Z</updated>
+    <updated>2023-04-27T02:23:51.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[良い天気。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-512.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-512.html"/>
+        <updated>2023-04-27T02:11:07.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。元気に泳いでいます。いつもありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[製錬ガード。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-511.html</id>
@@ -1278,16 +1288,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[2/21から始まった18周年記念イベントの黄金コイン商店イベが3/29で終わりとなります！コイン枚数で色々交換できるのでもう結構なものと取引してる方が多いかと思います。ところでわたしはどうなのかと言うと…まだ何も交換していなくてコイン枚数がブログを書いてる時点でやっと98枚だったりします＾＾；なんでこんなに少ないの？？と思う方もいるのではないかと思いますが今回のイベで黄金コインを出すにはオーラを出す必要があり]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花屋さん。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-481.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-481.html"/>
-        <updated>2023-03-28T13:27:16.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。染井吉野（ソメイヨシノ）です。屋内には屋内の良さが有ります。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
