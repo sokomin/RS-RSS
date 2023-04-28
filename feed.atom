@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-28T07:28:34.348Z</updated>
+    <updated>2023-04-28T07:48:23.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[玄関。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-513.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-513.html"/>
+        <updated>2023-04-28T07:29:23.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。癒やされます。読んでくれてありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】連続配信挑戦１１日目！]]></title>
         <id>https://www.youtube.com/watch?v=whCDYP5nJM0</id>
