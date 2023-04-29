@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-28T23:48:22.632Z</updated>
+    <updated>2023-04-29T01:22:06.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ディメンション行ってきました]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/bb2c034bcf4dd66527f57a1971a1a8dd</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/bb2c034bcf4dd66527f57a1971a1a8dd?fm=rss"/>
+        <updated>2023-04-29T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GW前半戦が始まりました。 
+
+MOBの種類は関係なく、数を倒せばよいようです。
+
+MOBは固まって５から６体くらいずついるかな。
+
+こやつが魔法抵抗高かった。
+
+左恥の方に出入り口がありましたｗ
+
+獲得経験値107億5000万弱
+　　
+
+無事にゲットしてきました(・ω・)b
+
+エリートラクは知識型で闇系統。方向性範囲かな。
+
+エリートパンジーは物理型。
+物理型には珍しく範囲の模様。
+これはなかなかいい。
+連れている人をよく見かける理由がわかる気がする。
+
+
+あとは狩場で使ってみてどうか・・・だね。
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レベリングのための装備準備配信【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=HELlt-6zVYs</id>
@@ -1224,16 +1269,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[​​​討伐許可証​​​が1160枚たまってたので​​​ひたすらゲリオ回って​​​​500周で飽きました。​後半に続きません。（完）]]></summary>
         <author>
             <name>ほしめろちゃん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[焼き鳥。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-483.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-483.html"/>
-        <updated>2023-03-30T12:23:44.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ホテイ草が冬を越しました。圧倒的豪遊…！いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
