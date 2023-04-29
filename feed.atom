@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-29T11:48:21.131Z</updated>
+    <updated>2023-04-29T12:30:09.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1268,16 +1268,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[こんばんは。いざ、出発！福岡へ。贅沢な光景です。福岡大仏です。この仏様の裏に地獄極楽巡りが有ります。地獄極楽巡りは遊園地のお化け屋敷より、怖かったです（笑）他にも色々有りますが明日（今日）が早いので寝ます。いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大当たりを外す男]]></title>
-        <id>https://rs-clair-de-lune.com/2023-03-31/</id>
-        <link href="https://rs-clair-de-lune.com/2023-03-31/"/>
-        <updated>2023-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
 </feed>
