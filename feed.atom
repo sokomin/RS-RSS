@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-29T02:23:05.362Z</updated>
+    <updated>2023-04-29T02:48:28.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1259,16 +1259,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[…]]></summary>
         <author>
             <name>The Adventure Of The Jacks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲリオ討伐1160周の刑（前編）]]></title>
-        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202303300000/</id>
-        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202303300000/"/>
-        <updated>2023-03-30T14:46:11.000Z</updated>
-        <summary type="html"><![CDATA[​​​討伐許可証​​​が1160枚たまってたので​​​ひたすらゲリオ回って​​​​500周で飽きました。​後半に続きません。（完）]]></summary>
-        <author>
-            <name>ほしめろちゃん</name>
         </author>
     </entry>
 </feed>
