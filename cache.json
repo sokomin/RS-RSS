@@ -129,6 +129,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vwGLvvSDGO4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vwGLvvSDGO4",
+          "publishedOn": "2023-04-30T11:09:35.000Z",
+          "wordCount": null,
+          "title": "デイリー＆装備強化配信【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HELlt-6zVYs",
           "author": null,
           "description": "",
