@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T04:20:19.435Z</updated>
+    <updated>2023-04-30T04:32:24.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イケルチャレンジ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-515.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-515.html"/>
+        <updated>2023-04-30T04:24:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。今でも出るとドキっとします。この箱から出ました。討伐から。良品ドロップが続きます。闇商人の箱。炎の石、出るんですね（初めて知りました）さぁこの時がやってきました。オッス、お願いしまーす！ですよねー(笑)餞別にストレンジの欠片を頂きました。読んで頂き、誠にありがとうございます。これからも精進して行きたいと思います。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】連続配信挑戦１４日目！]]></title>
         <id>https://www.youtube.com/watch?v=ykjKE8znK98</id>
