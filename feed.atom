@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T18:48:21.676Z</updated>
+    <updated>2023-04-30T19:13:38.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1252,16 +1252,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <updated>2023-04-02T05:57:42.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解放ＯＰ変換と謎の動物霊]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-192.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-192.html"/>
-        <updated>2023-04-01T06:47:48.000Z</updated>
-        <summary type="html"><![CDATA[咲き誇る桜の花。飛び回る大量の蜂。毎年軒下に巣作りに来るのやめてほしい第三の猫です。最近話題の「解放オプション変換器」が、ついにうちにもやってきました。第6回「RED STONE PASS」で獲得できる取引不可のやつです。銀行にも預けられないみたいなので、手持ちの装備に使ってみます。対象は、第三の猫が愛用している武器。清々しいまでの１解放（完全解放）そして、変換結果。ちょっとだけ強くなりました。さらに解放した場]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
