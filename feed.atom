@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T01:26:04.590Z</updated>
+    <updated>2023-05-01T02:25:19.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[便利小技集。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-516.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-516.html"/>
+        <updated>2023-05-01T01:55:28.000Z</updated>
+        <summary type="html"><![CDATA[おはようございます。ソラの特製育成剤（プラチナ）ネネにて売る事が出来ます。30秒待たなくてもシステム→画面で戻れます。ディメンションでも出来ます。タティリスの箱。取引。最終確認。3回程、取引したところ、ラッキーな事にニケの靴出ました。読んで下さって本当にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】(ＧＷ前半)プレイ状況]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-938.html</id>
