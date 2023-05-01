@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T17:48:25.370Z</updated>
+    <updated>2023-05-01T18:20:59.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[物理アチャ促成栽培#1【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=3I5fjIlCc58</id>
+        <link href="https://www.youtube.com/watch?v=3I5fjIlCc58"/>
+        <updated>2023-05-01T17:55:49.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[動き出す800代！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-364.html</id>
@@ -1322,15 +1331,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[こんばんは。旅も終盤です。既に美味しそう。溶けるチャーシューと濃厚味玉、豚骨出汁にとろとろの麺でスープも全て飲み干しました。最後まで読んでくれて、ありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メテオWIZ育成配信#3【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=qLtJYlgVM9M</id>
-        <link href="https://www.youtube.com/watch?v=qLtJYlgVM9M"/>
-        <updated>2023-04-02T05:57:42.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
