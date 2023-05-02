@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T01:23:32.540Z</updated>
+    <updated>2023-05-02T02:23:46.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1321,25 +1321,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[週末に散歩がてら桜を見てきました私の地域はもう終盤でしたがとても綺麗でしたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メテオWIZ育成配信#3【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=qLtJYlgVM9M</id>
-        <link href="https://www.youtube.com/watch?v=qLtJYlgVM9M"/>
-        <updated>2023-04-02T13:56:03.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博多駅B1にて。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-486.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-486.html"/>
-        <updated>2023-04-02T13:26:24.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。旅も終盤です。既に美味しそう。溶けるチャーシューと濃厚味玉、豚骨出汁にとろとろの麺でスープも全て飲み干しました。最後まで読んでくれて、ありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
