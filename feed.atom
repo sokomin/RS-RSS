@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T18:48:29.437Z</updated>
+    <updated>2023-05-03T19:14:04.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1406,16 +1406,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
 　1度使うと1秒間隔で範囲攻撃を行います。持続時間は600秒間固定です。範囲はそこそこでスキルレベ…]]></summary>
         <author>
             <name>曇りのち晴れ４８日</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青汁スムージー。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-488.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-488.html"/>
-        <updated>2023-04-04T07:07:14.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。ケールと苺のスムージーです。ハラミが美味しいです。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
