@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T07:16:50.322Z</updated>
+    <updated>2023-05-03T07:29:07.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[群集は、都合の悪い事実よりも、都合のいい嘘を信じたがる]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202305030000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202305030000/"/>
+        <updated>2023-05-03T07:26:47.000Z</updated>
+        <summary type="html"><![CDATA[世界のあらゆる場所で当てはまる真理ですね。権威に従いたがる群集の洗脳を解くのは無理ｗｗｗ他人は変えられないので、情弱は放っておくしかない。そういうことです。]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手料理。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-518.html</id>
