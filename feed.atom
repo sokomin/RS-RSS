@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T02:48:10.845Z</updated>
+    <updated>2023-05-04T03:18:07.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1365,16 +1365,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[PC？パーツ換えに出してる【配布品？】○ございません公式のいつものあれ【NPCの買い取りが強化されるあれ】土日限定。最後は4/23（日）23:59まで。売り上限が100万になるあれです。アリアンだと買い取りのあれが強化されるのも変わらない。ついでに値上げされる神秘石さん。あまり変わらない詳細【少しだけ違うリミテッド】4/12(水)メンテまで。やはり一週間だいたいはいつも通り。羊もノーマル。何が違うかというと、1日版のセッ]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[束の間のサブキャラ]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-360.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-360.html"/>
-        <updated>2023-04-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[基本的にＲＳプレイ時間の大部分を無課金Ｇで過ごしているのですが全キャラを無課金Ｇに入れるわけにもいかずまた実験体や課金をしたことがあるプレイヤーさんたちとの交流目的など用途の違うキャラ達というのがわたしには結構存在しています。その中で無課金サブＧのNo Ｍｏｎｅｙ Ｎｏ Ｌｉｆｅを管理するためＧＭをしている光奏師の週刊少年ゾンビには現在ある使命がありました！最近の話ですがサブＧには紋章がなかったのです]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
