@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T13:48:29.896Z</updated>
+    <updated>2023-05-04T14:16:39.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[遺物。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-519.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-519.html"/>
+        <updated>2023-05-04T13:59:14.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。サブ用に遺物作成します。小一時間程掛けて仕上がりました。応援ありがとうございます！ブログやってて良かったと思う瞬間です。1037Lv♪誰だこのおっさん！（サブのシーフです）]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】連続配信挑戦１８日目！]]></title>
         <id>https://www.youtube.com/watch?v=e54ddQdJOn8</id>
