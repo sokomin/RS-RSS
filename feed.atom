@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T02:50:26.343Z</updated>
+    <updated>2023-05-06T03:17:56.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】(ＧＷ後半)プレイ状況]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-940.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-940.html"/>
+        <updated>2023-05-06T02:58:18.000Z</updated>
+        <summary type="html"><![CDATA[雨アチャのレベリングに着手してしまったため、この機会を逃すまじと無理やりモチベアップを試みた。強襲者購入。1000UMU箱は先人の知恵に交換したため、強襲者は自力購入するつもりが、高額持続＆狩りモチベダウンで先送りになっていた。随分時間は掛かったけど、これでようやく自分自身、Lv1300後半の雨アチャを名乗れる様になった気がする(個人の感想です)。しかし、この弓は強いね。弱化強化が共に稼げるところと、魔法致命打]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ひとまずの区切り]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-969.html</id>
