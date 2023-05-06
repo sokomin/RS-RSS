@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T22:15:23.089Z</updated>
+    <updated>2023-05-06T22:28:31.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1434,16 +1434,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[本日の何切る問題はこれ！状況は平場ですが手牌が尋常なく偏っている状況ツイッターで似たような場面見たことあり、よく考えればこの手の場面は答えがほぼ絞られます。さぁ何を切る？どうする？（※実際にこういう...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和風。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-491.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-491.html"/>
-        <updated>2023-04-07T10:26:19.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。和風美です。いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
