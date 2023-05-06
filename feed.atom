@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T09:48:19.598Z</updated>
+    <updated>2023-05-06T10:17:16.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年3～4月総括・婚活パーティー【RED STONE】]]></title>
+        <id>https://chorrealism.com/?p=3601</id>
+        <link href="https://chorrealism.com/redstone/su230430/"/>
+        <updated>2023-05-06T09:49:18.000Z</updated>
+        <summary type="html"><![CDATA[この2ヶ月も、週1で精鋭・レイド、デイリー作業としてクリーチャー冒険、討伐(RSpass経験値のため)しかしてない。あとは、せいぜい攻城とアリーナ1回参加したぐらい…。 日曜日のアリーナは出よう！と思っていたのだけども… […]
+The post 2023年3～4月総括・婚活パーティー【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
+        <author>
+            <name>cho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キンっキンに冷えて（略）]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-521.html</id>
