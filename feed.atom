@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T21:48:24.042Z</updated>
+    <updated>2023-05-06T22:15:23.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1444,16 +1444,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[こんばんは。和風美です。いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Officialゲリ男dism　2nd single『539枚の許可証』]]></title>
-        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202304070000/</id>
-        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202304070000/"/>
-        <updated>2023-04-07T09:56:43.000Z</updated>
-        <summary type="html"><![CDATA[​​前編はこちら→​​ゲリオ討伐1160周の刑（前編）​​​本当は後編に続かない予定だったのですが…​​​週末買い取り価格UPイベント​​​が来ましたね！なので、やります。前回からちょっと増えた分も合わせて​ゲリオ討伐​...]]></summary>
-        <author>
-            <name>ほしめろちゃん</name>
         </author>
     </entry>
 </feed>
