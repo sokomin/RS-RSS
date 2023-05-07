@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T22:28:26.592Z</updated>
+    <updated>2023-05-07T22:48:20.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1443,16 +1443,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[こんばんは。UMUゲッツ！ビーストテイマーの爆音と波長、間違えてしまいましたorz読んでくれてありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔がほぼ完成して逆にモチベが・・]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202304080000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202304080000/"/>
-        <updated>2023-04-08T10:41:59.000Z</updated>
-        <summary type="html"><![CDATA[まず、黒魔の図鑑から。狩り専のサブの図鑑にしては頑張った方ですよね。あとLR4、SR1、N1で完成ですが、LRは諦めてますｗ次に、パッシブを完成させるべく無駄にLRに昇格しました。もうマナの使い道がないので、S...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
