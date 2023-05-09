@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T14:48:29.692Z</updated>
+    <updated>2023-05-09T15:18:28.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1100到達＾＾]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-365.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-365.html"/>
+        <updated>2023-05-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年のＧＷはそこそこ狩り時間が確保できお昼頃の鐘の時間も半分くらいは参加する事ができたのでＧＷ前は1097くらいだったオオカミ少年が1100になりました＾＾1000になったのが2021年7月くらいだったようなので1年10ヶ月かけて100上がった事になります＾＾信じられないかもしれませんがわたしにしてはハイペースな上がり方です＾＾月に4.5くらいレベル上がってる計算かな…？物理ネクロの狩り効率が悪い事もなかなか成長しない理由]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】連続配信挑戦２３日目！]]></title>
         <id>https://www.youtube.com/watch?v=t3yTX7wBwZE</id>
