@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T23:48:29.550Z</updated>
+    <updated>2023-05-09T01:23:50.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1442,26 +1442,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[先日は春の嵐とも思えるような強風の日がありましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポータル福券]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-493.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-493.html"/>
-        <updated>2023-04-09T12:49:24.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。素敵。何が出るかな。何も言えねぇ！テイマが929Lvです。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハニーは動画に手を出してみる]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1116.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1116.html"/>
-        <updated>2023-04-09T11:54:25.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは～ハニーレモネードですよ～すっかりうっかり放置気味なブログ（とゲームもですけど）ですが、みなさまお元気でしょうか最近、スマホを開くと気になるものそれはショート動画！チョットチョット・・・・うっかり見ちゃって結構な時間たってることありません？んでまあ、思ったんだけど【姫ドミノ】って、ショート動画と相性よさそうじゃない？って思ったら、作ってみようかな～って思うよね＾＾；あう～なんかむずいねと]]></summary>
-        <author>
-            <name>リン・ドール</name>
         </author>
     </entry>
 </feed>
