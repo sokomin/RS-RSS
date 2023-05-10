@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T23:17:43.989Z</updated>
+    <updated>2023-05-10T23:29:38.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1508,16 +1508,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[やっとPCが使える…時期の都合とパーツの都合で時間がかかった。だからログキャンは捨てたとにかく目的は達成されました。…まぁ、本体でやるRSはほぼ変わってないんだけどね。一応別のゲームは起動が速くなっていたこれで明日のメンテ後更新はばっちりだ！！なお、少し遅れる模様。え？RS?…PCさわれなかったから進展全くないんですけど。おわり]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紅はるか。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-495.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-495.html"/>
-        <updated>2023-04-11T11:23:30.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。美味しそうです。いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
