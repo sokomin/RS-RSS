@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T02:13:19.240Z</updated>
+    <updated>2023-05-10T02:41:17.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1432,16 +1432,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[こんばんは。美味しそうです。いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遅ればせながら]]></title>
-        <id>tag:blogger.com,1999:blog-6041969618045088376.post-3113595071514581851</id>
-        <link href="https://rs-kumapon.blogspot.com/2023/04/blog-post.html"/>
-        <updated>2023-04-10T14:16:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年もよろしくお願いします(遅]]></summary>
-        <author>
-            <name>noreply@blogger.com (Unknown)</name>
         </author>
     </entry>
 </feed>
