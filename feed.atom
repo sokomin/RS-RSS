@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T10:32:02.044Z</updated>
+    <updated>2023-05-10T10:48:24.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[統率「私が3番目に出たことにしろ」]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-970.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-970.html"/>
+        <updated>2023-05-10T10:35:32.000Z</updated>
+        <summary type="html"><![CDATA[ダメオン「私が書き換えたのだ」緩和「絶対に許さねぇ！」【配布品とか】・港町Boxいつも通りのあれ【ブルーウィンドロト】5/24(水)メンテまで。地味に2週間。1個1000円でいつもの通りとしか…レア3 向上、幸運上位互換、完全レア2 幸運、賢者、ランダムU超越、特改、選択SP図案、SRコクーンレア1 上級ULT赤異界と神秘ULTと異次元いません。異次元最近行方不明になりがち…当ててみろよ…枠に魔力吸収×2や魔力の暴走×2がある。おまけ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.5.10 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/f4a21e530543690b8c088edc6effbacf</id>
