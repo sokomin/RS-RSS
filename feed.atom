@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T02:48:27.493Z</updated>
+    <updated>2023-05-11T03:17:17.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1488,16 +1488,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
 おわり]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[駆け抜けるネクロ]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-361.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-361.html"/>
-        <updated>2023-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[メインキャラのオオカミ少年はフルアタ覚醒のストレンジコンジュラーなのでストレンジコンジュラーは強くてお勧めなのかな？とたまに聞かれる事があるのですがネクロ3覚醒を持っているわたしが個人的に思っているのはストレンジコンジュラーが一番狩りが辛いです＾＾；死ぬほど狩り効率が悪いですよ＾＾；ただし、ストレンジコンジュラーは硬いものを倒すのには安定感があり討伐などではかなり良いという特徴がありずっとオオカミ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
