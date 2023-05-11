@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T13:26:48.385Z</updated>
+    <updated>2023-05-11T14:16:25.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[狂戦士の怨念。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-526.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-526.html"/>
+        <updated>2023-05-11T14:01:29.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。コンプリートです。50本で売れます。人気の鎧。約500本です。もいっちょ！サブが904Lv到達です。読んで下さって本当にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】連続配信挑戦２5日目！]]></title>
         <id>https://www.youtube.com/watch?v=hBwkyujur-w</id>
