@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T02:21:14.493Z</updated>
+    <updated>2023-05-12T02:48:22.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1379,49 +1379,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[こんばんは。クーンさん？前が高かったです。シーフのクリーチャーです。テイマ930Lv♪シーフ1032Lv♪いつもありがとうございます。またみてね。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023.4.12 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/b37f5ef921a735264b40e66ca14dd9c7</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/b37f5ef921a735264b40e66ca14dd9c7?fm=rss"/>
-        <updated>2023-04-12T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[仕事も本格的に指導し始めほどよく忙しくなっています。
-
-2/21開始のイベント・キャンペーン一覧 -->
-
-
-
-
-
-
-(3)ボックスドロップイベント
-
-3月8日メンテ後から3月29日メンテ前まで
-「超ドリームBoxⅡ」 や、覚醒石、ネフォンクリーチャーのマナといったアイテムが出現する、『プレシャスハンティングBox』がドロップします！
-前期（9/7から9/21：「コンテスト装備BOX」
-後期（9/21から10/5）：「コンテスト装備BOXⅡ」
-後期「コンテスト装備BOXⅡ」がドロップします。 -->
-
-
-
-
-
-3月29日メンテ後から4月19日メンテ前まで
-
-
-さて。今週もまったり楽しみましょう。
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
