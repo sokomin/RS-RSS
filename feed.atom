@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T08:48:26.675Z</updated>
+    <updated>2023-05-12T09:16:48.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[青汁ストレート。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-527.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-527.html"/>
+        <updated>2023-05-12T09:08:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。定期的に食べたくなります。（ピントがズレて申し訳無いです。）市場を通さない分、比較的安めです。30秒一気飲みチャレンジもあります。私も1回だけ成功したので、名前札あります。（景品は700円分の割引券です。）最近、歳を取った性か月日が経つのが早く感じます。読んでくれて、本当にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[狂戦士の怨念。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-526.html</id>
