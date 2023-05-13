@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-13T07:48:13.004Z</updated>
+    <updated>2023-05-13T08:19:39.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石像の一部完成　-スルの杖 ストラップ-]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/ff4b565de5820239aff418d9345f0a8c</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/ff4b565de5820239aff418d9345f0a8c?fm=rss"/>
+        <updated>2023-05-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ｇ『ねこやしき』の話ｗ
+
+風の元素が200個集まりましたo(*^▽^*)o
+
+
+
+
+スルの杖　ストラップができました！！
+
+完成ボーナスは特にいらないかな(￣ω￣;)
+
+ナルとシロイオが確か４つ出来上がっているんだよね。
+現在収集中の元素はそのままおいておくとして、ナルかシロイオを完成させてしまった方がよいかもしれませんね。
+「風」の次は「火」を集めてもらった方が良いかな。
+
+
+「水」「大地」「光」はまだ二桁くらいしか集まっていないので、記事になるのは当分先ですね。
+まぁ地味に頑張りましょう(・ω・)b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ノシシ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[風覚醒霊術 育成配信#2【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=DUio1W5Frho</id>
