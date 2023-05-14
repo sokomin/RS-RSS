@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-14T14:48:27.692Z</updated>
+    <updated>2023-05-14T15:16:24.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[宝箱バフについて]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-799.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-799.html"/>
+        <updated>2023-05-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GWの連休が終わって普通の生活に戻りましたね今週はしんどかった人も多かったのではないでしょうかこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次元PTボス途中報告]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-972.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-972.html"/>
+        <updated>2023-05-14T14:53:40.000Z</updated>
+        <summary type="html"><![CDATA[750次元の毒ダメージで死ぬ…一応抵抗を完備していれば問題はなかったよ。そうじゃなかったから2500とか喰らってそこから初撃もらって　死　ですねぇ…今の進捗。・自力狩り→750次元で詰む・手伝い→比較対象の商店2Fまで・今後の予定→ブロック持ちも調べたいそういえば850の次元って…黒い球飛ばしてくるんだね…。抵抗があれば問題ないけど、ここ1か所に5体沸いているうえにそこからこれ飛んでくる…きつくない？※画像は全吸収をわざと]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チーズフォンデュの老舗。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-529.html</id>
