@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-14T12:56:02.512Z</updated>
+    <updated>2023-05-14T13:17:58.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[チーズフォンデュの老舗。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-529.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-529.html"/>
+        <updated>2023-05-14T13:09:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。フィンランド産です。暖炉が心地良いです。メインディッシュです。チーズフォンデュです。苺大好きです。素晴らしいお皿です。いつもありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】連続配信挑戦２８日目！]]></title>
         <id>https://www.youtube.com/watch?v=cpy0kdulfIw</id>
