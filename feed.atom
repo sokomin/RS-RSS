@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-15T23:48:25.458Z</updated>
+    <updated>2023-05-16T01:24:25.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1505,16 +1505,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[4月も半ばを過ぎました新生活が始まった方はリズムが慣れるまで大変ですよねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星コスチューム。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-500.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-500.html"/>
-        <updated>2023-04-16T12:26:33.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。本物。何が出るかな。なかなか。ギリギリです。931Lvです。いつも見てくれて、ありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
