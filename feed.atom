@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-16T02:49:02.903Z</updated>
+    <updated>2023-05-16T03:18:24.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1495,16 +1495,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <updated>2023-04-17T10:46:01.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石の日でした]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-795.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-795.html"/>
-        <updated>2023-04-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[4月も半ばを過ぎました新生活が始まった方はリズムが慣れるまで大変ですよねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
