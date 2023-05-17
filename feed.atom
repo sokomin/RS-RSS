@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-17T03:30:27.440Z</updated>
+    <updated>2023-05-17T03:48:29.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1570,16 +1570,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[こんにちは。混在エリアです。いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[え？！次回メンテは17時終了？！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-963.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-963.html"/>
-        <updated>2023-04-17T15:39:45.000Z</updated>
-        <summary type="html"><![CDATA[つまりアプデ…？正直後祭夜の区切り的に来週くらいと思ってた。でもまぁ来るなら…うん。極稀にフェイントだけども。ちなみに隣の国情報によると、ディメ関連が強化されるのと、協会の装備関連が強化されるのと、新規PTボス実装らしい。どれも魅力的ではあるが、金鯖で使えるか否か…ディメ関連は死ぬだろうし、コイン不足は変わらないし、ミラー追加されなかったら…うん。予定としては、800レべのディメがどうなのか、PTボスはどう]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
