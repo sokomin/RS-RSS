@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-16T23:48:36.665Z</updated>
+    <updated>2023-05-17T01:24:55.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1580,26 +1580,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[つまりアプデ…？正直後祭夜の区切り的に来週くらいと思ってた。でもまぁ来るなら…うん。極稀にフェイントだけども。ちなみに隣の国情報によると、ディメ関連が強化されるのと、協会の装備関連が強化されるのと、新規PTボス実装らしい。どれも魅力的ではあるが、金鯖で使えるか否か…ディメ関連は死ぬだろうし、コイン不足は変わらないし、ミラー追加されなかったら…うん。予定としては、800レべのディメがどうなのか、PTボスはどう]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】紫龍会ギルドイベント告知]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-937.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-937.html"/>
-        <updated>2023-04-17T12:54:30.000Z</updated>
-        <summary type="html"><![CDATA[S鯖ギルド「紫龍会」在籍者へのお知らせ。4/21(金)22:00からギルドイベントを開催します。参加資格は以下。＜紫龍会　ギルドイベント参加資格＞・4/1付けでギルド「紫龍会」に在籍している方。・活動している(Gチャ挨拶やレベリング等)方。・地域ボス討伐に参加できる方。・討伐許可証を50枚所持している方。イベント詳細は以下。＜紫龍会　ギルドイベント詳細＞・PTを組み、地域ボス「ゲリオ」を50周消化。・UMUまたはBFUを1つド]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[八宝菜。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-501.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-501.html"/>
-        <updated>2023-04-17T11:48:26.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。中華料理です。読んでくれてありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
