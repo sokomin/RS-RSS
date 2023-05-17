@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-17T05:48:19.842Z</updated>
+    <updated>2023-05-17T06:21:35.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[特になし]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1259.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1259.html"/>
+        <updated>2023-05-17T06:00:39.000Z</updated>
+        <summary type="html"><![CDATA[GWイベント以降は新規開催されているものは課金キャンペーンのみ。新規開催のゲーム内イベントは特になし。強いて上げるものとしてはログインキャンペーンのみですね。今回はパワキがザックザクらしいので狩りをしてる人には丁度良いのではないでしょうか。逆に僕みたいに狩りしてない人には無関係とも言えますが。それでは今週ものんびり楽しみましょう～( ´ω｀)]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[慣れるまで時間かかるかな？＾＾；]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-367.html</id>
