@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T21:48:10.228Z</updated>
+    <updated>2023-05-18T22:15:27.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1706,16 +1706,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重要情報]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1257.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1257.html"/>
-        <updated>2023-04-19T10:05:40.000Z</updated>
-        <summary type="html"><![CDATA[800～899ディメンションハブ追加。冒険団コイン交換各種アイテム改変。既存プレミアムマップ改等々・・・内容は公式サイトのアップデートページにてご確認ください。.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*.:*~*:._.:*~*:._.:*~*:イベント情報に関しては先週、先々週と載せてませんが更新しなかった理由は単に面倒だっただけでｓ ( ´Д｀)=○ )`ъ')・：'.,何というか紹介するほどのものでもない、割とよく開催してるイベント感が物凄く]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
