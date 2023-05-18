@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T13:25:28.470Z</updated>
+    <updated>2023-05-18T13:48:15.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金襴の交わり。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-533.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-533.html"/>
+        <updated>2023-05-18T13:43:39.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。欲張りセット(謎)ふいごなし勝負。＼(＾o＾)／ビーストテイマーが938Lvです♪読んで下さって誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】連続配信挑戦３２日目！]]></title>
         <id>https://www.youtube.com/watch?v=pkjyl2xE4_E</id>
