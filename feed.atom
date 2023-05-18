@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T21:15:07.614Z</updated>
+    <updated>2023-05-18T21:28:29.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1716,16 +1716,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[800～899ディメンションハブ追加。冒険団コイン交換各種アイテム改変。既存プレミアムマップ改等々・・・内容は公式サイトのアップデートページにてご確認ください。.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*.:*~*:._.:*~*:._.:*~*:イベント情報に関しては先週、先々週と載せてませんが更新しなかった理由は単に面倒だっただけでｓ ( ´Д｀)=○ )`ъ')・：'.,何というか紹介するほどのものでもない、割とよく開催してるイベント感が物凄く]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[見ろ！アップデートだ！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-964.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-964.html"/>
-        <updated>2023-04-19T09:26:58.000Z</updated>
-        <summary type="html"><![CDATA[あー…やっぱり？【Ver0.0790アップデート】公式で確認するならこれ順番に…◆Lv800～899ディメンション・ハブ追加◆とうとう800台でもディメなんとかの恩恵を受けられます。得られるマキナが10％ではありますが…（100％までは蓄積する。平日貯めて休日に使うってやり方ができる）それと適正の階層にて、多次元結晶を80個使うことでクリア経験値を上昇させることができます。あとは…主要目的と補助目的が統合されたくらい？それと多次]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
