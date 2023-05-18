@@ -255,6 +255,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pkjyl2xE4_E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pkjyl2xE4_E",
+          "publishedOn": "2023-05-18T11:42:44.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】連続配信挑戦３２日目！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=smfXud_j9GU",
           "author": null,
           "description": "",
@@ -586,6 +596,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202305180000/",
+          "author": "雷神の弓",
+          "description": "それでも全くやる気が出なかったので、自分の気持ちに素直になってRSにはインせずに他のことをやっています。もう3000円程度でやる気が戻ることはないみたいですね・・ｗまぁ、やる気の出ないゲームを無理にやる...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202305180000/",
+          "publishedOn": "2023-05-18T11:31:35.000Z",
+          "wordCount": 1457,
+          "title": "間違って１ヵ月のスフィアULT出してましたが",
+          "imageUrl": "http://plaza.jp.rakuten-static.com/img/common/blog_logo_ogp.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202305030000/",
           "author": "雷神の弓",
