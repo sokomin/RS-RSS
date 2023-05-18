@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T22:48:27.574Z</updated>
+    <updated>2023-05-18T23:16:57.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1640,16 +1640,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[こんばんは。生け簀です。とても美味しいです。いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今更には早すぎる次元マップのあれ]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-965.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-965.html"/>
-        <updated>2023-04-19T11:08:05.000Z</updated>
-        <summary type="html"><![CDATA[今更（実装してまもなく）【次元PTボスって？】150レべから50レべ間隔で実装された狩場。敵レベルはそこから±15の範囲で出現。プレミアムマップのため、要スフィア関連のアイテム。一つのマップに1体の敵がまだらに現れます。一律で40秒わきです。適性だとそれなりの耐久力はある…かな？ガイドや古都の協会NPCから飛べます。記憶可能。ただしミラーはないです。場所によっては…うん。以降に各マップと敵を紹介。経験値は…まだ測定]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
