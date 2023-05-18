@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T02:48:28.209Z</updated>
+    <updated>2023-05-18T03:17:48.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1697,16 +1697,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[あー…やっぱり？【Ver0.0790アップデート】公式で確認するならこれ順番に…◆Lv800～899ディメンション・ハブ追加◆とうとう800台でもディメなんとかの恩恵を受けられます。得られるマキナが10％ではありますが…（100％までは蓄積する。平日貯めて休日に使うってやり方ができる）それと適正の階層にて、多次元結晶を80個使うことでクリア経験値を上昇させることができます。あとは…主要目的と補助目的が統合されたくらい？それと多次]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もうすぐ限界突破５！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-362.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-362.html"/>
-        <updated>2023-04-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[いまだに限界突破5を終了しているキャラがいないのですがそろそろメインキャラのオオカミ少年が終わりそうになってきました＾＾ひび割れた邪念が9個になりあと1個で完成です＾＾このひび割れた邪念ですがわたしは毎日の討伐でファルコンを狩っているのでそれでたまった翼装飾と交換！翼装飾15個が邪念1個になるのでそう考えると150日かかる事になります＾＾；もともと何も考えず討伐行ってたのでいいのですけど…そう考えると討伐で]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
