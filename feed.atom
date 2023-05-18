@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T22:28:54.847Z</updated>
+    <updated>2023-05-18T22:48:27.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1650,62 +1650,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[今更（実装してまもなく）【次元PTボスって？】150レべから50レべ間隔で実装された狩場。敵レベルはそこから±15の範囲で出現。プレミアムマップのため、要スフィア関連のアイテム。一つのマップに1体の敵がまだらに現れます。一律で40秒わきです。適性だとそれなりの耐久力はある…かな？ガイドや古都の協会NPCから飛べます。記憶可能。ただしミラーはないです。場所によっては…うん。以降に各マップと敵を紹介。経験値は…まだ測定]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レベル上げ連続配信挑戦３日目！]]></title>
-        <id>https://www.youtube.com/watch?v=oJcNa-ZIfv8</id>
-        <link href="https://www.youtube.com/watch?v=oJcNa-ZIfv8"/>
-        <updated>2023-04-19T10:46:04.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023.4.19 アプデ！]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/06d73cf0192e883f6e620dcc07436c52</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/06d73cf0192e883f6e620dcc07436c52?fm=rss"/>
-        <updated>2023-04-19T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[筋トレの一環としてスクワットをしていました。
-
-
-
-
-
-
-
-(3)ボックスドロップイベント
-
-3月8日メンテ後から3月29日メンテ前まで
-「超ドリームBoxⅡ」 や、覚醒石、ネフォンクリーチャーのマナといったアイテムが出現する、『プレシャスハンティングBox』がドロップします！
-前期（9/7から9/21：「コンテスト装備BOX」
-後期（9/21から10/5）：「コンテスト装備BOXⅡ」
-後期「コンテスト装備BOXⅡ」がドロップします。 -->
-
-
-
-
-
-
-4月12日メンテ後から4月26日メンテ前まで
-
-
-通常イベントが来週終わるので、来週はGW前のイベント更新がありそうですね。
-何があるんだろう。
-まぁ経験値アップイベントや箱ドロップイベントあたりが妥当ですかね。
-
-では今週もまったり楽しみましょう。
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
