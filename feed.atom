@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-19T08:48:11.926Z</updated>
+    <updated>2023-05-19T09:16:27.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[涼しい飲み物。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-534.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-534.html"/>
+        <updated>2023-05-19T09:06:47.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。地元の車窓から。青汁×みかんのスムージー。青汁×ブルーベリー。ケール×ビーツ（野菜）の青汁。自家製の親子丼です。いつもありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[じゅうたん☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12803654372.html</id>
