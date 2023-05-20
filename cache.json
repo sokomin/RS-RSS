@@ -553,16 +553,6 @@
           "wordCount": null,
           "title": "【REDSTONE】連続配信挑戦５日目！",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OlBj4Aa10Cg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OlBj4Aa10Cg",
-          "publishedOn": "2023-04-20T12:45:17.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】連続配信挑戦４日目！",
-          "imageUrl": null
         }
       ]
     },
@@ -1054,6 +1044,16 @@
       "siteUrl": "https://3rdcat.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://3rdcat.blog.fc2.com/blog-entry-195.html",
+          "author": "第三の猫",
+          "description": "季節の変わり目を感じる今日この頃、変わらなくていいのにと春を見送る第三の猫です。さて、変わったといえば、テイムしたペットのレベルが本体依存になったので、もうLv1青亀をペットすることはできないようです。Lv1青亀で変なチャレンジするの好きだったので少し残念な気もしますが、育成の手間がなくなったので普通に遊ぶ分にはにプラスです。そんな青亀も今では元気に範囲多段スキルを放って、コレジャナイ感を熟成させていま",
+          "link": "https://3rdcat.blog.fc2.com/blog-entry-195.html",
+          "publishedOn": "2023-05-20T00:08:03.000Z",
+          "wordCount": 272,
+          "title": "(×)",
+          "imageUrl": null
+        },
+        {
           "id": "https://3rdcat.blog.fc2.com/blog-entry-194.html",
           "author": "第三の猫",
           "description": "ようやく寒い日もなくなってきて、早くも今年の三分の一が終わってしまったことに気づいた今日この頃、いかがお過ごしでしょうか。第三の猫です。今回、スクリーンショットフォルダを開けると、第三の猫が写っているものが一枚もありませんでした。そういう時もあるのでしょう。さて、コスチュームのキャンペーンがあったので夏の装いに変えたnise1110。久しぶりに欲張りレビットに出会いました。RIPこの前、非常に効果的であるこ",
@@ -1251,6 +1251,16 @@
       "feedUrl": "https://diaanrs.blogspot.com/feeds/posts/default?alt=rss",
       "siteUrl": "https://diaanrs.blogspot.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-622089654895304373.post-9019642017422908334",
+          "author": "noreply@blogger.com (Unknown)",
+          "description": "Table of Contents\nI: Abyss difficulty added to ES/Elite Supes\nII: Added fancy health bar to ES/Elite Supes\nIII: New Episode Quest\nIV: New Sub Quest\n\n\nI: Abyss difficulty added to ES/Elite Supes\nREQUIRED TO ENTER: 1 Radiant Fairy Wing\n-100% chance for Split Evil Ideas (BTL5)\n-1250 ULT weapons will be additionally dropped from Deep Dark and Abyss difficulty\n-1250 ULT weapons will be dropped as \"Corrupted Force Weapon Selection Chest\"\n\n-Abyss difficulty has a higher rate than Deep Dark for that ^\n-The Amount of EXP that you can gain from ES/Elite Supes is listed in this chart:\n\n\n\n\nII:  Added fancy health bar to Elite Supes\n\n\n-New health bar UI for each boss stage, with improved visibility\n-Location of this health bar is upper center of your screen (and, ya can't move it, so get used to it)\n\n\n\n\n\n\n\nIII:  New Episode Quest\n\n\nRequirements: 1125+ and you need to have done part 2 (Shining Binary Star)\nContinue the questline at Bigaple Assoc. Branch Deputy Director\n\n\n\nIV: New Sub Quest\nRequirements: 1350+ and you need to have done \"Cut the Stems\" quest\nTalk with Galerion Campsite NPC named Dispatch Member to start this quest\n\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\nI'd like to thank y'all for bein patient with me annnnnd my current laptop :D",
+          "link": "https://diaanrs.blogspot.com/2023/05/may-2023-update-guide-complete-guide.html",
+          "publishedOn": "2023-05-20T01:07:00.000Z",
+          "wordCount": 3105,
+          "title": "May 2023 Update Guide (COMPLETE Guide)",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB7nMDVNBkgk3lDglxLN9UlandUUGz7n6kQWfnpG0XK2aSRtUytH9Ee95_TvvdMFK3CvpWwfuttjU35QXK87IgrUFztGEQFXPjrpds1MEuTV2dOXKMe2ZBN5BEjvUOY12I9eNZfmAxZgTMqkNDwJBliD0VY7GSE7GNMe97fk_Ezq3HdBMm4JqBXQhCTA/w1200-h630-p-k-no-nu/1250%20box.png"
+        },
         {
           "id": "tag:blogger.com,1999:blog-622089654895304373.post-5106413258205278837",
           "author": "noreply@blogger.com (Unknown)",
@@ -1584,16 +1594,6 @@
           "publishedOn": "2023-04-21T11:37:00.000Z",
           "wordCount": null,
           "title": "宅配ピザ屋さん。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-504.html",
-          "author": "medaka1985",
-          "description": "こんばんは。近未来的です。こってり味で美味しいです。読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-504.html",
-          "publishedOn": "2023-04-20T12:55:21.000Z",
-          "wordCount": null,
-          "title": "PayPayドーム。",
           "imageUrl": null
         }
       ]
