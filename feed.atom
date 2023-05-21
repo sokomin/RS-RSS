@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-21T14:48:27.192Z</updated>
+    <updated>2023-05-21T15:15:57.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[職業別ランキングについて]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-800.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-800.html"/>
+        <updated>2023-05-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[とても暑い日があったりしますね熱中症には気をつけながら生活したいですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】イベント後の空虚期間]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-944.html</id>
@@ -1800,6 +1810,15 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テイマwithペット3体 育成配信#2【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=978HyaSNOYw</id>
+        <link href="https://www.youtube.com/watch?v=978HyaSNOYw"/>
+        <updated>2023-04-22T08:06:35.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
