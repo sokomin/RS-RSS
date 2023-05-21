@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-20T23:48:07.240Z</updated>
+    <updated>2023-05-21T01:36:26.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1770,16 +1770,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <updated>2023-04-22T02:32:58.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップデートの春]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-193.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-193.html"/>
-        <updated>2023-04-21T12:57:39.000Z</updated>
-        <summary type="html"><![CDATA[前のアップデートも把握しきれていないのに、次のアップデートが来てしまった今日この頃。タポが大きくなったことだけはかろうじて理解できた第三の猫です。さて、古都ひよこが４転生を終え、その勢いのままLv800台終盤まで到達。この辺まではクエストの勢いで一気にレベルが上がります。そして一番きついLv900直前は、今回のアプデで追加されたLv800台用のディメンションハブを……使う前にLv900になりました。Lv800台のキャラいな]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
