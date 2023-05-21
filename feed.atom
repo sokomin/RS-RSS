@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-21T23:28:52.756Z</updated>
+    <updated>2023-05-21T23:48:24.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1756,60 +1756,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <updated>2023-04-22T11:52:21.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テイマの覚醒 －真心の民－]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/388afc9eea7bd5044f61eea8f316e291</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/388afc9eea7bd5044f61eea8f316e291?fm=rss"/>
-        <updated>2023-04-22T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[今日も暖かかったですね。
-「FEBRUARY UPDATE」
-
-覚醒タイプは「真心の民」
-
-「新しい友達」
-
-こんな感じで、３体出せるようになりました。
-
-壮観ですねｗ
-
-専用強化スキルは「気まぐれの日」
-
-強化スキルの１つは「誉める」
-
-もう１つの強化スキルは「撒き餌」
-
-命中率と回避率が低下します。
-覚醒すると周囲のMOBにも影響をあたるので、釣りスキルになりかねないです。
-ちょっと注意かも。
-
-
-この覚醒のいいところは何といってもペットを３体召還できるところ。
-手数が増えれば殲滅速度もあがります。
-また、物理・知識に特化していないので、両方を使い分けたいのであればこちらもありかな。
-難点は何といってもスキルポイントが足らない。
-両方を使い分けるには、物理用と知識用のスキルをとる必要があるという事。
-攻撃命令、音符の烙印は元素と物理をマス。
-教えると励ますは覚醒。
-この状態でもかなりスキルポイントは減っており、協同を覚醒させるには至らず。
-音符の烙印なしでもよかったとちょっと後悔。
-いずれにしてもスキル振りには苦慮しそうです。
-
-ただ、範囲が使える知識ペットは狩場用、単体で威力がある物理ペットはボス用と使い分けられそうなので、当面はこの覚醒でやりたいかと思います。
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
