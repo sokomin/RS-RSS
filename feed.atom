@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-22T22:48:32.411Z</updated>
+    <updated>2023-05-22T23:17:14.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1679,16 +1679,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[しばらくRSやめようと思って、１週間以上インしてなかったのですが、間違って１ヵ月のスフィアULT出しちゃいました＾＾；というわけで、１ヵ月間はデイリー（秘密は面倒なのでやらない）と精鋭討伐とレイドと露店...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夕食。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-507.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-507.html"/>
-        <updated>2023-04-23T10:50:37.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。からあげです。いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
