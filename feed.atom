@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-22T20:17:41.391Z</updated>
+    <updated>2023-05-22T20:29:38.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1689,64 +1689,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <summary type="html"><![CDATA[こんばんは。からあげです。いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テイマのペット]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/9589d15a8d403501e161bb5066190a09</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/9589d15a8d403501e161bb5066190a09?fm=rss"/>
-        <updated>2023-04-23T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今日もいい天気でしたね。
-
-うん、わかりにくいね(´・ω・`)
-
-
-(2)聖シーク守護者(転生ペット)
-
-
-(3)覚醒魔サキュバス
-
-
-(4)エリート悪魔
-
-
-(5)エリート生霊
-
-
-(6)ファルコンジュニア
-
-
-(7)エリート森の指令
-
-
-(8)覚醒ウォリア(転生ペットも同性能)
-
-
-(9)聖剣闘士(転生ペット)
-
-
-
-今のところ所持しているのはこの9体ですね。
-もう少しレベルがあがったらエリートラクとエリートパンジーを取りに行きたいと思ってます。
-
-
-ペットも本で保管ではなくなったので、インベ圧迫しなくなり助かりました。
-基本見た目を重視してペットを捕獲しに行きたいですね。
-よいペット情報があればぜひ教えてください。
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
