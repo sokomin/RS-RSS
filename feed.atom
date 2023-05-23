@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T09:48:03.898Z</updated>
+    <updated>2023-05-23T10:18:21.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[決闘 生涯成績。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-537.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-537.html"/>
+        <updated>2023-05-23T09:59:21.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。少しだけ高揚します。討伐報酬です。メインシーフの性向が80%になります。全部 成績 ： 209勝 161敗 勝率56.0%(メインシーフの成績）全部 成績 : 21勝 4敗 勝率 84.0%(サブのビーストテイマーの成績)レプリカのOP変換箱チャレンジ♪2回目♪はやりレプリカには限界がある様です(笑)読んで下さって誠に光栄です。精進するので今後ともよろしくお願いします。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】(第2回)紫龍会ギルドイベント告知]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-945.html</id>
