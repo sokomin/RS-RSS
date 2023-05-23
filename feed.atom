@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T14:48:15.559Z</updated>
+    <updated>2023-05-23T15:18:37.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[３体目の１０００キャラ！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-368.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-368.html"/>
+        <updated>2023-05-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[１週間くらいLv９９９で過ごしていた恋はキライだが日曜日に１０００になりました＾＾わたしのキャラでは３キャラ目の１０００達成になります＾＾ネクロでは２キャラ目です＾＾オオカミ少年より狩り効率が高く、無課金Gにいるという事で稼働率も高いので結構あとから作ったキャラになるのですが３番目になりました＾＾ネクロなので使ってて楽しいのもありますけど＾＾ちなみにステは現在こんな感じでサブキャラな事もあり称号とか]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】連続配信挑戦３７日目！]]></title>
         <id>https://www.youtube.com/watch?v=dBFXl6ocEnM</id>
