@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T23:48:23.838Z</updated>
+    <updated>2023-05-24T01:26:50.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1667,16 +1667,6 @@ RSPASSで見逃せないアイテムが出た時の蓄えのSP。
         <link href="https://medaka1985.fc2.net/blog-entry-509.html"/>
         <updated>2023-04-25T03:10:07.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。コースターです。いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[豚肉の野菜蒸し。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-508.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-508.html"/>
-        <updated>2023-04-24T12:16:38.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。余計な油が抜けて美味しいです。いつも読んでくれてありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
