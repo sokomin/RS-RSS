@@ -265,6 +265,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UXhtrUonaX0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UXhtrUonaX0",
+          "publishedOn": "2023-05-24T14:04:57.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】連続配信挑戦３８日目！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dBFXl6ocEnM",
           "author": null,
           "description": "",
@@ -1326,6 +1336,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-538.html",
+          "author": "medaka1985",
+          "description": "こんばんは。着ぐるみかな。初めて見ました＠＠シーフの狩り風景です。シーフ1040Lv到達♪いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-538.html",
+          "publishedOn": "2023-05-24T14:03:00.000Z",
+          "wordCount": null,
+          "title": "コラブテッド。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-537.html",
           "author": "medaka1985",
