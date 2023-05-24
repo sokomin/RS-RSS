@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-24T11:14:15.813Z</updated>
+    <updated>2023-05-24T11:28:24.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[まるで黄金人形のバーゲンセール…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-976.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-976.html"/>
+        <updated>2023-05-24T11:26:28.000Z</updated>
+        <summary type="html"><![CDATA[外れがそれ。【お知らせ】・ワンタイムキーの送信元アドレス変更→受け取れなくなった場合はpmang.jpをドメイン追加する・ロトとミニロトの販売再開…結局影響がないってことらしいけどなんだったんだ？分からなかった原因と詳細【超武装祭】6/7(水)メンテまで。2つある。① ゲーム内ログキャン12日分。猶予は…2？抽出や神秘鏡は今更なものばかりだが、レプリカ解放とレプリカ変換は使えそうではある。ただしこの二つは銀行には入らな]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新着イベント情報]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1260.html</id>
