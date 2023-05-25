@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-25T23:29:04.970Z</updated>
+    <updated>2023-05-25T23:48:28.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1678,63 +1678,6 @@ MOBは固まって５から６体くらいずついるかな。
         <summary type="html"><![CDATA[こんばんは。コクーン商人です。製錬ガード代行、2回目で成功です。読んで貰って誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毎日ログイン]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-966.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-966.html"/>
-        <updated>2023-04-26T11:30:07.000Z</updated>
-        <summary type="html"><![CDATA[強いられた…。【配布品とか？】・GVGアリーナ復旧・特級成長の秘薬と成長の秘薬が買い物かごにある場合は、5/2(火)メンテまでにインベントリに出しておきましょういつものあれ【MQを飛ばすあれ】5/10(水)メンテまで。やや長めの間隔で来るMQ飛ばし。1～4までだし、1個500円。4まで飛ばすなら合計2000円。上限はそれぞれ3回です。3キャラ鏡キャラができるよ！飛ばしても構わない詳細【黄金週間スペシャルイベント】それぞれ微妙に期]]></summary>
-        <author>
-            <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023.4.26 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/050b497884faaeb32f7d5e27e0b870eb</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/050b497884faaeb32f7d5e27e0b870eb?fm=rss"/>
-        <updated>2023-04-26T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[雨ですね。
-
-
-
-
-(3)ボックスドロップイベント
-
-3月8日メンテ後から3月29日メンテ前まで
-「超ドリームBoxⅡ」 や、覚醒石、ネフォンクリーチャーのマナといったアイテムが出現する、『プレシャスハンティングBox』がドロップします！
-前期（9/7から9/21：「コンテスト装備BOX」
-後期（9/21から10/5）：「コンテスト装備BOXⅡ」
-後期「コンテスト装備BOXⅡ」がドロップします。
-
-2月21日メンテ後から4月26日メンテ前まで
-
-
-課金イベントはこちら
-
-
-
-
-
-
-4月19日メンテ後から5月10日メンテ前まで
-
-
-次の更新は連休明けかな？
-週末からはGWですからね。
-まぁほどほどに楽しみたいと思います。
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
