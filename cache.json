@@ -265,6 +265,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oJav8Vau04o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oJav8Vau04o",
+          "publishedOn": "2023-05-25T11:12:11.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】連続配信挑戦３９日目！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UXhtrUonaX0",
           "author": null,
           "description": "",
