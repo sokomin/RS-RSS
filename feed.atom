@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-25T13:48:32.398Z</updated>
+    <updated>2023-05-25T14:15:54.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[平民の夢。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-539.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-539.html"/>
+        <updated>2023-05-25T14:03:39.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。鮮やかコスチューム。平民の夢(何故か好きです）ドロップ。赤い光が出たら本当にありがたいです。1041Lvです♪毎度、読んで頂き誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[憧れのマイホーム☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12804637540.html</id>
