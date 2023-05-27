@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-27T13:48:19.621Z</updated>
+    <updated>2023-05-27T14:14:27.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[うーん…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-977.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-977.html"/>
+        <updated>2023-05-27T14:12:28.000Z</updated>
+        <summary type="html"><![CDATA[初期位置BISに必要だったもの、リゼネだった※Slvより知識が大事。いやSlvもある程度は要るけど…どうしてこの結論にいたったのかというとブレ→HP20万確保済みだと無力エビ→防御力って実は重要じゃなかったリゼネ→毎秒回復は効果大…だが、知識で回復量が大きく変化するという結果だった。もうこれ初期位置支援いらないんじゃないかな現場に出られるBISが大事らしいから、やっぱ初期位置特化じゃだめなんだろうな、うん…。あれ？これ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】連続配信挑戦４１日目！]]></title>
         <id>https://www.youtube.com/watch?v=oBkqIJWHnpU</id>
