@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-28T15:28:27.903Z</updated>
+    <updated>2023-05-28T15:48:06.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1662,16 +1662,6 @@ April UPDATE -->
         <updated>2023-04-29T10:59:35.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初花凜々。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-514.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-514.html"/>
-        <updated>2023-04-29T03:45:47.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。三寒四温ですね。いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
