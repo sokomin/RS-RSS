@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-28T14:48:17.352Z</updated>
+    <updated>2023-05-28T15:16:32.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[近況報告　変異かけら等]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-801.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-801.html"/>
+        <updated>2023-05-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近は一日の寒暖差が激しくて着るものに困ります元々春物秋物の様な中間的な服装をあまり持っていないのですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[他鯖出張。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-542.html</id>
