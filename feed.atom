@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-28T14:13:41.069Z</updated>
+    <updated>2023-05-28T14:27:26.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1662,51 +1662,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[こんにちは。三寒四温ですね。いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディメンション行ってきました]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/bb2c034bcf4dd66527f57a1971a1a8dd</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/bb2c034bcf4dd66527f57a1971a1a8dd?fm=rss"/>
-        <updated>2023-04-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GW前半戦が始まりました。 
-
-MOBの種類は関係なく、数を倒せばよいようです。
-
-MOBは固まって５から６体くらいずついるかな。
-
-こやつが魔法抵抗高かった。
-
-左恥の方に出入り口がありましたｗ
-
-獲得経験値107億5000万弱
-　　
-
-無事にゲットしてきました(・ω・)b
-
-エリートラクは知識型で闇系統。方向性範囲かな。
-
-エリートパンジーは物理型。
-物理型には珍しく範囲の模様。
-これはなかなかいい。
-連れている人をよく見かける理由がわかる気がする。
-
-
-あとは狩場で使ってみてどうか・・・だね。
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
