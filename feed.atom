@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-29T11:48:31.458Z</updated>
+    <updated>2023-05-29T12:33:11.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1653,16 +1653,6 @@ April UPDATE -->
         <updated>2023-04-30T04:13:55.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キャプテン姐御、アルケミ伯父さん、そしてインテリ筋肉。]]></title>
-        <id>https://rs-clair-de-lune.com/2023-04-30/</id>
-        <link href="https://rs-clair-de-lune.com/2023-04-30/"/>
-        <updated>2023-04-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
 </feed>
