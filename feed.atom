@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T22:16:12.422Z</updated>
+    <updated>2023-05-30T22:29:18.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1576,15 +1576,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[この前のアプデで新しくできた800代ディメンションハブの第０区域。今まで850～900くらいが一番つらいとわたしは思っていたのでこれはすごい助かると思いました＾＾オオカミ少年が1100未満なのでその先の辛さはまだ知りませんけど＾＾；わたしはレポクエやダリンのエピソードクエ・ヘクトルクエなどで何とかこの辺りを乗り越えてたのですがなかにはエピソードクエとかもクリアできない程弱いキャラがいたりして育成が止まっている]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】連続配信挑戦１５日目！]]></title>
-        <id>https://www.youtube.com/watch?v=OAm_BEsKlUA</id>
-        <link href="https://www.youtube.com/watch?v=OAm_BEsKlUA"/>
-        <updated>2023-05-01T10:24:58.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
