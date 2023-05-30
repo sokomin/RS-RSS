@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T02:52:10.002Z</updated>
+    <updated>2023-05-30T03:17:47.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1634,16 +1634,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[ＧＷ前半の経験値ドロ2倍、お疲れ様でした。自分は腰痛が全快していないため、育成中キャラ(3キャラ)のデイリー関係と、鐘が鳴る時間帯のみ獣人で狩りしてた。それでも2倍＋鐘の効果は凄まじく、マキナ瞬殺→パワキ出しての狩りでレベルがグングン上がった。このペースだと、2時間／1日狩りでもＧＷ後半でLv1100超えて星谷デビューできそう。経験値だけなら神殿B2が旨いけど、やっぱ1000UMUが期待できる星谷で狩りたい。待ってろ！]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大型連休突入　【経験値&amp;ドロップアップイベント】]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-797.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-797.html"/>
-        <updated>2023-04-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[大型連休が来ましたね私は当番の日があるので完全な連休にはなりませんそれでも休みが多いのは嬉しいですよねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
