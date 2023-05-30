@@ -808,6 +808,16 @@
       "siteUrl": "https://extremetrailblazer.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-978.html",
+          "author": "Trailblazer",
+          "description": "800次元の沸き間隔一部狂ってない？1か所5体の40秒わきなのに、1体だけ沸かないやらその逆やら…850,900は正常だったのにどうして…5/30現在の経験値調べは860PTボスまで終えてます。あとは900レべまであげて…ということなのだが、850あたりから必要経験値がどんどん増えていくわけで…。金鯖ですらきついのに、本鯖でまともにやったら時間がかかりすぎる。ということで活用しましたディなんとかさん。装備は使いまわして油いれりゃな",
+          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-978.html",
+          "publishedOn": "2023-05-30T14:14:24.000Z",
+          "wordCount": null,
+          "title": "次元調査進展",
+          "imageUrl": null
+        },
+        {
           "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-977.html",
           "author": "Trailblazer",
           "description": "初期位置BISに必要だったもの、リゼネだった※Slvより知識が大事。いやSlvもある程度は要るけど…どうしてこの結論にいたったのかというとブレ→HP20万確保済みだと無力エビ→防御力って実は重要じゃなかったリゼネ→毎秒回復は効果大…だが、知識で回復量が大きく変化するという結果だった。もうこれ初期位置支援いらないんじゃないかな現場に出られるBISが大事らしいから、やっぱ初期位置特化じゃだめなんだろうな、うん…。あれ？これ",
@@ -1543,16 +1553,6 @@
           "wordCount": null,
           "title": "ダメージ全体表記。",
           "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-516.html",
-          "author": "medaka1985",
-          "description": "おはようございます。ソラの特製育成剤（プラチナ）ネネにて売る事が出来ます。30秒待たなくてもシステム→画面で戻れます。ディメンションでも出来ます。タティリスの箱。取引。最終確認。3回程、取引したところ、ラッキーな事にニケの靴出ました。読んで下さって本当にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-516.html",
-          "publishedOn": "2023-05-01T01:55:28.000Z",
-          "wordCount": 1019,
-          "title": "便利小技集。",
-          "imageUrl": "https://blog-imgs-165.fc2.com/m/e/d/medaka1985/202305011029444b1.png"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T13:48:31.761Z</updated>
+    <updated>2023-05-30T14:15:41.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[次元調査進展]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-978.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-978.html"/>
+        <updated>2023-05-30T14:14:24.000Z</updated>
+        <summary type="html"><![CDATA[800次元の沸き間隔一部狂ってない？1か所5体の40秒わきなのに、1体だけ沸かないやらその逆やら…850,900は正常だったのにどうして…5/30現在の経験値調べは860PTボスまで終えてます。あとは900レべまであげて…ということなのだが、850あたりから必要経験値がどんどん増えていくわけで…。金鯖ですらきついのに、本鯖でまともにやったら時間がかかりすぎる。ということで活用しましたディなんとかさん。装備は使いまわして油いれりゃな]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[海底神殿B2]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-544.html</id>
@@ -1614,16 +1624,6 @@ April UPDATE -->
         <updated>2023-05-01T06:20:50.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[便利小技集。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-516.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-516.html"/>
-        <updated>2023-05-01T01:55:28.000Z</updated>
-        <summary type="html"><![CDATA[おはようございます。ソラの特製育成剤（プラチナ）ネネにて売る事が出来ます。30秒待たなくてもシステム→画面で戻れます。ディメンションでも出来ます。タティリスの箱。取引。最終確認。3回程、取引したところ、ラッキーな事にニケの靴出ました。読んで下さって本当にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
