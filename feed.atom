@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T11:48:22.390Z</updated>
+    <updated>2023-05-30T12:35:55.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1624,16 +1624,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[おはようございます。ソラの特製育成剤（プラチナ）ネネにて売る事が出来ます。30秒待たなくてもシステム→画面で戻れます。ディメンションでも出来ます。タティリスの箱。取引。最終確認。3回程、取引したところ、ラッキーな事にニケの靴出ました。読んで下さって本当にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】(ＧＷ前半)プレイ状況]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-938.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-938.html"/>
-        <updated>2023-05-01T00:22:45.000Z</updated>
-        <summary type="html"><![CDATA[ＧＷ前半の経験値ドロ2倍、お疲れ様でした。自分は腰痛が全快していないため、育成中キャラ(3キャラ)のデイリー関係と、鐘が鳴る時間帯のみ獣人で狩りしてた。それでも2倍＋鐘の効果は凄まじく、マキナ瞬殺→パワキ出しての狩りでレベルがグングン上がった。このペースだと、2時間／1日狩りでもＧＷ後半でLv1100超えて星谷デビューできそう。経験値だけなら神殿B2が旨いけど、やっぱ1000UMUが期待できる星谷で狩りたい。待ってろ！]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
