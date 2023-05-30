@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-29T23:48:26.793Z</updated>
+    <updated>2023-05-30T01:35:30.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1634,16 +1634,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[大型連休が来ましたね私は当番の日があるので完全な連休にはなりませんそれでも休みが多いのは嬉しいですよねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slv、増える]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-967.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-967.html"/>
-        <updated>2023-04-30T12:32:30.000Z</updated>
-        <summary type="html"><![CDATA[あっさり説明すると解放変換の引きがよかった…腕でまさか両方Slv引くとは思わなかったし、頭も2つ引けるなんて考えてなかったです。まぁ、その後はごみのような結果になった模様。…え？これをやるためのお金はどこからって？はい。]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
