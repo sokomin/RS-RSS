@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-31T09:48:27.152Z</updated>
+    <updated>2023-05-31T10:17:53.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023.5.31 イベ更新]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/1d747c311006b154a2ba293f913ac378</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/1d747c311006b154a2ba293f913ac378?fm=rss"/>
+        <updated>2023-05-31T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[のろのろ台風発生中。
+
+April UPDATE -->
+
+
+(3)ボックスドロップイベント
+
+3月8日メンテ後から3月29日メンテ前まで
+「超ドリームBoxⅡ」 や、覚醒石、ネフォンクリーチャーのマナといったアイテムが出現する、『プレシャスハンティングBox』がドロップします！
+前期（9/7から9/21：「コンテスト装備BOX」
+後期（9/21から10/5）：「コンテスト装備BOXⅡ」
+後期「コンテスト装備BOXⅡ」がドロップします。
+
+2月21日メンテ後から4月26日メンテ前まで
+
+ちょっとイベントとは異なるかもしれませんがこちらも。
+
+
+5月24日メンテ後から6月14日メンテ前まで
+
+
+来週はログキャン以外のイベントが終了してしまうのでさすがに更新あるでしょう。
+さて、今週もまったり楽しみましょう。
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隣は20周年で盛り上がる頃]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-979.html</id>
