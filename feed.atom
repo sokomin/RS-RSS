@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-01T05:15:58.844Z</updated>
+    <updated>2023-06-01T05:28:09.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1593,15 +1593,6 @@ The post 2023年3～4月総括・婚活パーティー【RED STONE】 first appe
         <summary type="html"><![CDATA[おはようございます。手間は掛かりますが、その分、美味しさも一塩です。読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理アチャ促成栽培#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=3I5fjIlCc58</id>
-        <link href="https://www.youtube.com/watch?v=3I5fjIlCc58"/>
-        <updated>2023-05-02T17:27:32.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
