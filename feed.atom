@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-01T14:28:16.505Z</updated>
+    <updated>2023-06-01T14:48:08.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RSをやらずに、こういう動画を視聴してます]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202306010000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202306010000/"/>
+        <updated>2023-06-01T14:38:28.000Z</updated>
+        <summary type="html"><![CDATA[陰謀論って誰が作った言葉か知ってますか？]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[魔除け。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-546.html</id>
