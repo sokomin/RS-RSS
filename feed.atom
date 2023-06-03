@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-03T01:43:38.396Z</updated>
+    <updated>2023-06-03T02:47:11.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1597,16 +1597,6 @@ The post 2023年3～4月総括・婚活パーティー【RED STONE】 first appe
         <summary type="html"><![CDATA[前回の記事（【REDSTONE】2021版 1-1250 レベルート【RTA向け】）環境が2022年下旬になって大きく変動し、それに合わせて上記のルートでの進行が不可能になった反面、いくつかレベルートに変更を入れる必要が出て...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遺物。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-519.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-519.html"/>
-        <updated>2023-05-04T13:59:14.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。サブ用に遺物作成します。小一時間程掛けて仕上がりました。応援ありがとうございます！ブログやってて良かったと思う瞬間です。1037Lv♪誰だこのおっさん！（サブのシーフです）]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
