@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-03T22:47:54.425Z</updated>
+    <updated>2023-06-03T23:15:31.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1567,25 +1567,6 @@ The post 2023年3～4月総括・婚活パーティー【RED STONE】 first appe
         <summary type="html"><![CDATA[GWの経験値2倍を利用し、シルフラでレベ上げを実行しました。普段なら絶対しない3時間狩りを重ねていき、ついに最終目標であった1119レべに到達しました（腰のTRS1100DXU1解放の要求がそれ）。そしてそれまでの装備改良を反映し、5/6現在のSlvは…あ、これドーピング盛り盛りしてます。具体的にはミニPツイン（現身により単体+9）とスキル+5バッジ。それと別途改良してそのうち+4されます。…よって、ミニP等のドーピングを抜きにし]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】連続配信挑戦１９日目！]]></title>
-        <id>https://www.youtube.com/watch?v=vheHjEMDKLU</id>
-        <link href="https://www.youtube.com/watch?v=vheHjEMDKLU"/>
-        <updated>2023-05-05T10:58:38.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゴールデンウイーク。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-520.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-520.html"/>
-        <updated>2023-05-05T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。あまおう苺ミルクです。濃厚みるくと粒までカリカリ苺が最高です。穏やかな気持ちになれます。読んで頂き、本当にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
