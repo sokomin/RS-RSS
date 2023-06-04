@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-04T17:48:20.709Z</updated>
+    <updated>2023-06-04T18:19:14.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1566,16 +1566,6 @@ April UPDATE -->
 The post 2023年3～4月総括・婚活パーティー【RED STONE】 first appeared on 無職と美学とシュルレアリスム.]]></summary>
         <author>
             <name>cho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キンっキンに冷えて（略）]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-521.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-521.html"/>
-        <updated>2023-05-06T05:55:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。国際ホテルです。樽生という拘りのノンアルコールビールです。もんじゃ焼きです。お店で店員さんに作って貰います。出来上がって10分程で、食べ始めるのがおすすめです。へらでお焦げを頂く、少し特殊な食べ方です。いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
