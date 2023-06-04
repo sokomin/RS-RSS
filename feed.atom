@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-04T23:16:27.167Z</updated>
+    <updated>2023-06-04T23:28:13.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1544,15 +1544,6 @@ April UPDATE -->
         <id>https://www.youtube.com/watch?v=cq4h9hJSM0g</id>
         <link href="https://www.youtube.com/watch?v=cq4h9hJSM0g"/>
         <updated>2023-05-06T16:15:30.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】連続配信挑戦２０日目！]]></title>
-        <id>https://www.youtube.com/watch?v=F_O_cPZlHBQ</id>
-        <link href="https://www.youtube.com/watch?v=F_O_cPZlHBQ"/>
-        <updated>2023-05-06T11:20:14.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>
