@@ -180,6 +180,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fp2eeWqTRyI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fp2eeWqTRyI",
+          "publishedOn": "2023-06-04T08:17:31.000Z",
+          "wordCount": null,
+          "title": "毒闇悪魔育成配信#2【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OVAcXbZTgfc",
           "author": null,
           "description": "",
