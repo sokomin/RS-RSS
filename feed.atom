@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-04T14:47:52.794Z</updated>
+    <updated>2023-06-04T15:16:07.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ミスが目立つ場合]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-802.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-802.html"/>
+        <updated>2023-06-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今週は台風の影響で大雨がありました道路は冠水し公共機関はダイヤが乱れてしまい大変でしたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[封印された禁忌。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-549.html</id>
@@ -1576,16 +1586,6 @@ The post 2023年3～4月総括・婚活パーティー【RED STONE】 first appe
         <summary type="html"><![CDATA[ようやく寒い日もなくなってきて、早くも今年の三分の一が終わってしまったことに気づいた今日この頃、いかがお過ごしでしょうか。第三の猫です。今回、スクリーンショットフォルダを開けると、第三の猫が写っているものが一枚もありませんでした。そういう時もあるのでしょう。さて、コスチュームのキャンペーンがあったので夏の装いに変えたnise1110。久しぶりに欲張りレビットに出会いました。RIPこの前、非常に効果的であるこ]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】(ＧＷ後半)プレイ状況]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-940.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-940.html"/>
-        <updated>2023-05-06T02:58:18.000Z</updated>
-        <summary type="html"><![CDATA[雨アチャのレベリングに着手してしまったため、この機会を逃すまじと無理やりモチベアップを試みた。強襲者購入。1000UMU箱は先人の知恵に交換したため、強襲者は自力購入するつもりが、高額持続＆狩りモチベダウンで先送りになっていた。随分時間は掛かったけど、これでようやく自分自身、Lv1300後半の雨アチャを名乗れる様になった気がする(個人の感想です)。しかし、この弓は強いね。弱化強化が共に稼げるところと、魔法致命打]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
