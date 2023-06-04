@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-04T16:35:01.155Z</updated>
+    <updated>2023-06-04T16:47:38.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1576,16 +1576,6 @@ The post 2023年3～4月総括・婚活パーティー【RED STONE】 first appe
         <summary type="html"><![CDATA[こんばんは。国際ホテルです。樽生という拘りのノンアルコールビールです。もんじゃ焼きです。お店で店員さんに作って貰います。出来上がって10分程で、食べ始めるのがおすすめです。へらでお焦げを頂く、少し特殊な食べ方です。いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ひよこ無双]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-194.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-194.html"/>
-        <updated>2023-05-06T04:38:57.000Z</updated>
-        <summary type="html"><![CDATA[ようやく寒い日もなくなってきて、早くも今年の三分の一が終わってしまったことに気づいた今日この頃、いかがお過ごしでしょうか。第三の猫です。今回、スクリーンショットフォルダを開けると、第三の猫が写っているものが一枚もありませんでした。そういう時もあるのでしょう。さて、コスチュームのキャンペーンがあったので夏の装いに変えたnise1110。久しぶりに欲張りレビットに出会いました。RIPこの前、非常に効果的であるこ]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
