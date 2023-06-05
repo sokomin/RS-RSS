@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-05T22:28:42.963Z</updated>
+    <updated>2023-06-05T22:47:41.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1528,15 +1528,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[皆さんはGW楽しめたでしょうか私は途中仕事日もありましたがゆっくりできましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デイリー＆装備強化配信#2【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=WM3vk0KxVwc</id>
-        <link href="https://www.youtube.com/watch?v=WM3vk0KxVwc"/>
-        <updated>2023-05-07T10:29:09.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
