@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-05T14:48:12.399Z</updated>
+    <updated>2023-06-05T15:16:59.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1537,16 +1537,6 @@ April UPDATE -->
         <updated>2023-05-07T10:29:09.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMUドロップ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-522.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-522.html"/>
-        <updated>2023-05-07T02:52:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。初めて見るコスです。鐘のお陰か、UMU拾えました♪（鐘使って下さる方々、本当に助かります。圧倒的感謝・・・！）ゲリオ超級にて。強すぎる…。良いもの見せて頂けました！サブのシーフ899Lv♪ビーストテイマー936Lv♪メインのシーフ1038Lv(^^♪読んで下さって、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
