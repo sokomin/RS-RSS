@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T02:56:27.657Z</updated>
+    <updated>2023-06-06T03:22:05.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1527,16 +1527,6 @@ April UPDATE -->
         <updated>2023-05-08T05:03:12.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PTでの注意点]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-798.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-798.html"/>
-        <updated>2023-05-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[皆さんはGW楽しめたでしょうか私は途中仕事日もありましたがゆっくりできましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
