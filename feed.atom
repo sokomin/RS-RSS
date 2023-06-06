@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T11:48:00.131Z</updated>
+    <updated>2023-06-06T12:35:07.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レプリカ代行。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-551.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-551.html"/>
+        <updated>2023-06-06T11:58:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。運集中鍛錬 特殊強化(運+100)です。メンテまで25%(*'▽')代行での解放です。結構、成功して良かったです。何が出るかな。当たりです！エリート生霊のステータスです。ビーストテイマーのクリーチャーです。最後にギルドの緑故地の追加です。読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ランダムゴールド袋。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-550.html</id>
