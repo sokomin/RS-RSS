@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T10:47:59.813Z</updated>
+    <updated>2023-06-07T11:13:53.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1529,16 +1529,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[こんばんは。カラフルな文鎮が、夏を感じさせます。読んで下さって、本当にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】(ＧＷ)プレイ結果]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-941.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-941.html"/>
-        <updated>2023-05-08T23:04:16.000Z</updated>
-        <summary type="html"><![CDATA[最終的に、雨アチャはLv1389でフィニッシュした。腰の状況を考えると、自分なりに最善を尽くしたと思ってる(大袈裟ｗ)。しかし、GW明け初日に出張がはいってしまい、良くなりかけた腰に多大な負荷を掛けてしまった。新幹線のぞみのシートってヘボいよね？そこみんさんが、星降る～ウポス知識火力Tier表を作ってくれてて、見るとアチャはＳランク！狩り楽だ、とは感じていたけど、まさかＳランクだとは思わなかった。獣人と同じＳラ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
