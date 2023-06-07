@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T10:31:41.037Z</updated>
+    <updated>2023-06-07T10:47:59.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レプリカOP変換「ついに俺もロト入りか」]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-980.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-980.html"/>
+        <updated>2023-06-07T10:35:33.000Z</updated>
+        <summary type="html"><![CDATA[OP変換「俺は…？」あと石の日に鐘ならせなくなっちゃった！【配布品とか】・港町Box当たり障りのない詳細【スフィアリミテッド】6/14(水)メンテまで。いつも通り1週間。スフィアにおまけつけたいつもの。前から出ているパワキ1時間のやつもあるよ。羊はそのまんま。染めません。不変な詳細【しれっとイベント3つな感謝祭】6/21(水)メンテまで。3つとも。① ゲーム内ログキャンゲーム内でやるログキャン。タブが増えてる。15日分…つ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新着イベント情報]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1262.html</id>
