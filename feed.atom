@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T06:21:36.369Z</updated>
+    <updated>2023-06-07T06:48:12.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1262.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1262.html"/>
+        <updated>2023-06-07T06:31:06.000Z</updated>
+        <summary type="html"><![CDATA[デイリーログイン、ボックスドロップ、チャットバフの3つが内容となってます。チャットバフは2種類あり、「ぼうけんか」「かんしゃ」の2つですね。各詳細はイベントページにてご確認ください。゜。°。°。°。°。°。°。°。゜。°。°。°。課金キャンペーンはスフィアとフェイタルロトが新規開催中。それでは今週ものんびり楽しみましょう～( ´ω｀)]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消える2軍装備たち。]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-370.html</id>
