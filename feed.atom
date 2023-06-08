@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-08T23:29:28.561Z</updated>
+    <updated>2023-06-08T23:48:13.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1497,53 +1497,6 @@ PS4で始めたのでSSはスマホからになりますが(^o^)
         <summary type="html"><![CDATA[どうも、REDSTONEブログ徘徊が隠れた趣味のおっさんです。久しぶりに青鯖ギルドのブログまとめサイトを見ていたら、2013年頃に更新停止しているブログが2020年頃に更新されてて驚いた。こういうの何だか嬉しいwそして、まとめサイト中、青鯖ブログで今も更新されているのは自分とミツリンさんだけという、とても悲しい現実を突き付けられた。18年も続いてるゲームだし、当たり前といえは当たり前だけど、何だか切ない。みんな何故]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023.5.10 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/f4a21e530543690b8c088edc6effbacf</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/f4a21e530543690b8c088edc6effbacf?fm=rss"/>
-        <updated>2023-05-10T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[連休も終わり、通常モードになりました。
-
-April UPDATE -->
-
-
-
-(3)ボックスドロップイベント
-
-3月8日メンテ後から3月29日メンテ前まで
-「超ドリームBoxⅡ」 や、覚醒石、ネフォンクリーチャーのマナといったアイテムが出現する、『プレシャスハンティングBox』がドロップします！
-前期（9/7から9/21：「コンテスト装備BOX」
-後期（9/21から10/5）：「コンテスト装備BOXⅡ」
-後期「コンテスト装備BOXⅡ」がドロップします。
-
-2月21日メンテ後から4月26日メンテ前まで
-
-
-課金イベントはこちら
-
-
-
-4月26日メンテ後から5月17日メンテ前まで
-
-
-来週はGWスペシャルイベントやログキャンも終わるので何か始まるかな。
-といっても多分ログキャンがまた始まるんだろうけど・・・
-まぁ期待しましょう。
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
