@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-08T03:21:02.330Z</updated>
+    <updated>2023-06-08T03:33:04.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1554,16 +1554,6 @@ April UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あくまで保険]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-366.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-366.html"/>
-        <updated>2023-05-09T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[これはリアルなほうの話となるのですがＧＷに入る前にちょっとした変化が起きました。その変化により状況によってはわたしはある日突然休止を伝えられずＲＳを数週間休む事になると思います。状況次第なので休止を伝えられる事もあるかもです。それはいつになるのかわたしには全く分からず今こう書いていてもすぐそれが来るとも限りませんがすぐ来る可能性がないとも言えないのが現状だったりします＾＾；確実な事は数週間後～数年]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
