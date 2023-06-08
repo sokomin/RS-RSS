@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-08T02:54:38.370Z</updated>
+    <updated>2023-06-08T03:21:02.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[焼き肉ランチ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-553.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-553.html"/>
+        <updated>2023-06-08T03:02:05.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。温州みかん×ケールの青汁です。大小、様々なメダカが居ます。アバラ定食です。噛むと肉汁が溢れ、最高です。読んで下さって、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マナウォーカー。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-552.html</id>
@@ -1552,16 +1562,6 @@ April UPDATE -->
         <link href="http://jendoradoo.blog.fc2.com/blog-entry-366.html"/>
         <updated>2023-05-09T15:30:00.000Z</updated>
         <summary type="html"><![CDATA[これはリアルなほうの話となるのですがＧＷに入る前にちょっとした変化が起きました。その変化により状況によってはわたしはある日突然休止を伝えられずＲＳを数週間休む事になると思います。状況次第なので休止を伝えられる事もあるかもです。それはいつになるのかわたしには全く分からず今こう書いていてもすぐそれが来るとも限りませんがすぐ来る可能性がないとも言えないのが現状だったりします＾＾；確実な事は数週間後～数年]]></summary>
-        <author>
-            <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1100到達＾＾]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-365.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-365.html"/>
-        <updated>2023-05-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年のＧＷはそこそこ狩り時間が確保できお昼頃の鐘の時間も半分くらいは参加する事ができたのでＧＷ前は1097くらいだったオオカミ少年が1100になりました＾＾1000になったのが2021年7月くらいだったようなので1年10ヶ月かけて100上がった事になります＾＾信じられないかもしれませんがわたしにしてはハイペースな上がり方です＾＾月に4.5くらいレベル上がってる計算かな…？物理ネクロの狩り効率が悪い事もなかなか成長しない理由]]></summary>
         <author>
             <name>ジェンド</name>
         </author>
