@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-09T13:47:52.090Z</updated>
+    <updated>2023-06-09T14:16:00.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[やる気と気力、どこいった？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-981.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-981.html"/>
+        <updated>2023-06-09T13:56:30.000Z</updated>
+        <summary type="html"><![CDATA[別のゲーム。やる気がグッバイGoDdByEしてしまったため、クリ冒険とログキャンのぶん回し以外は放置してます。え？適応度200％超えで通常報酬？！始まるかまだ分からない金鯖までに…なんとか次元PTボス900までの経験値を終わらせておきたいのだが、回線が不安定で怖い。一応おおざっぱな敵耐久力は測定したんだけどね。レベル補正あるし、正確な値拾うには装備があれだし。それ以外？目標がないからやる気も出ないし、目標ができて]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドラゴンツイスター。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-554.html</id>
