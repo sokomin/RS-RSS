@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-10T12:55:12.550Z</updated>
+    <updated>2023-06-10T13:18:20.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ラストチャプター。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-555.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-555.html"/>
+        <updated>2023-06-10T12:59:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。可愛いコスチュームです。配布箱の中身は…なかなか良いアイテムです。1250UMUは癖が強い。なんとも情けないやられ方です(笑)残念でしたが、とても楽しかったです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[光奏師日記NEO　我は蘇った！！！]]></title>
         <id>https://ankokuprpr.blog.fc2.com/blog-entry-17.html</id>
