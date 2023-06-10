@@ -180,6 +180,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0IxgKFTR2xQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0IxgKFTR2xQ",
+          "publishedOn": "2023-06-10T01:51:19.000Z",
+          "wordCount": null,
+          "title": "メテオWIZ育成配信#4【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fp2eeWqTRyI",
           "author": null,
           "description": "",
@@ -913,6 +923,16 @@
       "siteUrl": "https://3rdcat.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://3rdcat.blog.fc2.com/blog-entry-196.html",
+          "author": "第三の猫",
+          "description": "梅雨だったり梅雨じゃなかったりするけど、雨はお構いなしに降る季節がやってまいりました。こんにちは第三の猫です。少し間隔が開きましたので、これまでの出来事振り返りつつ始めていきます。狩り：宝箱の経験値バフも重ねると結構すごい事になりますね。ただ、時間切れ前に次の箱を開けないといけないので大変です。クエスト：メインクエスト2の材料集めでもう一度フニンに話しかけると、協会直行の選択肢が出る事に気づきまし",
+          "link": "https://3rdcat.blog.fc2.com/blog-entry-196.html",
+          "publishedOn": "2023-06-10T02:31:02.000Z",
+          "wordCount": null,
+          "title": "壁ウィンディ",
+          "imageUrl": null
+        },
+        {
           "id": "https://3rdcat.blog.fc2.com/blog-entry-195.html",
           "author": "第三の猫",
           "description": "季節の変わり目を感じる今日この頃、変わらなくていいのにと春を見送る第三の猫です。さて、変わったといえば、テイムしたペットのレベルが本体依存になったので、もうLv1青亀をペットすることはできないようです。Lv1青亀で変なチャレンジするの好きだったので少し残念な気もしますが、育成の手間がなくなったので普通に遊ぶ分にはにプラスです。そんな青亀も今では元気に範囲多段スキルを放って、コレジャナイ感を熟成させていま",
@@ -1398,16 +1418,6 @@
           "publishedOn": "2023-05-12T09:08:00.000Z",
           "wordCount": null,
           "title": "青汁ストレート。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-526.html",
-          "author": "medaka1985",
-          "description": "こんばんは。コンプリートです。50本で売れます。人気の鎧。約500本です。もいっちょ！サブが904Lv到達です。読んで下さって本当にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-526.html",
-          "publishedOn": "2023-05-11T14:01:29.000Z",
-          "wordCount": null,
-          "title": "狂戦士の怨念。",
           "imageUrl": null
         }
       ]

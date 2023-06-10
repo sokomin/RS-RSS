@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-10T01:37:56.653Z</updated>
+    <updated>2023-06-10T02:37:13.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[壁ウィンディ]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-196.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-196.html"/>
+        <updated>2023-06-10T02:31:02.000Z</updated>
+        <summary type="html"><![CDATA[梅雨だったり梅雨じゃなかったりするけど、雨はお構いなしに降る季節がやってまいりました。こんにちは第三の猫です。少し間隔が開きましたので、これまでの出来事振り返りつつ始めていきます。狩り：宝箱の経験値バフも重ねると結構すごい事になりますね。ただ、時間切れ前に次の箱を開けないといけないので大変です。クエスト：メインクエスト2の材料集めでもう一度フニンに話しかけると、協会直行の選択肢が出る事に気づきまし]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メテオWIZ育成配信#4【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=0IxgKFTR2xQ</id>
+        <link href="https://www.youtube.com/watch?v=0IxgKFTR2xQ"/>
+        <updated>2023-06-10T01:51:19.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[やる気と気力、どこいった？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-981.html</id>
@@ -1467,16 +1486,6 @@ PS4で始めたのでSSはスマホからになりますが(^o^)
         <link href="https://medaka1985.fc2.net/blog-entry-527.html"/>
         <updated>2023-05-12T09:08:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。定期的に食べたくなります。（ピントがズレて申し訳無いです。）市場を通さない分、比較的安めです。30秒一気飲みチャレンジもあります。私も1回だけ成功したので、名前札あります。（景品は700円分の割引券です。）最近、歳を取った性か月日が経つのが早く感じます。読んでくれて、本当にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狂戦士の怨念。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-526.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-526.html"/>
-        <updated>2023-05-11T14:01:29.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。コンプリートです。50本で売れます。人気の鎧。約500本です。もいっちょ！サブが904Lv到達です。読んで下さって本当にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
