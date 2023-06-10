@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-10T06:47:49.419Z</updated>
+    <updated>2023-06-10T07:14:04.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[光奏師日記NEO　我は蘇った！！！]]></title>
+        <id>https://ankokuprpr.blog.fc2.com/blog-entry-17.html</id>
+        <link href="https://ankokuprpr.blog.fc2.com/blog-entry-17.html"/>
+        <updated>2023-06-10T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[3か月ぶりの更新です（爆）お久しぶりですperaです。ここ最近ログインもなかなかできておらず気づけば復帰者扱いなわけです復帰者クエストなるものが発生したので一通り終わらせまして放置していた炎の石クエの続きも完遂そんなわけで近況報告でしたおそらく次回の更新は3か月後かな？（ﾏﾃ）ではﾉｼ]]></summary>
+        <author>
+            <name>pera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[壁ウィンディ]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-196.html</id>
