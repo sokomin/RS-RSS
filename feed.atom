@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-11T14:48:25.781Z</updated>
+    <updated>2023-06-11T15:15:50.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドロップイベント、チャットバフ等]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-803.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-803.html"/>
+        <updated>2023-06-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[私は偏頭痛持ちなのですが雨が多いこの時期は朝からしんどい日が多いですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[REDSTONE] 本鯖物理獣人育成論]]></title>
         <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202306110000/</id>
