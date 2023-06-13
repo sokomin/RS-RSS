@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-13T14:47:59.018Z</updated>
+    <updated>2023-06-13T15:16:27.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[旗バフ]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-371.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-371.html"/>
+        <updated>2023-06-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ギルドデイリーやGDなどをすることによりたまったギルドポイントを振ることによって強化されていく旗バフですがわたしのキャラが所属しているGでは大体が平均Lv３くらいが多いのかな？と思います。ただしわたしが管理してる倉庫Gなどは育成がまだまだでなかにはLv１が数個しかないGもあったりします＾＾；活動人数自体少ないですからね＾＾；そんなG様の中で毎週日曜に提示GDを行っているG島ぐらしはかなりの充実度を誇ります！ち]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[REDSTONE] 本鯖知識キャプテン育成論]]></title>
         <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202306120000/</id>
