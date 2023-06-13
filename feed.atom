@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-13T12:34:09.157Z</updated>
+    <updated>2023-06-13T12:58:35.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[初期位置支援にSlvは必要かって？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-983.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-983.html"/>
+        <updated>2023-06-13T12:42:15.000Z</updated>
+        <summary type="html"><![CDATA[ほどほどでいいんじゃないかな？盛るのは楽しいけどね。BISでそういう根拠。ブレ…装備で20万なら不要に。高ランクだと剥がし、反転が多いためこれ前提にしにくい防御…無限に上昇する。ただし、物理面だけだし、現在の攻城では火力がぶっとびすぎて効果が薄すぎるリゼネ…剥がし、反転対象ではある。それでも装備の影響を受けず、常時回復は心強いWIZでそういう根拠？そりゃ上限値のせい。リトルで女神をするのであれば…もりもりにし]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[900Lv～クエスト　妹の行方【 REDSTONE / 붉은보석 】]]></title>
         <id>https://www.youtube.com/watch?v=35h0pFzTB9w</id>
