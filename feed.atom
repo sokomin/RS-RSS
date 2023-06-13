@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-13T13:48:16.155Z</updated>
+    <updated>2023-06-13T14:15:48.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[REDSTONE] 本鯖知識キャプテン育成論]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202306120000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202306120000/"/>
+        <updated>2023-06-13T13:46:23.000Z</updated>
+        <summary type="html"><![CDATA[そういえばキャプテンの育成紹介記事ってほとんど書いてなかったなぁと思って書くことにした。実装時のアプデ紹介で触れたまま放置してましたね。配信で何度か紹介したりはしましたが、文章に落とし込むのはこれ...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初期位置支援にSlvは必要かって？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-983.html</id>
