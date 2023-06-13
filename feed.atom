@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-12T23:48:10.744Z</updated>
+    <updated>2023-06-13T01:40:46.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石焼きビビンバ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-558.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-558.html"/>
+        <updated>2023-06-13T01:17:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。焼き肉屋さんのビビンバ。最高です。明日までのスフィアキャンペーンです。良いの引きました(*'▽')ビーストテイマー943Lvです。メインシーフ1047Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[次元PTボス調査進展？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-982.html</id>
@@ -1472,6 +1482,15 @@ PS4で始めたのでSSはスマホからになりますが(^o^)
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[黒魔育成配信#6【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=PNcX_wWf6gs</id>
+        <link href="https://www.youtube.com/watch?v=PNcX_wWf6gs"/>
+        <updated>2023-05-14T18:03:04.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[宝箱バフについて]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-799.html</id>
         <link href="https://mitsurin32.blog.fc2.com/blog-entry-799.html"/>
@@ -1489,25 +1508,6 @@ PS4で始めたのでSSはスマホからになりますが(^o^)
         <summary type="html"><![CDATA[750次元の毒ダメージで死ぬ…一応抵抗を完備していれば問題はなかったよ。そうじゃなかったから2500とか喰らってそこから初撃もらって　死　ですねぇ…今の進捗。・自力狩り→750次元で詰む・手伝い→比較対象の商店2Fまで・今後の予定→ブロック持ちも調べたいそういえば850の次元って…黒い球飛ばしてくるんだね…。抵抗があれば問題ないけど、ここ1か所に5体沸いているうえにそこからこれ飛んでくる…きつくない？※画像は全吸収をわざと]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チーズフォンデュの老舗。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-529.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-529.html"/>
-        <updated>2023-05-14T13:09:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。フィンランド産です。暖炉が心地良いです。メインディッシュです。チーズフォンデュです。苺大好きです。素晴らしいお皿です。いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】連続配信挑戦２８日目！]]></title>
-        <id>https://www.youtube.com/watch?v=cpy0kdulfIw</id>
-        <link href="https://www.youtube.com/watch?v=cpy0kdulfIw"/>
-        <updated>2023-05-14T12:18:15.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
