@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-13T02:54:53.640Z</updated>
+    <updated>2023-06-13T03:17:41.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1497,16 +1497,6 @@ PS4で始めたのでSSはスマホからになりますが(^o^)
         <updated>2023-05-14T18:03:04.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宝箱バフについて]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-799.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-799.html"/>
-        <updated>2023-05-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GWの連休が終わって普通の生活に戻りましたね今週はしんどかった人も多かったのではないでしょうかこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
