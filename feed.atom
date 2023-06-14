@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-14T19:28:21.507Z</updated>
+    <updated>2023-06-14T19:48:05.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1541,16 +1541,6 @@ PS4で始めたのでSSはスマホからになりますが(^o^)
 ばいば～い(´・ω・｀)ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ショートケーキ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-531.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-531.html"/>
-        <updated>2023-05-16T07:32:17.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。美しいガーデニングです。遅らせながら、母の日ケーキです。道路の脇にも新緑有りです。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
