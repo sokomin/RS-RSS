@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-14T11:13:20.812Z</updated>
+    <updated>2023-06-14T11:28:17.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1517,16 +1517,6 @@ PS4で始めたのでSSはスマホからになりますが(^o^)
         <updated>2023-05-16T01:30:22.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】1380-1700Lvの育成難易度Tier表]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202305120000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202305120000/"/>
-        <updated>2023-05-15T23:25:38.000Z</updated>
-        <summary type="html"><![CDATA[【関連】【REDSTONE】900-1250Lvの知識職育成Tier表前回の知識Tier表に続き、「星降る以降のも作って！」と要望を多数いただいたので作ってみました。今回は物理・知識・合算版と3種類用意してます。これから始め...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
