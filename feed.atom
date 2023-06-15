@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T03:47:36.939Z</updated>
+    <updated>2023-06-15T04:19:55.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ペットの攻撃速度。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-560.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-560.html"/>
+        <updated>2023-06-15T04:18:31.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。300Lv制限Gv用のビーストテイマーです。ログインキャンペーン、コンプリートです。ヴァンパイアは狼の洞窟にいます。無事テイム出来ました♪ヴァンパイア、ゴードマン、さすらう傭兵。3種類のペットの攻撃速度はほぼ一緒でした。（良く見ると、傭兵が少しだけ早いです。）テンプラーと傭兵だと、撲滅速度がほぼ同じだったので大幅な違いは無いと思います。3最後に、ビーストテイマー本体のレベルが上がるとペットの攻撃]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[900Lv～　ゲリオ超級前提クエ【 REDSTONE / 붉은보석 】]]></title>
         <id>https://www.youtube.com/watch?v=_laBzFpVAu4</id>
