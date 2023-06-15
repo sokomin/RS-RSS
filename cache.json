@@ -6,6 +6,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202306160000/",
+          "author": "そこらの民衆",
+          "description": "最近、犬について研究しといたほうがいいなと思って調べてたのでその話についてまとめていきます。というのも、WIZの弱体化が著しくてその代替ビルドを探していたところ、知識犬が意外と強いよ？という話を聞いた...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202306160000/",
+          "publishedOn": "2023-06-15T19:31:09.000Z",
+          "wordCount": 1298,
+          "title": "[REDSTONE] 本鯖知識犬育成論",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/ed3852193b789176cd77bc362c5fbf7c21f302f9.10.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202306120000/",
           "author": "そこらの民衆",
           "description": "そういえばキャプテンの育成紹介記事ってほとんど書いてなかったなぁと思って書くことにした。実装時のアプデ紹介で触れたまま放置してましたね。配信で何度か紹介したりはしましたが、文章に落とし込むのはこれ...",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T19:27:55.045Z</updated>
+    <updated>2023-06-15T19:47:46.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[REDSTONE] 本鯖知識犬育成論]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202306160000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202306160000/"/>
+        <updated>2023-06-15T19:31:09.000Z</updated>
+        <summary type="html"><![CDATA[最近、犬について研究しといたほうがいいなと思って調べてたのでその話についてまとめていきます。というのも、WIZの弱体化が著しくてその代替ビルドを探していたところ、知識犬が意外と強いよ？という話を聞いた...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ペットの攻撃速度。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-560.html</id>
