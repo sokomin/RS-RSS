@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T13:47:46.291Z</updated>
+    <updated>2023-06-16T14:14:37.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鏡の魔法書。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-561.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-561.html"/>
+        <updated>2023-06-16T13:56:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。荷物が重そうです。良ドロップです。1250UMUは多彩です。久しぶりの青い宝箱です。海底神殿B2の外周です。比率指か耐性靴に使いたいです。光って無いですが、1048Lvです♪いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運営「岩の日やります！！」]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-985.html</id>
