@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T11:48:02.238Z</updated>
+    <updated>2023-06-16T12:34:02.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1330,22 +1330,6 @@ I'd like to thank y'all for bein patient with me annnnnd my current laptop :D]]>
         <summary type="html"><![CDATA[それでも全くやる気が出なかったので、自分の気持ちに素直になってRSにはインせずに他のことをやっています。もう3000円程度でやる気が戻ることはないみたいですね・・ｗまぁ、やる気の出ないゲームを無理にやる...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Update Post Details]]></title>
-        <id>tag:blogger.com,1999:blog-622089654895304373.post-5106413258205278837</id>
-        <link href="https://diaanrs.blogspot.com/2023/05/next-update-post-details.html"/>
-        <updated>2023-05-18T00:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Just wanted to let y'all know that the update post for the coming update will NOT be on time as I only have a laptop and don't have access to my old SSD yet...ran into issues upgrading my pc to ryzen heh
-
-
-Will keep updating folks when possible (will be tearing into my case soon and getting motherboard ready to ship out to get worked on) x_x wish me luck folks
-
-
--Diaan]]></summary>
-        <author>
-            <name>noreply@blogger.com (Unknown)</name>
         </author>
     </entry>
 </feed>
