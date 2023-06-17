@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-17T15:48:05.059Z</updated>
+    <updated>2023-06-17T16:19:58.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1340,16 +1340,6 @@ I'd like to thank y'all for bein patient with me annnnnd my current laptop :D]]>
 ばいばーい( ･ω･)/]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】改善要望]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-943.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-943.html"/>
-        <updated>2023-05-19T04:15:28.000Z</updated>
-        <summary type="html"><![CDATA[DISCORDでも散々あがっているが、現状REDSTONEには改善が必要なことが山積みである。まず、最優先は精鋭討伐のクライアント強制終了を直すこと。分からないのか、やらないのかは不明だが、ユーザー離れの最たる要因なため、大至急取り組んでもらいたい。ここからは改善要望を優先度順に書いていく。・装備品や消耗品の売買システム化されておらず、露店販売手段しかない。MMORPGにおいては、かなり致命的な弱点でもあり、ユーザー]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
