@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-17T20:47:54.407Z</updated>
+    <updated>2023-06-17T21:13:34.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1276,16 +1276,6 @@ I'd like to thank y'all for bein patient with me annnnnd my current laptop :D]]>
         <summary type="html"><![CDATA[18を漢字にすると岩…どういう…ことだ…！【岩の日セール】5/24(水)メンテまで。短い…。期間中1回のみ交換可能。180円。中身は…爆竜心臓5個とかファストヒール50個とか…天球？今後も毎月18日スタートで何かしら販売するらしい。だから180円。18円…いやなんでもない。詳細は0円【ロトボックス不具合】ロトボックス、ミニロトボックスに予期せぬ不具合が発生しているとかなんとか。…ところで、その原因は？たった一つの詳細と何百もの]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[涼しい飲み物。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-534.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-534.html"/>
-        <updated>2023-05-19T09:06:47.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。地元の車窓から。青汁×みかんのスムージー。青汁×ブルーベリー。ケール×ビーツ（野菜）の青汁。自家製の親子丼です。いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
