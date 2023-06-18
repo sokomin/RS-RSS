@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-18T12:56:29.527Z</updated>
+    <updated>2023-06-18T13:19:30.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1219,63 +1219,6 @@ April UPDATE -->
         <updated>2023-05-20T07:15:50.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May 2023 Update Guide (COMPLETE Guide)]]></title>
-        <id>tag:blogger.com,1999:blog-622089654895304373.post-9019642017422908334</id>
-        <link href="https://diaanrs.blogspot.com/2023/05/may-2023-update-guide-complete-guide.html"/>
-        <updated>2023-05-20T01:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Table of Contents
-I: Abyss difficulty added to ES/Elite Supes
-II: Added fancy health bar to ES/Elite Supes
-III: New Episode Quest
-IV: New Sub Quest
-
-
-I: Abyss difficulty added to ES/Elite Supes
-REQUIRED TO ENTER: 1 Radiant Fairy Wing
--100% chance for Split Evil Ideas (BTL5)
--1250 ULT weapons will be additionally dropped from Deep Dark and Abyss difficulty
--1250 ULT weapons will be dropped as "Corrupted Force Weapon Selection Chest"
-
--Abyss difficulty has a higher rate than Deep Dark for that ^
--The Amount of EXP that you can gain from ES/Elite Supes is listed in this chart:
-
-
-
-
-II:  Added fancy health bar to Elite Supes
-
-
--New health bar UI for each boss stage, with improved visibility
--Location of this health bar is upper center of your screen (and, ya can't move it, so get used to it)
-
-
-
-
-
-
-
-III:  New Episode Quest
-
-
-Requirements: 1125+ and you need to have done part 2 (Shining Binary Star)
-Continue the questline at Bigaple Assoc. Branch Deputy Director
-
-
-
-IV: New Sub Quest
-Requirements: 1350+ and you need to have done "Cut the Stems" quest
-Talk with Galerion Campsite NPC named Dispatch Member to start this quest
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-I'd like to thank y'all for bein patient with me annnnnd my current laptop :D]]></summary>
-        <author>
-            <name>noreply@blogger.com (Unknown)</name>
         </author>
     </entry>
 </feed>
