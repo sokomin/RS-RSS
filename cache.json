@@ -274,7 +274,18 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://intothe.info/?p=1724",
+          "author": "marsborn",
+          "description": "オープンβ、サーバースラム、アーリーアクセス期間をプレーしてソロ専L...",
+          "link": "https://intothe.info/uncategorized/my-impression-about-diablo%e2%85%b3/",
+          "publishedOn": "2023-06-18T12:13:37.000Z",
+          "wordCount": 1027,
+          "title": "DiabloⅣを遊んで",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "魔法の壁のリアルライふ",
@@ -879,16 +890,6 @@
           "publishedOn": "2023-06-10T02:31:02.000Z",
           "wordCount": null,
           "title": "壁ウィンディ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://3rdcat.blog.fc2.com/blog-entry-195.html",
-          "author": "第三の猫",
-          "description": "季節の変わり目を感じる今日この頃、変わらなくていいのにと春を見送る第三の猫です。さて、変わったといえば、テイムしたペットのレベルが本体依存になったので、もうLv1青亀をペットすることはできないようです。Lv1青亀で変なチャレンジするの好きだったので少し残念な気もしますが、育成の手間がなくなったので普通に遊ぶ分にはにプラスです。そんな青亀も今では元気に範囲多段スキルを放って、コレジャナイ感を熟成させていま",
-          "link": "https://3rdcat.blog.fc2.com/blog-entry-195.html",
-          "publishedOn": "2023-05-20T00:08:03.000Z",
-          "wordCount": 272,
-          "title": "(×)",
           "imageUrl": null
         }
       ]

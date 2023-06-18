@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-18T11:47:39.860Z</updated>
+    <updated>2023-06-18T12:31:06.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DiabloⅣを遊んで]]></title>
+        <id>https://intothe.info/?p=1724</id>
+        <link href="https://intothe.info/uncategorized/my-impression-about-diablo%e2%85%b3/"/>
+        <updated>2023-06-18T12:13:37.000Z</updated>
+        <summary type="html"><![CDATA[オープンβ、サーバースラム、アーリーアクセス期間をプレーしてソロ専L...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[物理(知識)獣人育成配信#5【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=MqajhQfp1nk</id>
@@ -1266,16 +1276,6 @@ Talk with Galerion Campsite NPC named Dispatch Member to start this quest
 I'd like to thank y'all for bein patient with me annnnnd my current laptop :D]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(×)]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-195.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-195.html"/>
-        <updated>2023-05-20T00:08:03.000Z</updated>
-        <summary type="html"><![CDATA[季節の変わり目を感じる今日この頃、変わらなくていいのにと春を見送る第三の猫です。さて、変わったといえば、テイムしたペットのレベルが本体依存になったので、もうLv1青亀をペットすることはできないようです。Lv1青亀で変なチャレンジするの好きだったので少し残念な気もしますが、育成の手間がなくなったので普通に遊ぶ分にはにプラスです。そんな青亀も今では元気に範囲多段スキルを放って、コレジャナイ感を熟成させていま]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
 </feed>
