@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-19T15:29:52.787Z</updated>
+    <updated>2023-06-19T15:48:13.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1212,15 +1212,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[適正狩りは750の毒ダメ対策をしてからにしておいて…手伝い火力検証の方で先に狩りルートを確定させることにした。用意したのはこれ。して…ない！火力は900までの次元PTボスをFIを確1です。それでルートを探しました。で、結果はこれ。赤線で描いたルートで狩りました。簡単な各レベルの評価150…あっという間に上がる。使ってない方でもいい。200…もうちょっとつながりがよければこんな狩り方にはならなかったのに…。250…適正だと左]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】連続配信挑戦３５日目！]]></title>
-        <id>https://www.youtube.com/watch?v=mF0GwVBtRJI</id>
-        <link href="https://www.youtube.com/watch?v=mF0GwVBtRJI"/>
-        <updated>2023-05-21T03:38:09.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
