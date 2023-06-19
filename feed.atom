@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-19T23:17:13.512Z</updated>
+    <updated>2023-06-19T23:29:41.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1201,16 +1201,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[大型イベント後は個人的に空虚期間になりがち。よって狩りもほぼせず、デイリーや週末の秘密をこなすだけの日々。それでも、週末は獣人の星谷マキナ消化くらいはやっていて、その甲斐あってレベルもぼちぼち上がってる。獣人は今、限界突破5挑戦中だが、先日やっと邪念が10個集まった。やっとと言っても1ヵ月くらいなんで、昔に比べたらとんでもなく楽だけどｗ狩らない雨アチャのレベルは停滞中だったけど、今日珍しく星降る右下で]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金閣寺。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-536.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-536.html"/>
-        <updated>2023-05-21T11:21:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。かわいい(*´∀｀*)中にアイスクリームが入ってます。金閣寺。豪華です。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
