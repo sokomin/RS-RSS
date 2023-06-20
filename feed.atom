@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-20T02:51:40.629Z</updated>
+    <updated>2023-06-20T03:18:07.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1181,16 +1181,6 @@ April UPDATE -->
         <updated>2023-05-21T21:21:35.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[職業別ランキングについて]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-800.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-800.html"/>
-        <updated>2023-05-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[とても暑い日があったりしますね熱中症には気をつけながら生活したいですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>
