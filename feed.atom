@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-20T01:34:41.863Z</updated>
+    <updated>2023-06-20T02:29:18.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1191,16 +1191,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[とても暑い日があったりしますね熱中症には気をつけながら生活したいですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】イベント後の空虚期間]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-944.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-944.html"/>
-        <updated>2023-05-21T13:53:08.000Z</updated>
-        <summary type="html"><![CDATA[大型イベント後は個人的に空虚期間になりがち。よって狩りもほぼせず、デイリーや週末の秘密をこなすだけの日々。それでも、週末は獣人の星谷マキナ消化くらいはやっていて、その甲斐あってレベルもぼちぼち上がってる。獣人は今、限界突破5挑戦中だが、先日やっと邪念が10個集まった。やっとと言っても1ヵ月くらいなんで、昔に比べたらとんでもなく楽だけどｗ狩らない雨アチャのレベルは停滞中だったけど、今日珍しく星降る右下で]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
