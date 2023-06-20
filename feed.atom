@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-20T14:29:04.825Z</updated>
+    <updated>2023-06-20T14:48:24.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[300Lv制限Gv。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-565.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-565.html"/>
+        <updated>2023-06-20T14:28:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。クールなコスチュームです。やっぱり嬉しいドロップです。討伐トレジャーボックスからです。鯖間の300Lv制限Pvに参加しました！一進一退の攻防です。凄まじい戦いです。私は10回程、死にました。(しかも巻物忘れ）お好み焼きさん(S鯖)が勝ちました。300Lv制限の方々有難うございました♪皆さん優しくてありがたいです。読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UMUドロップ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-564.html</id>
