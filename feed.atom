@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-20T21:13:45.360Z</updated>
+    <updated>2023-06-20T21:27:38.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[REDSTONE] 本鯖サマナ育成論]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202306180000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202306180000/"/>
+        <updated>2023-06-20T21:10:52.000Z</updated>
+        <summary type="html"><![CDATA[大体毎年金鯖で育成しているサマナーの話。2023/2にスキルが大幅に改変されて前の導きサマナ育成論が通用しなくなったこともあって、この度刷新した内容を書くことにしました。今までとの最大の違いは、お手軽さ...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[去年の金鯖キャラと今年の予定]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-372.html</id>
