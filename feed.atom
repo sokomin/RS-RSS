@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-20T23:18:00.227Z</updated>
+    <updated>2023-06-20T23:29:46.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1193,15 +1193,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[S鯖ギルド「紫龍会」在籍者へのお知らせ。5/26(金)21:00からギルドイベントを開催します。参加資格は以下。＜紫龍会　ギルドイベント参加資格＞・5/8付けでギルド「紫龍会」に在籍している方。・活動している(Gチャ挨拶やレベリング等)方。・教会ボス討伐に参加できる方。・討伐許可証を30枚所持している方。＜注意事項＞・1人1キャラのみ参加可能(複数キャラ在籍でも参加は1キャラのみ)。・活動しているか個人で判断できない微妙]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】連続配信挑戦３６日目！]]></title>
-        <id>https://www.youtube.com/watch?v=mG5MbTll1Sc</id>
-        <link href="https://www.youtube.com/watch?v=mG5MbTll1Sc"/>
-        <updated>2023-05-22T11:28:53.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
