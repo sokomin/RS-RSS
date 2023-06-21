@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-21T15:16:47.472Z</updated>
+    <updated>2023-06-21T15:28:36.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[堕天のリング。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-566.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-566.html"/>
+        <updated>2023-06-21T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。賑わっています。分りやすくやっています。ウィークリーの報酬指です。(ギルメンさんに手伝って貰いました。)いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重要＆新着イベント情報更新]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1263.html</id>
