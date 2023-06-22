@@ -363,16 +363,6 @@
           "wordCount": null,
           "title": "【REDSTONE】連続配信挑戦３８日目！",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dBFXl6ocEnM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dBFXl6ocEnM",
-          "publishedOn": "2023-05-24T03:28:10.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】連続配信挑戦３７日目！",
-          "imageUrl": null
         }
       ]
     },
@@ -1070,6 +1060,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-567.html",
+          "author": "medaka1985",
+          "description": "こんばんは。結構、遭遇しました。地下神殿B2でPT組んだ結果。クエストの小部屋です。気合い入っています。このような指輪を頂きました。1050Lv到達♪鐘使って下さったので上がってます。(・∀・)ｲｲﾈ!!いつもの。最後まで読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-567.html",
+          "publishedOn": "2023-06-22T15:24:58.000Z",
+          "wordCount": null,
+          "title": "クエスト指輪、",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-566.html",
           "author": "medaka1985",
