@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-24T23:30:55.443Z</updated>
+    <updated>2023-06-24T23:47:36.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】地味な活動状況]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-949.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-949.html"/>
+        <updated>2023-06-24T23:40:47.000Z</updated>
+        <summary type="html"><![CDATA[３Ｄ酔いのため、がっつりディアブロ４やれないこともあり、地味にRSも活動中。とはいえ、デイリーと精鋭、ディメンションのみだけど・・・コツコツやっているヤティ手育成も、いよいよ終盤。＠４レベルが近いようで遠い。魔法強打クリーチャー育成も終盤で、残すところメインＳＲのサブパッシブ厳選のみ。「魔法ダメージ吸収」が引ければ完成だけど、案の定なかなか引けない。１つ固定でマナ300消費というのもキツいが、こればか]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[散策。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-569.html</id>
