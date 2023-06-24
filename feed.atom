@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-24T03:32:46.925Z</updated>
+    <updated>2023-06-24T03:48:31.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[爆音テイマーの可能性]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-197.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-197.html"/>
+        <updated>2023-06-24T03:32:09.000Z</updated>
+        <summary type="html"><![CDATA[道に転がる梅の実。持って出たのに開くことのなかった雨傘。５羽いたら４羽は鳴き下手のウグイス。季節のSEにウグイスを入れるなら下手な方がリアリティ出るのでは？と思う第三の猫です。こんにちは。よくわかりませんがアイドル〇スターが始まりました。一定まで育成すればクリーチャーとして入手できるようです。私はこのエクレアをプロデュースしてライブ会場を埋めます。シュークリームです。。それでもっ、SRまで育成すればエ]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電鱗のリング。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-568.html</id>
