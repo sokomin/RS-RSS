@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-25T19:48:18.416Z</updated>
+    <updated>2023-06-25T20:19:48.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1189,15 +1189,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[こんばんは。綺麗なコスチュームです。TRSULTレッドネックレス♪怖っ(笑)ゲリオ討伐現地にて、クエスト未消化な為です。そろそろ水着の季節です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理(知識)獣人育成配信#4【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=OVAcXbZTgfc</id>
-        <link href="https://www.youtube.com/watch?v=OVAcXbZTgfc"/>
-        <updated>2023-05-27T08:15:13.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
