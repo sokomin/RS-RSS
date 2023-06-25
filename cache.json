@@ -95,6 +95,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-805.html",
+          "author": "ミツリン",
+          "description": "最近は蒸し暑い日も多くなったので半袖で過ごすことも多くなりましたこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-805.html",
+          "publishedOn": "2023-06-25T15:00:00.000Z",
+          "wordCount": 601,
+          "title": "2023.06.21アップデートを見てみる　【アイドル育成、新クリーチャー、協会ボス等】",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-804.html",
           "author": "ミツリン",
           "description": "雨が多い時期ですねじめじめした暑さもあり体調には気を使いますこんにちは　ミツリンです",
@@ -1091,6 +1101,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-570.html",
+          "author": "medaka1985",
+          "description": "こんばんは。クールなコスチュームです。200本で購入しました♪防御力13→14に躍起になりました。最高補正にする為に100本は使いました@@アイドル育成はクリーチャー強化に好都合です。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-570.html",
+          "publishedOn": "2023-06-25T14:50:00.000Z",
+          "wordCount": null,
+          "title": "おニューのシューズ。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-569.html",
           "author": "medaka1985",
