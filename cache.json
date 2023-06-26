@@ -353,7 +353,18 @@
       "title": "ロイ4世",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA",
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3Eaemd54d0k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3Eaemd54d0k",
+          "publishedOn": "2023-05-28T21:09:34.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】連続配信挑戦４２日目！",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "ひさプッチ",
