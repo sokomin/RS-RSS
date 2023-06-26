@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-26T18:23:52.581Z</updated>
+    <updated>2023-06-26T18:48:19.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023/6/22 日本赤石アプデ考察]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202306270000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202306270000/"/>
+        <updated>2023-06-26T18:23:39.000Z</updated>
+        <summary type="html"><![CDATA[色々と動きのあった1日でした。半分ツイートのまとめになっちゃいますが、アプデ所感等について最近のRSの動向まとめます。日本RSアプデアプデ情報詳細【本日の日本赤石】・GR（神話）クリーチャー追加・クリーチ...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[こっちも久しぶりな気がする]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-992.html</id>
