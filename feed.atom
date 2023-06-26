@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-26T14:17:52.426Z</updated>
+    <updated>2023-06-26T14:34:34.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】ウィークリー討伐とリング]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-950.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-950.html"/>
+        <updated>2023-06-26T14:20:57.000Z</updated>
+        <summary type="html"><![CDATA[先週のアプデで実装された、協会ボスのウィークリー討伐。中身は本物と同じ強さなので、自分クラスでのソロ討伐は到底無理。よって、強いギルメンに寄生させてもらうスタイルｗ討伐成功すると、PT全員にリングと強化素材が入った袋がもらえる。有識者曰く、１回リングのオプション変換ガチャに挑戦し、良オプが出なければ売るのがよいらしい。言われた通りに変換チャレンジ。変換１回目は2憶ゴールド、２回目は３億ゴールドと、費]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[青い宝箱。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-571.html</id>
@@ -1179,15 +1189,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[レッドストーンの韓国公式サイトはハングル文字で記載されてます。最近ではGoogle翻訳やDeepLなど精度の高い翻訳サイトも多数登場してきています。なのでわざわざ韓国語覚えなくても…という所はありますが、実際...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】連続配信挑戦４１日目！]]></title>
-        <id>https://www.youtube.com/watch?v=oBkqIJWHnpU</id>
-        <link href="https://www.youtube.com/watch?v=oBkqIJWHnpU"/>
-        <updated>2023-05-28T02:31:50.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
 </feed>
