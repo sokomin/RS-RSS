@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-26T14:47:57.897Z</updated>
+    <updated>2023-06-26T15:18:51.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[こっちも久しぶりな気がする]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-992.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-992.html"/>
+        <updated>2023-06-26T15:02:01.000Z</updated>
+        <summary type="html"><![CDATA[落書き。追記ぽーん。]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】ウィークリー討伐とリング]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-950.html</id>
