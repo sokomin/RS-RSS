@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-26T19:48:22.980Z</updated>
+    <updated>2023-06-26T20:20:08.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1199,16 +1199,6 @@ April UPDATE -->
         <updated>2023-05-28T09:04:40.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レッドストーンで覚えておきたいハングル文字]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202305280000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202305280000/"/>
-        <updated>2023-05-28T08:02:46.000Z</updated>
-        <summary type="html"><![CDATA[レッドストーンの韓国公式サイトはハングル文字で記載されてます。最近ではGoogle翻訳やDeepLなど精度の高い翻訳サイトも多数登場してきています。なのでわざわざ韓国語覚えなくても…という所はありますが、実際...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
