@@ -199,6 +199,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SxyZMvGbdO0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SxyZMvGbdO0",
+          "publishedOn": "2023-06-26T14:00:19.000Z",
+          "wordCount": null,
+          "title": "ウィークリー討伐　シュラグ【 REDSTONE / 붉은보석 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=A7gLzcrjO-A",
           "author": null,
           "description": "",
@@ -1071,6 +1081,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-571.html",
+          "author": "medaka1985",
+          "description": "こんばんは。宝闇商人さんです。PTを組むと青宝箱が出ます。1054Lv到達です。1055Lvになりました！読んで下さって、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-571.html",
+          "publishedOn": "2023-06-26T14:02:01.000Z",
+          "wordCount": null,
+          "title": "青い宝箱。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-570.html",
           "author": "medaka1985",
