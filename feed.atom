@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-27T14:48:18.613Z</updated>
+    <updated>2023-06-27T15:19:40.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アイドル育成！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-373.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-373.html"/>
+        <updated>2023-06-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この前のアプデでクリーチャー超越というものができました！このクリーチャー超越は超越させるクリーチャーのレベルとすべてのパッシブスキルがMaxの時同一のクリーチャーを素材にすることで超越できるものらしいのですがいままで同じクリーチャーをもってても意味がないと思ってたわたしはマナに変えてたりしてたので素材が全くなかったりします＾＾；そこで今回やってるイベのアイドル育成だったら前のイベでもらったまま持って]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[荒れ地見学。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-572.html</id>
