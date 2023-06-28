@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-28T08:47:53.623Z</updated>
+    <updated>2023-06-28T09:18:57.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[激おこ指「俺で最後だな！」]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-993.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-993.html"/>
+        <updated>2023-06-28T08:58:19.000Z</updated>
+        <summary type="html"><![CDATA[緩和「えっ」運営「えっえっ」【お死らせ】〇ございません（悪い意味で）※先週発生した不具合は解消されてません。公式のあれ【ゲーム内でやるログキャン】7/19(水)メンテまで。19日分まである。猶予は…3日。最後のは取引不可ＳＲコクーンだから、やるべきではある。前回と違ってちゃんと猶予もあるからね。むしろ前回がひどかったか。詳細です。【クリムゾンロト】7/12(水)メンテまで。1個1000円で高額セットの金額はいつも通り。]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アイドル育成！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-373.html</id>
