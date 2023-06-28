@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-28T13:48:10.609Z</updated>
+    <updated>2023-06-28T14:17:33.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1216,16 +1216,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[800次元の沸き間隔一部狂ってない？1か所5体の40秒わきなのに、1体だけ沸かないやらその逆やら…850,900は正常だったのにどうして…5/30現在の経験値調べは860PTボスまで終えてます。あとは900レべまであげて…ということなのだが、850あたりから必要経験値がどんどん増えていくわけで…。金鯖ですらきついのに、本鯖でまともにやったら時間がかかりすぎる。ということで活用しましたディなんとかさん。装備は使いまわして油いれりゃな]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海底神殿B2]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-544.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-544.html"/>
-        <updated>2023-05-30T01:58:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。恰好可愛いコスチュームです。メインシーフ、神殿B2に移行です。キルド旗。相当の恩恵があります。久しぶりの宝箱です。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
