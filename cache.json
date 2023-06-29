@@ -189,6 +189,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7ebQruNaMb4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7ebQruNaMb4",
+          "publishedOn": "2023-06-29T02:54:25.000Z",
+          "wordCount": null,
+          "title": "ディメンション・ハブ　4層【REDSTONE / 붉은보석】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SxyZMvGbdO0",
           "author": null,
           "description": "",
@@ -694,16 +704,6 @@
           "publishedOn": "2023-05-31T09:27:05.000Z",
           "wordCount": 114,
           "title": "隣は20周年で盛り上がる頃",
-          "imageUrl": null
-        },
-        {
-          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-978.html",
-          "author": "Trailblazer",
-          "description": "800次元の沸き間隔一部狂ってない？1か所5体の40秒わきなのに、1体だけ沸かないやらその逆やら…850,900は正常だったのにどうして…5/30現在の経験値調べは860PTボスまで終えてます。あとは900レべまであげて…ということなのだが、850あたりから必要経験値がどんどん増えていくわけで…。金鯖ですらきついのに、本鯖でまともにやったら時間がかかりすぎる。ということで活用しましたディなんとかさん。装備は使いまわして油いれりゃな",
-          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-978.html",
-          "publishedOn": "2023-05-30T14:14:24.000Z",
-          "wordCount": null,
-          "title": "次元調査進展",
           "imageUrl": null
         }
       ]

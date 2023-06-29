@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-29T01:47:10.043Z</updated>
+    <updated>2023-06-29T02:56:49.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ディメンション・ハブ　4層【REDSTONE / 붉은보석】]]></title>
+        <id>https://www.youtube.com/watch?v=7ebQruNaMb4</id>
+        <link href="https://www.youtube.com/watch?v=7ebQruNaMb4"/>
+        <updated>2023-06-29T02:54:25.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小ネタ（克服の）（GRクリチャ）とあ〇こ]]></title>
         <id>https://plaza.rakuten.co.jp/karudxrs/diary/202306290000/</id>
@@ -1226,16 +1235,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[メインキャラのオオカミ少年はネームレスアタックで敵を倒す物理型ネクロです。レベルが高く先の狩場に行ってるGメンさんからこの先これでは辛いのではないか？というアドバイスを受けいろいろ考えてるところなのですがまだ物理装備もそろってない状態なのでどうしようかな…と思っていたりします＾＾；ほんとは年始頃に装備揃えたかったのですけどもう6月になっちゃいますね＾＾；ただ、行動はしてても結果を出すまでが遅いので知]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次元調査進展]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-978.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-978.html"/>
-        <updated>2023-05-30T14:14:24.000Z</updated>
-        <summary type="html"><![CDATA[800次元の沸き間隔一部狂ってない？1か所5体の40秒わきなのに、1体だけ沸かないやらその逆やら…850,900は正常だったのにどうして…5/30現在の経験値調べは860PTボスまで終えてます。あとは900レべまであげて…ということなのだが、850あたりから必要経験値がどんどん増えていくわけで…。金鯖ですらきついのに、本鯖でまともにやったら時間がかかりすぎる。ということで活用しましたディなんとかさん。装備は使いまわして油いれりゃな]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
