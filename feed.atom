@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-29T14:16:23.539Z</updated>
+    <updated>2023-06-29T14:29:45.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クリーチャー超越。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-574.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-574.html"/>
+        <updated>2023-06-29T14:24:04.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。クリーチャー超越です。3本はお買い得だと思います。配布して頂いたスパロトです。良いアイテムです。ギリギリです。祝1056Lvです♪読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ディメンション・ハブ　4層【REDSTONE / 붉은보석】]]></title>
         <id>https://www.youtube.com/watch?v=7ebQruNaMb4</id>
