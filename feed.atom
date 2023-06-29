@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-29T19:27:57.384Z</updated>
+    <updated>2023-06-29T19:47:37.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1215,16 +1215,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[こっちは実質イベント0期間。【配布品】・GWの時のSPプレゼント公式のあれ【指輪に関するアンケート】6/7(水)メンテまで。1週間だが重要度は別に…。内容は指輪に関すること。あったらうれしいOPとか、対人用いるかとか……うん、なんか違うちなみに答えたからといって何かもらえるわけではない。念のため詳細ログインが必要な直飛びあー、うん。ほかに聞くことあるだろう？高レべ狩場とか既存の死んでるシステムとかPT狩りが死んでる]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1261.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1261.html"/>
-        <updated>2023-05-31T07:43:56.000Z</updated>
-        <summary type="html"><![CDATA[指装備に関するアンケートだそうです。:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::＊:::それでは今週ものんびり楽しみましょう～( ´ω｀)以下、伏字でちょっと愚痴]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
 </feed>
