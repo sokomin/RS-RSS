@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-01T13:48:13.433Z</updated>
+    <updated>2023-07-01T14:15:19.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[まぁ外れではないだろう…うん]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-994.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-994.html"/>
+        <updated>2023-07-01T14:02:57.000Z</updated>
+        <summary type="html"><![CDATA[あたりかといわれるとあれだが…相場に困るやーつ。知識5、知識1/5、魔法致命2％…まぁ、全部が知識5クラスのＯＰってことも当たり前にあるから外れではないってことにした。いくらで売ればいいかは置いておくことにするけども。売れないってオチかな？Ｓ鯖の槍ならﾍﾞﾙｾ使って2分で落とせるからまぁ楽。Ｖ鯖は…どうしたものか。物理で殺るにせよ、火力が足りるか否か…。クリーチャーはなんかちょうどいいのがいた。コラボの。ダブク]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蟹三昧。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-576.html</id>
