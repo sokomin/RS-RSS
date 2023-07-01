@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-01T01:56:56.603Z</updated>
+    <updated>2023-07-01T03:09:17.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1124,16 +1124,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[こんばんは。青い羽のコスチュームです。快適でモチベーション上がります(*'▽')レアドロップ♪レプリカで、これは成功だと思います。いつも読んで頂き誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSをやらずに、こういう動画を視聴してます]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202306010000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202306010000/"/>
-        <updated>2023-06-01T14:38:28.000Z</updated>
-        <summary type="html"><![CDATA[陰謀論って誰が作った言葉か知ってますか？]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
 </feed>
