@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-02T13:24:50.463Z</updated>
+    <updated>2023-07-02T13:47:32.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Labyrinth(アリプロ)。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-577.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-577.html"/>
+        <updated>2023-07-02T13:36:16.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。磯野～野球やろうぜ！サブの武道家を蹴り覚醒にします。聖ルミナス女学院(名作)レベルUPラッシュです。サブの武道家906Lv(*'▽')去年の金鯖キャラクター907Lv♪サブのビーストテイマー947Lv♪殿にメインシーフ1057Lv(*'▽')いつも読んで頂き、ありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[まぁ外れではないだろう…うん]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-994.html</id>
