@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-02T14:47:43.363Z</updated>
+    <updated>2023-07-02T15:17:09.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖はあるのか]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-806.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-806.html"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[職場のとある場所のエアコンが壊れた為にガマの油のように暑さに耐えながら仕事していますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Labyrinth(アリプロ)。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-577.html</id>
