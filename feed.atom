@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-03T03:47:57.804Z</updated>
+    <updated>2023-07-03T04:22:18.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1111,39 +1111,6 @@ April UPDATE -->
         <updated>2023-06-04T08:17:31.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[箱を開けてみた]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/4b7536443b436c4e22073593059ba15f</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/4b7536443b436c4e22073593059ba15f?fm=rss"/>
-        <updated>2023-06-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[台風一過
-
-3年前にいただいた「感謝の15周年ロト」を開けてみることに。
-
-「フェノンの壺」
-
-
-フェノンを装備するのでバッサを外し・・・・
-
-ギルド倉庫に眠っていた「ブルーベルベット」をだしてきました。
-
-ちなみに16周年箱も残っています(´-ω-`)
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>
