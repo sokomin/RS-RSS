@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-02T23:48:16.890Z</updated>
+    <updated>2023-07-03T01:50:25.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1144,16 +1144,6 @@ April UPDATE -->
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[針子の誕生。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-548.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-548.html"/>
-        <updated>2023-06-03T11:53:31.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。キンッキンに冷えてそうです。梅雨のお陰か、たくさん産まれています。もふもふ( ˘ω˘)ｽﾔｧ老舗のかき氷屋さんの宇治ミルクです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
