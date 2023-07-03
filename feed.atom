@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-03T19:48:05.702Z</updated>
+    <updated>2023-07-03T20:20:14.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1122,15 +1122,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[遂に、ヤツがやって来る・・・RSの活動は朝だけにして、夜のゲーム時間はヤツに費やす日々が始まる。事前購入とインストールは済ませてあり、開始のゴングを待つばかりだ。しかし、RSの活動で悩ましいのが攻城戦。ギルドに所属している以上、ギルドが攻城戦に取り組んでいるなら、やはり参加しないのは心苦しい。しかし、バランスが崩壊した、公平性の欠片もない殴り合いはストレスしか感じないし、毎回の様に訪れる対戦後の虚無感]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毒闇悪魔育成配信#2【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=fp2eeWqTRyI</id>
-        <link href="https://www.youtube.com/watch?v=fp2eeWqTRyI"/>
-        <updated>2023-06-04T08:17:31.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
