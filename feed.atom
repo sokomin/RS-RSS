@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-04T01:51:03.374Z</updated>
+    <updated>2023-07-04T03:01:54.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -14,6 +14,47 @@
         <summary type="html"><![CDATA[こんにちは。部屋から出て来た骨董品です。梅雨なのでしっとりしています。もう少し赤ければ、楊貴妃です。読んで下さって誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[転生者Lv５ Vo.lB-1(原因不明の病)]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/36b70108685158ed4015e1ebe2dab94e</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/36b70108685158ed4015e1ebe2dab94e?fm=rss"/>
+        <updated>2023-07-03T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[『一覧へ戻る』Vol.B-2『裏切られし信頼』へ　→ -->
+
+ボルファー
+
+クエの取り消しができないので、受けるときは気をつけましょうｗ
+
+エディ・ラルさん
+
+会話が終わると飛ばしてくれます。
+
+エルドーシャさん
+
+話がかみあわない。
+
+ライシャさんに話しかけるようです。
+
+会話が終わると飛ばしてくれます。
+
+ルーカスさん
+
+ルーベンさんに会いに行くようですね。
+
+ルーベンさんはルーカスさんがいるところからひたすら下に下がればいます。
+
+ルーベンさん
+
+話しかければOK。
+
+話が終わったらルーカスさんの処に戻ります。
+
+ここで「原因不明の病」は終了。
+『一覧へ戻る』Vol.B-2『裏切られし信頼』へ　→ -->]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
@@ -1111,16 +1152,6 @@ April UPDATE -->
         <updated>2023-06-05T01:26:00.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミスが目立つ場合]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-802.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-802.html"/>
-        <updated>2023-06-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今週は台風の影響で大雨がありました道路は冠水し公共機関はダイヤが乱れてしまい大変でしたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
 </feed>

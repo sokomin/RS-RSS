@@ -133,16 +133,6 @@
           "wordCount": 593,
           "title": "ドロップイベント、チャットバフ等",
           "imageUrl": null
-        },
-        {
-          "id": "https://mitsurin32.blog.fc2.com/blog-entry-802.html",
-          "author": "ミツリン",
-          "description": "今週は台風の影響で大雨がありました道路は冠水し公共機関はダイヤが乱れてしまい大変でしたこんにちは　ミツリンです",
-          "link": "https://mitsurin32.blog.fc2.com/blog-entry-802.html",
-          "publishedOn": "2023-06-04T15:00:00.000Z",
-          "wordCount": 593,
-          "title": "ミスが目立つ場合",
-          "imageUrl": null
         }
       ]
     },
@@ -913,6 +903,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/36b70108685158ed4015e1ebe2dab94e",
+          "author": null,
+          "description": "『一覧へ戻る』Vol.B-2『裏切られし信頼』へ　→ -->\n\nボルファー\n\nクエの取り消しができないので、受けるときは気をつけましょうｗ\n\nエディ・ラルさん\n\n会話が終わると飛ばしてくれます。\n\nエルドーシャさん\n\n話がかみあわない。\n\nライシャさんに話しかけるようです。\n\n会話が終わると飛ばしてくれます。\n\nルーカスさん\n\nルーベンさんに会いに行くようですね。\n\nルーベンさんはルーカスさんがいるところからひたすら下に下がればいます。\n\nルーベンさん\n\n話しかければOK。\n\n話が終わったらルーカスさんの処に戻ります。\n\nここで「原因不明の病」は終了。\n『一覧へ戻る』Vol.B-2『裏切られし信頼』へ　→ -->",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/36b70108685158ed4015e1ebe2dab94e?fm=rss",
+          "publishedOn": "2023-07-03T23:00:00.000Z",
+          "wordCount": 1306,
+          "title": "転生者Lv５ Vo.lB-1(原因不明の病)",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/57/ed/908730613dd64ffea186ebacb41c5f49.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/9177e1ab714336620647fbf02c5cf492",
           "author": null,
