@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-03T23:47:52.555Z</updated>
+    <updated>2023-07-04T01:51:03.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[短剣。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-579.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-579.html"/>
+        <updated>2023-07-04T01:47:58.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。部屋から出て来た骨董品です。梅雨なのでしっとりしています。もう少し赤ければ、楊貴妃です。読んで下さって誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OPの癖が強い。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-578.html</id>
@@ -1111,16 +1121,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[今週は台風の影響で大雨がありました道路は冠水し公共機関はダイヤが乱れてしまい大変でしたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[封印された禁忌。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-549.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-549.html"/>
-        <updated>2023-06-04T12:56:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ハルヒコスです。ビーストテイマーのディメンションです。チャレンジ！(45%)残念！1250UMU、ゴールドラッシュ！決闘場 一日褒賞です。シーフの覚醒ダブルスローです。ビーストテイマー941Lvです。シーフ1044Lvです。毎度読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
