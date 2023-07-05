@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-05T13:47:31.963Z</updated>
+    <updated>2023-07-05T14:18:44.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10％だと…？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-997.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-997.html"/>
+        <updated>2023-07-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[星コスの悪夢を思い出すなぁ…※20とちょっと失敗した。2023/7/5に精霊コスが実装されました。各職に決められた属性のコスです。エフェクトが付いており、見た目もよいこのコス…ならやるしかないよね？※見た目しか変わりません。基本的にｋろえをやるよりは装備強化に回す方がよいですということで、10％の恐怖を感じながら始めました。失敗前提なので、あらかじめ10回分を用意した。これで失敗しても安心だぜ！いや10連敗もしたら困]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運営「金鯖やるよ！」]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-996.html</id>
