@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T16:51:32.684Z</updated>
+    <updated>2023-07-06T17:17:58.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[透明ＯＰを入れてわかること]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-998.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-998.html"/>
+        <updated>2023-07-06T16:55:50.000Z</updated>
+        <summary type="html"><![CDATA[そういえば普段使いは透明入れないけど、精霊コスに透明をＯＮしたらどうなるか気になった。こちらがその対象です。一応エフェクト強化済み。色はたぶんﾉｰﾏﾙから選ばれていると思う。今の状況だと何が正しいかさっぱりで…。そのうち色はレアのに変える。こっちで地獄を見るのだろうか？まぁそれはおいておく。問題は透明ＯＰを入れたらどうなるかだ！＼鎮☆火／え、えぇ…髪が黒ベースなのは強化前がそうだったから…でもここまで変わ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コラブテッド。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-581.html</id>
