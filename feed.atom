@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T01:52:11.806Z</updated>
+    <updated>2023-07-06T03:02:56.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1325,16 +1325,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[デイリーログイン、ボックスドロップ、チャットバフの3つが内容となってます。チャットバフは2種類あり、「ぼうけんか」「かんしゃ」の2つですね。各詳細はイベントページにてご確認ください。゜。°。°。°。°。°。°。°。゜。°。°。°。課金キャンペーンはスフィアとフェイタルロトが新規開催中。それでは今週ものんびり楽しみましょう～( ´ω｀)]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消える2軍装備たち。]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-370.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-370.html"/>
-        <updated>2023-06-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現在RSにインすると超武装祭の強化アイテムがもらえますが現在3垢あるわたしはそこそこの量をいただきました＾＾それで800代以下のキャラたちの装備を神秘鏡Dxしてみてたのですがこれが100％の確率で失敗＾＾；日頃の行いが悪いのかな…？＾＾；最近ほとんど狩りしてる時間がないのでRSの神様怒ってたりしませんよね＾＾；という事で…サブキャラたちの装備がどんどん消えていくという悲劇に悩まされています＾＾；鏡挑戦してみたの]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
