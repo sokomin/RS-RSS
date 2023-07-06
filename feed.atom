@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T10:47:57.036Z</updated>
+    <updated>2023-07-06T11:16:31.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最後の宿題]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-375.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-375.html"/>
+        <updated>2023-07-06T11:04:10.000Z</updated>
+        <summary type="html"><![CDATA[もしも自分が先に死んじゃったら後の事は全部頼むからね。認知症になり自宅では面倒が見れなくなった母親の姉（わたしの伯母）をグループホームへ連れて行った日の帰りに母親が冗談でわたしにそう言いました。その冗談が3年半後にホントの事になるとはわたしもちろん亡くなった母親も思ってもみなかった事だったのではないかと思います。伯母を看取ってあげることは母の願いでしたのでその前に母が亡くなった時にそれはわたしのや]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ディメンション・ハブ　2層【REDSTONE / 붉은보석】]]></title>
         <id>https://www.youtube.com/watch?v=k7ggCg4w_28</id>
