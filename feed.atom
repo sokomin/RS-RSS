@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-07T03:31:00.068Z</updated>
+    <updated>2023-07-07T03:48:21.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テイマ覚醒　信望の民（物理覚醒）　金鯖用記事]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202307070000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202307070000/"/>
+        <updated>2023-07-07T03:40:32.000Z</updated>
+        <summary type="html"><![CDATA[2023金鯖用のテイマ紹介の為に書いている記事です。なのでほぼ装備無、1000くらいまでの育成を考えて書いているので、本格的な育成にはあまり参考にならないと思います。下記、４つすべての更新が終わったらリン...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハンバーグ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-582.html</id>
