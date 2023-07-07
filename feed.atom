@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-07T14:47:43.094Z</updated>
+    <updated>2023-07-07T15:19:38.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1319,16 +1319,6 @@ WIZくんが3つ揃いましたo(・∇・o)(o・∇・)o 
         <link href="https://medaka1985.fc2.net/blog-entry-554.html"/>
         <updated>2023-06-09T03:29:00.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。恰好良いコスチュームです。懐かしのDXUです。刺青無しのボーンキメラですが結構強いです。メインシーフの性向が100%です。ビーストテイマー942Lv♪メインシーフ1045Lvです。読んで下さって、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[焼き肉ランチ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-553.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-553.html"/>
-        <updated>2023-06-08T03:02:05.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。温州みかん×ケールの青汁です。大小、様々なメダカが居ます。アバラ定食です。噛むと肉汁が溢れ、最高です。読んで下さって、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
