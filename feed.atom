@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-07T10:49:43.026Z</updated>
+    <updated>2023-07-07T11:15:26.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[左下スロット連射と子犬感]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-198.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-198.html"/>
+        <updated>2023-07-07T11:13:23.000Z</updated>
+        <summary type="html"><![CDATA[金鯖の話題が出てくると、夏になった気がしますね。買い物かごに去年のサバカーペットが残っている第三の猫です。まずは、前回テイマー単体で勝てなかった、デイリー討伐に挑戦します。ご覧の通り、本来は本体中心に発動する爆音が敵を中心に発動しています。そう、左下スロット連射です。①左上にトリガーになるスキルを、左下に本命の範囲攻撃をセットしてON。②左クリックでモンスターを攻撃すると、左下スキルが連射されます。こ]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テイマ覚醒　真心の民（3匹覚醒）　金鯖用記事]]></title>
         <id>https://plaza.rakuten.co.jp/karudxrs/diary/202307070002/</id>
