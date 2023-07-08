@@ -209,6 +209,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=O8R_v9QXqsg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O8R_v9QXqsg",
+          "publishedOn": "2023-07-08T13:44:38.000Z",
+          "wordCount": null,
+          "title": "メインWIZ育成回#2【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=k7ggCg4w_28",
           "author": null,
           "description": "",
