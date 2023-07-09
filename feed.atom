@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-09T15:29:53.230Z</updated>
+    <updated>2023-07-09T15:48:10.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不具合だとね…ね？]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-999.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-999.html"/>
+        <updated>2023-07-09T15:47:04.000Z</updated>
+        <summary type="html"><![CDATA[…透明もそうだけど、分身出力も狂っていた。どうみてもエフェクト強化前じゃないか！まともなのはｒｙ不具合ってことにしておくけども…果たして今度のメンテで治るのかそれとも？15時なら安心ってのはこの前消し去ったので。あと心臓バグも治してね？この前の攻城本当に地獄だったから。V鯖の現状を知るために、現在の装備で荒地に突撃した。FIを振り回した結果は画像の通り。魔法強打55％程度なのと、魔法致命が悪さをしているの]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】(第4回)紫龍会ギルドイベント告知]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-952.html</id>
@@ -1332,44 +1342,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[3か月ぶりの更新です（爆）お久しぶりですperaです。ここ最近ログインもなかなかできておらず気づけば復帰者扱いなわけです復帰者クエストなるものが発生したので一通り終わらせまして放置していた炎の石クエの続きも完遂そんなわけで近況報告でしたおそらく次回の更新は3か月後かな？（ﾏﾃ）ではﾉｼ]]></summary>
         <author>
             <name>pera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一流討伐団バッジ]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/1c4d60d71eb4a558d96ee6fd0a39f71f</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/1c4d60d71eb4a558d96ee6fd0a39f71f?fm=rss"/>
-        <updated>2023-06-10T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[6月10日は「時の記念日」
-
-WIZくんが3つ揃いましたo(・∇・o)(o・∇・)o 
-
-「ケルベロスの牙」
-
-「ドラゴートの翼」
-
-そしてなかなか遭遇しない「骸骨王の王冠」
-
-レーナさんに戦利品を渡しまして・・・・
-
-「一流討伐団のバッジ」を無事入手(・ω・)b
-
-メインアチャのインベントリにはドラゴートとケルベロスの戦利品が複数。
-これでも単体で交換して減らしたんですけどね(´・ω・`)
-骸骨王がでてくる頻度が少ない気がするのは気のせいかなぁ・・・・
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
 </feed>

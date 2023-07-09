@@ -586,6 +586,16 @@
       "siteUrl": "https://extremetrailblazer.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-999.html",
+          "author": "Trailblazer",
+          "description": "…透明もそうだけど、分身出力も狂っていた。どうみてもエフェクト強化前じゃないか！まともなのはｒｙ不具合ってことにしておくけども…果たして今度のメンテで治るのかそれとも？15時なら安心ってのはこの前消し去ったので。あと心臓バグも治してね？この前の攻城本当に地獄だったから。V鯖の現状を知るために、現在の装備で荒地に突撃した。FIを振り回した結果は画像の通り。魔法強打55％程度なのと、魔法致命が悪さをしているの",
+          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-999.html",
+          "publishedOn": "2023-07-09T15:47:04.000Z",
+          "wordCount": 114,
+          "title": "不具合だとね…ね？",
+          "imageUrl": null
+        },
+        {
           "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-998.html",
           "author": "Trailblazer",
           "description": "そういえば普段使いは透明入れないけど、精霊コスに透明をＯＮしたらどうなるか気になった。こちらがその対象です。一応エフェクト強化済み。色はたぶんﾉｰﾏﾙから選ばれていると思う。今の状況だと何が正しいかさっぱりで…。そのうち色はレアのに変える。こっちで地獄を見るのだろうか？まぁそれはおいておく。問題は透明ＯＰを入れたらどうなるかだ！＼鎮☆火／え、えぇ…髪が黒ベースなのは強化前がそうだったから…でもここまで変わ",
@@ -1092,16 +1102,6 @@
           "wordCount": 1322,
           "title": "2023.6.14 イベ更新",
           "imageUrl": "https://blogimg.goo.ne.jp/user_image/7a/b9/e175e5bdca084a303452301ca6e2f7ba.png"
-        },
-        {
-          "id": "https://blog.goo.ne.jp/sizuku-mo/e/1c4d60d71eb4a558d96ee6fd0a39f71f",
-          "author": null,
-          "description": "6月10日は「時の記念日」\n\nWIZくんが3つ揃いましたo(・∇・o)(o・∇・)o \n\n「ケルベロスの牙」\n\n「ドラゴートの翼」\n\nそしてなかなか遭遇しない「骸骨王の王冠」\n\nレーナさんに戦利品を渡しまして・・・・\n\n「一流討伐団のバッジ」を無事入手(・ω・)b\n\nメインアチャのインベントリにはドラゴートとケルベロスの戦利品が複数。\nこれでも単体で交換して減らしたんですけどね(´・ω・`)\n骸骨王がでてくる頻度が少ない気がするのは気のせいかなぁ・・・・\n\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
-          "link": "https://blog.goo.ne.jp/sizuku-mo/e/1c4d60d71eb4a558d96ee6fd0a39f71f?fm=rss",
-          "publishedOn": "2023-06-10T01:00:00.000Z",
-          "wordCount": 1301,
-          "title": "一流討伐団バッジ",
-          "imageUrl": "https://blogimg.goo.ne.jp/user_image/7f/cb/538437a5ac65c6197a13d2c3534ecfed.png"
         }
       ]
     },
