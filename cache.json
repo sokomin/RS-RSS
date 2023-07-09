@@ -115,6 +115,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-807.html",
+          "author": "ミツリン",
+          "description": "連日暑い日が続きますねこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-807.html",
+          "publishedOn": "2023-07-09T15:00:00.000Z",
+          "wordCount": 595,
+          "title": "金鯖があるそうです",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-806.html",
           "author": "ミツリン",
           "description": "職場のとある場所のエアコンが壊れた為にガマの油のように暑さに耐えながら仕事していますこんにちは　ミツリンです",
@@ -488,6 +498,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-952.html",
+          "author": "JEFRY",
+          "description": "7/13(木)21:00からギルドイベントを開催します。参加資格は以下。＜紫龍会　ギルドイベント参加資格＞・ギルド「紫龍会」に在籍している方。・活動している(Gチャ挨拶やレベリング等)方。・教会ボス討伐に参加できる方。・討伐許可証を30枚所持している方。＜注意事項＞・1人1キャラのみ参加可能(複数キャラ在籍でも参加は1キャラのみ)。＜紫龍会ギルドイベント詳細＞・PTを組み、教会ボス「ゲリオ」を30周消化。・UMUまたはBFUを1",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-952.html",
+          "publishedOn": "2023-07-09T15:00:01.000Z",
+          "wordCount": 560,
+          "title": "【REDSTONE】(第4回)紫龍会ギルドイベント告知",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-951.html",
           "author": "JEFRY",
