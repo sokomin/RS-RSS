@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-09T14:29:41.185Z</updated>
+    <updated>2023-07-09T14:47:58.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1312,16 +1312,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[3か月ぶりの更新です（爆）お久しぶりですperaです。ここ最近ログインもなかなかできておらず気づけば復帰者扱いなわけです復帰者クエストなるものが発生したので一通り終わらせまして放置していた炎の石クエの続きも完遂そんなわけで近況報告でしたおそらく次回の更新は3か月後かな？（ﾏﾃ）ではﾉｼ]]></summary>
         <author>
             <name>pera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[壁ウィンディ]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-196.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-196.html"/>
-        <updated>2023-06-10T02:31:02.000Z</updated>
-        <summary type="html"><![CDATA[梅雨だったり梅雨じゃなかったりするけど、雨はお構いなしに降る季節がやってまいりました。こんにちは第三の猫です。少し間隔が開きましたので、これまでの出来事振り返りつつ始めていきます。狩り：宝箱の経験値バフも重ねると結構すごい事になりますね。ただ、時間切れ前に次の箱を開けないといけないので大変です。クエスト：メインクエスト2の材料集めでもう一度フニンに話しかけると、協会直行の選択肢が出る事に気づきまし]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
