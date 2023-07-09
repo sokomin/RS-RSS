@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-09T19:27:58.200Z</updated>
+    <updated>2023-07-09T19:47:36.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1323,15 +1323,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[こんばんは。可愛いコスチュームです。配布箱の中身は…なかなか良いアイテムです。1250UMUは癖が強い。なんとも情けないやられ方です(笑)残念でしたが、とても楽しかったです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メテオWIZ育成配信#4【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=0IxgKFTR2xQ</id>
-        <link href="https://www.youtube.com/watch?v=0IxgKFTR2xQ"/>
-        <updated>2023-06-10T07:46:02.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
