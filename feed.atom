@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T03:03:24.515Z</updated>
+    <updated>2023-07-10T03:39:30.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[対人サマナのすゝめ 第1巻　反射編]]></title>
+        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202307100000/</id>
+        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202307100000/"/>
+        <updated>2023-07-10T03:21:45.000Z</updated>
+        <summary type="html"><![CDATA[​​​​​​​​​​​​​​​​​​​​​​1話完結の可能性あります。お久しぶりです。今日取り上げるスキルは2種類。文章多めです。​1つ目は​​​リフレクションスキン​​​（知識反射）​​必要な召喚獣は​​ヘッジャー​​です。​消費CPは...]]></summary>
+        <author>
+            <name>ほしめろちゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不具合だとね…ね？]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-999.html</id>
