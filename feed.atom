@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T09:47:51.708Z</updated>
+    <updated>2023-07-10T10:20:43.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[去年の金鯖何やってたっけ…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1000.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-1000.html"/>
+        <updated>2023-07-10T10:03:50.000Z</updated>
+        <summary type="html"><![CDATA[あ…去年初のアイテムとして、金鯖ｶｰﾍﾟｯﾄたるものが実装されました。金鯖で使うと経験値5％効果付きの羊カーペットみたいなものです。そしてその見た目が…うん、金色の鯖です。ってことでね、何を思ったのかギルド飼育師にサブ含めて包囲していたわけです。餌くれ～ってねだってるような状況。そしたら他の人も集まってきて…こうなった。間違いなく困惑する図である。そういえば今年もこれ配るんだったな…ならば今年もやるしかない]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[対人サマナのすゝめ 第1巻　反射編]]></title>
         <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202307100000/</id>

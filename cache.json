@@ -576,6 +576,16 @@
       "siteUrl": "https://extremetrailblazer.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-1000.html",
+          "author": "Trailblazer",
+          "description": "あ…去年初のアイテムとして、金鯖ｶｰﾍﾟｯﾄたるものが実装されました。金鯖で使うと経験値5％効果付きの羊カーペットみたいなものです。そしてその見た目が…うん、金色の鯖です。ってことでね、何を思ったのかギルド飼育師にサブ含めて包囲していたわけです。餌くれ～ってねだってるような状況。そしたら他の人も集まってきて…こうなった。間違いなく困惑する図である。そういえば今年もこれ配るんだったな…ならば今年もやるしかない",
+          "link": "https://extremetrailblazer.blog.fc2.com/blog-entry-1000.html",
+          "publishedOn": "2023-07-10T10:03:50.000Z",
+          "wordCount": 114,
+          "title": "去年の金鯖何やってたっけ…",
+          "imageUrl": null
+        },
+        {
           "id": "https://extremetrailblazer.blog.fc2.com/blog-entry-999.html",
           "author": "Trailblazer",
           "description": "…透明もそうだけど、分身出力も狂っていた。どうみてもエフェクト強化前じゃないか！まともなのはｒｙ不具合ってことにしておくけども…果たして今度のメンテで治るのかそれとも？15時なら安心ってのはこの前消し去ったので。あと心臓バグも治してね？この前の攻城本当に地獄だったから。V鯖の現状を知るために、現在の装備で荒地に突撃した。FIを振り回した結果は画像の通り。魔法強打55％程度なのと、魔法致命が悪さをしているの",
