@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T21:28:29.135Z</updated>
+    <updated>2023-07-10T21:47:49.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[REDSTONE] 本鯖 水アルケミ育成論]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202307010000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202307010000/"/>
+        <updated>2023-07-10T21:36:10.000Z</updated>
+        <summary type="html"><![CDATA[過去に書いたと思い込んでてたら、実はホムンクルス覚醒しか書いてなかった。個人的には水ケミで探偵5取るぐらいやりこんでおり、結構育ててはいるのですがあまり日の目浴びないよなぁと思って育成論紹介しようと...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スティングララバイ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-585.html</id>
