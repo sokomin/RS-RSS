@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-11T23:30:23.136Z</updated>
+    <updated>2023-07-11T23:47:44.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1323,16 +1323,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[こんばんは。綺麗なコスチュームです。神品(*'▽')結構、範囲広がります。新狩場にて。まだまだ課題が残ります。読んで下さって、大変ありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[REDSTONE] 本鯖水WIZ育成論]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202305310000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202305310000/"/>
-        <updated>2023-06-12T11:36:36.000Z</updated>
-        <summary type="html"><![CDATA[そういえば水WIZの育成ガイドライン書いていなかったなーと思ったので書くことにした。本鯖で1700Lv以上を目指す人向けの内容ですが、金鯖で遊ぶ人も多いと思うので少し触れたりしつつ考察していきます。1380Lv～...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
