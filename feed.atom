@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-11T21:48:08.879Z</updated>
+    <updated>2023-07-11T22:17:21.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1333,16 +1333,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[そういえば水WIZの育成ガイドライン書いていなかったなーと思ったので書くことにした。本鯖で1700Lv以上を目指す人向けの内容ですが、金鯖で遊ぶ人も多いと思うので少し触れたりしつつ考察していきます。1380Lv～...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】３Ｄ酔い]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-948.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-948.html"/>
-        <updated>2023-06-12T10:04:14.000Z</updated>
-        <summary type="html"><![CDATA[自分は、斜め見下ろし型（クォータービュー）のゲームが好きだ。好きというか、それしか体が受け付けない。受け付けない理由は「３Ｄ酔い」意外と多い、３Ｄ酔いする人。クォータービューのオンラインゲームで遊んでいる人に聞いてみると、３、４人に１人は３Ｄ酔いするとのこと。結構な割合だとおもう。対策をネットで調べてみても、対策は地味なものしか出て来ない。＜ネットで書かれてる主な３Ｄ酔い対策法＞①体調が悪いときは]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
 </feed>
