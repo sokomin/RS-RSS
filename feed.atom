@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-11T13:47:58.768Z</updated>
+    <updated>2023-07-11T14:17:33.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あおぞら。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-586.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-586.html"/>
+        <updated>2023-07-11T14:15:36.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。鮮やかです。いつもありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[REDSTONE] 本鯖 水アルケミ育成論]]></title>
         <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202307010000/</id>
