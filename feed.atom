@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-12T11:15:26.048Z</updated>
+    <updated>2023-07-12T11:27:37.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[どうして…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1001.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-1001.html"/>
+        <updated>2023-07-12T11:19:06.000Z</updated>
+        <summary type="html"><![CDATA[あ…いや、あのー…【お死らせ】・RS通信なるものが始まりました。・既存不具合の修正は〇ございません。来週にやる気か…？公式のいつものあれＲＳ通信なるもの【金鯖情報】 開催期間は7/19(水)メンテ後から9/6(水)メンテまで。経験値は17倍、レベル上限は1000です。増えないんだ…。おおむね去年と変化はないと思います。レポクエ無理だし、ディなんとかさんもダメだし…。一応制限の中にないのは地図のあれとクリ冒険だが…その辺はど]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あおぞら。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-586.html</id>
