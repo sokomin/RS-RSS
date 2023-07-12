@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-12T01:51:08.552Z</updated>
+    <updated>2023-07-12T02:58:04.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1303,16 +1303,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[こんにちは。焼き肉屋さんのビビンバ。最高です。明日までのスフィアキャンペーンです。良いの引きました(*'▽')ビーストテイマー943Lvです。メインシーフ1047Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次元PTボス調査進展？]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-982.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-982.html"/>
-        <updated>2023-06-12T14:25:09.000Z</updated>
-        <summary type="html"><![CDATA[致命低下0で測定できたと思ったらコスを外してなかった…物理職に対してどんだけ鬼畜な仕様にしているのかなと思ってそれを見に行ったんだ。最初はV鯖でやろうと思ったが、致命確率100％稼げず。仕方ないからS鯖で続行。そしてコス外してない外して再測定して…うん。コス（20％）とクリ（40％）であれこれした。なんでコス30％じゃないかって？酔って買ったデュアルクレストが致命低下のほうじゃなかった。…とりあえずの結果。0％…4]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
