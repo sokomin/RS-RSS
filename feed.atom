@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-13T15:30:41.629Z</updated>
+    <updated>2023-07-13T15:48:09.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1361,15 +1361,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[供給が過剰すぎる【お知らせ】・ドロップイベントの品が重ならない事情の修正公式のいつものあれ【猶予が多めなログキャン】7/18(火)23:59まで。アイテムがランダムなだけで、いつも通り。一例って書いてるから色々でるんだろう？コンプマスはソーラーコクーン、プレミアムは第1第2がSロト、第3ガードⅡで固定されている。マップ構成はいつもの10　10　5　です。だから猶予は…あれ、1週間多い…？特に大型祝日があるわけでもないのに]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[950Lv～クエスト　収容所クエスト【 REDSTONE / 붉은보석 】]]></title>
-        <id>https://www.youtube.com/watch?v=GAqhd2eUubs</id>
-        <link href="https://www.youtube.com/watch?v=GAqhd2eUubs"/>
-        <updated>2023-06-14T03:45:00.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
