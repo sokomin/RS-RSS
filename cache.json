@@ -6,6 +6,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202304110000/",
+          "author": "そこらの民衆",
+          "description": "webページの速度改善周りの話。サイト更新していたところ、以下のようなワーニングがGoogleから届いた。（※厳密には現段階では解消されてたけど）何だこりゃ？と思って調べてみる。\"Interaction to Next Paint\"（...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202304110000/",
+          "publishedOn": "2023-07-13T21:30:57.000Z",
+          "wordCount": 1225,
+          "title": "Core Web Vitals の INP の問題　対応してみた",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/191cec2b47ef179b445e3ff10b9e7883274e6b30.10.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202307010000/",
           "author": "そこらの民衆",
           "description": "過去に書いたと思い込んでてたら、実はホムンクルス覚醒しか書いてなかった。個人的には水ケミで探偵5取るぐらいやりこんでおり、結構育ててはいるのですがあまり日の目浴びないよなぁと思って育成論紹介しようと...",
