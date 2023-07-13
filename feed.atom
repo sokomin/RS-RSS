@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-13T05:48:00.881Z</updated>
+    <updated>2023-07-13T06:24:42.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖2022　レベル上げルート（1～1000狩場）Ver.狩るＤＸ流毒悪魔]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202207150000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202207150000/"/>
+        <updated>2023-07-13T06:24:01.000Z</updated>
+        <summary type="html"><![CDATA[※2023年7月13日追記検索したらこっちのページの方が上に出てくるので​今年Ver.を。2023年版​↓以下↓2022版ですが、こちらも読んでもらえたらと思います<m(__)m>毒悪魔は去年と仕様変わっておりませんので。2...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023金鯖レベリングルートとカルＤＸのテイマ育成論]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202307130000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202307130000/"/>
+        <updated>2023-07-13T06:21:41.000Z</updated>
+        <summary type="html"><![CDATA[2023年　レッドストーン　金鯖​公式ＨＰ　金鯖特設ページ​開催決定しましたね！去年も一昨年もレベリングルートをあげましたが、意外と好評だったので次元の狩場が実装された今年もやりました(｀・ω・´)ゞ今年は2...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[明るい金鯖計画]]></title>
         <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202307130000/</id>
