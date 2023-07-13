@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-12T23:47:55.270Z</updated>
+    <updated>2023-07-13T01:53:34.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1330,26 +1330,6 @@ April UPDATE -->
         <summary type="html"><![CDATA[ギルドデイリーやGDなどをすることによりたまったギルドポイントを振ることによって強化されていく旗バフですがわたしのキャラが所属しているGでは大体が平均Lv３くらいが多いのかな？と思います。ただしわたしが管理してる倉庫Gなどは育成がまだまだでなかにはLv１が数個しかないGもあったりします＾＾；活動人数自体少ないですからね＾＾；そんなG様の中で毎週日曜に提示GDを行っているG島ぐらしはかなりの充実度を誇ります！ち]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[REDSTONE] 本鯖知識キャプテン育成論]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202306120000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202306120000/"/>
-        <updated>2023-06-13T13:46:23.000Z</updated>
-        <summary type="html"><![CDATA[そういえばキャプテンの育成紹介記事ってほとんど書いてなかったなぁと思って書くことにした。実装時のアプデ紹介で触れたまま放置してましたね。配信で何度か紹介したりはしましたが、文章に落とし込むのはこれ...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初期位置支援にSlvは必要かって？]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-983.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-983.html"/>
-        <updated>2023-06-13T12:42:15.000Z</updated>
-        <summary type="html"><![CDATA[ほどほどでいいんじゃないかな？盛るのは楽しいけどね。BISでそういう根拠。ブレ…装備で20万なら不要に。高ランクだと剥がし、反転が多いためこれ前提にしにくい防御…無限に上昇する。ただし、物理面だけだし、現在の攻城では火力がぶっとびすぎて効果が薄すぎるリゼネ…剥がし、反転対象ではある。それでも装備の影響を受けず、常時回復は心強いWIZでそういう根拠？そりゃ上限値のせい。リトルで女神をするのであれば…もりもりにし]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
