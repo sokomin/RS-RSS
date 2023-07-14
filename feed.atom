@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-13T23:48:02.219Z</updated>
+    <updated>2023-07-14T01:52:51.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1308,16 +1308,6 @@ JUNEl UPDATE -->
         <updated>2023-06-14T23:30:10.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漁り火セット。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-559.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-559.html"/>
-        <updated>2023-06-14T13:14:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。新鮮な海の幸がたっぷりで最高です。良く見るとメダカさんの卵が付いています。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
