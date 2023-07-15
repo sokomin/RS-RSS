@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-15T09:17:12.776Z</updated>
+    <updated>2023-07-15T09:28:54.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハウステンボス。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-589.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-589.html"/>
+        <updated>2023-07-15T09:20:31.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。壮大なホテルです。名物、佐世保バーガーを頂きます。巨大な風車、圧倒されます。読んで頂き、毎度ありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亜種的な金鯖レベ上げルート]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1003.html</id>
