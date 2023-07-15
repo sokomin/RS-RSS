@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-15T03:51:23.794Z</updated>
+    <updated>2023-07-15T04:21:37.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[亜種的な金鯖レベ上げルート]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1003.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-1003.html"/>
+        <updated>2023-07-15T03:53:52.000Z</updated>
+        <summary type="html"><![CDATA[一般的なのは他の方がまとめているだろうから…【装備が完全に揃っている人向け】作成後→GD入口とB1→915辺りまで次元ＰＴボス渡り→950まで地下墓地のＰＶＰフィールド→地下収容所Ｂ1次元ＰＴボスは基本的に25レべ間隔だが、ＲＳオーラで多少伸ばす。経験値がぶっとんでいるのだが、問題点は相手の火力がでたらめなことか。かつて調査した敵からの被ダメ状況。防御2815、属性抵抗だいたい52％で土だけ67％です。同レベル帯の敵と比べ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知識アチャ育成 #1【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=KZmzdfpiLoY</id>
