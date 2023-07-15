@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-15T09:47:49.313Z</updated>
+    <updated>2023-07-15T10:18:54.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第？回「夏のつぼせん祭り2023　前夜祭」]]></title>
+        <id>64b25f2c2642314a8294a1dd</id>
+        <link href="https://rstenshin.wixsite.com/tenshin/post/%E7%AC%AC%EF%BC%9F%E5%9B%9E%E3%80%8C%E5%A4%8F%E3%81%AE%E3%81%A4%E3%81%BC%E3%81%9B%E3%82%93%E7%A5%AD%E3%82%8A2023-%E5%89%8D%E5%A4%9C%E7%A5%AD%E3%80%8D"/>
+        <updated>2023-07-15T09:57:51.000Z</updated>
+        <summary type="html"><![CDATA[え～～～～～、ご無沙汰してます？？？ ぷりたんだよー・。・ｖ  昨年はコロナの影響により残念ながら非開催となりましたが、今年は２年ぶりに帰って参りました、天心主催の「つぼせん祭り2023」！！！！！！！！ どん！！！！どどんどんどん！！！！どん！！！！どどんどんどん！！！！...]]></summary>
+        <author>
+            <name>ぷりたん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハウステンボス。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-589.html</id>

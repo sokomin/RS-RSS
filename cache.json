@@ -1455,7 +1455,23 @@
       "title": "∋天心爛漫∈",
       "feedUrl": "https://rstenshin.wixsite.com/tenshin/blog-feed.xml",
       "siteUrl": "https://rstenshin.wixsite.com/tenshin/blog",
-      "articles": []
+      "articles": [
+        {
+          "id": "64b25f2c2642314a8294a1dd",
+          "author": "ぷりたん",
+          "description": "え～～～～～、ご無沙汰してます？？？ ぷりたんだよー・。・ｖ  昨年はコロナの影響により残念ながら非開催となりましたが、今年は２年ぶりに帰って参りました、天心主催の「つぼせん祭り2023」！！！！！！！！ どん！！！！どどんどんどん！！！！どん！！！！どどんどんどん！！！！...",
+          "link": "https://rstenshin.wixsite.com/tenshin/post/%E7%AC%AC%EF%BC%9F%E5%9B%9E%E3%80%8C%E5%A4%8F%E3%81%AE%E3%81%A4%E3%81%BC%E3%81%9B%E3%82%93%E7%A5%AD%E3%82%8A2023-%E5%89%8D%E5%A4%9C%E7%A5%AD%E3%80%8D",
+          "publishedOn": "2023-07-15T09:57:51.000Z",
+          "wordCount": 21441,
+          "title": "第？回「夏のつぼせん祭り2023　前夜祭」",
+          "enclosure": {
+            "url": "https://static.wixstatic.com/media/b8926a_ed9b755cd8a1402abd2b63cbe5c1be17~mv2.png/v1/fit/w_729,h_599,al_c,q_80/file.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://static.wixstatic.com/media/b8926a_ed9b755cd8a1402abd2b63cbe5c1be17~mv2.png/v1/fit/w_729,h_599,al_c,q_80/file.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
