@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-15T08:48:18.372Z</updated>
+    <updated>2023-07-15T09:17:12.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1308,16 +1308,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[今日は16日です。※まぁ仕方ない面はある【岩の日というなの180円販売】6/19(月)12:00まで。まさかの18日から1日後だし、12時までしかない。もうこれ18日開催でもよかったのでは？対象は心臓とアブソーブと記憶石。アブソーブなんかはちょうどいいんじゃないかな？180円でどれかのステ+10だけど。まぁ、1個だけしか交換できないし、プレゼントもできないよ。期間が短い詳細岩の日じゃないし、終わる日も短いし、しれっと12時終わり]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[REDSTONE] 本鯖知識犬育成論]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202306160000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202306160000/"/>
-        <updated>2023-06-15T20:49:44.000Z</updated>
-        <summary type="html"><![CDATA[最近、犬について研究しといたほうがいいなと思って調べてたのでその話についてまとめていきます。というのも、WIZの弱体化が著しくてその代替ビルドを探していたところ、知識犬が意外と強いよ？という話を聞いた...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
