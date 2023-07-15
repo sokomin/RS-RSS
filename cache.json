@@ -6,6 +6,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202307150000/",
+          "author": "そこらの民衆",
+          "description": "今年も金鯖の季節がやってきましたね2022金鯖版レベルート に倣って、今年も書きます。今年は次元パーティボスが登場したことでルートが多少変わってきます。【2023年レッドストーン金鯖】・レベル1000まで・キャ...",
+          "link": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202307150000/",
+          "publishedOn": "2023-07-14T23:59:31.000Z",
+          "wordCount": 1479,
+          "title": "2023金鯖版レベルート　レッドストーン　金鯖攻略",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/a9a92076d088a3cd6854a9ce577fb34a1138ab99.10.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/redstoneteikou/diary/202304110000/",
           "author": "そこらの民衆",
           "description": "webページの速度改善周りの話。サイト更新していたところ、以下のようなワーニングがGoogleから届いた。（※厳密には現段階では解消されてたけど）何だこりゃ？と思って調べてみる。\"Interaction to Next Paint\"（...",
@@ -208,6 +218,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8pMAy5Ifr2KgH8kM_xR9Og",
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KZmzdfpiLoY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KZmzdfpiLoY",
+          "publishedOn": "2023-07-15T01:38:26.000Z",
+          "wordCount": null,
+          "title": "知識アチャ育成 #1【 REDSTONE 】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=O8R_v9QXqsg",
           "author": null,
