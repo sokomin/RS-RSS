@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-15T23:47:44.966Z</updated>
+    <updated>2023-07-16T02:02:40.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本鯖 知識ランサー育成論 [ レッドストーン 攻略 ]]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202307030000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202307030000/"/>
+        <updated>2023-07-16T01:17:24.000Z</updated>
+        <summary type="html"><![CDATA[レッドストーンの攻略サイトで調べると、大体一番ヒットするのがランサー・アーチャーRS最初期から存在するキャラということもあって、情報過多なぐらいじゃないか？ということで自分はあまり触れてきませんでし...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第？回「夏のつぼせん祭り2023　前夜祭」]]></title>
         <id>64b25f2c2642314a8294a1dd</id>
@@ -1308,16 +1318,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[やっと900レべまで上げた…そのうちちゃんとしたのは作るけど、とりあえず経験値だけでも…スフィアパワキバッジ込み、知恵101、G加入（+15％-0.05％）、5転生キャラとペアで統一。…実は入れない、クリーチャーもいれない、知恵も最低限と道中レベ上げがきつかった。途中からレベ上げ中は使ったけどね。まとめたj結果。クリックで拡大してみましょう。ちゃんとしたものはレベルごとで分割します。ちなみに効率難所は200と700、狩り難]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡の魔法書。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-561.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-561.html"/>
-        <updated>2023-06-16T13:56:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。荷物が重そうです。良ドロップです。1250UMUは多彩です。久しぶりの青い宝箱です。海底神殿B2の外周です。比率指か耐性靴に使いたいです。光って無いですが、1048Lvです♪いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
