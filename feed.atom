@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-16T14:48:03.877Z</updated>
+    <updated>2023-07-16T15:17:45.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石の日を終えて、ソウルガード]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-808.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-808.html"/>
+        <updated>2023-07-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仕事帰りの時間に空がピカピカ光っているのをよく見ます雷雲を見ると何だか怖くなりますねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[既存ＰＴボスの経験値に関するお話]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1004.html</id>
