@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-16T16:22:36.411Z</updated>
+    <updated>2023-07-16T16:48:09.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年（2023）の金鯖の予定]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1005.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-1005.html"/>
+        <updated>2023-07-16T16:46:18.000Z</updated>
+        <summary type="html"><![CDATA[確定で作るのは3体。あとは時と場合…。【1st】知識槍。所属先等は確定してる。去年と同じ。速攻で1000レべにする枠。目標は金曜日までだが、無理なら本鯖攻城までにする。2021年の経験や、次元ＰＴボス等調べたから、狩場が空いていれば何とかなると思ってる。まぁ去年もデイリー討伐用キャラが油入れれば地下墓地Ｂ1ワンパンだったから…持ち込み次第ではあるけどね、うん。なお、攻城は様子見になる。相手に合わせるべきか…。【2n]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウィークリー討伐　アスタロト　ソロ【 REDSTONE / 붉은보석 】]]></title>
         <id>https://www.youtube.com/watch?v=jZKNOV0JGFQ</id>
