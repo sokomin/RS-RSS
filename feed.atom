@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-16T22:16:46.889Z</updated>
+    <updated>2023-07-16T22:31:37.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1337,16 +1337,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[こんばんは。圧倒的豪遊・・・！今日、再開したかき氷屋さんです。上品な甘さの苺と多めの練乳が最高です。読んで下さって、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次元PTボスについて]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-987.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-987.html"/>
-        <updated>2023-06-17T10:23:40.000Z</updated>
-        <summary type="html"><![CDATA[厄介な狩場。【次元PTボスって？】2023/4/19(水)のアプデで実装された150レべから50レべずつ、900レべまで用意された狩場。しっかり狩れるのであれば、既存の狩場を凌駕する経験値効率をほこる。ただし、その分敵も強力で、特に750以降はしっかりと対策しなければまともに狩れない。なお、突入にはポータル系統アイテムが必要です。【共通する注意事項】・敵はそれぞれのマップにて1種固定。・敵レベルは適正レベルから±15レべの範]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
