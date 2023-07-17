@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-17T08:24:29.802Z</updated>
+    <updated>2023-07-17T08:47:53.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今更金鯖に向けた話]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1006.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-1006.html"/>
+        <updated>2023-07-17T08:39:29.000Z</updated>
+        <summary type="html"><![CDATA[なんやかんやで直前…前に書いたのを多少変更しただけである。【金鯖って？】経験値倍率がぶち抜けた期間限定サーバー。7月下旬～9月上旬くらい。2023年の倍率は17倍です。スフィアパワキバッジで102倍。あとは実、旗バフ、クリパッシブなどでさらに増える。混雑がとんでもないことになっており、古都は土日や平日夜に接続満になる。用事がないなら古都で放置しないように。接続を競い合うゲーム。半面、高レべ狩場は軽くなった。そ]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023金鯖版 装備・金策攻略　レッドストーン]]></title>
         <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202307170000/</id>
