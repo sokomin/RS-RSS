@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-17T10:50:26.047Z</updated>
+    <updated>2023-07-17T11:15:20.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[豚骨ラーメン。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-590.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-590.html"/>
+        <updated>2023-07-17T11:07:07.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。濃厚スープと麺が絡んで美味しいです。珍しいアトラクションです。水圧で人が空を㌧㌦。いつもありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今更金鯖に向けた話]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1006.html</id>
