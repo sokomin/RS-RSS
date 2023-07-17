@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-17T15:48:26.522Z</updated>
+    <updated>2023-07-17T16:24:51.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[超越を使わない場合のある意味最終系]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1007.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-1007.html"/>
+        <updated>2023-07-17T16:16:04.000Z</updated>
+        <summary type="html"><![CDATA[これでできた。最後のクリパッシブ厳選も終わり、それらの覚醒値を調整してLR等級まで強化して…終わり！LRはあれじゃないとだめだし、HR1体は3パッシブ前提だし、SRが必要になってしまったし…大変でした。HRの3パッシブがうまいこといけばHR3体で済んだ…はず。それもLRがきれいにサブパッシブ分散したからだけども。何が変わったかというと、上級経験値Lv50を追加しました。その労力にあうかって？Slv+6だよ？なお、現在は超越を使]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[豚骨ラーメン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-590.html</id>
