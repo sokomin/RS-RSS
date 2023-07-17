@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-17T03:05:44.937Z</updated>
+    <updated>2023-07-17T03:39:17.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1337,16 +1337,6 @@ JUNEl UPDATE -->
         <updated>2023-06-17T22:23:39.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鶏肉、取りに行く。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-562.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-562.html"/>
-        <updated>2023-06-17T15:16:03.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。圧倒的豪遊・・・！今日、再開したかき氷屋さんです。上品な甘さの苺と多めの練乳が最高です。読んで下さって、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
