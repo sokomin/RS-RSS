@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-17T10:20:34.708Z</updated>
+    <updated>2023-07-17T10:38:04.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1346,15 +1346,6 @@ JUNEl UPDATE -->
         <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202306170000/"/>
         <updated>2023-06-18T06:24:15.000Z</updated>
         <summary type="html"><![CDATA[2022年の金鯖の直前でアプデが入り、毒闇悪魔は大幅に強化されました。その辺りを踏まえて育成のコツをご紹介。金鯖や対人周りの話題も書いておきますね。育成方針：レベルート悪魔通常スキル悪魔覚醒スキル序盤①...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rank5防衛戦参加！！！【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=BrXnbeg3Q48</id>
-        <link href="https://www.youtube.com/watch?v=BrXnbeg3Q48"/>
-        <updated>2023-06-17T22:23:39.000Z</updated>
         <author>
             <name>そこらの民衆</name>
         </author>
