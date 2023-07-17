@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-17T06:47:59.034Z</updated>
+    <updated>2023-07-17T07:17:37.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023金鯖版 装備・金策攻略　レッドストーン]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202307170000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202307170000/"/>
+        <updated>2023-07-17T07:15:35.000Z</updated>
+        <summary type="html"><![CDATA[先日配信やったところ、レッドストーンの金策、全くわからん！って話を多く受けたし、1年ほどいないだけでもレッドストーンわからん状態になって金策で詰むパターンの人がいると思います。そんなレッドストーンに...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再起動]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-376.html</id>
