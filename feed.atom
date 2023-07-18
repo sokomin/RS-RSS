@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T11:14:19.720Z</updated>
+    <updated>2023-07-18T11:27:36.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖テイマー育成論（～800）]]></title>
+        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202307180000/</id>
+        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202307180000/"/>
+        <updated>2023-07-18T11:24:15.000Z</updated>
+        <summary type="html"><![CDATA[​​​​​​​​​​今年も​金鯖​の季節がやってきましたね！​https://members.redsonline.jp/goldexworld/2023/​​​​金鯖想定で知識テイマーの育成をしてみたところかなりオススメなのでご紹介したいと思います！​​テイマ...]]></summary>
+        <author>
+            <name>ほしめろちゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24時間もない販売期間]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1008.html</id>
