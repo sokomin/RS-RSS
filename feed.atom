@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T10:47:37.529Z</updated>
+    <updated>2023-07-18T11:14:19.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24時間もない販売期間]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1008.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-1008.html"/>
+        <updated>2023-07-18T10:49:14.000Z</updated>
+        <summary type="html"><![CDATA[18日…あ。【180円販売】7/19(水)メンテまで。短すぎない？180円売りが色々…と思ったけど、爆竜心臓とファストヒールと…転生パワキ。前二つはいいけど、転生パワキは…うーん。金鯖でも900維持の5転する人には無用…。1日も持たない詳細短い…あと18日午後って意識がないから岩の日に気づかない。やっぱ18円にしない？無理か。おわり]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超越を使わない場合のある意味最終系]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1007.html</id>
