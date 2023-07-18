@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T22:48:05.628Z</updated>
+    <updated>2023-07-18T23:15:54.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テイマの育て方]]></title>
+        <id>http://akira773.blog22.fc2.com/blog-entry-772.html</id>
+        <link href="http://akira773.blog22.fc2.com/blog-entry-772.html"/>
+        <updated>2023-07-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[どうも。テイマやってみたいな～とかいう人がざっと見てなんとなくわかる感じように書いた記事です。色々やってみたい方は内容は参考程度にして大いに横道に逸れていただいて結構です。むしろそちらの方が私は好きです。多少間違ってもステやスキル再振りのチャンスは、初心者クエや転生1～3回目と課金せずともゲーム内で4回ほどありますしペットもレベルや経験値と言った蓄積系が無いので好きに放逐してテイムし直してもデメリッ]]></summary>
+        <author>
+            <name>リヤン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生息地(簡易/早見)一覧]]></title>
+        <id>http://akira773.blog22.fc2.com/blog-entry-776.html</id>
+        <link href="http://akira773.blog22.fc2.com/blog-entry-776.html"/>
+        <updated>2023-07-18T22:59:59.000Z</updated>
+        <summary type="html"><![CDATA[表を見る前の前提知識として
+テイムスキルは「飼育記録書」
+テイム可能レベルは本体レベル-25+スキルレベルです。
+スキル装備などで上げることができます
+可能レベルは自分で計算しなくてもスキルの説明欄に表示されています
+最初から2匹までテイムできます
+なお覚醒で3匹目が取れる覚醒系統があるので最大3匹連れて歩くことが可能です
+見た目が同じなら等級や色違っていようが、テイム後の性能は同じになります
+テイム後]]></summary>
+        <author>
+            <name>リヤン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本体OPペットに乗る乗らない問題]]></title>
+        <id>http://akira773.blog22.fc2.com/blog-entry-774.html</id>
+        <link href="http://akira773.blog22.fc2.com/blog-entry-774.html"/>
+        <updated>2023-07-18T22:59:58.000Z</updated>
+        <summary type="html"><![CDATA[テイマをやっていると
+「このオプションはペットにも効果があるのか？」「本体にしか効果がないのだろうか？」などという疑問に直面するようになると思います。
+そこで、オプションの効果の有無を確認して一覧にしました
+装備以外にも、クレストやクリーチャー、図案書や超越の書など色々あるので、思いつく限りまとめました
+が、正直、図案書が一番良く分からなかったです。
+
+伝聞で聞いて間違っていた場合、目も当てられな]]></summary>
+        <author>
+            <name>リヤン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テイマとネフォンクリーチャー【その後の補足】]]></title>
+        <id>http://akira773.blog22.fc2.com/blog-entry-777.html</id>
+        <link href="http://akira773.blog22.fc2.com/blog-entry-777.html"/>
+        <updated>2023-07-18T22:59:57.000Z</updated>
+        <summary type="html"><![CDATA[さて、クリーチャーについてざっと説明した記事をネフォンクリーチャーというカテゴリで以前書いた記事が…えーとどれどれ…5年前？！仕様変更前じゃん…ということで一応、記事を見返したんですけど冒険以外はほとんどそのままいけそうなのでまぁ気になる方は参考程度に→テイマとネフォンクリーチャー(この古い記事を直す気はないです、頑張って書いても仕様変えてくるから)追加された仕様もありますが、最高を求める人以外やらなく]]></summary>
+        <author>
+            <name>リヤン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テイマスキルの話(おおまか)]]></title>
+        <id>http://akira773.blog22.fc2.com/blog-entry-773.html</id>
+        <link href="http://akira773.blog22.fc2.com/blog-entry-773.html"/>
+        <updated>2023-07-18T22:59:56.000Z</updated>
+        <summary type="html"><![CDATA[ここではざっとした最低限の説明しかしません金鯖前に突貫で書くには時間が足りないので最低限です。省略している部分が多いので、詳細版はこの後頑張りたい所存です(ガンバレタラ)以下記事内の「1でいい」の意は「最低限でいい(何かのスキルの前提ならそこまででいい)」と同義「マス推奨」は「Lv50までスキルを上げる」意です。「覚醒サブスキル」「覚醒メインスキル」は覚醒系統によってはLv50取る必要があるかもしれないな～ぐ]]></summary>
+        <author>
+            <name>リヤン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レッドストーン　サマナーの愛のオーラ深掘り]]></title>
         <id>hatenablog://entry/820878482950905511</id>
