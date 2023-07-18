@@ -344,18 +344,7 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": [
-        {
-          "id": "https://intothe.info/?p=1724",
-          "author": "marsborn",
-          "description": "オープンβ、サーバースラム、アーリーアクセス期間をプレーしてソロ専L...",
-          "link": "https://intothe.info/uncategorized/my-impression-about-diablo%e2%85%b3/",
-          "publishedOn": "2023-06-18T12:13:37.000Z",
-          "wordCount": 1027,
-          "title": "DiabloⅣを遊んで",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "魔法の壁のリアルライふ",
