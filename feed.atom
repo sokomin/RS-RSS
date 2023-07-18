@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T03:05:22.981Z</updated>
+    <updated>2023-07-18T03:34:54.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1309,15 +1309,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[こんばんは。美しいコスチュームです。1100DXUです。良さ気な性能です。ゲリオ討伐にて。シーフ1049Lvです。読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理(知識)獣人育成配信#6【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=MqajhQfp1nk</id>
-        <link href="https://www.youtube.com/watch?v=MqajhQfp1nk"/>
-        <updated>2023-06-18T15:09:53.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
