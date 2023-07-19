@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-19T13:48:05.697Z</updated>
+    <updated>2023-07-19T14:15:38.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -14,6 +14,56 @@
         <summary type="html"><![CDATA[評価に困る。いいもの、悪いものいっぱい。【お知らせ（お死らせ含む）】・金鯖2023、開催。・入手経路異なるアイテムが重なるようになった。・2ページ目以降の装備アイテムのクイックスロット登録ができるようになった。・自リロバグが治った・精霊コスの出力がほぼ治った。分身がエフェクト強化に非対応。・金鯖BOX2022が金鯖プレゼントBOXに改名。使いまわすためだね？・簡易版の金鯖ポケットベルの経験値効果が発動していない※]]></summary>
         <author>
             <name>Trailblazer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.7.19 イベ更新]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/8adf160033bf390094a0080a6e52ed70</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/8adf160033bf390094a0080a6e52ed70?fm=rss"/>
+        <updated>2023-07-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[週末の猛暑を抜け、ちょっとマシになってきましたね。
+
+7月19日開始のイベントキャンペーン一覧」
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7月5日メンテ後から9月6日メンテ前まで
+
+
+久々に更新が大変だった＠ｗ＠
+これだけ更新したのっていつぶり？？？って感じです。
+まぁたまにはいいか。
+みなさんは金鯖行きますか？
+私は・・・通常鯖でいつもどおり適当にやろうと思いますｗ
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
