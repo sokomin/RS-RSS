@@ -260,6 +260,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=q36AZQe_Kug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q36AZQe_Kug",
+          "publishedOn": "2023-07-19T00:33:51.000Z",
+          "wordCount": null,
+          "title": "2023金鯖育成！！！#1【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jZKNOV0JGFQ",
           "author": null,
           "description": "",
@@ -1513,16 +1523,6 @@
           "wordCount": null,
           "title": "300Lv制限Gv。",
           "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-564.html",
-          "author": "medaka1985",
-          "description": "こんばんは。美しいコスチュームです。1100DXUです。良さ気な性能です。ゲリオ討伐にて。シーフ1049Lvです。読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-564.html",
-          "publishedOn": "2023-06-19T14:42:00.000Z",
-          "wordCount": 1021,
-          "title": "UMUドロップ。",
-          "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medaka1985/2023061923372419c.png"
         }
       ]
     },
