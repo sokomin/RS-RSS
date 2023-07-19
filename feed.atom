@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-19T06:48:07.628Z</updated>
+    <updated>2023-07-19T07:15:44.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本鯖 知識育成アーチャー育成論 　レッドストーン 攻略]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202307050000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202307050000/"/>
+        <updated>2023-07-19T07:02:46.000Z</updated>
+        <summary type="html"><![CDATA[2023金鯖直前ということで、先日はサイトにて知識ランサ育成論を書かせていただきました。今回はその対となる職業であるアーチャーを紹介します。RS最初期から存在する遠距離ディーラーということもあって、プレ...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023金鯖育成！！！#1【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=q36AZQe_Kug</id>
