@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-19T10:48:04.144Z</updated>
+    <updated>2023-07-19T11:14:04.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[色々混ざりあってなんというか…]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1009.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-1009.html"/>
+        <updated>2023-07-19T11:10:25.000Z</updated>
+        <summary type="html"><![CDATA[評価に困る。いいもの、悪いものいっぱい。【お知らせ（お死らせ含む）】・金鯖2023、開催。・入手経路異なるアイテムが重なるようになった。・2ページ目以降の装備アイテムのクイックスロット登録ができるようになった。・自リロバグが治った・精霊コスの出力がほぼ治った。分身がエフェクト強化に非対応。・金鯖BOX2022が金鯖プレゼントBOXに改名。使いまわすためだね？・簡易版の金鯖ポケットベルの経験値効果が発動していない※]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新着イベント情報]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1264.html</id>
