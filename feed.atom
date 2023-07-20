@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T02:48:54.375Z</updated>
+    <updated>2023-07-20T03:17:22.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1515,16 +1515,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[大体毎年金鯖で育成しているサマナーの話。2023/2にスキルが大幅に改変されて前の導きサマナ育成論が通用しなくなったこともあって、この度刷新した内容を書くことにしました。今までとの最大の違いは、お手軽さ...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去年の金鯖キャラと今年の予定]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-372.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-372.html"/>
-        <updated>2023-06-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[毎年している金鯖の時期まであと1か月くらいとなりました。今年もやるのかな？レベル上げ支援が充実してきててあまり金鯖の意味もなくなってきたような気もしますけど…年1回のお祭りだと思ってるのでやってほしいですよね＾＾わたしの去年の金鯖キャラは今どうしてるかというと去年はお盆過ぎに復帰したので作ったキャラがキャプテンのみで金鯖では物理育成をしていましたが今は知識として活動中です＾＾わたしまだ復帰して1年経っ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
 </feed>
