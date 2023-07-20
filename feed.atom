@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T02:24:55.626Z</updated>
+    <updated>2023-07-20T02:48:54.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1525,16 +1525,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[毎年している金鯖の時期まであと1か月くらいとなりました。今年もやるのかな？レベル上げ支援が充実してきててあまり金鯖の意味もなくなってきたような気もしますけど…年1回のお祭りだと思ってるのでやってほしいですよね＾＾わたしの去年の金鯖キャラは今どうしてるかというと去年はお盆過ぎに復帰したので作ったキャラがキャプテンのみで金鯖では物理育成をしていましたが今は知識として活動中です＾＾わたしまだ復帰して1年経っ]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[300Lv制限Gv。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-565.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-565.html"/>
-        <updated>2023-06-20T14:28:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。クールなコスチュームです。やっぱり嬉しいドロップです。討伐トレジャーボックスからです。鯖間の300Lv制限Pvに参加しました！一進一退の攻防です。凄まじい戦いです。私は10回程、死にました。(しかも巻物忘れ）お好み焼きさん(S鯖)が勝ちました。300Lv制限の方々有難うございました♪皆さん優しくてありがたいです。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
