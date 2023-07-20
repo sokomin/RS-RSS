@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T22:29:01.939Z</updated>
+    <updated>2023-07-20T22:47:59.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1440,16 +1440,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[こんばんは。賑わっています。分りやすくやっています。ウィークリーの報酬指です。(ギルメンさんに手伝って貰いました。)いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重要＆新着イベント情報更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1263.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1263.html"/>
-        <updated>2023-06-21T10:41:44.000Z</updated>
-        <summary type="html"><![CDATA[☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..メンテ時間長いと思ったらアプデがあったようで。クリーチャーと討伐関連にアプデが入ったようですがクリーチャーに新等級の神話級「GR」というのが追加されたようですね。それとクリチャにも超越システムが追加されたようです。討伐にはウィークリー討伐というものが追加された模様。デイリーとウィークリーから選択して行けるようですね。ファルコンのウィークリー討伐は今のとこ]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
     <entry>
