@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T08:47:50.925Z</updated>
+    <updated>2023-07-20T09:16:15.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1505,16 +1505,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[しれっと色々始まった…【2023/6/21ver0.0792アプデ】これを渡しておこう。公式で確認したくなったら飛ぶといい。ではこっちはこっちで順番に。◆ネフォンクリーチャー「神話」等級追加◆LRの上位である等級「神話」【GR】等級が実装。サブパッシブが3つデフォでついている。現時点では合成でのみ入手可能。さらに厄介なのは…LRを含んだ合成でないと、入手不可であること。SR4体で出るかな～なんて思ったら…無情にも0％でした。ただで]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[REDSTONE] 本鯖サマナ育成論]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202306180000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202306180000/"/>
-        <updated>2023-06-20T21:10:52.000Z</updated>
-        <summary type="html"><![CDATA[大体毎年金鯖で育成しているサマナーの話。2023/2にスキルが大幅に改変されて前の導きサマナ育成論が通用しなくなったこともあって、この度刷新した内容を書くことにしました。今までとの最大の違いは、お手軽さ...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
