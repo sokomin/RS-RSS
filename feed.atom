@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-19T23:47:50.454Z</updated>
+    <updated>2023-07-20T01:26:16.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖に地図バフを載せてしまった結果がこれだよ！]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1010.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-1010.html"/>
+        <updated>2023-07-20T01:24:12.000Z</updated>
+        <summary type="html"><![CDATA[24時間かからず5転1000レべ達成。厳密には14時間、準備抜きで9時間。…うん、正直長期戦になるだろうと思って狩ってたんだ。問題が起きたのは900次元ＰＴボス。敵火力を耐えられる仕様にして、FI2発確定で10か所回ししていたら地図宝箱出ました。普通に入力するじゃん？バフ付与されるじゃん？しっかり適用されるじゃん。…ということで、本来なら壺突破！なレベル帯を900次元で代用し、代わりに930あたりから壺ブースト+クエスト消]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023金鯖育成！！！#2【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=nDSJzyymBdY</id>
