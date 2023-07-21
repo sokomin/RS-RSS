@@ -1177,7 +1177,18 @@
       "title": "Hardwired...to Self-Destruct",
       "feedUrl": "https://diaanrs.blogspot.com/feeds/posts/default?alt=rss",
       "siteUrl": "https://diaanrs.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-622089654895304373.post-7260683158552050638",
+          "author": "noreply@blogger.com (Unknown)",
+          "description": "Table Of Contents\nI: Tamer Rework\nII: Summoner Rework\nIII: Enhanced Association Equipment\nIV: Dimension Hub Rework\nV: Premium Field Improvement and Additional Another-World Monster\nVI: Returner Rework (RT+)\nVII: Added Knockout Popup\nVIII: Notes\n\n\nI: Tamer Rework \nVarious skills for training and managing pets are now integrated.\nThe Pet stats increase (Power), Pet skill level increase (Knowledge) that were previously applied based on the tamer's power and knowledge stats are now applied as a sum of the values (Power + Knowledge). With this change,  all stats will have the same effects (Additionally added). \nImproved the battle convenience by adding skills that hit the target range without selecting a target. \nAdded skill that allows moving pets to the desired location so that it can be move…",
+          "link": "https://diaanrs.blogspot.com/2023/07/july-2023-update-guide-complete-guide.html",
+          "publishedOn": "2023-07-21T06:23:00.000Z",
+          "wordCount": 4532,
+          "title": "July 2023 Update Guide (COMPLETE Guide)",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg7P5oBWExZWMgxNe9Lqez-jTdQcXx7Ju_wAnJfGm_X7JuWl8Q2h_K5QUtoNVDXQfbbxkrOY_QzLiPmNq5GDaoLlpXzv2N6HjiESxVPkLR7lEs1xbf40r2-Q5bKfsanPcik0VIH3qOQD8fWD6z0Dqx96RCPWwAiRlCEkoPWjpwZqUrUbxDPlPV7LHbYz39/w1200-h630-p-k-no-nu/gleam.png"
+        }
+      ]
     },
     {
       "title": "ほしめろちゃんだぅ～☆（ゝω・）v",

@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T06:21:31.508Z</updated>
+    <updated>2023-07-21T06:47:43.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[July 2023 Update Guide (COMPLETE Guide)]]></title>
+        <id>tag:blogger.com,1999:blog-622089654895304373.post-7260683158552050638</id>
+        <link href="https://diaanrs.blogspot.com/2023/07/july-2023-update-guide-complete-guide.html"/>
+        <updated>2023-07-21T06:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Table Of Contents
+I: Tamer Rework
+II: Summoner Rework
+III: Enhanced Association Equipment
+IV: Dimension Hub Rework
+V: Premium Field Improvement and Additional Another-World Monster
+VI: Returner Rework (RT+)
+VII: Added Knockout Popup
+VIII: Notes
+
+
+I: Tamer Rework 
+Various skills for training and managing pets are now integrated.
+The Pet stats increase (Power), Pet skill level increase (Knowledge) that were previously applied based on the tamer's power and knowledge stats are now applied as a sum of the values (Power + Knowledge). With this change,  all stats will have the same effects (Additionally added). 
+Improved the battle convenience by adding skills that hit the target range without selecting a target. 
+Added skill that allows moving pets to the desired location so that it can be move…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023金鯖　レベルアップキャンペーンに挑む！#1【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=xuG6GsOQShI</id>
