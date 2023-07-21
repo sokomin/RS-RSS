@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T13:47:42.324Z</updated>
+    <updated>2023-07-21T14:14:42.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スーパーロト[取引不可]。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-594.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-594.html"/>
+        <updated>2023-07-21T13:56:27.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。涼しそうです。ルーレットの結果です。おお！良いの出ました♪闇商人おじさんから。闇商人の箱から出るんですね＠＠迷える追跡者、錬成(60%)やったー！成功です♪いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[July 2023 Update Guide (COMPLETE Guide)]]></title>
         <id>tag:blogger.com,1999:blog-622089654895304373.post-7260683158552050638</id>
