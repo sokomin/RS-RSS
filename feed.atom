@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T03:16:46.612Z</updated>
+    <updated>2023-07-21T03:28:33.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1439,16 +1439,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[現地型ゲリオと同じじゃん…なんか嫌な予感はしていたんだよね。初回討伐で称号やらMBがしれっとこっちになったやら。なので、現地型ゲリオを倒せるほどの能力がないと、ウィークリーぶん回しはできません。物理有利な敵です。知識だと避けるわダメージでないわ…とはいえ、物理でも致命低下は100％近く必要。無事討伐できたけど、入手した指のOPがGO☆MIだったので…分解することにした。U分解と同じとこでできるよ。結果……なるほど？]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[堕天のリング。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-566.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-566.html"/>
-        <updated>2023-06-21T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。賑わっています。分りやすくやっています。ウィークリーの報酬指です。(ギルメンさんに手伝って貰いました。)いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
