@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T02:23:36.116Z</updated>
+    <updated>2023-07-22T02:47:59.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1473,16 +1473,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[こんばんは。結構、遭遇しました。地下神殿B2でPT組んだ結果。クエストの小部屋です。気合い入っています。このような指輪を頂きました。1050Lv到達♪鐘使って下さったので上がってます。(・∀・)ｲｲﾈ!!いつもの。最後まで読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウィークリー討伐、行く！]]></title>
-        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-989.html</id>
-        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-989.html"/>
-        <updated>2023-06-22T14:47:33.000Z</updated>
-        <summary type="html"><![CDATA[現地型ゲリオと同じじゃん…なんか嫌な予感はしていたんだよね。初回討伐で称号やらMBがしれっとこっちになったやら。なので、現地型ゲリオを倒せるほどの能力がないと、ウィークリーぶん回しはできません。物理有利な敵です。知識だと避けるわダメージでないわ…とはいえ、物理でも致命低下は100％近く必要。無事討伐できたけど、入手した指のOPがGO☆MIだったので…分解することにした。U分解と同じとこでできるよ。結果……なるほど？]]></summary>
-        <author>
-            <name>Trailblazer</name>
         </author>
     </entry>
 </feed>
