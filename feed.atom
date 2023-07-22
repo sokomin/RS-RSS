@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T03:17:13.880Z</updated>
+    <updated>2023-07-22T03:28:51.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1461,16 +1461,6 @@ JUNEl UPDATE -->
         <link href="https://medaka1985.fc2.net/blog-entry-568.html"/>
         <updated>2023-06-23T14:51:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。アスタロト、何とかソロで行けました。800Lvのウィークリー討伐報酬です。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クエスト指輪、]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-567.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-567.html"/>
-        <updated>2023-06-22T15:24:58.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。結構、遭遇しました。地下神殿B2でPT組んだ結果。クエストの小部屋です。気合い入っています。このような指輪を頂きました。1050Lv到達♪鐘使って下さったので上がってます。(・∀・)ｲｲﾈ!!いつもの。最後まで読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
