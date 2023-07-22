@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T08:47:51.635Z</updated>
+    <updated>2023-07-22T09:14:47.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[終わり]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1011.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-1011.html"/>
+        <updated>2023-07-22T08:57:08.000Z</updated>
+        <summary type="html"><![CDATA[こちら、21日の金鯖レベルランキング（5転アチャランのみ）です。こちら、22日の金鯖レベルランキング（5転アチャランのみ）です。以上。なんっつうか、もういいやってなった。それだけ。あれだけ準備したのに、一瞬で萎えることがあった。本鯖もどうでもいいって感じです。ログキャン、ルーレットすら放置するくらいに萎えてます。なので、もう金鯖にはいません。仕事は最低限果たした。もう知らんよ…おわり]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドラゴンツイスタあああぁぁ！]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-199.html</id>
