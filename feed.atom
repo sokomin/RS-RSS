@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T07:27:47.190Z</updated>
+    <updated>2023-07-22T07:47:42.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドラゴンツイスタあああぁぁ！]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-199.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-199.html"/>
+        <updated>2023-07-22T07:38:55.000Z</updated>
+        <summary type="html"><![CDATA[家の前の公園のセミが協同：爆音するので、PCのボリュームを１段階上げる季節になりました。こんにちは第三の猫です。まずは現状報告。ノーマルシュークリームは生地に黒糖でも混ぜたような感じの色合いですね。（緑枠がスーパースター版シュークリーム）イケルあああぁぁ！ーとまあ、本鯖はこの辺にしておいて金鯖に行ってみましょう。今年はドラツイやりますよ。金鯖あああぁぁ！REDSTONEで最強のスキル※だけあって、前提も多い]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023金鯖　レベルアップキャンペーンに挑む！#2【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=4VVoq6QvDh4</id>
