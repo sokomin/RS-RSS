@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-23T20:47:36.277Z</updated>
+    <updated>2023-07-23T21:14:41.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1471,25 +1471,6 @@ JUNEl UPDATE -->
         <id>https://www.youtube.com/watch?v=VpRHkmqfJww</id>
         <link href="https://www.youtube.com/watch?v=VpRHkmqfJww"/>
         <updated>2023-06-24T10:32:33.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知ってた？WIN１０のサポートが一部終わってるよ！（＆スクリーンショットの続き）]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1118.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1118.html"/>
-        <updated>2023-06-24T09:01:16.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは～今回はPC日記、そうですそれはＰＣの調子が悪い時に書く日記ｗここ数日、あまりイン率の良くないハニーの・・・・イン率がさらに下がっていることにお気づきかと思います！メインPＣがあああ！立ち上がらないのよこれが！！最近はね、メインＰＣもサブPＣも、どちらもノートなのよ。メインＰＣはそれなりの（ひと世代前のハイエンド機な感じ）ノートで、サブはＷＩＮ１１がギリ動く感じのやつゲームも動画の撮影も動画]]></summary>
-        <author>
-            <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rank5攻城戦参加！！！【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=8cwJnwE6Qms</id>
-        <link href="https://www.youtube.com/watch?v=8cwJnwE6Qms"/>
-        <updated>2023-06-24T08:53:59.000Z</updated>
         <author>
             <name>そこらの民衆</name>
         </author>
