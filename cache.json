@@ -166,6 +166,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-809.html",
+          "author": "ミツリン",
+          "description": "焼け付くような暑い日が続きますねこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-809.html",
+          "publishedOn": "2023-07-23T15:00:00.000Z",
+          "wordCount": 598,
+          "title": "7月19日アップデート　【金鯖開始、ソウルガード検証等】",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-808.html",
           "author": "ミツリン",
           "description": "仕事帰りの時間に空がピカピカ光っているのをよく見ます雷雲を見ると何だか怖くなりますねこんにちは　ミツリンです",
@@ -1306,6 +1316,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-596.html",
+          "author": "medaka1985",
+          "description": "こんばんは。可愛いコスチュームです。ログイン配布コクーンです。結構良いのが当たりました(*'▽')一次転生です。読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-596.html",
+          "publishedOn": "2023-07-23T15:11:55.000Z",
+          "wordCount": 1023,
+          "title": "ヘーリオスコクーン。",
+          "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medaka1985/202307240007461d9.png"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-595.html",
           "author": "medaka1985",

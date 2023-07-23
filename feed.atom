@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-23T14:48:12.562Z</updated>
+    <updated>2023-07-23T15:15:44.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヘーリオスコクーン。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-596.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-596.html"/>
+        <updated>2023-07-23T15:11:55.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。可愛いコスチュームです。ログイン配布コクーンです。結構良いのが当たりました(*'▽')一次転生です。読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月19日アップデート　【金鯖開始、ソウルガード検証等】]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-809.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-809.html"/>
+        <updated>2023-07-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[焼け付くような暑い日が続きますねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[経験値１０２倍？！【REDSTONE】２０２３年金鯖育成！その１]]></title>
         <id>https://www.youtube.com/watch?v=OUrYMwlamPU</id>
