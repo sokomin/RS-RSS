@@ -423,7 +423,18 @@
       "title": "ロイ4世",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA",
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=OUrYMwlamPU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OUrYMwlamPU",
+          "publishedOn": "2023-07-23T03:01:35.000Z",
+          "wordCount": null,
+          "title": "経験値１０２倍？！【REDSTONE】２０２３年金鯖育成！その１",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "ひさプッチ",

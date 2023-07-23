@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-23T02:52:04.067Z</updated>
+    <updated>2023-07-23T03:17:15.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[経験値１０２倍？！【REDSTONE】２０２３年金鯖育成！その１]]></title>
+        <id>https://www.youtube.com/watch?v=OUrYMwlamPU</id>
+        <link href="https://www.youtube.com/watch?v=OUrYMwlamPU"/>
+        <updated>2023-07-23T03:01:35.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[山荘にて。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-595.html</id>
