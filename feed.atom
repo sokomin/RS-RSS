@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-23T02:30:32.779Z</updated>
+    <updated>2023-07-23T02:52:04.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1483,16 +1483,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[道に転がる梅の実。持って出たのに開くことのなかった雨傘。５羽いたら４羽は鳴き下手のウグイス。季節のSEにウグイスを入れるなら下手な方がリアリティ出るのでは？と思う第三の猫です。こんにちは。よくわかりませんがアイドル〇スターが始まりました。一定まで育成すればクリーチャーとして入手できるようです。私はこのエクレアをプロデュースしてライブ会場を埋めます。シュークリームです。。それでもっ、SRまで育成すればエ]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電鱗のリング。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-568.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-568.html"/>
-        <updated>2023-06-23T14:51:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。アスタロト、何とかソロで行けました。800Lvのウィークリー討伐報酬です。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
 </feed>
