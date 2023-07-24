@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-24T19:27:44.923Z</updated>
+    <updated>2023-07-24T19:47:32.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1455,15 +1455,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[イベントで貯めたサービスポイントでMQスキップアイテムを引き換え、狂ったように結晶石を買い集め毎週ロシペル様に赤い石を貢いでいたのも今は昔。激務の部署に異動したこともあって赤石に費やす時間が取れず、時間が取れないとレベリングもできず、レベルが足りないと攻城戦でやられてばかりという循環。そのため、最近は露店すらあまりしていません。というか、ゴールドがあっても特に買いたいアイテムがない。もうすぐ最後の記]]></summary>
         <author>
             <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[炎覚醒霊術 育成配信#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=A7gLzcrjO-A</id>
-        <link href="https://www.youtube.com/watch?v=A7gLzcrjO-A"/>
-        <updated>2023-06-25T07:27:55.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
