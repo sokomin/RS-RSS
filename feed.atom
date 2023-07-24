@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-24T10:33:36.182Z</updated>
+    <updated>2023-07-24T10:48:08.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1454,15 +1454,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[３Ｄ酔いのため、がっつりディアブロ４やれないこともあり、地味にRSも活動中。とはいえ、デイリーと精鋭、ディメンションのみだけど・・・コツコツやっているヤティ手育成も、いよいよ終盤。＠４レベルが近いようで遠い。魔法強打クリーチャー育成も終盤で、残すところメインＳＲのサブパッシブ厳選のみ。「魔法ダメージ吸収」が引ければ完成だけど、案の定なかなか引けない。１つ固定でマナ300消費というのもキツいが、こればか]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rank5攻城戦参加！！！【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=8cwJnwE6Qms</id>
-        <link href="https://www.youtube.com/watch?v=8cwJnwE6Qms"/>
-        <updated>2023-06-24T22:35:27.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
 </feed>
