@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-25T06:47:58.551Z</updated>
+    <updated>2023-07-25T07:15:35.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最後の更新]]></title>
+        <id>https://extremetrailblazer.blog.fc2.com/blog-entry-21.html</id>
+        <link href="https://extremetrailblazer.blog.fc2.com/blog-entry-21.html"/>
+        <updated>2023-07-25T06:59:29.000Z</updated>
+        <summary type="html"><![CDATA[RS完全に引退します。もうやる気返ってこないのがわかったので…ブログの記事は全て消しました。もうないです。そのうちこのブログ自体も消します。今までありがとうございました。装備？抱えたまま消すけど。明日のランキングみたら分かるかな…うん。おわり]]></summary>
+        <author>
+            <name>Trailblazer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[落ち着きはした]]></title>
         <id>https://extremetrailblazer.blog.fc2.com/blog-entry-1012.html</id>
