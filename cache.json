@@ -370,7 +370,18 @@
       "title": "魔法の壁のリアルライふ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/mahounokabe/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/mahounokabe/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/mahounokabe/diary/202307260000/",
+          "author": "裁判官",
+          "description": "どうもみなさん。魔法の壁です。いやー、お久しぶりです。試験勉強のため無断欠勤していましたが、無事終わりました。ということでREDSTONEやっていきましょう。金鯖がちょうど始まったタイミングだったので、水...",
+          "link": "https://plaza.rakuten.co.jp/mahounokabe/diary/202307260000/",
+          "publishedOn": "2023-07-25T15:48:48.000Z",
+          "wordCount": 1763,
+          "title": "バインド悪魔でヤティカヌ5層",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/51320e780dc805c79120d7831713eb7b31c6d705.49.9.9.3.png"
+        }
+      ]
     },
     {
       "title": "ファーぶろぐ ☆ RED STONE ブリッジヘッド鯖",
