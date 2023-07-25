@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-25T03:17:37.554Z</updated>
+    <updated>2023-07-25T03:29:14.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1413,15 +1413,6 @@ JUNEl UPDATE -->
         <id>https://www.youtube.com/watch?v=SxyZMvGbdO0</id>
         <link href="https://www.youtube.com/watch?v=SxyZMvGbdO0"/>
         <updated>2023-06-26T14:00:19.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識覚醒 霊術 育成配信#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=A7gLzcrjO-A</id>
-        <link href="https://www.youtube.com/watch?v=A7gLzcrjO-A"/>
-        <updated>2023-06-25T15:21:11.000Z</updated>
         <author>
             <name>そこらの民衆</name>
         </author>
