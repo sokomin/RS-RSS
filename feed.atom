@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-26T20:27:49.412Z</updated>
+    <updated>2023-07-26T20:48:03.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023金鯖考察　レッドストーン攻略]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202307260000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202307260000/"/>
+        <updated>2023-07-26T20:33:11.000Z</updated>
+        <summary type="html"><![CDATA[2023年金鯖が始まって早1週間色々情報が出そろってきたので、この辺りで実際の状況に即した金鯖攻略の話といきます。とりあえず自分は2日目には1000Lv到達しました。金鯖、後47レベル上げて終了ってところまでき...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特製封印開放道具箱・改。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-599.html</id>
