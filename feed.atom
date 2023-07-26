@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-25T23:47:55.433Z</updated>
+    <updated>2023-07-26T01:33:56.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A new player has entered the arena! (maybe?)]]></title>
+        <id>tag:blogger.com,1999:blog-622089654895304373.post-936786013853288694</id>
+        <link href="https://diaanrs.blogspot.com/2023/07/a-new-player-has-entered-arena-maybe.html"/>
+        <updated>2023-07-26T00:12:00.000Z</updated>
+        <summary type="html"><![CDATA[As I sit here in the summer heat, something occurred to me, there aren't any actual streamers for Red Stone...for the Global server atleast (that I am aware of)
+
+
+That being said, I am contemplating tossing myself into the fires of Twitch and streaming there (funny enough, I actually have had an account for years due to Path of Exile drops heh)
+
+
+Here be thy link: https://www.twitch.tv/diaanrs
+
+
+See ya on the other side! (maybe)]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バインド悪魔でヤティカヌ5層]]></title>
         <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202307260000/</id>

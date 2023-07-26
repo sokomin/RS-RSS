@@ -1159,6 +1159,16 @@
       "siteUrl": "https://diaanrs.blogspot.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-622089654895304373.post-936786013853288694",
+          "author": "noreply@blogger.com (Unknown)",
+          "description": "As I sit here in the summer heat, something occurred to me, there aren't any actual streamers for Red Stone...for the Global server atleast (that I am aware of)\n\n\nThat being said, I am contemplating tossing myself into the fires of Twitch and streaming there (funny enough, I actually have had an account for years due to Path of Exile drops heh)\n\n\nHere be thy link: https://www.twitch.tv/diaanrs\n\n\nSee ya on the other side! (maybe)",
+          "link": "https://diaanrs.blogspot.com/2023/07/a-new-player-has-entered-arena-maybe.html",
+          "publishedOn": "2023-07-26T00:12:00.000Z",
+          "wordCount": 3016,
+          "title": "A new player has entered the arena! (maybe?)",
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-622089654895304373.post-7260683158552050638",
           "author": "noreply@blogger.com (Unknown)",
           "description": "Table Of Contents\nI: Tamer Rework\nII: Summoner Rework\nIII: Enhanced Association Equipment\nIV: Dimension Hub Rework\nV: Premium Field Improvement and Additional Another-World Monster\nVI: Returner Rework (RT+)\nVII: Added Knockout Popup\nVIII: Notes\n\n\nI: Tamer Rework \nVarious skills for training and managing pets are now integrated.\nThe Pet stats increase (Power), Pet skill level increase (Knowledge) that were previously applied based on the tamer's power and knowledge stats are now applied as a sum of the values (Power + Knowledge). With this change,  all stats will have the same effects (Additionally added). \nImproved the battle convenience by adding skills that hit the target range without selecting a target. \nAdded skill that allows moving pets to the desired location so that it can be move…",
