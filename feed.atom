@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-27T14:15:06.554Z</updated>
+    <updated>2023-07-27T14:28:17.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[縁故地。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-600.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-600.html"/>
+        <updated>2023-07-27T14:19:23.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。天使＆BISさんの職DXUです。２転生です。アリアン露店活性化して欲しいです。読んで下さって、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お嬢様とお呼び！！]]></title>
         <id>http://rinsmile.blog70.fc2.com/blog-entry-1119.html</id>
