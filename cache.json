@@ -229,7 +229,18 @@
       "title": "リンズカフェ",
       "feedUrl": "http://rinsmile.blog70.fc2.com/?xml",
       "siteUrl": "http://rinsmile.blog70.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://rinsmile.blog70.fc2.com/blog-entry-1119.html",
+          "author": "リン・ドール",
+          "description": "★★★　★★★　★★★USBあるある★★★　★★★　★★★USBコネクタを刺そうとして、刺さらないことありますよね裏表逆かと思い、ひっくり返して差し込むもやはり刺さらない。ここで初めてコネクタの向きを確認すると、最初の向きで会っていた！！！結構多いですよねｗ★★★　★★★　★★★ＵＳＢの妖精はいたずら好きなようですわねハニーレモネードですわ。ごきげんよう！★★★　★★★　★★★今年の金サバ姫ギルドは【お嬢様とお呼び！！】★★★　★★★　★★★報告",
+          "link": "http://rinsmile.blog70.fc2.com/blog-entry-1119.html",
+          "publishedOn": "2023-07-27T13:08:14.000Z",
+          "wordCount": 895,
+          "title": "お嬢様とお呼び！！",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "苺桜三玖のぐ〜たらメイド日記",

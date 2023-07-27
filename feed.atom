@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-27T12:58:03.430Z</updated>
+    <updated>2023-07-27T13:26:01.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お嬢様とお呼び！！]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1119.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1119.html"/>
+        <updated>2023-07-27T13:08:14.000Z</updated>
+        <summary type="html"><![CDATA[★★★　★★★　★★★USBあるある★★★　★★★　★★★USBコネクタを刺そうとして、刺さらないことありますよね裏表逆かと思い、ひっくり返して差し込むもやはり刺さらない。ここで初めてコネクタの向きを確認すると、最初の向きで会っていた！！！結構多いですよねｗ★★★　★★★　★★★ＵＳＢの妖精はいたずら好きなようですわねハニーレモネードですわ。ごきげんよう！★★★　★★★　★★★今年の金サバ姫ギルドは【お嬢様とお呼び！！】★★★　★★★　★★★報告]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023金鯖考察　レッドストーン攻略]]></title>
         <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202307260000/</id>
