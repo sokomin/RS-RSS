@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-28T12:58:12.031Z</updated>
+    <updated>2023-07-28T13:23:14.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖2023 ポイント戦 9671940 【 REDSTONE / 붉은보석 】]]></title>
+        <id>https://www.youtube.com/watch?v=HSJmcM3DvUU</id>
+        <link href="https://www.youtube.com/watch?v=HSJmcM3DvUU"/>
+        <updated>2023-07-28T13:15:01.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年も!!金鯖！！復帰さん！知識したいなら毒悪魔だ！！！]]></title>
         <id>https://www.youtube.com/watch?v=meS8VmqbSjo</id>
@@ -1429,16 +1438,6 @@ JUNEl UPDATE -->
         <updated>2023-06-29T02:54:25.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小ネタ（克服の）（GRクリチャ）とあ〇こ]]></title>
-        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202306290000/</id>
-        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202306290000/"/>
-        <updated>2023-06-29T01:07:27.000Z</updated>
-        <summary type="html"><![CDATA[お久しぶりでございます。長らく更新をさぼっていました。ネタが全く無くて書くことが無かったので更新出来ていませんでしたが、少しだけ出来たので更新<m(__)m>一つ目のネタです。神話級クリーチャーSSを...]]></summary>
-        <author>
-            <name>たつ2307</name>
         </author>
     </entry>
     <entry>

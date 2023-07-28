@@ -260,6 +260,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HSJmcM3DvUU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HSJmcM3DvUU",
+          "publishedOn": "2023-07-28T13:15:01.000Z",
+          "wordCount": null,
+          "title": "金鯖2023 ポイント戦 9671940 【 REDSTONE / 붉은보석 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4VVoq6QvDh4",
           "author": null,
           "description": "",
@@ -952,16 +962,6 @@
           "wordCount": 1853,
           "title": "テイマ覚醒　信望の民（物理覚醒）　金鯖用記事",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/310733423272ab05a3baf58cba996bd0ba4b687a.35.9.9.3.jpeg"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202306290000/",
-          "author": "たつ2307",
-          "description": "お久しぶりでございます。長らく更新をさぼっていました。ネタが全く無くて書くことが無かったので更新出来ていませんでしたが、少しだけ出来たので更新<m(__)m>一つ目のネタです。神話級クリーチャーSSを...",
-          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202306290000/",
-          "publishedOn": "2023-06-29T01:07:27.000Z",
-          "wordCount": 1637,
-          "title": "小ネタ（克服の）（GRクリチャ）とあ〇こ",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/596d6e9be67e327b4bc2a7bbb35cfc41ce2136b9.35.9.9.3.jpeg"
         }
       ]
     },
