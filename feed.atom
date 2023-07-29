@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-28T23:47:39.873Z</updated>
+    <updated>2023-07-29T01:18:58.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】神秘チケ代行(金鯖)]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-953.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-953.html"/>
+        <updated>2023-07-29T00:39:40.000Z</updated>
+        <summary type="html"><![CDATA[凄い品だｗ神秘チケの靴3/4解放を使って、こうだ！お代は魔力吸収をいただいた。果たして、幻想チケ×2は売れるのか？]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖2023 倉庫ギルド作成　【 REDSTONE / 붉은보석 】]]></title>
         <id>https://www.youtube.com/watch?v=udFlUvmNryM</id>
