@@ -856,7 +856,18 @@
       "title": "赤石グラフィティ",
       "feedUrl": "https://orientalrose4.blog.fc2.com/?xml",
       "siteUrl": "https://orientalrose4.blog.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://orientalrose4.blog.fc2.com/blog-entry-962.html",
+          "author": "アル・シェリ",
+          "description": "フランデル大陸の、アルの家には大きな冷蔵室があります。この練金石をひとつ設置してある氷室です。　同じ要領で、たぶん冷房もWIZさんの魔法や姫ちゃんのアイスボトル、または黒魔さんに何とかしてもらうなど、きっとご家庭によってさまざまな形の冷蔵庫があるのではと思います。夏になるとそういう妄想をいたします。◆◆◆◆◆◆ごきげんよう、いつの間にか灼熱の真夏になってしまいました。ここまでブランクが開く前に記事を上げて",
+          "link": "https://orientalrose4.blog.fc2.com/blog-entry-962.html",
+          "publishedOn": "2023-07-29T02:14:24.000Z",
+          "wordCount": null,
+          "title": "ご無沙汰になってしまいました",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "それいけ！NEO無課金同盟in橋頭鯖　リターンズ",
@@ -1536,16 +1547,6 @@
           "wordCount": 1021,
           "title": "狂戦士の怨念。",
           "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medaka1985/202306302246395e8.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-574.html",
-          "author": "medaka1985",
-          "description": "こんばんは。クリーチャー超越です。3本はお買い得だと思います。配布して頂いたスパロトです。良いアイテムです。ギリギリです。祝1056Lvです♪読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-574.html",
-          "publishedOn": "2023-06-29T14:24:04.000Z",
-          "wordCount": null,
-          "title": "クリーチャー超越。",
-          "imageUrl": null
         }
       ]
     },

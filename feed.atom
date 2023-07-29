@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-29T02:06:55.725Z</updated>
+    <updated>2023-07-29T02:35:13.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ご無沙汰になってしまいました]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-962.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-962.html"/>
+        <updated>2023-07-29T02:14:24.000Z</updated>
+        <summary type="html"><![CDATA[フランデル大陸の、アルの家には大きな冷蔵室があります。この練金石をひとつ設置してある氷室です。　同じ要領で、たぶん冷房もWIZさんの魔法や姫ちゃんのアイスボトル、または黒魔さんに何とかしてもらうなど、きっとご家庭によってさまざまな形の冷蔵庫があるのではと思います。夏になるとそういう妄想をいたします。◆◆◆◆◆◆ごきげんよう、いつの間にか灼熱の真夏になってしまいました。ここまでブランクが開く前に記事を上げて]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】神秘チケ代行(金鯖)]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-953.html</id>
@@ -1446,16 +1456,6 @@ JUNEl UPDATE -->
         <link href="https://medaka1985.fc2.net/blog-entry-575.html"/>
         <updated>2023-06-30T13:56:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。V鯖にて。闇商人の箱から。良いのが出ました！この時が来ました。オッス！お願いしまーす！ｷﾀ━(ﾟ∀ﾟ)━!殆ど、敏捷に宛てました♪スーパースターセリス誕生です。読んで下さって、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリーチャー超越。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-574.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-574.html"/>
-        <updated>2023-06-29T14:24:04.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。クリーチャー超越です。3本はお買い得だと思います。配布して頂いたスパロトです。良いアイテムです。ギリギリです。祝1056Lvです♪読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
