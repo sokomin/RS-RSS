@@ -260,6 +260,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=g8-jImY4hlg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g8-jImY4hlg",
+          "publishedOn": "2023-07-29T23:50:29.000Z",
+          "wordCount": null,
+          "title": "2023金鯖　闘士育成！【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=udFlUvmNryM",
           "author": null,
           "description": "",
@@ -520,6 +530,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-954.html",
+          "author": "JEFRY",
+          "description": "シフ武道を1匹、育てた。育てたといってもLv904の5次転生だけど、ガチ勢でもない限り、このあたりが限界だと思ってる。そもそも、金鯖に来た目的は以下であり、キャラ育成ではない。アカウント的にも1枠(今回増えた)しか空きがないため、2キャラ以上育ててもS鯖に帰還することが出来ず、意味が無いのもある。＜金鯖2023で成し遂げたいこと＞(1)「完璧勇猛」5つ入手(2)魔法強打／魔法強打ダメージ強化のデュアルクレスト2つ入手(3)",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-954.html",
+          "publishedOn": "2023-07-29T23:50:04.000Z",
+          "wordCount": 561,
+          "title": "【REDSTONE】金鯖状況　2023年",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-953.html",
           "author": "JEFRY",

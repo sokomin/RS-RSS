@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-29T23:47:56.726Z</updated>
+    <updated>2023-07-30T01:22:59.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023金鯖　闘士育成！【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=g8-jImY4hlg</id>
+        <link href="https://www.youtube.com/watch?v=g8-jImY4hlg"/>
+        <updated>2023-07-29T23:50:29.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】金鯖状況　2023年]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-954.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-954.html"/>
+        <updated>2023-07-29T23:50:04.000Z</updated>
+        <summary type="html"><![CDATA[シフ武道を1匹、育てた。育てたといってもLv904の5次転生だけど、ガチ勢でもない限り、このあたりが限界だと思ってる。そもそも、金鯖に来た目的は以下であり、キャラ育成ではない。アカウント的にも1枠(今回増えた)しか空きがないため、2キャラ以上育ててもS鯖に帰還することが出来ず、意味が無いのもある。＜金鯖2023で成し遂げたいこと＞(1)「完璧勇猛」5つ入手(2)魔法強打／魔法強打ダメージ強化のデュアルクレスト2つ入手(3)]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水上ホテル。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-602.html</id>
