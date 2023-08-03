@@ -1285,6 +1285,16 @@
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
         {
+          "id": "https://medaka1985.fc2.net/blog-entry-607.html",
+          "author": "medaka1985",
+          "description": "こんばんは。この世界の片隅に。動物パッケージGET♪シンプルな紋章にします。もう１個ギルド作りました。こちらも、大歓迎です♪読んで下さって、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-607.html",
+          "publishedOn": "2023-08-03T14:33:00.000Z",
+          "wordCount": null,
+          "title": "ENYA(エンヤ)。",
+          "imageUrl": null
+        },
+        {
           "id": "https://medaka1985.fc2.net/blog-entry-606.html",
           "author": "medaka1985",
           "description": "こんばんは。集めるの大変！ギルド旗に移動速度増加を追加します。初回にしてはなかなか…。参加して下さったギルドメンバーさんありがとうございます！読んで頂き、誠にありがとうございます。",
@@ -1543,16 +1553,6 @@
           "wordCount": null,
           "title": "コラブテッド。",
           "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-580.html",
-          "author": "medaka1985",
-          "description": "こんにちは。格好良いコスチュームです。ナイスな指輪です。サブのシーフ908Lv♪ビーストテイマー948Lv(*'▽')読んで頂き、大変ありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-580.html",
-          "publishedOn": "2023-07-05T02:29:37.000Z",
-          "wordCount": 1023,
-          "title": "討伐リング(良OP)。",
-          "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medaka1985/202307051124093f1.png"
         }
       ]
     },
