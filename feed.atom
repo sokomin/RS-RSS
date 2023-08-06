@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-06T03:48:08.274Z</updated>
+    <updated>2023-08-06T04:18:44.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023金鯖　水ケミ育成！【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=XT6kWbic9zY</id>
+        <link href="https://www.youtube.com/watch?v=XT6kWbic9zY"/>
+        <updated>2023-08-06T04:14:16.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バースデーパーティ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-609.html</id>

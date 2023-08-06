@@ -260,6 +260,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XT6kWbic9zY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XT6kWbic9zY",
+          "publishedOn": "2023-08-06T04:14:16.000Z",
+          "wordCount": null,
+          "title": "2023金鯖　水ケミ育成！【 REDSTONE 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aUcgiSS0CJs",
           "author": null,
           "description": "",
