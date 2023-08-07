@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-07T15:29:00.624Z</updated>
+    <updated>2023-08-07T15:48:18.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1355,16 +1355,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[ディアブロ４、面白過ぎてヤバい。３Ｄ酔いが無ければ1日中やってるとおもう。が、そうは問屋が卸さず、1時間毎にインターバルが必要。てことで酔い覚ましにREDSTONE、やっていこー。雨アチャの精鋭でゲットしたオラクル。6/29に1000本で売れた。ブルプロとディアブロ４のせい？で過疎が深刻な現状RSで、1000本売れはありがたい。以前ゲットした魔法強打3%の堕天指。知り合いに破片指にしてもらった。魔法強打ビルドへの換装準備、]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かき氷。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-584.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-584.html"/>
-        <updated>2023-07-09T03:42:36.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。パスタ屋さんのデザートです。商店街の一角にて。本格的な宇治とたっぷりな練乳です。いつも読んで下さって、ありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
