@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-07T01:21:24.119Z</updated>
+    <updated>2023-08-07T02:21:50.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -785,6 +785,16 @@ Added skill that allows moving pets to the desired location so that it can be mo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[REDSTONE] 本鯖　3体覚醒テイマ育成論]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202306280000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202306280000/"/>
+        <updated>2023-07-18T15:27:55.000Z</updated>
+        <summary type="html"><![CDATA[金鯖で大人気になるであろうテイマ育成を紹介したいと思い、本鯖向けも兼ねて解説。2023/2に大幅にシステム改修がなされて、もはや別物となったテイマ育成。今回はそんなテイマ育成について解説していきます。今...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[レッドストーン　サマナーの愛のオーラ深掘り]]></title>
         <id>hatenablog://entry/820878482950905511</id>
         <link href="https://no55555.hatenablog.com/entry/2023/07/18/224000"/>
@@ -1250,15 +1260,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[こんばんは。見事なコスチュームです。ログインボーナスです。コンプリートマスから出たスーパーロトボックスです。中身は…なかなかです。PvPの成績です。祝！1060Lvです(*'▽')読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メインWIZ育成回#2【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=O8R_v9QXqsg</id>
-        <link href="https://www.youtube.com/watch?v=O8R_v9QXqsg"/>
-        <updated>2023-07-08T13:44:38.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
