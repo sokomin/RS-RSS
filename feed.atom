@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-06T23:47:58.873Z</updated>
+    <updated>2023-08-07T01:21:24.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1257,16 +1257,6 @@ JUNEl UPDATE -->
         <id>https://www.youtube.com/watch?v=O8R_v9QXqsg</id>
         <link href="https://www.youtube.com/watch?v=O8R_v9QXqsg"/>
         <updated>2023-07-08T13:44:38.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[REDSTONE] 本鯖　3体覚醒テイマ育成論]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202306280000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202306280000/"/>
-        <updated>2023-07-08T12:51:10.000Z</updated>
-        <summary type="html"><![CDATA[金鯖で大人気になるであろうテイマ育成を紹介したいと思い、本鯖向けも兼ねて解説。2023/2に大幅にシステム改修がなされて、もはや別物となったテイマ育成。今回はそんなテイマ育成について解説していきます。今...]]></summary>
         <author>
             <name>そこらの民衆</name>
         </author>
