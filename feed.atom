@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-08T02:49:55.430Z</updated>
+    <updated>2023-08-08T03:16:27.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1325,26 +1325,6 @@ JUNEl UPDATE -->
         <summary type="html"><![CDATA[…透明もそうだけど、分身出力も狂っていた。どうみてもエフェクト強化前じゃないか！まともなのはｒｙ不具合ってことにしておくけども…果たして今度のメンテで治るのかそれとも？15時なら安心ってのはこの前消し去ったので。あと心臓バグも治してね？この前の攻城本当に地獄だったから。V鯖の現状を知るために、現在の装備で荒地に突撃した。FIを振り回した結果は画像の通り。魔法強打55％程度なのと、魔法致命が悪さをしているの]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】(第4回)紫龍会ギルドイベント告知]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-952.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-952.html"/>
-        <updated>2023-07-09T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[7/13(木)21:00からギルドイベントを開催します。参加資格は以下。＜紫龍会　ギルドイベント参加資格＞・ギルド「紫龍会」に在籍している方。・活動している(Gチャ挨拶やレベリング等)方。・教会ボス討伐に参加できる方。・討伐許可証を30枚所持している方。＜注意事項＞・1人1キャラのみ参加可能(複数キャラ在籍でも参加は1キャラのみ)。＜紫龍会ギルドイベント詳細＞・PTを組み、教会ボス「ゲリオ」を30周消化。・UMUまたはBFUを1]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖があるそうです]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-807.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-807.html"/>
-        <updated>2023-07-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[連日暑い日が続きますねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
