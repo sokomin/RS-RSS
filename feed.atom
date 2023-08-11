@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-11T12:29:26.801Z</updated>
+    <updated>2023-08-11T12:55:26.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1456,16 +1456,6 @@ Added skill that allows moving pets to the desired location so that it can be mo
         <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202307130000/"/>
         <updated>2023-07-13T05:43:30.000Z</updated>
         <summary type="html"><![CDATA[​​​​​​​​​​​​​​​​文字のみメモ用です。こんにちは。​​​準備したもの​​​​​メイン垢​​幸運のチケットBOX×3(4つあったけど我慢できなかった)マナBOXたくさん冒険コインBOX×3MQスクロール×2​​​サブ垢​​マナBOXちょっ...]]></summary>
-        <author>
-            <name>ほしめろちゃん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[対人サマナのすゝめ 第1巻　反射編]]></title>
-        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202307100000/</id>
-        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202307100000/"/>
-        <updated>2023-07-13T00:35:18.000Z</updated>
-        <summary type="html"><![CDATA[1話完結の可能性あります。お久しぶりです。今日取り上げるスキルは2種類。文章多めです。​1つ目は​​​リフレクションスキン​​​（知識反射）​​必要な召喚獣は​​ヘッジャー​​です。​消費CPは120＋SLV獲得CPは1.5×SL...]]></summary>
         <author>
             <name>ほしめろちゃん</name>
         </author>
