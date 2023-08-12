@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-12T09:28:15.842Z</updated>
+    <updated>2023-08-12T09:47:40.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1407,16 +1407,6 @@ Added skill that allows moving pets to the desired location so that it can be mo
         <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202307150000/"/>
         <updated>2023-07-14T23:59:31.000Z</updated>
         <summary type="html"><![CDATA[今年も金鯖の季節がやってきましたね2022金鯖版レベルート に倣って、今年も書きます。今年は次元パーティボスが登場したことでルートが多少変わってきます。【2023年レッドストーン金鯖】・レベル1000まで・キャ...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Core Web Vitals の INP の問題　対応してみた]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202304110000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202304110000/"/>
-        <updated>2023-07-13T21:30:57.000Z</updated>
-        <summary type="html"><![CDATA[webページの速度改善周りの話。サイト更新していたところ、以下のようなワーニングがGoogleから届いた。（※厳密には現段階では解消されてたけど）何だこりゃ？と思って調べてみる。"Interaction to Next Paint"（...]]></summary>
         <author>
             <name>そこらの民衆</name>
         </author>
