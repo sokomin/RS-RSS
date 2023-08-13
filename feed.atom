@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-13T20:15:00.521Z</updated>
+    <updated>2023-08-13T20:27:27.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1504,15 +1504,6 @@ Added skill that allows moving pets to the desired location so that it can be mo
         <summary type="html"><![CDATA[こんばんは。壮大なホテルです。名物、佐世保バーガーを頂きます。巨大な風車、圧倒されます。読んで頂き、毎度ありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識アチャ育成 #1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=KZmzdfpiLoY</id>
-        <link href="https://www.youtube.com/watch?v=KZmzdfpiLoY"/>
-        <updated>2023-07-15T08:25:06.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
