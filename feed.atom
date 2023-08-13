@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-13T21:47:26.544Z</updated>
+    <updated>2023-08-13T22:13:36.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1484,16 +1484,6 @@ Added skill that allows moving pets to the desired location so that it can be mo
         <summary type="html"><![CDATA[レッドストーンの攻略サイトで調べると、大体一番ヒットするのがランサー・アーチャーRS最初期から存在するキャラということもあって、情報過多なぐらいじゃないか？ということで自分はあまり触れてきませんでし...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第？回「夏のつぼせん祭り2023　前夜祭」]]></title>
-        <id>64b25f2c2642314a8294a1dd</id>
-        <link href="https://rstenshin.wixsite.com/tenshin/post/%E7%AC%AC%EF%BC%9F%E5%9B%9E%E3%80%8C%E5%A4%8F%E3%81%AE%E3%81%A4%E3%81%BC%E3%81%9B%E3%82%93%E7%A5%AD%E3%82%8A2023-%E5%89%8D%E5%A4%9C%E7%A5%AD%E3%80%8D"/>
-        <updated>2023-07-15T09:57:51.000Z</updated>
-        <summary type="html"><![CDATA[え～～～～～、ご無沙汰してます？？？ ぷりたんだよー・。・ｖ  昨年はコロナの影響により残念ながら非開催となりましたが、今年は２年ぶりに帰って参りました、天心主催の「つぼせん祭り2023」！！！！！！！！ どん！！！！どどんどんどん！！！！どん！！！！どどんどんどん！！！！...]]></summary>
-        <author>
-            <name>ぷりたん</name>
         </author>
     </entry>
     <entry>
