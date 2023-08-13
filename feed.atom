@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-13T11:11:58.774Z</updated>
+    <updated>2023-08-13T11:27:47.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[動画チャンネルどうなった？【姫ドミノ委員会】]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1120.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1120.html"/>
+        <updated>2023-08-13T11:15:41.000Z</updated>
+        <summary type="html"><![CDATA[はい、こんにちはこんばんは！ハニーレモネードです！動画チャンネル【姫ドミノ委員会】少し前から動画を作り始めましたが、なんとなく少し慣れてきた？（なぜ疑問形ｗ）今回は動画周りの作業環境の記事って感じでしょうか★★★　★★★　★★★使用ソフト★★★　★★★　★★★◆動画撮影ソフトまずゲーム画面の動画撮影ですが、『 Ｘｂｏｘ 』　です他にも、『 OBS Studio 』　など、試してみましたがウィンドウズに標準で搭載されている　『 Ｘｂ]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メイドの覚醒 －アージェントサーハント－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/cc5fe21c5b7f10bb59ace107be54dd6c</id>
