@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-13T12:27:17.859Z</updated>
+    <updated>2023-08-13T12:53:26.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[運命の分かれ道。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-617.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-617.html"/>
+        <updated>2023-08-13T12:44:30.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。恰好良いトレジャーカードです。読んで頂き、いつもありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[動画チャンネルどうなった？【姫ドミノ委員会】]]></title>
         <id>http://rinsmile.blog70.fc2.com/blog-entry-1120.html</id>
@@ -1346,6 +1356,16 @@ Added skill that allows moving pets to the desired location so that it can be mo
         <summary type="html"><![CDATA[18日…あ。【180円販売】7/19(水)メンテまで。短すぎない？180円売りが色々…と思ったけど、爆竜心臓とファストヒールと…転生パワキ。前二つはいいけど、転生パワキは…うーん。金鯖でも900維持の5転する人には無用…。1日も持たない詳細短い…あと18日午後って意識がないから岩の日に気づかない。やっぱ18円にしない？無理か。おわり]]></summary>
         <author>
             <name>Trailblazer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023金鯖版レベルート　レッドストーン　金鯖攻略]]></title>
+        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202307150000/</id>
+        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202307150000/"/>
+        <updated>2023-07-17T17:24:56.000Z</updated>
+        <summary type="html"><![CDATA[今年も金鯖の季節がやってきましたね2022金鯖版レベルート に倣って、今年も書きます。今年は次元パーティボスが登場したことでルートが多少変わってきます。【2023年レッドストーン金鯖】・レベル1000まで・キャ...]]></summary>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
