@@ -527,7 +527,18 @@
       "title": "黒魔がメインですが何か？",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202308140000/",
+          "author": "雷神の弓",
+          "description": "クリーチャーの冒険だけ本気で頑張って、本鯖でメインパッシブを+20まで上げました。このコンテンツは、赤い強化石の消費がかなりきついですね。19→20で15連敗くらいして、赤い強化石たくさんあったのに全滅した...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202308140000/",
+          "publishedOn": "2023-08-14T12:09:36.000Z",
+          "wordCount": 1701,
+          "title": "クリーチャー超越？",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/4c074e4e1c4c19f908eb613434a2339e5e69815b.73.9.9.3.png"
+        }
+      ]
     },
     {
       "title": "レッドストーン 物理戦士どうでしょう",
