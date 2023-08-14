@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-13T23:47:48.476Z</updated>
+    <updated>2023-08-14T01:08:38.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[獣人とサバの群れ]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-200.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-200.html"/>
+        <updated>2023-08-13T23:55:20.000Z</updated>
+        <summary type="html"><![CDATA[きびしい暑さと夏休み。スイカも鯖も高くなる昨今いかがお過ごしでしょうか。今回ブログ右枠の【REDSTONE】欄を株式会社G・O・Pに変わった後のものに直しました。大変申し訳ない事にすっかり忘れていました（運営変わったのって今年1月でしたっけ？）第三の猫です。さて、基本無料の金鯖では戦士が、サバ魚群でレビットを襲ったり、スキルが重なりすぎて何が起こっているのかわからないレイド戦に参加したり、スイカを割ったりしま]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ポータークエ【 REDSTONE / 붉은보석 】]]></title>
         <id>https://www.youtube.com/watch?v=LLPNMCOAR9o</id>
