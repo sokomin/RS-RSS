@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-15T19:12:47.946Z</updated>
+    <updated>2023-08-15T19:28:08.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1613,16 +1613,6 @@ Added skill that allows moving pets to the desired location so that it can be mo
         <summary type="html"><![CDATA[なんやかんやで直前…前に書いたのを多少変更しただけである。【金鯖って？】経験値倍率がぶち抜けた期間限定サーバー。7月下旬～9月上旬くらい。2023年の倍率は17倍です。スフィアパワキバッジで102倍。あとは実、旗バフ、クリパッシブなどでさらに増える。混雑がとんでもないことになっており、古都は土日や平日夜に接続満になる。用事がないなら古都で放置しないように。接続を競い合うゲーム。半面、高レべ狩場は軽くなった。そ]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023金鯖版 装備・金策攻略　レッドストーン]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202307170000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202307170000/"/>
-        <updated>2023-07-17T07:15:35.000Z</updated>
-        <summary type="html"><![CDATA[先日配信やったところ、レッドストーンの金策、全くわからん！って話を多く受けたし、1年ほどいないだけでもレッドストーンわからん状態になって金策で詰むパターンの人がいると思います。そんなレッドストーンに...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
