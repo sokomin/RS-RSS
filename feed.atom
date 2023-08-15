@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-15T14:47:53.474Z</updated>
+    <updated>2023-08-15T15:14:45.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[紋章！！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-380.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-380.html"/>
+        <updated>2023-08-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年のお盆は親戚たちのスケジュール調整がかみ合っていなくてリアルではちょっと忙しかったりします＾＾；RSの時間が激減中…RS世界での活動はおどろくほどまったりしていて実はあまりキャラが育っていなかったりします＾＾；そんなあまり進展もなく緊張感もなくなってきた金鯖でGメンさんから紋章を作りますか？という事を聞かれ紋章品集め大変そうって話をしたところGHの顧客ランクを上げてるとネネさんからパッケージを買えるの]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023金鯖　レベルアップキャンペーンに挑む！#6【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=HZTgm-3DwWY</id>
