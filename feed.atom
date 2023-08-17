@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T14:47:46.172Z</updated>
+    <updated>2023-08-17T15:15:43.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1524,16 +1524,6 @@ Added skill that allows moving pets to the desired location so that it can be mo
         <summary type="html"><![CDATA[2023金鯖直前ということで、先日はサイトにて知識ランサ育成論を書かせていただきました。今回はその対となる職業であるアーチャーを紹介します。RS最初期から存在する遠距離ディーラーということもあって、プレ...]]></summary>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖テイマー育成論（～800）]]></title>
-        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202307180000/</id>
-        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202307180000/"/>
-        <updated>2023-07-19T03:08:18.000Z</updated>
-        <summary type="html"><![CDATA[​​​​​​​​​​今年も​金鯖​の季節がやってきましたね！​https://members.redsonline.jp/goldexworld/2023/​​​​金鯖想定で知識テイマーの育成をしてみたところかなりオススメなのでご紹介したいと思います！​​テイマ...]]></summary>
-        <author>
-            <name>ほしめろちゃん</name>
         </author>
     </entry>
     <entry>
