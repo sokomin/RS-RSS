@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T12:30:01.902Z</updated>
+    <updated>2023-08-17T12:55:19.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1525,15 +1525,6 @@ Added skill that allows moving pets to the desired location so that it can be mo
         <summary type="html"><![CDATA[​​​​​​​​​​今年も​金鯖​の季節がやってきましたね！​https://members.redsonline.jp/goldexworld/2023/​​​​金鯖想定で知識テイマーの育成をしてみたところかなりオススメなのでご紹介したいと思います！​​テイマ...]]></summary>
         <author>
             <name>ほしめろちゃん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023金鯖育成！！！#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=q36AZQe_Kug</id>
-        <link href="https://www.youtube.com/watch?v=q36AZQe_Kug"/>
-        <updated>2023-07-19T00:33:51.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
