@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T22:28:06.408Z</updated>
+    <updated>2023-08-17T22:48:01.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レアアイテム。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-622.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-622.html"/>
+        <updated>2023-08-17T22:40:00.000Z</updated>
+        <summary type="html"><![CDATA[おはようございます。サブで色々、箱を開けていたので断言は出来ませんが、トレジャーハンティングBoxから出たような。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023金鯖　レベルアップキャンペーンに挑む！#7【 REDSTONE 】]]></title>
         <id>https://www.youtube.com/watch?v=lrC5QGg4vxw</id>
@@ -1504,16 +1514,6 @@ Added skill that allows moving pets to the desired location so that it can be mo
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1264.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1264.html"/>
-        <updated>2023-07-19T10:31:13.000Z</updated>
-        <summary type="html"><![CDATA[はい、今日から始まりました恒例の金鯖です。基本的に内容は例年と変わらないですね。イベント・キャンペーン一覧は↑の画像クリック先でご確認ください。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..金鯖開催中は恐らくそっち行く人多そうですし本鯖の方の人は減りそうですねぇ。攻城戦も順位次第で暫く防衛相手いない可能性も出てくるかな。それでは今週ものんびり楽しみましょう～( ´ω｀)]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
     <entry>
