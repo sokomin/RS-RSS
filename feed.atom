@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T18:47:46.254Z</updated>
+    <updated>2023-08-17T19:12:49.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1514,16 +1514,6 @@ Added skill that allows moving pets to the desired location so that it can be mo
         <summary type="html"><![CDATA[はい、今日から始まりました恒例の金鯖です。基本的に内容は例年と変わらないですね。イベント・キャンペーン一覧は↑の画像クリック先でご確認ください。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..金鯖開催中は恐らくそっち行く人多そうですし本鯖の方の人は減りそうですねぇ。攻城戦も順位次第で暫く防衛相手いない可能性も出てくるかな。それでは今週ものんびり楽しみましょう～( ´ω｀)]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本鯖 知識育成アーチャー育成論 　レッドストーン 攻略]]></title>
-        <id>https://plaza.rakuten.co.jp/redstoneteikou/diary/202307050000/</id>
-        <link href="https://plaza.rakuten.co.jp/redstoneteikou/diary/202307050000/"/>
-        <updated>2023-07-19T07:02:46.000Z</updated>
-        <summary type="html"><![CDATA[2023金鯖直前ということで、先日はサイトにて知識ランサ育成論を書かせていただきました。今回はその対となる職業であるアーチャーを紹介します。RS最初期から存在する遠距離ディーラーということもあって、プレ...]]></summary>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
