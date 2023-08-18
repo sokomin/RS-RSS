@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-18T16:34:51.620Z</updated>
+    <updated>2023-08-18T16:47:43.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[悪魔Lv1500　狩りステ晒し]]></title>
+        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202308190000/</id>
+        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202308190000/"/>
+        <updated>2023-08-18T16:40:35.000Z</updated>
+        <summary type="html"><![CDATA[みなさんこんにちは。魔法の壁です。ついに悪魔がLv1500に到達しました。バインドでも意外といけるものですね。狩り場はヤティカヌ6層　暁のなんとかで狩っています。ウポスはMOBがかたまって沸いているためうま...]]></summary>
+        <author>
+            <name>裁判官</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[光奏師日記NEO　HONSABA!]]></title>
         <id>https://ankokuprpr.blog.fc2.com/blog-entry-19.html</id>
