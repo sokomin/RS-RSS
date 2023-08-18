@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-18T11:27:59.084Z</updated>
+    <updated>2023-08-18T11:47:56.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1445,15 +1445,6 @@ Added skill that allows moving pets to the desired location so that it can be mo
         <summary type="html"><![CDATA[24時間かからず5転1000レべ達成。厳密には14時間、準備抜きで9時間。…うん、正直長期戦になるだろうと思って狩ってたんだ。問題が起きたのは900次元ＰＴボス。敵火力を耐えられる仕様にして、FI2発確定で10か所回ししていたら地図宝箱出ました。普通に入力するじゃん？バフ付与されるじゃん？しっかり適用されるじゃん。…ということで、本来なら壺突破！なレベル帯を900次元で代用し、代わりに930あたりから壺ブースト+クエスト消]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023金鯖育成！！！#2【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=nDSJzyymBdY</id>
-        <link href="https://www.youtube.com/watch?v=nDSJzyymBdY"/>
-        <updated>2023-07-19T23:38:49.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
