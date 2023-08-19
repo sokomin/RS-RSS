@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-19T10:47:48.205Z</updated>
+    <updated>2023-08-19T11:11:35.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アスタロト討伐。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-623.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-623.html"/>
+        <updated>2023-08-19T11:08:04.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。そんな目で見てないです。本鯖のビーストテイマーのソロ討伐です。読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[悪魔Lv1500　狩りステ晒し]]></title>
         <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202308190000/</id>
