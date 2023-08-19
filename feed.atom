@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-19T14:27:53.247Z</updated>
+    <updated>2023-08-19T14:47:38.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1436,15 +1436,6 @@ Improved the battle convenience by adding skills that hit the target range witho
 Added skill that allows moving pets to the desired location so that it can be move…]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023金鯖　レベルアップキャンペーンに挑む！#1【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=xuG6GsOQShI</id>
-        <link href="https://www.youtube.com/watch?v=xuG6GsOQShI"/>
-        <updated>2023-07-21T02:27:55.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
