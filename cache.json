@@ -35,6 +35,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-813.html",
+          "author": "ミツリン",
+          "description": "私の地域も台風の影響でかなりの雨がふりましたこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-813.html",
+          "publishedOn": "2023-08-20T15:00:00.000Z",
+          "wordCount": 602,
+          "title": "武道家について",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-812.html",
           "author": "ミツリン",
           "description": "お盆休みですねこんにちは　ミツリンです",
