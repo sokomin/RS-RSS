@@ -374,18 +374,7 @@
       "title": "ロイ4世",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA",
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=OUrYMwlamPU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OUrYMwlamPU",
-          "publishedOn": "2023-07-23T03:01:35.000Z",
-          "wordCount": null,
-          "title": "経験値１０２倍？！【REDSTONE】２０２３年金鯖育成！その１",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ひさプッチ",
@@ -1226,6 +1215,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-625.html",
+          "author": "medaka1985",
+          "description": "こんばんは。久しぶりにS鯖に戻りました。ヘクトルクエのスライム攻撃当たります。メインシーフ1065Lv到達(^^♪いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-625.html",
+          "publishedOn": "2023-08-21T14:48:45.000Z",
+          "wordCount": null,
+          "title": "S鯖の様子。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-624.html",
           "author": "medaka1985",
