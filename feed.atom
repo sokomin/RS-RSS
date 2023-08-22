@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-22T17:27:26.937Z</updated>
+    <updated>2023-08-22T17:48:05.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[混沌の主異次元]]></title>
+        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202308230000/</id>
+        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202308230000/"/>
+        <updated>2023-08-22T17:33:42.000Z</updated>
+        <summary type="html"><![CDATA[どうもみなさん。魔法の壁です。最近のロトは1000UMUがもえらるんですねぇ。職鎧も出るようでこれは買うしかないですね。それよりチケットの内容更新しましょうよ。で、結果爆死したんですけどね。そのあと叫びで...]]></summary>
+        <author>
+            <name>裁判官</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あと２週間]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-381.html</id>
