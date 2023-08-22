@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-22T14:47:51.395Z</updated>
+    <updated>2023-08-22T15:16:29.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あと２週間]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-381.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-381.html"/>
+        <updated>2023-08-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年の金鯖も残り２週間程となりました。ちょっとSS取り忘れてましたがわたしの金鯖キャラは霊術が９００代となりランサと姫は５００代後半となりました＾＾今年は休日に結構やることがあって休日RSあまりしてないのですよね＾＾；お盆休みもあまりRSしてなかったです＾＾；実は結構キャラが育っていないことに気付いたので焦っているのですが育てる時間がないのはしょうがないという事で成り行き任せという感じになってました＾＾]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[綺麗な花火。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-626.html</id>
