@@ -1226,6 +1226,16 @@
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
         {
+          "id": "https://medaka1985.fc2.net/blog-entry-627.html",
+          "author": "medaka1985",
+          "description": "おはようございます。金鯖の装備公開です。結構しょぼいです。天然ユニークにOPお守り付けられないのがもどかしいですね。金鯖で初めて次元狩りしたのですがmobが思っていた以上に強いのでびっくりしました(笑)800Lv装備はUMUにこそ敵いませんが廉価版として重宝します。コインを使ってのNx化や図案書等チャレンジしてみたかったです。こんな感じの装備です。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-627.html",
+          "publishedOn": "2023-08-23T00:00:20.000Z",
+          "wordCount": null,
+          "title": "金鯖装備一覧。",
+          "imageUrl": null
+        },
+        {
           "id": "https://medaka1985.fc2.net/blog-entry-626.html",
           "author": "medaka1985",
           "description": "こんにちは。焼肉屋や居酒屋さんはランチがオススメです。闘士さんのスキルです。最後に試練の珍しいボスです。いつも読んで頂き、誠にありがとうございます。",
@@ -1514,16 +1524,6 @@
           "wordCount": 1023,
           "title": "ブレイブアックス",
           "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medaka1985/20230726000344aa5.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-597.html",
-          "author": "medaka1985",
-          "description": "こんばんは。宮崎駿監督の最新作です。映像美と分かりやすいストーリーでとても良かったです。ハンバーグ屋さんで夕食を頂きます。最後にソフトクリームで〆ます。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-597.html",
-          "publishedOn": "2023-07-24T12:44:55.000Z",
-          "wordCount": null,
-          "title": "映画。",
-          "imageUrl": null
         }
       ]
     },

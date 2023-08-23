@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-22T23:47:53.695Z</updated>
+    <updated>2023-08-23T01:07:47.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖装備一覧。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-627.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-627.html"/>
+        <updated>2023-08-23T00:00:20.000Z</updated>
+        <summary type="html"><![CDATA[おはようございます。金鯖の装備公開です。結構しょぼいです。天然ユニークにOPお守り付けられないのがもどかしいですね。金鯖で初めて次元狩りしたのですがmobが思っていた以上に強いのでびっくりしました(笑)800Lv装備はUMUにこそ敵いませんが廉価版として重宝します。コインを使ってのNx化や図案書等チャレンジしてみたかったです。こんな感じの装備です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[混沌の主異次元]]></title>
         <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202308230000/</id>
@@ -1517,16 +1527,6 @@ See ya on the other side! (maybe)]]></summary>
         <summary type="html"><![CDATA[やる気は帰ってこなかった。一時的な精神の荒れは戻りました。戻るのに時間かかったけど…。が、ＲＳに対する熱意はどっかへ行ったみたいで。複数のログキャン興味なし、Pass処理どころかRSログインすらしてない状況。もう少し時間をおいてから今後の事は判断する。メンテ後更新はやるけど…。おわり。]]></summary>
         <author>
             <name>Trailblazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-597.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-597.html"/>
-        <updated>2023-07-24T12:44:55.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。宮崎駿監督の最新作です。映像美と分かりやすいストーリーでとても良かったです。ハンバーグ屋さんで夕食を頂きます。最後にソフトクリームで〆ます。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
