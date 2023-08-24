@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T03:47:53.270Z</updated>
+    <updated>2023-08-24T04:18:22.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1526,16 +1526,6 @@ Here be thy link: https://www.twitch.tv/diaanrs
 See ya on the other side! (maybe)]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バインド悪魔でヤティカヌ5層]]></title>
-        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202307260000/</id>
-        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202307260000/"/>
-        <updated>2023-07-25T15:48:48.000Z</updated>
-        <summary type="html"><![CDATA[どうもみなさん。魔法の壁です。いやー、お久しぶりです。試験勉強のため無断欠勤していましたが、無事終わりました。ということでREDSTONEやっていきましょう。金鯖がちょうど始まったタイミングだったので、水...]]></summary>
-        <author>
-            <name>裁判官</name>
         </author>
     </entry>
     <entry>
