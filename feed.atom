@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T14:28:48.406Z</updated>
+    <updated>2023-08-24T14:47:53.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[面白い自販機。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-628.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-628.html"/>
+        <updated>2023-08-24T14:38:04.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。未来の食料問題に貢献できるかも(笑)読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.8.23 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/957881cd14ce0a259b74fb3a821b920a</id>
