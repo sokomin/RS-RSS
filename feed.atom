@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T02:18:19.524Z</updated>
+    <updated>2023-08-26T02:30:06.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1446,16 +1446,6 @@ Reward: almost 25b exp andddddd 10 bfe stones!]]></summary>
         <updated>2023-07-28T08:06:07.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[縁故地。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-600.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-600.html"/>
-        <updated>2023-07-27T14:19:23.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。天使＆BISさんの職DXUです。２転生です。アリアン露店活性化して欲しいです。読んで下さって、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
