@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T14:27:47.844Z</updated>
+    <updated>2023-08-26T14:47:38.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[夏の終わり。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-630.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-630.html"/>
+        <updated>2023-08-26T14:35:22.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。威厳あるコスチュームです。ビーストテイマーの討伐です。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生霊さん]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-201.html</id>
