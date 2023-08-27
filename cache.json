@@ -266,16 +266,6 @@
           "wordCount": null,
           "title": "金鯖2023 倉庫ギルド作成　【 REDSTONE / 붉은보석 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HSJmcM3DvUU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HSJmcM3DvUU",
-          "publishedOn": "2023-07-28T13:15:01.000Z",
-          "wordCount": null,
-          "title": "金鯖2023 ポイント戦 9671940 【 REDSTONE / 붉은보석 】",
-          "imageUrl": null
         }
       ]
     },
@@ -1194,6 +1184,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-631.html",
+          "author": "medaka1985",
+          "description": "こんにちは。勉強出来そうな光奏師さんです。公式ルーレットから出ました！(ラッキー♪)↑結果。ユスピナのクリスタルと欲張りレビットのクリスタルの配置。ユスピナ通り越してレビットが消化されました。レビットのクリスタル優先みたいです。メインのシーフが1066Lvです。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-631.html",
+          "publishedOn": "2023-08-27T01:55:00.000Z",
+          "wordCount": 1025,
+          "title": "スーパーロトボックス。",
+          "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medaka1985/20230827104032ed1.png"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-630.html",
           "author": "medaka1985",
