@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-28T12:32:07.295Z</updated>
+    <updated>2023-08-28T12:57:21.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1432,6 +1432,15 @@ Reward: almost 25b exp andddddd 10 bfe stones!]]></summary>
         <summary type="html"><![CDATA[どうもみなさん。魔法の壁です。今回はタイトルのとおり、今販売中の精霊コスチュームに挑戦しました。メカコスは完全に休止してて逃してしまいましたからね。メカコス凄くかっこよかったのですが、精霊コスもか...]]></summary>
         <author>
             <name>裁判官</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023金鯖　闘士育成！【 REDSTONE 】]]></title>
+        <id>https://www.youtube.com/watch?v=g8-jImY4hlg</id>
+        <link href="https://www.youtube.com/watch?v=g8-jImY4hlg"/>
+        <updated>2023-07-30T08:26:12.000Z</updated>
+        <author>
+            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
