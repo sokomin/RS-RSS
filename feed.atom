@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-28T03:16:27.375Z</updated>
+    <updated>2023-08-28T03:28:27.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】金鯖状況8/28時点]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-957.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-957.html"/>
+        <updated>2023-08-28T03:27:59.000Z</updated>
+        <summary type="html"><![CDATA[無事、無双戦士がLv1000になり、S鯖へのお土産も何とか調達できた。今回初めて金鯖でLv1000キャラを作ってみたが、思いの外簡単だった印象。ただし、楽にやるなら課金は必須だし、課金無しだと自分なら諦めるレベルでしんどいため、これからやる人は要注意。楽に上げるためには、次元ボスのサキュバスを狩る必要があり、これがなかなか厳しい。全吸収までは要らないが、全身協会装備だと狩れないため、ある程度の火力と耐久を賄え]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あれから一ヶ月]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-814.html</id>
