@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-28T14:28:45.912Z</updated>
+    <updated>2023-08-28T14:47:53.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レビたんスリッパ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-632.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-632.html"/>
+        <updated>2023-08-28T14:37:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。このキャラクターには贅沢過ぎです(笑)手数料が半端ないです。闘士の覚醒(フォースブラックラー)です。コンボがめっちゃ気持ち良いです(´ω｀*)いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】金鯖状況8/28時点]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-957.html</id>
