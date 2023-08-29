@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-29T02:52:20.324Z</updated>
+    <updated>2023-08-29T03:16:45.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オーバーフロー。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-633.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-633.html"/>
+        <updated>2023-08-29T02:52:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。不思議で可愛いコスチュームです。ウィークリーシュラグです。mobの攻撃は当たらないのですが、突然即死します(´；ω；`)ｳｯ…原因分かる方いらっしゃったら、教えて頂きれば嬉しいです。1250UMUです…！知識職さん向けかな？読んで頂きまして、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レビたんスリッパ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-632.html</id>
@@ -1412,16 +1422,6 @@ Reward: almost 25b exp andddddd 10 bfe stones!]]></summary>
         <summary type="html"><![CDATA[こんばんは。可愛いコクーンです。結構この箱落ちます。当たりっぽいです。読んで下さって、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お風呂の謎判明]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-810.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-810.html"/>
-        <updated>2023-07-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[お風呂のお湯が時間が経つと少なくなっているのに気が付きましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
