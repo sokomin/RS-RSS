@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-29T14:48:03.438Z</updated>
+    <updated>2023-08-29T15:16:45.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖募集の誤解]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-382.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-382.html"/>
+        <updated>2023-08-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[金鯖も残り１週間になりました＾＾無課金G支部はまだGメン枠が開いているので募集をしているのですが金鯖G募集では課金無課金・鯖など関係なくGメン募集をしていてこれは年１度のお祭りなのでという事がありまた過去に無課金者だけでの募集をしたところGに入っていた課金経験のある方が突然怒って抜けてしまうという事があり金鯖始まったばかりで他のGメンたちにも嫌な思いをさせちゃったかな…という反省があったため金鯖では課金]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オーバーフロー。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-633.html</id>
