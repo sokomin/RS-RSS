@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-30T22:47:37.930Z</updated>
+    <updated>2023-08-30T23:15:42.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[王の証書]]></title>
+        <id>http://scratch2009.blog.fc2.com/blog-entry-216.html</id>
+        <link href="http://scratch2009.blog.fc2.com/blog-entry-216.html"/>
+        <updated>2023-08-30T22:50:17.000Z</updated>
+        <summary type="html"><![CDATA[王の証書。はじめて交換してみました。はじめは面倒なベルセルクとか、実装されていない錬金術・密教に使おうと思っていましたが、なんか銀行顧客とかポーターにも使えるっぽい？]]></summary>
+        <author>
+            <name>scratch2009</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.8.30 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/6915faddbe45aaa15ad25eae74906823</id>
