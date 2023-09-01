@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-01T11:13:25.774Z</updated>
+    <updated>2023-09-01T11:27:44.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニューエイジ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-636.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-636.html"/>
+        <updated>2023-09-01T11:18:49.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。REDSTONE PASSの景品です。結果↓良さそうな名前のユニークです。読んで下さいまして、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.8月のドロップ~♪]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/1f41dcba7f37f768e615c48c41855311</id>
