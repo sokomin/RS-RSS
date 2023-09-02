@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-02T02:30:27.775Z</updated>
+    <updated>2023-09-02T02:48:20.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1427,16 +1427,6 @@ Reward: almost 25b exp andddddd 10 bfe stones!]]></summary>
         <link href="https://medaka1985.fc2.net/blog-entry-608.html"/>
         <updated>2023-08-04T14:48:58.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。土用の丑の日（違）。本格的な宇治ミルクです。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENYA(エンヤ)。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-607.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-607.html"/>
-        <updated>2023-08-03T14:33:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。この世界の片隅に。動物パッケージGET♪シンプルな紋章にします。もう１個ギルド作りました。こちらも、大歓迎です♪読んで下さって、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
