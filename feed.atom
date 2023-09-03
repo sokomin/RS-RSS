@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-03T21:13:06.847Z</updated>
+    <updated>2023-09-03T21:27:36.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1440,16 +1440,6 @@ Reward: almost 25b exp andddddd 10 bfe stones!]]></summary>
         <updated>2023-08-06T04:14:16.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バースデーパーティ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-609.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-609.html"/>
-        <updated>2023-08-05T09:14:19.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。山路です。お祝いケーキを頂きました。圧倒的感謝です。読んで下さって、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
