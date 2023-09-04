@@ -319,18 +319,7 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Qy1ZhiaVf_8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Qy1ZhiaVf_8",
-          "publishedOn": "2023-08-06T10:53:52.000Z",
-          "wordCount": null,
-          "title": "金鯖でやりたくなる、武道家配信！",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "無職と美学とシュルレアリスム",
@@ -1443,16 +1432,6 @@
           "wordCount": 1025,
           "title": "スーパーロト10個。",
           "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medaka1985/20230807164630e45.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-610.html",
-          "author": "medaka1985",
-          "description": "こんばんは。和菓子屋さんのかき氷です。二重構造で中までたっぷりです。※食べられません。タオル美術館を満喫しました♪読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-610.html",
-          "publishedOn": "2023-08-06T11:05:21.000Z",
-          "wordCount": null,
-          "title": "巨大スイーツ。",
-          "imageUrl": null
         }
       ]
     },
