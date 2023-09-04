@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-04T15:47:44.278Z</updated>
+    <updated>2023-09-04T16:19:53.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1451,15 +1451,6 @@ Reward: almost 25b exp andddddd 10 bfe stones!]]></summary>
         <updated>2023-08-06T10:53:52.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023金鯖　水ケミ育成！【 REDSTONE 】]]></title>
-        <id>https://www.youtube.com/watch?v=XT6kWbic9zY</id>
-        <link href="https://www.youtube.com/watch?v=XT6kWbic9zY"/>
-        <updated>2023-08-06T04:14:16.000Z</updated>
-        <author>
-            <name>そこらの民衆</name>
         </author>
     </entry>
     <entry>
