@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-04T03:47:33.360Z</updated>
+    <updated>2023-09-04T04:19:02.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[そういえばID停止される１ヵ月前くらい？から]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202309040000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202309040000/"/>
+        <updated>2023-09-04T04:15:41.000Z</updated>
+        <summary type="html"><![CDATA[100体クエとかで少し狩りしてるだけで、表示されている数字とアルファベットを入力するウィンドウが何度も出現していたな。（今の経験値の宝箱みたいに入力するやつね）後から考えると、運営が俺のIDを停止するた...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[それ行けカニテイマ　～姫リトルvsテイマサマナ～　（金鯖編）]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-815.html</id>

@@ -356,6 +356,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202309040000/",
+          "author": "雷神の弓",
+          "description": "100体クエとかで少し狩りしてるだけで、表示されている数字とアルファベットを入力するウィンドウが何度も出現していたな。（今の経験値の宝箱みたいに入力するやつね）後から考えると、運営が俺のIDを停止するた...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202309040000/",
+          "publishedOn": "2023-09-04T04:15:41.000Z",
+          "wordCount": 1699,
+          "title": "そういえばID停止される１ヵ月前くらい？から",
+          "imageUrl": "http://plaza.jp.rakuten-static.com/img/common/blog_logo_ogp.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202308140000/",
           "author": "雷神の弓",
           "description": "クリーチャーの冒険だけ本気で頑張って、本鯖でメインパッシブを+20まで上げました。このコンテンツは、赤い強化石の消費がかなりきついですね。19→20で15連敗くらいして、赤い強化石たくさんあったのに全滅した...",
