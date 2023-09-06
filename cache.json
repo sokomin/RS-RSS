@@ -490,7 +490,18 @@
       "title": "Wheel of Fortune ’",
       "feedUrl": "http://wh-rs.jugem.jp/?mode=rss",
       "siteUrl": "http://wh-rs.jugem.jp/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://wh-rs.jugem.jp/?eid=325",
+          "author": "亜鬼にゃん",
+          "description": "生きてます！！！！\r\n\r\n何なら今年の金鯖最後まで堪能してました！！！！たのちい！！\r\n\r\n金鯖も終わり、臨時メンテ中なので書き留めておきます。\r\n\r\n \r\n\r\n---\r\n\r\n \r\n\r\n2021年、最後の記事から4か月後に脳梗...",
+          "link": "http://wh-rs.jugem.jp/?eid=325",
+          "publishedOn": "2023-09-06T13:08:00.000Z",
+          "wordCount": 838,
+          "title": "超お久しぶりです！！+2023金鯖の事とか",
+          "imageUrl": "http://img-cdn.jg.jugem.jp/5f8/3521731/20230906_3140265.png"
+        }
+      ]
     },
     {
       "title": "REDSTONE Relinquish",
@@ -945,6 +956,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/8ed83ffcec5b9cd6a9909452dda849d3",
+          "author": null,
+          "description": "雨です。\n\n(1)RED's Roulette\n\n8月9日メンテ後から9月6日メンテ前まで\n(2)新ログインキャンペーン\n\n7月19日メンテ後から9月5日23時59分まで\n(3)RED STONE PASS\n\n7月19日メンテ後から9月6日メンテ前まで\n(4)チャットバフイベント\n\n7月19日メンテ後から9月6日メンテ前まで\n(5)ボックスドロップイベント\n\n7月19日メンテ後から9月6日メンテ前まで\n第1週（7/19から7/26）：「プレシャスハンディングBox」\n第2週（7/26から8/2）：「プログレスハンディングBox」\n第3週（8/2から8/9）：「トレジャーハンティングBox」\n第4週（8/9から8/16）：「プレシャスハンティングBox」\n第5週（8/16から8/23）：プログレスハンディングBox」\n第6週（8/23から8/30）：「トレジャーハンティングBox」\n第7週（8/30から9/6）：「プレシャスハンティングBox」\n第7週「プレシャスハンティングBOX」がドロップします。\n(6)金のレビットレイド\n\n7月19日メンテ後から9月6日メンテ前まで\n\nちょっとイベントとは異なるかもしれませんがこちらも。\n\n\n\n\n\n8月30日メンテ後から9月13日メンテ前まで\n\n\n週末は闘士の再振りで悩みそうです(´・ω・`)\n霊術師も振り直しかぁ(￣ω￣;)\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/8ed83ffcec5b9cd6a9909452dda849d3?fm=rss",
+          "publishedOn": "2023-09-06T10:30:00.000Z",
+          "wordCount": null,
+          "title": "2023.9.6 アプデ!!!",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/1f41dcba7f37f768e615c48c41855311",
           "author": null,
