@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-06T10:17:44.665Z</updated>
+    <updated>2023-09-06T10:31:54.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重要情報更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1265.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1265.html"/>
+        <updated>2023-09-06T10:23:06.000Z</updated>
+        <summary type="html"><![CDATA[金鯖期間中、更新してなかった気がする。更新するほどのものもなかったんで予想通りと言えば予想通りでしたが。さて、金鯖終了でキャラ移転が始まりました。どうもキャラ枠が1つ増えたみたいですね・・・14から15に増えたらしいです。今週は金鯖酢終了と同時にアップデートがありました。今回は闘士改変のようですね。闘士は持ってないんで僕はどう変わったのか解りませんが。持ってる人やメインで使ってる人は早々に確認してるか]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023金鯖終了！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-383.html</id>
