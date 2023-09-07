@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-07T12:31:31.509Z</updated>
+    <updated>2023-09-07T12:56:40.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[２０２３金鯖ダイジェスト]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1122.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1122.html"/>
+        <updated>2023-09-07T12:48:48.000Z</updated>
+        <summary type="html"><![CDATA[はい！こんにちはこんばんははじけるレモンの香り！ハニーレモネード！ついに今年の金鯖もおわりましたねみんなどのキャラをどのサーバーに送るのかもう決まったかな？ハニーは・・・・うふさてさて、それでは金サバのダイジェストをお届けしましょうね～前回の記事でもお伝えしましたが、8月20日のウサギレース！金鯖以外でも、各鯖で時々開催してますのでまた参加よろしくね＾＾9月2日の攻城戦ではなんとナントの対戦カード、姫G]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[喜多方ラーメンです。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-642.html</id>
