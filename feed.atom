@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-07T11:48:00.203Z</updated>
+    <updated>2023-09-07T12:31:31.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[喜多方ラーメンです。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-642.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-642.html"/>
+        <updated>2023-09-07T12:13:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ラーメン+高菜飯です。縮れ麺で、結構美味しかったです。読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超お久しぶりです！！+2023金鯖の事とか]]></title>
         <id>http://wh-rs.jugem.jp/?eid=325</id>
