@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T03:28:12.581Z</updated>
+    <updated>2023-09-08T03:47:39.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[魔法細工ギア。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-643.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-643.html"/>
+        <updated>2023-09-08T03:46:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。スフィアULTキャンペーンのおまけです。良いのが出ました。感謝感謝。新アイテムです。素晴らしいアイテムです。いつも読んで下さって、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[２０２３金鯖ダイジェスト]]></title>
         <id>http://rinsmile.blog70.fc2.com/blog-entry-1122.html</id>
