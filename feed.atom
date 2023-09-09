@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-09T01:55:41.380Z</updated>
+    <updated>2023-09-09T02:19:05.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1401,16 +1401,6 @@ Reward: almost 25b exp andddddd 10 bfe stones!]]></summary>
 ではﾉｼ]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[涼しい夏のスイカ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-614.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-614.html"/>
-        <updated>2023-08-10T13:55:47.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。良い感じのグラフィックです。心臓みたいなアイテムかな？律儀にスイカが割れるのが風情あります。読んで下さって、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
