@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-10T02:31:04.134Z</updated>
+    <updated>2023-09-10T02:47:38.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[闘士の覚醒 －フォースグラップラー－]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/8550835eef46c2b6c813be045a9ff329</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/8550835eef46c2b6c813be045a9ff329?fm=rss"/>
+        <updated>2023-09-10T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[9月に入ってもまだ暑い日は続きますね。
+「SEPTEMBER UPDATE」
+
+代わりに「ワイルドガイスト」というスキルが新たに加わりました。
+
+使用すると頭の上にエフェクトが出ます。
+
+覚醒タイプは「フォースグラップラー」
+
+「秘伝体現」
+
+専用強化スキルは「双練破」
+
+範囲スキルです。
+
+強化スキルの１つは「鷹の目拳」
+
+ちょっと離れたところからでも発動し、範囲型。
+
+もう１つの強化スキルは「雷撃破」
+
+どのくらいの時間継続するのか微妙なところですが、ダメをみながら使うとよいのかな。
+
+
+試練のダンジョンに行ってきましたがとりあえず狩れます。
+範囲タイプとしては面白いかもしれません。
+ダンシングレイジスとファーストアブソーバも覚醒してみてどれがいいか最終的に決めたいと思います。
+竜撃破好きなので、それを選ぶとファーストアブソーバなんですけどね(￣ω￣;)
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[露店しようかなぁ…って₍₍ (ง ˙ω˙)ว ⁾⁾]]></title>
         <id>https://ameblo.jp/keykeykey2010/entry-12819754116.html</id>
