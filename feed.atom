@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-10T14:48:19.627Z</updated>
+    <updated>2023-09-10T15:14:51.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[9月6日アップデート　金鯖終了等]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-816.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-816.html"/>
+        <updated>2023-09-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日私の地域は台風による強風と大雨がありました幸い被害はありませんでしたが3日くらい片頭痛がひどかったですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鏡クエスト。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-645.html</id>
