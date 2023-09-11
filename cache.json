@@ -370,16 +370,6 @@
           "wordCount": 465,
           "title": "王の証書",
           "imageUrl": null
-        },
-        {
-          "id": "http://scratch2009.blog.fc2.com/blog-entry-215.html",
-          "author": "scratch2009",
-          "description": "＜対人戦での使用キャラクターの変遷＞2005-2008　チリWIZ（狩りステ装備でGv出てた）2009-2011　物理弓（300制限の黎明期だけ無課金でもある程度倒せた）2012-2015　健康WIZ（300制限。アスヒのクールタイムがなくて本当に楽しかった）2016-2019　物理シーフ（分身→探知→ダブスロ→狙われたら仰け反る飛び蹴り最強）2020-2023　物理武道（覚醒三連のおかげでかなり倒せた。クロウ靴3500本の価値はあった）という感じで物理職メイン",
-          "link": "http://scratch2009.blog.fc2.com/blog-entry-215.html",
-          "publishedOn": "2023-08-12T23:12:25.000Z",
-          "wordCount": 486,
-          "title": "対人槍",
-          "imageUrl": null
         }
       ]
     },
@@ -914,6 +904,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/d9a41fc4777d6d2beff1857f64d96279",
+          "author": null,
+          "description": "ここ最近また腰痛に悩まされています(´・ω・`)\n「SEPTEMBER UPDATE」\n「フォースグラップラー」覚醒にしたのですが、何となく狩りにくい(´・ω・`)\n\n覚醒タイプは「ダンシングレイジス」\n\n「オーバードライブ」\n\n専用強化スキルは「プラズマボルト」\n\n範囲スキルです。\n\n強化スキルの１つは「バイパーハルシネーション」\n\nMOBの分身を作り出し、分身が叩いてダメを与える感じですね。\n\nもう１つの強化スキルは「覚醒」\n\n10分間保つので、使っておくとよいかと思います。\n\n\nまだ狩場で使っていないので、どの程度狩れるか微妙。\n竜撃破と総連破が覚醒できないので、そこがどうかな。。。。という感じ。\nとはいえ、プラズマブラストでも十分狩れそうだし、何とかなるかな。\n13日のメンテでファーストアブソーバの覚醒パッシブが正常になることを期待し、最終的にどうするか決めていこう。\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/d9a41fc4777d6d2beff1857f64d96279?fm=rss",
+          "publishedOn": "2023-09-11T10:30:00.000Z",
+          "wordCount": 1337,
+          "title": "闘士の覚醒 －ダンシングレイジス－",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/4a/5c/8427761cefc045d9294d0dd991620a6a.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/8550835eef46c2b6c813be045a9ff329",
           "author": null,
