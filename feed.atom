@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T23:47:30.887Z</updated>
+    <updated>2023-09-13T01:10:55.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1255,26 +1255,6 @@ Reward: almost 25b exp andddddd 10 bfe stones!]]></summary>
         <updated>2023-08-14T16:00:00.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美術館。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-618.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-618.html"/>
-        <updated>2023-08-14T12:55:56.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。タオルの世界です。いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリーチャー超越？]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202308140000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202308140000/"/>
-        <updated>2023-08-14T12:09:36.000Z</updated>
-        <summary type="html"><![CDATA[クリーチャーの冒険だけ本気で頑張って、本鯖でメインパッシブを+20まで上げました。このコンテンツは、赤い強化石の消費がかなりきついですね。19→20で15連敗くらいして、赤い強化石たくさんあったのに全滅した...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
