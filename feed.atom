@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-13T14:15:30.008Z</updated>
+    <updated>2023-09-13T14:30:02.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イベント待ち遠しい]]></title>
+        <id>http://wh-rs.jugem.jp/?eid=327</id>
+        <link href="http://wh-rs.jugem.jp/?eid=327"/>
+        <updated>2023-09-13T14:19:00.000Z</updated>
+        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
+
+
+ 
+
+ 
+
+エターナルロトめっちゃ良かったから懇願してたけど、
+
+不思議チケのイベント...]]></summary>
+        <author>
+            <name>亜鬼にゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新着イベント情報]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1266.html</id>
@@ -1258,16 +1277,6 @@ RSにﾛｸﾞｲﾝもすることなくこんな感じです。
         <summary type="html"><![CDATA[コロナが水面下で感染拡大しているという噂もあり、親類の間では今年もお盆の訪問はお互い自重の雰囲気です。家族だけで静かに故人を招いて懐かしむのも、良いひとときだとわたしは思います。お盆フォーメーションになった仏間を、ものめずらしげに探索する愛猫のゆう。静かになったなと思ったら、まじめくさった顔でセッティングに溶け込んでいました。今日はお赤飯の日です。無事に炊き上がったので、これからおむすびにして仏前]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリーチャー超越？]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202308140000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202308140000/"/>
-        <updated>2023-08-15T02:20:08.000Z</updated>
-        <summary type="html"><![CDATA[クリーチャーの冒険だけ本気で頑張って、本鯖でメインパッシブを+20まで上げました。このコンテンツは、赤い覚醒石の消費がかなりきついですね。19→20で15連敗くらいして、赤い覚醒石たくさんあったのに全滅した...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
