@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-13T22:47:55.973Z</updated>
+    <updated>2023-09-13T23:16:07.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1257,16 +1257,6 @@ RSにﾛｸﾞｲﾝもすることなくこんな感じです。
         <updated>2023-08-15T11:31:51.000Z</updated>
         <author>
             <name>そこらの民衆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ログインキャンペーン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-619.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-619.html"/>
-        <updated>2023-08-15T11:11:53.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ラストウィッチさんです。コンプリートです(｀・ω・´)ｼｬｷｰﾝ読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
