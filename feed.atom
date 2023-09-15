@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T14:48:04.761Z</updated>
+    <updated>2023-09-15T15:16:19.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1100U落ちるようになった( ﾟДﾟ)]]></title>
+        <id>http://wh-rs.jugem.jp/?eid=328</id>
+        <link href="http://wh-rs.jugem.jp/?eid=328"/>
+        <updated>2023-09-15T15:02:00.000Z</updated>
+        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
+
+
+ 
+
+UMUって結晶体つけられないんですねー！！？
+
+つけれるようにしてください・・・
+
+&nb...]]></summary>
+        <author>
+            <name>亜鬼にゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バターのいとこ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-649.html</id>
