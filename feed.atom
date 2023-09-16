@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T10:28:35.145Z</updated>
+    <updated>2023-09-16T10:47:54.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1263,16 +1263,6 @@ RSにﾛｸﾞｲﾝもすることなくこんな感じです。
         <summary type="html"><![CDATA[皆さまこんにちわディメンションハブが900からじゃなくて800から行けることに898レベルになってから気が付きましたperaですここの所金鯖に入り浸ってますがRSpass更新のために1日1時間ほど本鯖のほうでもログインしていますぶっちゃけ貧弱装備の金鯖よりもエーテルマキナの経験値バフがあるこっちのほうが美味しいのは内緒ですﾃｰﾃﾚﾃﾝ900以降のクエストもこなしたりして経験値ウマウマしてますそしていつもの光景も健在ですおまけ金]]></summary>
         <author>
             <name>pera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レアアイテム。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-622.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-622.html"/>
-        <updated>2023-08-17T22:40:00.000Z</updated>
-        <summary type="html"><![CDATA[おはようございます。サブで色々、箱を開けていたので断言は出来ませんが、トレジャーハンティングBoxから出たような。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
