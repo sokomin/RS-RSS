@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-17T11:11:53.107Z</updated>
+    <updated>2023-09-17T11:28:16.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鐘鳴らしてくれて感謝・・・]]></title>
+        <id>http://wh-rs.jugem.jp/?eid=329</id>
+        <link href="http://wh-rs.jugem.jp/?eid=329"/>
+        <updated>2023-09-17T11:19:00.000Z</updated>
+        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
+
+
+ 
+
+ 
+
+ 
+
+シルバーウィークイベントで今日もいつもより経験値が高い日！
+...]]></summary>
+        <author>
+            <name>亜鬼にゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】(S鯖)一部マップ接続障害]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-959.html</id>
