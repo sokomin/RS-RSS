@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-17T12:53:43.699Z</updated>
+    <updated>2023-09-17T13:16:38.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[導きの鐘。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-651.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-651.html"/>
+        <updated>2023-09-17T12:55:36.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。闘士のコンボ覚醒です。鐘ありがとうございます！心ときめく瞬間です。金鯖帰りの闘士、一次転生500Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[対人槍v2]]></title>
         <id>http://scratch2009.blog.fc2.com/blog-entry-217.html</id>
