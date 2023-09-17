@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-17T01:14:01.505Z</updated>
+    <updated>2023-09-17T02:01:11.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[闘士の覚醒 －ファーストアブソーバ－]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/799cf170420e6d391818befcde51e8a6</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/799cf170420e6d391818befcde51e8a6?fm=rss"/>
+        <updated>2023-09-17T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[連休中日です。
+「SEPTEMBER UPDATE」
+「フォースグラップラー」および「ダンシングレイジス」覚醒を試しました。現在闘士はダンシングレイジスのまま。
+
+覚醒タイプは「ファーストアブソーバ」
+
+「トリニティフォース」
+
+ワイルドガイストを使用すると、上記のように変化しました。
+
+専用強化スキルは「竜撃破」
+
+範囲スキルです。
+
+強化スキルの１つは「レオバースバウンス」
+
+少し離れたところからでもMOBに近づいて攻撃できるスキル。
+
+もう１つの強化スキルは「ベアーズロア」
+
+かかしなので押し出されるのかどうかは判別不能。
+
+他のスキルの前提分しかとってないのでスキルレベルは低い。
+
+さすがに霊術よりは火力あるね。
+ちゃんと装備を揃えれば、スキルによる火力差はなさそうですね。
+とすればあとは使い勝手かな(￣ω￣;)
+どれにするか悩みどころですが、ファーストアブソーバに戻りそうな感じ・・・
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戦場の重さ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-650.html</id>
