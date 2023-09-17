@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-17T23:14:54.934Z</updated>
+    <updated>2023-09-17T23:27:46.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】(S鯖)一部マップ接続障害※継続中]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-960.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-960.html"/>
+        <updated>2023-09-17T23:17:12.000Z</updated>
+        <summary type="html"><![CDATA[9/16(土)15:00頃から発生している、S鯖の一部マップ接続不可障害は「現在も継続中」です。以下、詳細。ギルドホール連動マップがダウンしており、マップ内にいるキャラはログイン不可です。ログインしたキャラで該当マップに移動すると、接続中状態のままとなり、以降プレイ不可能になります（所謂のみこまれ状態）。ギルドホール連動マップはネットで調べれば直ぐに分かりますが、協会バー(レイドやディメンションがあるところ)や]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[それいけカニテイマ　～vsゲリオ編～　、経験値イベント、長時間接続不具合等]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-817.html</id>
