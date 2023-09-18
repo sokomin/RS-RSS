@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-18T23:27:43.758Z</updated>
+    <updated>2023-09-18T23:47:54.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1421,16 +1421,6 @@ RSにﾛｸﾞｲﾝもすることなくこんな感じです。
         <summary type="html"><![CDATA[私の地域も台風の影響でかなりの雨がふりましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[異次元祭り。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-624.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-624.html"/>
-        <updated>2023-08-20T11:32:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。チャレンジです。お米炊けましたよ(*'▽')お陰様で賑わっております。おかわり！まだまだ！冷凍庫の米、レンジで解凍して。(;´･ω･)怖くない怖くない。何という異次元の無駄遣い。Σ(･ω･ﾉ)ﾉ！お腹いっぱいです。いつもお世話になります。また見てね(*'▽')]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
