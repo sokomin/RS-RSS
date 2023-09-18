@@ -147,7 +147,18 @@
       "title": "そこらの民衆",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8pMAy5Ifr2KgH8kM_xR9Og",
       "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xp3iS_XtUoc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xp3iS_XtUoc",
+          "publishedOn": "2023-08-20T05:48:57.000Z",
+          "wordCount": null,
+          "title": "2023金鯖 物理キャプテン育成！【 REDSTONE 】",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Into the Bag",
