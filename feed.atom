@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-18T08:21:18.010Z</updated>
+    <updated>2023-09-18T08:47:51.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[モチベーション復活＆本腰復帰中！]]></title>
+        <id>https://rs-clair-de-lune.com/2023-09-18/</id>
+        <link href="https://rs-clair-de-lune.com/2023-09-18/"/>
+        <updated>2023-09-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！5月末以来、久しぶりの更新になります。 2年半の間月刊更新を保っていたのですが、すっかり大型アップデート2回分と金鯖期間を挟んでしまいましたね。
+6月から仕事が忙しくなり、…]]></summary>
+        <author>
+            <name>The Adventure Of The Jacks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】(S鯖)一部マップ接続障害※継続中]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-960.html</id>
