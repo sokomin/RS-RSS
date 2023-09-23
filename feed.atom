@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-23T06:47:41.068Z</updated>
+    <updated>2023-09-23T07:13:53.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無題]]></title>
+        <id>kaze.gg-blog.com://entry/181</id>
+        <link href="http://kaze.gg-blog.com/other/20230923_181"/>
+        <updated>2023-09-23T06:59:55.000Z</updated>
+        <summary type="html"><![CDATA[{{ number }}
+export default {
+  data() {
+    return {
+      number: 0
+    };
+  },
+  methods: {
+    addOne() {
+      this.number = this.number + 1;
+    }
+  }
+};]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無題]]></title>
         <id>kaze.gg-blog.com://entry/180</id>
