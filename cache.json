@@ -242,6 +242,16 @@
           "id": "kaze.gg-blog.com://entry/182",
           "author": null,
           "description": "function getImage(){\n  //画像ファイル名を配列で保持\n  var arr = ['https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448780', 'https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448779', 'https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448778','https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448777','https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448776','https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448775','https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448774','https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448773','https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448772','https://blog.cno…",
+          "link": "http://kaze.gg-blog.com/verification/20230923",
+          "publishedOn": "2023-09-23T07:19:03.000Z",
+          "wordCount": 252,
+          "title": "ソケット変換 シミュレータっぽいやつ",
+          "imageUrl": null
+        },
+        {
+          "id": "kaze.gg-blog.com://entry/182",
+          "author": null,
+          "description": "function getImage(){\n  //画像ファイル名を配列で保持\n  var arr = ['https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448780', 'https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448779', 'https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448778','https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448777','https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448776','https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448775','https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448774','https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448773','https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448772','https://blog.cno…",
           "link": "http://kaze.gg-blog.com/other/20230923",
           "publishedOn": "2023-09-23T07:19:03.000Z",
           "wordCount": 271,
@@ -1147,6 +1157,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-657.html",
+          "author": "medaka1985",
+          "description": "こんばんは。良い感じのコスチュームです。良いネーミングセンスのUです。サブのビーストテイマー955Lvです。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-657.html",
+          "publishedOn": "2023-09-23T08:12:20.000Z",
+          "wordCount": null,
+          "title": "ある退役軍人の銃。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-656.html",
           "author": "medaka1985",
