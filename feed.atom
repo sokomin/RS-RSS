@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-23T02:32:54.021Z</updated>
+    <updated>2023-09-23T02:48:00.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1342,16 +1342,6 @@ WIZくんがデリンダリンクエを進めているのですが。ダリン�
         <link href="https://medaka1985.fc2.net/blog-entry-629.html"/>
         <updated>2023-08-25T14:31:18.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。作成した破片ワームです。ギルド作りました(3つ目)。本鯖のビーストテイマー952Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面白い自販機。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-628.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-628.html"/>
-        <updated>2023-08-24T14:38:04.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。未来の食料問題に貢献できるかも(笑)読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
