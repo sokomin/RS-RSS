@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T19:48:02.187Z</updated>
+    <updated>2023-09-24T20:15:50.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1519,16 +1519,6 @@ WIZくんがデリンダリンクエを進めているのですが。ダリン�
         <summary type="html"><![CDATA[こんばんは。威厳あるコスチュームです。ビーストテイマーの討伐です。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生霊さん]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-201.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-201.html"/>
-        <updated>2023-08-26T08:01:40.000Z</updated>
-        <summary type="html"><![CDATA[金鯖もいよいよ終わりが見えてきたのに、まだまだ暑い今日この頃、いかがお過ごしでしょうか。金鯖キャラを終了に向けてレベル調整中の第三の猫です。まずは、2転Lv800くらいまでいけそうなドラツイ戦士。どういうわけかレイドバッジが完成しました。まさか4戦で戦利品コンプリートするとは思いませんでした。そして金鯖で狩りをしている時に発見したのがこちら。エリート生霊です。（ドラツイ戦士が一足先に本鯖に持ち帰ったのは]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
