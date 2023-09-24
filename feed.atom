@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T02:31:17.025Z</updated>
+    <updated>2023-09-24T02:47:33.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1519,16 +1519,6 @@ WIZくんがデリンダリンクエを進めているのですが。ダリン�
         <summary type="html"><![CDATA[注意！8/20時点の状況です。＜お土産＞・SR確定コクーン×5　1つ20本購入(計100本)。・魔法強打発動確率＆魔法強打ダメアップのデュアルクレスト×1　350本で購入。　8/20現在、450本程度で取引されている模様。　S鯖で1つ購入済のため、クレストはこれで準備完了。・完璧勇猛図案書　140本、150本、200本で購入(計490本)。　8/20現在、250本～300本で取引されている模様。・華麗勇猛図案書　40本～50本で購入(計360本)。　8/20現在]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ギルド作成。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-629.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-629.html"/>
-        <updated>2023-08-25T14:31:18.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。作成した破片ワームです。ギルド作りました(3つ目)。本鯖のビーストテイマー952Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
