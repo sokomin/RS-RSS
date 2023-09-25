@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-25T13:47:31.460Z</updated>
+    <updated>2023-09-25T14:16:01.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1519,16 +1519,6 @@ WIZくんがデリンダリンクエを進めているのですが。ダリン�
         <summary type="html"><![CDATA[台風が多い時期で私はこの時期片頭痛に悩まされます毎朝起きるのがしんどいですねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スーパーロトボックス。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-631.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-631.html"/>
-        <updated>2023-08-27T01:55:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。勉強出来そうな光奏師さんです。公式ルーレットから出ました！(ラッキー♪)↑結果。ユスピナのクリスタルと欲張りレビットのクリスタルの配置。ユスピナ通り越してレビットが消化されました。レビットのクリスタル優先みたいです。メインのシーフが1066Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
