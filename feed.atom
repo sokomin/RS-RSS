@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-25T02:26:04.852Z</updated>
+    <updated>2023-09-25T02:47:45.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1517,16 +1517,6 @@ WIZくんがデリンダリンクエを進めているのですが。ダリン�
         <link href="https://medaka1985.fc2.net/blog-entry-631.html"/>
         <updated>2023-08-27T01:55:00.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。勉強出来そうな光奏師さんです。公式ルーレットから出ました！(ラッキー♪)↑結果。ユスピナのクリスタルと欲張りレビットのクリスタルの配置。ユスピナ通り越してレビットが消化されました。レビットのクリスタル優先みたいです。メインのシーフが1066Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏の終わり。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-630.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-630.html"/>
-        <updated>2023-08-26T14:35:22.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。威厳あるコスチュームです。ビーストテイマーの討伐です。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
