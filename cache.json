@@ -461,6 +461,16 @@
       "siteUrl": "http://wh-rs.jugem.jp/",
       "articles": [
         {
+          "id": "http://wh-rs.jugem.jp/?eid=331",
+          "author": "亜鬼にゃん",
+          "description": "JUGEMテーマ：RED STONE\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nヤティカヌで狩ってると、移動速度遅くなる攻撃さ...",
+          "link": "http://wh-rs.jugem.jp/?eid=331",
+          "publishedOn": "2023-09-26T07:17:00.000Z",
+          "wordCount": 823,
+          "title": "命中補正無視の鎧",
+          "imageUrl": "http://img-cdn.jg.jugem.jp/5f8/3521731/20230926_3148842.png"
+        },
+        {
           "id": "http://wh-rs.jugem.jp/?eid=330",
           "author": "亜鬼にゃん",
           "description": "JUGEMテーマ：RED STONE\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n金鯖後のアプデで高Lv用のディメンションハブが追加されました！...",
@@ -1177,6 +1187,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-660.html",
+          "author": "medaka1985",
+          "description": "こんにちは。鮮やかな像です。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-660.html",
+          "publishedOn": "2023-09-26T07:17:00.000Z",
+          "wordCount": 1020,
+          "title": "宝石店。",
+          "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medaka1985/2023092616142317f.jpg"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-659.html",
           "author": "medaka1985",

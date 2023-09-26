@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-26T07:15:22.577Z</updated>
+    <updated>2023-09-26T07:27:48.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[命中補正無視の鎧]]></title>
+        <id>http://wh-rs.jugem.jp/?eid=331</id>
+        <link href="http://wh-rs.jugem.jp/?eid=331"/>
+        <updated>2023-09-26T07:17:00.000Z</updated>
+        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ヤティカヌで狩ってると、移動速度遅くなる攻撃さ...]]></summary>
+        <author>
+            <name>亜鬼にゃん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宝石店。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-660.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-660.html"/>
+        <updated>2023-09-26T07:17:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。鮮やかな像です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】経験値ドロップイベント結果]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-962.html</id>
