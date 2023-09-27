@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-27T02:25:35.857Z</updated>
+    <updated>2023-09-27T02:47:49.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1652,16 +1652,6 @@ WIZくんがデリンダリンクエを進めているのですが。ダリン�
         <link href="https://medaka1985.fc2.net/blog-entry-633.html"/>
         <updated>2023-08-29T02:52:00.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。不思議で可愛いコスチュームです。ウィークリーシュラグです。mobの攻撃は当たらないのですが、突然即死します(´；ω；`)ｳｯ…原因分かる方いらっしゃったら、教えて頂きれば嬉しいです。1250UMUです…！知識職さん向けかな？読んで頂きまして、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レビたんスリッパ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-632.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-632.html"/>
-        <updated>2023-08-28T14:37:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。このキャラクターには贅沢過ぎです(笑)手数料が半端ないです。闘士の覚醒(フォースブラックラー)です。コンボがめっちゃ気持ち良いです(´ω｀*)いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
