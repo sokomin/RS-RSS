@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-28T15:29:38.859Z</updated>
+    <updated>2023-09-28T15:47:57.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1807,16 +1807,6 @@ WIZくんがデリンダリンクエを進めているのですが。ダリン�
         <summary type="html"><![CDATA[こんにちは。見事な着物と袴です。初めて食べる部位です。ステーキの様な食感と歯ごたえで、めちゃめちゃ美味しかったです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】金鯖状況8/30時点]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-958.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-958.html"/>
-        <updated>2023-08-30T03:30:06.000Z</updated>
-        <summary type="html"><![CDATA[無双戦士用の装備が全て売れた。購入したもの、自作したもの、いずれも買値や作成費用を下回ることなく完売したのも金鯖ならでは。T防御水魚、T防御DX巨人鎧、T敏比巨人足、THPアルゴス、T健比ヘルグリム等、本鯖だと売れないし、売れても二束三文だし、売れる内に売るのが得策。ほぼ使い切っていたインゴが再度600本くらいになったため、何か追加でお土産を買えないか探してみたけど、やはりS鯖相場以下ものは何一つ無かった。こ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
