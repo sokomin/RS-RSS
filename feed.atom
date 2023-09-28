@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-28T22:47:35.464Z</updated>
+    <updated>2023-09-28T23:15:54.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1746,57 +1746,6 @@ WIZくんがデリンダリンクエを進めているのですが。ダリン�
         <summary type="html"><![CDATA[王の証書。はじめて交換してみました。はじめは面倒なベルセルクとか、実装されていない錬金術・密教に使おうと思っていましたが、なんか銀行顧客とかポーターにも使えるっぽい？]]></summary>
         <author>
             <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023.8.30 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/6915faddbe45aaa15ad25eae74906823</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/6915faddbe45aaa15ad25eae74906823?fm=rss"/>
-        <updated>2023-08-30T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[8月もまもなく終わりですね。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7月5日メンテ後から9月6日メンテ前まで
-
-
-まだまだ暑い日が続きます。
-適切に冷房を使いつつ、水分もしっかりとって過ごしましょうｗ
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
