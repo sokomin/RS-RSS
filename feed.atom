@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T21:27:41.786Z</updated>
+    <updated>2023-09-30T21:47:37.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1707,45 +1707,6 @@ MOBの分身を作り出し、分身が叩いてダメを与える感じです�
         <summary type="html"><![CDATA[こんばんは。REDSTONE PASSの景品です。結果↓良さそうな名前のユニークです。読んで下さいまして、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023.8月のドロップ~♪]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/1f41dcba7f37f768e615c48c41855311</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/1f41dcba7f37f768e615c48c41855311?fm=rss"/>
-        <updated>2023-09-01T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[9月になりました。
-
-
-
-
-
-物理IDはしょぼいですね。
-ただ久々に霊珠がでました。
-知識IDはWIZくんが頑張って出してくれました。
-ただ使えそうなのはなかなかでませんね(´・ω・`)
-
-
-WIZくんがデリンダリンクエを進めているのですが。ダリンクエは前よりも増えてますね。
-討伐行ってこい！といわれたのですがWIZくんでは倒せず・・・
-どうやらここで終わりそうです(´・ω・`)
-アチャや闘士はなかったんだけどね。
-早くやってしまえばよかったよ(´・ω・`)
-
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
