@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-01T23:47:52.441Z</updated>
+    <updated>2023-10-02T01:11:12.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1748,16 +1748,6 @@ MOBの分身を作り出し、分身が叩いてダメを与える感じです�
         <summary type="html"><![CDATA[どうもみなさん。魔法の壁です。早速ですがこちらをご覧ください。1250UMUのラストチャプターです。なんと4解放でほぼ強化済みの希少な1250UMUがなんと1000本で売っていました！！魔法致命打ダメージを変換して稼...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[憧れの東京。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-637.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-637.html"/>
-        <updated>2023-09-02T13:10:30.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。丸の内中央口です。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
