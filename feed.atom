@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T02:47:34.357Z</updated>
+    <updated>2023-10-03T03:16:43.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1738,16 +1738,6 @@ MOBの分身を作り出し、分身が叩いてダメを与える感じです�
         <summary type="html"><![CDATA[100体クエとかで少し狩りしてるだけで、表示されている数字とアルファベットを入力するウィンドウが何度も出現していたな。（今の経験値の宝箱みたいに入力するやつね）後から考えると、運営が俺のIDを停止するた...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[それ行けカニテイマ　～姫リトルvsテイマサマナ～　（金鯖編）]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-815.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-815.html"/>
-        <updated>2023-09-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一時期よりも暑さは少し落ち着いたのか朝晩は涼しく感じる日もありますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
