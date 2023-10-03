@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T15:47:44.891Z</updated>
+    <updated>2023-10-03T16:22:25.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1786,16 +1786,6 @@ MOBの分身を作り出し、分身が叩いてダメを与える感じです�
         <summary type="html"><![CDATA[こんばんは。　　　↑最後の金鯖ログインボーナスです。寸劇が進化しています(笑)いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[そういえばID停止される１ヵ月前くらい？から]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202309040000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202309040000/"/>
-        <updated>2023-09-04T04:15:41.000Z</updated>
-        <summary type="html"><![CDATA[100体クエとかで少し狩りしてるだけで、表示されている数字とアルファベットを入力するウィンドウが何度も出現していたな。（今の経験値の宝箱みたいに入力するやつね）後から考えると、運営が俺のIDを停止するた...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
