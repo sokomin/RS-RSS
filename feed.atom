@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T02:01:22.603Z</updated>
+    <updated>2023-10-04T02:31:52.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1774,16 +1774,6 @@ MOBの分身を作り出し、分身が叩いてダメを与える感じです�
         <link href="https://medaka1985.fc2.net/blog-entry-640.html"/>
         <updated>2023-09-05T12:43:27.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。シャインマスカットパフェです。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【SR】確定コクーン[E]。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-639.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-639.html"/>
-        <updated>2023-09-04T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。　　　↑最後の金鯖ログインボーナスです。寸劇が進化しています(笑)いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
