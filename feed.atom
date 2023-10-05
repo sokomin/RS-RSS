@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T23:47:34.961Z</updated>
+    <updated>2023-10-05T01:11:03.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1862,16 +1862,6 @@ MOBの分身を作り出し、分身が叩いてダメを与える感じです�
         <summary type="html"><![CDATA[今年の金鯖も終わりとなりました＾＾猛暑の今年は真夏日に慣れていないわたしにはかなり辛かったのでそのためか今年はRSをする気も半減してたかなと思いました＾＾；青森住んでて３５°とか体験したことがない気がします＾＾；今年の金鯖キャラたちはどうなったかというと最初に育てた霊術は910くらい！これ書いてる日からもう少し上がる可能性もありますけどそんなに大きく成長はしないはず…この霊術はもともとオオカミ少年のペな]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お寿司屋さんのデザート。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-640.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-640.html"/>
-        <updated>2023-09-05T12:43:27.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。シャインマスカットパフェです。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
