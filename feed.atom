@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T23:47:33.273Z</updated>
+    <updated>2023-10-06T01:10:55.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1758,38 +1758,6 @@ MOBの分身を作り出し、分身が叩いてダメを与える感じです�
         <link href="https://medaka1985.fc2.net/blog-entry-642.html"/>
         <updated>2023-09-07T12:13:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。ラーメン+高菜飯です。縮れ麺で、結構美味しかったです。読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超お久しぶりです！！+2023金鯖の事とか]]></title>
-        <id>http://wh-rs.jugem.jp/?eid=325</id>
-        <link href="http://wh-rs.jugem.jp/?eid=325"/>
-        <updated>2023-09-06T13:08:00.000Z</updated>
-        <summary type="html"><![CDATA[生きてます！！！！
-
-何なら今年の金鯖最後まで堪能してました！！！！たのちい！！
-
-金鯖も終わり、臨時メンテ中なので書き留めておきます。
-
- 
-
----
-
- 
-
-2021年、最後の記事から4か月後に脳梗...]]></summary>
-        <author>
-            <name>亜鬼にゃん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイナーリーグ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-641.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-641.html"/>
-        <updated>2023-09-06T12:56:59.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。福島レッドホープスです。いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
