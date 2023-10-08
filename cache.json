@@ -35,6 +35,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-820.html",
+          "author": "ミツリン",
+          "description": "朝はだいぶ冷えるようになりましたこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-820.html",
+          "publishedOn": "2023-10-08T15:00:00.000Z",
+          "wordCount": 603,
+          "title": "アニバイベント開始",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-819.html",
           "author": "ミツリン",
           "description": "夜は涼しくなってきてエアコンが要らないくらいなので網戸にして外の風に当たっていますど田舎なので鈴虫の大合唱が聞こえてしまいますが何かと風流なものですこんにちは　ミツリンです",
@@ -348,6 +358,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-965.html",
+          "author": "JEFRY",
+          "description": "頑張る人用不思議チケット230枚(欠片11,500枚)なかなか大変だから、スペシャル等級白紙図案書25枚(1,250)は諦めていいかも？頑張らない人用不思議チケット95枚(欠片4,750枚)1000UMU武器は相当値下がりしてて、強襲者と金銀くらいしか労力に見合わない。割り切って捨てるのも全然あり。みなさん、無理せず計画的に集めましょう！",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-965.html",
+          "publishedOn": "2023-10-08T15:00:01.000Z",
+          "wordCount": 564,
+          "title": "【REDSTONE】不思議なチケットイベント_2023年",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-964.html",
           "author": "JEFRY",
