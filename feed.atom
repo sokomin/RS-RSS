@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-10T23:47:49.083Z</updated>
+    <updated>2023-10-11T01:10:39.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1577,16 +1577,6 @@ UMUって結晶体つけられないんですねー！！？
         <link href="https://medaka1985.fc2.net/blog-entry-647.html"/>
         <updated>2023-09-12T08:28:46.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。朝食です。神社大好きです。逆に凄いかな(笑)いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コラブテッド。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-646.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-646.html"/>
-        <updated>2023-09-11T12:52:26.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。ユニーク3個は珍しいです。コラブシリーズ。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
