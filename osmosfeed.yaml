@@ -4,7 +4,7 @@ sources:
 #   - href: https://css-tricks.com/feed/
 #   - href: https://www.smashingmagazine.com/feed/
 #   - href: https://www.freecodecamp.org/news/rss/
-  - href: https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/ #そこみん
+  # - href: https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/ #そこみん
   - href: https://khbsroom.com/index.xml #KHBの部屋
   # - href: https://nitter.net/redstonejp/rss
   - href: https://akira773.blog22.fc2.com/?xml #リヤンのペット図鑑
@@ -15,7 +15,7 @@ sources:
   - href: http://rinsmile.blog70.fc2.com/?xml #リンズカフェ
   - href: https://api.plaza.rakuten.ne.jp/maomiku4649/rss/ #まおみく
   - href: http://yumegon5505.blog.fc2.com/?xml #ゆめごん
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC8pMAy5Ifr2KgH8kM_xR9Og #youtube
+  # - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC8pMAy5Ifr2KgH8kM_xR9Og #youtube
   - href: https://intothe.info/feed/ #marsborn
   - href: https://api.plaza.rakuten.ne.jp/mahounokabe/rss/ #裁判官
   - href: http://ashash.cocolog-nifty.com/blog/index.rdf #ファーブ
