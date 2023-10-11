@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T16:21:16.200Z</updated>
+    <updated>2023-10-11T16:47:53.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無題]]></title>
+        <id>kaze.gg-blog.com://entry/185</id>
+        <link href="http://kaze.gg-blog.com/other/20231012"/>
+        <updated>2023-10-11T16:34:56.000Z</updated>
+        <summary type="html"><![CDATA[ダウンロード]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[モンスターの霊珠。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-675.html</id>
