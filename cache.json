@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "GMの抵抗ワショーイ",
-      "feedUrl": "https://api.plaza.rakuten.ne.jp/redstoneteikou/rss/",
-      "siteUrl": "https://plaza.rakuten.co.jp/redstoneteikou/",
-      "articles": []
-    },
-    {
       "title": "KHBの部屋",
       "feedUrl": "https://khbsroom.com/index.xml",
       "siteUrl": "http://www.zephyr.dti.ne.jp/hiroll/",
@@ -110,12 +104,6 @@
       "title": "ひっそりと咲くドクダミの花☆",
       "feedUrl": "http://yumegon5505.blog.fc2.com/?xml",
       "siteUrl": "http://yumegon5505.blog.fc2.com/",
-      "articles": []
-    },
-    {
-      "title": "そこらの民衆",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8pMAy5Ifr2KgH8kM_xR9Og",
-      "siteUrl": "https://www.youtube.com/channel/UC8pMAy5Ifr2KgH8kM_xR9Og",
       "articles": []
     },
     {
