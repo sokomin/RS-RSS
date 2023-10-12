@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T07:27:59.456Z</updated>
+    <updated>2023-10-12T07:47:34.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LV1300になりました！！]]></title>
+        <id>http://wh-rs.jugem.jp/?eid=333</id>
+        <link href="http://wh-rs.jugem.jp/?eid=333"/>
+        <updated>2023-10-12T07:46:39.000Z</updated>
+        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE]]></summary>
+        <author>
+            <name>亜鬼にゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[目指せマナウォーカー！]]></title>
         <id>kaze.gg-blog.com://entry/185</id>
