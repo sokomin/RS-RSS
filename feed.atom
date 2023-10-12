@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T23:16:39.304Z</updated>
+    <updated>2023-10-12T23:28:51.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1647,16 +1647,6 @@ UMUって結晶体つけられないんですねー！！？
 不思議チケのイベント...]]></summary>
         <author>
             <name>亜鬼にゃん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新着イベント情報]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1266.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1266.html"/>
-        <updated>2023-09-13T11:20:23.000Z</updated>
-        <summary type="html"><![CDATA[金鯖で条件達成した人にアニバーサリーモードで使えるチケットプレゼントとログインチェックイベントの２つのようですがアニバーサリーモードは10月開催予定？っぽいのでチケット自体はまだ使い道はないですね。ログインチェックは最後までもらうとキャラの上に表示されてるHPバーのスキンが変更できるアイテムがもらえるようです。使うにしてもたまに気分変えたい時に変更するくらいですかね。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
     <entry>
