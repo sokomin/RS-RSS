@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T13:28:48.463Z</updated>
+    <updated>2023-10-14T13:48:03.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メカコスチャレンジ?]]></title>
+        <id>http://wh-rs.jugem.jp/?eid=335</id>
+        <link href="http://wh-rs.jugem.jp/?eid=335"/>
+        <updated>2023-10-14T13:31:42.000Z</updated>
+        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
+
+
+ 
+
+ 
+
+ 
+
+〜前回のあらすじ〜
+
+ 
+
+サマナのメカコスを...]]></summary>
+        <author>
+            <name>亜鬼にゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鏡の魔法書。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-678.html</id>
