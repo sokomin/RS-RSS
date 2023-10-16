@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T18:47:54.572Z</updated>
+    <updated>2023-10-16T19:13:34.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1601,16 +1601,6 @@ But...I WILL get there, eventually, someday heh]]></summary>
 ...]]></summary>
         <author>
             <name>亜鬼にゃん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】(S鯖)一部マップ接続障害]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-959.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-959.html"/>
-        <updated>2023-09-17T06:59:06.000Z</updated>
-        <summary type="html"><![CDATA[現在、S鯖のギルドホール連動マップがダウンしており、マップ内にいるキャラはログイン不可です。ギルドホール連動マップはネットで調べれば直ぐに分かりますが、協会バー(レイドやディメンションがあるところ)や、攻城戦マップも連動マップです。メインキャラがギルドホールにいてログインできなかったり、装備保有キャラがログイン不可で狩り出来ない人など、殆どのS鯖プレイヤーに支障が出ています。公式サイトやX(旧Twitter)は]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
