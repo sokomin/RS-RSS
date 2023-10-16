@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T18:22:39.011Z</updated>
+    <updated>2023-10-16T18:47:54.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1611,53 +1611,6 @@ But...I WILL get there, eventually, someday heh]]></summary>
         <summary type="html"><![CDATA[現在、S鯖のギルドホール連動マップがダウンしており、マップ内にいるキャラはログイン不可です。ギルドホール連動マップはネットで調べれば直ぐに分かりますが、協会バー(レイドやディメンションがあるところ)や、攻城戦マップも連動マップです。メインキャラがギルドホールにいてログインできなかったり、装備保有キャラがログイン不可で狩り出来ない人など、殆どのS鯖プレイヤーに支障が出ています。公式サイトやX(旧Twitter)は]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闘士の覚醒 －ファーストアブソーバ－]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/799cf170420e6d391818befcde51e8a6</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/799cf170420e6d391818befcde51e8a6?fm=rss"/>
-        <updated>2023-09-17T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[連休中日です。
-「SEPTEMBER UPDATE」
-「フォースグラップラー」および「ダンシングレイジス」覚醒を試しました。現在闘士はダンシングレイジスのまま。
-
-覚醒タイプは「ファーストアブソーバ」
-
-「トリニティフォース」
-
-ワイルドガイストを使用すると、上記のように変化しました。
-
-専用強化スキルは「竜撃破」
-
-範囲スキルです。
-
-強化スキルの１つは「レオバースバウンス」
-
-少し離れたところからでもMOBに近づいて攻撃できるスキル。
-
-もう１つの強化スキルは「ベアーズロア」
-
-かかしなので押し出されるのかどうかは判別不能。
-
-他のスキルの前提分しかとってないのでスキルレベルは低い。
-
-さすがに霊術よりは火力あるね。
-ちゃんと装備を揃えれば、スキルによる火力差はなさそうですね。
-とすればあとは使い勝手かな(￣ω￣;)
-どれにするか悩みどころですが、ファーストアブソーバに戻りそうな感じ・・・
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
