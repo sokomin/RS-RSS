@@ -395,16 +395,6 @@
           "wordCount": 562,
           "title": "【REDSTONE】金鯖後のS鯖状況(2W経過後)",
           "imageUrl": null
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-960.html",
-          "author": "JEFRY",
-          "description": "9/16(土)15:00頃から発生している、S鯖の一部マップ接続不可障害は「現在も継続中」です。以下、詳細。ギルドホール連動マップがダウンしており、マップ内にいるキャラはログイン不可です。ログインしたキャラで該当マップに移動すると、接続中状態のままとなり、以降プレイ不可能になります（所謂のみこまれ状態）。ギルドホール連動マップはネットで調べれば直ぐに分かりますが、協会バー(レイドやディメンションがあるところ)や",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-960.html",
-          "publishedOn": "2023-09-17T23:17:12.000Z",
-          "wordCount": 563,
-          "title": "【REDSTONE】(S鯖)一部マップ接続障害※継続中",
-          "imageUrl": null
         }
       ]
     },
@@ -1089,6 +1079,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-681.html",
+          "author": "medaka1985",
+          "description": "こんばんは。恰好可愛いコスチュームです。Σ(･ω･ﾉ)ﾉ！これは欲しいです。メインシーフ1076Lvです♪いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-681.html",
+          "publishedOn": "2023-10-17T11:14:23.000Z",
+          "wordCount": null,
+          "title": "ブレイブハンター。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-680.html",
           "author": "medaka1985",
