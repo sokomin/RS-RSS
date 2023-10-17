@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T11:47:49.892Z</updated>
+    <updated>2023-10-17T12:33:02.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1540,17 +1540,6 @@ But...I WILL get there, eventually, someday heh]]></summary>
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モチベーション復活＆本腰復帰中！]]></title>
-        <id>https://rs-clair-de-lune.com/2023-09-18/</id>
-        <link href="https://rs-clair-de-lune.com/2023-09-18/"/>
-        <updated>2023-09-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！5月末以来、久しぶりの更新になります。 2年半の間月刊更新を保っていたのですが、すっかり大型アップデート2回分と金鯖期間を挟んでしまいましたね。
-6月から仕事が忙しくなり、…]]></summary>
-        <author>
-            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
     <entry>
