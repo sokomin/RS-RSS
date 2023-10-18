@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-18T02:31:34.014Z</updated>
+    <updated>2023-10-18T02:47:31.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1471,25 +1471,6 @@ But...I WILL get there, eventually, someday heh]]></summary>
         <summary type="html"><![CDATA[こんばんは。初めて拝みました。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディメンション・ハブ（2023.9アプデ後）]]></title>
-        <id>http://wh-rs.jugem.jp/?eid=330</id>
-        <link href="http://wh-rs.jugem.jp/?eid=330"/>
-        <updated>2023-09-18T14:32:00.000Z</updated>
-        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
-
-
- 
-
- 
-
- 
-
-金鯖後のアプデで高Lv用のディメンションハブが追加されました！...]]></summary>
-        <author>
-            <name>亜鬼にゃん</name>
         </author>
     </entry>
     <entry>
