@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-18T11:47:43.593Z</updated>
+    <updated>2023-10-18T12:32:55.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[赤石　テイマーと知識ペット]]></title>
+        <id>hatenablog://entry/6801883189050933635</id>
+        <link href="https://no55555.hatenablog.com/entry/2023/10/18/210000"/>
+        <updated>2023-10-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[(V)o￥o(V)
+ 
+　サマナーは召喚獣を召喚して敵と戦わせますが、テイマーはペットを使って敵と戦います。改変後はテイマー自身が攻撃できる範囲スキルも追加されたのでペット無しでもある程度戦う（みんなやらないけれど）ことはできますが、ペットと一緒に戦った方が単純に手数が増えるので効率も上がります。
+　そんなペットですが種類が召喚獣よりも豊富です。さらに召喚獣は魔法攻撃だけになりましたが、ペットは魔法攻撃主体のペットの他に物理攻撃主体のペットまでおります。またペットによって扱えるスキルも違うので状況によって使い分けることもできます。その点はサマナーよりもいろんな戦い方ができそうですよね。
+　今回はペットのうち知識系のペットにどんな感じのスキルを持っているペットがいるのか、使ってみた感じどうだったかを書いていこうかなと思います。
+そもそもペットを手に入れるには
+特技の特性
+ペット使用感
+火
+覚醒魔術師
+サキュバス
+水
+フロッグ
+亀
+覚醒魔サキュバス
+飛海月
+風
+エリート呪術師
+ガーゴイル
+土
+覚醒ボーンキメラ
+森の司令
+光
+ユニコーン
+ボイドラスター
+闇
+エリートラク
+引導者
+大骸骨
+まとめ
+そもそもペットを手に入れるには
+　テイマーは最初はペットを何も連れていません。というわけでまず第一にどうやってペットを手に入れるかですよね。まぁ皆さんご存じだとは思いますがペットは狩場にいる敵にスキル「飼育記録書」を使用してゲットします。
+　敵によっては記録書一発で簡単にテイムできるものもいますが、中にはなかなかテイムできない強者（？）もおります。そんな時に役立つのがセットオプションの「信義」です。これを装備につければテイム確率がアップします。6か所つければ100%で成功しますが、そこまで用意するのが面倒という人は4か所でも30%の確率でテイムできるので充分ではあります。つける装備はテイム…]]></summary>
+        <author>
+            <name>曇りのち晴れ４８日</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[光奏師日記NEO　アニバァァァァサリィィィィィィ]]></title>
+        <id>https://ankokuprpr.blog.fc2.com/blog-entry-21.html</id>
+        <link href="https://ankokuprpr.blog.fc2.com/blog-entry-21.html"/>
+        <updated>2023-10-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[皆さまこんにちわ苦労して作成した武器をNPC売りしてしまい、再度作り直す旅をしていました（過去形）peraですアニバーサリーモード楽しんでますでしょうか？豪華アイテム目白押しでチケット集めがはかどりますね!(^^)!と言うかイベント期間残り半分になってからブログ更新するのか・・・まあ終了間近とか終了後に更新するよりかはマシって事で・・・チケット交換のラインナップ1000UMUとかいろいろ目白押しでワクワクしますぜ・・]]></summary>
+        <author>
+            <name>pera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.10.18 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/2b556cb24f01dfefe017b887289e21aa</id>
