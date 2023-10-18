@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T23:47:52.008Z</updated>
+    <updated>2023-10-18T01:11:21.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1490,26 +1490,6 @@ But...I WILL get there, eventually, someday heh]]></summary>
 金鯖後のアプデで高Lv用のディメンションハブが追加されました！...]]></summary>
         <author>
             <name>亜鬼にゃん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヤティカヌ刻印装備]]></title>
-        <id>http://akira773.blog22.fc2.com/blog-entry-775.html</id>
-        <link href="http://akira773.blog22.fc2.com/blog-entry-775.html"/>
-        <updated>2023-09-18T12:21:37.000Z</updated>
-        <summary type="html"><![CDATA[どうも。今回はヤティカヌ刻印装備の記事ですまとまった自分で分かりやすいのを自分用に記事として残しておこうぜみたいな感じです]]></summary>
-        <author>
-            <name>リヤン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冬将軍。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-652.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-652.html"/>
-        <updated>2023-09-18T11:48:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。ユニーク三兄弟。メインシーフ1069Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
