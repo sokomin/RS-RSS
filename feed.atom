@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-20T09:28:09.346Z</updated>
+    <updated>2023-10-20T09:47:40.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スウェルファーVS収容所]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-205.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-205.html"/>
+        <updated>2023-10-20T09:44:25.000Z</updated>
+        <summary type="html"><![CDATA[すっかり秋らしくなり、過ごしやすい日が続いております。過ごしやすい日が続くとどうなるのですか？チケットの欠片を集める日が続きます。というわけで今回は、忘れられた地下収容所 B1に来ました。お手本のような対ビーストテイマー／サマナー陣地です。ですが第三の猫に抜かりはありません。主力であるスウェルファーを最初に召喚することでセンターに配置し、さらにAIをOFFにすることでスタンドプレー控えめ健康志向。さあ、ウ]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石の日の日]]></title>
         <id>kaze.gg-blog.com://entry/186</id>
