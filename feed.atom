@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T16:47:31.895Z</updated>
+    <updated>2023-10-21T17:13:59.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近よく1100U落ちる！]]></title>
+        <id>http://wh-rs.jugem.jp/?eid=337</id>
+        <link href="http://wh-rs.jugem.jp/?eid=337"/>
+        <updated>2023-10-21T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
+
+
+ 
+
+ 
+
+1100Uって強いのかな？
+
+安く売られてるのしか見てないからとりあえずG倉庫詰...]]></summary>
+        <author>
+            <name>亜鬼にゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漆黒の暗躍[E]]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-685.html</id>
@@ -1666,55 +1685,6 @@ But...I WILL get there, eventually, someday heh]]></summary>
         <summary type="html"><![CDATA[こんばんは。可愛いコスチュームです。全戦績 232勝181敗 勝率56.0%です。メインシーフ、1070Lv達成です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運営さんやばいやつおる(ﾟдﾟ` )]]></title>
-        <id>https://ameblo.jp/keykeykey2010/entry-12821497933.html</id>
-        <link href="https://ameblo.jp/keykeykey2010/entry-12821497933.html"/>
-        <updated>2023-09-22T04:59:32.000Z</updated>
-        <summary type="html"><![CDATA[(o・Д・o)ｺ(o・ω・o)ﾝ(o・∀・o)ﾁｬ♪
-久しぶりの露店2日目。
-値段の付け方が悪いのか需要が無いかのどっちかだとは思う
-売れる物がめちゃくちゃ偏ってるので一旦商品の補充にお店を閉めて
-再度露店の準備…を始めて数秒後
-
-（ﾋｰｯ運営さん！やヴぁい人おるぅぅぅﾀｽｹﾃｰｯ！）
-と心の中で思いつついうほど急ぐ事も無く普段通り開店。
-
-やばい人かと思ったら蛍ちゃんだった。
-やばい人で間違いはなかった(ฅ'ω'ฅ)​♥
-キャラ名とか一切関係ないマスオさん呼びするの蛍ちゃんだけなので
-そこまでずっとたまにくる知らない人からの絡みだと思ってたので
-あたりさわりなさそうな返事してたヾ(@⌒￢⌒@)ﾉ
- 
-蛍ちゃん呼びも蛍ちゃんキャラもう居ないだろうから変えた方が良いのかなぁ？
-見る度にキャラ名違う高レベルキャラ披露してくれるんだけどｗ
-今の所、候補は＜きんちゃん＞か＜ぴーちゃん＞なので
-気に入ってもらえたら変えてみよう。
-普通に蛍ちゃんってよんでそうだけども_(:3 」∠)_
- 
-後たまに挟む「寂しかった」とか
-前回耳した時にも言ってたような気がするんだけど
-普段からどこぞのマダムでもそういう手口で引っ掛けてるのかな？(ﾟдﾟ` )
- 
-
-少し会わない間にスピリチュアルな人になったと思われた。
-「あれあれ～何だっけあれだよ～」って感じの会話になると
-大体横文字で教えてくれるから聞いてもピンとこない事が多いｗ
-あとでトライもヤフーで検索したら「あ～これこれ！」で合ってた。
- 
-さ、露店してからそろそろ1週間経つので
-またINしてみようかなぁ(ฅ'ω'ฅ)​♥
-露店しかしてないｗｗｗ
-アイテムの値段も以前から大体変えてないので
-一生売れないんじゃないかというくらい売れ残ってます！٩(๑`ȏ´๑)۶
-たまに買い叫びの中の持ってる物を並べてると売れてる事もあるので
-適当に置いた値段そのままで売れていてお店が潰れないで済んでいますｗ
-絶対買った人見てないけどｗ☆ありが㌧☆ ヾ(･ω･｡)ﾉ
-(((((っ ・ω・)っﾏﾀﾈｰ♪]]></summary>
-        <author>
-            <name>きぃこんぱ～んちっ( ﾟ∀ﾟ)Ξ〇) ﾟﾛﾟ)∵＜出張版☆＞</name>
         </author>
     </entry>
     <entry>
