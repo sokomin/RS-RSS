@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T14:47:45.121Z</updated>
+    <updated>2023-10-21T15:14:57.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[漆黒の暗躍[E]]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-685.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-685.html"/>
+        <updated>2023-10-21T15:08:39.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。勇ましいコスチュームです。チケット集めで何とかGET♪メインシーフ1090Lvです(*'▽')いつも読んで下さって誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[風邪ひいた]]></title>
         <id>http://wh-rs.jugem.jp/?eid=336</id>
