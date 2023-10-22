@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T23:47:55.769Z</updated>
+    <updated>2023-10-22T01:15:38.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1675,16 +1675,6 @@ But...I WILL get there, eventually, someday heh]]></summary>
         <summary type="html"><![CDATA[～これまでのあらすじ～物理ペットを使いたくて限界突破を進めたが、失ったカケラもまた多かった。とりあえず何の因果かレベル850まで育った金鯖キャラでヘクトルクエを進める。ところが、限界未突破の茶室天上ダメージではクエストが遅々として進まず、しびれを切らした第三の猫は金鯖キャラを限界突破させる。限界突破1回目に必要なカケラは200個。そのかいあって無事ヘクトルクエをクリアするも、報酬のカケラ個数を確認し画面]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[決闘場。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-656.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-656.html"/>
-        <updated>2023-09-22T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。可愛いコスチュームです。全戦績 232勝181敗 勝率56.0%です。メインシーフ、1070Lv達成です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
