@@ -283,16 +283,6 @@
           "wordCount": 271,
           "title": "無題",
           "imageUrl": null
-        },
-        {
-          "id": "kaze.gg-blog.com://entry/181",
-          "author": null,
-          "description": "{{ number }}\nexport default {\n  data() {\n    return {\n      number: 0\n    };\n  },\n  methods: {\n    addOne() {\n      this.number = this.number + 1;\n    }\n  }\n};",
-          "link": "http://kaze.gg-blog.com/other/20230923_181",
-          "publishedOn": "2023-09-23T06:59:55.000Z",
-          "wordCount": 246,
-          "title": "無題",
-          "imageUrl": null
         }
       ]
     },
