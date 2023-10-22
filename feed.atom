@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T17:47:33.594Z</updated>
+    <updated>2023-10-22T18:19:22.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1582,90 +1582,6 @@ export default {
 };]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無題]]></title>
-        <id>kaze.gg-blog.com://entry/180</id>
-        <link href="http://kaze.gg-blog.com/other/20230923_180"/>
-        <updated>2023-09-23T06:12:47.000Z</updated>
-        <summary type="html"><![CDATA[function getImage(){
-  //画像ファイル名を配列で保持
-  var arr = ['https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448780', 'https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448779', 'https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448778'];
- 
-  //ランダムで画像ファイルを取得して表示する
-  var obj = document.getElementById("im1");
-  var a = Math.floor(Math.random() * arr.length);
-  obj.src = arr[a];
-}]]></summary>
-        <author>
-            <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[September 2023 Update Guide (COMPLETE GUIDE)]]></title>
-        <id>tag:blogger.com,1999:blog-622089654895304373.post-7245949129364258721</id>
-        <link href="https://diaanrs.blogspot.com/2023/09/september-2023-update-guide-complete.html"/>
-        <updated>2023-09-23T06:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Table Of Contents
-I:  Uposmeyer Field
-II: Uposmeyer Auxiliary Items
-III: Notes
-
-
-I: Uposmeyer Field
--4 new fields have been added to the game: 
-Northern Uposmeyer [1550~1625]
-Dimension Northern Uposmeyer (PvP) [1550~1625]
-Southwest Uposmeyer [1600~1675]
-Dimension Southwest Uposmeyer (PvP) [1600~1675]
--There was also an SD added:
-Bridge of Hope [1600~2000]
-
-
-Detailed Paths are listed in the table below
-
-
-
-If you manage to beat the SD within 7 minutes, you get a fancy health bar:
-
-
-Uposmeyer Field Enhancement Material (for UAux. items, detailed in Pt. 3)
-
-You get ^that^ from beating the SD and from doing the repeatable quests (listed below)
-
-
-Uposmeyer Sub Quests were also added, 5 of em even
-
-
-
-
-II: Uposmeyer Auxiliary Items
-
-
-The following UAux items replace the current system of auxiliary items:
-
-That being said, they can be upgraded and upgraded some more after that. via smelting:
-
-The max level for these UAux items is Lvl30
-
-
-Below are two tables, the normal one and then the pet one
-
-
-
-
-
-III: Notes
-
-Welp, that was even shorter than expected...I even split it into two parts.
-Def shorter than the Jan2023 update though either way heh
-
-
-At the time that I type this up, I'm a long way away from Upos (1110 and rising)
-But...I WILL get there, eventually, someday heh]]></summary>
-        <author>
-            <name>noreply@blogger.com (Unknown)</name>
         </author>
     </entry>
     <entry>

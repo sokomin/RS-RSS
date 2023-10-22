@@ -293,16 +293,6 @@
           "wordCount": 246,
           "title": "無題",
           "imageUrl": null
-        },
-        {
-          "id": "kaze.gg-blog.com://entry/180",
-          "author": null,
-          "description": "function getImage(){\n  //画像ファイル名を配列で保持\n  var arr = ['https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448780', 'https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448779', 'https://blog.cnobi.jp/v1/blog/user/90697e8e8cf70c76e3dff5535cdb521f/1695448778'];\n \n  //ランダムで画像ファイルを取得して表示する\n  var obj = document.getElementById(\"im1\");\n  var a = Math.floor(Math.random() * arr.length);\n  obj.src = arr[a];\n}",
-          "link": "http://kaze.gg-blog.com/other/20230923_180",
-          "publishedOn": "2023-09-23T06:12:47.000Z",
-          "wordCount": 244,
-          "title": "無題",
-          "imageUrl": null
         }
       ]
     },
@@ -1045,16 +1035,6 @@
           "wordCount": 2979,
           "title": "New background and header~",
           "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-622089654895304373.post-7245949129364258721",
-          "author": "noreply@blogger.com (Unknown)",
-          "description": "Table Of Contents\nI:  Uposmeyer Field\nII: Uposmeyer Auxiliary Items\nIII: Notes\n\n\nI: Uposmeyer Field\n-4 new fields have been added to the game: \nNorthern Uposmeyer [1550~1625]\nDimension Northern Uposmeyer (PvP) [1550~1625]\nSouthwest Uposmeyer [1600~1675]\nDimension Southwest Uposmeyer (PvP) [1600~1675]\n-There was also an SD added:\nBridge of Hope [1600~2000]\n\n\nDetailed Paths are listed in the table below\n\n\n\nIf you manage to beat the SD within 7 minutes, you get a fancy health bar:\n\n\nUposmeyer Field Enhancement Material (for UAux. items, detailed in Pt. 3)\n\nYou get ^that^ from beating the SD and from doing the repeatable quests (listed below)\n\n\nUposmeyer Sub Quests were also added, 5 of em even\n\n\n\n\nII: Uposmeyer Auxiliary Items\n\n\nThe following UAux items replace the current system of auxiliary items:\n\nThat being said, they can be upgraded and upgraded some more after that. via smelting:\n\nThe max level for these UAux items is Lvl30\n\n\nBelow are two tables, the normal one and then the pet one\n\n\n\n\n\nIII: Notes\n\nWelp, that was even shorter than expected...I even split it into two parts.\nDef shorter than the Jan2023 update though either way heh\n\n\nAt the time that I type this up, I'm a long way away from Upos (1110 and rising)\nBut...I WILL get there, eventually, someday heh",
-          "link": "https://diaanrs.blogspot.com/2023/09/september-2023-update-guide-complete.html",
-          "publishedOn": "2023-09-23T06:01:00.000Z",
-          "wordCount": 3122,
-          "title": "September 2023 Update Guide (COMPLETE GUIDE)",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwmfKmj_HUtm2PfPUQgz9fnjYxR9X6JeFHVceNEuw1LMhdN2oXQFgWVD8XvGEHUUCZgw5AyupsKVK2h-RU8G0RNi3SJpbw5q41yIIOgFILM5BFBzaWYU7y-DLzFK7EDuMTHdyUuuzmnPvuufyby08abIvbE0A9Q_1LpKv1cPzn8TbxYkKfXZ1qXmmzdcxn/w1200-h630-p-k-no-nu/upos%201.png"
         }
       ]
     },
