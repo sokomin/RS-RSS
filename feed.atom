@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T02:03:14.186Z</updated>
+    <updated>2023-10-22T02:33:32.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New background and header~]]></title>
+        <id>tag:blogger.com,1999:blog-622089654895304373.post-6360220492318484213</id>
+        <link href="https://diaanrs.blogspot.com/2023/10/new-background-and-header.html"/>
+        <updated>2023-10-22T02:32:00.000Z</updated>
+        <summary type="html"><![CDATA[If you loaded up my blog here, and noticed the design change (yea, again) then wondered why...
+Well, it is all thanks to AI frankly...was able to get some spicy images after tinkerin around with it
+
+
+-new avatar everywhere I can be found (even on insta.)
+-new blog background with guild emblem colors
+-new blog header in theme of the red sky (lore reference, for those who never knew)]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近よく1100U落ちる！]]></title>
         <id>http://wh-rs.jugem.jp/?eid=337</id>
