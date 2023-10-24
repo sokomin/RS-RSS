@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T23:47:33.576Z</updated>
+    <updated>2023-10-24T01:10:55.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1634,16 +1634,6 @@ kitaaaaaaaaaaaaaaaaaaaa
         <summary type="html"><![CDATA[日が落ちるのがだいぶ早くなったと感じますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[血の渇き。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-658.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-658.html"/>
-        <updated>2023-09-24T12:59:02.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。緻密なコスチュームです。ギルドメンバーさんのお陰で旗バフGetです。Lv1でこれは大きいです。凄い装備です@@いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
