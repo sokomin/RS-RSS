@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T02:47:36.427Z</updated>
+    <updated>2023-10-24T03:17:35.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1624,16 +1624,6 @@ kitaaaaaaaaaaaaaaaaaaaa
         <summary type="html"><![CDATA[S鯖だけ経験値2倍の土日に接続障害、しかも公式発表は接続し辛いという表現で濁され、かつ補填も全サーバーの全ユーザーが対象というモヤモヤした内容だった。全員に配ったことがモヤるんじゃなくて、障害の対象者を特定することが困難という理由で全員に配ってるところがモヤるんだよね。容易に特定出来るじゃん、障害はS鯖だけなんだしw手間掛けたくないのがミエミエで、言い訳も適当過ぎて呆れてしまう・・・S鯖は金鯖後、他鯖]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週末の活動]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-818.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-818.html"/>
-        <updated>2023-09-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日が落ちるのがだいぶ早くなったと感じますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
