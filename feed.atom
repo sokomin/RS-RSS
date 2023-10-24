@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T14:47:39.761Z</updated>
+    <updated>2023-10-24T15:18:44.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[どれにする？]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-390.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-390.html"/>
+        <updated>2023-10-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[10/4から始まったBIGログインイベントで古都広場↓にいるイベントガイドさんから毎日アイテムをもらっていましたがそれが最後まできました＾＾それで20・21日目にもらえるのがレア超越の書選択チケットで開いてみると中身はこんな感じだったりします。ちなみにオオカミ少年はいろんなスキルを取っているため高レベルなのですがいまだに超越スキルを取っていなくてこれを機会に取ってみたほうがいいのかな？？と考え中でした！わたし]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ログインイベントのやつう]]></title>
         <id>http://wh-rs.jugem.jp/?eid=338</id>
