@@ -364,16 +364,6 @@
           "wordCount": 562,
           "title": "【REDSTONE】経験値ドロップイベント結果",
           "imageUrl": null
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-961.html",
-          "author": "JEFRY",
-          "description": "S鯖だけ経験値2倍の土日に接続障害、しかも公式発表は接続し辛いという表現で濁され、かつ補填も全サーバーの全ユーザーが対象というモヤモヤした内容だった。全員に配ったことがモヤるんじゃなくて、障害の対象者を特定することが困難という理由で全員に配ってるところがモヤるんだよね。容易に特定出来るじゃん、障害はS鯖だけなんだしw手間掛けたくないのがミエミエで、言い訳も適当過ぎて呆れてしまう・・・S鯖は金鯖後、他鯖",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-961.html",
-          "publishedOn": "2023-09-25T00:38:31.000Z",
-          "wordCount": 562,
-          "title": "【REDSTONE】金鯖後のS鯖状況(2W経過後)",
-          "imageUrl": null
         }
       ]
     },
@@ -406,6 +396,16 @@
       "feedUrl": "http://wh-rs.jugem.jp/?mode=rss",
       "siteUrl": "http://wh-rs.jugem.jp/",
       "articles": [
+        {
+          "id": "http://wh-rs.jugem.jp/?eid=338",
+          "author": "亜鬼にゃん",
+          "description": "JUGEMテーマ：RED STONE\r\n\r\n\r\n \r\n\r\n \r\n\r\n風邪、咳がすごくて狩りできないよ( ;∀;)\r\n\r\nチケット一日２枚計画崩れ...",
+          "link": "http://wh-rs.jugem.jp/?eid=338",
+          "publishedOn": "2023-10-24T12:49:00.000Z",
+          "wordCount": 807,
+          "title": "ログインイベントのやつう",
+          "imageUrl": "http://img-cdn.jg.jugem.jp/5f8/3521731/20231024_3164330.png"
+        },
         {
           "id": "http://wh-rs.jugem.jp/?eid=337",
           "author": "亜鬼にゃん",
