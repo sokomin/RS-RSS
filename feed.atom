@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T14:48:03.117Z</updated>
+    <updated>2023-10-25T15:16:43.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UMU祭り。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-689.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-689.html"/>
+        <updated>2023-10-25T15:09:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。UMUドロップ(*'▽')チケット交換の職鎧を育てました(´ω｀*)1100Lv到達です(/・ω・)/いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.10.25 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/ba22f2973a32c81361c28f3880d61541</id>
