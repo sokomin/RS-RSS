@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T02:47:34.470Z</updated>
+    <updated>2023-10-26T03:16:38.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1562,26 +1562,6 @@ SEPTEMBER UPDATE
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】装備選びのセオリー(知識職)]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-963.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-963.html"/>
-        <updated>2023-09-26T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[知識職でヤティカヌ入り(Lv1250)を目指すための装備選び、誰もが一度は悩むはず。自分は装備構成を考え、実現に向けて取り組んでいる過程が何より楽しいが、中には面倒！と感じる人もいるだろう。そんな方向けに、知識職装備選びのセオリーを紹介しようとおもう。ただし、所詮は持ちキャラの最高Lv1407であるため、甘いところは多々あるとは思うが、そこはご容赦いただきたい。(セオリー1)頭は属性ダメージの全吸収、足はステータ]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V鯖の時間]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-386.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-386.html"/>
-        <updated>2023-09-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[そこそこ前からの話になるのですが最後の引退前のわたしは18～19時頃にもRS時間がありその時間はB鯖にインしていたのですが現在ではその時間B鯖にインすることはほぼありません。これは復帰後に少し生活が変わっているという事もあるのですが前より少ないながらもRSにインする事は可能だったりします。ただし本鯖にインして長い用事などをこなすにはちょっと時間が足りないかな…という事でこの時間はV鯖に行くことがほとんどだった]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
