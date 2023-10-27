@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T01:58:36.743Z</updated>
+    <updated>2023-10-27T02:23:37.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1535,16 +1535,6 @@ U品はコンスタントに集まるので、ギルドクエのU品分解には
         <link href="https://medaka1985.fc2.net/blog-entry-662.html"/>
         <updated>2023-09-28T12:03:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。ゲリオ討伐から。↑良いのが出ました(*'▽')ずっと気になってた職鎧UMUです！ビーストテイマー性向100%です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刑場の霧。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-661.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-661.html"/>
-        <updated>2023-09-27T14:19:41.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。愛らしいコスチュームです。高額買取中です(ありがたやぁ)。怖い名前のUMUです。メインシーフ、1071Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
