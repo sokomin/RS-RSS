@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T18:47:50.179Z</updated>
+    <updated>2023-10-28T19:11:46.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1433,16 +1433,6 @@ U品はコンスタントに集まるので、ギルドクエのU品分解には
         <link href="https://medaka1985.fc2.net/blog-entry-664.html"/>
         <updated>2023-09-30T05:36:30.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。愛くるしいコスチュームです。B鯖にて。サブの闘士525Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[味噌󠄀ラーメン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-663.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-663.html"/>
-        <updated>2023-09-29T06:48:27.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。味噌ベースにチーズトッピングです。濃厚な出汁ともやし+チャーシューが最高です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
