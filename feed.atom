@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T01:56:49.515Z</updated>
+    <updated>2023-10-28T02:21:23.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1516,27 +1516,6 @@ U品はコンスタントに集まるので、ギルドクエのU品分解には
 まぁ、本当のところは分からないですけどね…。]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装備強化した！]]></title>
-        <id>http://wh-rs.jugem.jp/?eid=332</id>
-        <link href="http://wh-rs.jugem.jp/?eid=332"/>
-        <updated>2023-09-28T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
-
-
- 
-
- 
-
- 
-
-1000U装備の箱でマナウォ入手してたのですが、
-
-先日ランデ...]]></summary>
-        <author>
-            <name>亜鬼にゃん</name>
         </author>
     </entry>
     <entry>
