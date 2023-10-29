@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-29T14:47:39.417Z</updated>
+    <updated>2023-10-29T15:15:12.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[それいけカニテイマ　【チケット集め編】]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-823.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-823.html"/>
+        <updated>2023-10-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この季節は寒暖差の影響もあって鼻水が止まらないですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヘクトルクエ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-692.html</id>
