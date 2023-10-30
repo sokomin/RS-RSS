@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T14:30:18.646Z</updated>
+    <updated>2023-10-30T14:47:51.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[製錬チャレンジ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-694.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-694.html"/>
+        <updated>2023-10-30T14:39:26.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。キュートなコスチュームです。Wユニーク、Get(*'▽')勝負、勝負～！＼(^o^)／メインシーフ1109Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[攻撃回避Lv1 DX］お守り。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-693.html</id>
