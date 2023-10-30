@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T20:28:38.631Z</updated>
+    <updated>2023-10-30T20:47:50.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1475,16 +1475,6 @@ SPと相談してどれを交換するか検討しようと思います。
         <summary type="html"><![CDATA[夜は涼しくなってきてエアコンが要らないくらいなので網戸にして外の風に当たっていますど田舎なので鈴虫の大合唱が聞こえてしまいますが何かと風流なものですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三猿。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-665.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-665.html"/>
-        <updated>2023-10-01T08:40:12.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。東京タワーさん、オッスオッス。相変わらず、神社巡りです。湯葉尽くしです。見ざる聞かざる言わざるで有名な、日光東照宮です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
