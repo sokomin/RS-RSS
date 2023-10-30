@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T22:47:42.628Z</updated>
+    <updated>2023-10-30T23:15:56.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】アニバーサリーイベント結果]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-966.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-966.html"/>
+        <updated>2023-10-30T22:53:49.000Z</updated>
+        <summary type="html"><![CDATA[前半飛ばして、後半失速は、いつものパターン。10/30.31は出張のため、実質的に自分のアニバイベントは10/29で終了。結果は以下。1000UMU武器、防具巨商5選択図案書3クリーチャーのマナ極、大全て最近、あまり配られないから製錬ガードが欲しかったけど、1個500枚(チケ10枚)は集める気にならず。ちなみに、チケット集めは主に獣人で行った。狩場は月の出右上から始め、日の出PVPに移行し、いずれも数狩れるため比較的楽だった。適]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ルーレットの期待値]]></title>
         <id>kaze.gg-blog.com://entry/189</id>
