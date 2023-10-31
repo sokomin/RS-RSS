@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T14:47:56.277Z</updated>
+    <updated>2023-10-31T15:17:23.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[かろうじて。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-391.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-391.html"/>
+        <updated>2023-10-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[約１か月のチケイべが終了となりました！いつも通りわたしは周りと比べるともらえたチケ数は少なめでしたがそこそこ頑張ったので1000ULT選択boxは防具と武器の両方もらえました＾＾これだけでチケ９０枚なのでわたしにはかなりきつかったんですけど＾＾；もらう前から中身は何をもらうとか考えても仕方がないと思ってたのでまだ箱から何だすか決めてませんがオオカミ少年は攻防合一を装備してるので1000um必要ないと思い武器は恋は]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウルトラ大地の怒りNx]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-695.html</id>
