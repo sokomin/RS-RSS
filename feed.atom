@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T19:27:55.581Z</updated>
+    <updated>2023-10-31T19:48:08.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1485,16 +1485,6 @@ SPと相談してどれを交換するか検討しようと思います。
         <summary type="html"><![CDATA[デイリーも消化したりしなかったりですが、最近ぼちぼちログインするようになりました。ゲームなんてものは、気が向いたらやればいいし、つまらないと感じたらやらなければいいと思います。スフィアは買い物カゴ...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生命のスープ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-666.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-666.html"/>
-        <updated>2023-10-02T07:45:18.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ゆく川の流れは絶えずしてしかも元の水にあらず。風情があります。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
