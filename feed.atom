@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T02:47:58.680Z</updated>
+    <updated>2023-10-31T03:16:59.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1475,16 +1475,6 @@ SPと相談してどれを交換するか検討しようと思います。
         <summary type="html"><![CDATA[こんばんは。ゆく川の流れは絶えずしてしかも元の水にあらず。風情があります。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10月からの予定]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-819.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-819.html"/>
-        <updated>2023-10-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[夜は涼しくなってきてエアコンが要らないくらいなので網戸にして外の風に当たっていますど田舎なので鈴虫の大合唱が聞こえてしまいますが何かと風流なものですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
