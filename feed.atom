@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T03:47:36.086Z</updated>
+    <updated>2023-11-01T04:19:44.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1485,16 +1485,6 @@ SPと相談してどれを交換するか検討しようと思います。
 　使ってみてどうだったかというと解放OP変換済みのT魔力の童心よりわずかに火力が高かったので作って良かったという感じですね。まぁ変換の内容の違いなだけな気がし…]]></summary>
         <author>
             <name>曇りのち晴れ４８日</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近買った物とか作った物とか]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202310030000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202310030000/"/>
-        <updated>2023-10-02T16:11:19.000Z</updated>
-        <summary type="html"><![CDATA[デイリーも消化したりしなかったりですが、最近ぼちぼちログインするようになりました。ゲームなんてものは、気が向いたらやればいいし、つまらないと感じたらやらなければいいと思います。スフィアは買い物カゴ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
