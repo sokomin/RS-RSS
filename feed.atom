@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T08:20:35.394Z</updated>
+    <updated>2023-11-01T08:32:58.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新着イベント情報]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1269.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1269.html"/>
+        <updated>2023-11-01T08:30:22.000Z</updated>
+        <summary type="html"><![CDATA[文字通りのイベント月間らしいです。毎週↑画像リンク先のページでイベント公開はされると思います。さしあたってまず公開されてるのが経験値＆ドロップアップとログインスタンプイベントの2つ。メンテごとに新規開催イベントが表示されるようです。合わせて課金キャンペーンも同ページにて公開されてるので気になる方はそちらもご覧ください。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..前からお気付きでしょうけど、イベント]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弓のステ・装備をいじりました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202311010000/</id>
