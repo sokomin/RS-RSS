@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T02:47:29.523Z</updated>
+    <updated>2023-11-02T03:16:57.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1529,16 +1529,6 @@ SPと相談してどれを交換するか検討しようと思います。
         <summary type="html"><![CDATA[こんにちは。古屋敷です。教会です。何故か憧れます。身体に良さそうです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[優雅な者]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-387.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-387.html"/>
-        <updated>2023-10-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現在V鯖で活動中のリトルシェキララはV鯖進出の基礎を築いたキャラなのですが装備は武器＆補助武器以外は協会装備で活動しています＾＾武器は当時の所持金すべてを使ってリーチトゥジエンド買いました＾＾そのシェキララですがそろそろ協会装備の強化が終わり最後の仕上げと思い協会図案書の優雅な者をつけることにしました！知識リトルなので優雅な者です＾＾協会装備で活動中のキャラは結構いますが本鯖だとそこまでする前におさ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
