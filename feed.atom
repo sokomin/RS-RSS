@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T09:27:47.950Z</updated>
+    <updated>2023-11-02T09:47:53.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023.10月のドロップ~♪]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/c1886a2e9acc0b7d488ab955e0ae451b</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/c1886a2e9acc0b7d488ab955e0ae451b?fm=rss"/>
+        <updated>2023-11-02T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[11月です。
+
+
+
+
+
+
+
+今回は全体的にしょぼいですね。
+緋s槍も狩場を変えてからU品の出がわるくなったようで、G倉庫も若干空きが出るように。
+頑張って狩りをした方が良いのかな(´・ω・`)
+狩りめんどい(´・ω・`)
+
+
+5転したWIZくんとテイマが限界突破クエチャレンジ中です。
+狭間は物理よりも意外と楽だったというオチ付き。
+50個かけら集めるのが大変ですが、ギルドデイリーこなしながら頑張ろうと思います。
+
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[光奏師日記short　1000000000！！！]]></title>
         <id>https://ankokuprpr.blog.fc2.com/blog-entry-22.html</id>
