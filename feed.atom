@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T19:12:57.125Z</updated>
+    <updated>2023-11-02T19:27:37.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1568,16 +1568,6 @@ SPと相談してどれを交換するか検討しようと思います。
         <summary type="html"><![CDATA[事前に少しチケット配布とか、ボックスからチケット欠片出たりしてましたが今日からアニバーサリーモードが始まりのようです。これに伴ってイベントが多々開催されてます。どういったものが開催されてるから上記画像クリックでイベントページに飛べるのでそちらで確認して頂ければと思います。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..課金キャンペーンの方はアニバ記念セットとフェロウロトキャンペーンが開催中。それでは]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軽井沢。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-668.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-668.html"/>
-        <updated>2023-10-04T07:20:11.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。古屋敷です。教会です。何故か憧れます。身体に良さそうです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
