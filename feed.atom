@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T05:48:03.158Z</updated>
+    <updated>2023-11-03T06:21:08.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[940UMUと反転職ハイブリッド]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-206.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-206.html"/>
+        <updated>2023-11-03T06:00:03.000Z</updated>
+        <summary type="html"><![CDATA[思い返してみれば、NPCミッション報酬で一番効果があったのは、クリーチャーの力の指輪かもしれません。こんにちは、秋の暖かい日から第三の猫です。コクーンから素のレビットが出ました。どこにでもいるらしいのですが。私は始めて見ます。レビの素（もと）は水に溶かして使うのですね。覚えました。さて今回は、ミニペット合成を使ってうなぎを活性化さているところから。（光ペットはいまだに入手できていません。どこにいるん]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[招き猫。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-697.html</id>
