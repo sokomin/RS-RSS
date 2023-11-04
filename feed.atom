@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T16:48:10.356Z</updated>
+    <updated>2023-11-04T17:13:14.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1492,16 +1492,6 @@ SPと相談してどれを交換するか検討しようと思います。
         <summary type="html"><![CDATA[取引不可アイテム（※ほかのキャラクターと取引可能）さん。箱から出てくるたびに困惑するのですが、これって結局どっちでしたっけ？・・・こっちが取引可能なやつですね。というわけで、こんにちは。第三の猫です。一気に秋も深まってきて、もっと段階的に気温を下げてほしいと思う昨今、いかがお過ごしでしょうか。今回は久しぶりにミズナ洞窟に来ています。ちなみにHPバーの飾りは、ログインしていたらいつの間にかもらえた金鯖H]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡チャレンジ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-670.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-670.html"/>
-        <updated>2023-10-06T04:58:54.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。鏡の魔法書、チャレンジ♪残念！いつも読んで下さって誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
