@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-05T18:47:52.329Z</updated>
+    <updated>2023-11-05T19:12:59.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1502,16 +1502,6 @@ SPと相談してどれを交換するか検討しようと思います。
         <summary type="html"><![CDATA[8月から月の半分を愛媛県で生活しているオッサンです。仕事も定時上がりだから暇を持て余してる。アニバイベントもあるし、ゲーミングノートでも買うか？ってことで即購入。Wifiがしょぼくてプレイフィーリングはイマイチだけど、デイリーくらいはやれる感じ。再来週にはネット環境も整うし、愛媛県でアニバモード満喫か？と思いきや、自宅のプレイが快適に感じ過ぎて、こいつをサクっと交換できてしまう。案外、ポロポロ落ちるか]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブログランキング。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-671.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-671.html"/>
-        <updated>2023-10-07T06:48:53.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。お陰様です！感謝感謝(*'▽')ビーストテイマー957Lvです。メインシーフ1073Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
