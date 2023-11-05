@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T23:47:33.834Z</updated>
+    <updated>2023-11-05T01:16:41.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[おうち焼き鳥]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202311050000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202311050000/"/>
+        <updated>2023-11-05T00:44:34.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！今日はゲームではなく、タイトル通り「おうち焼き鳥」よくTwitterに載せたりしてるのですが、ゲーム内でもたまに声をかけられます笑悪魔のことより聞かれる回数多いかも、、、（S鯖最強悪魔なのに悪...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オーバーフロー]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-699.html</id>
