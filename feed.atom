@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T23:47:55.221Z</updated>
+    <updated>2023-11-07T01:12:54.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1492,16 +1492,6 @@ SPと相談してどれを交換するか検討しようと思います。
         <summary type="html"><![CDATA[朝はだいぶ冷えるようになりましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[醤油ラーメン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-672.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-672.html"/>
-        <updated>2023-10-08T12:52:01.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。全部乗せ+チャーシュー丼です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
