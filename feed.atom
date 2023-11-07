@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-07T02:47:39.086Z</updated>
+    <updated>2023-11-07T03:16:47.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1472,26 +1472,6 @@ SPと相談してどれを交換するか検討しようと思います。
         <summary type="html"><![CDATA[こんばんは。UMUドロップです。ついに出ました。メインシーフ1074Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】不思議なチケットイベント_2023年]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-965.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-965.html"/>
-        <updated>2023-10-08T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[頑張る人用不思議チケット230枚(欠片11,500枚)なかなか大変だから、スペシャル等級白紙図案書25枚(1,250)は諦めていいかも？頑張らない人用不思議チケット95枚(欠片4,750枚)1000UMU武器は相当値下がりしてて、強襲者と金銀くらいしか労力に見合わない。割り切って捨てるのも全然あり。みなさん、無理せず計画的に集めましょう！]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニバイベント開始]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-820.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-820.html"/>
-        <updated>2023-10-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[朝はだいぶ冷えるようになりましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
