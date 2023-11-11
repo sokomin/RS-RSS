@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-11T03:28:19.720Z</updated>
+    <updated>2023-11-11T03:47:35.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1372,25 +1372,6 @@ PS４もやってます＼(^o^)／
         <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです。クリーチャー覚醒です。残念！メインシーフ1075Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メカコスチャレンジ！]]></title>
-        <id>http://wh-rs.jugem.jp/?eid=334</id>
-        <link href="http://wh-rs.jugem.jp/?eid=334"/>
-        <updated>2023-10-12T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
-
-
- 
-
- 
-
- 
-
-秘奥のスペシャルコスチュー...]]></summary>
-        <author>
-            <name>亜鬼にゃん</name>
         </author>
     </entry>
     <entry>
