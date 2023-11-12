@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T02:47:37.532Z</updated>
+    <updated>2023-11-12T03:16:29.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[装備変更とか]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202311120000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202311120000/"/>
+        <updated>2023-11-12T03:14:36.000Z</updated>
+        <summary type="html"><![CDATA[まず、黒魔が微風レベルになりそうだったので、これを買いました。微風からステが－35％になるので、忍耐→エステルにしました。これで微風でもステータスが減らなくなりました。次に、弓の楔を特殊強化しました。...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[経験値イベント中なので]]></title>
         <id>http://wh-rs.jugem.jp/?eid=340</id>
