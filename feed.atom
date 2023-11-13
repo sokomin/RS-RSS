@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-13T01:14:20.298Z</updated>
+    <updated>2023-11-13T02:04:43.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1333,29 +1333,6 @@ Well, it is all thanks to AI frankly...was able to get some spicy images after t
         <summary type="html"><![CDATA[こんばんは。クリーチャー構成です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メカコスチャレンジ?]]></title>
-        <id>http://wh-rs.jugem.jp/?eid=335</id>
-        <link href="http://wh-rs.jugem.jp/?eid=335"/>
-        <updated>2023-10-14T13:31:42.000Z</updated>
-        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
-
-
- 
-
- 
-
- 
-
-〜前回のあらすじ〜
-
- 
-
-サマナのメカコスを...]]></summary>
-        <author>
-            <name>亜鬼にゃん</name>
         </author>
     </entry>
     <entry>
