@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T02:47:41.125Z</updated>
+    <updated>2023-11-14T03:17:17.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1323,16 +1323,6 @@ Well, it is all thanks to AI frankly...was able to get some spicy images after t
         <summary type="html"><![CDATA[こんばんは。(・∀・)ｲｲﾈ!!PvP順位です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニバイベント経過報告、石の日3倍イベント等]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-821.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-821.html"/>
-        <updated>2023-10-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[長袖一枚では寒いなぁと出勤時に思うようになりましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
