@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T23:47:45.636Z</updated>
+    <updated>2023-11-15T01:14:27.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1331,16 +1331,6 @@ Well, it is all thanks to AI frankly...was able to get some spicy images after t
         <link href="https://medaka1985.fc2.net/blog-entry-681.html"/>
         <updated>2023-10-17T11:14:23.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。恰好可愛いコスチュームです。Σ(･ω･ﾉ)ﾉ！これは欲しいです。メインシーフ1076Lvです♪いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[懐かしのユニーク。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-680.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-680.html"/>
-        <updated>2023-10-16T13:07:06.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。(・∀・)ｲｲﾈ!!PvP順位です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
