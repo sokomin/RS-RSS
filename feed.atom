@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-17T02:50:02.069Z</updated>
+    <updated>2023-11-17T03:17:42.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1276,16 +1276,6 @@ Well, it is all thanks to AI frankly...was able to get some spicy images after t
         <link href="https://medaka1985.fc2.net/blog-entry-683.html"/>
         <updated>2023-10-19T14:12:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。鮮やかです。海底神殿B2の狩り風景です。オッス！お願いしまーす！残念！闇OPお守りおじさんからです。漆黒の暗躍狙いです。ガッツリ狩りました(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ムーンシャイン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-682.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-682.html"/>
-        <updated>2023-10-18T14:50:20.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。逞しいコスチュームです。知識さんには良いのかな？サブのビーストテイマー959Lvです(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
