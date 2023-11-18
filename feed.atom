@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-18T02:03:47.681Z</updated>
+    <updated>2023-11-18T02:35:24.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1278,16 +1278,6 @@ Well, it is all thanks to AI frankly...was able to get some spicy images after t
 ではまた]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[超越の]お守り]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-683.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-683.html"/>
-        <updated>2023-10-19T14:12:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。鮮やかです。海底神殿B2の狩り風景です。オッス！お願いしまーす！残念！闇OPお守りおじさんからです。漆黒の暗躍狙いです。ガッツリ狩りました(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
