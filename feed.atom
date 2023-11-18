@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-18T04:47:49.181Z</updated>
+    <updated>2023-11-18T05:15:38.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LBGG計画5]]></title>
+        <id>http://scratch2009.blog.fc2.com/blog-entry-220.html</id>
+        <link href="http://scratch2009.blog.fc2.com/blog-entry-220.html"/>
+        <updated>2023-11-18T05:14:42.000Z</updated>
+        <summary type="html"><![CDATA[5倍デーに爆上げしたで。。1053→1092その結果]]></summary>
+        <author>
+            <name>scratch2009</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バンジーの特技。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-712.html</id>
