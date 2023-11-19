@@ -737,16 +737,6 @@
           "wordCount": 1160,
           "title": "おうち焼き鳥",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/5f76724d96e52ec27e0b6bc0f98a99b9eb5530ff.35.9.9.3.jpeg"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202310210000/",
-          "author": "たつ2307",
-          "description": "お久しぶりです。ファン（ブログ読んだことあるだけ）の人がたくさんいたので、きちんと更新します<m(__)m>今年の金鯖の事を全く触れていなかったので、結果から。。。1001レベ　剣士1001レベ　わんこ1000...",
-          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202310210000/",
-          "publishedOn": "2023-10-21T02:08:39.000Z",
-          "wordCount": 1159,
-          "title": "2023年の金鯖は・・・",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/5d0386efdfca96098c960d0c7c837394e6d499bd.35.9.9.3.jpeg"
         }
       ]
     },
@@ -941,6 +931,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-714.html",
+          "author": "medaka1985",
+          "description": "こんばんは。星の谷でUMU杖ドロップです。UMU拾えてとても嬉しいです(*'▽')メインシーフ1132Lvです。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-714.html",
+          "publishedOn": "2023-11-19T13:48:17.000Z",
+          "wordCount": null,
+          "title": "ドラゴニックスタッフ。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-713.html",
           "author": "medaka1985",
