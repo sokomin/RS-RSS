@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-19T14:47:31.475Z</updated>
+    <updated>2023-11-19T15:15:54.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[いい石の日、ランク4攻め等]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-826.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-826.html"/>
+        <updated>2023-11-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[そろそろ年賀状も用意しないとなと思っています年末が近いですねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドラゴニックスタッフ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-714.html</id>
