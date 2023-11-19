@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-19T19:47:43.885Z</updated>
+    <updated>2023-11-19T20:16:50.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1141,25 +1141,6 @@ Well, it is all thanks to AI frankly...was able to get some spicy images after t
         <summary type="html"><![CDATA[こんばんは。勇ましいコスチュームです。チケット集めで何とかGET♪メインシーフ1090Lvです(*'▽')いつも読んで下さって誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[風邪ひいた]]></title>
-        <id>http://wh-rs.jugem.jp/?eid=336</id>
-        <link href="http://wh-rs.jugem.jp/?eid=336"/>
-        <updated>2023-10-21T07:48:59.000Z</updated>
-        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
-
-
- 
-
- 
-
-身内が風邪引いてそれ貰ったっぽい。
-
-（身内の友達も引いてたそうなので感染...]]></summary>
-        <author>
-            <name>亜鬼にゃん</name>
         </author>
     </entry>
     <entry>
