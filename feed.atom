@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-19T02:50:36.614Z</updated>
+    <updated>2023-11-19T03:16:51.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1160,16 +1160,6 @@ Well, it is all thanks to AI frankly...was able to get some spicy images after t
         <summary type="html"><![CDATA[欲しい1000UMU防具が特にないので、銀行に入れておきます・・ｗそんな感じで、狩りはそれなりにやっているので、狩り装備をもう少し強化しようかなと思っています。というわけで、前回の記事を書いてから実施した...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[名誉ある勲章。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-684.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-684.html"/>
-        <updated>2023-10-20T14:50:57.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。クロネの宝石箱からです。勲章なのにヘルメットとな？(高性能)メインシーフ1083Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
