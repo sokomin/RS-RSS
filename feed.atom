@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T18:21:48.073Z</updated>
+    <updated>2023-11-20T18:47:50.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黒魔の狩り装備＆表記・ステ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202311210000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202311210000/"/>
+        <updated>2023-11-20T18:31:07.000Z</updated>
+        <summary type="html"><![CDATA[・武器力比を削ってテマヌエルを付けてみました。与ダメがカンストしているので、敏捷を上げて回避した方がいいかなと思いました。・耳致命型なので、これで十分です。・足エステルを付けてしまったので、ずっと...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[セルフディフェンス。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-715.html</id>
