@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T14:47:39.581Z</updated>
+    <updated>2023-11-21T15:17:56.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なぜか集めちゃってる…？]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-394.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-394.html"/>
+        <updated>2023-11-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[わたしのメインキャラといえばオオカミ少年独白なのですがそのためか他のキャラはやっていないのにオオカミ少年だけが特別やっていることがあります。それがクリーチャーの図鑑登録なのですが黙々と続けていた結果現在の登録が97/120となり残り23個になりました＾＾この図鑑登録なかなか面倒でNやRクリーチャーはちょっとした違いでのバリエーションが多く思ったより出るものに偏りがあるのか残り数が少なくなるに従い、かなりコク]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ファーストステップNx。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-716.html</id>
