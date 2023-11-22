@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-22T13:25:01.067Z</updated>
+    <updated>2023-11-22T13:47:50.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[領域展開。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-717.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-717.html"/>
+        <updated>2023-11-22T13:36:18.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。セクシーなコスチュームです。人気のレア超越です。メインシーフ1135Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.11.22 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/88979a773ab8178cd3f2191bebad3b41</id>
