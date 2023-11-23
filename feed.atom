@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T04:34:23.182Z</updated>
+    <updated>2023-11-23T04:47:41.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あのペットは今]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-207.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-207.html"/>
+        <updated>2023-11-23T04:43:34.000Z</updated>
+        <summary type="html"><![CDATA[そういえば、ビーストテイマー改変してから一度も行っていないのですが、転生ペット周りのシステムってどうなったのでしょう。はい。というわけで転生ペットに会うため、のじゃロリ師匠の待つガリムトに来ました。ここ正装推奨です。最初の姿になることで転生の雰囲気を出すわけですね。。そんな感じでお願いします。ちゃんと考えてから話してください。まずは「飼育記録」によるテイムが可能か確認します。・・・無理のようですね]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[領域展開。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-717.html</id>
