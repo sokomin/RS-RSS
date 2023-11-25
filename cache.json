@@ -212,16 +212,6 @@
           "wordCount": 317,
           "title": "ルーレットの期待値",
           "imageUrl": null
-        },
-        {
-          "id": "kaze.gg-blog.com://entry/188",
-          "author": null,
-          "description": "こんにちは。\n\n\nこんなものを作ってみました。(需要あるか分からんけど)\nなんと！\n装備の要求レベルが分かる計算機です！(そのまま)\n装備要求レベル計算機 \n試しに\n \n\nこちらのストールを計算してみましょう\n\n\n「装備ベース要求レベル」には、ベースのレベルを入力します\n\n\n「装備の種類」は「ノーマル」か「ULT」か選択します\n\n\n例えばこれは、DXUでもULTのOPが付いているので「ULT装備」\n \n\nこちらは「DX」となっていますので「ULT装備」ではありません\n\n\nOPをリストの中から選択します\n\n\n「2次OP」「3次OP」も選択していきます\n\n\n最終的な結果は赤い欄に計算されます\n赤石の民衆 様\n\n\n\nではまた",
-          "link": "http://kaze.gg-blog.com/verification/%E8%A3%85%E5%82%99%E8%A6%81%E6%B1%82%E3%83%AC%E3%83%99%E3%83%AB%E8%A8%88%E7%AE%97%E6%A9%9F",
-          "publishedOn": "2023-10-27T02:57:14.000Z",
-          "wordCount": 269,
-          "title": "装備要求レベル計算機",
-          "imageUrl": null
         }
       ]
     },
@@ -890,6 +880,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-720.html",
+          "author": "medaka1985",
+          "description": "こんばんは。素敵なコスチュームです。イベントBox大漁です。唯一のLRです。メインシーフ1140Lv到達です(*'▽')いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-720.html",
+          "publishedOn": "2023-11-25T14:58:45.000Z",
+          "wordCount": null,
+          "title": "クレティオン。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-719.html",
           "author": "medaka1985",
