@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-27T12:33:00.966Z</updated>
+    <updated>2023-11-27T12:58:08.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PortTownBox開封。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-722.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-722.html"/>
+        <updated>2023-11-27T12:54:19.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。清水Pボックスです。どんマイケル。結構、熱いです(*'▽')メインシーフ1142Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[がんばれBIS天使　【攻城ランク5攻め、経験値イベント等】]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-827.html</id>
