@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-28T02:50:36.942Z</updated>
+    <updated>2023-11-28T03:17:42.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -923,26 +923,6 @@
         <summary type="html"><![CDATA[こんばんは。キュートなコスチュームです。Wユニーク、Get(*'▽')勝負、勝負～！＼(^o^)／メインシーフ1109Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[攻撃回避Lv1 DX］お守り。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-693.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-693.html"/>
-        <updated>2023-10-29T15:17:05.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。名前長っ(笑)運命のOP選択チケットです。メインシーフ1107Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[それいけカニテイマ　【チケット集め編】]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-823.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-823.html"/>
-        <updated>2023-10-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この季節は寒暖差の影響もあって鼻水が止まらないですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
