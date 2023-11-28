@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-28T14:47:36.997Z</updated>
+    <updated>2023-11-28T15:18:58.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[どちらが第２キャラ？]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-395.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-395.html"/>
+        <updated>2023-11-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[わたしのメインキャラと言えばオオカミ少年なのですがではセカンドキャラはどれなのか？と言われると最近ちょっと答えに困るかな…？と思ってきました＾＾；単純にレベルの高さだけでいうとボトル姫のぷぷりがオオカミ少年の次になるのでそうなりサブ垢筆頭キャラでもあるので装備もそこそこいい物をもらっているのですがわたしの活動時間が少し減り、またV鯖への出張が多くなってきているので稼働率がかなり低く早朝しか動かしてな]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メリークリスマス。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-723.html</id>
