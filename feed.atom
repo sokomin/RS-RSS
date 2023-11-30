@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-30T13:47:34.800Z</updated>
+    <updated>2023-11-30T14:16:03.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -920,16 +920,6 @@
         <summary type="html"><![CDATA[文字通りのイベント月間らしいです。毎週↑画像リンク先のページでイベント公開はされると思います。さしあたってまず公開されてるのが経験値＆ドロップアップとログインスタンプイベントの2つ。メンテごとに新規開催イベントが表示されるようです。合わせて課金キャンペーンも同ページにて公開されてるので気になる方はそちらもご覧ください。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..前からお気付きでしょうけど、イベント]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弓のステ・装備をいじりました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202311010000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202311010000/"/>
-        <updated>2023-11-01T02:08:55.000Z</updated>
-        <summary type="html"><![CDATA[まず、筋力集中鍛錬を初期化して楔を導入しました。（知識集中鍛錬は、何かのイベントで間違ってEの付いたやつをもらってしまったので使いました）特殊強化+1したので、ダブクリ増加1％になっています。とりあえ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
