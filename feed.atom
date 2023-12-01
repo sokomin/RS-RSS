@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-01T10:34:23.893Z</updated>
+    <updated>2023-12-01T10:48:03.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パン屋さん。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-727.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-727.html"/>
+        <updated>2023-12-01T10:46:59.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。アンパンマン（チョコ）。いつもありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.11月のドロップ~♪]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/669838a18dff599f2ebacd76b3be435c</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/669838a18dff599f2ebacd76b3be435c?fm=rss"/>
+        <updated>2023-12-01T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[12月になりました。
+
+
+知識ID
+
+
+今回は知識IDが頑張ったかな。
+WIZくん、闘士、テイマが同じ狩場なのですが、矢がよくドロップします。
+ギルド倉庫に入りきらず、あまり稼働していないキャラのインベントリや銀行を圧迫中。
+嬉しい悲鳴なのですが、少しU品分解で処分したいです。
+
+
+年度当初の目標にあげたキャラのレベル目標はおおむねクリアしました。
+どっちかというとそれ以上？
+予想外にレベルが上がって予定していなかった転生をしたキャラもいました。
+知識槍がまだ2転してないくらいかな。
+ただ混沌の大地の件もあるし、転生するかどうかはもう少し悩もうと思います。
+
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[物理霊術始めました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202312010000/</id>
