@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T22:15:04.190Z</updated>
+    <updated>2023-12-02T22:29:04.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -836,16 +836,6 @@ WIZくん、闘士、テイマが同じ狩場なのですが、矢がよくド�
         <link href="https://medaka1985.fc2.net/blog-entry-699.html"/>
         <updated>2023-11-04T12:33:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。ムキムキコスチュームです。1250Lv装備です。物理でも使えるかな？オッス！お願いしまーす！もう潮時かも知れません(笑)メインシーフ、1112Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ラーメン横丁。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-698.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-698.html"/>
-        <updated>2023-11-03T10:21:26.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。北海道ラーメンです。シコシコとした麺と魚介出汁が最高です。美瑛・青い池です。綺麗です。クマ牧場です。パンダみたいです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
