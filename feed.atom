@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T15:47:44.138Z</updated>
+    <updated>2023-12-02T16:20:30.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近の買い物]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202312030000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202312030000/"/>
+        <updated>2023-12-02T16:02:04.000Z</updated>
+        <summary type="html"><![CDATA[物理霊術を始めたことで、かなりの出費をしているので、最近の買い物を思い出せる範囲で載せていこうと思います。・GEM買い（1500本）多分ですが1500本くらい使ったと思います。単価7本と8本で半々くらいだったの...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クリーチャー厳選。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-728.html</id>
