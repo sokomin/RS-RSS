@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-04T13:24:07.673Z</updated>
+    <updated>2023-12-04T13:47:50.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ラピュタ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-730.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-730.html"/>
+        <updated>2023-12-04T13:44:03.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。飛行石だよ！飛びっきりでっかいやつ！サブのビーストテイマー966Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いよいよ年度末]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-828.html</id>
