@@ -664,18 +664,7 @@
       "title": "カルDXのレッドストーン放浪",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/karudxrs/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/karudxrs/",
-      "articles": [
-        {
-          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202311050000/",
-          "author": "たつ2307",
-          "description": "こんにちは！今日はゲームではなく、タイトル通り「おうち焼き鳥」よくTwitterに載せたりしてるのですが、ゲーム内でもたまに声をかけられます笑悪魔のことより聞かれる回数多いかも、、、（S鯖最強悪魔なのに悪...",
-          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202311050000/",
-          "publishedOn": "2023-11-05T00:44:34.000Z",
-          "wordCount": 1160,
-          "title": "おうち焼き鳥",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/5f76724d96e52ec27e0b6bc0f98a99b9eb5530ff.35.9.9.3.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "rb79kのブログ",
