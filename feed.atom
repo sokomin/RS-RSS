@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T02:06:27.190Z</updated>
+    <updated>2023-12-06T02:38:36.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[さらにちょっと買い物追加]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202312060000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202312060000/"/>
+        <updated>2023-12-06T02:21:26.000Z</updated>
+        <summary type="html"><![CDATA[こんな値段で電鱗を買うとしたら、もうあれしかないですよね。まだまだクリーチャーができないので純粋型にはほど遠いのですが、致命減を少しずつ揃えていきます。前回の記事に載せた回避・致命打率の電鱗は120本...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スペルスティレット]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-396.html</id>
