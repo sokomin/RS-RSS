@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-08T02:50:56.217Z</updated>
+    <updated>2023-12-08T03:17:47.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -841,16 +841,6 @@ WIZくん、闘士、テイマが同じ狩場なのですが、矢がよくド�
         <link href="https://medaka1985.fc2.net/blog-entry-704.html"/>
         <updated>2023-11-09T13:03:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。素晴らしいコスチュームです。めっちゃ欲しいです(笑)月の谷です。ビーストテイマー962Lv(^^♪メインシーフ1118Lvです(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闇商人の箱。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-703.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-703.html"/>
-        <updated>2023-11-08T15:02:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。この箱、意外と…良いもの入ってるんです。メインシーフ1117Lvです(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
