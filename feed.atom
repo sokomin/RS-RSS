@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-10T05:28:40.627Z</updated>
+    <updated>2023-12-10T05:47:33.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オーガ型から純粋型へ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202312100000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202312100000/"/>
+        <updated>2023-12-10T05:40:22.000Z</updated>
+        <summary type="html"><![CDATA[オーガでちまちま狩ってると全然レベルが上がらないので、ちょっと無理して純粋型にしてみました。しかし、まだクリーチャーが完成しておらず、特に致命減が大幅に不足しています。致命減が付いたクリーチャーが...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[海の幸。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-735.html</id>
