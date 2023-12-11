@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-11T02:50:53.815Z</updated>
+    <updated>2023-12-11T03:18:08.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -819,29 +819,6 @@ WIZくん、闘士、テイマが同じ狩場なのですが、矢がよくド�
         <summary type="html"><![CDATA[まず、黒魔が微風レベルになりそうだったので、これを買いました。微風からステが－35％になるので、忍耐→エステルにしました。これで微風でもステータスが減らなくなりました。次に、弓の楔を特殊強化しました。...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[経験値イベント中なので]]></title>
-        <id>http://wh-rs.jugem.jp/?eid=340</id>
-        <link href="http://wh-rs.jugem.jp/?eid=340"/>
-        <updated>2023-11-11T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
-
-
- 
-
- 
-
- 
-
- 
-
-狩場に人多い気がする（( ；∀；)）
-
-...]]></summary>
-        <author>
-            <name>亜鬼にゃん</name>
         </author>
     </entry>
     <entry>
