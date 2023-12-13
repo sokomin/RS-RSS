@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-13T02:06:34.906Z</updated>
+    <updated>2023-12-13T02:38:52.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -797,16 +797,6 @@ WIZくん、闘士、テイマが同じ狩場なのですが、矢がよくド�
         <link href="https://medaka1985.fc2.net/blog-entry-709.html"/>
         <updated>2023-11-14T07:30:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。コブ鯛です。コリコリした歯ごたえで美味です。華やかな商店街です。カヌーです。お見事！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミッドサマーナイトNx。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-708.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-708.html"/>
-        <updated>2023-11-13T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。PortTownBoxからです。中身です。ログイン中に参加する事が出来ました！ありがたやぁ…。V鯖のマーケットです、凄い＠＠メインシーフ1122Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
