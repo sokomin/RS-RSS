@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-13T11:28:00.727Z</updated>
+    <updated>2023-12-13T11:47:58.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[旅立ち。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-738.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-738.html"/>
+        <updated>2023-12-13T11:42:26.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。廻らない寿司は初めてです。成田空港にて。お洒落な夕食です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テイマーサマナーの装備パズル]]></title>
         <id>hatenablog://entry/6801883189066434737</id>
