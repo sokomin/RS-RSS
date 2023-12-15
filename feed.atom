@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-15T20:47:45.042Z</updated>
+    <updated>2023-12-15T21:14:26.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -803,25 +803,6 @@ WIZくん、闘士、テイマが同じ狩場なのですが、矢がよくド�
         <summary type="html"><![CDATA[こんばんは。冷凍のきつねうどんに生たまごをトッピングします。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[経験値UP＆ドロUP５倍]]></title>
-        <id>http://wh-rs.jugem.jp/?eid=341</id>
-        <link href="http://wh-rs.jugem.jp/?eid=341"/>
-        <updated>2023-11-16T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
-
-
- 
-
- 
-
- 
-
-いい石の日って初体験・・・？（ブログ記事ひっかからないだと・・・...]]></summary>
-        <author>
-            <name>亜鬼にゃん</name>
         </author>
     </entry>
     <entry>
