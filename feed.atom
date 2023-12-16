@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-16T04:48:10.518Z</updated>
+    <updated>2023-12-16T05:15:09.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クリーチャーパッシブ完成]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202312160000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202312160000/"/>
+        <updated>2023-12-16T05:04:40.000Z</updated>
+        <summary type="html"><![CDATA[あの後、SRコクーンを16個追加しました！（金使い過ぎた・・）マナと覚醒石が出るオーライベントのおかげもあって、短期間でパッシブを完成させられました。（上級経験値は、覚醒であと2だけ上がります）さらに、...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[転生ペットの優位性]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-208.html</id>
