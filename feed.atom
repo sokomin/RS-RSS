@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-16T01:13:56.089Z</updated>
+    <updated>2023-12-16T02:04:10.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[転生ペットの優位性]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-208.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-208.html"/>
+        <updated>2023-12-16T01:26:44.000Z</updated>
+        <summary type="html"><![CDATA[前回、転生ペットが今どうなっているのか見に行きましたが、気になった点がもう一つありました。今のテイム仕様だと1型モンスターのコボルトも3型のゴブリンも、洗濯したら色落ちしてファミリアになります（ZINモンスター表示シールも剥がれます）それでは、転生ペットとよく似た野生モンスターをテイムしたら、同じものになるのでしょうか？果たして転生ペットの優位性とは！？さっそく見に行きましょう。まずはゴンゴン（4型）と]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.1214 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/794adb0c56cf4ea39310565745e29f71</id>
