@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-16T22:47:58.566Z</updated>
+    <updated>2023-12-16T23:16:02.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -803,16 +803,6 @@ WIZくん、闘士、テイマが同じ狩場なのですが、矢がよくド�
         <summary type="html"><![CDATA[5倍デーに爆上げしたで。。1053→1092その結果]]></summary>
         <author>
             <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バンジーの特技。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-712.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-712.html"/>
-        <updated>2023-11-17T11:10:08.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。美しいコスチュームです。恰好良い攻撃。星の谷に移行です。メインシーフ1129Lvです(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
