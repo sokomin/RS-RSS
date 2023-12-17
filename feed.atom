@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-17T23:29:20.130Z</updated>
+    <updated>2023-12-17T23:47:23.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -801,16 +801,6 @@ WIZくん、闘士、テイマが同じ狩場なのですが、矢がよくド�
         <link href="https://medaka1985.fc2.net/blog-entry-714.html"/>
         <updated>2023-11-19T13:48:17.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。星の谷でUMU杖ドロップです。UMU拾えてとても嬉しいです(*'▽')メインシーフ1132Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クロウ・エルダーケイン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-713.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-713.html"/>
-        <updated>2023-11-18T11:40:18.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。初、クロウ系装備ドロップです。これは売れそうに無いです(笑)メインシーフ1130Lvです♪いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
