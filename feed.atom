@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-18T02:06:16.337Z</updated>
+    <updated>2023-12-18T02:38:44.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ご無沙汰してしまいました]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-964.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-964.html"/>
+        <updated>2023-12-18T02:29:27.000Z</updated>
+        <summary type="html"><![CDATA[「ここ数年、1年経つのが早すぎる気がする」と実家の母に話した時のこと。彼女は笑いを含んだ声で言いました。「年取るごとに、さらに速くなるわよ」まじですか。◆◆◆◆◆◆ご無沙汰になってしまいました。お元気でいらっしゃいますか？月１くらいは更新したいなと思っておりましたのに、遺憾です。12月に入っても夏日があったりと季節感がない年の瀬ではございますが、急な気温の変化は不調を招いたりも致します。どうぞ体調にはくれ]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年の振り返り]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-830.html</id>
