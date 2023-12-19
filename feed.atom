@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T01:14:28.154Z</updated>
+    <updated>2023-12-19T02:05:43.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -813,16 +813,6 @@ WIZくん、闘士、テイマが同じ狩場なのですが、矢がよくド�
         <summary type="html"><![CDATA[そろそろ年賀状も用意しないとなと思っています年末が近いですねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドラゴニックスタッフ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-714.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-714.html"/>
-        <updated>2023-11-19T13:48:17.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。星の谷でUMU杖ドロップです。UMU拾えてとても嬉しいです(*'▽')メインシーフ1132Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
