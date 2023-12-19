@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T03:31:01.632Z</updated>
+    <updated>2023-12-19T03:47:40.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ジブリ風。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-741.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-741.html"/>
+        <updated>2023-12-19T03:42:13.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。千と千尋の神隠しの一部、舞台らしいです。TVで良く目にする露店市です。急勾配です。鶏の丸焼きです。( ˘ω˘)ｽﾔｧいつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TRSULT婚約。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-740.html</id>
