@@ -248,7 +248,18 @@
       "title": "のんびりまったり",
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1270.html",
+          "author": "クレリューフ",
+          "description": "１か月ほど更新サボってました。さて、今年最後のアプデですね。マスケ改変、スペシャル等級図案書仕様変更、ウィークリー討伐ファルコン追加etc諸々追加されたようです。詳細は上記画像からアップデートページに飛んでご覧ください。新規開催や継続中イベントも同様に公式サイトからご確認ください。今年は恒例だった骸骨サンタも開催されずです。ボックスドロップとログインスタンプといった、常設に近いイベントしか開催されて",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1270.html",
+          "publishedOn": "2023-12-20T10:39:00.000Z",
+          "wordCount": 636,
+          "title": "重要情報",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "今日のアリアン",
