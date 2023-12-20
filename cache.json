@@ -117,7 +117,18 @@
       "title": "ロイ4世",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA",
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YcZ1wkAlhaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YcZ1wkAlhaw",
+          "publishedOn": "2023-12-20T10:50:26.000Z",
+          "wordCount": null,
+          "title": "まったり配達したい「DEATH STRANDING」",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "ひさプッチ",
@@ -756,6 +767,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/0ea4f0b64c3f505e133308f98e5e2735",
+          "author": null,
+          "description": "寒いですね。\n\n\n\n\n\n(4)経験値アイテムドロップ率上昇イベント\n\n9月13日メンテ後から9月27日メンテ前まで\n◆戦闘経験値：1.5倍　アイテムドロップ率：1.5倍\n・2023年9月13日（水）メンテナンス後 ～ 9月13日（水）23：59\n◆戦闘経験値：2倍　アイテムドロップ率：2倍\n・2023年9月16日（土）00：00～9月18日（月）23：59\n◆戦闘経験値：3倍　アイテムドロップ率：2倍\n・2023年9月14日（木）00：00～9月15日（金）23：59\n(1)RED's Roulette\n\n8月9日メンテ後から9月6日メンテ前まで\n(3)RED STONE PASS\n\n7月19日メンテ後から9月6日メンテ前まで\n(5)ボックスドロップイベント\n\n7月19日メンテ後から9月6日メンテ前まで\n第1週（7/19から7/26）：「プレシャスハンディングBox」\n第2週（7/26から8/2）：「プログレスハンディングBox」\n第3週（8/2から8/9）：「トレジャーハンティングBox」\n第4週（8/9から8/16）：「プレシャスハンティングBox」\n第5週（8/16から8/23）：プログレスハンディングBox」\n第6週（8/23から8/30）：「トレジャーハンティングBox」\n第7週（8/30から9/6）：「プレシャスハンティングBox」\n第7週「プレシャスハンティングBOX」がドロップします。\n(6)金のレビットレイド\n\n7月19日メンテ後から9月6日メンテ前まで\n\n10月25日メンテ後から11月1日メンテ前まで\n「いい石の日」があるので拡散しようというイベントです。\n\n10月4日メンテ後から11月1日メンテ前まで\n\n\n課金イベントはこちら\n\n\n\n\n\n\n12月6日メンテ後から2024年1月10日メンテ前まで\n\n\n今日はちゃんとゲームにログインできるんだろうなぁ(´・ω・`)\n不安はつきませんね。\nでは今週もまったり楽しみましょう\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/0ea4f0b64c3f505e133308f98e5e2735?fm=rss",
+          "publishedOn": "2023-12-20T10:30:00.000Z",
+          "wordCount": 1353,
+          "title": "2023.12.20 イベ更新",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/7a/83/648d065c835fc02c971ef7866c149e13.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/794adb0c56cf4ea39310565745e29f71",
           "author": null,
