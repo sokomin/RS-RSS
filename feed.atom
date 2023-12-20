@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-20T01:47:28.922Z</updated>
+    <updated>2023-12-20T02:14:42.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -823,16 +823,6 @@ WIZくん、闘士、テイマが同じ狩場なのですが、矢がよくド�
         <summary type="html"><![CDATA[・武器力比を削ってテマヌエルを付けてみました。与ダメがカンストしているので、敏捷を上げて回避した方がいいかなと思いました。・耳致命型なので、これで十分です。・足エステルを付けてしまったので、ずっと...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セルフディフェンス。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-715.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-715.html"/>
-        <updated>2023-11-20T13:59:27.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。超級ゲリオからです。メインシーフ1133Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
