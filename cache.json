@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=n9HRc21umNw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n9HRc21umNw",
+          "publishedOn": "2023-12-21T09:24:36.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】２０２３年１２月のアプデ情報とか色々！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=brCdAZGXWH8",
           "author": null,
           "description": "",
