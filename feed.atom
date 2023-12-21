@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-21T11:14:28.291Z</updated>
+    <updated>2023-12-21T11:27:29.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[これ早まったらまずいやつ…]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-965.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-965.html"/>
+        <updated>2023-12-21T11:20:35.000Z</updated>
+        <summary type="html"><![CDATA[※今回はとくに、自分のための備忘記事です。ごめんなさい。前回の記事で「アイテムをなんでも取っておくのも考えもの、片付けたい」と書きましたけれど。断捨離ちょっと待った自分。本日直近のアップデート内容をチェックしていたら、なにやら新システムのお話が。しかもこの潜在能力発現、ID内の全キャラ共有って。えええ。夢のようなお話ではありませんか＠＠；ほかのゲームではこういう感じの仕様はいろいろあって、RSにもあれ]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２３年１２月のアプデ情報とか色々！]]></title>
         <id>https://www.youtube.com/watch?v=n9HRc21umNw</id>
