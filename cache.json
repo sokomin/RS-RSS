@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=brCdAZGXWH8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=brCdAZGXWH8",
+          "publishedOn": "2023-12-21T06:26:13.000Z",
+          "wordCount": null,
+          "title": "まったり配達したい「DEATH STRANDING」♯２",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YcZ1wkAlhaw",
           "author": null,
           "description": "",
