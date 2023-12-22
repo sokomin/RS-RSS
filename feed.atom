@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-22T07:47:34.020Z</updated>
+    <updated>2023-12-22T08:20:30.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[旅の思い出。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-744.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-744.html"/>
+        <updated>2023-12-22T07:54:41.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。台湾グランドホテルです。壮大な建物です。宮殿跡です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[森の指令。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-743.html</id>
