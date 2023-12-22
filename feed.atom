@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-22T11:14:31.767Z</updated>
+    <updated>2023-12-22T11:27:56.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Ride of the Back of the Red Dragon]]></title>
+        <id>https://intothe.info/?p=1898</id>
+        <link href="https://intothe.info/wow/a-ride-of-the-back-of-the-red-dragon/"/>
+        <updated>2023-12-22T11:15:56.000Z</updated>
+        <summary type="html"><![CDATA[最近はBlizzardのWorld of Warcraftをメインに...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[このブログについて その2]]></title>
+        <id>https://intothe.info/?p=1896</id>
+        <link href="https://intothe.info/about-this-blog/%e3%81%93%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-%e3%81%9d%e3%81%ae2/"/>
+        <updated>2023-12-22T11:15:33.000Z</updated>
+        <summary type="html"><![CDATA[カテゴリーからRSを消して、替りにタグを作成し過去の記事に付けました...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テイマLv1400ステ装備]]></title>
         <id>http://akira773.blog22.fc2.com/blog-entry-778.html</id>
