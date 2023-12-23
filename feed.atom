@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-23T11:47:58.670Z</updated>
+    <updated>2023-12-23T12:28:42.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新クエスト。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-745.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-745.html"/>
+        <updated>2023-12-23T11:51:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。アップデートから追加された新クエストです。このクエスト、クオリティが滅茶苦茶高いです。是非やって欲しいです。攻撃速度3%出来ました！(つーか、これが限界）筋力集中鍛錬＋5です(^^♪1157Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[みなさん、ご存じですか？]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202312230000/</id>
