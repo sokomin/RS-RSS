@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-24T14:47:35.878Z</updated>
+    <updated>2023-12-24T15:15:14.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プレミアムロト10個。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-746.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-746.html"/>
+        <updated>2023-12-24T15:03:13.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。シンプルに恰好良いコスチュームです。超スフィアーリミテッドのロトです。おまけにしては良いのが出ました(*'▽')これに鞄拡張(8個)セットなのでお買い得です。いつも読んで頂き、誠にありとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12月アップデート　【マスケッティア、潜在能力、ファルコン、図案書他】]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-831.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-831.html"/>
+        <updated>2023-12-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[早くも年末ですクリスマスや年末年始予定のある方もいらっしゃると思いますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マスケの覚醒 －ラビットデスペラード－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/4262f88a34d16ddb53fce7bbf1007241</id>
