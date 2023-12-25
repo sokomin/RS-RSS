@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-25T02:49:24.222Z</updated>
+    <updated>2023-12-25T03:17:33.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -931,16 +931,6 @@ WIZくん、闘士、テイマが同じ狩場なのですが、矢がよくド�
         <link href="https://medaka1985.fc2.net/blog-entry-721.html"/>
         <updated>2023-11-26T13:44:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。ログインキャンペーンです(可愛い！)。オッス！お願いしまーす！おお！珍しく成功(^^♪ダイナミック放屁レベルアップ！(1141Lv)いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クレティオン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-720.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-720.html"/>
-        <updated>2023-11-25T14:58:45.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。イベントBox大漁です。唯一のLRです。メインシーフ1140Lv到達です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
