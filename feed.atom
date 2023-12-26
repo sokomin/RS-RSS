@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-26T01:11:32.736Z</updated>
+    <updated>2023-12-26T02:01:54.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -933,16 +933,6 @@ WIZくん、闘士、テイマが同じ狩場なのですが、矢がよくド�
         <summary type="html"><![CDATA[寒い日が多くなりましたねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日こそピタリ賞が！]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-721.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-721.html"/>
-        <updated>2023-11-26T13:44:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ログインキャンペーンです(可愛い！)。オッス！お願いしまーす！おお！珍しく成功(^^♪ダイナミック放屁レベルアップ！(1141Lv)いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
