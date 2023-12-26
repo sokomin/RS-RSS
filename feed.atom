@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-26T07:15:23.515Z</updated>
+    <updated>2023-12-26T07:27:45.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[空港お見上げ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-748.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-748.html"/>
+        <updated>2023-12-26T07:25:30.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。成田空港のつけ麺です。魚介のこってりした出汁が最高です。おもちゃコーナーも充実しています。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[玲瓏な混沌の破片。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-747.html</id>
