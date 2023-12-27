@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T13:48:02.296Z</updated>
+    <updated>2023-12-27T14:14:51.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[思い出の指輪。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-749.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-749.html"/>
+        <updated>2023-12-27T14:08:51.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。混沌の指輪です。天然の良OPです。この半端なエクスペリエンスを何とか完成です。良いPvPです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.12.27 イベ更新なし]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/0986090a703ed9b5c7da6aa179b99c43</id>
