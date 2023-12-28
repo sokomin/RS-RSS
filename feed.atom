@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T10:18:00.367Z</updated>
+    <updated>2023-12-28T10:32:18.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BISの覚醒 －ディバインエクソシスト－]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/71d781e5a130b77c81fd4aaee997d49c</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/71d781e5a130b77c81fd4aaee997d49c?fm=rss"/>
+        <updated>2023-12-28T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[仕事納め。
+
+覚醒タイプは「ディバインエクソシスト」
+
+「栄誉の告知」
+
+専用強化スキルは「エクソシズムエンカウンター」
+
+6回攻撃に光ダメガのる感じ。
+
+強化スキルの１つは「ソーンスマッシング」
+
+アンデット系にはクリティカルがでるらしい。
+
+もう１つの強化スキルは「リゼネレイション」
+
+味方にかけると一定時間自動的に回復。
+自分にかけるとレベルに応じて防御力上昇
+
+
+まだ狩場で使っていないようなので使い勝手は不明。
+連休中狩りをすると思うので、使い勝手を聞いてみたいと思いますｗ
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[勇気+恩寵の]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202312280000/</id>
