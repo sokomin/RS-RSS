@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-30T22:28:49.806Z</updated>
+    <updated>2023-12-30T22:47:27.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】2023年の記録]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-967.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-967.html"/>
+        <updated>2023-12-30T22:46:55.000Z</updated>
+        <summary type="html"><![CDATA[とりあえずキャラSSのみ。文章は実家帰省中の新幹線内からアップします。]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天然比率ユニーク。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-751.html</id>
@@ -959,16 +969,6 @@ Lv1250以上必要な要素案
         <link href="https://medaka1985.fc2.net/blog-entry-728.html"/>
         <updated>2023-12-02T07:14:30.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。混沌の大地、報酬です。良さ気な指輪Getです。SRコクーン2つ購入です。これでほぼ完成のつもりです。メインシーフ1147Lv到達です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パン屋さん。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-727.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-727.html"/>
-        <updated>2023-12-01T10:46:59.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。アンパンマン（チョコ）。いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
