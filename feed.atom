@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T23:47:49.606Z</updated>
+    <updated>2023-12-30T01:11:33.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023終了！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-400.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-400.html"/>
+        <updated>2023-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年ももう終わりとなりました！今年は5～8月くらいがリアルで忙しく大変でしたがなんとか乗り切った１年だったと思います＾＾余談ですがこの期間中かなり体重が減ってて会う人たちからよくご飯ちゃんと食べろって言われてました＾＾；それから５キロくらい体重が増えたので逆に今は少しやせなければと考えてます…今年のRSはというと残念ながら引退した方それと入れ替わるようにG加入して副マスになってくれた方などいてメンバに多]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[忘年会。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-750.html</id>
