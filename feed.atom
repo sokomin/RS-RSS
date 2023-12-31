@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T01:18:38.669Z</updated>
+    <updated>2023-12-31T02:07:23.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】2023年振り返りPart2]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-969.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-969.html"/>
+        <updated>2023-12-31T02:06:23.000Z</updated>
+        <summary type="html"><![CDATA[続き。12月アプデではエンドコンテンツとなり得る潜在力システムが実装された。UMUと指ユニークを強化してシステムで分解すると、アカウント共有で様々な効果が得られる。しかし、さすがエンドコンテンツ、UMUや指ユニークの必要数が半端なく多くて、殆どのユーザーは手を出していない様子(自分も未着手)今は一部頑張っている人達に素材が売れるので、売る側にまわっても良さそうだけど。売る側にまわる場合、素材を強化して売る方]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】2023年振り返りPart1]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-968.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-968.html"/>
+        <updated>2023-12-31T01:22:45.000Z</updated>
+        <summary type="html"><![CDATA[随分、更新をサボってしまった、申し訳ない。今年は8月から月の半分を四国松山で仕事することになって、仕事もRSも環境変化に順応するのが大変だった。といっても、土日を松山で過ごすのは月に1回程度なので、RS我慢できなくもないが、やはり長年やってると落ち着かないもんで、大して狩らないのにノートPCを買ってしまった。しかし、何故か松山でのしょぼ狩り中にブレイズハンターがドロップ！大金を手にした。その勢いが続いたの]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】2023年の記録]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-967.html</id>
