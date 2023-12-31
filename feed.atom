@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T19:12:58.840Z</updated>
+    <updated>2023-12-31T19:28:06.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1066,16 +1066,6 @@ Lv1250以上必要な要素案
         <summary type="html"><![CDATA[物理霊術を始めたことで、かなりの出費をしているので、最近の買い物を思い出せる範囲で載せていこうと思います。・GEM買い（1500本）多分ですが1500本くらい使ったと思います。単価7本と8本で半々くらいだったの...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリーチャー厳選。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-728.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-728.html"/>
-        <updated>2023-12-02T07:14:30.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。混沌の大地、報酬です。良さ気な指輪Getです。SRコクーン2つ購入です。これでほぼ完成のつもりです。メインシーフ1147Lv到達です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
