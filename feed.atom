@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T14:28:12.930Z</updated>
+    <updated>2023-12-31T14:47:33.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レッドストーン最高！]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-752.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-752.html"/>
+        <updated>2023-12-31T14:41:10.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。後悔の水晶玉クエストです。珍しいOPの並びです(笑)全成績 264勝 203敗&nbsp; 勝率 56.0%(シーズン成績 22勝13敗 勝率62.9%)応援ありがとうございます！今年最後の記事です。来年は皆様が幸せでありますように(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スクラッチのGv動画]]></title>
         <id>http://scratch2009.blog.fc2.com/blog-entry-221.html</id>
