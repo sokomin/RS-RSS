@@ -338,7 +338,18 @@
       "title": "今日のアリアン",
       "feedUrl": "http://scratch2009.blog.fc2.com/?xml",
       "siteUrl": "http://scratch2009.blog.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://scratch2009.blog.fc2.com/blog-entry-221.html",
+          "author": "scratch2009",
+          "description": "250制限とか300制限で遊んでいた10年くらい前の話。物理弓、KO武道、KO槍、健康WIZを動かしていました。当時結構Gv動画を撮りためてYouTubeに保管していたのですが、グーグルアカウントを整理してたときに一緒にYouTubeアカウントも葬り去ってしまっていました。（なお、一部気まぐれでニコニコ動画にあげてた分は無事だった模様）ふと懐かしくなって、ほかの人があげてる当時のGv動画を探したのでとりあえずまとめておいておきま",
+          "link": "http://scratch2009.blog.fc2.com/blog-entry-221.html",
+          "publishedOn": "2023-12-31T03:05:32.000Z",
+          "wordCount": 489,
+          "title": "スクラッチのGv動画",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "JEFRYの悪足掻き",
