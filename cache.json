@@ -29,6 +29,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-832.html",
+          "author": "ミツリン",
+          "description": "あけましておめでとうございます本年もどうぞよろしくお願いいたしますこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-832.html",
+          "publishedOn": "2023-12-31T15:00:00.000Z",
+          "wordCount": 608,
+          "title": "謹賀新年",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-831.html",
           "author": "ミツリン",
           "description": "早くも年末ですクリスマスや年末年始予定のある方もいらっしゃると思いますこんにちは　ミツリンです",
@@ -356,6 +366,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-970.html",
+          "author": "JEFRY",
+          "description": "皆様、新年明けましておめでとうございます。今年もよろしくお願いします。さて、無事に2024年も何とか続いた大人気MMO  REDSTONE。サ終間近と言われて早10年？何とか続いているあたり、あと5年はイケると思う今日この頃。もはや生活の一部になり、デイリーやらないと落ち着かない自分は、まんまと飼い慣らされた立派なハムスターと言えるだろう。そんな老いたハムスターにも、強くなりたい！という気持ちがあり、今年は4つの目標",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-970.html",
+          "publishedOn": "2023-12-31T15:00:01.000Z",
+          "wordCount": 569,
+          "title": "【REDSTONE】2024年の抱負",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-969.html",
           "author": "JEFRY",

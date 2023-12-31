@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T14:47:33.436Z</updated>
+    <updated>2023-12-31T15:15:56.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】2024年の抱負]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-970.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-970.html"/>
+        <updated>2023-12-31T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[皆様、新年明けましておめでとうございます。今年もよろしくお願いします。さて、無事に2024年も何とか続いた大人気MMO  REDSTONE。サ終間近と言われて早10年？何とか続いているあたり、あと5年はイケると思う今日この頃。もはや生活の一部になり、デイリーやらないと落ち着かない自分は、まんまと飼い慣らされた立派なハムスターと言えるだろう。そんな老いたハムスターにも、強くなりたい！という気持ちがあり、今年は4つの目標]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[謹賀新年]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-832.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-832.html"/>
+        <updated>2023-12-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[あけましておめでとうございます本年もどうぞよろしくお願いいたしますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レッドストーン最高！]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-752.html</id>
