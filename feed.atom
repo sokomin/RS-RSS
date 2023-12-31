@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T12:54:29.727Z</updated>
+    <updated>2023-12-31T13:17:49.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -34,6 +34,17 @@
         <summary type="html"><![CDATA[随分、更新をサボってしまった、申し訳ない。今年は8月から月の半分を四国松山で仕事することになって、仕事もRSも環境変化に順応するのが大変だった。といっても、土日を松山で過ごすのは月に1回程度なので、RS我慢できなくもないが、やはり長年やってると落ち着かないもんで、大して狩らないのにノートPCを買ってしまった。しかし、何故か松山でのしょぼ狩り中にブレイズハンターがドロップ！大金を手にした。その勢いが続いたの]]></summary>
         <author>
             <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2023年版】年の瀬スライディング更新]]></title>
+        <id>https://rs-clair-de-lune.com/2023-12-31/</id>
+        <link href="https://rs-clair-de-lune.com/2023-12-31/"/>
+        <updated>2023-12-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年、2022年、そして2023年。年の瀬にスライディング更新をキメるのが恒例となりつつあるブログ、へようこそ！
+今年も実家でいそいそとこの記事を書き綴っております。 1…]]></summary>
+        <author>
+            <name>The Adventure Of The Jacks</name>
         </author>
     </entry>
     <entry>
