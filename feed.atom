@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T03:48:00.130Z</updated>
+    <updated>2024-01-01T04:21:10.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1056,16 +1056,6 @@ Lv1250以上必要な要素案
         <summary type="html"><![CDATA[こんばんは。チャレンジです。残念な結果です(;´･ω･)1時間程狩って、やっと出ました！メインシーフ1149Lvです(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近の買い物]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202312030000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202312030000/"/>
-        <updated>2023-12-02T16:02:04.000Z</updated>
-        <summary type="html"><![CDATA[物理霊術を始めたことで、かなりの出費をしているので、最近の買い物を思い出せる範囲で載せていこうと思います。・GEM買い（1500本）多分ですが1500本くらい使ったと思います。単価7本と8本で半々くらいだったの...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
