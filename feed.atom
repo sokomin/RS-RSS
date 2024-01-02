@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T02:49:56.695Z</updated>
+    <updated>2024-01-02T03:17:39.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1086,16 +1086,6 @@ Lv1250以上必要な要素案
         <summary type="html"><![CDATA[こんばんは。飛行石だよ！飛びっきりでっかいやつ！サブのビーストテイマー966Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いよいよ年度末]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-828.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-828.html"/>
-        <updated>2023-12-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[12月に入りいよいよ今年も終わりだなぁと実感します年度末は何かと忙しいですよねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
