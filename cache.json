@@ -222,6 +222,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202401020000/",
+          "author": "雷神の弓",
+          "description": "霊術の装備がほぼ完成したので、他のキャラの装備も改良しようかなと思いました。金再構成28回目・・大負けｗ賢者貼り付け4回目で成功・・・中負け3OP目の力比を消して、ランディスを貼り付けるか力固定増強にす...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202401020000/",
+          "publishedOn": "2024-01-02T02:01:04.000Z",
+          "wordCount": 1700,
+          "title": "新年初ギャンブル",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/591cd586967bb7bb98ca5b29ea2006e4653750d3.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202312300000/",
           "author": "雷神の弓",
           "description": "Nの状態を700本で買って、自分で破片強化しました。（全部代行だけど）面白いのが、N激怒指（ダブクリ7％）は900本で買いましたし、1000本で買い叫びをしている人もいましたが、なぜかこの指はダブクリが8％もあ...",
@@ -1291,16 +1301,6 @@
           "wordCount": 1034,
           "title": "ラピュタ。",
           "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medaka1985/2023120422402510d.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-729.html",
-          "author": "medaka1985",
-          "description": "こんばんは。チャレンジです。残念な結果です(;´･ω･)1時間程狩って、やっと出ました！メインシーフ1149Lvです(*'▽')いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-729.html",
-          "publishedOn": "2023-12-03T13:22:07.000Z",
-          "wordCount": null,
-          "title": "命中補正無視 職鎧。",
-          "imageUrl": null
         }
       ]
     },
