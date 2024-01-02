@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T06:22:11.588Z</updated>
+    <updated>2024-01-02T06:47:58.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リアルガンマン。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-754.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-754.html"/>
+        <updated>2024-01-02T06:25:18.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。あら、可愛い(*´ω｀*)懐かしくて、ワクワクします。実際に行って見ます。結構、本格的です。坊っちゃん列車です。経営不振で街中を走る事は無くなる様です。残念(T_T)いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新年初ギャンブル]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202401020000/</id>
