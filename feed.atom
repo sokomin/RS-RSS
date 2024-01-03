@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T11:47:56.267Z</updated>
+    <updated>2024-01-03T12:32:12.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ダーティクリティカル。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-755.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-755.html"/>
+        <updated>2024-01-03T12:16:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。高価なお買い物です。涼しい洞窟にて。経験値がしょっぱいけど、ドロップが良いです(*'▽')メインシーフ1161Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年の抱負！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-401.html</id>
