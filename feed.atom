@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T23:47:30.886Z</updated>
+    <updated>2024-01-03T01:13:56.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年の抱負！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-401.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-401.html"/>
+        <updated>2024-01-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[お正月にうかれててうっかり水曜０時の更新を忘れていました＾＾；年末の更新でも書きましたがオオカミ少年の今年の目標は１２５０になる事で突然思いもよらないことが起こらない限りは達成できる目標としました＾＾あとは他キャラもそこそこ育成したいと思っていて他Gにいるキャラを一度無課金Gに召喚して育成しようかな？と思ってるのが数キャラいるのですがどうするか迷ってるところでした＾＾；とりあえず今年の目標は緩くオオ]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リアルガンマン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-754.html</id>
