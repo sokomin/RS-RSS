@@ -92,7 +92,18 @@
       "title": "リンズカフェ",
       "feedUrl": "http://rinsmile.blog70.fc2.com/?xml",
       "siteUrl": "http://rinsmile.blog70.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://rinsmile.blog70.fc2.com/blog-entry-1123.html",
+          "author": "リン・ドール",
+          "description": "元日早々、能登半島地震が発生しました。被災された方々、また、被災地にご家族やご友人をお持ちの方々に心からのお見舞いを申し上げます。一日も早い事態の収束を願っています。地震だったり航空機事故だったり暗いスタートの新年ですがあらためて、あけましておめでとうございます数か月ほど音信不通でしたがわたくしは元気です。ちょっと仕事が忙しいのと、家族の健康上の理由でゲームからもブログからも離れておりました。まだ",
+          "link": "http://rinsmile.blog70.fc2.com/blog-entry-1123.html",
+          "publishedOn": "2024-01-04T08:35:48.000Z",
+          "wordCount": 838,
+          "title": "２０２４年明けましておめでとうございます",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "苺桜三玖のぐ〜たらメイド日記",
