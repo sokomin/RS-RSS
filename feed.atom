@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T11:14:58.424Z</updated>
+    <updated>2024-01-04T11:27:36.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re:「闇魔導士ラオール」討伐]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1124.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1124.html"/>
+        <updated>2024-01-04T11:21:08.000Z</updated>
+        <summary type="html"><![CDATA[はい、こんにちはこんばんはずうっとゲームにインせず、ブログのほうも確認していなかったのですが・・・・改めてごめんなさい、コメント放置してました★★★　★★★　★★★B鯖で知識プリンセスを育ててますLv700を超えて協会デイリーで「闇魔導士ラオール」討伐になったのですが、手持ちで装備の準備ができる土属性で倒そうとするのですがダメが出ません。冠　精霊王の冠・鎧　マルダの葉・手　ベノムポッド・ボトル　一滴の静けさここ]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マスケの覚醒 －アブソリュートヒーター－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/d1887c8e6b99a1924a714040716fb812</id>
