@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T01:13:49.651Z</updated>
+    <updated>2024-01-06T02:03:22.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウポス秘密用装備とウポス補助武器]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202401060000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202401060000/"/>
+        <updated>2024-01-06T01:13:37.000Z</updated>
+        <summary type="html"><![CDATA[ウポス秘密では固定の4万ダメを喰らい続けます。（昔のねずみ取りみたいなやつ）HPが4万未満だと、即死し続けてクリアが非常に難しくなると思います。1発に耐えられる4万～8万未満でも、かなり死にまくって復活や...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初詣の記録。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-757.html</id>
