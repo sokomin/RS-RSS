@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T08:48:09.621Z</updated>
+    <updated>2024-01-06T09:15:35.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イベント告知 【２０２４あけおめ辰年、Ｂサバのドラゴン選手権大会】]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1125.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1125.html"/>
+        <updated>2024-01-06T09:00:55.000Z</updated>
+        <summary type="html"><![CDATA[イベント告知【２０２４あけおめ辰年、Ｂサバのドラゴン選手権大会】突然ですがイベント開きます日時：１月７日（日）２１：００場所：Ｂサバ古都冒険者協会前広場みなさま、あけましておめでとうございます今年は辰年、そうドラゴンの年ですそういうわけで、Ｂサバのドラゴンが誰なのか決定するイベントを開きたいと思います今回の決定戦でＢサバに４名（ぐらい）のドラゴンが誕生することでしょうドラツイや竜撃破などのドラゴン]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウポス秘密用装備とウポス補助武器]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202401060000/</id>
