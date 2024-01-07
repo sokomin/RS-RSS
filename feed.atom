@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T23:47:37.697Z</updated>
+    <updated>2024-01-07T01:21:00.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1080,16 +1080,6 @@ Lv1250以上必要な要素案
         <link href="https://medaka1985.fc2.net/blog-entry-735.html"/>
         <updated>2023-12-09T07:55:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。蟹さん。くコ:彡いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イリスの冠。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-734.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-734.html"/>
-        <updated>2023-12-08T12:44:07.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ナイスコスチュームです。レア品ドロップです。討伐ボックスから良いのが出ました。1151Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
