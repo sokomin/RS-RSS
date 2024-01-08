@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-08T17:15:17.744Z</updated>
+    <updated>2024-01-08T17:29:40.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[変な指を異次元で作ってみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202401090000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202401090000/"/>
+        <updated>2024-01-08T17:15:22.000Z</updated>
+        <summary type="html"><![CDATA[ダブクリ8％ファルコン指を買った辺りで貯金が完全に尽きていたわけですが、あれから課金以外の様々な金策に継続して取り組んでおります。金策で数百本作っては全部使うというのを繰り返しているのですが、万本単...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[輝くドロップBOX。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-760.html</id>
