@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-08T23:29:27.185Z</updated>
+    <updated>2024-01-08T23:47:39.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1144,16 +1144,6 @@ Lv1250以上必要な要素案
         <summary type="html"><![CDATA[もうすぐクリスマスですねそれが過ぎるとすぐに年末です大掃除も年賀状もやらないとと思っていますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ある異邦人クエスト。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-736.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-736.html"/>
-        <updated>2023-12-10T11:40:51.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです。コレ、出るとテンション上がります。PvP 順位です。ビーストテイマーが967Lvです。1150Lvクエストです。1152Lvです。もいっちょ！1153Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
