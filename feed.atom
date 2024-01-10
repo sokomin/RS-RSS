@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T19:28:00.109Z</updated>
+    <updated>2024-01-10T19:47:25.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1225,16 +1225,6 @@ Lv1250以上必要な要素案
         <summary type="html"><![CDATA[基本的に毎朝５時起きしてるのですがそれはちょっと朝に早起きしてすることがあるからだったりします。それが終わると７時近くまでは自由時間となるため凡そですが普段は5:40頃からRSを始めています＾＾それですぐにメインキャラのオオカミ少年を動かすのかと言えば実はそうではなくオオカミ少年の稼働は６時までおあずけとしてました！どうしてかというと旗バフからもらえる箱のリセットが朝６時なのでそれより前の時間にインして]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丘の上のお店。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-737.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-737.html"/>
-        <updated>2023-12-12T07:42:45.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。素敵なお皿です。いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
