@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T07:47:27.087Z</updated>
+    <updated>2024-01-12T08:22:17.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[秘密時のHPをさらに強化]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202401120000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202401120000/"/>
+        <updated>2024-01-12T08:12:32.000Z</updated>
+        <summary type="html"><![CDATA[前回のピスレスの解放変換がいまいちだったので、今度はレプリカで回数を増やしてやってみました。HPを増やすだけならレプリカの方が楽でしたね。（20回くらいやったけどなｗ）さらに透明付の対人用ソウルをクビ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[台湾料理。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-764.html</id>
