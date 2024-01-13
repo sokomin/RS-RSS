@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T14:47:43.886Z</updated>
+    <updated>2024-01-13T15:15:56.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クリーチャー合成。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-765.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-765.html"/>
+        <updated>2024-01-13T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。見た事無いコスチューム、素敵です。HR2＋Nの合成です。( ･´ｰ･｀)どやぁ…メインシーフ1168Lv到達です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無きペットの吸収攻撃]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-209.html</id>
