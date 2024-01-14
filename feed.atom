@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T16:48:07.334Z</updated>
+    <updated>2024-01-14T17:14:15.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1151,16 +1151,6 @@ T健康比アンチは特に今必要性がなくなったので、目標から�
         <summary type="html"><![CDATA[こんにちは。天燈上げと言う様です。祝い事、願い事を書いて、天の神様に吟味して頂きます。文字は大きい程、良いそうです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリーチャーパッシブ完成]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202312160000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202312160000/"/>
-        <updated>2023-12-16T05:04:40.000Z</updated>
-        <summary type="html"><![CDATA[あの後、SRコクーンを16個追加しました！（金使い過ぎた・・）マナと覚醒石が出るオーライベントのおかげもあって、短期間でパッシブを完成させられました。（上級経験値は、覚醒であと2だけ上がります）さらに、...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
