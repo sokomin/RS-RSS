@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T14:47:42.728Z</updated>
+    <updated>2024-01-18T15:18:07.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レッドアイ倉庫。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-770.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-770.html"/>
+        <updated>2024-01-18T14:47:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。恰好良いカードです。レッドアイ倉庫です。(箱品目当て)メインシーフ1172Lv到達です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[これはいよいよ…？]]></title>
         <id>http://scratch2009.blog.fc2.com/blog-entry-222.html</id>
