@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T11:47:59.069Z</updated>
+    <updated>2024-01-18T12:33:10.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[これはいよいよ…？]]></title>
+        <id>http://scratch2009.blog.fc2.com/blog-entry-222.html</id>
+        <link href="http://scratch2009.blog.fc2.com/blog-entry-222.html"/>
+        <updated>2024-01-18T12:03:27.000Z</updated>
+        <summary type="html"><![CDATA[ログインするボタンの上に何も表示がないのは初めて見た。ウィンターロトの売り出し期間も急遽短縮したみたいだし、これはいよいよかも。]]></summary>
+        <author>
+            <name>scratch2009</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ゲーム全般】サービス終了]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-971.html</id>
