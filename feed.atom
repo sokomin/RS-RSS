@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T18:22:00.162Z</updated>
+    <updated>2024-01-19T18:48:05.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1068,15 +1068,6 @@ T健康比アンチは特に今必要性がなくなったので、目標から�
         <id>https://www.youtube.com/watch?v=n9HRc21umNw</id>
         <link href="https://www.youtube.com/watch?v=n9HRc21umNw"/>
         <updated>2023-12-21T09:24:36.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まったり配達したい「DEATH STRANDING」♯２]]></title>
-        <id>https://www.youtube.com/watch?v=brCdAZGXWH8</id>
-        <link href="https://www.youtube.com/watch?v=brCdAZGXWH8"/>
-        <updated>2023-12-21T06:26:13.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>
