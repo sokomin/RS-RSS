@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T21:15:23.414Z</updated>
+    <updated>2024-01-19T21:27:32.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1070,15 +1070,6 @@ T健康比アンチは特に今必要性がなくなったので、目標から�
         <summary type="html"><![CDATA[※今回はとくに、自分のための備忘記事です。ごめんなさい。前回の記事で「アイテムをなんでも取っておくのも考えもの、片付けたい」と書きましたけれど。断捨離ちょっと待った自分。本日直近のアップデート内容をチェックしていたら、なにやら新システムのお話が。しかもこの潜在能力発現、ID内の全キャラ共有って。えええ。夢のようなお話ではありませんか＠＠；ほかのゲームではこういう感じの仕様はいろいろあって、RSにもあれ]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２３年１２月のアプデ情報とか色々！]]></title>
-        <id>https://www.youtube.com/watch?v=n9HRc21umNw</id>
-        <link href="https://www.youtube.com/watch?v=n9HRc21umNw"/>
-        <updated>2023-12-21T09:24:36.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
