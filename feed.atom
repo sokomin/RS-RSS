@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T06:22:34.986Z</updated>
+    <updated>2024-01-19T06:47:47.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[季節外れの。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-771.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-771.html"/>
+        <updated>2024-01-19T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。氷がふわっとして果肉とシロップの相性抜群です。最近、牡蠣を食べていなかったので、とても美味しく頂けました。また行きたいなっと思いました。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レッドアイ倉庫。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-770.html</id>
