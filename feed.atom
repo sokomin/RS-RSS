@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T23:15:47.558Z</updated>
+    <updated>2024-01-19T23:28:29.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1069,16 +1069,6 @@ T健康比アンチは特に今必要性がなくなったので、目標から�
         <updated>2023-12-21T15:28:14.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これ早まったらまずいやつ…]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-965.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-965.html"/>
-        <updated>2023-12-21T11:20:35.000Z</updated>
-        <summary type="html"><![CDATA[※今回はとくに、自分のための備忘記事です。ごめんなさい。前回の記事で「アイテムをなんでも取っておくのも考えもの、片付けたい」と書きましたけれど。断捨離ちょっと待った自分。本日直近のアップデート内容をチェックしていたら、なにやら新システムのお話が。しかもこの潜在能力発現、ID内の全キャラ共有って。えええ。夢のようなお話ではありませんか＠＠；ほかのゲームではこういう感じの仕様はいろいろあって、RSにもあれ]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
     <entry>
