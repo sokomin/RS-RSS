@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T03:48:07.179Z</updated>
+    <updated>2024-01-20T04:20:38.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1039,16 +1039,6 @@ T健康比アンチは特に今必要性がなくなったので、目標から�
         <link href="https://medaka1985.fc2.net/blog-entry-744.html"/>
         <updated>2023-12-22T07:54:41.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。台湾グランドホテルです。壮大な建物です。宮殿跡です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[森の指令。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-743.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-743.html"/>
-        <updated>2023-12-21T15:49:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ビーストテイマーのペット、森の指令です。レアアイテムGET(^^♪HRは嬉しいです(´ω｀*)メインシーフ、1155Lv到達です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
