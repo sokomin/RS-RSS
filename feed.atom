@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T02:40:43.584Z</updated>
+    <updated>2024-01-23T03:18:38.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1107,26 +1107,6 @@ T健康比アンチは特に今必要性がなくなったので、目標から�
         <summary type="html"><![CDATA[こんばんは。人がたくさん、いらっしゃいます(*'▽')大きな買い物です。何か違和感が(汗)1番目の再構成しちゃった(/・ω・)/これ、自分用で良かったです。(代行でこれやったら終わりでした。)いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プレミアムロト10個。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-746.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-746.html"/>
-        <updated>2023-12-24T15:03:13.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。シンプルに恰好良いコスチュームです。超スフィアーリミテッドのロトです。おまけにしては良いのが出ました(*'▽')これに鞄拡張(8個)セットなのでお買い得です。いつも読んで頂き、誠にありとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12月アップデート　【マスケッティア、潜在能力、ファルコン、図案書他】]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-831.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-831.html"/>
-        <updated>2023-12-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[早くも年末ですクリスマスや年末年始予定のある方もいらっしゃると思いますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
