@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T19:14:31.889Z</updated>
+    <updated>2024-01-24T19:27:23.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1252,16 +1252,6 @@ T健康比アンチは特に今必要性がなくなったので、目標から�
         <summary type="html"><![CDATA[お正月が近くなりそこそこ忙しいこの頃です＾＾；この前のアプデでマスケの改変が来たのですがそんなに時間がなかったのでちょっといじった程度なのですが覚醒は改変前と同じラピッドデスペラードにしました！ちょっといろいろSS取り忘れてたのでざっくりした説明になっちゃいますが改変前と名前だけは同じスキルなのがキングメイトでそれ以外は新規のスキルになっちゃったみたいでした！わたしが今のところ使ってるスキルはチェッ]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空港お見上げ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-748.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-748.html"/>
-        <updated>2023-12-26T07:25:30.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。成田空港のつけ麺です。魚介のこってりした出汁が最高です。おもちゃコーナーも充実しています。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
