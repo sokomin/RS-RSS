@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T03:48:00.520Z</updated>
+    <updated>2024-01-24T04:21:42.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1115,16 +1115,6 @@ T健康比アンチは特に今必要性がなくなったので、目標から�
         <link href="https://medaka1985.fc2.net/blog-entry-748.html"/>
         <updated>2023-12-26T07:25:30.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。成田空港のつけ麺です。魚介のこってりした出汁が最高です。おもちゃコーナーも充実しています。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玲瓏な混沌の破片。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-747.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-747.html"/>
-        <updated>2023-12-25T15:58:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。人がたくさん、いらっしゃいます(*'▽')大きな買い物です。何か違和感が(汗)1番目の再構成しちゃった(/・ω・)/これ、自分用で良かったです。(代行でこれやったら終わりでした。)いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
