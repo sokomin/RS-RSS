@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T06:47:32.189Z</updated>
+    <updated>2024-01-24T07:17:00.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お知らせ]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1272.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1272.html"/>
+        <updated>2024-01-24T07:01:15.000Z</updated>
+        <summary type="html"><![CDATA[先週メンテ後から予想してた人多そうな結果ですね。2月15日から開発元に移管されるらしいですが。とりあえず日本サービスは2月14日15時で終了の模様。翌15日に開発元でサービス開始、という感じですかね。移管に関するQ&Aも出てるので、そちらもしっかり確認しておくのが良いです。゜。°。°。°。°。°。°。°。゜。°。°。°。さて、こうなると今後どうしようかな・・・続けていくか、ここで終わるか悩みどこ。長く続けてきたし、これ]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ﾒﾝﾃだったのでﾋﾏﾂﾌﾞｼ中(´-ω-`)]]></title>
         <id>https://ameblo.jp/keykeykey2010/entry-12837836708.html</id>
