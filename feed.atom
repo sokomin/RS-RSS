@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T14:27:37.144Z</updated>
+    <updated>2024-01-28T14:47:44.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウィークリーゲリオ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-780.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-780.html"/>
+        <updated>2024-01-28T14:33:30.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。美しいコスチュームです。青い宝箱が現れました。日曜なのでウィークリー討伐です。毎度！また宜しくお願いします！いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[壺パーティ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-779.html</id>
