@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-29T14:14:45.948Z</updated>
+    <updated>2024-01-29T14:28:46.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欲張りレビット。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-781.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-781.html"/>
+        <updated>2024-01-29T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。可愛いコスチュームです。思い切って購入…！レアモンスター、経験値は1スキル程です。ありがとうございーます！(幽遊白書リスペクト)サブの武道家919Lvです。メインシーフ1176Lvです(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運営移管]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-836.html</id>
