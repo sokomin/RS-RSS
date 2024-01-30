@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T10:32:55.827Z</updated>
+    <updated>2024-01-30T10:47:51.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[RED STONE ULT］職鎧。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-782.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-782.html"/>
+        <updated>2024-01-30T10:38:51.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。美しい姉妹のカードです。レアアイテムGet！需要はある気がします。25本で旅立ちました。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欲張りレビット。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-781.html</id>
