@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T14:47:40.758Z</updated>
+    <updated>2024-01-30T15:17:21.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[残るか？消えるか？]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-405.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-405.html"/>
+        <updated>2024-01-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前回のメンテ後に発表された運営移管のお知らせはかなりびっくりした方が多かったんじゃないかなと思います。公式の発表によれば基本的には今まで通りで韓国鯖との統合はなくて別である事といま実装中のアイテムやクエストなども移管によっての変更はないという事でしたがバージョンアップによって変更の可能性はあるという事でした。とりあえずは今のまま運営が変わるだけでその後はもしかしたら変わるかもしれませんってことかな]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[RED STONE ULT］職鎧。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-782.html</id>
