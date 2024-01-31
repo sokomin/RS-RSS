@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T13:47:24.988Z</updated>
+    <updated>2024-01-31T14:14:51.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -996,16 +996,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[こんにちは。あら、可愛い(*´ω｀*)懐かしくて、ワクワクします。実際に行って見ます。結構、本格的です。坊っちゃん列車です。経営不振で街中を走る事は無くなる様です。残念(T_T)いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新年初ギャンブル]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202401020000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202401020000/"/>
-        <updated>2024-01-02T02:01:04.000Z</updated>
-        <summary type="html"><![CDATA[霊術の装備がほぼ完成したので、他のキャラの装備も改良しようかなと思いました。金再構成28回目・・大負けｗ賢者貼り付け4回目で成功・・・中負け3OP目の力比を消して、ランディスを貼り付けるか力固定増強にす...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
