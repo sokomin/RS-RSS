@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T11:47:30.786Z</updated>
+    <updated>2024-02-01T12:29:22.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】さっきの続き]]></title>
+        <id>https://www.youtube.com/watch?v=SK08aZiiwR8</id>
+        <link href="https://www.youtube.com/watch?v=SK08aZiiwR8"/>
+        <updated>2024-02-01T12:10:25.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】重　要　な　お　知　ら　せ　と　か]]></title>
         <id>https://www.youtube.com/watch?v=TKnQuxWJJLA</id>
@@ -1036,16 +1045,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[こんばんは。高価なお買い物です。涼しい洞窟にて。経験値がしょっぱいけど、ドロップが良いです(*'▽')メインシーフ1161Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年の抱負！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-401.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-401.html"/>
-        <updated>2024-01-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[お正月にうかれててうっかり水曜０時の更新を忘れていました＾＾；年末の更新でも書きましたがオオカミ少年の今年の目標は１２５０になる事で突然思いもよらないことが起こらない限りは達成できる目標としました＾＾あとは他キャラもそこそこ育成したいと思っていて他Gにいるキャラを一度無課金Gに召喚して育成しようかな？と思ってるのが数キャラいるのですがどうするか迷ってるところでした＾＾；とりあえず今年の目標は緩くオオ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
