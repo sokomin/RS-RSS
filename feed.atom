@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T23:47:24.776Z</updated>
+    <updated>2024-02-02T01:10:37.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1045,16 +1045,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[元日早々、能登半島地震が発生しました。被災された方々、また、被災地にご家族やご友人をお持ちの方々に心からのお見舞いを申し上げます。一日も早い事態の収束を願っています。地震だったり航空機事故だったり暗いスタートの新年ですがあらためて、あけましておめでとうございます数か月ほど音信不通でしたがわたくしは元気です。ちょっと仕事が忙しいのと、家族の健康上の理由でゲームからもブログからも離れておりました。まだ]]></summary>
         <author>
             <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダーティクリティカル。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-755.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-755.html"/>
-        <updated>2024-01-03T12:16:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。高価なお買い物です。涼しい洞窟にて。経験値がしょっぱいけど、ドロップが良いです(*'▽')メインシーフ1161Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
