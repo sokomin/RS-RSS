@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T10:30:52.210Z</updated>
+    <updated>2024-02-02T10:47:53.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】ウポス入る為の前提クエの前提クエの前提クエの前提クエの前提クエの前転クエの前提クエの前提クエやる]]></title>
+        <id>https://www.youtube.com/watch?v=VvQTzm3IcrA</id>
+        <link href="https://www.youtube.com/watch?v=VvQTzm3IcrA"/>
+        <updated>2024-02-02T10:42:32.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[炉端焼き。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-785.html</id>
