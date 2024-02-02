@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T11:47:37.540Z</updated>
+    <updated>2024-02-02T12:28:56.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[REDSTONE　日本サービス移管]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202402020000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202402020000/"/>
+        <updated>2024-02-02T12:10:09.000Z</updated>
+        <summary type="html"><![CDATA[​​重要なお知らせ​​↑クリック！休止中等で、↑をまだ見ていない人に向けてブログを更新しました。これで気づいてくれたら良いのだけど・・。]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】ウポス入る為の前提クエの前提クエの前提クエの前提クエの前提クエの前転クエの前提クエの前提クエやる]]></title>
         <id>https://www.youtube.com/watch?v=VvQTzm3IcrA</id>
