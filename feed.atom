@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T12:51:38.025Z</updated>
+    <updated>2024-02-04T13:18:34.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1004,16 +1004,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[イベント告知【２０２４あけおめ辰年、Ｂサバのドラゴン選手権大会】突然ですがイベント開きます日時：１月７日（日）２１：００場所：Ｂサバ古都冒険者協会前広場みなさま、あけましておめでとうございます今年は辰年、そうドラゴンの年ですそういうわけで、Ｂサバのドラゴンが誰なのか決定するイベントを開きたいと思います今回の決定戦でＢサバに４名（ぐらい）のドラゴンが誕生することでしょうドラツイや竜撃破などのドラゴン]]></summary>
         <author>
             <name>リン・ドール</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウポス秘密用装備とウポス補助武器]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202401060000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202401060000/"/>
-        <updated>2024-01-06T01:13:37.000Z</updated>
-        <summary type="html"><![CDATA[ウポス秘密では固定の4万ダメを喰らい続けます。（昔のねずみ取りみたいなやつ）HPが4万未満だと、即死し続けてクリアが非常に難しくなると思います。1発に耐えられる4万～8万未満でも、かなり死にまくって復活や...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
