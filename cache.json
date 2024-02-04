@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-837.html",
+          "author": "ミツリン",
+          "description": "まだまだ寒い日が続きますねこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-837.html",
+          "publishedOn": "2024-02-04T15:00:00.000Z",
+          "wordCount": 609,
+          "title": "移管の準備等",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-836.html",
           "author": "ミツリン",
           "description": "朝晩の寒さが身にしみる時期ですね朝が苦手なので布団から出るのがどうしても億劫ですこんにちは　ミツリンです",
@@ -951,6 +961,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-787.html",
+          "author": "medaka1985",
+          "description": "こんばんは。荒地チャレンジです。説明欄で会話してる(笑)PvPの魅力。報酬が美味しいです。Σ(･ω･ﾉ)ﾉ！最高額です。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-787.html",
+          "publishedOn": "2024-02-04T15:13:16.000Z",
+          "wordCount": null,
+          "title": "ランダムゴールド袋。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-786.html",
           "author": "medaka1985",
