@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T14:47:43.613Z</updated>
+    <updated>2024-02-06T15:16:30.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ココ見て。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-406.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-406.html"/>
+        <updated>2024-02-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近は運営移管の準備などで他の人との話が多くなり狩りなどの実働時間がどんどんなくなってる気がします＾＾；それだけみんな心配事があり色々準備に念を入れているんでしょうね。やはりみんな登録情報について覚えていないっていう不安があるようでわたしも生年月日知らない垢があり、人によっては住所登録も必要じゃないかって？いう方もいますがわたし住所って入力したかな…もし入力してたとしても生年月日を偽るくらいなので]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[霊術育成日記①]]></title>
         <id>https://plaza.rakuten.co.jp/karudxrs/diary/202402060000/</id>
