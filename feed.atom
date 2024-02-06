@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T02:23:09.260Z</updated>
+    <updated>2024-02-06T02:48:13.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -995,16 +995,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[皆さん年末年始はどう過ごされましたでしょうかこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぽち袋。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-759.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-759.html"/>
-        <updated>2024-01-07T14:36:50.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。レアアイテムドロップです。インフィニティ関連のアイテムです。PvPを3回すると貰えるアイテムです。結構、美味しい中身です。結果↑サブの武道家911Lvです。メインシーフ1164Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
