@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T11:48:05.021Z</updated>
+    <updated>2024-02-06T12:30:22.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[霊術育成日記①]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202402060000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202402060000/"/>
+        <updated>2024-02-06T12:28:35.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！更新をさぼっていましたが、今日から〇霊術の育成日記〇300制限　記事を書いていこうと思います。とりあえず、ほしめろがブログ更新したらしいので見てあげてください。​もす​更新は更新です。今日は...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もす]]></title>
+        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202402060000/</id>
+        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202402060000/"/>
+        <updated>2024-02-06T12:12:22.000Z</updated>
+        <summary type="html"><![CDATA[ＲＥＤＳＴＯＮＥのＳ鯖で大活躍中のサマナーのブログ
+実は紫鯖出身]]></summary>
+        <author>
+            <name>ほしめろちゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[塩ラーメン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-788.html</id>
