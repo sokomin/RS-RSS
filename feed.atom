@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T14:47:38.336Z</updated>
+    <updated>2024-02-10T15:14:35.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】日本運営最後のS鯖攻城戦覇者「ハイリガ」]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-975.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-975.html"/>
+        <updated>2024-02-10T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[幸運にも、日本運営最後の攻城戦にてRank5攻めとなり、激闘の末にRank5ゲット。ハイリガが日本運営最後の「S鯖」攻城戦覇者となった。毎週P戦やってくれてるGマス、副マス、幹部の方々には感謝しかない。みんな、最高の仲間だ。そして日本運営じゃなくなっても、RSがある限り遊び続けよう。REDSTONEは永遠に不滅だ！]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】「鯖間大戦」開催]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-973.html</id>
