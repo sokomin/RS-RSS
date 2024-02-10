@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T06:47:58.710Z</updated>
+    <updated>2024-02-10T07:14:13.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Levitating]]></title>
+        <id>https://intothe.info/?p=1982</id>
+        <link href="https://intothe.info/wow/levitating/"/>
+        <updated>2024-02-10T06:53:55.000Z</updated>
+        <summary type="html"><![CDATA[カンストキャラも作れてDragonflightのキャンペーンもTha...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運試し。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-791.html</id>
