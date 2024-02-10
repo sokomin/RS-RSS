@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T03:48:12.991Z</updated>
+    <updated>2024-02-10T04:19:56.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -969,16 +969,6 @@ Some pictures and locations can be found here]]></summary>
         <link href="https://medaka1985.fc2.net/blog-entry-764.html"/>
         <updated>2024-01-12T07:18:37.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。デザートのマンゴープリンです。豚足です。コラーゲンたっぷりです。小籠包、肉汁が滴ります。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宝闇商人の落とし物。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-763.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-763.html"/>
-        <updated>2024-01-11T16:17:30.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです。この箱熱いです！サブの武道家913Lvです。メインシーフ1166Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
