@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T19:12:23.827Z</updated>
+    <updated>2024-02-10T19:27:26.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1012,16 +1012,6 @@ Some pictures and locations can be found here]]></summary>
         <summary type="html"><![CDATA[前回のピスレスの解放変換がいまいちだったので、今度はレプリカで回数を増やしてやってみました。HPを増やすだけならレプリカの方が楽でしたね。（20回くらいやったけどなｗ）さらに透明付の対人用ソウルをクビ...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台湾料理。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-764.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-764.html"/>
-        <updated>2024-01-12T07:18:37.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。デザートのマンゴープリンです。豚足です。コラーゲンたっぷりです。小籠包、肉汁が滴ります。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
