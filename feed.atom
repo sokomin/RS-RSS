@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T08:21:14.688Z</updated>
+    <updated>2024-02-12T08:47:46.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鯖間大戦]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202402120000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202402120000/"/>
+        <updated>2024-02-12T08:44:52.000Z</updated>
+        <summary type="html"><![CDATA[鯖間大戦に誘ってくれた方が何人かいましたが、対人装備の一部を処分しているので、残念ですがかなり前からGvも城も出られない状態です。具体的には、頭と耳とクレストがなくて、超越スキルを初期化する課金アイ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】「鯖間大戦」本日から2夜実施]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-976.html</id>
