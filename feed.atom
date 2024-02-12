@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T13:19:52.648Z</updated>
+    <updated>2024-02-12T13:32:26.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RS～とりあえず]]></title>
+        <id>http://yuntohoozuki.blog.fc2.com/blog-entry-96.html</id>
+        <link href="http://yuntohoozuki.blog.fc2.com/blog-entry-96.html"/>
+        <updated>2024-02-12T13:22:14.000Z</updated>
+        <summary type="html"><![CDATA[このまま終わりにせず継続して後に様子見つつということでこのタイミングで初めての新型コロナ罹患・。・；]]></summary>
+        <author>
+            <name>ユンユン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鯖間大戦]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202402120000/</id>
