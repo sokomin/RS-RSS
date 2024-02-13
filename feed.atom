@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T14:47:30.821Z</updated>
+    <updated>2024-02-13T15:16:40.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一先ず]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-407.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-407.html"/>
+        <updated>2024-02-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[運営移管するにはどのようなことが必要なのか？結局具体的なものが発表されずにサービス移管メンテナンスの日が来ちゃいました。わたし的にはこれは移管しても大した手続きは必要ないので発表しないのだろうという解釈で今まで通り変わらないのかな？と考えていました＾＾それで今の運営から変わる区切りとしてオオカミ少年はどんな感じかというとLv1183で次の運営様に移行することになりました！移行できない可能性があるかもしれ]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生命力の高い生き物。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-794.html</id>
