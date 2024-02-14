@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T04:31:46.308Z</updated>
+    <updated>2024-02-14T04:47:57.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1010,18 +1010,6 @@ RSとは関係のないｵﾝﾗｲﾝｹﾞｰﾑの運営側の人がギルド
         <summary type="html"><![CDATA[こんばんは。空港のお肉屋さんです。旅先の広場です。温泉が出そうなポストです。旅館の待合室です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pet List v3!]]></title>
-        <id>tag:blogger.com,1999:blog-622089654895304373.post-1020161273132426330</id>
-        <link href="https://diaanrs.blogspot.com/2024/01/pet-list-v3.html"/>
-        <updated>2024-01-15T16:47:00.000Z</updated>
-        <summary type="html"><![CDATA[The following pets are AOE only, I did not include single target pets
-Note: as no pictures are included, please feel free to message me in game at any of the names listed on the left of my blog if you want help to get them! (mainly on Hardwired though)
-Some pictures and locations can be found here]]></summary>
-        <author>
-            <name>noreply@blogger.com (Unknown)</name>
         </author>
     </entry>
     <entry>
