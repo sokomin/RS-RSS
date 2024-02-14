@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T16:48:11.900Z</updated>
+    <updated>2024-02-14T17:15:07.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[明日は移管の日]]></title>
+        <id>tag:blogger.com,1999:blog-6041969618045088376.post-8344976870407319114</id>
+        <link href="https://rs-kumapon.blogspot.com/2024/02/blog-post.html"/>
+        <updated>2024-02-14T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[レッドストーン運営の皆様
+大変楽しい日々を提供してくださり
+ありがとうございました！！
+
+
+レッドストーンを始めた当初のSSは
+ジオシティーズの閉鎖に伴い消え失せましたが
+わたしの思いと心に残っております。
+忘れられない日々です。
+
+
+今も色々なゲームに手を出しては
+あの頃のレッドストーンで味わった楽しさとは
+違うな、と感じて辞めてしまいます。
+
+
+それほどまでに
+わたしの人生に大きな影響を与えました。
+感謝してもしきれません。
+本当にありがとうございました！]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[さようならレッドストーン日本サーバー]]></title>
         <id>http://rinsmile.blog70.fc2.com/blog-entry-1128.html</id>
