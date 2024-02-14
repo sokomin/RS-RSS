@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T19:27:43.942Z</updated>
+    <updated>2024-02-14T19:47:30.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1097,16 +1097,6 @@ RSとは関係のないｵﾝﾗｲﾝｹﾞｰﾑの運営側の人がギルド
         <summary type="html"><![CDATA[他キャラを優先していたため倉庫Gでたまに動かす程度になっていたジェンド-Rですが無課金Gに戻ってきたのでディメは毎日行くようになりました＾＾ホントにたまに動かす程度になっていたので装備を見るとほとんどの装備が適当になっていておそらく恋はキライだやジェンド‐Ⅱあたりに装備渡して代わりにどうでもいいやつをこのキャラに持たせてたのがわかる感じでした＾＾；そこでもう少し銀行を整理して恋はキライだ・ジェンド‐R・Ⅱ]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[温泉街。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-768.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-768.html"/>
-        <updated>2024-01-16T07:39:13.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。空港のお肉屋さんです。旅先の広場です。温泉が出そうなポストです。旅館の待合室です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
