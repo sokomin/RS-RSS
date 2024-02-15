@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-15T14:28:20.209Z</updated>
+    <updated>2024-02-15T14:48:18.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[予想通り？]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1273.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1273.html"/>
+        <updated>2024-02-15T14:37:31.000Z</updated>
+        <summary type="html"><![CDATA[今日11時から移管開始予定だったんですが延長して16日11時に変更なってましたね。アプデとかでも毎回のごとく何かしらバグとかあったし今回のこれも案外予想した人とか多そうですかねぇ。さてさて、再延長があるのかどうか。どうなるかは明日の時間待ちですね。]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[これまでを振り返ってみて]]></title>
         <id>hatenablog://entry/6801883189083510955</id>
