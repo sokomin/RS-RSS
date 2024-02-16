@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T10:18:12.735Z</updated>
+    <updated>2024-02-16T10:32:22.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1217,16 +1217,6 @@ RSとは関係のないｵﾝﾗｲﾝｹﾞｰﾑの運営側の人がギルド
         <summary type="html"><![CDATA[ログインするボタンの上に何も表示がないのは初めて見た。ウィンターロトの売り出し期間も急遽短縮したみたいだし、これはいよいよかも。]]></summary>
         <author>
             <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】サービス終了]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-971.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-971.html"/>
-        <updated>2024-01-17T22:31:21.000Z</updated>
-        <summary type="html"><![CDATA[以前遊んでいたMMORPG「LOST ARK」が2024/3/20でサービス終了すると発表した。自分は2020/12月くらいから2022/11月末くらいまでの約2年間遊んでおり、結構ハマったゲームだった。アップデートやサーバー維持費用をペイ出来なくなったのかな？とサービス終了の原因を推測しているが、真実は分からない。プレイしなくなって1年以上経過しており、今更INしてサービス終了の瞬間に立ち会いたい！とかは考えていないが、ずっとやってき]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
