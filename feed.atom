@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T01:10:11.909Z</updated>
+    <updated>2024-02-16T01:57:55.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1167,16 +1167,6 @@ RSとは関係のないｵﾝﾗｲﾝｹﾞｰﾑの運営側の人がギルド
         <summary type="html"><![CDATA[明けましておめでとうございます。初めて見た気がする画面です。公式サイトが見ての通り、イベントとか何もありません。去年からイベントの数は減ってると思ってましたけど、ついに何もなくなりました。いやほんと公式サイトでイベントバナーの類が一切ないこの画面は初めて見た気がします。確か来月で19年目突入になるはずですが・・・サ終に向けて動いてませんかね、運営。これ見たらそんな風にも感じるんですがね。例年なら来週]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリーチャー(共鳴石)。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-769.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-769.html"/>
-        <updated>2024-01-17T13:42:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。レアなコスチュームです。少数ですが換金しました。PvP(3回)報酬BOX。勝っても負けても参加賞です。↑金額はこちら。↑この餌1つ。勿体ないかな。まさかの＋150(笑) 勿体ないです。サブの武道家915Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
