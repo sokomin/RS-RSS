@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T13:29:33.545Z</updated>
+    <updated>2024-02-16T13:48:00.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[移管失敗しました。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-796.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-796.html"/>
+        <updated>2024-02-16T13:34:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。地元のお祭りです。おおっ！美味しそうです。アイデア商品ですね♪いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運営変わった【REDSTONE】新生レッドストーンやるます]]></title>
         <id>https://www.youtube.com/watch?v=nv_iKQtqz6w</id>
