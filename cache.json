@@ -83,6 +83,16 @@
       "siteUrl": "http://rinsmile.blog70.fc2.com/",
       "articles": [
         {
+          "id": "http://rinsmile.blog70.fc2.com/blog-entry-1129.html",
+          "author": "リン・ドール",
+          "description": "こんにちはこんばんは、ハニーですよ！皆様、新サーバーへの移管は順調ですか？★★★　★★★　★★★運営移管のサービスメンテナンスも終わり（メンテの延長とか臨時メンテとかはスルー）新サーバーに移ってきていることと思いますで、移管途中でちょっとわかりにくいな～と思ったこととかを少し書いておこうかな？旧運営のウェヴページにアクセスするとこの画面になります↓『アカウントを移管する』をクリックすると↓認証から移管の流れ",
+          "link": "http://rinsmile.blog70.fc2.com/blog-entry-1129.html",
+          "publishedOn": "2024-02-17T00:34:16.000Z",
+          "wordCount": 846,
+          "title": "遺憾な移管はイカン！",
+          "imageUrl": null
+        },
+        {
           "id": "http://rinsmile.blog70.fc2.com/blog-entry-1128.html",
           "author": "リン・ドール",
           "description": "はいこんにちは、こんばんはハニーレモネードです！そしてさようなら！今日現在２０２４年の２月１４日なんですがただ今メンテ中ですねそしてなんとですね～このメンテでレッドストーンの日本運営が終了するのですよ←であってるのかな？？最近あんまりインできない状況になっていて情報発信できてないのが心ぐるしかったりする自分自身遊べてなかったりするけど、データーの移行はするつもりですでもどうなるのかな？うまくいこう",
@@ -321,13 +331,13 @@
       "siteUrl": "http://scratch2009.blog.fc2.com/",
       "articles": [
         {
-          "id": "http://scratch2009.blog.fc2.com/blog-entry-222.html",
+          "id": "http://scratch2009.blog.fc2.com/blog-entry-223.html",
           "author": "scratch2009",
-          "description": "ログインするボタンの上に何も表示がないのは初めて見た。ウィンターロトの売り出し期間も急遽短縮したみたいだし、これはいよいよかも。",
-          "link": "http://scratch2009.blog.fc2.com/blog-entry-222.html",
-          "publishedOn": "2024-01-18T12:03:27.000Z",
-          "wordCount": 469,
-          "title": "これはいよいよ…？",
+          "description": "移管しました。一週間くらい覚悟してたけど存外早く済みましたね。そしてリニューアルされた公式ＨＰがこちら。ひとつ前の記事に旧公式サイトのイメージ画像が置いてありますが、これと比べると重厚感がなくなってのっぺりした印象。よく言えば洗練されたデザイン…？あとはサントラが聞けるページができたと。昔の読み込み画面と古都のBGMが懐かしい。ランキングページも新しくなった。プレイヤー、攻城戦、ギルド戦はわかるけど宝",
+          "link": "http://scratch2009.blog.fc2.com/blog-entry-223.html",
+          "publishedOn": "2024-02-17T00:26:26.000Z",
+          "wordCount": 459,
+          "title": "移管記念",
           "imageUrl": null
         }
       ]
