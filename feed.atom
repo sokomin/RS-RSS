@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T23:47:29.993Z</updated>
+    <updated>2024-02-18T01:14:13.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[違い探し]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-211.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-211.html"/>
+        <updated>2024-02-18T01:00:58.000Z</updated>
+        <summary type="html"><![CDATA[移管作業中にブラウザを閉じると次回移管登録に失敗するという注意書きに、移管作業中にブラウザを閉じて次回移管登録に失敗してから気づきました。第三の猫です。ブラウザの履歴データをクリアしたら何とかなりました。はい。というわけでログインしていきましょう。古都の木が初めて見る感じの飾りつけになっていますね。 ウェ～ルカ～ムこんな人いましたっけ？この人は前からいましたよ。狩りにて、こんなデザインでしたっけ？]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新生レッドストーン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-797.html</id>
