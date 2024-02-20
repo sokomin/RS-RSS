@@ -56,16 +56,6 @@
           "wordCount": 610,
           "title": "運営移管",
           "imageUrl": null
-        },
-        {
-          "id": "https://mitsurin32.blog.fc2.com/blog-entry-835.html",
-          "author": "ミツリン",
-          "description": "週末は天気が荒れたので冷たいみぞれが降っていましたこんにちは　ミツリンです",
-          "link": "https://mitsurin32.blog.fc2.com/blog-entry-835.html",
-          "publishedOn": "2024-01-21T15:00:00.000Z",
-          "wordCount": 608,
-          "title": "近況報告",
-          "imageUrl": null
         }
       ]
     },
@@ -377,6 +367,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-979.html",
+          "author": "JEFRY",
+          "description": "2/18(日)にHOT-TIMEなる経験値イベントがあり、戦士と獣人で狩りをした。戦士は日の出PVPの大外(狩場がここしか無かった)でイグニを踏み踏みしていたところ、コラプ知識槍がポロリ。獣人は星降るの右上あたりで、イグニやジャガーをシャキシャキしていたところ、コラプ知識箒がポロリ。やはり知識槍は人気みたいで、耳待ちに3000〜4000本の交渉耳がきていたため、5000本で交渉待ちしたら即売れウマーベラス！だが、知識箒には耳さ",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-979.html",
+          "publishedOn": "2024-02-20T03:08:11.000Z",
+          "wordCount": 570,
+          "title": "【REDSTONE】コラプ2連発と新精鋭討伐",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-978.html",
           "author": "JEFRY",
