@@ -702,6 +702,16 @@
       "siteUrl": "http://jendoradoo.blog.fc2.com/",
       "articles": [
         {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-408.html",
+          "author": "ジェンド",
+          "description": "サービス移管メンテナンスが終わり移管した方もかなりいるんじゃないかと思います＾＾知り合いはそこそこ移管しててまだなのは数人かな・・・？わたしもメイン垢とサブ①垢の移管はおわったのですがサブ②垢の移管手続きの時にうっかり途中でウインドウ閉じちゃったのが原因なのか現在サブ②垢のほうがインできない状態になっちゃいました＾＾；メアドの再登録と生年月日・パスワードなどは設定したもののゲームにログインするところ",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-408.html",
+          "publishedOn": "2024-02-20T15:00:00.000Z",
+          "wordCount": 401,
+          "title": "移管失敗…",
+          "imageUrl": null
+        },
+        {
           "id": "http://jendoradoo.blog.fc2.com/blog-entry-407.html",
           "author": "ジェンド",
           "description": "運営移管するにはどのようなことが必要なのか？結局具体的なものが発表されずにサービス移管メンテナンスの日が来ちゃいました。わたし的にはこれは移管しても大した手続きは必要ないので発表しないのだろうという解釈で今まで通り変わらないのかな？と考えていました＾＾それで今の運営から変わる区切りとしてオオカミ少年はどんな感じかというとLv1183で次の運営様に移行することになりました！移行できない可能性があるかもしれ",
@@ -1132,6 +1142,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-799.html",
+          "author": "medaka1985",
+          "description": "こんばんは。不思議なコスチュームです。クリーチャー図鑑 、なんとか38%達成です(*'▽')全戦績：304勝 246敗&nbsp; 勝率55.0%サブのビーストテイマー、977Lv到達です♪いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-799.html",
+          "publishedOn": "2024-02-20T15:10:00.000Z",
+          "wordCount": 1040,
+          "title": "クリーチャー図鑑。",
+          "imageUrl": "https://blog-imgs-174.fc2.com/m/e/d/medaka1985/2024022100012887f.png"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-798.html",
           "author": "medaka1985",
