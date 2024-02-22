@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T05:47:47.190Z</updated>
+    <updated>2024-02-22T06:21:26.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イベント情報1個追加]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1276.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1276.html"/>
+        <updated>2024-02-22T05:56:02.000Z</updated>
+        <summary type="html"><![CDATA[装備強化BURSTイベント封印開放道具箱系の成功率が10％上昇してます。元々100％成功の完全開放とかは流石に対象にはなってないですね。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..課金キャンペーンの方は2つ開催。エターナルロトⅢと開放オプション変換器キャンペーンの2つですね。内容などは公式サイトの各イベントページでご覧ください。それでは今週ものんびり楽しみましょう～( ´ω｀)]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[移管後の活動などなど]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202402220000/</id>
