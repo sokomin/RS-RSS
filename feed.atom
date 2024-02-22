@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T01:09:31.272Z</updated>
+    <updated>2024-02-22T01:56:59.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1260,16 +1260,6 @@ RSﾌﾟﾚｲﾔｰさんとは全員おさらばになりそうですﾊﾞｨ
         <summary type="html"><![CDATA[アルケミのナンセンス文学が前からお世話になっていてあらたに青藍遊泳が加入した【Gravity】様。ちょっと前からギルド公示にこんなことが書いてありました！それでわたしが今まで加入して他G様ではどんなイベントがあったかな？と考えてみました。まずメインGの無課金同盟で今までしたことがあるイベントはかくれんぼクイズサブGを使った身内お遊びGvで特にクイズは出題者によりますがNPCの事を出題するなどMQやクエを読み飛ばし]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寒いですね。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-775.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-775.html"/>
-        <updated>2024-01-23T13:28:09.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。安くて美味しいパンです。見えづらいですが雪、降ってます。かき揚げとから揚げです。美味しいです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
