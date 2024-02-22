@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T22:28:27.185Z</updated>
+    <updated>2024-02-22T22:47:36.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1324,16 +1324,6 @@ WEB倉庫は目視出来る容量が増えていたので
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】運営移管]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-972.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-972.html"/>
-        <updated>2024-01-24T10:46:50.000Z</updated>
-        <summary type="html"><![CDATA[想定通り、運営が開発元に移管されることになった。開発元でのサービス開始日予想まで偶然当たって、運営の人間かと疑われる程・・・サーバー(S鯖)内では、運営移管に伴い引退を示唆する人もいる様だけど、大半のユーザーは安心していることだろう。何より、開発元への運営移管は「黒い砂漠」というオンラインゲームで大成功を収めており、RSにも明るい未来を期待している人も少なくないはず。ゲームをよく分かっている人が運営す]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
