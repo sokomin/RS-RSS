@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T23:47:34.674Z</updated>
+    <updated>2024-02-23T01:08:38.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1269,16 +1269,6 @@ WEB倉庫は目視出来る容量が増えていたので
         <summary type="html"><![CDATA[こんばんは。可愛いメイドコスチュームです。紫クレスト(ドキドキ)です。トレジャーボックスからです。ミッションブックの試練のダンジョンです。ポイント戦にて(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近ログインされていないあなたへ]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-966.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-966.html"/>
-        <updated>2024-01-24T12:15:28.000Z</updated>
-        <summary type="html"><![CDATA[年初のごあいさつもしないままこのような記事を書くことになり、大変恐縮です。ご挨拶や近況などはまた、改めて別の機会に。取り急ぎ今回も、特定の方へ向けたメッセージ記事とさせていただきます。最近ご無沙汰してしまってばかりで恐縮です。AさんｋさんRさんｓさん、ケンさんグレさんコジさんリリさんゆうきさん、そしてこんなブログでも時々覗きにお越しくださる貴方様へ。レッドストーンは来月2月14日で運営会社が変わり、移]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
     <entry>
