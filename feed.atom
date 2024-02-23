@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T02:23:47.801Z</updated>
+    <updated>2024-02-23T02:47:26.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1342,16 +1342,6 @@ WEB倉庫は目視出来る容量が増えていたので
         <link href="https://medaka1985.fc2.net/blog-entry-777.html"/>
         <updated>2024-01-25T12:58:03.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。微笑ましいカードです。試練のダンジョンにて。PvP順位です。メインシーフ1174Lv到達です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラッドランカー。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-776.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-776.html"/>
-        <updated>2024-01-24T14:46:07.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。可愛いメイドコスチュームです。紫クレスト(ドキドキ)です。トレジャーボックスからです。ミッションブックの試練のダンジョンです。ポイント戦にて(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
