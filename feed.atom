@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T23:47:57.139Z</updated>
+    <updated>2024-02-24T01:06:36.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1360,16 +1360,6 @@ WEB倉庫は目視出来る容量が増えていたので
         <link href="https://medaka1985.fc2.net/blog-entry-778.html"/>
         <updated>2024-01-26T13:28:19.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。らっきー♪熱盛！久しぶりのドロップです。出ると嬉しいアイテムです。金策です。何とか売り切りです！サブの武道家、918Lvです(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デッドムーン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-777.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-777.html"/>
-        <updated>2024-01-25T12:58:03.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。微笑ましいカードです。試練のダンジョンにて。PvP順位です。メインシーフ1174Lv到達です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
