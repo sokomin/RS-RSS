@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T04:47:50.559Z</updated>
+    <updated>2024-02-26T05:16:09.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1398,16 +1398,6 @@ WEB倉庫は目視出来る容量が増えていたので
         <link href="https://medaka1985.fc2.net/blog-entry-780.html"/>
         <updated>2024-01-28T14:33:30.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。美しいコスチュームです。青い宝箱が現れました。日曜なのでウィークリー討伐です。毎度！また宜しくお願いします！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[壺パーティ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-779.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-779.html"/>
-        <updated>2024-01-27T16:58:18.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。鮮やかなカードです。バースティ壺PTに参加です。メインシーフ1175Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
