@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T14:47:45.987Z</updated>
+    <updated>2024-02-27T15:17:16.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[少々お時間を…]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-409.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-409.html"/>
+        <updated>2024-02-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[運営移管開始から12日くらい経ちましたがまだ移管できてない方もいるようで見かけなくなった知り合いがちょっといます。移管メンテ前に普通に話をしてた方もいないので引退ではなく移管がうまくいっていないのかなと思っていました。現状わたしもサブ②垢が移管できてなくてその垢のキャラが所属してるG様には連絡に行ってなくてゲーム内で連絡が取れる方には連絡をしていてあとは共通のGにキャラがいる方に移管できてない事を話し]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ざくろジュース。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-806.html</id>
