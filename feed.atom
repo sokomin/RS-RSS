@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T22:29:17.340Z</updated>
+    <updated>2024-03-01T22:47:31.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1477,15 +1477,6 @@ RSの方は荷物が片付きそうにないので
         <id>https://www.youtube.com/watch?v=SK08aZiiwR8</id>
         <link href="https://www.youtube.com/watch?v=SK08aZiiwR8"/>
         <updated>2024-02-01T12:10:25.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】重　要　な　お　知　ら　せ　と　か]]></title>
-        <id>https://www.youtube.com/watch?v=TKnQuxWJJLA</id>
-        <link href="https://www.youtube.com/watch?v=TKnQuxWJJLA"/>
-        <updated>2024-02-01T10:42:15.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>
