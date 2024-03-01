@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T21:28:19.371Z</updated>
+    <updated>2024-03-01T21:48:02.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1488,47 +1488,6 @@ RSの方は荷物が片付きそうにないので
         <updated>2024-02-01T10:42:15.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024.1月のドロップ~♪]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/7c3c75b89ecb879596c6ca7af3112e7b</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/7c3c75b89ecb879596c6ca7af3112e7b?fm=rss"/>
-        <updated>2024-02-01T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[2月になりましたね。
-
-
-知識ID
-
-
-
-
-物理IDはしょぼいですが、知識IDがちと頑張ってくれましたね。
-ティマと武道家かな？
-稼働時間はたいして変わらないんですけどね。
-
-
-さて、サービス終了・・・というか移管のお知らせがあってから１週間。
-今週と来週の週末を活用して買い物かごの整理を始めようと思います。
-WEB倉庫に大量の物体が入っており、全部を移すとなるとかなりの容量が必要。
-買い物かごの見えない部分は移管されないかもしれないので、できれば見えるようにしておきたいですからね。
-いらないものをだして捨てて・・・を繰り返すのですが、捨てられないアイテムもあるというのがとても不便です(´・ω・`)
-とりあえず２週間頑張ります。
-
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
