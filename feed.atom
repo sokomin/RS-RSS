@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T18:47:59.631Z</updated>
+    <updated>2024-03-02T19:12:25.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1469,16 +1469,6 @@ RSの方は荷物が片付きそうにないので
         <updated>2024-02-02T10:42:32.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[炉端焼き。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-785.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-785.html"/>
-        <updated>2024-02-02T07:07:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。水のピッチャーが有ると嬉しいです。大きなわらじです。川魚の塩焼きです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
