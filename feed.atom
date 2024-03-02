@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T14:47:32.780Z</updated>
+    <updated>2024-03-02T15:15:41.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スタートダッシュ君。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-810.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-810.html"/>
+        <updated>2024-03-02T15:11:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。色褪せたでは比率は出ない(?)かな。ギルド『AIが止まらない♪］素敵な傭兵さんです。寝てるのは私。今だけです(´ω｀*)。1195Lv到達です♪(荒地、爽快です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】心機一転！１から始める獣人育成　その１１]]></title>
         <id>https://www.youtube.com/watch?v=IreU1HsTF2A</id>
