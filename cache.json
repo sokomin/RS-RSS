@@ -151,6 +151,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IreU1HsTF2A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IreU1HsTF2A",
+          "publishedOn": "2024-03-02T10:12:47.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】心機一転！１から始める獣人育成　その１１",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4LTTgQHRk8k",
           "author": null,
           "description": "",
