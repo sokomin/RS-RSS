@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T20:16:38.677Z</updated>
+    <updated>2024-03-03T20:28:36.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1469,16 +1469,6 @@ RSの方は荷物が片付きそうにないので
         <summary type="html"><![CDATA[こんばんは。ディメンションのボーナスmobです。倉庫ギルドで攻城戦です！傭兵さんが来て下さって善戦できました(*'▽')癒しの瞬間です。面白いOPの鎧です。1180Lv到達です♪いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移管のか？]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-210.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-210.html"/>
-        <updated>2024-02-03T08:20:30.000Z</updated>
-        <summary type="html"><![CDATA[運営移管するみたいですね。とりあえずポイント使い切ったり、ワンタイムキー解除したりしていました。第三の猫です。レベル1000を超えたので次のディメンションハブに行ってみました。ステルスエルフを狩り残すことがあるので注意が必要です（2敗）狩場も次のおすすめポイントに移動します。移動速度を低下させる敵が厄介な印象を受けました。収容所にとらわれてしまうイメージなのでしょうか？低下した移動速度は何とかなりませ]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
