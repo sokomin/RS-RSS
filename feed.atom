@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T14:48:07.298Z</updated>
+    <updated>2024-03-05T15:16:28.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[移管指]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-410.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-410.html"/>
+        <updated>2024-03-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近はイベントが多いためか一部キャラの稼働が困難になっている状況です＾＾；ちなみにサブ②垢まだ移管できてません…それで座りエフェクトはできる垢はほぼ完了しいまは木を育てるイベントのほうを重点的にやろうかと思っていました＾＾重点的にするほど難しくないと思われるかもしれませんが1日５回クエするのが面倒な時はスルーしてたこともあったので周りのかたより少し遅れてるようでした＾＾；あまりイベ内容を読んでなかっ]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】移管記念指のベースオプション]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-984.html</id>
