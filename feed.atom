@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T21:27:47.433Z</updated>
+    <updated>2024-03-05T21:47:42.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1455,39 +1455,6 @@ RSの方は荷物が片付きそうにないので
         <summary type="html"><![CDATA[こんばんは。夜食テロ(*´ω｀*)いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移管準備]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/70b605c9152306bfe8a458497a6ac765</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/70b605c9152306bfe8a458497a6ac765?fm=rss"/>
-        <updated>2024-02-05T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[雪です。
-
-貸金庫を開放
-
-インベントリが暗くなっています＠ｗ＠
-アイテムは問題なく使えるのでいいんですけどね。
-不具合化と思ったけど、もう１台のPCは何ともないので、パソコンかディスプレイのせいだろうな。
-そろそろ買い替えかなぁ。。。。
-
-
-来週でいよいよサービス終了。
-どのように移管するのかわかりませんが、不安多いですね。
-もう少し情報欲しいところです。
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
