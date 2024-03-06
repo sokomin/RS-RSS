@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T10:17:34.091Z</updated>
+    <updated>2024-03-06T10:32:20.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】心機一転！１から始める獣人育成　その１４]]></title>
+        <id>https://www.youtube.com/watch?v=oxMbQy8I-7s</id>
+        <link href="https://www.youtube.com/watch?v=oxMbQy8I-7s"/>
+        <updated>2024-03-06T10:19:59.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミニガチャ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-814.html</id>
