@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T02:47:49.896Z</updated>
+    <updated>2024-03-07T03:14:45.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】心機一転！１から始める獣人育成　その１５]]></title>
+        <id>https://www.youtube.com/watch?v=ePuwrRdSs-A</id>
+        <link href="https://www.youtube.com/watch?v=ePuwrRdSs-A"/>
+        <updated>2024-03-07T02:50:23.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】心機一転！１から始める獣人育成　その１４]]></title>
         <id>https://www.youtube.com/watch?v=oxMbQy8I-7s</id>
@@ -1433,16 +1442,6 @@ RSの方は荷物が片付きそうにないので
         <summary type="html"><![CDATA[こんばんは。面白い形の雲です。本場のユッケです！韓国は焼き肉が超美味いです(*´ω｀*)いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ココ見て。]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-406.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-406.html"/>
-        <updated>2024-02-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近は運営移管の準備などで他の人との話が多くなり狩りなどの実働時間がどんどんなくなってる気がします＾＾；それだけみんな心配事があり色々準備に念を入れているんでしょうね。やはりみんな登録情報について覚えていないっていう不安があるようでわたしも生年月日知らない垢があり、人によっては住所登録も必要じゃないかって？いう方もいますがわたし住所って入力したかな…もし入力してたとしても生年月日を偽るくらいなので]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
