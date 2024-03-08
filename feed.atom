@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-08T20:47:31.735Z</updated>
+    <updated>2024-03-08T21:15:02.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1550,16 +1550,6 @@ RSの方は荷物が片付きそうにないので
         <link href="https://medaka1985.fc2.net/blog-entry-790.html"/>
         <updated>2024-02-09T06:58:58.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。大谷選手登板予定、メジャーリーグの開幕戦会場です。残念ながら、整備中で入れませんでした。マスコットキャラクターかな？大きなドームです！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国旅行。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-789.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-789.html"/>
-        <updated>2024-02-08T09:14:02.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。面白い形の雲です。本場のユッケです！韓国は焼き肉が超美味いです(*´ω｀*)いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
