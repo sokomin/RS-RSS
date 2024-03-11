@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T07:28:04.012Z</updated>
+    <updated>2024-03-11T07:48:14.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近の買い物]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202403110000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202403110000/"/>
+        <updated>2024-03-11T07:39:16.000Z</updated>
+        <summary type="html"><![CDATA[まず、弓にN達人の片鱗を買いました。再構成はまだ完了していませんが、欠片がなくなったので水曜以降にやります。次に、ガイルートを購入してサンドマンに貼り付けました。運比に上書きしてガイルートを付けたの...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三月は獅子のごとく来たり子羊のごとく去る]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-967.html</id>
