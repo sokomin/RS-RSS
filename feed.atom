@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-12T20:29:57.555Z</updated>
+    <updated>2024-03-12T20:47:24.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1492,16 +1492,6 @@ RSをいじっていたので手持無沙汰_(:3 」∠)_
         <summary type="html"><![CDATA[このまま終わりにせず継続して後に様子見つつということでこのタイミングで初めての新型コロナ罹患・。・；]]></summary>
         <author>
             <name>ユンユン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鯖間大戦]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202402120000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202402120000/"/>
-        <updated>2024-02-12T08:44:52.000Z</updated>
-        <summary type="html"><![CDATA[鯖間大戦に誘ってくれた方が何人かいましたが、対人装備の一部を処分しているので、残念ですがかなり前からGvも城も出られない状態です。具体的には、頭と耳とクレストがなくて、超越スキルを初期化する課金アイ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
