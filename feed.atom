@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T02:48:07.932Z</updated>
+    <updated>2024-03-14T03:18:05.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サマナー　水土覚醒 VS 導き覚醒]]></title>
+        <id>hatenablog://entry/6801883189090620598</id>
+        <link href="https://no55555.hatenablog.com/entry/2024/03/14/120000"/>
+        <updated>2024-03-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[(V)o￥o(V)
+ 
+　3月になりましたね。自分は北の方に住んでるのでまだたまに雪が降ったりしますが日差しはより暖かさを増してる気がします。もうすぐ春ですね。新年度を迎えて学校では新入生の入学、会社では新卒の人が入社してきたりもする時期ですね。新しい生活が始まるのってドキドキしますよね(*'ω'*)
+　ドキドキといえば今日ホワイトデーですね。2月にドキドキした方は今日何かお返しをしないとですね。
+ 
+　さて、以前ブログでサマナーの覚醒３つを比較してみる記事を書いてみました。
+
+　3つある覚醒のうち水土覚醒と導き覚醒は使いやすくてオススメですよみたいな感じで書いてた気がします。最近ヤティカヌの夜影(5層)で再振りながらこの２つの覚醒をしばらく遊んでみたので、今回はこの2つの覚醒を以前の記事からもう少し深掘りしたことが書けそうだなと思い記事にしてみます。いずれは火風ももう少し使い込んでより深掘りした記事を書いてみたいですね。
+２つの覚醒の簡単なおさらい
+水土覚醒
+導き覚醒
+比較
+水土覚醒
+雑魚狩り
+ボス狩り
+導き覚醒
+雑魚狩り
+ボス狩り
+まとめ
+２つの覚醒の簡単なおさらい
+　もう何度も書いてるとは思いますが、二つがどんな覚醒なのかを簡単におさらいです。
+水土覚醒
+　スウェルファーとヘッジャーを使用する範囲狩り特化の覚醒。覚醒パッシブで水、土両方の攻撃を敵に当てると20%の追加ダメージが出るようになります。追加ダメージは元のダメージにただ加算される感じでカンストを超えることはなさそうです。
+　専用覚醒のアルマジロウェーブは消費CPは多いですが持続して範囲攻撃を出し続けるので昔の火風サマナーがやっていた走り狩りみたいなことができます。持続時間が最大20秒なので頻繁に出し直す必要はありますが。
+　ヤティカヌではウェーブ出しつつボミング連打で敵を倒していく感じになると思います。ボス系…]]></summary>
+        <author>
+            <name>曇りのち晴れ４８日</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本のこと]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-968.html</id>
@@ -1472,16 +1506,6 @@ RSをいじっていたので手持無沙汰_(:3 」∠)_
 ﾊﾞｨ(o･ω･o)ﾉﾊﾞｨヽ(o･ω･o)ｷｰﾝ(ﾉo･ω･o)ﾉ]]></summary>
         <author>
             <name>きぃこんぱ～んちっ( ﾟ∀ﾟ)Ξ〇) ﾟﾛﾟ)∵＜出張版☆＞</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一先ず]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-407.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-407.html"/>
-        <updated>2024-02-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[運営移管するにはどのようなことが必要なのか？結局具体的なものが発表されずにサービス移管メンテナンスの日が来ちゃいました。わたし的にはこれは移管しても大した手続きは必要ないので発表しないのだろうという解釈で今まで通り変わらないのかな？と考えていました＾＾それで今の運営から変わる区切りとしてオオカミ少年はどんな感じかというとLv1183で次の運営様に移行することになりました！移行できない可能性があるかもしれ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
