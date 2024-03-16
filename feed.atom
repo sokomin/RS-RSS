@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T02:22:36.338Z</updated>
+    <updated>2024-03-16T02:47:56.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1428,16 +1428,6 @@ IDの移管がやっとこさ出来たところでﾀﾞｳﾝﾛｰﾄﾞのﾍ
         <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1274.html"/>
         <updated>2024-02-16T07:56:22.000Z</updated>
         <summary type="html"><![CDATA[若干延長して11時→14時になってましたが移管は無事に開始されたようです。ただ、サーバー接続数の問題で早々に臨時メンテ入ってました。本当にそんな接続人数多かったのかはともかくとしてそんなあっさり人数過多で接続できなくなるとか・・・脆弱過ぎでは・・・。臨時メンテ前に確認のため少しログインしてみましたが自キャラの所持アイテムは一応無事だったぽいです。少し気になってたホールランクも、初期化されず維持されてた]]></summary>
-        <author>
-            <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[予想通り？]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1273.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1273.html"/>
-        <updated>2024-02-15T14:37:31.000Z</updated>
-        <summary type="html"><![CDATA[今日11時から移管開始予定だったんですが延長して16日11時に変更なってましたね。アプデとかでも毎回のごとく何かしらバグとかあったし今回のこれも案外予想した人とか多そうですかねぇ。さてさて、再延長があるのかどうか。どうなるかは明日の時間待ちですね。]]></summary>
         <author>
             <name>クレリューフ</name>
         </author>
