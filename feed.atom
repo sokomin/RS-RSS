@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T14:14:26.100Z</updated>
+    <updated>2024-03-16T14:27:29.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[平和の行進曲。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-824.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-824.html"/>
+        <updated>2024-03-16T14:18:10.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。図鑑が埋まると嬉しいです。イベントコンプリートです(*'▽')サブのビーストテイマー用です。死の荒れ地狩りです。赤い光はテンション上がります♪いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.3.14 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/1b4d1b3d7f0653d053862d89fdbaa330</id>
