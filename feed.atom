@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T20:48:08.797Z</updated>
+    <updated>2024-03-16T21:13:27.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1370,19 +1370,6 @@ DECEMBER UPDATE -->
         <updated>2024-02-16T11:00:55.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移管完了]]></title>
-        <id>tag:blogger.com,1999:blog-6041969618045088376.post-5546872678536117894</id>
-        <link href="https://rs-kumapon.blogspot.com/2024/02/blog-post_16.html"/>
-        <updated>2024-02-16T08:52:00.000Z</updated>
-        <summary type="html"><![CDATA[運営の方々お疲れ様でした。
-無事にアカウントを移管することができ
-新しいゲームクライアントでゲームに入ることが出来ました。
-今後ともよろしくお願いします！]]></summary>
-        <author>
-            <name>noreply@blogger.com (Unknown)</name>
         </author>
     </entry>
     <entry>
