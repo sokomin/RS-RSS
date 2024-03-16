@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T22:48:14.003Z</updated>
+    <updated>2024-03-16T23:17:14.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1361,15 +1361,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[こんばんは。地元のお祭りです。おおっ！美味しそうです。アイデア商品ですね♪いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運営変わった【REDSTONE】新生レッドストーンやるます]]></title>
-        <id>https://www.youtube.com/watch?v=nv_iKQtqz6w</id>
-        <link href="https://www.youtube.com/watch?v=nv_iKQtqz6w"/>
-        <updated>2024-02-16T11:00:55.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
