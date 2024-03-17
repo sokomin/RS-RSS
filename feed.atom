@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T13:47:22.333Z</updated>
+    <updated>2024-03-17T14:13:02.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[特製オプション魔法のお守り[E]。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-825.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-825.html"/>
+        <updated>2024-03-17T14:10:19.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。渋いコスチュームです。ウィークリーアスタロトです。10本で代行させて頂きました。盛り上がっています(*'▽')メインのシーフ、1205Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hearthstone’s 10th Anniversary]]></title>
         <id>https://intothe.info/?p=2049</id>
