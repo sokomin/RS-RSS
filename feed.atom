@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T01:14:26.773Z</updated>
+    <updated>2024-03-17T02:00:42.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1351,16 +1351,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[移管しました。一週間くらい覚悟してたけど存外早く済みましたね。そしてリニューアルされた公式ＨＰがこちら。ひとつ前の記事に旧公式サイトのイメージ画像が置いてありますが、これと比べると重厚感がなくなってのっぺりした印象。よく言えば洗練されたデザイン…？あとはサントラが聞けるページができたと。昔の読み込み画面と古都のBGMが懐かしい。ランキングページも新しくなった。プレイヤー、攻城戦、ギルド戦はわかるけど宝]]></summary>
         <author>
             <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移管失敗しました。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-796.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-796.html"/>
-        <updated>2024-02-16T13:34:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。地元のお祭りです。おおっ！美味しそうです。アイデア商品ですね♪いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
