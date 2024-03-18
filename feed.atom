@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T02:24:28.107Z</updated>
+    <updated>2024-03-18T02:47:47.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1289,16 +1289,6 @@ CLOSEさせていただく予定となります。
         <summary type="html"><![CDATA[移管作業中にブラウザを閉じると次回移管登録に失敗するという注意書きに、移管作業中にブラウザを閉じて次回移管登録に失敗してから気づきました。第三の猫です。ブラウザの履歴データをクリアしたら何とかなりました。はい。というわけでログインしていきましょう。古都の木が初めて見る感じの飾りつけになっていますね。 ウェ～ルカ～ムこんな人いましたっけ？この人は前からいましたよ。狩りにて、こんなデザインでしたっけ？]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新生レッドストーン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-797.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-797.html"/>
-        <updated>2024-02-17T14:32:38.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。↑コレ。効果確認せずに連打する愚行した結果です(笑)新しくなったオーラ解放です。とても美しいです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
