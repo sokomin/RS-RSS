@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T14:30:06.299Z</updated>
+    <updated>2024-03-18T14:47:54.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お宝の部屋。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-826.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-826.html"/>
+        <updated>2024-03-18T14:39:45.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。神々しいコスチュームです。フィーバーエリア(*'▽')靴落ちる所なので震えました。力の切りが良いです。メインシーフ、1206Lv到達です！いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】心機一転！１から始める獣人育成　その１９]]></title>
         <id>https://www.youtube.com/watch?v=YhAiSFPnmy4</id>
