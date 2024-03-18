@@ -140,6 +140,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YhAiSFPnmy4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YhAiSFPnmy4",
+          "publishedOn": "2024-03-18T11:01:01.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】心機一転！１から始める獣人育成　その１９",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VObvgbBc9Cc",
           "author": null,
           "description": "",
