@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T09:47:29.764Z</updated>
+    <updated>2024-03-19T10:17:42.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1265,16 +1265,6 @@ Reward: almost 26b EXP and 1k SP]]></summary>
         <updated>2024-02-19T11:19:33.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】新運営での運営状況]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-978.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-978.html"/>
-        <updated>2024-02-18T22:08:42.000Z</updated>
-        <summary type="html"><![CDATA[大きな混乱もなく遊べてはいる新REDSTONE。ただし、移管に失敗したIDの救済が「現状不可」と発表されており、ギルメンや知り合いが何名からINできていない。このまま不可で引退勧告なのか、新運営が奮起するのか？動向に注目したい。期待した課金周りは、まんま日本運営時の価格帯や形態を踏襲する残念なものだった。幸運チケット関係もそのままだったが、このへんは追々リニューアルしそうな感じがするため、ロトへの課金は当面見]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
