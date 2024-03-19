@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T06:20:35.244Z</updated>
+    <updated>2024-03-19T06:47:36.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リラクゼーション。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-827.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-827.html"/>
+        <updated>2024-03-19T06:45:15.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。道の駅にて。快適な休憩場です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】複アカや仮想PCについて]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-985.html</id>
