@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T14:47:59.065Z</updated>
+    <updated>2024-03-20T15:17:52.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トレジャーボックス[討伐]]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-828.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-828.html"/>
+        <updated>2024-03-20T14:53:24.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。日課の討伐ボックス。久々に良いアイテムです！充実してるギルド石像です。応援、ありがとうございます(*'▽')メインシーフ、1208Lv到達です(´ω｀*)いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】精鋭討伐「タビアクート」の手引き]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-986.html</id>
@@ -1266,16 +1276,6 @@ Reward: almost 26b EXP and 1k SP]]></summary>
         <summary type="html"><![CDATA[サービス移管メンテナンスが終わり移管した方もかなりいるんじゃないかと思います＾＾知り合いはそこそこ移管しててまだなのは数人かな・・・？わたしもメイン垢とサブ①垢の移管はおわったのですがサブ②垢の移管手続きの時にうっかり途中でウインドウ閉じちゃったのが原因なのか現在サブ②垢のほうがインできない状態になっちゃいました＾＾；メアドの再登録と生年月日・パスワードなどは設定したもののゲームにログインするところ]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】コラプ2連発と新精鋭討伐]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-979.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-979.html"/>
-        <updated>2024-02-20T03:08:11.000Z</updated>
-        <summary type="html"><![CDATA[2/18(日)にHOT-TIMEなる経験値イベントがあり、戦士と獣人で狩りをした。戦士は日の出PVPの大外(狩場がここしか無かった)でイグニを踏み踏みしていたところ、コラプ知識槍がポロリ。獣人は星降るの右上あたりで、イグニやジャガーをシャキシャキしていたところ、コラプ知識箒がポロリ。やはり知識槍は人気みたいで、耳待ちに3000〜4000本の交渉耳がきていたため、5000本で交渉待ちしたら即売れウマーベラス！だが、知識箒には耳さ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
