@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T19:14:57.325Z</updated>
+    <updated>2024-03-21T19:28:13.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1265,16 +1265,6 @@ Reward: almost 26b EXP and 1k SP]]></summary>
         <updated>2024-02-21T09:53:51.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一応]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1275.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1275.html"/>
-        <updated>2024-02-21T07:26:46.000Z</updated>
-        <summary type="html"><![CDATA[毎週水曜がメンテ日だったからいつも公式サイト見に行くのだけど移管して今後のメンテナンスって毎週何曜日なのかが解らない。サバイバルモードと移管記念イベントの終了日からすると木曜にメンテナンスとなるんですかね？さて、1週間ほど経って移管してきた人も増えてきたと思います。僕も3ID移管したのですが、ちょっと問題発生。サブID2つキャラ達、キャラ選択画面から全消失してました。メインIDは無事だったのでそこは良かっ]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
     <entry>
