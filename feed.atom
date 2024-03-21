@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T02:47:26.477Z</updated>
+    <updated>2024-03-21T03:18:18.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1256,26 +1256,6 @@ Reward: almost 26b EXP and 1k SP]]></summary>
         <summary type="html"><![CDATA[毎週水曜がメンテ日だったからいつも公式サイト見に行くのだけど移管して今後のメンテナンスって毎週何曜日なのかが解らない。サバイバルモードと移管記念イベントの終了日からすると木曜にメンテナンスとなるんですかね？さて、1週間ほど経って移管してきた人も増えてきたと思います。僕も3ID移管したのですが、ちょっと問題発生。サブID2つキャラ達、キャラ選択画面から全消失してました。メインIDは無事だったのでそこは良かっ]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリーチャー図鑑。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-799.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-799.html"/>
-        <updated>2024-02-20T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。不思議なコスチュームです。クリーチャー図鑑 、なんとか38%達成です(*'▽')全戦績：304勝 246敗&nbsp; 勝率55.0%サブのビーストテイマー、977Lv到達です♪いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移管失敗…]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-408.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-408.html"/>
-        <updated>2024-02-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サービス移管メンテナンスが終わり移管した方もかなりいるんじゃないかと思います＾＾知り合いはそこそこ移管しててまだなのは数人かな・・・？わたしもメイン垢とサブ①垢の移管はおわったのですがサブ②垢の移管手続きの時にうっかり途中でウインドウ閉じちゃったのが原因なのか現在サブ②垢のほうがインできない状態になっちゃいました＾＾；メアドの再登録と生年月日・パスワードなどは設定したもののゲームにログインするところ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
