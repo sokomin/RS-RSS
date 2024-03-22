@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T06:21:18.883Z</updated>
+    <updated>2024-03-22T06:47:43.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大当たりの昼ご飯。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-830.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-830.html"/>
+        <updated>2024-03-22T06:37:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。人気うどん店です。匠が来ているようです。熱すぎず、丁度良い温度で食べやすいです。うどん自体がもっちもちの食感で、最高です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ファーストステップとかいろいろ]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202403220000/</id>
