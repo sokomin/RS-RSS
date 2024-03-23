@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8w8cRbcqkws",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8w8cRbcqkws",
+          "publishedOn": "2024-03-23T03:15:37.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】ガチつよテイマ育成　その６",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qE-v2Gz_gpE",
           "author": null,
           "description": "",
@@ -1463,16 +1473,6 @@
           "wordCount": 1037,
           "title": "1250ULT防具選択BOX。",
           "imageUrl": "https://blog-imgs-174.fc2.com/m/e/d/medaka1985/202402240032254bf.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-801.html",
-          "author": "medaka1985",
-          "description": "こんばんは。良いの引きました♪この箱から出ます。早速チャレンジ(/・ω・)/残念(´ω｀*)。もやっとするので、代行お願いです(*'▽')。完成です(｀・ω・´)ｼｬｷｰﾝ。婚約指輪のエンチャントです。80%外していく～(笑)ラサのアイテム分解。50個まで全部、分解出来る様になりました！サブの武道家が925Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-801.html",
-          "publishedOn": "2024-02-22T15:13:00.000Z",
-          "wordCount": null,
-          "title": "ラサの上方修正。",
-          "imageUrl": null
         }
       ]
     },
