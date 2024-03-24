@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-24T03:28:39.951Z</updated>
+    <updated>2024-03-24T03:48:09.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1137,16 +1137,6 @@ DECEMBER UPDATE -->
         <updated>2024-02-24T10:32:55.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1250ULT防具選択BOX。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-802.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-802.html"/>
-        <updated>2024-02-23T15:45:19.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ギャップが可愛いコスチュームです。良いな～凄いなぁ…。少しだけ、ギャンブル！さて結果は…。玉砕(笑)B鯖にて、良い装備です。メインシーフ、Lv1188到達です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
