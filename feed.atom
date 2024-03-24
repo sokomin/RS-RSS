@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-24T14:48:05.100Z</updated>
+    <updated>2024-03-24T15:15:21.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[琉球王国。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-832.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-832.html"/>
+        <updated>2024-03-24T15:11:29.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。いざ、常夏の楽園へ。良い感じの部屋です。国際通りと言えばステーキ！素晴らしい手捌き、お見事です。恐ろしく速いペッパーミルです。頂き読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19周年後夜祭イベント]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-844.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-844.html"/>
+        <updated>2024-03-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[桜の開花が近い時期ですが比較的風が冷たく寒い日が続いておりますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】Happy Scratch 2024春]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-989.html</id>
