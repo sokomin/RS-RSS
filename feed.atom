@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T15:18:39.048Z</updated>
+    <updated>2024-03-25T15:30:12.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1177,15 +1177,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[先週は一度暑いくらいの日がありました私は例年より早く花粉にやられてしまい風邪のような症状になっています寒暖差が激しくつらいですねこんにちはミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】心機一転！１から始める獣人育成　その７]]></title>
-        <id>https://www.youtube.com/watch?v=aAtlIr4Zph4</id>
-        <link href="https://www.youtube.com/watch?v=aAtlIr4Zph4"/>
-        <updated>2024-02-25T03:28:09.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
