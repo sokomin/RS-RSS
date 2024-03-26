@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T14:47:28.198Z</updated>
+    <updated>2024-03-26T15:16:17.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不向きなイベント]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-413.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-413.html"/>
+        <updated>2024-03-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前回のメンテ後から始まったビンゴイベントは毎日ランダムに3種類のミッションをクリアするとよいというもので①－１００までの敵を１００体狩り②ログイン６０分③デイリーログイン報酬１回④秘密ダンジョン２回⑤混沌２回⑥ユニーク分解１回⑦マナ開放５回の中からランダムで３種類選ばれるようでイン時間や狩り時間が短めのわたしにはそこそこつらいものがあります＾＾；マナ開放５回とかログイン６０分はメイン垢でも毎日は無理かも＾]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】相変わらずのサイレント改変]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-990.html</id>
