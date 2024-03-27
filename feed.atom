@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T04:20:54.242Z</updated>
+    <updated>2024-03-27T04:47:59.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1156,16 +1156,6 @@ DECEMBER UPDATE -->
         <link href="https://medaka1985.fc2.net/blog-entry-806.html"/>
         <updated>2024-02-27T07:42:23.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。ファイヤー！ホルモン一人前650円です(安い)。喫茶店にて↓ざくろソーダです。ライ麦とざくろはアンチエイジング効果があるそうです。可愛いお菓子です(*´ω｀*)。いつも読んで頂き誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[死の荒れ地。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-805.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-805.html"/>
-        <updated>2024-02-26T16:40:42.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです。ダブクリが気持ち良いです！凄い装備です＠＠平凡な移管記念BOX[強化不可]からです(*'▽')派手な攻撃です！サブの武道家、926Lvです♪いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
