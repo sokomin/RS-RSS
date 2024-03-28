@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T02:00:00.558Z</updated>
+    <updated>2024-03-28T02:29:13.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[弓の装備いろいろいじりました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202403280000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202403280000/"/>
+        <updated>2024-03-28T02:15:52.000Z</updated>
+        <summary type="html"><![CDATA[まず、武器を変更しました。コラプ物理弓は売ってないし、売ってても買えるほど金もないので↓これを作りました。嘆きの弓の決定打が強いとかよく聞きますが、N刑場の露を80本で買って狩りをしてみましたが、嘆き...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[どこでモール。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-835.html</id>
