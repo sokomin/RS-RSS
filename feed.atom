@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T03:47:39.804Z</updated>
+    <updated>2024-03-29T04:20:34.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[闘士の装備の変更について]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202403290000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202403290000/"/>
+        <updated>2024-03-29T03:58:17.000Z</updated>
+        <summary type="html"><![CDATA[以前、解放変換した結果↓のSSの様にダブクリを引けてはいましたが、他が無意味なOPばかりなのが気になっていました。そこで、勇気を出してやり直すことに決めました！ダブクリ等の与ダメが増えるOP+有用なOPが2個...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.3.28 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/e018aaf8f4181a70d7b00ca61d593c6e</id>
