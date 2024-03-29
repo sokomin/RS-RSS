@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T02:23:42.899Z</updated>
+    <updated>2024-03-29T02:47:58.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1221,16 +1221,6 @@ DECEMBER UPDATE -->
         <updated>2024-02-29T10:27:22.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アイテム解放オプション変換器[E]]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-807.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-807.html"/>
-        <updated>2024-02-28T14:31:15.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。久しぶりのUMUドロップです。10%＋10%でまさかの成功です。取引不可の変換器です。(←に)冒険大成功！冒険成功！(MBはこれが4回ノルマです)闇商人の箱から(激熱)。ん～残念！(笑)メインシーフ、1191Lv到達です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
