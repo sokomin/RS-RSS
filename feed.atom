@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T01:08:17.867Z</updated>
+    <updated>2024-03-30T01:55:13.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1163,16 +1163,6 @@ DECEMBER UPDATE -->
         <link href="https://medaka1985.fc2.net/blog-entry-809.html"/>
         <updated>2024-03-01T04:58:03.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。生卵のセルフ販売です。いつも売り切れだったので、美味しいのかな？いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T運比熱風のリング。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-808.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-808.html"/>
-        <updated>2024-02-29T13:38:14.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。イベントの錬成剤です(スロット1、100%)。基礎防御力60~70%です(笑)ぐぬぬ…。キャンペーンは全部使いました(涙)4回目( ；∀；)沼って来たので切り上げます(;´･ω･)B鯖にて、凄いΣ(･ω･ﾉ)ﾉ！鬼門を脱しました(笑) 尚、この後も辛い模様。全成績：310勝250敗 勝率55.3%(310÷560)サブのビーストテイマー、979Lv到達です。メインシーフ、1193Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
