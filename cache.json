@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=x_4k3dDDto4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x_4k3dDDto4",
+          "publishedOn": "2024-03-30T09:48:10.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】新規獣人とガチつよテイマ育成！その２",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hdGFMNtX2TU",
           "author": null,
           "description": "",
