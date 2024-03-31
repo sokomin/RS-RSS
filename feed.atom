@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T08:48:08.878Z</updated>
+    <updated>2024-03-31T09:16:39.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマ育成！その４]]></title>
+        <id>https://www.youtube.com/watch?v=rl38bc08nWs</id>
+        <link href="https://www.youtube.com/watch?v=rl38bc08nWs"/>
+        <updated>2024-03-31T09:05:54.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ホットタイム。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-839.html</id>
