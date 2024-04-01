@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T15:47:50.189Z</updated>
+    <updated>2024-04-01T16:20:48.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エイプリルフール。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-840.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-840.html"/>
+        <updated>2024-04-01T15:57:07.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ゲリオ討伐、UMUドロップです。イベントの景品です。なんとも(;´･ω･)。製錬＋9、成功！大地タイプの肩刺青です(*'▽')。界王拳！(ベルセルク)いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマ育成！その５]]></title>
         <id>https://www.youtube.com/watch?v=ahlW6_T0NHs</id>
