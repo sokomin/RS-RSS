@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T07:17:39.798Z</updated>
+    <updated>2024-04-02T07:29:08.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RED STONE探偵]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404020000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202404020000/"/>
+        <updated>2024-04-02T07:18:46.000Z</updated>
+        <summary type="html"><![CDATA[いつ付与されたのか不明ですが、なんか持ってました。これってソロだと経験値増えないのかな？PT組まないと効果がないなら、あまり恩恵は受けられないかもね・・ｗ短いですが、今回はこれだけですｗ]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雨降って地固まる。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-841.html</id>
