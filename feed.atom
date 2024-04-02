@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T22:31:57.821Z</updated>
+    <updated>2024-04-02T22:47:56.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1209,15 +1209,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[こんばんは。ナイスドロップです。ソロでも青宝箱が出るのは良いですね(*'▽')コイン、美味しいです。全部 戦績：321勝 252敗 勝率 56.0%勝率が56%に復帰です(｀・ω・´)ｼｬｷｰﾝ。メインシーフ、1198Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】心機一転！１から始める獣人育成　その１３]]></title>
-        <id>https://www.youtube.com/watch?v=XioI52Vxq8E</id>
-        <link href="https://www.youtube.com/watch?v=XioI52Vxq8E"/>
-        <updated>2024-03-04T10:32:37.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
