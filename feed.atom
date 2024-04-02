@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T13:30:03.685Z</updated>
+    <updated>2024-04-02T13:47:28.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今月のピーク。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-842.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-842.html"/>
+        <updated>2024-04-02T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。こっちじゃないよー(笑)オッス！お願いしまーす！お！珍しいですね(*'▽')スキルポイント頂いたので強化Σ(･ω･ﾉ)ﾉ！これは大当たり♪メインシーフ1223Lv到達です(/・ω・)/いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RED STONE探偵]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404020000/</id>
