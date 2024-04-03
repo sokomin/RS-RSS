@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T23:28:20.461Z</updated>
+    <updated>2024-04-03T23:47:49.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1189,16 +1189,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[最近はイベントが多いためか一部キャラの稼働が困難になっている状況です＾＾；ちなみにサブ②垢まだ移管できてません…それで座りエフェクトはできる垢はほぼ完了しいまは木を育てるイベントのほうを重点的にやろうかと思っていました＾＾重点的にするほど難しくないと思われるかもしれませんが1日５回クエするのが面倒な時はスルーしてたこともあったので周りのかたより少し遅れてるようでした＾＾；あまりイベ内容を読んでなかっ]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】移管記念指のベースオプション]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-984.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-984.html"/>
-        <updated>2024-03-05T11:39:36.000Z</updated>
-        <summary type="html"><![CDATA[移管記念イベントで誰でも入手できる移管記念指。従来の周年指は、ベース性能が固定だった（決められていた）けど、移管記念指は自分でオプションとして付与することができる。付与できるオプションは３つで、現在自分は２つまで入手している。それがこちら。どれも捨てがたく、とってもとっても悩んでいる。ギルメンに聞いても、まだ決めていないって人がほとんどだから、みんな悩んでいる模様ｗ破片強化もできるみたい（多分だけ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
