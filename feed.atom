@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T19:15:05.980Z</updated>
+    <updated>2024-04-03T19:27:27.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1199,16 +1199,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[移管記念イベントで誰でも入手できる移管記念指。従来の周年指は、ベース性能が固定だった（決められていた）けど、移管記念指は自分でオプションとして付与することができる。付与できるオプションは３つで、現在自分は２つまで入手している。それがこちら。どれも捨てがたく、とってもとっても悩んでいる。ギルメンに聞いても、まだ決めていないって人がほとんどだから、みんな悩んでいる模様ｗ破片強化もできるみたい（多分だけ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[焼き鳥とノンアルコールビール。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-813.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-813.html"/>
-        <updated>2024-03-05T07:19:47.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ケール、ケール！冬の方が美味しいらしいです。うし…うし…！プラマイゼロかな？(謎)いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
