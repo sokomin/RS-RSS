@@ -401,6 +401,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202404040000/",
+          "author": "雷神の弓",
+          "description": "今までのパッシブは↓でした。今までのでも十分でしたが、今回4000ガチャで良いのが出たので↓に変更してみることにしました。闇強化が無くなり最終ダメが下がりましたが、上級スキルが加わって更に上級経験値がLv5...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202404040000/",
+          "publishedOn": "2024-04-04T09:02:12.000Z",
+          "wordCount": 1633,
+          "title": "黒魔のクリーチャーパッシブが少し変わった件",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/a5f48aceb1fadd934475c8bb9172c5e33291d371.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202404020000/",
           "author": "雷神の弓",
           "description": "いつ付与されたのか不明ですが、なんか持ってました。これってソロだと経験値増えないのかな？PT組まないと効果がないなら、あまり恩恵は受けられないかもね・・ｗ短いですが、今回はこれだけですｗ",
@@ -1213,6 +1223,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-844.html",
+          "author": "medaka1985",
+          "description": "こんばんは。ぷくぷくコスチュームです。あげアゲハ！(妖怪ウォッチ)セットボス、大きいです！イベントの報酬です(*'▽')長期戦になりそうです(;´･ω･)メインシーフ、1224Lv到達です(/・ω・)/。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-844.html",
+          "publishedOn": "2024-04-04T08:47:28.000Z",
+          "wordCount": null,
+          "title": "平和の行進曲[Nx]。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-843.html",
           "author": "medaka1985",
