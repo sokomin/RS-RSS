@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T09:47:49.874Z</updated>
+    <updated>2024-04-06T10:17:06.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その８]]></title>
+        <id>https://www.youtube.com/watch?v=FcBkqQzYh7Q</id>
+        <link href="https://www.youtube.com/watch?v=FcBkqQzYh7Q"/>
+        <updated>2024-04-06T10:16:18.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[確率は収束する。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-846.html</id>
@@ -1187,78 +1196,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[まず、↓これが作れたので闇弱化がほぼ要らなくなりました。※ダブクリは要らないけど２OP品でもやっと作ったんですよ＾＾；闇弱化がこれ１個で96％も稼げて、さらに秤の女やサンドマンがあるので、闇弱化がとんで...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024.3.7 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/5f2dcd40ecdf7721086bb263b6e3811e</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/5f2dcd40ecdf7721086bb263b6e3811e?fm=rss"/>
-        <updated>2024-03-07T21:45:00.000Z</updated>
-        <summary type="html"><![CDATA[朝起きたらなんか白い・・・
-
-DECEMBER UPDATE -->
-
-
-「Daily Reward」
-「RED STONE PASSイベント」
-(4)経験値アイテムドロップ率上昇イベント
-
-9月13日メンテ後から9月27日メンテ前まで
-◆戦闘経験値：1.5倍　アイテムドロップ率：1.5倍
-・2023年9月13日（水）メンテナンス後 ～ 9月13日（水）23：59
-◆戦闘経験値：2倍　アイテムドロップ率：2倍
-・2023年9月16日（土）00：00～9月18日（月）23：59
-◆戦闘経験値：3倍　アイテムドロップ率：2倍
-・2023年9月14日（木）00：00～9月15日（金）23：59
-(1)RED's Roulette
-
-8月9日メンテ後から9月6日メンテ前まで
-(3)RED STONE PASS
-
-7月19日メンテ後から9月6日メンテ前まで
-(5)ボックスドロップイベント
-
-7月19日メンテ後から9月6日メンテ前まで
-第1週（7/19から7/26）：「プレシャスハンディングBox」
-第2週（7/26から8/2）：「プログレスハンディングBox」
-第3週（8/2から8/9）：「トレジャーハンティングBox」
-第4週（8/9から8/16）：「プレシャスハンティングBox」
-第5週（8/16から8/23）：プログレスハンディングBox」
-第6週（8/23から8/30）：「トレジャーハンティングBox」
-第7週（8/30から9/6）：「プレシャスハンティングBox」
-第7週「プレシャスハンティングBOX」がドロップします。
-(6)金のレビットレイド
-
-7月19日メンテ後から9月6日メンテ前まで
-
-10月25日メンテ後から11月1日メンテ前まで
-「いい石の日」があるので拡散しようというイベントです。
-
-10月4日メンテ後から11月1日メンテ前まで
-
-
-課金イベントはこちら
-
-
-
-2月22日メンテ後から3月14日メンテ前まで
-
-
-移管後あまりやる気が起きず、露店しかしていません。
-今週はちょっと頑張ろうかな。
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
