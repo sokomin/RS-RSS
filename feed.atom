@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T22:15:14.815Z</updated>
+    <updated>2024-04-06T22:28:12.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1167,15 +1167,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[移管先の環境にも慣れてきた今日この頃、皆様いかがお過ごしでしょうか。Daily Rewardsの3桁目の出番が気になる第三の猫です。今回は、うちのフランデル大陸で起こっている、ちょっとした怪現象を取り上げていきたいと思います。まずはこちらをご覧ください。古代悪魔研究所に謎の壁が出てきました。しかし、後日もう一度同じマップに行って見たところ、謎の壁はどこにもなかったのです。一体謎の壁とは何だったのでしょうか？信じ]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ガチつよテイマ育成　その１]]></title>
-        <id>https://www.youtube.com/watch?v=oNgrEKcSZUk</id>
-        <link href="https://www.youtube.com/watch?v=oNgrEKcSZUk"/>
-        <updated>2024-03-08T10:25:18.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
