@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T01:09:52.945Z</updated>
+    <updated>2024-04-06T01:57:07.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[確率は収束する。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-846.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-846.html"/>
+        <updated>2024-04-06T01:42:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。お洒落なアリスコスチュームです。巷で噂の課金PASS…果たして3000GEMの価値はあるのか！？(・∀・)ｲｲﾈ!!注意点として、取引不可(銀行預かり不可)有です。ストップ安です(笑)20%＋20%(つまり1-4/5*4/5=0.36(36%)残念。成功確率30%です。1-2/3*2/3=0.55…(56%)1-2/3*2/3*2/3=0.704(70%)勝負、勝負～。1-7/10*9/10=0.37(37%)圧倒的、敗北…！唯一売れたアイテム(笑)結論：RSPASSは相応の価値がある(?)いつも読んで頂き、誠に]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマ育成！その７]]></title>
         <id>https://www.youtube.com/watch?v=Ynik0CZZmP0</id>
