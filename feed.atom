@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T15:15:59.261Z</updated>
+    <updated>2024-04-06T15:27:52.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1186,16 +1186,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[こんばんは。もっちり、生ドーナツです。生パスタです。新感覚で美味しいです。生野菜、販売コーナーです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔も色々変更しています]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202403080000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202403080000/"/>
-        <updated>2024-03-08T03:22:49.000Z</updated>
-        <summary type="html"><![CDATA[まず、↓これが作れたので闇弱化がほぼ要らなくなりました。※ダブクリは要らないけど２OP品でもやっと作ったんですよ＾＾；闇弱化がこれ１個で96％も稼げて、さらに秤の女やサンドマンがあるので、闇弱化がとんで...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
