@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T22:47:50.680Z</updated>
+    <updated>2024-04-06T23:16:03.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Diaan, where is the April update post?]]></title>
+        <id>tag:blogger.com,1999:blog-622089654895304373.post-8938204213072070358</id>
+        <link href="https://diaanrs.blogspot.com/2024/04/diaan-where-is-april-update-post.html"/>
+        <updated>2024-04-06T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Well, I have been busy with a few diff things folks, will post it when I have some time to actually get it done (it's only partially done currently)
+Stay tuned!]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その８]]></title>
         <id>https://www.youtube.com/watch?v=FcBkqQzYh7Q</id>
