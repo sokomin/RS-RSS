@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T12:52:35.152Z</updated>
+    <updated>2024-04-07T13:18:56.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1196,16 +1196,6 @@ DECEMBER UPDATE -->
         <updated>2024-03-09T10:21:50.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謎の壁]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-212.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-212.html"/>
-        <updated>2024-03-09T01:02:39.000Z</updated>
-        <summary type="html"><![CDATA[移管先の環境にも慣れてきた今日この頃、皆様いかがお過ごしでしょうか。Daily Rewardsの3桁目の出番が気になる第三の猫です。今回は、うちのフランデル大陸で起こっている、ちょっとした怪現象を取り上げていきたいと思います。まずはこちらをご覧ください。古代悪魔研究所に謎の壁が出てきました。しかし、後日もう一度同じマップに行って見たところ、謎の壁はどこにもなかったのです。一体謎の壁とは何だったのでしょうか？信じ]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
