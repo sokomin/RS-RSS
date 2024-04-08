@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T14:47:39.873Z</updated>
+    <updated>2024-04-08T15:15:50.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1207,15 +1207,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです。姫さんのUMU職鎧ドロップです。クロネの宝箱からです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ガチつよテイマ育成　その２]]></title>
-        <id>https://www.youtube.com/watch?v=FIgSr_jhyXY</id>
-        <link href="https://www.youtube.com/watch?v=FIgSr_jhyXY"/>
-        <updated>2024-03-10T03:01:05.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
