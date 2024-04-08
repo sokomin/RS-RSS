@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T02:01:39.207Z</updated>
+    <updated>2024-04-08T02:35:01.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1187,16 +1187,6 @@ DECEMBER UPDATE -->
         <updated>2024-03-10T03:01:05.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理用の指輪。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-817.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-817.html"/>
-        <updated>2024-03-09T14:05:37.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。指輪エンチャレンジ！おじさん、やめちくり～。スフィアULTのおまけです。↑中身です。物理用指輪、紹介です。↓鮮血の指輪、最近見ないです。サブのビーストテイマー、981Lv到達です。メインシーフ、1202Lv達成です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
