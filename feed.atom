@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T03:30:12.365Z</updated>
+    <updated>2024-04-08T03:48:02.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パッシブ変換で神引き]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404080000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202404080000/"/>
+        <updated>2024-04-08T03:36:46.000Z</updated>
+        <summary type="html"><![CDATA[大昔にフォーリンで作った↓ですが、覚醒石不足で中途半端な状態で仕様変更となりフィニッシュしています。（もうパッシブを覚醒で上げられない）ダブクリ+上級経験値20のクリーチャが欲しいので、新しくＬＲで作...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[配信者さんと行く精鋭討伐]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-846.html</id>
