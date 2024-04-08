@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T17:48:11.961Z</updated>
+    <updated>2024-04-08T18:24:05.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[また解放オプション変換やってみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404090000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202404090000/"/>
+        <updated>2024-04-08T18:00:08.000Z</updated>
+        <summary type="html"><![CDATA[↓この頭は、4解放後にレプリカで変換していたのですが、やっぱりダブクリが欲しいということで、普通の解放変換器で再度チャレンジしてみました。その結果、辛うじてダブクリを引くことができました。たったの1％...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソードアートオンライン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-848.html</id>
