@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T04:48:05.547Z</updated>
+    <updated>2024-04-09T05:16:23.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生物地球紀行。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-849.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-849.html"/>
+        <updated>2024-04-09T05:04:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。スイッチが景品みたいです。小春日和な為、水槽の水換えです。すき焼きのつもりです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[また解放オプション変換やってみた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404090000/</id>
