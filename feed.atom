@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T14:48:03.411Z</updated>
+    <updated>2024-04-09T15:18:04.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[倉庫Gの備蓄]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-415.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-415.html"/>
+        <updated>2024-04-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[わたしには管理Gが複数あり自分ではどのG様も預かっているものという認識なのですが個人の倉庫を数年預かっている状態のところもあったりします。ちなみに他のかたの活動を確認してる管理Gが２～３個で完全にGメンが来なくなってるところが２～３個あるのかな…？一般開放してGメンを入れてるG様のほうは居場所提供という事で倉庫も自由に使えるように私物は置いてないのですが個人の倉庫Gの場合もともとが私物だけだったのでそれを]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[復活の呪文。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-850.html</id>
