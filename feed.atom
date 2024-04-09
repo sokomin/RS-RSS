@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T23:47:34.421Z</updated>
+    <updated>2024-04-09T01:11:57.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1207,16 +1207,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[先日会社の健康診断に行ってきました半年前より体重が9キロ落ちていたのを指摘されました健康管理に気をつけないとですねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMU職鎧ドロップ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-818.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-818.html"/>
-        <updated>2024-03-10T11:53:35.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです。姫さんのUMU職鎧ドロップです。クロネの宝箱からです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
