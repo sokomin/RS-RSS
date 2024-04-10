@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T18:22:48.290Z</updated>
+    <updated>2024-04-10T19:01:58.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1198,16 +1198,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[メイン垢とサブ①垢はすんなり移管できてたのですがサブ②垢はずっと移管を失敗していてこれはそろそろまずいのかな？と思っていました。それでV鯖にはとりあえず別キャラを作成してGに入れてもらい連絡だけは取れるようにしてたのですがある日、サブキャラが入ってるG様で移管がまだできていない垢があることを言い移行しようとしても【登録済みのメールアドレスです】というところから進めないという話をしました。すると話をして]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旨いモノ巡り。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-820.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-820.html"/>
-        <updated>2024-03-12T06:56:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。美味しそうです。アンパンマン(中身はチョコ)。夕食の中華料理店です。週刊誌などが置いて有ります。テイクアウトの天津飯です。(とってもボリュウミーで美味しいです。)いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
