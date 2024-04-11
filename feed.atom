@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T14:16:01.541Z</updated>
+    <updated>2024-04-11T14:29:42.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[経験値ボーナス。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-852.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-852.html"/>
+        <updated>2024-04-11T14:18:15.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。死の荒れ地、気持ち良いです。PvPペナルティきつ過ぎないかな？(笑)OP魔法のお守りフィーバー(*'▽')。知恵は3201超えると50%経験値ボーナスが有ります。1231Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その１２]]></title>
         <id>https://www.youtube.com/watch?v=fQlneDY25Qg</id>
