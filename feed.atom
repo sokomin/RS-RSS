@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T01:12:10.363Z</updated>
+    <updated>2024-04-12T02:01:38.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[闘士の進捗状況]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404120000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202404120000/"/>
+        <updated>2024-04-12T01:57:57.000Z</updated>
+        <summary type="html"><![CDATA[​ついに邪念が10個貯まりました！これで限界突破が5になったので、早速赤ダメの計測をしてきました。ちょっと見辛いかな？では、↓これなら！消えかかってますが、​赤ダメ1,211,352​ですね。コラプ持ちとしては、...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[April 2024 Update Guide (COMPLETE GUIDE)]]></title>
         <id>tag:blogger.com,1999:blog-622089654895304373.post-7674971125089953700</id>
