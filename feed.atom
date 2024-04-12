@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T07:18:26.146Z</updated>
+    <updated>2024-04-12T07:30:07.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[焼肉定食。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-853.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-853.html"/>
+        <updated>2024-04-12T07:22:18.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。定期的に食べたくなります。飲み放題の烏龍茶です。弱火でじっくり。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[闘士の進捗状況]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404120000/</id>
