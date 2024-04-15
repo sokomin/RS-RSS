@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T00:06:16.736Z</updated>
+    <updated>2024-04-15T03:40:41.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1366,16 +1366,6 @@ DECEMBER UPDATE -->
         <updated>2024-03-17T04:18:27.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[平和の行進曲。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-824.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-824.html"/>
-        <updated>2024-03-16T14:18:10.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。図鑑が埋まると嬉しいです。イベントコンプリートです(*'▽')サブのビーストテイマー用です。死の荒れ地狩りです。赤い光はテンション上がります♪いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
