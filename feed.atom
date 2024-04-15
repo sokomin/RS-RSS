@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T12:50:46.562Z</updated>
+    <updated>2024-04-15T13:18:08.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Plunderstorm]]></title>
+        <id>https://intothe.info/?p=2097</id>
+        <link href="https://intothe.info/wow/plunderstorm/"/>
+        <updated>2024-04-15T13:16:26.000Z</updated>
+        <summary type="html"><![CDATA[10.2.6で追加された通常のWoWとは分離された期間限定の新モード...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[借金完済]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404150000/</id>
