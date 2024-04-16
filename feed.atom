@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T02:47:56.256Z</updated>
+    <updated>2024-04-16T03:19:33.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1347,16 +1347,6 @@ DECEMBER UPDATE -->
         <updated>2024-03-18T11:01:01.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[体調不良]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-843.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-843.html"/>
-        <updated>2024-03-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日中はだいぶ暖かくなりました暑さ寒さも彼岸までとはよく言ったものですねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
