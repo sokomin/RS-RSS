@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T14:29:59.751Z</updated>
+    <updated>2024-04-17T14:47:39.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1357,16 +1357,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[こんばんは。道の駅にて。快適な休憩場です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】複アカや仮想PCについて]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-985.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-985.html"/>
-        <updated>2024-03-19T02:46:24.000Z</updated>
-        <summary type="html"><![CDATA[新運営になってから、仮想PCが使えなくなったらしい。古都銀内の露店が無くなったのも、おそらくは仮想だったからかな？個人的にはシングルアカウント、シングルPC派なので、仮想が使えないことに不満や不自由は感じないが、露店の品数が減って欲しいものが無い、高い値段のものしか売ってないのはとてもストレス。何より、出回るの品数が減ることで、物価が上昇するのが痛過ぎる。相場を知らない人が、明らかに高過ぎる出店品をみ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
