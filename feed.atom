@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T08:48:24.068Z</updated>
+    <updated>2024-04-18T09:17:22.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２４年春アップデートチェック！！！！]]></title>
+        <id>https://www.youtube.com/watch?v=8VCLGP38D4w</id>
+        <link href="https://www.youtube.com/watch?v=8VCLGP38D4w"/>
+        <updated>2024-04-18T09:07:52.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その１５]]></title>
         <id>https://www.youtube.com/watch?v=c9XaMFxLiGI</id>
