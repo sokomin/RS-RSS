@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T02:02:01.596Z</updated>
+    <updated>2024-04-19T02:35:17.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1410,16 +1410,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。日課の討伐ボックス。久々に良いアイテムです！充実してるギルド石像です。応援、ありがとうございます(*'▽')メインシーフ、1208Lv到達です(´ω｀*)いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】精鋭討伐「タビアクート」の手引き]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-986.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-986.html"/>
-        <updated>2024-03-20T14:20:03.000Z</updated>
-        <summary type="html"><![CDATA[育の日＋αの経験値イベント後、Lv1250精鋭討伐「タビアクート」に通い出す人向けに討伐の手引きを記事にしてみた。これから挑戦する人の参考になれば幸い。＜用意するもの＞(1)精鋭討伐チケットの欠片挑戦するには、これが1つ必要。なお、討伐完了後に消費されるため、クリアするまで何度も挑戦可能。(2)完全復活巻物精鋭討伐では、通常の高級復活巻物「だけ」では復活できない。復活するにはこれが必要となるため、イベント等で配]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
