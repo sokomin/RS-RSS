@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-20T15:16:30.045Z</updated>
+    <updated>2024-04-20T15:28:23.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1369,16 +1369,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[こんばんは。人気うどん店です。匠が来ているようです。熱すぎず、丁度良い温度で食べやすいです。うどん自体がもっちもちの食感で、最高です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファーストステップとかいろいろ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202403220000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202403220000/"/>
-        <updated>2024-03-22T03:25:08.000Z</updated>
-        <summary type="html"><![CDATA[まずは、図案が怒りになり魔法強化が400を少し下回ったので、武器をこんな感じに改良しました。TNPCというのは見映えが良いですねｗ魔法強化17％もオーバーしていますが、そんなの気にしませんｗそうそう、この前...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
