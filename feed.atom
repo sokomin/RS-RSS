@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-20T22:29:12.547Z</updated>
+    <updated>2024-04-20T22:48:09.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1360,15 +1360,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[無双戦士がヤティカヌ入りするためのテンプレ装備構成を記事にしてみた。ブラザーの参考になれば幸い。【頭】　目標：全吸収を頭だけで完備全吸収ULT×3　精霊王NxBFOP：全吸収10%↑【体】　目標：命中補正無視と回避率を体で概ね完備命中補正無視，回避率10%↑×2　鉄の奔流Nx【足】　目標：忍耐20%確保W忍耐　ピンクシューズNx【背】　目標：恩寵の　を1つ付けるブラックオーラNx【手】　目標：恩寵の　を1つ付ける栄光Nx運比1/2×2、]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】心機一転！１から始める獣人育成　その２０]]></title>
-        <id>https://www.youtube.com/watch?v=qE-v2Gz_gpE</id>
-        <link href="https://www.youtube.com/watch?v=qE-v2Gz_gpE"/>
-        <updated>2024-03-22T10:42:56.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
