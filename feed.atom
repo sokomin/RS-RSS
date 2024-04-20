@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-20T10:32:13.710Z</updated>
+    <updated>2024-04-20T10:47:45.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[名称不明ドラゴン]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-214.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-214.html"/>
+        <updated>2024-04-20T10:43:46.000Z</updated>
+        <summary type="html"><![CDATA[ドラゴンツイスタァァァァァァァァーーァァァァァ……あ？どちらさまですのん？はい。ドラツイ強化が来ましたね。見た目以外どこが変わったかお分かりいただけましたでしょうか。私は、ぱっと見でわかりませんでした。ちなみに旧スキル説明はこちらになります。どうやらデバフと引き換えに即効性を得たようですね。なんだか強くなったような気がしてきました。ドラゴンツイスタァァァァァァァァー！！！サンダー撃つのやめもらってい]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リトルの覚醒 －アクションスター－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/3ff33f64a6f0ca29fbbd403f3e085c6d</id>
