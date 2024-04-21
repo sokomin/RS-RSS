@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-848.html",
+          "author": "ミツリン",
+          "description": "先日病院で尿検査を受けた際に渡された紙コップに入れすぎて満タンにして怒られましたこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-848.html",
+          "publishedOn": "2024-04-21T15:00:00.000Z",
+          "wordCount": 618,
+          "title": "2024年4月　春のアップデート内容",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-847.html",
           "author": "ミツリン",
           "description": "4月になり新生活が始まったせいか通勤電車もごった返しておりますしばらくは辛い満員電車が続きそうですこんにちは　ミツリンです",
@@ -367,16 +377,6 @@
           "publishedOn": "2024-03-23T10:22:46.000Z",
           "wordCount": null,
           "title": "【REDSTONE】リトル狩り～",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8w8cRbcqkws",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8w8cRbcqkws",
-          "publishedOn": "2024-03-23T03:15:37.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】ガチつよテイマ育成　その６",
           "imageUrl": null
         }
       ]
@@ -1017,6 +1017,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/karudxrs/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/karudxrs/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202404210000/",
+          "author": "たつ2307",
+          "description": "こんばんはＳ鯖最強悪魔のカルＤＸ_です。昨年の5/5に引退したぽいんこのレベルに追いつきました。目標にしていたウポス秘密に行くために頑張ってレベルをあげましたが、どうやら前回のアプデで1500～に参加レベ...",
+          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202404210000/",
+          "publishedOn": "2024-04-21T14:57:50.000Z",
+          "wordCount": 1224,
+          "title": "制限ＧＶ　紫鯖の戦友　また会いたい友だちへ",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/6190f3900fda8d6e3d5110b86159d18f7cfb09fc.35.9.9.3.jpeg"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202404120000/",
           "author": "たつ2307",

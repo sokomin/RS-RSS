@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-21T14:48:08.801Z</updated>
+    <updated>2024-04-21T15:16:40.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024年4月　春のアップデート内容]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-848.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-848.html"/>
+        <updated>2024-04-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日病院で尿検査を受けた際に渡された紙コップに入れすぎて満タンにして怒られましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制限ＧＶ　紫鯖の戦友　また会いたい友だちへ]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202404210000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202404210000/"/>
+        <updated>2024-04-21T14:57:50.000Z</updated>
+        <summary type="html"><![CDATA[こんばんはＳ鯖最強悪魔のカルＤＸ_です。昨年の5/5に引退したぽいんこのレベルに追いつきました。目標にしていたウポス秘密に行くために頑張ってレベルをあげましたが、どうやら前回のアプデで1500～に参加レベ...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その１８]]></title>
         <id>https://www.youtube.com/watch?v=VIWwPQaBhzw</id>
@@ -1407,15 +1427,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[今までありそうでなかった同時同一ユニークドロップからこんにちは、第三の猫です。移管記念樹飾りを完成させました。報酬の1000ULT武器選択チケット[E]を入手。第三の猫が選んだのはこちら。1000U笛の不人気な方、物理テイマー用の笛「軍神の指揮」です。貴重なペット用「敵の物理致命打抵抗減少」がついています。物理ペットを使っていると、致命打抵抗に対して意識の高い敵にはクリティカルが出なくなるのですが、「軍神の指揮]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ガチつよテイマ育成　その６]]></title>
-        <id>https://www.youtube.com/watch?v=8w8cRbcqkws</id>
-        <link href="https://www.youtube.com/watch?v=8w8cRbcqkws"/>
-        <updated>2024-03-23T03:15:37.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
