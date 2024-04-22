@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T02:47:56.111Z</updated>
+    <updated>2024-04-22T03:18:57.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1398,16 +1398,6 @@ DECEMBER UPDATE -->
         <updated>2024-03-24T02:57:09.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】装備改善(戦士・獣人)]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-988.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-988.html"/>
-        <updated>2024-03-23T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[ロトで出した達人指をギルメンに破片強化してもらって狩りで使ってるけど、これがかなり強い。他にも再調整したい破片指があるため、面倒くさいからサボっていた混沌周回(玲瓏の欠片集め)をやってみようと思い立ち、先週から周回している。以下の2つは再調整が完了。2回目でRSを引けてラッキーだった堕天指。このエクペリは獣人で使っているが、獣人は速度が重要なため出来れば速度がよかったが、一発で付いたのはダメージで、かつ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
