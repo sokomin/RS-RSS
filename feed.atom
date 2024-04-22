@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T19:28:05.561Z</updated>
+    <updated>2024-04-22T19:48:08.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1416,26 +1416,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[桜の開花が近い時期ですが比較的風が冷たく寒い日が続いておりますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】Happy Scratch 2024春]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-989.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-989.html"/>
-        <updated>2024-03-24T07:30:38.000Z</updated>
-        <summary type="html"><![CDATA[パワキがたくさんもらえると聞いて、スクラッチメンになってきた。削った回数：72回　　※30,500ジェニーの例のアレ選択[スクラッチ2024]Box：1個幸運のラグジュアリーBox：1個幸運のチケットBox：1個あれ？選択[スクラッチ2024]Boxって、70回削ったら必ず1個もらえるんだよね？ということは・・・そして、たくさん出てきたスパロトを開けていく。うん、まあスパロトだし、仕方ないよね。でも、次は星2以上確定のスパロトだし、期待]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファーストステップ完成]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202403240000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202403240000/"/>
-        <updated>2024-03-24T07:27:43.000Z</updated>
-        <summary type="html"><![CDATA[あの後、4解放して解放変換しました。4OP目にスキルが来たら、他が多少腐っていても我慢するつもりでしたが、他も全て良いOPが出てくれました！1OPも妥協することなく変換が終われて本当にラッキーでした。（ちな...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
