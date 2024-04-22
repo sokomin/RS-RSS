@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T16:21:39.671Z</updated>
+    <updated>2024-04-22T16:48:01.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キーオブアルカナ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-863.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-863.html"/>
+        <updated>2024-04-22T16:40:31.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです(強そう)。欲しいのが出現です(*'▽')このOP…謎が多いです。平和の行進曲のOP完成です(/・ω・)/。メインシーフ、1242Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[剣士の覚醒 －幻影の剣士－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/d8c20daae88795b2e30dac7b060bbd47</id>
