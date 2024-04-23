@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-23T23:28:33.019Z</updated>
+    <updated>2024-04-23T23:48:12.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1405,16 +1405,6 @@ DECEMBER UPDATE -->
         <link href="https://medaka1985.fc2.net/blog-entry-834.html"/>
         <updated>2024-03-26T12:10:04.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。最近、OPENの水族館です。こ↑こ↓ブラックゴーストナイフフィッシュ。ナッテリーピラニア。トランスルーセントグラスキャット。ナマケモノ。ゾウガメ。水の上を歩いている様なガラス板です。海底神殿かな？いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本最大級の屋外植物園。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-833.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-833.html"/>
-        <updated>2024-03-25T11:47:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。可愛い(*´ω｀*)。人気スポットです。わくわくが湧く(？)。お魚天国です。あぁ〜浄化されるぅ。もふもふ(*´ω｀*)。圧倒的、豪遊・・・！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
