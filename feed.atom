@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-23T14:48:02.701Z</updated>
+    <updated>2024-04-23T15:16:50.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[剣士効率UP！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-417.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-417.html"/>
+        <updated>2024-04-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[わたしのサブキャラで三国志ドリーム連合でGM代理をしている幻影の剣士甘寧：興覇ですが装備があまりよくない事とわたしの戦い方が悪いためディメを回るのにも苦労をしていました＾＾；狩場に行くのは大変すぎるので行ってません＾＾；それがこの前の改変で範囲スキルのミラージュバーストができたことでディメを回すのはかなり早くなったと感じました＾＾この剣士それほどいい装備をしてるわけでもなく惰性で育ててる感がありまし]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[万病治療薬。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-864.html</id>
