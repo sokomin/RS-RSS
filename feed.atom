@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T23:48:13.548Z</updated>
+    <updated>2024-04-25T01:15:05.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1407,16 +1407,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[クリーチャーの冒険、なかなかよいのが出なくて、初期化の巻物を使って冒険の初期化を繰り返していたら・・・・本日の冒険初期化残り26回え？初期化は1日1回まで、初期化の巻物使って1回増やすんじゃなかったっけ？なんで初期化1日5回までになってんだよ！しかも、初期化の巻物使う度に5回加算って・・・・教えろよｗｗｗ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かりゆし水族館。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-834.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-834.html"/>
-        <updated>2024-03-26T12:10:04.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。最近、OPENの水族館です。こ↑こ↓ブラックゴーストナイフフィッシュ。ナッテリーピラニア。トランスルーセントグラスキャット。ナマケモノ。ゾウガメ。水の上を歩いている様なガラス板です。海底神殿かな？いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
