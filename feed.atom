@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T10:19:32.457Z</updated>
+    <updated>2024-04-26T10:35:41.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近のいろいろ]]></title>
+        <id>kaze.gg-blog.com://entry/190</id>
+        <link href="http://kaze.gg-blog.com/wakuteka/%E6%9C%80%E8%BF%91%E3%81%AE%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D"/>
+        <updated>2024-04-26T10:21:43.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+
+
+放銃のプロ　変態LOVEマシーン
+
+
+
+残念でした
+サバイバルにて
+
+
+マキちゃんを追いかける風
+
+
+あぎると共に世界の終焉をただ待つ風
+
+
+
+待つのは絶望
+最近のわくてか
+
+
+GMにリストラされるチャイコ
+
+
+神々しいチャイコ
+
+
+メリークリスマス感のすたば君に分身で対抗する夕ちゃん
+おまけ
+
+
+寝ろ]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[経験値イベントに向けて気合入れすぎて・・]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404260000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202404260000/"/>
+        <updated>2024-04-26T10:21:21.000Z</updated>
+        <summary type="html"><![CDATA[稼働してる3キャラ全部で経験値バフを出してしまい、狩り以外でログインしにくい状況になってしまいました＾＾；今日は仕事終わった後に飲み会があって帰宅は深夜になるので、それまで倉庫キャラでインしておくし...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[色褪せた光栄。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-866.html</id>

@@ -371,6 +371,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202404260000/",
+          "author": "雷神の弓",
+          "description": "稼働してる3キャラ全部で経験値バフを出してしまい、狩り以外でログインしにくい状況になってしまいました＾＾；今日は仕事終わった後に飲み会があって帰宅は深夜になるので、それまで倉庫キャラでインしておくし...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202404260000/",
+          "publishedOn": "2024-04-26T10:21:21.000Z",
+          "wordCount": 1630,
+          "title": "経験値イベントに向けて気合入れすぎて・・",
+          "imageUrl": "http://plaza.jp.rakuten-static.com/img/common/blog_logo_ogp.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202404230000/",
           "author": "雷神の弓",
           "description": "​表題のとおり闘士のレベルが上がったので手を交換しました。↑以前400本で購入したこれです。装備レベルが1199だったので、買ってからずっと銀行に眠らせていました。え？真珠のブレスレットなんて分解Uなのに何...",
@@ -534,7 +544,18 @@
       "title": "風に吹かれて",
       "feedUrl": "http://kaze.gg-blog.com/RSS/",
       "siteUrl": "http://kaze.gg-blog.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "kaze.gg-blog.com://entry/190",
+          "author": null,
+          "description": "こんばんは。\n\n\n放銃のプロ　変態LOVEマシーン\n\n\n\n残念でした\nサバイバルにて\n\n\nマキちゃんを追いかける風\n\n\nあぎると共に世界の終焉をただ待つ風\n\n\n\n待つのは絶望\n最近のわくてか\n\n\nGMにリストラされるチャイコ\n\n\n神々しいチャイコ\n\n\nメリークリスマス感のすたば君に分身で対抗する夕ちゃん\nおまけ\n\n\n寝ろ",
+          "link": "http://kaze.gg-blog.com/wakuteka/%E6%9C%80%E8%BF%91%E3%81%AE%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D",
+          "publishedOn": "2024-04-26T10:21:43.000Z",
+          "wordCount": 260,
+          "title": "最近のいろいろ",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "のんびりまったり",
