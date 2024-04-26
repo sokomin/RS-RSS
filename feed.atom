@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T14:15:51.868Z</updated>
+    <updated>2024-04-26T14:29:13.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1515,16 +1515,6 @@ DECEMBER UPDATE -->
         <updated>2024-03-28T04:56:15.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弓の装備いろいろいじりました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202403280000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202403280000/"/>
-        <updated>2024-03-28T02:15:52.000Z</updated>
-        <summary type="html"><![CDATA[まず、武器を変更しました。コラプ物理弓は売ってないし、売ってても買えるほど金もないので↓これを作りました。嘆きの弓の決定打が強いとかよく聞きますが、N刑場の露を80本で買って狩りをしてみましたが、嘆き...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
