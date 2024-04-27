@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T23:48:15.824Z</updated>
+    <updated>2024-04-27T01:12:31.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[姫の覚醒 －ケイオスクイーン－]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/9257d841731dc56572c2d172f5d3b07e</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/9257d841731dc56572c2d172f5d3b07e?fm=rss"/>
+        <updated>2024-04-27T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[GW前半戦がはじまりました。
+「春のUPDATE」でキャラのバランス調整がありました。
+「こちら」
+
+覚醒タイプは「ケイオスクィーン」
+
+「マジックスリング」
+
+専用強化スキルは「ボトル専門家」
+
+強化スキルの１つは「ボトル投げ」
+
+私が使用しているのはポイズンボトルです。
+
+もう１つの強化スキルは「ボトル束投擲」
+
+範囲が広がり、エフェクトが派手になりました。カラフルで綺麗です。
+
+
+レベルはそこそこ高いのですが装備が追い付いていないので苦慮していますが、個人的には知識のほうが安定して枯れると思います。
+今はポイズンボトルですが、そのうちほかのボトルに持ち帰ることも考えていこうかなぁ・・・と思います。
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サナの宝石箱。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-867.html</id>
@@ -1516,16 +1556,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[こんばんは。凄まじいコスチュームです。荒れ地の祭壇の守護者です。マグマみたいな攻撃や、WIZのフレイムストームの様な攻撃です。ペットに出来たら面白そうなモンスターです。メインシーフ、1216Lv到達です(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弓の装備いろいろいじりました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202403280000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202403280000/"/>
-        <updated>2024-03-28T12:04:37.000Z</updated>
-        <summary type="html"><![CDATA[まず、武器を変更しました。コラプ物理弓は売ってないし、売ってても買えるほど金もないので↓これを作りました。嘆きの弓の決定打が強いとかよく聞きますが、N刑場の露を80本で買って狩りをしてみましたが、嘆き...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>

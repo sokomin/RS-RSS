@@ -509,16 +509,6 @@
           "wordCount": 1641,
           "title": "闘士の装備の変更について",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/ad2d04e177160e7e9ee55364b08f8a126aec97de.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202403280000/",
-          "author": "雷神の弓",
-          "description": "まず、武器を変更しました。コラプ物理弓は売ってないし、売ってても買えるほど金もないので↓これを作りました。嘆きの弓の決定打が強いとかよく聞きますが、N刑場の露を80本で買って狩りをしてみましたが、嘆き...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202403280000/",
-          "publishedOn": "2024-03-28T12:04:37.000Z",
-          "wordCount": 1656,
-          "title": "弓の装備いろいろいじりました",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/da5df6c8ed5cc44fcb9eb53d593925f6354cf19f.73.9.9.3.png"
         }
       ]
     },
@@ -1048,6 +1038,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/9257d841731dc56572c2d172f5d3b07e",
+          "author": null,
+          "description": "GW前半戦がはじまりました。\n「春のUPDATE」でキャラのバランス調整がありました。\n「こちら」\n\n覚醒タイプは「ケイオスクィーン」\n\n「マジックスリング」\n\n専用強化スキルは「ボトル専門家」\n\n強化スキルの１つは「ボトル投げ」\n\n私が使用しているのはポイズンボトルです。\n\nもう１つの強化スキルは「ボトル束投擲」\n\n範囲が広がり、エフェクトが派手になりました。カラフルで綺麗です。\n\n\nレベルはそこそこ高いのですが装備が追い付いていないので苦慮していますが、個人的には知識のほうが安定して枯れると思います。\n今はポイズンボトルですが、そのうちほかのボトルに持ち帰ることも考えていこうかなぁ・・・と思います。\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/9257d841731dc56572c2d172f5d3b07e?fm=rss",
+          "publishedOn": "2024-04-27T00:30:00.000Z",
+          "wordCount": 1333,
+          "title": "姫の覚醒 －ケイオスクイーン－",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/42/8c/1b55416dd5f22e24f657e0cd4118cf30.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/2f57aa85251429e434bb36297dbb2780",
           "author": null,
