@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T15:47:59.145Z</updated>
+    <updated>2024-04-27T16:19:15.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1524,16 +1524,6 @@ T神巫女丈夫な霊
         <summary type="html"><![CDATA[こんにちは。ベリベリーパフェです。いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闘士の装備の変更について]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202403290000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202403290000/"/>
-        <updated>2024-03-29T03:58:17.000Z</updated>
-        <summary type="html"><![CDATA[以前、解放変換した結果↓のSSの様にダブクリを引けてはいましたが、他が無意味なOPばかりなのが気になっていました。そこで、勇気を出してやり直すことに決めました！ダブクリ等の与ダメが増えるOP+有用なOPが2個...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
