@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T07:48:04.243Z</updated>
+    <updated>2024-04-27T08:21:09.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GW突入]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/9a3d1e6ef3726515c88a10c8e2404af9</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/9a3d1e6ef3726515c88a10c8e2404af9?fm=rss"/>
+        <updated>2024-04-27T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[GWに突入しました。
+
+転生陣が消えました(´・ω・`)
+
+底が見えなくなりました＠ｗ＠
+
+
+
+
+
+崩壊寸前の倉庫Gが崩壊しても大丈夫なようにアイテムとGoldを移管しました。
+装備品はちょこっとお借りしているかもしれませんが、そんな状況です。
+倉庫Gに入るとアイテムが空なのでびっくりするかもしれませんが、こういった事情です。
+ご了承くださいませ＾＾
+
+
+余談ですがPCを買い換えてから画像編集しているペイントもバージョンが変わって非常に使いにくくなりました(´・ω・`)
+なれれば・・・・と思いつつなれません。
+なれって怖いですよね。
+編集が適当になっていますが、そこらへんはご容赦ください。
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで|ω・`)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[姫の覚醒 －ケイオスクイーン－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/9257d841731dc56572c2d172f5d3b07e</id>
