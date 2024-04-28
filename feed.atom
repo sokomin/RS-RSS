@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T23:48:03.158Z</updated>
+    <updated>2024-04-28T01:18:46.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1505,15 +1505,6 @@ T神巫女丈夫な霊
         <summary type="html"><![CDATA[​​現在のあまりぱっとしない装備でいくつ赤ダメが出るか計測してきました！まず、コラプ持ち・限界突破4の闘士の赤ダメです。（星谷にて）​赤ダメ1,136,884​ですね。次に、コラプ無し・限界突破5の弓の赤ダメです...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマ育成！]]></title>
-        <id>https://www.youtube.com/watch?v=hdGFMNtX2TU</id>
-        <link href="https://www.youtube.com/watch?v=hdGFMNtX2TU"/>
-        <updated>2024-03-29T11:15:35.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
