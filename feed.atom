@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-28T19:13:24.694Z</updated>
+    <updated>2024-04-28T19:27:57.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[闘士は目標達成]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404290000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202404290000/"/>
+        <updated>2024-04-28T19:11:59.000Z</updated>
+        <summary type="html"><![CDATA[とりあえず闘士は目標達成です。経験値イベント２日やっただけですが、もうけっこう疲れてます・・ｗ黒魔と弓の目標達成は無理そうですが、やれるだけはやろうと思います。（２倍でも鐘なしだと、そこまで美味く...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヤティカヌの茂み。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-869.html</id>
