@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-28T21:48:07.831Z</updated>
+    <updated>2024-04-28T22:15:53.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1506,15 +1506,6 @@ T神巫女丈夫な霊
         <summary type="html"><![CDATA[まず、黒魔は↓を使っているので、CPを増やさなければなりません。CP5万で効果を最大に引き出せるのですが、CPが減っていて5万を下回っていると与ダメも減ってしまいます。ですから、CPは5万ちょっとあればOKとい...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマ育成！その２]]></title>
-        <id>https://www.youtube.com/watch?v=x_4k3dDDto4</id>
-        <link href="https://www.youtube.com/watch?v=x_4k3dDDto4"/>
-        <updated>2024-03-30T09:48:10.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
