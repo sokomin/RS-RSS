@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-29T14:31:07.244Z</updated>
+    <updated>2024-04-29T14:48:07.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1505,16 +1505,6 @@ T神巫女丈夫な霊
         <updated>2024-03-31T02:57:55.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPを増やすと良いことがあるかも]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202403310000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202403310000/"/>
-        <updated>2024-03-31T02:32:32.000Z</updated>
-        <summary type="html"><![CDATA[まず、黒魔は↓を使っているので、CPを増やさなければなりません。CP5万で効果を最大に引き出せるのですが、CPが減っていて5万を下回っていると与ダメも減ってしまいます。ですから、CPは5万ちょっとあればOKとい...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
