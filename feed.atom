@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-29T18:22:01.085Z</updated>
+    <updated>2024-04-29T18:48:06.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1496,16 +1496,6 @@ T神巫女丈夫な霊
         <updated>2024-03-31T09:05:54.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホットタイム。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-839.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-839.html"/>
-        <updated>2024-03-31T06:42:32.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ギルドホールで気絶です(笑)欲張りレビット討伐(何かグロい)超越の書、ドロップです。メインシーフ、1220Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
