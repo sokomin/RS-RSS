@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-30T14:48:03.878Z</updated>
+    <updated>2024-04-30T15:14:59.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[１２００と焦り。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-418.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-418.html"/>
+        <updated>2024-04-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ノロノロと成長しているオオカミ少年が１２００になりました＾＾オオカミ少年だけじゃなくてわたしのキャラは全員ノロノロなんですけど＾＾；年末に１１７２だったので４か月で２８上がったことになり今年の1/3が終了した時点での進捗は良い感じなのでこのままのペースであれば今年の目標の１２５０にはなれるのかな？と思いました＾＾ただし、今年も金鯖があるとすれば１か月半くらいは金鯖にいると思うので油断してると１２５０]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雨雨しとしと。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-871.html</id>
