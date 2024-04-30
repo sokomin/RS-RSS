@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-30T21:29:33.460Z</updated>
+    <updated>2024-04-30T21:48:08.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1462,41 +1462,6 @@ DECEMBER UPDATE -->
         <updated>2024-04-01T11:00:14.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024.3月のドロップ～♪]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/11579ba2fca5f45f9aed2577267ab9cb</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/11579ba2fca5f45f9aed2577267ab9cb?fm=rss"/>
-        <updated>2024-04-01T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[4月になりました。
-
-
-知識ID
-
-
-
-
-T魔王十字架
-
-T神巫女丈夫な霊
-
-丈夫な霊はまだ装備できませんが、悪魔十字架はよかった。
-あとはT天使十字架とかをつくりたいなぁ・・・・
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
