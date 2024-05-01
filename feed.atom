@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-01T03:47:55.042Z</updated>
+    <updated>2024-05-01T04:20:28.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1441,16 +1441,6 @@ DECEMBER UPDATE -->
         <link href="https://medaka1985.fc2.net/blog-entry-841.html"/>
         <updated>2024-04-02T00:44:03.000Z</updated>
         <summary type="html"><![CDATA[おはようございます。あまり天気が良くないですね。春本番なので、ピリッと行きましょう！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エイプリルフール。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-840.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-840.html"/>
-        <updated>2024-04-01T15:57:07.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ゲリオ討伐、UMUドロップです。イベントの景品です。なんとも(;´･ω･)。製錬＋9、成功！大地タイプの肩刺青です(*'▽')。界王拳！(ベルセルク)いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
