@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-03T08:47:59.274Z</updated>
+    <updated>2024-05-03T09:18:35.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全然回避狩り]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-215.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-215.html"/>
+        <updated>2024-05-03T09:12:29.000Z</updated>
+        <summary type="html"><![CDATA[寒かったり暑かったりする、穴あき連休からこんにちは。体調には気を付けたいですね、第三の猫です。新しい装備を用意しました。セーフケージです。DXじゃない鎧グラフィックが新鮮に感じます。さて、やってきましたのは没落した悪魔の地。希望に満ちて輝く第三の猫。回避セーフが安く手に入ったから何となく初めた物語でないことは明白です。シュークリームも指輪の火の鳥と一体になり、仕上がってきました。早く食べたいからと言]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[山荘]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-874.html</id>
