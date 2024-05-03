@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-03T22:30:31.918Z</updated>
+    <updated>2024-05-03T22:47:57.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1490,15 +1490,6 @@ Stay tuned!]]></summary>
         <summary type="html"><![CDATA[こんにちは。冷かけうどんです。青汁の素材である、ケール。収穫が少なく、レアらしいです。ざくろの木です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマ育成！その６]]></title>
-        <id>https://www.youtube.com/watch?v=sgM1Vs9XU88</id>
-        <link href="https://www.youtube.com/watch?v=sgM1Vs9XU88"/>
-        <updated>2024-04-04T10:31:51.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
