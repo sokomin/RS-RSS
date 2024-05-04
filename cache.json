@@ -295,7 +295,18 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-YoqlLoQ4c8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-YoqlLoQ4c8",
+          "publishedOn": "2024-05-04T04:29:39.000Z",
+          "wordCount": null,
+          "title": "月光彫刻師の配信をしたい配信のパート１の配信の配信",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "無職と美学とシュルレアリスム",
