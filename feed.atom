@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-05T14:48:08.897Z</updated>
+    <updated>2024-05-05T15:18:28.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GW経験値イベント]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-850.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-850.html"/>
+        <updated>2024-05-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[5月に入り日中はとても暑い日が増えました朝晩との寒暖差も激しくしんどい日が続きますねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[久しぶりです☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12851025325.html</id>
