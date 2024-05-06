@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-06T10:34:03.797Z</updated>
+    <updated>2024-05-06T10:47:57.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その２２]]></title>
+        <id>https://www.youtube.com/watch?v=InKKQC_2ws4</id>
+        <link href="https://www.youtube.com/watch?v=InKKQC_2ws4"/>
+        <updated>2024-05-06T10:43:45.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寝る友☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12851170300.html</id>
@@ -1653,17 +1662,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[こんにちは。4000万もちらほら出てる気がします。エモーション、良いですね。友人に作って頂きました、感謝(*'▽')。やっと完成です。憧れのT健康指購入です。壺は卒業ですねっ。メインシーフ、1226Lv到達です(/・ω・)/。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diaan, where is the April update post?]]></title>
-        <id>tag:blogger.com,1999:blog-622089654895304373.post-8938204213072070358</id>
-        <link href="https://diaanrs.blogspot.com/2024/04/diaan-where-is-april-update-post.html"/>
-        <updated>2024-04-06T22:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Well, I have been busy with a few diff things folks, will post it when I have some time to actually get it done (it's only partially done currently)
-Stay tuned!]]></summary>
-        <author>
-            <name>noreply@blogger.com (Unknown)</name>
         </author>
     </entry>
     <entry>
