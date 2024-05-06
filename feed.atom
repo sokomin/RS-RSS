@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-06T22:31:04.128Z</updated>
+    <updated>2024-05-06T22:47:58.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1685,15 +1685,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[私の地域でも桜が開花しました近所の川沿いにある花見スポットは賑わっていますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その１０]]></title>
-        <id>https://www.youtube.com/watch?v=GyjslZUBp3c</id>
-        <link href="https://www.youtube.com/watch?v=GyjslZUBp3c"/>
-        <updated>2024-04-07T10:42:41.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
