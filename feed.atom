@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-06T18:48:06.618Z</updated>
+    <updated>2024-05-06T19:14:45.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黒魔の皆さん、ごめんなさい]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202405070000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202405070000/"/>
+        <updated>2024-05-06T18:52:10.000Z</updated>
+        <summary type="html"><![CDATA[​​GW中に円盤覚醒にスキル再振りをしました。しかし、円盤は黒星よりは秒間ダメは高いと思いましたが、範囲が狭いのとスキル使用時の爽快感がなく・・「このまま黒魔で狩りを続けるべきか？」と悩んでしまいまし...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赤石　サマナー装備記録2024]]></title>
         <id>hatenablog://entry/6801883189104259016</id>
@@ -1682,15 +1692,6 @@ DECEMBER UPDATE -->
         <id>https://www.youtube.com/watch?v=GyjslZUBp3c</id>
         <link href="https://www.youtube.com/watch?v=GyjslZUBp3c"/>
         <updated>2024-04-07T10:42:41.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その９]]></title>
-        <id>https://www.youtube.com/watch?v=CNTRCmdisnY</id>
-        <link href="https://www.youtube.com/watch?v=CNTRCmdisnY"/>
-        <updated>2024-04-07T07:13:22.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>
