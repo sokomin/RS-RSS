@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-07T14:48:22.344Z</updated>
+    <updated>2024-05-07T15:17:40.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欲する職G]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-419.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-419.html"/>
+        <updated>2024-05-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現在わたしはB鯖とV鯖の姫Gにキャラを入れているのですが姫以外の職Gはあまり見かけないような気がします。実はたくさんあってわたしが知る機会がないだけかもしれませんが…だいたいB鯖にいるので他鯖のほうはよくわからないですがB鯖で募集叫びを見かけるのはやっぱり姫Gだけで他の職Gってどれくらいあるのかな？と思いました。ちなみにわたし早寝早起きなので夜とか募集叫んでたらわたしにはわからないです＾＾；そう考えてB鯖で]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[休日の過ごし方。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-877.html</id>
