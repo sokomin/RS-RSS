@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-07T02:42:41.323Z</updated>
+    <updated>2024-05-07T03:20:03.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[休日の過ごし方。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-877.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-877.html"/>
+        <updated>2024-05-07T03:08:02.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ルルちゃんです(チュール好き)。サクッ・・とろっ・・・。あまおうミルクです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黒魔の皆さん、ごめんなさい]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202405070000/</id>
@@ -1675,16 +1685,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[大昔にフォーリンで作った↓ですが、覚醒石不足で中途半端な状態で仕様変更となりフィニッシュしています。（もうパッシブを覚醒で上げられない）ダブクリ+上級経験値20のクリーチャが欲しいので、新しくＬＲで作...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[配信者さんと行く精鋭討伐]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-846.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-846.html"/>
-        <updated>2024-04-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[私の地域でも桜が開花しました近所の川沿いにある花見スポットは賑わっていますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
