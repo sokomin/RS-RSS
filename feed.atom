@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-07T15:47:56.561Z</updated>
+    <updated>2024-05-07T16:20:17.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1685,6 +1685,16 @@ DECEMBER UPDATE -->
         <updated>2024-04-08T11:24:12.000Z</updated>
         <author>
             <name>ロイ4世</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パッシブ変換で神引き]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404080000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202404080000/"/>
+        <updated>2024-04-08T05:01:41.000Z</updated>
+        <summary type="html"><![CDATA[大昔にフォーリンで作った↓ですが、覚醒石不足で中途半端な状態で仕様変更となりフィニッシュしています。（もうパッシブを覚醒で上げられない）ダブクリ+上級経験値20のクリーチャが欲しいので、新しくＬＲで作...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
