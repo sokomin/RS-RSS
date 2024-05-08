@@ -288,6 +288,16 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ldzZKgHXsRs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ldzZKgHXsRs",
+          "publishedOn": "2024-05-08T06:50:40.000Z",
+          "wordCount": null,
+          "title": "まだらんとはーと丸出し　ヴぁロ　コンペ配信",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HqQFg9b4dvE",
           "author": null,
           "description": "",
