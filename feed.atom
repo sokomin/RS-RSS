@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-08T02:47:55.173Z</updated>
+    <updated>2024-05-08T03:19:51.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1676,15 +1676,6 @@ DECEMBER UPDATE -->
         <summary type="html"><![CDATA[↓この頭は、4解放後にレプリカで変換していたのですが、やっぱりダブクリが欲しいということで、普通の解放変換器で再度チャレンジしてみました。その結果、辛うじてダブクリを引くことができました。たったの1％...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その１１]]></title>
-        <id>https://www.youtube.com/watch?v=aA0wb5h3MLM</id>
-        <link href="https://www.youtube.com/watch?v=aA0wb5h3MLM"/>
-        <updated>2024-04-08T15:13:53.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
