@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-08T16:48:14.643Z</updated>
+    <updated>2024-05-08T17:15:17.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ディメンションボス。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-878.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-878.html"/>
+        <updated>2024-05-08T16:55:39.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。キャプテンUMU鎧です(7本で売っちゃった汗)。ディメンションのおまけボス出現です。追加経験値、美味しいです(*'▽')。応援、ありがとうございます！GHLv1なので攻めだと思います。メインシーフ、1266Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[まだらんとはーと丸出し　ヴぁロ　コンペ配信]]></title>
         <id>https://www.youtube.com/watch?v=ldzZKgHXsRs</id>
@@ -1726,16 +1736,6 @@ DECEMBER UPDATE -->
         <link href="https://medaka1985.fc2.net/blog-entry-850.html"/>
         <updated>2024-04-09T14:16:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。結果は後程…！ゲリオ討伐でドロップです。サブIDの買い物かごに有りました。(・∀・)ｲｲﾈ!!グレードRSPassの景品です。チャージが素敵(*'▽')陰ペットの特徴です。絶望リング装備中。変な運、使っちゃった！ＡＩが止まらない♪のP戦結果です。オッス！お願いしまーす！いつもの。完成です(｀・ω・´)ｼｬｷｰﾝ。お待たせしました！1-2/3*5≒0.6(60%)&nbsp; 5連敗中です(;´･ω･)5回1/3チャレンジして一回でも成功する確率が60%巡礼]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生物地球紀行。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-849.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-849.html"/>
-        <updated>2024-04-09T05:04:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。スイッチが景品みたいです。小春日和な為、水槽の水換えです。すき焼きのつもりです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
