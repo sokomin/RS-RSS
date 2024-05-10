@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-10T23:17:24.704Z</updated>
+    <updated>2024-05-10T23:29:27.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1841,6 +1841,15 @@ Implemented Three types of [Mythic] rank Nephon creatures (physical, magical, pe
 [Mythic] rank Nephon creature can be obtained through synthesizing Legendary Nephon creatures (% of getting mythic rank will b…]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その１２]]></title>
+        <id>https://www.youtube.com/watch?v=fQlneDY25Qg</id>
+        <link href="https://www.youtube.com/watch?v=fQlneDY25Qg"/>
+        <updated>2024-04-11T14:25:10.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
