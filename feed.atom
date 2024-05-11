@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-11T19:13:59.786Z</updated>
+    <updated>2024-05-11T19:28:00.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1765,16 +1765,6 @@ Lvは上がっていませんがしたいことをしたい時にして遊んで
         <summary type="html"><![CDATA[​​まず、これを見てください。なんと​赤ダメ1,358,754​出ています！（右下の1756090はハンターズアイで増幅されてます）こんなにUPした理由は、↓こういうことです。※ソケットの変換はやらないと決めています。物...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[焼肉定食。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-853.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-853.html"/>
-        <updated>2024-04-12T07:22:18.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。定期的に食べたくなります。飲み放題の烏龍茶です。弱火でじっくり。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
