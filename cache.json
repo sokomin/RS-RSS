@@ -373,6 +373,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202405110000/",
+          "author": "雷神の弓",
+          "description": "まず、↓はTRSULT太極を付けてスキル過剰、知識が少し不足という状態ここから、TRSULT太極をT知識太極に変更すると↓こうなります。スキルが減っても知識が増えたら表記ダメが伸びました。※ただし、元のスキルと知...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202405110000/",
+          "publishedOn": "2024-05-11T12:10:26.000Z",
+          "wordCount": 1638,
+          "title": "メイドの装備が少しだけ改善しました",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/f356ff5502bd8998705ab036733bfa75acd7f541.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202405080000/",
           "author": "雷神の弓",
           "description": "とりあえずですが装備が大体揃ったので、SS付きで公開しようと思います。まだ転職4日目なのでゴミっぽい品もありますが、あまり馬鹿にしないでくださいね。・武器これは文句なしの装備です。オニトルロとかネルバ...",
@@ -509,7 +519,18 @@
       "title": "今日のアリアン",
       "feedUrl": "http://scratch2009.blog.fc2.com/?xml",
       "siteUrl": "http://scratch2009.blog.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://scratch2009.blog.fc2.com/blog-entry-224.html",
+          "author": "scratch2009",
+          "description": "移管してやっと落ち着きだした感じがする今日この頃。旧公式ホームページも5/14の15時をもって閉鎖予定なので、移管が済んでいないアカウントをお持ちの方はご留意ください。（記念にweb魚拓とっといた）久々にアリアンの市場調査。売れ残っている価格なので、実勢値はこれより低いことが予想されます。＜消耗品＞密封された赤い異界の強化石　単価70本密封された黒い異界の強化石　単価7本密封された異界の強化石　単価0.2本魔力",
+          "link": "http://scratch2009.blog.fc2.com/blog-entry-224.html",
+          "publishedOn": "2024-05-11T12:15:13.000Z",
+          "wordCount": 516,
+          "title": "ご当地キャラの日のアリアン",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "JEFRYの悪足掻き",
