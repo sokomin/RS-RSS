@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-12T14:48:17.875Z</updated>
+    <updated>2024-05-12T15:17:48.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アリーナサーバー実装とサブBIS]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-851.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-851.html"/>
+        <updated>2024-05-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今週は会社の研修等もありハードな一週間でした皆さんは連休明けでリズムは取り戻せましたでしょうかこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[廃人・・・☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12851933377.html</id>
