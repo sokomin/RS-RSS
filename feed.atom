@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-11T23:48:12.417Z</updated>
+    <updated>2024-05-12T01:21:39.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海上保安の日のアリアン]]></title>
+        <id>http://scratch2009.blog.fc2.com/blog-entry-225.html</id>
+        <link href="http://scratch2009.blog.fc2.com/blog-entry-225.html"/>
+        <updated>2024-05-12T01:14:58.000Z</updated>
+        <summary type="html"><![CDATA[1948年5月12日に海上保安庁が開庁しました。1948年に「海上保安庁開庁記念日」として制定し、2000年にこれを「海上保安の日」と改称してます。各方面からの風当たりが強く大変だとは思いますが、国防は最優先事項なので、個人的に応援している組織です。昨日に引き続き、アリアンの市場調査です。＜リング＞T[REDSTONE ULT] 統率の指輪　3500本T[REDSTONE ULT] 太極リングNX　420本T[REDSTONE ULT] エーデルゴンドNX　400本T[知識1]]></summary>
+        <author>
+            <name>scratch2009</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ご当地キャラの日のアリアン]]></title>
         <id>http://scratch2009.blog.fc2.com/blog-entry-224.html</id>
@@ -1755,16 +1765,6 @@ Lvは上がっていませんがしたいことをしたい時にして遊んで
         <summary type="html"><![CDATA[こんにちはブログの更新をさぼっていましたが、色々な場所から声をかけてもらっているので更新します。これまでと少し変わった事と言えば、旅の途中以外のＧに少しお邪魔させてもらってます(｀・ω・´)ゞテイマを...]]></summary>
         <author>
             <name>たつ2307</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弓の赤ダメが大幅UPしました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404120001/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202404120001/"/>
-        <updated>2024-04-12T12:01:24.000Z</updated>
-        <summary type="html"><![CDATA[​​まず、これを見てください。なんと​赤ダメ1,358,754​出ています！（右下の1756090はハンターズアイで増幅されてます）こんなにUPした理由は、↓こういうことです。※ソケットの変換はやらないと決めています。物...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
