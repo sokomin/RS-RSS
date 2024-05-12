@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-12T22:15:25.294Z</updated>
+    <updated>2024-05-12T22:28:48.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[REDSTONEの音楽]]></title>
+        <id>http://scratch2009.blog.fc2.com/blog-entry-226.html</id>
+        <link href="http://scratch2009.blog.fc2.com/blog-entry-226.html"/>
+        <updated>2024-05-12T22:15:51.000Z</updated>
+        <summary type="html"><![CDATA[新公式ホームページにて、REDSTONEのサウンドトラックが再生できるページがあります。なくて困るものではありますが、あるとちょっとうれしいコンテンツですね。アレンジがないかなーと探すときのために、音楽に関する情報をまとめてみました。01_-Title-Legend of Red Stone（起動時読み込み画面）02_-Brunenstig-Old City Brunenstig（旧：古都ブルンネンシュティグ）02_-Brunenstig-Old City Brunenstig（新：古都ブルンネンシ]]></summary>
+        <author>
+            <name>scratch2009</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アリーナサーバー実装とサブBIS]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-851.html</id>
