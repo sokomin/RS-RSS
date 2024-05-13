@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-13T14:30:37.804Z</updated>
+    <updated>2024-05-13T15:19:22.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[温度計の日のアリアン]]></title>
+        <id>http://scratch2009.blog.fc2.com/blog-entry-227.html</id>
+        <link href="http://scratch2009.blog.fc2.com/blog-entry-227.html"/>
+        <updated>2024-05-13T15:03:44.000Z</updated>
+        <summary type="html"><![CDATA[水銀温度計を発明したドイツの物理学者の誕生日にちなみ、5/14は温度計の日とされています。感覚的なものを可視化するって結構革命的な出来事ですよね。本日もアリアンの市場調査。売れ残っている価格なので、実勢値はこれより低いことが予想されます。＜兜＞T[火吸収20%]グランドフィナーレNX(+10) 4解放 BF魔法吸収15% 8600本Nフロントライン　2200本N先人の知恵　2100本T[全吸収30%]　魔道戦士NX(+10) 4解放 勇猛5 1700本T[全吸]]></summary>
+        <author>
+            <name>scratch2009</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移管終了。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-420.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-420.html"/>
+        <updated>2024-05-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[5/14の15時で移管手続きが終了となるそうですがまだ知り合いで移管してない方がいてどうしてるのかな？と思います＾＾；RS外での連絡方法がないのですよね…移管手続き終了後どうなるのかな？と思ってることがあってそれは移管しなかったキャラたちは消滅するのか？これからインする事はなくてもそのまま名前だけは存在し続けるのか？どっちなのかな？と考えていてずっとRSを継続してた方にとっては引退してインしなくなった方のキ]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヤティカヌ狩り。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-882.html</id>
