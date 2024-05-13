@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-13T17:28:54.064Z</updated>
+    <updated>2024-05-13T17:48:13.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1771,6 +1771,15 @@ GWという感じがしませんね。
         <summary type="html"><![CDATA[こんばんは。13層のボス、綺麗な攻撃です。陰ペット復活です。素晴らしい装備です(*'▽')。混沌の大地、広い攻撃です。紺壺、サブで出したけど倒せず(;´･ω･)。サブのギルドマスターシーフ、926Lvです(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その１４]]></title>
+        <id>https://www.youtube.com/watch?v=896xUu6LDrE</id>
+        <link href="https://www.youtube.com/watch?v=896xUu6LDrE"/>
+        <updated>2024-04-14T10:11:28.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
