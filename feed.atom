@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-13T02:40:15.406Z</updated>
+    <updated>2024-05-13T02:52:12.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1759,16 +1759,6 @@ GWという感じがしませんね。
         <updated>2024-04-13T15:18:59.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[珍貴のタニアの占い道具]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-854.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-854.html"/>
-        <updated>2024-04-13T14:43:02.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。混沌13層のヴァルキリーさんです。やっとGETしました！速く現金化したかったので安めです。サブの攻城戦の結果です。メイン、シーフ1233Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
