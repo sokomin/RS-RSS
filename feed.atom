@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-14T05:47:58.390Z</updated>
+    <updated>2024-05-14T06:25:37.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1761,16 +1761,6 @@ GWという感じがしませんね。
         <summary type="html"><![CDATA[10.2.6で追加された通常のWoWとは分離された期間限定の新モード...]]></summary>
         <author>
             <name>marsborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[借金完済]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404150000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202404150000/"/>
-        <updated>2024-04-14T17:52:47.000Z</updated>
-        <summary type="html"><![CDATA[知人が狩りでファーストステップを拾ったとのことなので、自分も何か拾おうと思い経験値等倍ですが狩りをしてみました。すると・・・拾う前にSSを撮って強制終了になるのが怖いので拾ってからSS撮りました＾＾；...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
