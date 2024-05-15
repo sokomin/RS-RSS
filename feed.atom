@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-15T01:16:34.460Z</updated>
+    <updated>2024-05-15T02:09:09.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1909,16 +1909,6 @@ GWという感じがしませんね。
         <summary type="html"><![CDATA[こんばんは。不思議なコスチュームです。ナイスなアイテムドロップです。熱い箱です(/・ω・)/やったー！この流れで行きたいです。ラッキー！サブの武道家、938Lv到達です。メインシーフ、1234Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plunderstorm]]></title>
-        <id>https://intothe.info/?p=2097</id>
-        <link href="https://intothe.info/wow/plunderstorm/"/>
-        <updated>2024-04-15T13:16:26.000Z</updated>
-        <summary type="html"><![CDATA[10.2.6で追加された通常のWoWとは分離された期間限定の新モード...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>
