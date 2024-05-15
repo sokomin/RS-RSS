@@ -362,6 +362,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202405160000/",
+          "author": "雷神の弓",
+          "description": "まず、↓なんですが・・・”火属性ダメージを63％強化させる”のところなんですが、60％～70％の補正があることに最近気付きました。何にも考えずにＮｘして解放しちゃっていたので、低補正なのを知ってちょっと凹み...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202405160000/",
+          "publishedOn": "2024-05-15T18:32:17.000Z",
+          "wordCount": 1685,
+          "title": "アビスを登録して解放変換も実施しました",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/8d5a0ef99f6d2eec5c1bfcc06e3dc0b06fac91b9.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202405150000/",
           "author": "雷神の弓",
           "description": "とりあえずですが、↓の変換が成功したのでいろいろ変更していきます。あと1つメイドスキルを付けるつもりです。強化だけだった部位に弱化が付いたことで、予知が必要なくなりました。そこで、↓を復活させます。先...",
@@ -1520,16 +1530,6 @@
           "publishedOn": "2024-04-17T05:23:29.000Z",
           "wordCount": null,
           "title": "鏡の魔法書。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-857.html",
-          "author": "medaka1985",
-          "description": "こんばんは。明太釜玉です。美味しそうです。めで鯛です。塩焼きで食べ応え有ります。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-857.html",
-          "publishedOn": "2024-04-16T06:45:16.000Z",
-          "wordCount": null,
-          "title": "ドライフルーツ。",
           "imageUrl": null
         }
       ]

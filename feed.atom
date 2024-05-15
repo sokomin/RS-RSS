@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-15T18:22:55.304Z</updated>
+    <updated>2024-05-15T18:48:24.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アビスを登録して解放変換も実施しました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202405160000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202405160000/"/>
+        <updated>2024-05-15T18:32:17.000Z</updated>
+        <summary type="html"><![CDATA[まず、↓なんですが・・・”火属性ダメージを63％強化させる”のところなんですが、60％～70％の補正があることに最近気付きました。何にも考えずにＮｘして解放しちゃっていたので、低補正なのを知ってちょっと凹み...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1250討伐、タビアクート。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-884.html</id>
@@ -1899,16 +1909,6 @@ GWという感じがしませんね。
         <summary type="html"><![CDATA[わたしには数多くのキャラがいて様々なG様にいるのですがその大半はディメだけやデイリーだけの活動をしています。これは所属Gの管理や見回り、あるいは所属Gメンさんとの交流などのために顔を出す程度なためでほとんどのキャラはGに行っても数分程度でｃｃしてるのがほとんどです。例外があってＭＱしてたりポーターなどの称号クエ始めたキャラはそこそこいるかな？そんなキャラたちの中でわたしが持ってる物理キャラでは２番目に]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドライフルーツ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-857.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-857.html"/>
-        <updated>2024-04-16T06:45:16.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。明太釜玉です。美味しそうです。めで鯛です。塩焼きで食べ応え有ります。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
