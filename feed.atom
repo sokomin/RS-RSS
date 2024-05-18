@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T03:19:21.043Z</updated>
+    <updated>2024-05-18T03:31:03.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1899,16 +1899,6 @@ GWという感じがしませんね。
         <link href="https://medaka1985.fc2.net/blog-entry-860.html"/>
         <updated>2024-04-19T14:54:52.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。SRコクーンです(*'▽')。ログインキャンペーンから出ます。賢者の外装アーマーの欠片ドロップです。19の日でメイン、1240Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[春の大型アップデート。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-859.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-859.html"/>
-        <updated>2024-04-18T15:27:23.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。背後霊かな？900Lv精鋭討伐追加です。凄まじい攻撃です。派手な攻撃！(恰好良いです)台詞も有ります。何とかクリアです(*'▽')。775UMUが魅力的ですね。物理攻撃に火のエフェクトが追加です。武道家、939Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
