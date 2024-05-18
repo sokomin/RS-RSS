@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T10:30:58.529Z</updated>
+    <updated>2024-05-18T10:48:16.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】１９の日（育の日）３倍デー２４時間狩れたらいいな配信]]></title>
+        <id>https://www.youtube.com/watch?v=b62u_RULqsA</id>
+        <link href="https://www.youtube.com/watch?v=b62u_RULqsA"/>
+        <updated>2024-05-18T10:43:02.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生きてます☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12852692660.html</id>
