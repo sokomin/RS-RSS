@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-19T12:54:53.497Z</updated>
+    <updated>2024-05-19T13:17:56.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[経験値3倍イベント。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-888.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-888.html"/>
+        <updated>2024-05-19T13:11:02.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。キュートなコスチュームです。MAXまで後少しです…！至福の瞬間です。珍しいDXUです。UMUドロップです(*'▽')。メインシーフ、1279Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[月光彫刻師の配信をしたい配信 争奪戦配信！！]]></title>
         <id>https://www.youtube.com/watch?v=Pr0waHjtN1M</id>
