@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-19T14:48:02.179Z</updated>
+    <updated>2024-05-19T15:17:16.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[体調報告と育の日]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-852.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-852.html"/>
+        <updated>2024-05-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[休日が息子と私の病院予約で埋まっており何かとバタバタした生活になっていますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ギルドポイント戦　（PV）　進め方]]></title>
         <id>https://plaza.rakuten.co.jp/karudxrs/diary/202405190000/</id>
