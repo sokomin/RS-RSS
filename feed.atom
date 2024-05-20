@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-20T22:31:43.850Z</updated>
+    <updated>2024-05-20T22:47:56.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1909,15 +1909,6 @@ GWという感じがしませんね。
         <summary type="html"><![CDATA[こんばんはＳ鯖最強悪魔のカルＤＸ_です。昨年の5/5に引退したぽいんこのレベルに追いつきました。目標にしていたウポス秘密に行くために頑張ってレベルをあげましたが、どうやら前回のアプデで1500～に参加レベ...]]></summary>
         <author>
             <name>たつ2307</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その１８]]></title>
-        <id>https://www.youtube.com/watch?v=VIWwPQaBhzw</id>
-        <link href="https://www.youtube.com/watch?v=VIWwPQaBhzw"/>
-        <updated>2024-04-21T10:45:40.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
