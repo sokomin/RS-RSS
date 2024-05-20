@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-20T13:47:58.571Z</updated>
+    <updated>2024-05-20T14:17:53.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1000UMUドロップ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-889.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-889.html"/>
+        <updated>2024-05-20T13:56:40.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。珍しいペットです。人生で2回目の1000UMUゲッツです。メインシーフ、1281Lv突入です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メイドの装備がかなり仕上がってきました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202405200000/</id>
@@ -1917,54 +1927,6 @@ GWという感じがしませんね。
         <updated>2024-04-21T03:56:11.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メイドの覚醒 －アージェントサーハント－]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/c6e48a3077b493b87df0fa892d4fdeef</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/c6e48a3077b493b87df0fa892d4fdeef?fm=rss"/>
-        <updated>2024-04-21T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[休みも今日で終わりですね。
-「春のUPDATE」でキャラのバランス調整がありました。
-「こちら」
-
-覚醒タイプは「アージェントサーハント」
-
-「熟練家政婦」
-
-専用強化スキルは「掃除の邪魔しちゃダメ」
-
-多段攻撃ですね。
-
-強化スキルの１つは「ブルームアサルト」
-
-いわゆる突進型スキルです。
-
-もう１つの強化スキルは「カオスウリーニング」
-覚醒後は「カオスクリーニング」
-覚醒しても名前も変わらないというねｗ
-これはONOFFスキル。
-以前は致命打確率があがったのですが、今回の改変で物理ダメージを追加するようになったようです。
-運をふらないといけないかもしれませんね。
-
-
-メイドの課題は火力なんですよね。
-私のメイドは装備も適当なので火力がない。
-覚醒を変えたほうがいいかちょっと悩み中です。
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
