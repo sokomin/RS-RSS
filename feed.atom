@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T14:48:09.593Z</updated>
+    <updated>2024-05-21T15:19:15.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アルカナ]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-421.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-421.html"/>
+        <updated>2024-05-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[900精鋭討伐に行くようになりちょっとずつですがアルカナが手に入るようになりました＾＾主にびんた姫で参加中。現在手もとにあるアルカナはテイマサマナのアルカナと姫のアルカナだけで他に出たものは優先度がわたしよりは高そうな方にあげてました＾＾わたしの優先はネクロ悪魔なのですがこれがまだ出てません＾＾；ちなみにですが姫のアルカナは他のとは違い属性を手動で変更できるのでなかなかの優れものですがオプションで属]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メダカの産卵。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-890.html</id>
