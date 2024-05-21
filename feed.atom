@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T22:16:57.024Z</updated>
+    <updated>2024-05-21T22:30:36.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1853,52 +1853,6 @@ GWという感じがしませんね。
         <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです(強そう)。欲しいのが出現です(*'▽')このOP…謎が多いです。平和の行進曲のOP完成です(/・ω・)/。メインシーフ、1242Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剣士の覚醒 －幻影の剣士－]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/d8c20daae88795b2e30dac7b060bbd47</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/d8c20daae88795b2e30dac7b060bbd47?fm=rss"/>
-        <updated>2024-04-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月曜日です。
-「春のUPDATE」でキャラのバランス調整がありました。
-「こちら」
-
-覚醒タイプは「幻影の剣士」
-
-「剣魂一如」
-
-専用強化スキルは「パラレルスティング」
-
-これは以前と変わらず、分身してザクっと攻撃します。
-
-強化スキルの１つは「ミラージュストライク」
-
-範囲攻撃です。
-
-もう１つの強化スキルは「イリュージョンスラッシュ」
-覚醒後は「アルティメットスラッシュ」
-これはONOFFスキル。
-持続的にCPを消費するので、ONのままにしておくとCPが不通にマイナスになります。
-心臓狩りの時使うといいかもしれません。
-
-
-久々に物理剣士をやりましたが、狩りとしては知識剣士のほうがやりやすいかな？
-次3次転生なので、どうするかじっくり決めようかな。
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
