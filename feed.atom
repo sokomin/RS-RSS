@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T17:15:56.910Z</updated>
+    <updated>2024-05-22T17:29:20.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レアユニーク超越の書。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-891.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-891.html"/>
+        <updated>2024-05-22T17:24:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。レプリカ封印解放オプション変換です。しょっぱいですorzログインキャンペーンの報酬です。このアイテム、悪く無いのですが出すぎです(笑)何が出るかな？レアSRゲッツです！週一の楽しみ、中身は…↓ナニコレ…見た事無いです(多分外れ)。ネズミ捕りかな？(笑)メインシーフ、1284Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アルカナ]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-421.html</id>
