@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T14:48:12.836Z</updated>
+    <updated>2024-05-22T15:19:58.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1833,16 +1833,6 @@ GWという感じがしませんね。
         <summary type="html"><![CDATA[こんにちは。ブルーベリー×ケールです。果肉たっぷりでとても美味しいです。社長は青汁で癌が治ったそうです。肉うどんは出汁が最高です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レベルが上がったので手を交換]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202404230000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202404230000/"/>
-        <updated>2024-04-23T03:07:15.000Z</updated>
-        <summary type="html"><![CDATA[​表題のとおり闘士のレベルが上がったので手を交換しました。↑以前400本で購入したこれです。装備レベルが1199だったので、買ってからずっと銀行に眠らせていました。え？真珠のブレスレットなんて分解Uなのに何...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
