@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-24T11:47:54.021Z</updated>
+    <updated>2024-05-24T12:33:37.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テイマ育成論Ⅱ ステータス関連と回復ソースと図案書と超越と愛しさと切なさと心強さと私とことりとすずと俺とお前と(ﾄﾞﾝﾄﾞﾝｯ)大五郎]]></title>
+        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202405240000/</id>
+        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202405240000/"/>
+        <updated>2024-05-24T12:31:09.000Z</updated>
+        <summary type="html"><![CDATA[​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​今日もテイマ育成論の導入編です前回の記事は​​こちら​​​①ステータス関連​​​1)ステータス低下を防ぐ​​上位狩場では、入場するだけ...]]></summary>
+        <author>
+            <name>ほしめろちゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[途中経過☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12853422972.html</id>
