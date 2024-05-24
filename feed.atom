@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-24T02:51:42.379Z</updated>
+    <updated>2024-05-24T03:19:57.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ナン食べたい。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-893.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-893.html"/>
+        <updated>2024-05-24T03:04:18.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。インド料理店のタンドリーチキンです。ヘルシーで鶏本来の旨味が絶妙です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.5.23 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/ec6a96f255f148a94cc61abfa6922952</id>
