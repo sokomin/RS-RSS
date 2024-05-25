@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-25T04:20:28.640Z</updated>
+    <updated>2024-05-25T04:35:11.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1922,16 +1922,6 @@ GMにリストラされるチャイコ
         <summary type="html"><![CDATA[稼働してる3キャラ全部で経験値バフを出してしまい、狩り以外でログインしにくい状況になってしまいました＾＾；今日は仕事終わった後に飲み会があって帰宅は深夜になるので、それまで倉庫キャラでインしておくし...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色褪せた光栄。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-866.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-866.html"/>
-        <updated>2024-04-25T16:30:41.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。渋くて恰好良いコスチュームです。見慣れないユニークです。BISさんの1100DXU武器です。意外と高性能です。メインシーフ、1245Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
