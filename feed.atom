@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-25T02:38:12.616Z</updated>
+    <updated>2024-05-25T02:50:11.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1932,15 +1932,6 @@ GMにリストラされるチャイコ
         <summary type="html"><![CDATA[こんばんは。渋くて恰好良いコスチュームです。見慣れないユニークです。BISさんの1100DXU武器です。意外と高性能です。メインシーフ、1245Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その１９]]></title>
-        <id>https://www.youtube.com/watch?v=oRdkhC9y7LM</id>
-        <link href="https://www.youtube.com/watch?v=oRdkhC9y7LM"/>
-        <updated>2024-04-25T14:49:06.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
