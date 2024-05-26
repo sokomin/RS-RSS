@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-26T23:19:28.449Z</updated>
+    <updated>2024-05-26T23:31:34.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レベリング停滞中]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-996.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-996.html"/>
+        <updated>2024-05-26T23:28:41.000Z</updated>
+        <summary type="html"><![CDATA[育の日3倍やホットタイムは、がっつり露店している今日この頃。腰痛のため長時間狩れず、よってバフ出しも出来ず、パワキも時間いっぱい使えない可能性があるため出せず、そんなんじゃ狩りモチベも上がらない。腰痛は簡単には改善しないから、今後どうRSや他ハクスラ系ゲームと向き合うか、ちゃんと考えないといけない。ほんと歳はとりたくないわ・・・(爺いの嘆き)レベリング自体を止めてしまうと、もはやRPGじゃないよね？となる]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヤティカヌ突入　【感電爆発編】]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-853.html</id>
