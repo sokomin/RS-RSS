@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-26T22:47:59.132Z</updated>
+    <updated>2024-05-26T23:19:28.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1981,16 +1981,6 @@ RS初心に帰って
         <summary type="html"><![CDATA[意外と知らないRSの小ネタや、知っていると少しお得だったり、誤った装備選択をしないで済む情報を書き連ねていく。過去に紹介したものも含まれているかもしれないが、そのへんはご愛嬌。・ギルドデイリークエの秘密はメインクエ秘密でも消化できる。かつ、秘密に入るだけで消化扱いとなり、クリアせず時計でGHに戻って構わない。ちなみに、Lv151のGuideから飛べるトワイライト滝B6のメインクエ秘密は、壁越しに上から入ることが出]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面白い自動販売機。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-868.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-868.html"/>
-        <updated>2024-04-27T10:56:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。厳島神社のお土産です。病院にて（笑）いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
