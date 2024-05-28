@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-28T04:47:56.662Z</updated>
+    <updated>2024-05-28T05:17:50.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2063,16 +2063,6 @@ RS初心に帰って
         <summary type="html"><![CDATA[とりあえず闘士は目標達成です。経験値イベント２日やっただけですが、もうけっこう疲れてます・・ｗ黒魔と弓の目標達成は無理そうですが、やれるだけはやろうと思います。（２倍でも鐘なしだと、そこまで美味く...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヤティカヌの茂み。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-869.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-869.html"/>
-        <updated>2024-04-28T17:02:33.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。厳(おごそ)かなコスチュームです。最高補正、やったー！白ダメが辛い…。思い切って購入です。良い感じです(^^♪1250Lv記念撮影(*'▽')。祝福、ありがとうございます。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
