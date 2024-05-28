@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-28T18:48:01.831Z</updated>
+    <updated>2024-05-28T19:15:09.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Tree-Body Problem]]></title>
+        <id>https://intothe.info/?p=2140</id>
+        <link href="https://intothe.info/wow/the-tree-body-problem/"/>
+        <updated>2024-05-28T18:48:46.000Z</updated>
+        <summary type="html"><![CDATA[大きなイベントがなかったりやる気の薄い期間でも数分か数十分だけ気軽に...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gイベント！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-422.html</id>
