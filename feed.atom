@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-29T04:48:06.233Z</updated>
+    <updated>2024-05-29T05:18:26.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2063,16 +2063,6 @@ RS初心に帰って
         <updated>2024-04-30T01:59:08.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高級料理(餌)]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-870.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-870.html"/>
-        <updated>2024-04-29T17:11:01.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。キュートなコスチュームです。大きな買い物です。良い感じの職鎧になりました(*'▽')。心なしかボリュームアップです(/・ω・)/。この高級な餌の経験値は…2000ポイントですΣ(･ω･ﾉ)ﾉ！たくさんのお守り箱、嬉しいです。メインシーフ、1252Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
