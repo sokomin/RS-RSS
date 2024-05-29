@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-29T08:48:00.882Z</updated>
+    <updated>2024-05-29T09:20:40.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メイドの火強化が400↑になりました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202405290000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202405290000/"/>
+        <updated>2024-05-29T08:45:01.000Z</updated>
+        <summary type="html"><![CDATA[ウポス補助がレベル23まで上がりました。これにより弱化が大幅に超過したので、弱化クレストを外して強化40％クレストを２枚にしました。その他に、指の組み合わせをちょっといじった結果、↓のような数値になりま...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Tree-Body Problem]]></title>
         <id>https://intothe.info/?p=2140</id>
