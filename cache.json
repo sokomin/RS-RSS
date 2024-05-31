@@ -63,7 +63,18 @@
       "title": "ぶろぐたん",
       "feedUrl": "http://rssblog.ameba.jp/pochi-bird/rss20.xml",
       "siteUrl": "https://ameblo.jp/pochi-bird/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://ameblo.jp/pochi-bird/entry-12854279340.html",
+          "author": null,
+          "description": "面白い",
+          "link": "https://ameblo.jp/pochi-bird/entry-12854279340.html",
+          "publishedOn": "2024-05-31T01:17:24.000Z",
+          "wordCount": 310,
+          "title": "HUNTER×HUNTER",
+          "imageUrl": "https://stat.profile.ameba.jp/profile_images/20190621/16/0a/Uj/j/o00750074p_1561103099433_z9lza.jpg"
+        }
+      ]
     },
     {
       "title": "もこもこの時たま日常レッドストーン",
