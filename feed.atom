@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-31T08:48:09.207Z</updated>
+    <updated>2024-05-31T09:20:16.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[姫コスのソケット変換やってみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202405310000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202405310000/"/>
+        <updated>2024-05-31T08:52:41.000Z</updated>
+        <summary type="html"><![CDATA[ソケット変換は、かなりヤバいコンテンツと分かっていたので、一切触るつもりありませんでした。しかし、姫をガチるためには赤3紫1コス欲しいなって思ってしまい止まらなくなった結果・・・1000本以上費やしてし...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5/1~5/31☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12854298613.html</id>
