@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-01T16:35:37.818Z</updated>
+    <updated>2024-06-01T16:48:03.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日々精進]]></title>
+        <id>kaze.gg-blog.com://entry/192</id>
+        <link href="http://kaze.gg-blog.com/wakuteka/%E6%97%A5%E3%80%85%E7%B2%BE%E9%80%B2"/>
+        <updated>2024-06-01T16:39:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+
+
+立てば芍薬
+
+
+ニックネームを都度変えるマメな方もいます
+
+
+
+
+ 
+
+四暗刻は私も大好きな役満です
+
+
+ひさびさにすたば君のペットコレクションご紹介
+ 
+
+
+
+
+カエル？トカゲ？のダンスしながらのパラみたいなやつ
+
+
+なかなか精神的な攻撃！
+その他の近況
+ 
+
+たまにあらわれるマキねこ
+
+
+装備を持ち逃げするもも
+
+
+天然のももたろうにはボケが通じない！
+おまけ1
+
+
+24年くらいログアウトしていない計算に！？
+おまけ2
+
+
+寝ろ
+
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヤティカヌ闇商人。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-898.html</id>
@@ -2081,16 +2138,6 @@ RS初心に帰って
         <summary type="html"><![CDATA[寒かったり暑かったりする、穴あき連休からこんにちは。体調には気を付けたいですね、第三の猫です。新しい装備を用意しました。セーフケージです。DXじゃない鎧グラフィックが新鮮に感じます。さて、やってきましたのは没落した悪魔の地。希望に満ちて輝く第三の猫。回避セーフが安く手に入ったから何となく初めた物語でないことは明白です。シュークリームも指輪の火の鳥と一体になり、仕上がってきました。早く食べたいからと言]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[山荘]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-874.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-874.html"/>
-        <updated>2024-05-03T04:43:06.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。お魚さんパクパク。活きが良いです！私はからあげが一番好きです。バター焼きです。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
