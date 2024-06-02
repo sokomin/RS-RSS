@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-02T02:23:54.844Z</updated>
+    <updated>2024-06-02T02:50:02.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[霊術に戻した件と姫の進捗]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202406020000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202406020000/"/>
+        <updated>2024-06-02T02:48:44.000Z</updated>
+        <summary type="html"><![CDATA[​少し前に闘士のスキルにバグがあったとかで、無料でステの再振りができる時がありました。そのときに良い機会だなと思って霊術に戻しております。それに伴い闘士コラプを売ったのですが、その資金があったからメ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日々精進]]></title>
         <id>kaze.gg-blog.com://entry/192</id>
