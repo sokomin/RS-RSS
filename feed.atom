@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-03T01:19:05.626Z</updated>
+    <updated>2024-06-03T02:09:55.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2237,16 +2237,6 @@ RS初心に帰って
         <updated>2024-05-04T17:45:54.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攻城戦、攻撃編。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-875.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-875.html"/>
-        <updated>2024-05-04T13:23:35.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ゲリオから、運が良いです。オッス！お願いしまーす！良いよ、ダメ元だから(笑)GHLv3突入！サブのシーフです(*'▽')いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
