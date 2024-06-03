@@ -377,16 +377,6 @@
           "wordCount": null,
           "title": "月光彫刻師の配信をしたい配信のパート2の配信の配信",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UkOq0yX6fNk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UkOq0yX6fNk",
-          "publishedOn": "2024-05-04T20:14:02.000Z",
-          "wordCount": null,
-          "title": "月光彫刻師の配信をしたい配信のパート１の配信の配信",
-          "imageUrl": null
         }
       ]
     },
@@ -965,6 +955,16 @@
       "feedUrl": "https://orientalrose4.blog.fc2.com/?xml",
       "siteUrl": "https://orientalrose4.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://orientalrose4.blog.fc2.com/blog-entry-973.html",
+          "author": "アル・シェリ",
+          "description": "素敵すぎるポストカードを頂戴いたしました。違う絵柄が三枚重ねられた、アクリル素材の美しい一品です。なんとセンスの光るセレクトでしょう。自立できるよう裏側はスタンド式になっていて、小雨の庭が見える窓辺に置いても素敵。緑の中にそっと置いてみると、また違うイメージ。種蒔きや植え替えを終えて、待ちに待った雨季の到来。大好きで儚い紫陽花が最も輝く、きらきらした季節です。ちょっとしたことのお礼にと、このカード",
+          "link": "https://orientalrose4.blog.fc2.com/blog-entry-973.html",
+          "publishedOn": "2024-06-03T08:04:52.000Z",
+          "wordCount": null,
+          "title": "6月ですね",
+          "imageUrl": null
+        },
         {
           "id": "https://orientalrose4.blog.fc2.com/blog-entry-972.html",
           "author": "アル・シェリ",
