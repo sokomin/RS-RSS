@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-04T22:34:12.696Z</updated>
+    <updated>2024-06-04T22:47:56.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2066,15 +2066,6 @@ RS初心に帰って
 　属性弱…]]></summary>
         <author>
             <name>曇りのち晴れ４８日</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】新規獣人とガチつよテイマとときどきリトル育成！その２２]]></title>
-        <id>https://www.youtube.com/watch?v=InKKQC_2ws4</id>
-        <link href="https://www.youtube.com/watch?v=InKKQC_2ws4"/>
-        <updated>2024-05-06T10:43:45.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
