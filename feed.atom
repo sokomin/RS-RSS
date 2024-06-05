@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-05T16:23:12.762Z</updated>
+    <updated>2024-06-05T16:48:00.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[都市伝説。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-901.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-901.html"/>
+        <updated>2024-06-05T16:23:58.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。RED STONE PASSの為か参加者が多いです。意味深な本です。性能もなかなか(/・ω・)/。良い感じのポイントです。メインシーフ、1295Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[姫大戦練習！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-423.html</id>
