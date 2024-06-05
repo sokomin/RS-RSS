@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-05T12:34:45.137Z</updated>
+    <updated>2024-06-05T12:57:44.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2015,16 +2015,6 @@ RS初心に帰って
         <summary type="html"><![CDATA[こんにちは。ルルちゃんです(チュール好き)。サクッ・・とろっ・・・。あまおうミルクです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒魔の皆さん、ごめんなさい]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202405070000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202405070000/"/>
-        <updated>2024-05-07T00:50:45.000Z</updated>
-        <summary type="html"><![CDATA[​​GW中に円盤覚醒にスキル再振りをしました。しかし、円盤は黒星よりは秒間ダメは高いと思いましたが、範囲が狭いのとスキル使用時の爽快感がなく・・「このまま黒魔で狩りを続けるべきか？」と悩んでしまいまし...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
