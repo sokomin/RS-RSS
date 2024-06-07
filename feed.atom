@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-07T04:47:58.729Z</updated>
+    <updated>2024-06-07T05:18:48.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1932,16 +1932,6 @@ Vも装備さえあれば頑張れるけど
         <updated>2024-05-08T18:52:40.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディメンションボス。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-878.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-878.html"/>
-        <updated>2024-05-08T16:55:39.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。キャプテンUMU鎧です(7本で売っちゃった汗)。ディメンションのおまけボス出現です。追加経験値、美味しいです(*'▽')。応援、ありがとうございます！GHLv1なので攻めだと思います。メインシーフ、1266Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
