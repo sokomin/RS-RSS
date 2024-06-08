@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T04:22:19.919Z</updated>
+    <updated>2024-06-08T04:48:11.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1789,16 +1789,6 @@ Vも装備さえあれば頑張れるけど
         <updated>2024-05-10T01:32:14.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウェポンブレイカー。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-879.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-879.html"/>
-        <updated>2024-05-09T16:29:21.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。少しお高めです。淡泊な使用画面です。ダブクリ10%が良い感じです(*'▽')。メインシーフ、1267Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
