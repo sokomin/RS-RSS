@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T06:23:44.616Z</updated>
+    <updated>2024-06-08T06:48:14.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メイドのソケット変換もやってしまった]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202406080000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202406080000/"/>
+        <updated>2024-06-08T06:36:17.000Z</updated>
+        <summary type="html"><![CDATA[やらなきゃいいのに、デュアルクレストが付いてなくてやりやすいという理由で安易にチャレンジしてしまいました。その結果、17回目でやっと赤３紫１を引けました。途中で嫌になってしまったので、10連敗したとこ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[試練のダンジョン(ハバン)。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-903.html</id>
