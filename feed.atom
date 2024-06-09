@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-09T11:48:01.169Z</updated>
+    <updated>2024-06-09T12:33:09.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1712,16 +1712,6 @@ Vも装備さえあれば頑張れるけど
         <summary type="html"><![CDATA[まず、↓はTRSULT太極を付けてスキル過剰、知識が少し不足という状態ここから、TRSULT太極をT知識太極に変更すると↓こうなります。スキルが減っても知識が増えたら表記ダメが伸びました。※ただし、元のスキルと知...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スペシャル等級選択図案書。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-880.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-880.html"/>
-        <updated>2024-05-10T23:47:59.000Z</updated>
-        <summary type="html"><![CDATA[おはようございます。マジシャンコスチュームです。このキャンペーン、助かります(*'▽')。今週の攻城戦ですΣ(･ω･ﾉ)ﾉ！。メインシーフ、1268Lv到達です(´ω｀*)。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
