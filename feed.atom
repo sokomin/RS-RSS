@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T14:47:54.061Z</updated>
+    <updated>2024-06-11T15:20:08.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ネクロ悪魔G！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-424.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-424.html"/>
+        <updated>2024-06-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前にB鯖にネクロ悪魔Gないかな？ってことを書いたのですがそのあとにB鯖に存在してることを聞いて喜んだのですけど残念なことに移管後にそこのGMさんがインしていないという事も聞きました。それで移管終了までGMさんは来れるのかな？と、待っていたのですが移管できなかったようでそこのネクロ悪魔Gには入れないという事が確定しました＾＾；活動してる方がほかにいないようでGM移行もされないっぽいです…そこで知り合いのかたが]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今日も絶好調☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12855655671.html</id>
