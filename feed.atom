@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T02:45:14.437Z</updated>
+    <updated>2024-06-12T03:21:01.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1795,26 +1795,6 @@ Vも装備さえあれば頑張れるけど
         <summary type="html"><![CDATA[最近、明らかにプレイヤーが減っている印象を受けている。・日本運営から韓国運営に移管したことにより、一定数のプレイヤーが離脱。・仮想PC使用不可となったことによる不便さを理由に、一定数のプレイヤー稼働率が低下。・アリーナサーバー未実装により、Gv勢の稼働率が低下。※最近、実装されたが、キャラ転送が月1回という制限があり、アリーナ撤退を決断したギルドあり。・韓国で実装されたレベリング難易度の緩和を受け、日本]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[温度計の日のアリアン]]></title>
-        <id>http://scratch2009.blog.fc2.com/blog-entry-227.html</id>
-        <link href="http://scratch2009.blog.fc2.com/blog-entry-227.html"/>
-        <updated>2024-05-13T15:03:44.000Z</updated>
-        <summary type="html"><![CDATA[水銀温度計を発明したドイツの物理学者の誕生日にちなみ、5/14は温度計の日とされています。感覚的なものを可視化するって結構革命的な出来事ですよね。本日もアリアンの市場調査。売れ残っている価格なので、実勢値はこれより低いことが予想されます。＜兜＞T[火吸収20%]グランドフィナーレNX(+10) 4解放 BF魔法吸収15% 8600本Nフロントライン　2200本N先人の知恵　2100本T[全吸収30%]　魔道戦士NX(+10) 4解放 勇猛5 1700本T[全吸]]></summary>
-        <author>
-            <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移管終了。]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-420.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-420.html"/>
-        <updated>2024-05-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[5/14の15時で移管手続きが終了となるそうですがまだ知り合いで移管してない方がいてどうしてるのかな？と思います＾＾；RS外での連絡方法がないのですよね…移管手続き終了後どうなるのかな？と思ってることがあってそれは移管しなかったキャラたちは消滅するのか？これからインする事はなくてもそのまま名前だけは存在し続けるのか？どっちなのかな？と考えていてずっとRSを継続してた方にとっては引退してインしなくなった方のキ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
