@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T14:48:17.986Z</updated>
+    <updated>2024-06-12T15:18:50.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1795,16 +1795,6 @@ Vも装備さえあれば頑張れるけど
         <summary type="html"><![CDATA[こんにちは。ブルーベリー青汁、飲みやすいです。たくさん有ります。超おすすめの青汁ソフトクリーム。200円で最強に美味いです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】正念場]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-994.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-994.html"/>
-        <updated>2024-05-14T02:50:40.000Z</updated>
-        <summary type="html"><![CDATA[最近、明らかにプレイヤーが減っている印象を受けている。・日本運営から韓国運営に移管したことにより、一定数のプレイヤーが離脱。・仮想PC使用不可となったことによる不便さを理由に、一定数のプレイヤー稼働率が低下。・アリーナサーバー未実装により、Gv勢の稼働率が低下。※最近、実装されたが、キャラ転送が月1回という制限があり、アリーナ撤退を決断したギルドあり。・韓国で実装されたレベリング難易度の緩和を受け、日本]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
