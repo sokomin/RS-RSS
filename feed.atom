@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-13T16:48:40.527Z</updated>
+    <updated>2024-06-13T17:17:08.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[治癒の薬草。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-907.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-907.html"/>
+        <updated>2024-06-13T16:51:09.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。可愛いコスチュームです。ヤティカヌ日の出狩りです。わーい！お金だー！(/・ω・)/。クエスト品です。メインシーフ、1301Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サマナー　魔法強打型の装備構成を考えてみる]]></title>
         <id>hatenablog://entry/6801883189114117321</id>
