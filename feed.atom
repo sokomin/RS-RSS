@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-14T06:26:14.861Z</updated>
+    <updated>2024-06-14T06:47:55.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1729,16 +1729,6 @@ Vも装備さえあれば頑張れるけど
         <summary type="html"><![CDATA[こんばんは。渋いコスチュームです。やっと90万ダメージです(*'▽')。吸血姫は図鑑で力1/8になります。メインシーフ、1271Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アビスを登録して解放変換も実施しました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202405160000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202405160000/"/>
-        <updated>2024-05-15T18:32:17.000Z</updated>
-        <summary type="html"><![CDATA[まず、↓なんですが・・・”火属性ダメージを63％強化させる”のところなんですが、60％～70％の補正があることに最近気付きました。何にも考えずにＮｘして解放しちゃっていたので、低補正なのを知ってちょっと凹み...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
