@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-15T15:31:07.806Z</updated>
+    <updated>2024-06-15T16:23:00.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[上級モンスターの霊珠。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-908.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-908.html"/>
+        <updated>2024-06-15T15:41:52.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。セクシーなコスチュームです。ウィークリーファルコンです。１億Gゲットです！メインシーフ、1302Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スウェルファーはギリギリ]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-217.html</id>
