@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-16T04:21:23.081Z</updated>
+    <updated>2024-06-16T04:48:07.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1715,16 +1715,6 @@ Vも装備さえあれば頑張れるけど
         <link href="https://medaka1985.fc2.net/blog-entry-887.html"/>
         <updated>2024-05-18T05:56:12.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。チャーシューメンです。濃厚でチャーシューも最高です。昭和風で、風情が有ります。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大人アリドネ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-886.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-886.html"/>
-        <updated>2024-05-17T16:25:55.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。チョコレートコスチュームです。図鑑、解放です。初のレイド、アリドネさんです(*'▽')。ナイスドロップです。見にくいですが、1272Lv到達です(/・ω・)/。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
