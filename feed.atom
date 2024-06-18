@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-18T11:47:59.312Z</updated>
+    <updated>2024-06-18T12:35:07.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今日の運勢。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-910.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-910.html"/>
+        <updated>2024-06-18T12:03:34.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。勝負、勝負～！m9(^Д^)ﾌﾟｷﾞｬｰ。頼みます！＼(^o^)／ｵﾜﾀ。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お昼ご飯。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-909.html</id>
