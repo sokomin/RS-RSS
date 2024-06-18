@@ -246,18 +246,7 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Pr0waHjtN1M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pr0waHjtN1M",
-          "publishedOn": "2024-05-19T12:26:54.000Z",
-          "wordCount": null,
-          "title": "月光彫刻師の配信をしたい配信 争奪戦配信！！",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "無職と美学とシュルレアリスム",
@@ -1292,16 +1281,6 @@
           "wordCount": null,
           "title": "1000UMUドロップ。",
           "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-888.html",
-          "author": "medaka1985",
-          "description": "こんばんは。キュートなコスチュームです。MAXまで後少しです…！至福の瞬間です。珍しいDXUです。UMUドロップです(*'▽')。メインシーフ、1279Lv到達です。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-888.html",
-          "publishedOn": "2024-05-19T13:11:02.000Z",
-          "wordCount": 1043,
-          "title": "経験値3倍イベント。",
-          "imageUrl": "https://blog-imgs-174.fc2.com/m/e/d/medaka1985/202405192204226c8.png"
         }
       ]
     },
