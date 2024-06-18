@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-18T14:48:11.738Z</updated>
+    <updated>2024-06-18T15:20:11.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あくまでわたしのネクロ育成方法。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-425.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-425.html"/>
+        <updated>2024-06-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人によって正解は様々で何を重視するかで変わるのだと思いますがわたしがネクロ悪魔を育てる最初のあたりはだいたいこんな感じです。まずホントの序盤はネクロで0.75あるいは0.5ベースの武器を使い協会支援、あれば旗バフや周年指をつけて殴ります＾＾このあたりGの状態や個人の持ち物で変わると思います。とくに10thアニ指は光ダメがあるので物理狩りでは使いやすくこれに協会支援と旗バフの火ダメ付与があればかなりいいのですが]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今日の運勢。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-910.html</id>
