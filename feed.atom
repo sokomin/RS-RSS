@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-19T16:48:07.868Z</updated>
+    <updated>2024-06-19T17:18:52.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1593,16 +1593,6 @@ BISを天使に再振りしたんですが
         <summary type="html"><![CDATA[900精鋭討伐に行くようになりちょっとずつですがアルカナが手に入るようになりました＾＾主にびんた姫で参加中。現在手もとにあるアルカナはテイマサマナのアルカナと姫のアルカナだけで他に出たものは優先度がわたしよりは高そうな方にあげてました＾＾わたしの優先はネクロ悪魔なのですがこれがまだ出てません＾＾；ちなみにですが姫のアルカナは他のとは違い属性を手動で変更できるのでなかなかの優れものですがオプションで属]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メダカの産卵。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-890.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-890.html"/>
-        <updated>2024-05-21T05:10:52.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。出汁が奥深い味を出して最高です。メダカの赤ちゃんが沢山、孵りました。ツバメの巣が徐々に出来ています。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
