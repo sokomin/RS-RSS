@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-21T14:48:04.231Z</updated>
+    <updated>2024-06-21T15:25:42.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新チュートリアルクエスト。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-913.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-913.html"/>
+        <updated>2024-06-21T15:20:09.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです。経験値、半端無いです。ポイント戦の結果です。メインシーフ、1304Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.6.20 アプデ]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/8cef44da1d7956b736cde01c6a0432e9</id>
