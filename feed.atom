@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-22T14:30:55.914Z</updated>
+    <updated>2024-06-22T14:48:09.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メガンテリオン討伐。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-914.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-914.html"/>
+        <updated>2024-06-22T14:31:37.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。キュートなコスチュームです。1250Lvレイドです。討伐報酬です。日の出ドロップです。こちらもです。900討伐です！お世話になります。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[満足☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12857120829.html</id>
