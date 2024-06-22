@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-22T14:48:09.915Z</updated>
+    <updated>2024-06-22T15:18:46.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1857,16 +1857,6 @@ BISを天使に再振りしたんですが
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナン食べたい。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-893.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-893.html"/>
-        <updated>2024-05-24T03:04:18.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。インド料理店のタンドリーチキンです。ヘルシーで鶏本来の旨味が絶妙です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
