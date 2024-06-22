@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-22T01:18:16.921Z</updated>
+    <updated>2024-06-22T02:07:29.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1422,6 +1422,16 @@ MQやって寝ようかな
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テイマ育成論Ⅰ 知識職としてのテイマ]]></title>
+        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202405230000/</id>
+        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202405230000/"/>
+        <updated>2024-05-27T10:44:39.000Z</updated>
+        <summary type="html"><![CDATA[ご機嫌麗しゅう。最近、ありがたいことに新規や復帰の方にテイマについて教える機会が多いので、テイマ育成論シリーズで飽きなければブログ記事を数本作ろうと思います。原則、狩り想定の知識テイマに関する記事...]]></summary>
+        <author>
+            <name>ほしめろちゃん</name>
         </author>
     </entry>
     <entry>
