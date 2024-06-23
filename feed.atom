@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-23T14:48:13.017Z</updated>
+    <updated>2024-06-23T15:18:10.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024年6月大型アップデート　【新狩り場、チュートリアルクエ等】]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-857.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-857.html"/>
+        <updated>2024-06-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[私の住んでいる地域も梅雨入りしました雨が多いとじめじめしていていますねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旗バフ追加。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-915.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-915.html"/>
+        <updated>2024-06-23T14:52:27.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。可憐なコスチュームです。良いの引きました(*'▽')。リーチです！ソロウィークリーゲリオです(/・ω・)/。ギルドメンバーのお陰で旗バフ追加です。君に決めたΣ(･ω･ﾉ)ﾉ！。メインシーフ、1305Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メガンテリオン討伐。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-914.html</id>
