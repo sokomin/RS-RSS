@@ -218,7 +218,18 @@
       "title": "魔法の壁のリアルライふ",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/mahounokabe/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/mahounokabe/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/mahounokabe/diary/202406250000/",
+          "author": "裁判官",
+          "description": "どうも皆さん。魔法の壁です。お久しぶりですね。僕は相変わらずログインしていないのですが、データの移行はちゃっかり完了してました（草今日は重い腰を上げて、休止前に準備していたネタを記事にしたいと思い...",
+          "link": "https://plaza.rakuten.co.jp/mahounokabe/diary/202406250000/",
+          "publishedOn": "2024-06-24T15:01:25.000Z",
+          "wordCount": 1700,
+          "title": "俺を休止へ追い込んだ張本人",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/3aedf9e79b94c17d833e2c74154740ab089ffe6c.49.9.9.3.png"
+        }
+      ]
     },
     {
       "title": "ファーぶろぐ ☆ RED STONE ブリッジヘッド鯖",

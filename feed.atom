@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T14:47:59.378Z</updated>
+    <updated>2024-06-24T15:20:29.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[俺を休止へ追い込んだ張本人]]></title>
+        <id>https://plaza.rakuten.co.jp/mahounokabe/diary/202406250000/</id>
+        <link href="https://plaza.rakuten.co.jp/mahounokabe/diary/202406250000/"/>
+        <updated>2024-06-24T15:01:25.000Z</updated>
+        <summary type="html"><![CDATA[どうも皆さん。魔法の壁です。お久しぶりですね。僕は相変わらずログインしていないのですが、データの移行はちゃっかり完了してました（草今日は重い腰を上げて、休止前に準備していたネタを記事にしたいと思い...]]></summary>
+        <author>
+            <name>裁判官</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ガレリオン野営地。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-916.html</id>
