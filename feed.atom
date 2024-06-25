@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T01:19:43.431Z</updated>
+    <updated>2024-06-25T02:10:56.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1592,16 +1592,6 @@ MQやって寝ようかな
         <summary type="html"><![CDATA[最近某コンビニのスムージーが好きで良く飲んでいますとても美味しいですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lv1350の鞄姫が欲しい！]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202405260000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202405260000/"/>
-        <updated>2024-05-26T13:54:30.000Z</updated>
-        <summary type="html"><![CDATA[ヤティカヌやウポス・ウモスでもRTを付けて狩りがしたいと常々思っていました。思っているだけじゃ何も変わらないので、別IDで姫を作ることに決めました！作ったのは5月21日だったと思います。（1250箱が売れて金...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
