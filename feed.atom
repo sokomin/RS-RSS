@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T14:48:18.923Z</updated>
+    <updated>2024-06-25T15:19:47.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新ダリンクエ]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-426.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-426.html"/>
+        <updated>2024-06-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近のアプデですごい変化をしたのがダリンのチュートリアルクエです。このダリンクエは今までのダリンチュートリアルとレポートクエスト１・２を足したような感じになっているそうで最後まで終わるとLv1250付近まであがるらしいすごいクエです！個人差があるようで噂で聞いた話だと1247くらいで終了した方もいるとか…知恵か何かで違いがあるのかな…？このクエにはレベル適正の部分があり適正レベルでは莫大な経験値が入りますが適]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[異世界の扉。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-917.html</id>
