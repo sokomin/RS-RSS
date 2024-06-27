@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-27T14:47:42.878Z</updated>
+    <updated>2024-06-27T15:20:17.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[試練の時。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-919.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-919.html"/>
+        <updated>2024-06-27T15:06:23.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。紳士的なコスチュームです。Ｖ鯖にて、凄い装備です。一日PvP報酬です。懐かしいアイテムです。ヤティカヌ日の出で出現です。メインシーフ、1309Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.6.26 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/51d2c9c45d2aa4a39e8489e029376fbd</id>
