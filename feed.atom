@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-27T02:42:48.625Z</updated>
+    <updated>2024-06-27T03:20:26.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1548,16 +1548,6 @@ BFOP
         <summary type="html"><![CDATA[大きなイベントがなかったりやる気の薄い期間でも数分か数十分だけ気軽に...]]></summary>
         <author>
             <name>marsborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gイベント！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-422.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-422.html"/>
-        <updated>2024-05-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[RSのイベントが最近多くありがたいのですが反復作業をしている感がありちょっと疲れてきた感じもしてるこの頃です＾＾；そんな中サブキャラが所属してるGravity様ではこんなGイベントがありました。そういえば昔無課金GでもサブGと本部で身内Gvしたことがありましたが他Gでの身内Gvは初めて参加することにしました＾＾ちなみに今無課金サブGは課金者さんも入れてまったりステG化してるので身内Gvとかできないです＾＾；久しぶりのG]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
