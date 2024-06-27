@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-27T06:47:44.392Z</updated>
+    <updated>2024-06-27T07:16:43.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1538,16 +1538,6 @@ BFOP
         <summary type="html"><![CDATA[ウポス補助がレベル23まで上がりました。これにより弱化が大幅に超過したので、弱化クレストを外して強化40％クレストを２枚にしました。その他に、指の組み合わせをちょっといじった結果、↓のような数値になりま...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tree-Body Problem]]></title>
-        <id>https://intothe.info/?p=2140</id>
-        <link href="https://intothe.info/wow/the-tree-body-problem/"/>
-        <updated>2024-05-28T18:48:46.000Z</updated>
-        <summary type="html"><![CDATA[大きなイベントがなかったりやる気の薄い期間でも数分か数十分だけ気軽に...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>
