@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-29T14:47:49.503Z</updated>
+    <updated>2024-06-29T15:17:36.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レベリング緩和(新チュートリアルクエ)]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1000.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1000.html"/>
+        <updated>2024-06-29T14:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Lv1250キャラ大量発生中のRS、みんなも乗り遅れるんじゃないぞ？狩りなんてやってる場合じゃない！新チュートリアルクエ(デリンダリンクエ)でLv1250キャラを量産し、精鋭討伐で資産を増やそうぜ！て感じで意気揚々と始めたは良いが、思いの外苦戦を強いられている人も少なくないだろう。そんなあなたに、新チュートリアルクエに関する注意点と効率化アップポイント情報を提供しよう。・Lv1から開始する場合、物理キャラは避ける。]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[姫の装備がほぼ揃いました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202406290000/</id>
