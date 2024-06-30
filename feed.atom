@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T03:21:48.101Z</updated>
+    <updated>2024-06-30T03:47:42.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1526,16 +1526,6 @@ BFOP
 ばいば～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キーオブアルカナ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-897.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-897.html"/>
-        <updated>2024-05-31T15:40:39.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ちょっと嬉しい(*'▽')。図鑑作成中です。(・∀・)ｲｲﾈ!!報酬が嬉しいです！大きな買い物です。ダブルクリティカル3%です(^^♪。メインシーフ、1289Lv到達です(/・ω・)/。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
