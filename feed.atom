@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T14:47:44.399Z</updated>
+    <updated>2024-06-30T15:19:22.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カイグラン峡谷、1250チュートリアルクエスト等]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-858.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-858.html"/>
+        <updated>2024-06-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[雨の日が続きますとてもじめじめしていて服がまとわりつくのが嫌ですよねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6/1~6/30☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12858126958.html</id>
