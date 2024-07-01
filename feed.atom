@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-01T04:22:06.416Z</updated>
+    <updated>2024-07-01T04:47:35.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1614,63 +1614,6 @@ BFOP
         <summary type="html"><![CDATA[​少し前に闘士のスキルにバグがあったとかで、無料でステの再振りができる時がありました。そのときに良い機会だなと思って霊術に戻しております。それに伴い闘士コラプを売ったのですが、その資金があったからメ...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日々精進]]></title>
-        <id>kaze.gg-blog.com://entry/192</id>
-        <link href="http://kaze.gg-blog.com/wakuteka/%E6%97%A5%E3%80%85%E7%B2%BE%E9%80%B2"/>
-        <updated>2024-06-01T16:39:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。
-
-
-立てば芍薬
-
-
-ニックネームを都度変えるマメな方もいます
-
-
-
-
- 
-
-四暗刻は私も大好きな役満です
-
-
-ひさびさにすたば君のペットコレクションご紹介
- 
-
-
-
-
-カエル？トカゲ？のダンスしながらのパラみたいなやつ
-
-
-なかなか精神的な攻撃！
-その他の近況
- 
-
-たまにあらわれるマキねこ
-
-
-装備を持ち逃げするもも
-
-
-天然のももたろうにはボケが通じない！
-おまけ1
-
-
-24年くらいログアウトしていない計算に！？
-おまけ2
-
-
-寝ろ
-
-
-
-ではまた]]></summary>
-        <author>
-            <name>風に吹かれて</name>
         </author>
     </entry>
     <entry>
