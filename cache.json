@@ -269,16 +269,6 @@
           "wordCount": 1628,
           "title": "メイドのソケット変換もやってしまった",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/7a13918cd80e9bfabb50f69edcce09691daa3de8.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202406020000/",
-          "author": "雷神の弓",
-          "description": "​少し前に闘士のスキルにバグがあったとかで、無料でステの再振りができる時がありました。そのときに良い機会だなと思って霊術に戻しております。それに伴い闘士コラプを売ったのですが、その資金があったからメ...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202406020000/",
-          "publishedOn": "2024-06-02T02:48:44.000Z",
-          "wordCount": 1649,
-          "title": "霊術に戻した件と姫の進捗",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/560423d97e45d508aa246c929f3d0b66fbc7f4df.73.9.9.3.png"
         }
       ]
     },
@@ -991,6 +981,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-923.html",
+          "author": "medaka1985",
+          "description": "こんばんは。重厚感あるコスチュームです。デリンダリンクエ、コンプリートです。1250Lv精鋭討伐、報酬です。(・∀・)ｲｲﾈ!!メインシーフ、1313Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-923.html",
+          "publishedOn": "2024-07-01T14:49:34.000Z",
+          "wordCount": null,
+          "title": "精鋭討伐、報酬。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-922.html",
           "author": "medaka1985",
