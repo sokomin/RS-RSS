@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-02T22:17:52.317Z</updated>
+    <updated>2024-07-02T22:32:12.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1505,16 +1505,6 @@ BFOP
         <summary type="html"><![CDATA[こんばんは。ポチョムキン、コスチュームです。地下行きです。オッス！お願いしまーす！(´･ω･)(･ω･｀)ﾈｰ。いつの日か、世界を救うと信じて(謎)。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6月ですね]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-973.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-973.html"/>
-        <updated>2024-06-03T08:04:52.000Z</updated>
-        <summary type="html"><![CDATA[素敵すぎるポストカードを頂戴いたしました。違う絵柄が三枚重ねられた、アクリル素材の美しい一品です。なんとセンスの光るセレクトでしょう。自立できるよう裏側はスタンド式になっていて、小雨の庭が見える窓辺に置いても素敵。緑の中にそっと置いてみると、また違うイメージ。種蒔きや植え替えを終えて、待ちに待った雨季の到来。大好きで儚い紫陽花が最も輝く、きらきらした季節です。ちょっとしたことのお礼にと、このカード]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
     <entry>
