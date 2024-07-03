@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-03T14:47:27.184Z</updated>
+    <updated>2024-07-03T15:19:54.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What a Pandaful World]]></title>
+        <id>https://intothe.info/?p=2194</id>
+        <link href="https://intothe.info/wow/what-a-pandaful-world/"/>
+        <updated>2024-07-03T15:16:31.000Z</updated>
+        <summary type="html"><![CDATA[2024年7月現在においてWoWのレベリングは、 1-10 : 新ス...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精悦討伐チケットの欠片。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-924.html</id>
