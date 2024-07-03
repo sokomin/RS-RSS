@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-03T17:15:59.589Z</updated>
+    <updated>2024-07-03T17:29:35.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1505,16 +1505,6 @@ BFOP
         <summary type="html"><![CDATA[7月に開催が予定されてる各鯖の姫G同士がアリーナで総当り戦を行う姫大戦ですが予行演習が行われるという事を聞いたので参加してみることにしました＾＾ちなみにこの公示はB鯖姫Gプリンセスメーカーのものでお相手様はV鯖姫GのDear_my_Princess様でわたしどちらのGにも所属してたため挨拶程度に参加しておこうと思いました＾＾急遽予行演習が決まったという事でV鯖の方たちはあまり集まらなかったみたいでB鯖が7名、V鯖が４名での]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[元気畑の芋アイス。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-900.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-900.html"/>
-        <updated>2024-06-04T05:21:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。オシャレ傘です。何か言いたそうです。焼き芋の上に上質なアイスが乗っています。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
