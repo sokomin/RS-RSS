@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-04T15:30:59.818Z</updated>
+    <updated>2024-07-04T15:48:02.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[セットOP魔法のお守り箱。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-925.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-925.html"/>
+        <updated>2024-07-04T15:41:57.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。綺麗なコスチュームです。結晶石狙いです。何が出るカナ？やった、当たりです(*'▽')。ちょっと低めです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.7.4  イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/57e199e23b61e0bcea62f84af1abcfd0</id>
