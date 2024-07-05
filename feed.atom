@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-05T04:24:03.180Z</updated>
+    <updated>2024-07-05T04:47:43.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1546,16 +1546,6 @@ BFOP
         <link href="https://medaka1985.fc2.net/blog-entry-902.html"/>
         <updated>2024-06-06T16:53:08.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。キュートなコスチュームです。V鯖のマーケットです。イベントボックスです。開封↓レア図案書が出るのは良いですね。30本くらい消費です(;´･ω･)。こちらは一発で9→10成功です。こちらも一発です(｀・ω・´)ｼｬｷｰﾝ。クロネの宝石箱からです。PvPは楽しいですね！メインシーフ、1296Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[都市伝説。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-901.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-901.html"/>
-        <updated>2024-06-05T16:23:58.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。RED STONE PASSの為か参加者が多いです。意味深な本です。性能もなかなか(/・ω・)/。良い感じのポイントです。メインシーフ、1295Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
