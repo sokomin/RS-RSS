@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-05T23:18:23.112Z</updated>
+    <updated>2024-07-05T23:30:15.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -117,6 +117,45 @@
         <summary type="html"><![CDATA[こんばんは。重厚感あるコスチュームです。デリンダリンクエ、コンプリートです。1250Lv精鋭討伐、報酬です。(・∀・)ｲｲﾈ!!メインシーフ、1313Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024.5月＆6月のドロップ～♪]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/b1946f9a4a108e56bccfa03f0a0fcf55</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/b1946f9a4a108e56bccfa03f0a0fcf55?fm=rss"/>
+        <updated>2024-07-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7月になりました。
+
+
+知識ID
+
+
+知識IDは頑張りましたが、物理IDはしょぼいですねぇ・・・
+まぁ２か月分とはいえ、半分は稼働できなかったので実質１か月。
+加えて物理IDはほぼ稼働していないので致し方ありません。
+体調悪いときは無理しても仕方ないですからね(´・ω・`)
+
+
+そうそう。
+久々に狩りをして思ったのですが、高レベル帯(Lv900以降)あたりの狩りがきついです。
+WIZも水鉄砲で狩らないと全然効率悪い。
+MOBが強くなったのか、私が弱くなったのかは定かではありませんけど。
+知識職は間違いなく辛くなりましたね。
+物理職はまだ闘士しか狩ってないのでよくわからないのですが、そのうちアチャで試そうと思います。
+狩れなくなったら隠居しそうだな(;´д｀)
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
