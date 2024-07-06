@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-06T06:47:48.394Z</updated>
+    <updated>2024-07-06T07:16:06.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[おおかわ]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-218.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-218.html"/>
+        <updated>2024-07-06T07:08:49.000Z</updated>
+        <summary type="html"><![CDATA[夜通し室温が30度前後をキープしたかと思えば、ついにセミが鳴き始めました。外の木々をやたらまぶしく照らすとても恐ろしいものは、一体何なのか。「夏だ」そう言った者の姿はたちまち光の中に飲み込まれ、後に残された私は今こうしてブログをつづっている次第であります。しかしこれもいつまで持つのかはわかりません、ああ、光が部屋に……――と、まあ、このくらい書いておけば冷房ガンガン回しても許されますかね。第三の猫です。]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ポータル・スフィアー キャンペーン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-926.html</id>
