@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-06T14:15:16.959Z</updated>
+    <updated>2024-07-06T14:29:03.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[良い感じの矢ができた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202407060000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202407060000/"/>
+        <updated>2024-07-06T14:14:53.000Z</updated>
+        <summary type="html"><![CDATA[致命減型で対人やるなら神だったねｗでも対人やらないので別にって感じだけど・・ｗダブクリと致命減のレベル27があるので、使わないけど対人用の矢もレベル27まで上げようかなと思います。なんせ、もうやること...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハシュラムと文字化けとデリンダリンクエ]]></title>
         <id>kaze.gg-blog.com://entry/194</id>
