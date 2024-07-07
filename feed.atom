@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-07T14:47:33.352Z</updated>
+    <updated>2024-07-07T15:18:55.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サブ姫が1250になりました]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-859.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-859.html"/>
+        <updated>2024-07-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[急激に暑くなりエアコンに体がまだ慣れていないせいか涼しい部屋に行くと鼻水がすぐに出てしまいますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[古代森のコイン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-927.html</id>
