@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-07T05:47:51.584Z</updated>
+    <updated>2024-07-07T06:25:06.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1647,16 +1647,6 @@ BFOP
         <summary type="html"><![CDATA[やらなきゃいいのに、デュアルクレストが付いてなくてやりやすいという理由で安易にチャレンジしてしまいました。その結果、17回目でやっと赤３紫１を引けました。途中で嫌になってしまったので、10連敗したとこ...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[試練のダンジョン(ハバン)。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-903.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-903.html"/>
-        <updated>2024-06-07T18:14:08.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。大きな買い物です。キャンペーンのスフィアULTセットです。おまけなのでありがたいです。副券の中身↓試練のダンジョン、範囲コースのボスです。カンニを強化しました(*'▽')。気持ち強くなった気がします。メインシーフ、1297Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
