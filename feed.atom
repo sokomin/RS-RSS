@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-08T20:47:35.189Z</updated>
+    <updated>2024-07-08T21:18:17.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1657,16 +1657,6 @@ BFOP
         <summary type="html"><![CDATA[こんばんは。ログインキャンペーンのスパロトからです(*'▽')。狩り装備です。ー・ー・ー・ー・ー・ー・ー・ー・×3×2メインシーフ、1300Lv達成です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】麻雀みたいなソシャゲとか]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-997.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-997.html"/>
-        <updated>2024-06-09T09:10:47.000Z</updated>
-        <summary type="html"><![CDATA[腰痛が改善しないため、寝転がって出来るソシャゲで遊ぶことが増えた。普段はドラクエウォークをメインにやっているが、腰痛で在宅勤務が増えたこともあり、以前ほどの熱は入っていない(ウォークだけあって、歩かなければゲームが進行出来ないことが多い)ファイナルファンタジータクティクスや、ファイアーエムブレムヒーローズも飽きてやらなくなったし、ウォーク以外のドラクエ関係はあまり惹かれず、放置系やカード系も興味が湧]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
