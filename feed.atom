@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-09T02:50:55.028Z</updated>
+    <updated>2024-07-09T03:21:18.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1627,26 +1627,6 @@ BFOP
         <summary type="html"><![CDATA[こんばんは。鏡の出番よー！(結果は↓の方に)PvP装備です。ー・ー・ー・ー・ー・ー・珍しく成功です(*'▽')♪。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】Lv1250までのレベリング緩和]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-998.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-998.html"/>
-        <updated>2024-06-09T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[レベリング関係が緩和され、クエでLv1250になれるらしいが、以下がクエ進行に必要な条件らしい。・メインクエ1・メインクエ2 チャプター1・ 限界突破3・恩寵2・転生5・ 超越スキル解放・ミッションブック一個・ブラックファイヤーの異界強化できるようにする・ ネフォンクリーチャー との出会いクリア・ 職業マスクエ長くRSをやっている人なら、複数の地下キャラを持っているだろうし、それらが5次転生していても不思議ではない(自]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クエストの消化]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-855.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-855.html"/>
-        <updated>2024-06-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日は天候が悪く雷が轟いておりました短時間ですが停電もありびっくりしましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
