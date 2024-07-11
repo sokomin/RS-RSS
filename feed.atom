@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-11T18:25:08.790Z</updated>
+    <updated>2024-07-11T18:47:48.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブログランキング。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-931.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-931.html"/>
+        <updated>2024-07-11T18:35:53.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。妖美なコスチュームです。Fc2ブログを使わせて頂いております。ランキング上位の日を選出しました。これは去年のですね。日付不明(;´･ω･)。これが昨日のランキングです。この順位がモチベーションに繋がります。自信がある記事だと上がるので楽しいです。読者様のお陰で朝、起きるきっかけになってます。(三大趣味＝メダカ＋ブログ＋メジャーリーグ)メインシーフ、1321Lv到達です(*'▽')。金鯖も楽しみですね！いつも読]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.7.11 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/e78864e5fbe2e08df55dda0817207d54</id>
