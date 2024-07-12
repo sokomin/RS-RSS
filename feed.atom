@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-12T08:47:38.272Z</updated>
+    <updated>2024-07-12T09:20:29.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[夏ロトとシミュレータっぽいやつ]]></title>
+        <id>kaze.gg-blog.com://entry/195</id>
+        <link href="http://kaze.gg-blog.com/verification/test"/>
+        <updated>2024-07-12T07:36:28.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+
+
+
+
+夏ロト！！
+ 
+
+
+
+プレミアムロトはあってないようなものなので
+プレロト×10、夏ロトDX×2、夏ロトULT×1
+夏ロトDX×1 (個数制限なし)
+
+
+スパロト → 完全解放
+
+
+神秘鏡
+
+
+製錬ガードⅡ
+
+
+上級(なぜかULTではない) ×2
+
+
+スパロト → 神秘鏡
+
+
+特製解放
+
+
+異次元 ×3
+話が違うじゃないか…
+むしゃくしゃしたので
+夏ロト シミュレータっぽいやつ
+
+
+
+マクロ使ってるので面倒ですが
+
+
+右クリック → プロパティのセキュリティ「許可する」にチェック
+
+
+「コンテンツの有効化」を押して遊んでみてね
+
+
+ロトボのボタンを押すたびにアイテム名が表示されるだけの変なやつです
+シート別で「DX」「ULT」「DREAM」と作ったので(暇なのか？)
+ ポチポチ遊んでみてくださいね
+ 
+
+
+お前誰だ
+
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブログランキング。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-931.html</id>
