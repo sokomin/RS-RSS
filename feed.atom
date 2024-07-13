@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-13T04:47:59.481Z</updated>
+    <updated>2024-07-13T05:17:20.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1594,16 +1594,6 @@ RS史上いちばん謎マップ
         <summary type="html"><![CDATA[現在の攻城戦は事実上、楽しめるプレイヤーが限定されている。攻城戦では、公式がバグ(不具合)と発表しない限り、グレー挙動のスキル利用は「あり」という見解が一般的(S鯖の場合)であるため、インフレした火力やグレー挙動スキルによる殺戮祭となっている。また、攻城戦はシステム仕様が未成熟であるため、何かとプレイヤーにストレスを与えてくること、S鯖はランク2の攻城戦の半分は戦いが成立しない(対戦相手が倉庫ギルドで放棄]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[治癒の薬草。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-907.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-907.html"/>
-        <updated>2024-06-13T16:51:09.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。可愛いコスチュームです。ヤティカヌ日の出狩りです。わーい！お金だー！(/・ω・)/。クエスト品です。メインシーフ、1301Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
