@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-14T17:28:25.610Z</updated>
+    <updated>2024-07-14T17:52:26.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金取引人の謎。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-934.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-934.html"/>
+        <updated>2024-07-14T17:28:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。セクシーなコスチュームです。はい、カイジ君。ビールお買い上げ～！3解放…特に運50が良いですね。この画面で3)を押して、もう一度、購入画面に行くと10本買うという選択肢が出ます。(何故、最初から出ないかは不明。)決闘3回すると貰える褒賞です。良いの出ました(*'▽')。結果↓圧倒的、感謝…！いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[持続系ダメージの注意点]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-860.html</id>
