@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-14T15:27:27.894Z</updated>
+    <updated>2024-07-14T15:48:03.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1469,16 +1469,6 @@ RSｲﾛｲﾛかわりましたね。
         <summary type="html"><![CDATA[こんばんは。セクシーなコスチュームです。ウィークリーファルコンです。１億Gゲットです！メインシーフ、1302Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スウェルファーはギリギリ]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-217.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-217.html"/>
-        <updated>2024-06-15T03:30:49.000Z</updated>
-        <summary type="html"><![CDATA[荒野のライオンのごとくうなりを上げる冷房が、未だ見ぬイマジナリーサバンナの到来を告げる今日この頃、いかがお過ごしでしょうか、第三の猫です。装備の魔力注入をファミリアに変えてみました。これまで共用装備が３か所あったので知識キャラは一角獣に統一していたのですが、共用装備のうち１つをファミリアにすれば両立できることに気づきました。というわけで、第三の猫は晴れてこのファミリアの……ファミリアの……ほう……おん？]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
