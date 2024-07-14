@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-14T14:47:59.737Z</updated>
+    <updated>2024-07-14T15:27:27.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[持続系ダメージの注意点]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-860.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-860.html"/>
+        <updated>2024-07-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日掃除をしていた際に子供の保育園時代の短冊が出てきましたいつの間にか七夕も過ぎていたのに気づきましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】なんかすぐ１２５０レベルになれるらしいじゃん？？]]></title>
         <id>https://www.youtube.com/watch?v=LM6-Z-oBA1E</id>
