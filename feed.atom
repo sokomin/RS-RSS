@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-15T22:47:33.377Z</updated>
+    <updated>2024-07-15T23:19:01.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[過去の金鯖期間]]></title>
+        <id>http://scratch2009.blog.fc2.com/blog-entry-228.html</id>
+        <link href="http://scratch2009.blog.fc2.com/blog-entry-228.html"/>
+        <updated>2024-07-15T22:53:00.000Z</updated>
+        <summary type="html"><![CDATA[メモ的なやつです。あっても今年はやるかどうか迷い中、、、2016年　07/29(金)2017年　2018年　2019年　07/24(水)2020年　07/21(火)2021年　07/20(水)2022年　07/18(月)2023年　07/19(水)～]]></summary>
+        <author>
+            <name>scratch2009</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北下ろしの群舞。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-935.html</id>
