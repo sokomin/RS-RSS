@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-16T22:47:28.076Z</updated>
+    <updated>2024-07-16T23:21:16.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[運営移管がされて初めての夏。そしてつい最近ダリンチュートリアルの改変でLv1250まで行けるようになったので今年は金鯖はあるのかな？と思っていた方が多いのではないかと思います。そうしたら前回のメンテ終了後の開発者だよりに今年の金鯖があることが書かれていてllv1500まで行けると書いてあったので今年も普通に金鯖があるのだなと安心しました＾＾気になる金鯖開始ですがおそらくですがRSpassの終わる7/25のメンテ終了後～]]></summary>
         <author>
             <name>ジェンド</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏も盛り、金いろの魚影近づく]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-976.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-976.html"/>
+        <updated>2024-07-16T08:04:34.000Z</updated>
+        <summary type="html"><![CDATA[「Σ　こんな美女いたっけ」と思ったら。えっティレンさん？あのティレンさん？＠＠；これほど華麗なイメチェンに最近まで気づかなかったとは。遺憾です。◆◆◆◆◆◆ごきげんよう、暑い日が続きますね。RSは、その後もまずまず継続中です。ログボの受け取り、ＰＡＳＳに必要なクエなどを済ませ、あとはひたすら露店放置。そんな毎日です。先日のアプデ以降、物理職が狩りにくくなってしまいましたね。そう遠くないうちに修正が入るよう]]></summary>
+        <author>
+            <name>アル・シェリ</name>
         </author>
     </entry>
     <entry>
