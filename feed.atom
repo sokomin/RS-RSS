@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-19T18:24:42.708Z</updated>
+    <updated>2024-07-19T18:47:48.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[図案書『勇気』。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-939.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-939.html"/>
+        <updated>2024-07-19T18:30:43.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。セクシーコスチュームです。サービス移管記念指輪を再構成します。大当たりです(*'▽')。純粋に限界を感じ、思い切って勇気にします。最高ダメージこそ純粋には劣りますが、アベレージ的に勇気が勝るそうです(*'▽')。久しぶりにレイドに参加です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.7.18 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/953f6e98766bcbad749511220e515e7c</id>
