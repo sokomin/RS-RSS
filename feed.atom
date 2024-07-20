@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-20T01:19:46.579Z</updated>
+    <updated>2024-07-20T02:10:13.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1472,16 +1472,6 @@ II: Notes
         <summary type="html"><![CDATA[だいぶ放置してました。そして現状、更新する気も割と起きてないですが。開催イベントなどは公式サイトでご覧いただければ幸いです。ぶっちゃけゲーム内イベントも少な過ぎて更新する気も割と失せてるのが原因です。ゲームオンからG.O.Pに運営移管した時もでしたけどそのG.O.Pから移管した今現在もイベントより課金キャンペーンのが多い感じなんですよねぇ。因みに、移管期間中に登録したけど、まだログインできない状態の人もいそ]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凄いアップデート。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-912.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-912.html"/>
-        <updated>2024-06-20T13:50:52.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。な、なんだってー！kimera99(999)緊急メンテの様です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
