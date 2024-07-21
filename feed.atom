@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-21T02:52:11.625Z</updated>
+    <updated>2024-07-21T03:21:14.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[好きな天ぷらの具]]></title>
+        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202407210000/</id>
+        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202407210000/"/>
+        <updated>2024-07-21T03:19:33.000Z</updated>
+        <summary type="html"><![CDATA[​​​​​​​​​​​​​皆さんこんにちは！(^_-)-☆今回はアンケートで回答いただいたご要望に基づき(いつもありがとうございます！)​好きな天ぷらの具​をランキング形式で紹介していこうと思います！それでは行きます！好...]]></summary>
+        <author>
+            <name>ほしめろちゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[麻雀楽しい]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202407200000/</id>
@@ -1409,16 +1419,6 @@ Talk with him twice to continue, then click the mirror~
 ~REWARD: almost 500m  EXP~]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新チュートリアルクエスト。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-913.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-913.html"/>
-        <updated>2024-06-21T15:20:09.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです。経験値、半端無いです。ポイント戦の結果です。メインシーフ、1304Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
