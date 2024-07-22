@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-22T02:29:47.334Z</updated>
+    <updated>2024-07-22T02:52:47.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1236,16 +1236,6 @@ SSの取り所がなくてとれませんでしたｗ
         <link href="https://medaka1985.fc2.net/blog-entry-915.html"/>
         <updated>2024-06-23T14:52:27.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。可憐なコスチュームです。良いの引きました(*'▽')。リーチです！ソロウィークリーゲリオです(/・ω・)/。ギルドメンバーのお陰で旗バフ追加です。君に決めたΣ(･ω･ﾉ)ﾉ！。メインシーフ、1305Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メガンテリオン討伐。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-914.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-914.html"/>
-        <updated>2024-06-22T14:31:37.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。キュートなコスチュームです。1250Lvレイドです。討伐報酬です。日の出ドロップです。こちらもです。900討伐です！お世話になります。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
