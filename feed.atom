@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-24T02:25:57.302Z</updated>
+    <updated>2024-07-24T02:51:29.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1263,16 +1263,6 @@ SSの取り所がなくてとれませんでしたｗ
         <summary type="html"><![CDATA[どうも皆さん。魔法の壁です。お久しぶりですね。僕は相変わらずログインしていないのですが、データの移行はちゃっかり完了してました（草今日は重い腰を上げて、休止前に準備していたネタを記事にしたいと思い...]]></summary>
         <author>
             <name>裁判官</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ガレリオン野営地。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-916.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-916.html"/>
-        <updated>2024-06-24T14:43:22.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ポリスコスチュームです。闇商人発見！RS PASS 完成です。最近、不調なタビアクート…。ヒドイや、ねーさん！メインシーフ、1306Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
