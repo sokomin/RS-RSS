@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-24T14:47:39.683Z</updated>
+    <updated>2024-07-24T15:20:24.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖、7月25日 開催予定。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-942.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-942.html"/>
+        <updated>2024-07-24T14:52:26.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。１日１ページの習慣です。コンソメ味が美味しいです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】なんかすぐ１２５０レベルになれるらしいじゃん？？２日目]]></title>
         <id>https://www.youtube.com/watch?v=QpfxwSfEtiU</id>
