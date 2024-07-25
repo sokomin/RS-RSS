@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-25T13:24:36.661Z</updated>
+    <updated>2024-07-25T13:47:54.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高級リング。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-943.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-943.html"/>
+        <updated>2024-07-25T13:38:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。カラフルなコスチュームです。今更ですが、ハシュラムの安全地帯(座標)〇〇.29(横軸は任意)で→(キーボード)スライド移動です。ビームを見切って(←手上げは時計回り、→は半時計)何度もチャレンジすればクリア出来るかも。V鯖のマーケットです。こちらはB鯖です。最後にS鯖マーケットです。サーバー毎に指輪が違いますね。韓国サーバーではエリートバンジーが人気みたいです。メインシーフ、1337Lv到達です。いつも読ん]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.7.25 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/ce1aa72e27930548e50256185570c6e3</id>
