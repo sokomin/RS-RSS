@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-27T02:42:40.986Z</updated>
+    <updated>2024-07-27T03:21:51.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1199,16 +1199,6 @@ SSの取り所がなくてとれませんでしたｗ
 サマナー…]]></summary>
         <author>
             <name>曇りのち晴れ４８日</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[試練の時。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-919.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-919.html"/>
-        <updated>2024-06-27T15:06:23.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。紳士的なコスチュームです。Ｖ鯖にて、凄い装備です。一日PvP報酬です。懐かしいアイテムです。ヤティカヌ日の出で出現です。メインシーフ、1309Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
