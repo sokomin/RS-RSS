@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-28T14:47:44.293Z</updated>
+    <updated>2024-07-28T15:18:38.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖の発表]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-862.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-862.html"/>
+        <updated>2024-07-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[毎日とても暑い日が続きますねちょっと歩くだけで汗がだくだくで毎日の通勤がとてもしんどいですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダーティーフィーバー改。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-945.html</id>
@@ -1164,16 +1174,6 @@ SSの取り所がなくてとれませんでしたｗ
         <summary type="html"><![CDATA[Lv1250キャラ大量発生中のRS、みんなも乗り遅れるんじゃないぞ？狩りなんてやってる場合じゃない！新チュートリアルクエ(デリンダリンクエ)でLv1250キャラを量産し、精鋭討伐で資産を増やそうぜ！て感じで意気揚々と始めたは良いが、思いの外苦戦を強いられている人も少なくないだろう。そんなあなたに、新チュートリアルクエに関する注意点と効率化アップポイント情報を提供しよう。・Lv1から開始する場合、物理キャラは避ける。]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[姫の装備がほぼ揃いました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202406290000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202406290000/"/>
-        <updated>2024-06-29T03:13:27.000Z</updated>
-        <summary type="html"><![CDATA[​​​​アップデートでLv1250までレポクエで上がるようになったので、予定していた装備が全部付けられるようになりました。というわけで、面倒ですが全装備のＳＳを貼っていこうと思います。※メイドとの共用装備は、...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
