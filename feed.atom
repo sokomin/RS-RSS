@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-29T20:47:39.740Z</updated>
+    <updated>2024-07-29T21:19:35.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クラウチングスタート]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-978.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-978.html"/>
+        <updated>2024-07-29T21:11:28.000Z</updated>
+        <summary type="html"><![CDATA[いよいよ、今日のメンテ明けから金鯖が始まりますね。PC環境の問題(イラスト関係の複数のソフトが重いことも関係していそう)でわたしは今年も断念ですけれど、友人知人は今わくわくとアップ中です。ふふ、いいなあ。「初日がどれだけ大事か」は、ライト勢の自分にも少しはわかります。多分サーバーからキックされる方が出てくるでしょうし……スタートダッシュがものを言いますよね｡とはいえそこも含めての「お祭り」。めいっぱい楽]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アニムスの祝福。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-946.html</id>
