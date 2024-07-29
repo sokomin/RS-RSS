@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-29T02:28:53.037Z</updated>
+    <updated>2024-07-29T02:53:44.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1174,16 +1174,6 @@ SSの取り所がなくてとれませんでしたｗ
         <summary type="html"><![CDATA[こんばんは。光輝くコスチュームです。恐ろしい名前のmobです。ギルド報酬ボックスからです。メインシーフ、1312Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レベリング緩和(新チュートリアルクエ)]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1000.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1000.html"/>
-        <updated>2024-06-29T14:49:41.000Z</updated>
-        <summary type="html"><![CDATA[Lv1250キャラ大量発生中のRS、みんなも乗り遅れるんじゃないぞ？狩りなんてやってる場合じゃない！新チュートリアルクエ(デリンダリンクエ)でLv1250キャラを量産し、精鋭討伐で資産を増やそうぜ！て感じで意気揚々と始めたは良いが、思いの外苦戦を強いられている人も少なくないだろう。そんなあなたに、新チュートリアルクエに関する注意点と効率化アップポイント情報を提供しよう。・Lv1から開始する場合、物理キャラは避ける。]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
