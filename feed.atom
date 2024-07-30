@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-30T12:59:04.905Z</updated>
+    <updated>2024-07-30T13:24:31.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】金鯖2024開幕]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1002.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1002.html"/>
+        <updated>2024-07-30T13:18:51.000Z</updated>
+        <summary type="html"><![CDATA[遂に始まった2024年の金鯖。レベルキャップも1500と大幅に拡張されており、本鯖でLv1500↑キャラ未保有の方には朗報と思えるが、そう簡単にはLv1500にはなれない。これから金鯖始めるぜ！って方向けに、金鯖2024の注意点をまとめてみる。１．Lv1250以降のレベリング(ヤティカヌエリア)に必要な三種の神器三種の神器とは、ヤティカヌで狩るために必要な以下の装備を指している。①全吸収　Ｔ全吸収ＵＬＴ精霊王が有名どころ。　要は、]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.7.30 アプデ！]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/c96db5c59db2784c8efe0d56c2a7444d</id>
