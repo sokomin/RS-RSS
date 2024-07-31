@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T02:47:43.942Z</updated>
+    <updated>2024-07-31T03:20:11.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1060,16 +1060,6 @@ OP変換いい感じ！
         <summary type="html"><![CDATA[Ⅹで投稿を見かけて驚いたのですが韓国でネクロの改変があったようです。その内容はかなりのスキル改変がされるという事でまずペットがなくなり、あらたに召喚獣を召喚するようになるそうで死霊術がペット調教スキルからアンデット召喚獣を召喚するスキルに変更されるそうです。そして死の予言がHP比率で削るスキルから召喚獣バフスキルに変化。予言変わっちゃったらレイドとかでHP削れなくなるので残念ですね＾＾；ダメージカット]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精鋭討伐、報酬。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-923.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-923.html"/>
-        <updated>2024-07-01T14:49:34.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。重厚感あるコスチュームです。デリンダリンクエ、コンプリートです。1250Lv精鋭討伐、報酬です。(・∀・)ｲｲﾈ!!メインシーフ、1313Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
