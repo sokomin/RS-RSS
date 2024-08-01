@@ -176,7 +176,18 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4JEuUsbrEGM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4JEuUsbrEGM",
+          "publishedOn": "2024-08-01T06:55:08.000Z",
+          "wordCount": null,
+          "title": "今年も!!金鯖！！復帰さん！最初は毒悪魔がいいよ！しらんけどｗ",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "無職と美学とシュルレアリスム",
