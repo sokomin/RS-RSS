@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-02T02:51:19.262Z</updated>
+    <updated>2024-08-02T03:22:02.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1115,16 +1115,6 @@ OP変換いい感じ！
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What a Pandaful World]]></title>
-        <id>https://intothe.info/?p=2194</id>
-        <link href="https://intothe.info/wow/what-a-pandaful-world/"/>
-        <updated>2024-07-03T15:16:31.000Z</updated>
-        <summary type="html"><![CDATA[2024年7月現在においてWoWのレベリングは、 1-10 : 新ス...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>
