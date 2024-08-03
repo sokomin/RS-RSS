@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-03T22:30:29.498Z</updated>
+    <updated>2024-08-03T22:47:34.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1081,16 +1081,6 @@ OP変換いい感じ！
         <summary type="html"><![CDATA[夜通し室温が30度前後をキープしたかと思えば、ついにセミが鳴き始めました。外の木々をやたらまぶしく照らすとても恐ろしいものは、一体何なのか。「夏だ」そう言った者の姿はたちまち光の中に飲み込まれ、後に残された私は今こうしてブログをつづっている次第であります。しかしこれもいつまで持つのかはわかりません、ああ、光が部屋に……――と、まあ、このくらい書いておけば冷房ガンガン回しても許されますかね。第三の猫です。]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポータル・スフィアー キャンペーン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-926.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-926.html"/>
-        <updated>2024-07-05T10:38:21.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。このイベント、助かります。ジャジャーン！結果↓良い感じです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
