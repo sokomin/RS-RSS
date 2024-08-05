@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-05T14:16:17.629Z</updated>
+    <updated>2024-08-05T14:32:11.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[天然のアイス。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-951.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-951.html"/>
+        <updated>2024-08-05T14:22:13.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。無花果(いちじく)美味しいです。ドナルドの隣、空いてますよ。冷凍バナナは、コスパ良いです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖開幕！　しかし・・・]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-863.html</id>
