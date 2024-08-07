@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-07T13:31:39.479Z</updated>
+    <updated>2024-08-07T13:47:39.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[雀傑３になった]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202408070000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202408070000/"/>
+        <updated>2024-08-07T13:45:56.000Z</updated>
+        <summary type="html"><![CDATA[段位戦147半荘での到達です。これが早いのか遅いのか分かりませんが、毎日数半荘打っています。RSの方は、メイン・サブIDともにスフィアが切れたので、デイリーもあまりやらなくなっています。今はウィークリー系...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[怪談イベント参加しました]]></title>
         <id>http://rinsmile.blog70.fc2.com/blog-entry-1131.html</id>
