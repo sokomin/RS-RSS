@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-07T02:28:44.971Z</updated>
+    <updated>2024-08-07T02:52:56.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[怪談イベント参加しました]]></title>
+        <id>http://rinsmile.blog70.fc2.com/blog-entry-1131.html</id>
+        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1131.html"/>
+        <updated>2024-08-07T02:45:02.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事への拍手、コメントありがとうございますコメントが非公開エントリーですので内容を要約いたしますと主催者の意図と違うことをするのが荒らしになる可能性がありますよというものでして一応ハニーの判断としては話の流れでの演出なのでOKじゃないか？と思っていたのですが、確かにハニーも自分の企画のイベントで意図と外れたことされるのは困るよな・・・そう思ったので、グレゴリオさんに確認を取ったうえで参加させて]]></summary>
+        <author>
+            <name>リン・ドール</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ランダムボックス。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-952.html</id>
