@@ -691,16 +691,6 @@
           "wordCount": 372,
           "title": "金鯖への期待",
           "imageUrl": null
-        },
-        {
-          "id": "http://jendoradoo.blog.fc2.com/blog-entry-428.html",
-          "author": "ジェンド",
-          "description": "前回ネクロ改変の物理のほうはどんな感じになりそうなのか予想しましたが今回は知識のほうについてわたしはどう思っているかになります。知識ネクロって陰謀覚醒のデモニックチューナーと恐怖の幻影を軸にした連射覚醒？のウィキッドサイコロジストがあります＾＾ネクロ3覚醒の中で現在ではデモニックチューナーが一番火力があるのでおなじ知識覚醒のウィキッドのほうはなかなか見かけない希少種なんじゃないかなと思います。ネク",
-          "link": "http://jendoradoo.blog.fc2.com/blog-entry-428.html",
-          "publishedOn": "2024-07-09T15:00:00.000Z",
-          "wordCount": 372,
-          "title": "強くなる？弱くなる？",
-          "imageUrl": null
         }
       ]
     },
@@ -1034,6 +1024,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-954.html",
+          "author": "medaka1985",
+          "description": "こんにちは。メダカさんは暑さにも強いです。(40℃でも耐えるそうです。)お湯みたいに熱いです。今年の梅雨頃に生まれた個体です。(大きくなるのが早いです。)いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-954.html",
+          "publishedOn": "2024-08-08T03:16:39.000Z",
+          "wordCount": null,
+          "title": "キンッキンに冷えて(ry)",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-953.html",
           "author": "medaka1985",

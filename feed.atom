@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-08T02:53:29.239Z</updated>
+    <updated>2024-08-08T03:21:47.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キンッキンに冷えて(ry)]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-954.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-954.html"/>
+        <updated>2024-08-08T03:16:39.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。メダカさんは暑さにも強いです。(40℃でも耐えるそうです。)お湯みたいに熱いです。今年の梅雨頃に生まれた個体です。(大きくなるのが早いです。)いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】金鯖から通常鯖移行キャラの制限緩和要望]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1004.html</id>
@@ -1071,16 +1081,6 @@ OP変換いい感じ！
         <summary type="html"><![CDATA[こんばんは。魔女っ子コスチュームです。ヤティカヌPvPエリアです。森の賢者、アクア攻撃が痛いです。不浄の栄光、中心辺りです。メインシーフ、1317Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[強くなる？弱くなる？]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-428.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-428.html"/>
-        <updated>2024-07-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前回ネクロ改変の物理のほうはどんな感じになりそうなのか予想しましたが今回は知識のほうについてわたしはどう思っているかになります。知識ネクロって陰謀覚醒のデモニックチューナーと恐怖の幻影を軸にした連射覚醒？のウィキッドサイコロジストがあります＾＾ネクロ3覚醒の中で現在ではデモニックチューナーが一番火力があるのでおなじ知識覚醒のウィキッドのほうはなかなか見かけない希少種なんじゃないかなと思います。ネク]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
