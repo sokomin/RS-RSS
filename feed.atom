@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-09T05:33:58.855Z</updated>
+    <updated>2024-08-09T05:47:39.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1076,16 +1076,6 @@ OP変換いい感じ！
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヤティカヌ秘密。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-930.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-930.html"/>
-        <updated>2024-07-10T17:45:46.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ログインキャンペーンのスパロトからです(*'▽')。ヤティカヌ秘密(難しい)クイズです。メインシーフ、1318Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
