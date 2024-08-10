@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-10T02:27:19.876Z</updated>
+    <updated>2024-08-10T02:53:12.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖2024！]]></title>
+        <id>https://wh-rs.jugem.jp/?eid=342</id>
+        <link href="https://wh-rs.jugem.jp/?eid=342"/>
+        <updated>2024-08-10T02:48:00.000Z</updated>
+        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
+
+
+ 
+
+ 
+
+ 
+
+半年ぶりくらいでしょうか・・・お久しぶりです！！
+
+お正...]]></summary>
+        <author>
+            <name>亜鬼にゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[名誉ポイント。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-955.html</id>

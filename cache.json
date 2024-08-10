@@ -406,8 +406,19 @@
     {
       "title": "Wheel of Fortune ’",
       "feedUrl": "http://wh-rs.jugem.jp/?mode=rss",
-      "siteUrl": "http://wh-rs.jugem.jp/",
-      "articles": []
+      "siteUrl": "https://wh-rs.jugem.jp/",
+      "articles": [
+        {
+          "id": "https://wh-rs.jugem.jp/?eid=342",
+          "author": "亜鬼にゃん",
+          "description": "JUGEMテーマ：RED STONE\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n半年ぶりくらいでしょうか・・・お久しぶりです！！\r\n\r\nお正...",
+          "link": "https://wh-rs.jugem.jp/?eid=342",
+          "publishedOn": "2024-08-10T02:48:00.000Z",
+          "wordCount": 845,
+          "title": "金鯖2024！",
+          "imageUrl": "https://img-cdn.jg.jugem.jp/5f8/3521731/20240810_3289768.png"
+        }
+      ]
     },
     {
       "title": "REDSTONE Relinquish",
