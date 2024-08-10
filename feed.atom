@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-10T21:47:41.374Z</updated>
+    <updated>2024-08-10T22:17:24.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鏡品の損益分岐点]]></title>
+        <id>http://scratch2009.blog.fc2.com/blog-entry-229.html</id>
+        <link href="http://scratch2009.blog.fc2.com/blog-entry-229.html"/>
+        <updated>2024-08-10T22:14:19.000Z</updated>
+        <summary type="html"><![CDATA[毎年、金鯖が終わると本鯖の方では特需があります。なので、この時期は基本的に消耗品含め放出を抑えています。時期が進むと鏡品は供給増加で値が下がる傾向にありますが、どこまでの値で売れれば元がとれるのかなという試算をメモしておく記事です。（※狩りが嫌いなので結晶石で変換することしか頭にありません）＜前提＞・結晶石　１００個あたり１０本　１０個あたり１本・鏡の魔法書　２００本・ギルドホールランク１・赤石の]]></summary>
+        <author>
+            <name>scratch2009</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビスル出身のロマ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-956.html</id>
