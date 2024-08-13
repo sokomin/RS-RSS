@@ -168,16 +168,6 @@
           "wordCount": null,
           "title": "【REDSTONE】なんかすぐ１２５０レベルになれるらしいじゃん？？２日目",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LM6-Z-oBA1E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LM6-Z-oBA1E",
-          "publishedOn": "2024-07-14T12:36:15.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】なんかすぐ１２５０レベルになれるらしいじゃん？？",
-          "imageUrl": null
         }
       ]
     },
@@ -662,6 +652,16 @@
       "feedUrl": "http://jendoradoo.blog.fc2.com/?xml",
       "siteUrl": "http://jendoradoo.blog.fc2.com/",
       "articles": [
+        {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-433.html",
+          "author": "ジェンド",
+          "description": "連休に入りRSでたくさん遊べると思っていましたがリアルなほうでお盆準備をしなければいかないことに加えお盆中台風が直撃しそうで台風の備えも必要になり今年のお盆色々大変そうな感じがします＾＾；RSのほうはというと基本的には金鯖にいて一部上位レベルのキャラだけはディメをしていて残りのキャラは数日～数週間に一度くらい動かす程度になっていました＾＾；しかしメインキャラのオオカミ少年だけはダリンチュートリアルもた",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-433.html",
+          "publishedOn": "2024-08-13T00:00:00.000Z",
+          "wordCount": 374,
+          "title": "お盆と台風",
+          "imageUrl": null
+        },
         {
           "id": "http://jendoradoo.blog.fc2.com/blog-entry-432.html",
           "author": "ジェンド",

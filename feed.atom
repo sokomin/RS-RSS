@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-12T23:47:40.369Z</updated>
+    <updated>2024-08-13T01:25:14.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お盆と台風]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-433.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-433.html"/>
+        <updated>2024-08-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[連休に入りRSでたくさん遊べると思っていましたがリアルなほうでお盆準備をしなければいかないことに加えお盆中台風が直撃しそうで台風の備えも必要になり今年のお盆色々大変そうな感じがします＾＾；RSのほうはというと基本的には金鯖にいて一部上位レベルのキャラだけはディメをしていて残りのキャラは数日～数週間に一度くらい動かす程度になっていました＾＾；しかしメインキャラのオオカミ少年だけはダリンチュートリアルもた]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1000UMUドロップ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-958.html</id>
@@ -1002,15 +1012,6 @@ OP変換いい感じ！
         <summary type="html"><![CDATA[先日掃除をしていた際に子供の保育園時代の短冊が出てきましたいつの間にか七夕も過ぎていたのに気づきましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】なんかすぐ１２５０レベルになれるらしいじゃん？？]]></title>
-        <id>https://www.youtube.com/watch?v=LM6-Z-oBA1E</id>
-        <link href="https://www.youtube.com/watch?v=LM6-Z-oBA1E"/>
-        <updated>2024-07-14T12:36:15.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
