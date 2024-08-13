@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-13T18:47:44.955Z</updated>
+    <updated>2024-08-13T19:15:40.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヤティカヌ星降る森林。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-959.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-959.html"/>
+        <updated>2024-08-13T18:55:27.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ドキドキ…。運が枯渇してる(笑)。5、6回撃たないと倒せず、経験値も酷い。先輩達が通過した道と知り、感服しました。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.8.13 メンテ終了]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/aaa91acebf74fa0e37b4579398ccd157</id>
