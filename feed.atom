@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-16T06:47:48.696Z</updated>
+    <updated>2024-08-16T07:18:22.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1050,16 +1050,6 @@ OP変換いい感じ！
         <link href="https://medaka1985.fc2.net/blog-entry-938.html"/>
         <updated>2024-07-18T04:55:28.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。涼しそうです。いつもありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダブルクリティカル。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-937.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-937.html"/>
-        <updated>2024-07-17T19:16:28.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。聡明なコスチュームです。PKフィールドは旗バフ制限される様です。装備頑張って、少しダメージが伸びました(*'▽')。サブのシーフ、944Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
