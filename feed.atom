@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-17T14:47:34.063Z</updated>
+    <updated>2024-08-17T15:17:56.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[好奇心旺盛な妖精。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-962.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-962.html"/>
+        <updated>2024-08-17T14:59:33.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。神々しいコスチュームです。難しいに挑戦します。最初の試練、HPの多いmobがたくさんです。次に真っ暗な迷路です。最後にボス(不吉な巨大花)です。ギリギリで何とかクリアです！報酬のエフェクトです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ちょっと麻雀の調子が上向いてきたかも]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202408170000/</id>
