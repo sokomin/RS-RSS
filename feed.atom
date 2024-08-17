@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-17T11:27:33.547Z</updated>
+    <updated>2024-08-17T11:47:48.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ちょっと麻雀の調子が上向いてきたかも]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202408170000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202408170000/"/>
+        <updated>2024-08-17T11:37:20.000Z</updated>
+        <summary type="html"><![CDATA[少し前までトップが全然取れず最悪な状態でしたが、最近少し良い感じです。あ、また麻雀の記事になってしまいましたね＾＾；RSの記事は、また気が向いたときに・・ｗ]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[熱帯魚コーナー。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-961.html</id>
