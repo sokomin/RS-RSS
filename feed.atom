@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-19T14:48:34.272Z</updated>
+    <updated>2024-08-19T15:20:46.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -967,16 +967,6 @@ OP変換いい感じ！
         <summary type="html"><![CDATA[そろそろ夏休みが近いので計画を立てている人も多いのではないでしょうかこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好きな天ぷらの具]]></title>
-        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202407210000/</id>
-        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202407210000/"/>
-        <updated>2024-07-21T03:19:33.000Z</updated>
-        <summary type="html"><![CDATA[​​​​​​​​​​​​​皆さんこんにちは！(^_-)-☆今回はアンケートで回答いただいたご要望に基づき(いつもありがとうございます！)​好きな天ぷらの具​をランキング形式で紹介していこうと思います！それでは行きます！好...]]></summary>
-        <author>
-            <name>ほしめろちゃん</name>
         </author>
     </entry>
     <entry>
