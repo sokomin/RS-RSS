@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-21T05:18:18.169Z</updated>
+    <updated>2024-08-21T05:32:37.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -972,21 +972,6 @@ OP変換いい感じ！
         <summary type="html"><![CDATA[こんにちは。ノスタルジックなコスチュームです。この警告をうっかり飛ばしても、ログイン画面に戻る、で選びなおせます。わくわくの精鋭討伐です。これは過去一番の報酬です！引率して下さっている、パンプキン様、本当にありがとうございます。応援、ありがとうございます。ここまで仰って頂けると身に余る光栄です(笑)。メインシーフ、1336Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第１４回？　怪談大会お知らせ]]></title>
-        <id>gregorio29.blog.shinobi.jp://entry/322</id>
-        <link href="http://gregorio29.blog.shinobi.jp/%E6%AD%BB%E3%81%97%E3%81%A6%E5%B1%8D%E3%80%81%E6%94%BE%E7%BD%AE%E3%83%97%E3%83%AC%E3%82%A4/%E7%AC%AC%EF%BC%91%EF%BC%94%E5%9B%9E%EF%BC%9F%E3%80%80%E6%80%AA%E8%AB%87%E5%A4%A7%E4%BC%9A%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B"/>
-        <updated>2024-07-22T17:23:05.000Z</updated>
-        <summary type="html"><![CDATA[第１４回　怪談大会
-そばでナポリタン
-日時：８月５日（月）　20:00～
-
-
-参加資格：どなたでも、語り手参戦歓迎です。]]></summary>
-        <author>
-            <name>グレゴリオ麺道　〜Red Stoneと麺類〜</name>
         </author>
     </entry>
     <entry>
