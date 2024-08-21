@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-21T16:47:30.486Z</updated>
+    <updated>2024-08-21T17:17:11.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メイドの装備更新]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202408220000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202408220000/"/>
+        <updated>2024-08-21T17:13:59.000Z</updated>
+        <summary type="html"><![CDATA[・武器魔法ダメージが大幅に余ったので、魔力のを消してT知識にしました。オニトルロを付けるか迷っています。・耳火弱化が大幅に余ったので、遺物耳をやめてこれに変更しました。（姫で使っている物とは別に用意...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[物理最強の冠装備。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-966.html</id>
