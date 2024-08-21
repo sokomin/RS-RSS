@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-21T13:24:26.979Z</updated>
+    <updated>2024-08-21T13:47:44.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -972,16 +972,6 @@ OP変換いい感じ！
         <summary type="html"><![CDATA[今年の夏の間、あまりログインしない気がします。理由は単純に、暑さでへばるからPC起動時間が減りそうなだけではあるんですが。涼しい日であれば普通にログインするでしょうけどね。後は日中暑くても夜に涼しくなってるならログインするでしょうし。とはいえ部屋の風通し悪いんで、毎年夏は1日中ほぼ室温変わらないし暑ければまず夜も室温高いままなんでログインできなさそうではあります。ただでさえ暑い部屋なのにPCの排熱もあ]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タビアクートのカケラ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-941.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-941.html"/>
-        <updated>2024-07-23T01:44:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。ノスタルジックなコスチュームです。この警告をうっかり飛ばしても、ログイン画面に戻る、で選びなおせます。わくわくの精鋭討伐です。これは過去一番の報酬です！引率して下さっている、パンプキン様、本当にありがとうございます。応援、ありがとうございます。ここまで仰って頂けると身に余る光栄です(笑)。メインシーフ、1336Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
