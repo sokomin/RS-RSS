@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-22T08:47:38.117Z</updated>
+    <updated>2024-08-22T09:20:07.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -962,16 +962,6 @@ OP変換いい感じ！
         <updated>2024-07-24T10:37:22.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怪談大会のお知らせ]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-977.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-977.html"/>
-        <updated>2024-07-23T20:51:32.000Z</updated>
-        <summary type="html"><![CDATA[昨年は主催者さんの緊急事態(コロナ罹患)により中止となりました、当ブログにとっても夏の風物詩であるイベント。今年は無事、開催していただけるとの記事が出ました。グレゴリオ29(スティ・カフィ)さん主催の怪談大会です。ので、当ブログでも告知を。　開催まことにありがとうございます！第15回(たぶん？)赤石怪談大会そばでナポリタン　日時：8月5日（月）　20:00～場所：シュトラセラト鯖　地下墓地B１（103.36付近）前回の会]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
     <entry>
