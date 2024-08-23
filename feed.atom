@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-23T10:36:35.760Z</updated>
+    <updated>2024-08-23T10:48:26.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[〆イワシ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-968.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-968.html"/>
+        <updated>2024-08-23T10:39:03.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。旨味のあるトロっとした食感で美味しいです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[限界を突破せよ]]></title>
         <id>kaze.gg-blog.com://entry/197</id>
