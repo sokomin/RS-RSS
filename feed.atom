@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-23T09:32:23.147Z</updated>
+    <updated>2024-08-23T09:47:47.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[限界を突破せよ]]></title>
+        <id>kaze.gg-blog.com://entry/197</id>
+        <link href="http://kaze.gg-blog.com/status/%E9%99%90%E7%95%8C%E3%82%92%E7%AA%81%E7%A0%B4%E3%81%9B%E3%82%88"/>
+        <updated>2024-08-23T09:38:33.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+
+
+↑　お盆前
+
+
+同志がいました
+
+
+
+
+
+
+役満でとるやないかい
+
+
+ 
+ 
+
+
+風も3万円分買ってみた～
+
+
+結構当たりが出たみたいで
+ 
+
+
+限界突破クレストを2つ付けてみました！
+
+
+
+
+結果：つよい！
+2,600K～3,600K　→　3,200K～4,400K
+3,700K～4,900K
+ただし相変わらず狩る気力は皆無…
+
+
+ブンブンうるさいですね！
+ 
+
+マキちゃんのものまね
+
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖のマーケット。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-967.html</id>
