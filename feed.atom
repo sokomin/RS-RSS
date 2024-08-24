@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-24T01:22:21.631Z</updated>
+    <updated>2024-08-24T02:27:13.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ケモ牧場と本物の水着]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-222.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-222.html"/>
+        <updated>2024-08-24T01:48:37.000Z</updated>
+        <summary type="html"><![CDATA[30度を超えていない日を知らないこの夏も、いつかは別れの日が来るのだと思えば乗り越えられる。第三の猫です。なんでその日が今日じゃないのでしょうね。さて、金鯖でうすあじがいい感じのおみやげUMUを拾っていた頃。本鯖では第三の猫が、石ころを拾っていました。これは狩場を変えてみた方がよさげですね。そういうものですか？そして、えらばれたのは生命の森外郭でした。呪術者さんと生霊さんの色違いモンスターがいます。と]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クリーチャー超越]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/2610f1b82261fe1eadd01db9b473dfd4</id>
@@ -1056,16 +1066,6 @@ OP変換いい感じ！
         <link href="https://medaka1985.fc2.net/blog-entry-944.html"/>
         <updated>2024-07-26T23:24:40.000Z</updated>
         <summary type="html"><![CDATA[おはようございます。久しぶりの遠出です。神戸の中華街です。水族館とアートのコラボです。いつも読んで頂き、ありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高級リング。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-943.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-943.html"/>
-        <updated>2024-07-25T13:38:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。カラフルなコスチュームです。今更ですが、ハシュラムの安全地帯(座標)〇〇.29(横軸は任意)で→(キーボード)スライド移動です。ビームを見切って(←手上げは時計回り、→は半時計)何度もチャレンジすればクリア出来るかも。V鯖のマーケットです。こちらはB鯖です。最後にS鯖マーケットです。サーバー毎に指輪が違いますね。韓国サーバーではエリートバンジーが人気みたいです。メインシーフ、1337Lv到達です。いつも読ん]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
