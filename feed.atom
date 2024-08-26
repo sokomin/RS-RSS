@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-26T19:47:34.970Z</updated>
+    <updated>2024-08-26T20:22:06.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エンカウント]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-981.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-981.html"/>
+        <updated>2024-08-26T20:09:28.000Z</updated>
+        <summary type="html"><![CDATA[「RS PASS」で、燃え尽きまして。終了して以降は赤石をお休みしていました。リアルでやりたいことが多すぎるというのもあるのですが、ゲームに毎日ログインというのが気力的にもう無理なようです。ええ、お察しのとおり幻想神域もお休み中です。久しぶりにRSにログインした先日のことです。協会へ寄るとジャストタイムが近かったので、レイドにも行っておこう！と予約して魔法陣の上に座っていました。あ、カメを連れたテイマさん(]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖BOX2024、開封。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-971.html</id>
