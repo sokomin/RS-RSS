@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-26T09:47:45.560Z</updated>
+    <updated>2024-08-26T10:21:12.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1078,16 +1078,6 @@ OP変換いい感じ！
         <summary type="html"><![CDATA[毎日とても暑い日が続きますねちょっと歩くだけで汗がだくだくで毎日の通勤がとてもしんどいですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダーティーフィーバー改。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-945.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-945.html"/>
-        <updated>2024-07-27T22:08:14.000Z</updated>
-        <summary type="html"><![CDATA[おはようございます。&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;↓魔力パウダー美味しいです。物理でも使えます。1/4で追加ダメージは良いですね。スキル再振りで強化です。攻撃回数5→8は大きいです。8回攻撃で1or2回で倒せる様になりました(*'▽')。サブのビーストテイマー、1006Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
