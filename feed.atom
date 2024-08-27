@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-27T15:21:07.819Z</updated>
+    <updated>2024-08-27T15:47:48.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1149,16 +1149,6 @@ OP変換いい感じ！
         <summary type="html"><![CDATA[今年の金鯖ももうすぐ始まることになりました＾＾金鯖ではネクロをとりあえず作ろうと考えていましたが現在わたしのキャラが所属してるGで攻城をしてるところが5つありその中で姫Gは姫じゃないとだめなのとメインのオオカミ少年は無課金Gに所属してるので残りの3ギルドにもネクロを入れておこうかな？と最近考えるようになりました。ネクロG入れると6つになりますがここすでにネクロ入れてるのと攻城をしてるGになるのかまだ微妙な]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雀傑になったので]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202407290000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202407290000/"/>
-        <updated>2024-07-29T03:46:24.000Z</updated>
-        <summary type="html"><![CDATA[やっと金の間で打てるようになりました。（段位戦85半荘目での到達）最近、超弱くてやっとこさって感じです。え？RSの話はないのかって？実はいくつかネタはあるんだけど、今は麻雀が忙しくて・・ｗｗｗ]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
