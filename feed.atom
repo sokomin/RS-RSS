@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-27T13:47:48.557Z</updated>
+    <updated>2024-08-27T14:18:02.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ギルド旗バフ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-972.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-972.html"/>
+        <updated>2024-08-27T13:51:56.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。不思議なコスチュームです。少しずつ育っています。週一のお楽しみです。やったー！(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】新チュートリアルでの促成栽培キャラについて]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1007.html</id>
