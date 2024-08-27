@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-27T03:21:21.545Z</updated>
+    <updated>2024-08-27T03:47:55.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】新チュートリアルでの促成栽培キャラについて]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1007.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1007.html"/>
+        <updated>2024-08-27T03:35:12.000Z</updated>
+        <summary type="html"><![CDATA[新チュートリアルが実装されてから、野良での精鋭討伐PTにLv1250(Lv1255未満)が増えており、全員Lv1250キャラのケースも少なくない。8名が全てLv1250の場合、第一形態をクリアするためにSGが4つ必要なケースが多く、第二形態をクリア出来ないことがある。また、SG連携が巧く出来ず、SGを途切れさせてのPT崩壊もよくある。あくまで個人の見解だが、PTを募集する以上、目的を達成することを前提に加入者を見極め、PTメンバに指示を出]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エンカウント]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-981.html</id>
