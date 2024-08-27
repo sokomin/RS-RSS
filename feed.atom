@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-27T02:53:52.088Z</updated>
+    <updated>2024-08-27T03:21:21.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1129,16 +1129,6 @@ OP変換いい感じ！
         <summary type="html"><![CDATA[やっと金の間で打てるようになりました。（段位戦85半荘目での到達）最近、超弱くてやっとこさって感じです。え？RSの話はないのかって？実はいくつかネタはあるんだけど、今は麻雀が急がしくて・・ｗｗｗ]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖の発表]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-862.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-862.html"/>
-        <updated>2024-07-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[毎日とても暑い日が続きますねちょっと歩くだけで汗がだくだくで毎日の通勤がとてもしんどいですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
