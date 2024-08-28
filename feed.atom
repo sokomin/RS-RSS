@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-28T03:22:13.778Z</updated>
+    <updated>2024-08-28T03:47:33.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1129,16 +1129,6 @@ OP変換いい感じ！
         <summary type="html"><![CDATA[いよいよ、今日のメンテ明けから金鯖が始まりますね。PC環境の問題(イラスト関係の複数のソフトが重いことも関係していそう)でわたしは今年も断念ですけれど、友人知人は今わくわくとアップ中です。ふふ、いいなあ。「初日がどれだけ大事か」は、ライト勢の自分にも少しはわかります。多分サーバーからキックされる方が出てくるでしょうし……スタートダッシュがものを言いますよね｡とはいえそこも含めての「お祭り」。めいっぱい楽]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニムスの祝福。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-946.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-946.html"/>
-        <updated>2024-07-29T15:27:28.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。次元虐殺者さんです。うん、美味しい！陰ペットです。(人''▽｀)ありがたやぁ。ドキドキ・・・。(。´･ω･)?。メインシーフ、1338Lvです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
