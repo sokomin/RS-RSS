@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T22:47:46.557Z</updated>
+    <updated>2024-08-29T23:19:22.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -994,15 +994,6 @@ U品くらい落としてもらわないとねぇ(´・ω・`)
         <summary type="html"><![CDATA[こんばんは。暑そうなので、氷を入れます。涼しそうです(*´ω｀*)。喫茶店のかき氷です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】最大経験値２６８５倍！２０２４年金鯖！その１]]></title>
-        <id>https://www.youtube.com/watch?v=vX_x5xPNpsY</id>
-        <link href="https://www.youtube.com/watch?v=vX_x5xPNpsY"/>
-        <updated>2024-07-31T11:10:25.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
