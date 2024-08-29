@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T13:02:11.198Z</updated>
+    <updated>2024-08-29T13:32:52.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RED’s Roulette♪]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-974.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-974.html"/>
+        <updated>2024-08-29T13:13:27.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ルーレット(大当たり)です。スーパーロト、開封です。なかなか良いアイテムです(^^♪。サブのビーストテイマー、1010Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ここ最近のログイン・活動状況について]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202408290000/</id>
