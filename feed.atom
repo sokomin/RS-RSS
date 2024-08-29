@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T19:16:39.228Z</updated>
+    <updated>2024-08-29T19:28:35.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[姫装備更新]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202408300000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202408300000/"/>
+        <updated>2024-08-29T19:25:23.000Z</updated>
+        <summary type="html"><![CDATA[​​※装備を載せるのは、当ブログを参考にしている方のためです。自慢をするほどの装備でないことは私自身がよく分かっておりますので、匿名掲示板に誹謗中傷を書き込まないようにお願いします。はっきり言って不愉...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RED’s Roulette♪]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-974.html</id>
