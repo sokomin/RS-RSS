@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T14:34:48.365Z</updated>
+    <updated>2024-08-30T14:47:50.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[天上界の報酬。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-975.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-975.html"/>
+        <updated>2024-08-30T14:39:51.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。金鯖Boxからです(熱い！)。謎の警告です。らっきー！(遠藤さん、迎えに来てくれたんすね。)天上界の報酬は一気に貰えて、嬉しいです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.8.29 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/942bb2838da5db55e8b6e6c25d383159</id>
