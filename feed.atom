@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T02:34:00.692Z</updated>
+    <updated>2024-08-30T02:57:16.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -984,15 +984,6 @@ U品くらい落としてもらわないとねぇ(´・ω・`)
         <summary type="html"><![CDATA[こんにちは。美味しそう(｀・ω・´)。限界突破３クリアです。キャンセル押したら怒られました(笑)。何とかクリアです。(全問正解じゃ無くても良いみたいですね。)一応、ギルド作りました(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】最大経験値２６８５倍！２０２４年金鯖！その１]]></title>
-        <id>https://www.youtube.com/watch?v=vX_x5xPNpsY</id>
-        <link href="https://www.youtube.com/watch?v=vX_x5xPNpsY"/>
-        <updated>2024-07-31T14:33:25.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
