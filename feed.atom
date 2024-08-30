@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T19:15:42.295Z</updated>
+    <updated>2024-08-30T19:27:54.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -999,6 +999,15 @@ Gvで使用する主なスキル
         <id>https://www.youtube.com/watch?v=ZIHD7WK2ZFY</id>
         <link href="https://www.youtube.com/watch?v=ZIHD7WK2ZFY"/>
         <updated>2024-08-02T12:16:39.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年も!!金鯖！！復帰さん！最初は毒悪魔がいいよ！しらんけどｗ]]></title>
+        <id>https://www.youtube.com/watch?v=4JEuUsbrEGM</id>
+        <link href="https://www.youtube.com/watch?v=4JEuUsbrEGM"/>
+        <updated>2024-08-01T20:28:39.000Z</updated>
         <author>
             <name>ひさプッチ</name>
         </author>
