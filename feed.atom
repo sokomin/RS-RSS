@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-31T01:26:49.351Z</updated>
+    <updated>2024-08-31T02:32:08.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1010,16 +1010,6 @@ Gvで使用する主なスキル
         <updated>2024-08-01T20:28:39.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[３秒ルールと姫Gディスコからの金サバ姫Gさらには！]]></title>
-        <id>http://rinsmile.blog70.fc2.com/blog-entry-1130.html</id>
-        <link href="http://rinsmile.blog70.fc2.com/blog-entry-1130.html"/>
-        <updated>2024-08-01T13:45:48.000Z</updated>
-        <summary type="html"><![CDATA[世の中には３秒ルールと呼ばれるものがあります最も有名なのは『バスケでオフェンス中に適用されるルール』ですが他にも『食べ物を落とした時に３秒以内に拾えば食べられる』などがありますねそしてなんと最近新たな３秒ルールを発見しました！なのですよ！！（ルールじゃなくてレシピかな？）※参考：ネットで見つけた記事（スマホでネット閲覧中に見つけて、いまPCで再検索してるんだけど元ネタがどれかわからなくなったので・・]]></summary>
-        <author>
-            <name>リン・ドール</name>
         </author>
     </entry>
     <entry>
