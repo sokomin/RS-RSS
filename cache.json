@@ -145,18 +145,7 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=ZIHD7WK2ZFY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZIHD7WK2ZFY",
-          "publishedOn": "2024-08-02T12:16:39.000Z",
-          "wordCount": null,
-          "title": "今年も!!金鯖！！マスケ改変したけどまったくしらん配信",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "無職と美学とシュルレアリスム",
@@ -883,6 +872,16 @@
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
         {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/2087d9a4b9b5c8009aeba9da4f0beb36",
+          "author": null,
+          "description": "9月になりました。\n\n\n知識ID\n\n\n今回物理IDは知識槍が頑張りましたね。\n知識IDは姫かな？狩場の関係でしょうか。どっちも同じ深淵の地底湖外郭だし。\n\n\nさて、9月はどうでしょうか。\nまだ体調が本調子ではなく、入院の話もあるので記事が書けないかもしれません。\nまぁその時はその時ですね。\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/2087d9a4b9b5c8009aeba9da4f0beb36?fm=rss",
+          "publishedOn": "2024-09-01T00:00:00.000Z",
+          "wordCount": 1389,
+          "title": "2024.8月のドロップ～♪",
+          "imageUrl": "https://blogimg.goo.ne.jp/user_image/4f/2e/c8cd5775abf3f568bd0e168d11405fc1.png"
+        },
+        {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/942bb2838da5db55e8b6e6c25d383159",
           "author": null,
           "description": "8月も終わりですね。\n\n\n\n\n\n\n\n\n(2)ログインチェックイベント\n\n6月20日メンテ後から7月18日10時まで\n(4)累計ログインイベント\n\n6月20日メンテ後から6月30日23時59分まで\n(2)チュートリアル支援\n\n6月20日メンテ後から6月30日23時59分まで\n\nこの他のイベントとして\n○GoldEx Worldハンティングイベント\n○チャットバフイベント\n○ホットタイムイベント\n8月3日から8月18日まで\n\n6月24日0時から7月14日23時59分まで\n\n6月24日0時から7月14日23時59分まで\n○RAD STONE PASS\n5月23日メンテ後から7月25日メンテ前まで\n(1)RED's Roulette\n\n8月9日メンテ後から9月6日メンテ前まで\n\n\nイベントとは異なるかもしれませんがこちらも。\n「育(19)の日イベント」\n「Daily Reward」\n\n\n\n\n\n\n\n\n\n\n\n7月25日メンテ後から9月19日メンテ前まで\n\n\nさて、今週もまったり頑張りましょうｗ\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
@@ -997,6 +996,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-976.html",
+          "author": "medaka1985",
+          "description": "おはようございます。クロネの宝石箱からです。攻城戦の結果です。ヤティカヌの狩り風景です。メインシーフ、1361Lv到達です。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-976.html",
+          "publishedOn": "2024-09-01T00:23:48.000Z",
+          "wordCount": null,
+          "title": "攻城戦。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-975.html",
           "author": "medaka1985",
