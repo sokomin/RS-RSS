@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-02T02:59:18.721Z</updated>
+    <updated>2024-09-02T03:25:34.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1025,16 +1025,6 @@ Gvで使用する主なスキル
         <summary type="html"><![CDATA[今年は、キャラ作成すると冒険コイン100枚とランディスクッキーが400個貰える。コインは銀行不可だけど、お守りや異界強化石に交換すると銀行可になるため、オプション貼り付けやポーションが自力調達出来て少し楽。序盤はキャラ作成、お守りとクッキー回収、キャラデリ、キャラ作成という所謂リセマラを頑張って小銭を稼ぐ人も多かったが、今はもう皆んなリセマラやってるからか、お守り代行の需要も比率くらいしかない。お守りも]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖、金の硬貨。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-950.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-950.html"/>
-        <updated>2024-08-03T15:01:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。金の硬貨ランダムボックスが欲しい…。冒険家支援パッケージからです。顧客ランクを上げます。ランク2で大丈夫です。オプション魔法のお守り箱。18個まで交換可です。お守り箱、開封です。※ここからは自己責任でお願いします。この魔法のお守り、ご存じの通り銀行取引可能です。つまり、使えるお守りを銀行に入れて、キャラを消して、新キャラでお守りを厳選して、銀行に入れて…。大漁のOP魔法のお守り箱がゲット出来ま]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
