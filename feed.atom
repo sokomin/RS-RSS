@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-02T14:33:58.425Z</updated>
+    <updated>2024-09-02T14:47:37.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[神聖な試験。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-977.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-977.html"/>
+        <updated>2024-09-02T14:43:48.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。お久しぶりです。週一のお楽しみです(*'▽')。良いの引きました！(/・ω・)/サブのビーストテイマーの天上報酬です。神様の試験と間違えましたヽ(・ω・)/ｽﾞｺｰ。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[少女のための鎮魂歌]]></title>
         <id>kaze.gg-blog.com://entry/198</id>
