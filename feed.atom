@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-03T14:47:56.006Z</updated>
+    <updated>2024-09-03T15:21:08.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[量産化の準備へ！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-436.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-436.html"/>
+        <updated>2024-09-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[あと２週間ほどで金鯖も終わりになりますが金鯖がおわったらネクロ改変が来るのかな？と思っています。この改変時には限界突破の改変も同時に行われると思ってるのでオオカミ少年にとって良い改変なのか悪い改変になるのかはいまのところ分からないのですがとりあえずわたしはもう少しネクロを増やしたい…と思っていました＾＾；ストレンジコンジュラーはオオカミ少年でその辛さが身に染みてるのでそれを増やすのはどうかな…と思う]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夏の終わり。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-978.html</id>
