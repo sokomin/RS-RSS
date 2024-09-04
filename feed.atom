@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-04T14:47:36.598Z</updated>
+    <updated>2024-09-04T15:21:34.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ファーストステップのために]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409040001/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409040001/"/>
+        <updated>2024-09-04T14:57:54.000Z</updated>
+        <summary type="html"><![CDATA[​↑この足を有効活用するには、最大CPを5万に増やさなければなりません。そこで、装備をいくつかいじりました。まず、↓この耳の自リロを解除してCP効率を付与しました。魔力吸収を使っているので、自リロなしでも...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運命のルーレット。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-979.html</id>
