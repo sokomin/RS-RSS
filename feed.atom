@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T15:47:43.830Z</updated>
+    <updated>2024-09-05T16:25:32.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハートを盗むひと]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-982.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-982.html"/>
+        <updated>2024-09-05T16:06:14.000Z</updated>
+        <summary type="html"><![CDATA[V鯖の「☆恋ドロボー☆」さんを描かせていただきました。遅くなってしまってごめんなさい。先日ゲーム内でお声をかけてくださった方なのですが、2年ほど前に復帰されたとのこと。懐かしくも嬉しい再会でした。恋さんとはかなり昔にお話させていただいた記憶があって、お名前はよく覚えておりました。(多分2015年あたりではと……SSを辿ってみたのですが、はっきりしたことまでは判明せず恐縮です)今回イラスト化を快諾いただきまして、]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.9.5 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/880ae65bdd65ffbc8c50d5ef9f03fbbd</id>
