@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-07T08:47:26.056Z</updated>
+    <updated>2024-09-07T09:20:03.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[山口さんの柱]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-223.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-223.html"/>
+        <updated>2024-09-07T09:15:21.000Z</updated>
+        <summary type="html"><![CDATA[ディメンションハブに通っているのにエーテルマキナが増えていないことに気づき、再度確認してみたら、適正レベル帯が上がったのを見落としていました。爆速レベルアップで各キャラのレベルが把握できなくなっています。そんなわけで新たなディメンションハブにやってきました。第三の猫です。山口さんの柱を触って入るタイプですね。それではいってきます。マップはご覧の通りです。討伐数は少なめ。最奥にあるポータルから、入口]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハートを盗むひと]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-982.html</id>
