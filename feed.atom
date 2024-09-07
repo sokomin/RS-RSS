@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-07T12:34:55.654Z</updated>
+    <updated>2024-09-07T12:58:21.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[姫装備の取得原価について]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409070000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409070000/"/>
+        <updated>2024-09-07T12:46:25.000Z</updated>
+        <summary type="html"><![CDATA[​​バルザミヌはサブIDのキャラであり、稼働している4キャラの中で一番新しいです。（今年の5月末に作成したので、作成してから3ヵ月半しか経っていない）サブキャラの狩り装備にどれくらいのお金を使うかは人それ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[山口さんの柱]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-223.html</id>
