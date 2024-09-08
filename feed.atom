@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-08T14:47:49.215Z</updated>
+    <updated>2024-09-08T15:20:59.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[健康診断]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-868.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-868.html"/>
+        <updated>2024-09-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日会社の健康診断で病院に行ってきました尿検査時、コップ満タンにして怒られたのは言うまでも有りません注射が苦手な私は今回も当然採血時に泣きましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港(ホンコン)旅行。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-981.html</id>
@@ -1104,27 +1114,6 @@ Gvで使用する主なスキル
         <summary type="html"><![CDATA[こんばんは。銅の硬貨10枚と交換です。結果↓チャームクエNPC隣のロマさんの会話。3)辛辣過ぎです(笑)そりゃ怒ります(;´･ω･)。ハイランダー隊長の台詞です(意味深)。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖2024！]]></title>
-        <id>https://wh-rs.jugem.jp/?eid=342</id>
-        <link href="https://wh-rs.jugem.jp/?eid=342"/>
-        <updated>2024-08-10T02:48:00.000Z</updated>
-        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
-
-
- 
-
- 
-
- 
-
-半年ぶりくらいでしょうか・・・お久しぶりです！！
-
-お正...]]></summary>
-        <author>
-            <name>亜鬼にゃん</name>
         </author>
     </entry>
     <entry>
