@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-09T14:47:45.971Z</updated>
+    <updated>2024-09-09T15:21:47.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[装備強化、BURSTイベント。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-982.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-982.html"/>
+        <updated>2024-09-09T14:53:39.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。シティウォカーは上がり続ける様です。イベント中のスフィアキャンペーンです。良い感じです(*'▽')。余った壺を捧げました。残念！最近、好調のタビアクート。(・∀・)ｲｲﾈ!!完全封印解放道具箱です。１１%引きました(^^♪BURSTキャンペーンの恩恵かな？応援、ありがとうございます！いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[健康診断]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-868.html</id>
