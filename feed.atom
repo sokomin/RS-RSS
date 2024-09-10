@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-10T14:48:41.279Z</updated>
+    <updated>2024-09-10T15:21:05.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[程なく。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-437.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-437.html"/>
+        <updated>2024-09-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年の金鯖もあと1週間ちょっととなりました。わたしは金鯖支部長をしてるじぇんど‐ひの育成で精いっぱいだったのでこれを最近やっと5転させました＾＾；他のかたたちから見るとかなり遅いでしょうがこれで精いっぱいです＾＾；いま金鯖ではほとんどこれだけ動かしていて他のキャラたちはデイリーしたり他Gキャラはたまに様子を見に行くくらいで積極的に活動していなかったりします＾＾；ちなみに毒悪魔で育てていたじぇんど‐ふは1]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[装備強化、BURSTイベント。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-982.html</id>
