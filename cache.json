@@ -324,6 +324,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1008.html",
+          "author": "JEFRY",
+          "description": "遂にアップデートされた模様。順当にいけば年明けには日本に適用されるだろう。内容的には、いくつか想定していたものの１つで、驚愕の新システムなんてサプライズは無かった。オムニというコンテンツが実装されるらしいけど、中身はDIABLO、Path of Exileのエンドコンテンツを真似たもので、馴染みがある人も多いのではなかろうか。イメージ的には「スキルが蜘蛛の巣みたいなツリー状に紐付いている」感じで、複雑であればある程",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1008.html",
+          "publishedOn": "2024-09-11T03:23:36.000Z",
+          "wordCount": 555,
+          "title": "【REDSTONE】Lv2000コンテンツについて",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1007.html",
           "author": "JEFRY",
           "description": "新チュートリアルが実装されてから、野良での精鋭討伐PTにLv1250(Lv1255未満)が増えており、全員Lv1250キャラのケースも少なくない。8名が全てLv1250の場合、第一形態をクリアするためにSGが4つ必要なケースが多く、第二形態をクリア出来ないことがある。また、SG連携が巧く出来ず、SGを途切れさせてのPT崩壊もよくある。あくまで個人の見解だが、PTを募集する以上、目的を達成することを前提に加入者を見極め、PTメンバに指示を出",

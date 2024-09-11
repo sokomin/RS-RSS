@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T02:57:38.920Z</updated>
+    <updated>2024-09-11T03:24:21.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】Lv2000コンテンツについて]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1008.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1008.html"/>
+        <updated>2024-09-11T03:23:36.000Z</updated>
+        <summary type="html"><![CDATA[遂にアップデートされた模様。順当にいけば年明けには日本に適用されるだろう。内容的には、いくつか想定していたものの１つで、驚愕の新システムなんてサプライズは無かった。オムニというコンテンツが実装されるらしいけど、中身はDIABLO、Path of Exileのエンドコンテンツを真似たもので、馴染みがある人も多いのではなかろうか。イメージ的には「スキルが蜘蛛の巣みたいなツリー状に紐付いている」感じで、複雑であればある程]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[程なく。]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-437.html</id>
