@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-13T13:47:28.669Z</updated>
+    <updated>2024-09-13T14:18:15.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1104,16 +1104,6 @@ Gvで使用する主なスキル
         <summary type="html"><![CDATA[金鯖は、復帰者や既存プレイヤーのサブキャラ育成に大きく貢献している。ただし、通常鯖と装備やゴールドを共有出来ないため、金鯖用に装備を調達する必要があり、ライト層には厳しい環境にある。今回はリセマラでお守りや異界強化石を量産出来るため、狩りそっちのけでリセマラによるゴールド稼ぎを頑張っている人もおり、ある意味でライト層の救済措置になっている。とはいえ、装備調達のハードルが高いことには変わりなく、知識]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヤティカヌクエスト。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-960.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-960.html"/>
-        <updated>2024-08-15T02:06:40.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。スタイリッシュなコスチュームです。特別なキャンディ(ヴェルタースオリジナル)。クリア報酬です(*'▽')。お守りの欲張りセット。メインシーフ、1351Lv突入です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
