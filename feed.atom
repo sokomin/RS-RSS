@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T12:36:16.288Z</updated>
+    <updated>2024-09-14T12:59:31.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[月光彫刻師 新鯖を少し遊んでみた]]></title>
+        <id>https://www.youtube.com/watch?v=ACHKniPllk4</id>
+        <link href="https://www.youtube.com/watch?v=ACHKniPllk4"/>
+        <updated>2024-09-14T12:55:37.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[結局、混沌指はダメージに変更しました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409140000/</id>
