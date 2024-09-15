@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-15T13:00:42.058Z</updated>
+    <updated>2024-09-15T13:25:30.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[見込み違い]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/79cc94d2e25c09d3456feffa56dbee3c</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/79cc94d2e25c09d3456feffa56dbee3c?fm=rss"/>
+        <updated>2024-09-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[３連休中日です。
+
+800後半になってしまった＠ｗ＠
+
+ギルド倉庫が万病と心臓で埋まりましたｗ
+※心臓はちまちま自力で集めていますｗ
+ここにうつっているのは購入した一部で、他はクエやっているキャラや銀行に保管してあります。
+とりあえず倉庫がいっぱいになったので露店での募集は一休み。
+空きができたらまた購入看板出したいと思います。
+見かけたら耳をいただければ幸いです。
+
+売ってくださった方々、本当にありがとうございました。
+
+
+休みも＠１日。
+まぁ来週もまた３連休ですけど。
+貴重な休みを有意義に過ごしたいと思います。
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[月光彫刻師 新鯖を少し遊んでみた]]></title>
         <id>https://www.youtube.com/watch?v=ACHKniPllk4</id>
