@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-15T23:31:44.567Z</updated>
+    <updated>2024-09-15T23:47:42.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1141,16 +1141,6 @@ Gvで使用する主なスキル
         <summary type="html"><![CDATA[こんばんは。神々しいコスチュームです。難しいに挑戦します。最初の試練、HPの多いmobがたくさんです。次に真っ暗な迷路です。最後にボス(不吉な巨大花)です。ギリギリで何とかクリアです！報酬のエフェクトです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ちょっと麻雀の調子が上向いてきたかも]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202408170000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202408170000/"/>
-        <updated>2024-08-17T11:37:20.000Z</updated>
-        <summary type="html"><![CDATA[少し前までトップが全然取れず最悪な状態でしたが、最近少し良い感じです。あ、また麻雀の記事になってしまいましたね＾＾；RSの記事は、また気が向いたときに・・ｗ]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
