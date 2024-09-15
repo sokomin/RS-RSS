@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-15T14:47:40.979Z</updated>
+    <updated>2024-09-15T15:19:14.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[19日まであと少し]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-869.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-869.html"/>
+        <updated>2024-09-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今週は休みの日の予定が全て子供と私の病院で埋まっていてなかなかハードな一週間でしたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[見込み違い]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/79cc94d2e25c09d3456feffa56dbee3c</id>
