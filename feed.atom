@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-16T03:49:44.867Z</updated>
+    <updated>2024-09-16T04:24:50.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[霊術の狩り装備]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409160000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409160000/"/>
+        <updated>2024-09-16T03:52:35.000Z</updated>
+        <summary type="html"><![CDATA[次回アプデに向けて霊術の装備も調整しているので載せていきます。※霊術と物理弓で共用で使っている装備はありません。今回載せるのは全て霊術専用の装備です。・耳いきなり最初から揚げ足を取られそうな装備を載...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダークゲーマー　月光彫刻師　3鯖　何も分からない新規さん向けLV1～育成配信]]></title>
         <id>https://www.youtube.com/watch?v=s8LgewzPCZ8</id>
