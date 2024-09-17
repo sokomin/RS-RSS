@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-17T17:18:34.171Z</updated>
+    <updated>2024-09-17T17:33:28.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[S鯖ギルド「旅の途中」紹介　メンバー募集]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202409180000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202409180000/"/>
+        <updated>2024-09-17T17:26:36.000Z</updated>
+        <summary type="html"><![CDATA[​​​​​​2024年9月19日（木）に今年のきんさばも終了します|:3ミ「旅の途中」の新GMたいやきあんこ氏から「ブログ更新しろ、Gの募集と紹介しろ。」と圧をかけられて、中身の餡が飛び出しそうなので更新します( ;∀;)...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超越『楔』を+5に特殊強化しました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409180000/</id>
