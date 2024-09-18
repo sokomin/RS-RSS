@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T13:47:44.172Z</updated>
+    <updated>2024-09-18T14:19:17.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】精鋭討伐(タビアクート)PT参加のキャラ職別印象]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1009.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1009.html"/>
+        <updated>2024-09-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[精鋭討伐PTメンバが全て促成栽培キャラ(新チュートリアルで育成した装備不十分なキャラ)の場合、クリアの難易度がかなり高くなる。チュートリアルクエストの特性上、範囲狩りが得意なキャラ職が促成栽培には人気だが、範囲狩りが得意なキャラはボス戦に不向きなことが多いため、事前にボス戦用装備やスキルを準備しておかないとPTのお荷物になる可能性が高い。自分にもボス戦で火力を出しづらい持ちキャラがおり、ギルドの定期便で]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジャガーさん。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-987.html</id>
