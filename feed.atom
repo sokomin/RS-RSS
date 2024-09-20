@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T13:04:07.681Z</updated>
+    <updated>2024-09-20T13:34:12.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ネクロ改変　R6.9.19]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202409200000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202409200000/"/>
+        <updated>2024-09-20T13:33:10.000Z</updated>
+        <summary type="html"><![CDATA[2024年　9月　19日（木）​ネクロマンサー改変​​​​​​​​​​ついに改変が来ましたので、スキルの紹介を行います。​〇ストレンジコンジュ―ラー​簡単に言うと本体の致命打確率　→　召喚獣の魔法致命打確率本体の致命ダ...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[毎度お久し振り]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1280.html</id>
