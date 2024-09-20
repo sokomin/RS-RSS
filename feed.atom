@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T09:48:11.630Z</updated>
+    <updated>2024-09-20T10:21:36.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[毎度お久し振り]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1280.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1280.html"/>
+        <updated>2024-09-20T10:07:32.000Z</updated>
+        <summary type="html"><![CDATA[だいぶ更新する気ないのを自覚してのお久し振りです。金鯖終了してメンテ後に臨時メンテ入って今日の昼頃に臨時メンテ終わってたようですね。昨日、お風呂の後にログインしようと金鯖から鯖移行して名前決めてる最中に臨時メンテで弾かれて結局ログインできませんでした。さてさて、それはそれとして予想通りではあったんですがアップデート来てましたね。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..ネクロマンサー改変☆.。.:*]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダークゲーマー　月光彫刻師　3鯖　何も分からない新規さん向けLV1～育成配信 パート4  LV49～]]></title>
         <id>https://www.youtube.com/watch?v=0ClmkF6nt0Y</id>

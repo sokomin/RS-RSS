@@ -382,7 +382,18 @@
       "title": "のんびりまったり",
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1280.html",
+          "author": "クレリューフ",
+          "description": "だいぶ更新する気ないのを自覚してのお久し振りです。金鯖終了してメンテ後に臨時メンテ入って今日の昼頃に臨時メンテ終わってたようですね。昨日、お風呂の後にログインしようと金鯖から鯖移行して名前決めてる最中に臨時メンテで弾かれて結局ログインできませんでした。さてさて、それはそれとして予想通りではあったんですがアップデート来てましたね。☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆*:..ネクロマンサー改変☆.。.:*",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1280.html",
+          "publishedOn": "2024-09-20T10:07:32.000Z",
+          "wordCount": 658,
+          "title": "毎度お久し振り",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "今日のアリアン",
