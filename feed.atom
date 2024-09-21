@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T11:27:29.079Z</updated>
+    <updated>2024-09-21T11:47:54.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ざっくり紹介終了]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1284.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1284.html"/>
+        <updated>2024-09-21T11:28:41.000Z</updated>
+        <summary type="html"><![CDATA[という事で改変後の各覚醒タイプを簡単に紹介しておきました。紹介していない通常スキルに関してはどうしようかなと考え中です。使えそうな通常スキルはありましたけどね。攻城戦でなら無気力化なんかは良さそうなスキルでしたし。とりあえず今回は覚醒タイプのざっくり紹介のみで。通常スキルはその気があれば後日したいと思います。]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[改変後デモニックチューナー]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1283.html</id>
