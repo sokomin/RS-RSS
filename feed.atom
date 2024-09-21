@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T05:19:50.071Z</updated>
+    <updated>2024-09-21T05:36:14.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[希望のアプデと金鯖結果]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-224.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-224.html"/>
+        <updated>2024-09-21T05:19:03.000Z</updated>
+        <summary type="html"><![CDATA[金鯖が終わりアプデが来ました。今回はそれぞれの結果を見ていきたいと思います。第三の猫がお送りします。アプデの目玉は『ネクロ改変』ですが、私の所持キャラで影響があるのは毒悪魔くらいなので、ステータススキルを振りなおして、ネクロスキルをチラ見する感じにします。なんだか違和感がありますね。・・・アプデでペットが逃げました！はい。どうやらネクロのペットは召喚獣になったみたいです。さっそく召喚してみます。Se]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネクロの覚醒 －ウィキッドサイコロジスト－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/39c50a38d1625bf097f605bfd408b569</id>
