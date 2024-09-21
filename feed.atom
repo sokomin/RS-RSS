@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T22:33:47.811Z</updated>
+    <updated>2024-09-21T22:47:35.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1251,16 +1251,6 @@ Gvで使用する主なスキル
         <summary type="html"><![CDATA[火強化クレストを外して、紫スロットに魔法限界ダメ４％クレストを付けました。さらに、3解放のＴ知識皆既日食を向上した解放箱で4解放にしました。※向上したやつなのに１回失敗したけどね＾＾；というわけで、T...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〆イワシ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-968.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-968.html"/>
-        <updated>2024-08-23T10:39:03.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。旨味のあるトロっとした食感で美味しいです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
