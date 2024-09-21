@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T20:47:47.106Z</updated>
+    <updated>2024-09-21T21:17:45.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今回の物理改変は]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409220000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409220000/"/>
+        <updated>2024-09-21T21:00:35.000Z</updated>
+        <summary type="html"><![CDATA[コラプを持っていない人にとっては、ほぼ横ばいか下手をすると弱体化です。限界突破の仕様が、これまでの白ダメ固定から限界ダメ5％に変更になりました。これに伴い物理コラプの仕様が、限界ダメ10％加算に変更に...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ざっくり紹介終了]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1284.html</id>
