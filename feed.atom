@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T23:47:44.130Z</updated>
+    <updated>2024-09-22T01:44:42.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ネクロの覚醒 －デモニックチュナー－]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/6680d90517825c7ad95d9152980c7b1a</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/6680d90517825c7ad95d9152980c7b1a?fm=rss"/>
+        <updated>2024-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[3連休は暑いとの予報でしたが、反して昨日は涼しかった。
+「ネクロマンサー改変」がありました。
+
+覚醒タイプは「デモニックチュナー」
+
+「血の繋がり」
+
+専用強化スキルは「デビルイリュージョン」
+
+ネクロの後ろに幻影が現れました。
+
+強化スキルの１つは「ダメージカット」
+
+使用するとオレンジ色のほわほわした球体が表示されます。
+
+もう１つの強化スキルは「陰謀の影」
+
+範囲系です。
+
+ちなみに「死霊術」もとってみました。
+
+青幽霊が召喚されました。
+力さほど降っていませんが、多少の火力にはなりそうです。
+
+素がバインド悪魔で、そのままの装備で覚醒したので火力は微妙です。
+覚醒スキル以外にも低下系スキルがあるので、うまく活用すれば火力稼げるかな？
+ちょっと遊んだらバインド悪魔に戻ろうと思います。
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今回の物理改変は]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409220000/</id>
