@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-22T09:47:33.275Z</updated>
+    <updated>2024-09-22T10:19:44.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ミニペットのロジック。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-991.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-991.html"/>
+        <updated>2024-09-22T09:56:36.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。何と交換できるのかな？ミニPシステムが強化です。メインシーフ、1368Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネクロの覚醒 －デモニックチュナー－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/6680d90517825c7ad95d9152980c7b1a</id>
