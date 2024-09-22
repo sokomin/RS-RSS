@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-22T06:48:16.641Z</updated>
+    <updated>2024-09-22T07:18:14.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1287,16 +1287,6 @@ Gvで使用する主なスキル
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メイド装備仕上げ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202408240000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202408240000/"/>
-        <updated>2024-08-23T19:04:41.000Z</updated>
-        <summary type="html"><![CDATA[火強化クレストを外して、紫スロットに魔法限界ダメ４％クレストを付けました。さらに、3解放のＴ知識皆既日食を向上した解放箱で4解放にしました。※向上したやつなのに１回失敗したけどね＾＾；というわけで、T...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
