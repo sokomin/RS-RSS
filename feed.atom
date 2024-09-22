@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-22T13:47:41.038Z</updated>
+    <updated>2024-09-22T14:16:58.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1252,16 +1252,6 @@ Gvで使用する主なスキル
         <summary type="html"><![CDATA[こんばんは。愛くるしいコスチュームです。スキルポイント、使い切りです。ドキドキ…。鏡チャレンジ、弱いです(笑)メインシーフ、1358Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ケモ牧場と本物の水着]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-222.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-222.html"/>
-        <updated>2024-08-24T01:48:37.000Z</updated>
-        <summary type="html"><![CDATA[30度を超えていない日を知らないこの夏も、いつかは別れの日が来るのだと思えば乗り越えられる。第三の猫です。なんでその日が今日じゃないのでしょうね。さて、金鯖でうすあじがいい感じのおみやげUMUを拾っていた頃。本鯖では第三の猫が、石ころを拾っていました。これは狩場を変えてみた方がよさげですね。そういうものですか？そして、えらばれたのは生命の森外郭でした。呪術者さんと生霊さんの色違いモンスターがいます。と]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
