@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-23T02:41:37.376Z</updated>
+    <updated>2024-09-23T03:25:45.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1292,16 +1292,6 @@ Gvで使用する主なスキル
         <link href="https://medaka1985.fc2.net/blog-entry-970.html"/>
         <updated>2024-08-25T13:57:09.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。水着ランサーコスチュームです。高額品、購入です。良い装備です(*'▽')。メインシーフ、1359Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡の魔法書、挑戦！]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-969.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-969.html"/>
-        <updated>2024-08-24T14:58:53.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。愛くるしいコスチュームです。スキルポイント、使い切りです。ドキドキ…。鏡チャレンジ、弱いです(笑)メインシーフ、1358Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
