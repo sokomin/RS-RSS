@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-22T23:47:43.131Z</updated>
+    <updated>2024-09-23T01:39:53.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ネクロの覚醒 －ストレンジコンジュラー－]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/4ad14bbfc6c9b7461c1a866be4924b54</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/4ad14bbfc6c9b7461c1a866be4924b54?fm=rss"/>
+        <updated>2024-09-23T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[腰が痛くなりました。
+「ネクロマンサー改変」がありました。
+
+覚醒タイプは「ストレンジコンジュラー」
+
+「墓の王」
+
+専用強化スキルは「死霊術」
+
+４体召喚。
+
+強化スキルの１つは「不淨な力」
+
+ONにしておくと、一定時間毎にオレンジ色のドクロが現れます。
+
+もう１つの強化スキルは「死の香り」
+
+召喚獣の攻撃命令も兼ねているようで、使用すると周囲のMOB含めてぼこぼこにします。
+
+
+力の振りがまだ低いのでダメは少ないですが、召喚獣がいるので火力は補えます。
+狩場でも狩ってみましたが、個人的には一番使いやすいかな。
+まぁ狩りやすさは個人差があるので、いろいろ試して使いやすい覚醒にするのが良いかと思います。
+私はこれでいきます(o^-')b 
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024年9月アップデート　【限界突破改変等】]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-870.html</id>
