@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T13:47:35.353Z</updated>
+    <updated>2024-09-24T14:18:17.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[精鋭討伐の結果。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-992.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-992.html"/>
+        <updated>2024-09-24T13:59:09.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。守護霊様かな？週一のお楽しみ(*'▽')。大当たりです！メインシーフ、1369Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アチャの火力]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/c1185c8d7f8ca6043afa8ed2d95ac929</id>
