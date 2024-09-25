@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T01:40:52.833Z</updated>
+    <updated>2024-09-25T02:53:31.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1315,16 +1315,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[「RS PASS」で、燃え尽きまして。終了して以降は赤石をお休みしていました。リアルでやりたいことが多すぎるというのもあるのですが、ゲームに毎日ログインというのが気力的にもう無理なようです。ええ、お察しのとおり幻想神域もお休み中です。久しぶりにRSにログインした先日のことです。協会へ寄るとジャストタイムが近かったので、レイドにも行っておこう！と予約して魔法陣の上に座っていました。あ、カメを連れたテイマさん(]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖BOX2024、開封。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-971.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-971.html"/>
-        <updated>2024-08-26T14:18:55.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。金鯖Boxからです。結果↓良い感じです(*'▽')！。こっちはどうかな。なかなかです(/・ω・)/。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
