@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T14:20:22.220Z</updated>
+    <updated>2024-09-25T14:38:44.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】改変ネクロどんな感じ？PART1]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1010.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1010.html"/>
+        <updated>2024-09-25T14:20:51.000Z</updated>
+        <summary type="html"><![CDATA[かなり出遅れた感は否めないが、チュートリアルでLv1250まで育ててみた上での感想、ということでご容赦願いたい。○覚醒タイプストレンジコンジュラー(全体感)いわゆる物理覚醒で、本体+召喚獣で敵を倒すスタイル。このスキルで召喚獣を呼び出す（未覚醒時２体、覚醒時４体）SP30000で召喚獣をパワーアップすることも可能で、デカい骸骨騎士みたいな召喚獣１体になる。物理覚醒といいつつも、物理攻撃は本体のみで、召喚獣は知識依]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夜が来る！]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-993.html</id>
