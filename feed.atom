@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T07:47:59.825Z</updated>
+    <updated>2024-09-25T08:28:39.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1305,16 +1305,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[新チュートリアルが実装されてから、野良での精鋭討伐PTにLv1250(Lv1255未満)が増えており、全員Lv1250キャラのケースも少なくない。8名が全てLv1250の場合、第一形態をクリアするためにSGが4つ必要なケースが多く、第二形態をクリア出来ないことがある。また、SG連携が巧く出来ず、SGを途切れさせてのPT崩壊もよくある。あくまで個人の見解だが、PTを募集する以上、目的を達成することを前提に加入者を見極め、PTメンバに指示を出]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エンカウント]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-981.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-981.html"/>
-        <updated>2024-08-26T20:09:28.000Z</updated>
-        <summary type="html"><![CDATA[「RS PASS」で、燃え尽きまして。終了して以降は赤石をお休みしていました。リアルでやりたいことが多すぎるというのもあるのですが、ゲームに毎日ログインというのが気力的にもう無理なようです。ええ、お察しのとおり幻想神域もお休み中です。久しぶりにRSにログインした先日のことです。協会へ寄るとジャストタイムが近かったので、レイドにも行っておこう！と予約して魔法陣の上に座っていました。あ、カメを連れたテイマさん(]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
     <entry>
