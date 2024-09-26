@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-26T01:38:39.639Z</updated>
+    <updated>2024-09-26T02:40:47.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1305,16 +1305,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[今年の金鯖は9/19までなので残りあと3週間くらいとなりました！あまり金鯖では美味しいことがないためか金鯖してる方もかなり減ってるような感じがしますがわたしが行く狩場（地下墓地B1）はけっこう狩りしてる人がいるのでまだまだ活動してる方はいるほうだと感じています＾＾今年は不人気な金鯖ですが活動してる方は一定数いるので主に金鯖に行く理由がGメン確保のわたしには有能な方たちが本鯖に帰ってるこの状況はもしかして活]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ギルド旗バフ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-972.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-972.html"/>
-        <updated>2024-08-27T13:51:56.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。不思議なコスチュームです。少しずつ育っています。週一のお楽しみです。やったー！(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
