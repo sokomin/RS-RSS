@@ -212,6 +212,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202409260000/",
+          "author": "雷神の弓",
+          "description": "まず、弓用に作ったクリーチャーです。動物＆アンデットは、ウモス用です。神獣+悪魔は、もう少し先の狩り場でそういうとこがあったので、そこ用です。ここまででマナが尽きてしまったので、LRまでの格上げ作業は...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202409260000/",
+          "publishedOn": "2024-09-26T08:29:40.000Z",
+          "wordCount": 1849,
+          "title": "狩り場に合わせたクリーチャーを作成",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/208531ce92ddb9d0675987f7202bf85d89974b06.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202409220000/",
           "author": "雷神の弓",
           "description": "コラプを持っていない人にとっては、ほぼ横ばいか下手をすると弱体化です。限界突破の仕様が、これまでの白ダメ固定から限界ダメ5％に変更になりました。これに伴い物理コラプの仕様が、限界ダメ10％加算に変更に...",
