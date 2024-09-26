@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-26T05:19:58.419Z</updated>
+    <updated>2024-09-26T05:37:30.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】改変ネクロどんな感じ？PART２]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1011.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1011.html"/>
+        <updated>2024-09-26T05:20:08.000Z</updated>
+        <summary type="html"><![CDATA[残り2覚醒の所感(Lv1250チュートリアル途中までの実体験ベース) ※SS無しの文字のみ記事で申し訳ない。○覚醒タイプウィキッドサイコロジスト(全体感)知識覚醒。本体のみで敵を倒すスタイル。特徴は「敵を呪い状態にし、呪い状態の敵であれば他スキルのダメージがアップする。」ところ。呪い状態にするスキルは地面クリックで発動でき、範囲&持続方式で使い勝手がよい。また、呪い状態での各種スキルによる相乗効果が地味に強く、未]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】改変ネクロどんな感じ？PART1]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1010.html</id>
