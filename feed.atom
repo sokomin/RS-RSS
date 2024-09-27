@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-27T13:48:02.155Z</updated>
+    <updated>2024-09-27T14:19:33.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ひとかげ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-995.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-995.html"/>
+        <updated>2024-09-27T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。黒い影です。背伸びして310万ダメージです。メインシーフ、1372Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雷神の弓やめます]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409270000/</id>
