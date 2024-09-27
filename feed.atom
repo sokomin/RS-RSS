@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-27T01:39:35.192Z</updated>
+    <updated>2024-09-27T02:42:18.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】2024/9月の物理限凸改変・獣人ナーフ・サイレントナーフについて]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1012.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1012.html"/>
+        <updated>2024-09-27T02:34:47.000Z</updated>
+        <summary type="html"><![CDATA[色々変わり過ぎてて、モチベ上がった人と下がった人が入り乱れてる。コラプ持ってる人は上がってて、持ってない人は下がってるのかな？自分は持ってないので下がってて、獣人はウポスデイリーで今までの倍以上殴らなきゃ倒せなくなり、デイリー自体をやめた。無双戦士は微風がスタンプワンパンから、白虎、青イグニが狩り残る様になったため、レベリングする気にもなれずデイリーだけやっている。今回の物理限凸改変は、ざっくりい]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UMU ドロップ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-994.html</id>
@@ -1387,16 +1397,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[7・8月は、仕事が忙しかったということもあって、週に1～3日はインしていない日があったりしました。そして、インしても稼働している４キャラのデイリーしかやっていませんでした。デイリークエは”秘密”とか”PTで...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物我一如Nx。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-973.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-973.html"/>
-        <updated>2024-08-28T13:57:06.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。アスレチックなコスチュームです。代行50本で完成です(*'▽')。メインシーフ、1360Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>

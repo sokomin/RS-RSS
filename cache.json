@@ -437,6 +437,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1012.html",
+          "author": "JEFRY",
+          "description": "色々変わり過ぎてて、モチベ上がった人と下がった人が入り乱れてる。コラプ持ってる人は上がってて、持ってない人は下がってるのかな？自分は持ってないので下がってて、獣人はウポスデイリーで今までの倍以上殴らなきゃ倒せなくなり、デイリー自体をやめた。無双戦士は微風がスタンプワンパンから、白虎、青イグニが狩り残る様になったため、レベリングする気にもなれずデイリーだけやっている。今回の物理限凸改変は、ざっくりい",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1012.html",
+          "publishedOn": "2024-09-27T02:34:47.000Z",
+          "wordCount": 544,
+          "title": "【REDSTONE】2024/9月の物理限凸改変・獣人ナーフ・サイレントナーフについて",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1011.html",
           "author": "JEFRY",
           "description": "残り2覚醒の所感(Lv1250チュートリアル途中までの実体験ベース) ※SS無しの文字のみ記事で申し訳ない。○覚醒タイプウィキッドサイコロジスト(全体感)知識覚醒。本体のみで敵を倒すスタイル。特徴は「敵を呪い状態にし、呪い状態の敵であれば他スキルのダメージがアップする。」ところ。呪い状態にするスキルは地面クリックで発動でき、範囲&持続方式で使い勝手がよい。また、呪い状態での各種スキルによる相乗効果が地味に強く、未",
@@ -1386,16 +1396,6 @@
           "wordCount": null,
           "title": "RED’s Roulette♪",
           "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-973.html",
-          "author": "medaka1985",
-          "description": "こんばんは。アスレチックなコスチュームです。代行50本で完成です(*'▽')。メインシーフ、1360Lv到達です。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-973.html",
-          "publishedOn": "2024-08-28T13:57:06.000Z",
-          "wordCount": 1049,
-          "title": "物我一如Nx。",
-          "imageUrl": "https://blog-imgs-174.fc2.com/m/e/d/medaka1985/20240828225414281.png"
         }
       ]
     },
