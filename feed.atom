@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-28T14:48:06.219Z</updated>
+    <updated>2024-09-28T15:22:12.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東京ゲームショウ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-996.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-996.html"/>
+        <updated>2024-09-28T15:01:43.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ｶﾜ(・∀・)ｲｲ!!素敵な景品ですね！残念！相手さんが強かったです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夏が長い→嬉しいこともある]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-984.html</id>
