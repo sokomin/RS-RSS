@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-28T03:04:11.125Z</updated>
+    <updated>2024-09-28T03:37:41.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コラプ槍完成（仮）]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409280000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409280000/"/>
+        <updated>2024-09-28T03:11:20.000Z</updated>
+        <summary type="html"><![CDATA[コラプ槍のことを書く前に、まずクリーチャーの進捗から。先日作成したウモス用クリーチャーを強化していきます。力系で作ってあるので、シッティングダイルの強化値が300→450となって美味しい。↑これでも十分な...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ひとかげ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-995.html</id>
