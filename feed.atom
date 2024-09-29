@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-29T07:29:41.229Z</updated>
+    <updated>2024-09-29T07:47:42.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ランサーコス交換してくれる人いないかな？]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409290000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409290000/"/>
+        <updated>2024-09-29T07:32:59.000Z</updated>
+        <summary type="html"><![CDATA[赤2・青3・紫1の状態で、コス強化はやっていません。対人の知識槍用としては有用なんじゃないですかね？（何度か変換やったけど、資金不足なのでこの状態で妥協しています＾＾；）この槍コスと、赤3・紫1・他ソケ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[悪魔の覚醒 －アンシャストラバー－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/2c343722a1e831739708be0e446ba833</id>
