@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-29T05:34:58.220Z</updated>
+    <updated>2024-09-29T05:47:48.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[悪魔の覚醒 －アンシャストラバー－]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/2c343722a1e831739708be0e446ba833</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/2c343722a1e831739708be0e446ba833?fm=rss"/>
+        <updated>2024-09-29T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[9月も終わりですね。
+
+覚醒タイプは「アンジャストラバー」
+
+「デモンチェイン」
+
+専用強化スキルは「契約破棄」
+
+これは先に魔の約定や血の盟約等契約状態にしておかないと効果がないらしい。
+
+強化スキルの１つは「魂の契約」
+
+先に「魔の約定」を使用しないと発動しないようで、このスキルは必須となるようです。
+
+使用すると名前の上にデバフがつきます。
+
+もう１つの強化スキルは「血の盟約」
+
+「堕魂の契約」と同じようにかけると名前の上にデバフが付きます。
+この状態で「契約再考」を使用するとダメを与えられます。
+
+
+契約スキルは左スキルに入らないようです。
+煉獄ちゃんの話では、狩場でも問題なく狩れるようで装備をそろえればかなり強そうだとか。
+※煉獄ちゃんは毒悪魔装備のまま狩ったそうですが問題なかったみたい
+どの覚醒でも装備はそろえる必要があるかもですねｗ
+聞いている話では私の狩りスタイルにはちょっとあわないようなので、私はバインドか毒悪魔でいきたいなぁ・・・・と思います。
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京ゲームショウ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-996.html</id>
