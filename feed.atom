@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T13:47:51.420Z</updated>
+    <updated>2024-09-30T14:20:12.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[おすすめRSブログ]]></title>
+        <id>kaze.gg-blog.com://entry/200</id>
+        <link href="http://kaze.gg-blog.com/other/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81rs%E3%83%96%E3%83%AD%E3%82%B0"/>
+        <updated>2024-09-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+ 
+
+（=・ω・=）にゃ～
+ 
+
+
+新しい運営になってから
+ 
+
+①Wheel of Fortune’
+ 
+
+②3rdcat
+
+
+③リンズカフェ
+ 
+
+④仔猫のしっぽ
+ 
+
+⑤黒魔がメインですが何か？
+ 
+
+⑥Into the Bag
+ 
+
+⑦JEFRYの悪足掻き
+ 
+
+⑧ミツリンの記録簿
+
+
+⑨曇りのち晴れ４８日
+ 
+
+⑩おっさん、ブログ始めたってよ
+
+
+いつも私のことをサボリ扱いしておきながら
+重罪。
+
+
+どう見ても変態でした。
+
+
+一か月に一度は更新してくださいね！！！＾＾＾＾＾＾＾＾＾＾
+
+
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ランサーの表記と与ダメ]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409300000/</id>
