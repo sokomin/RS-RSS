@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-01T16:27:41.858Z</updated>
+    <updated>2024-10-01T16:51:26.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[かぼちゃプリン。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-999.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-999.html"/>
+        <updated>2024-10-01T16:49:36.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。趣きが有ります。自家製ハンバーグです。ほんのり苦みがあり、最高に美味しいです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[守護霊（？）覚醒]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-440.html</id>
