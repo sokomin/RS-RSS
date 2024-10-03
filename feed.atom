@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-03T13:48:52.094Z</updated>
+    <updated>2024-10-03T14:20:10.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ピクセルコス！]]></title>
+        <id>kaze.gg-blog.com://entry/201</id>
+        <link href="http://kaze.gg-blog.com/status/%E3%83%94%E3%82%AF%E3%82%BB%E3%83%AB%E3%82%B3%E3%82%B9%EF%BC%81"/>
+        <updated>2024-10-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+ピクセルコス！
+
+
+クーポンコード
+GIZJL7TG41FV
+以下、街中とXで見つけたピクセルコス特集
+
+
+ネクロ
+
+
+WIZ
+
+
+アチャ
+
+
+シフ
+
+
+戦士
+
+
+獣人
+
+
+霊術
+
+
+BIS
+
+
+天使
+
+
+テイマ
+
+
+姫
+
+
+メイド
+
+
+リトル
+
+
+
+皆さんも
+かわいいコスで楽しみましょう！
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024.10.2 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/3453b62c73688ff193c873a92a7c0336</id>
