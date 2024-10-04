@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T09:47:42.620Z</updated>
+    <updated>2024-10-04T10:22:55.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新たな光と物理闘士]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-225.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-225.html"/>
+        <updated>2024-10-04T09:58:41.000Z</updated>
+        <summary type="html"><![CDATA[10月に入り、ようやく涼しさがやってきました。彼岸すぎてから咲き出す彼岸花に、夏の罪深さを感じる第三の猫です。新しくなったミニペット画面を触りつつ、とりあえず名前の消えた「うなぎ」に名前をつけなおしました。せっかくなのでシャードを開けてみます。・・・・・・もう出てこないことがネタになっていただけに複雑な気分ですが、念願の光Ｐを手に入れました。さっそくLvをMAXにして、アウグスタへ。。。あっ、ミニペット]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】精鋭キャラ促成栽培は儲かるのか？]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1014.html</id>
