@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-06T14:47:50.529Z</updated>
+    <updated>2024-10-06T15:20:32.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[突入！　ウトバウル湖　　【変身　オーラマスター編】]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-872.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-872.html"/>
+        <updated>2024-10-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[朝晩はだいぶ冷えるようになってきましたねまだ半袖で出勤して頑張っていますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ランサーの進捗状況]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202410060000/</id>
