@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-06T20:47:44.381Z</updated>
+    <updated>2024-10-06T21:18:16.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1705,16 +1705,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[​​バルザミヌはサブIDのキャラであり、稼働している4キャラの中で一番新しいです。（今年の5月末に作成したので、作成してから3ヵ月半しか経っていない）サブキャラの狩り装備にどれくらいのお金を使うかは人それ...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[山口さんの柱]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-223.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-223.html"/>
-        <updated>2024-09-07T09:15:21.000Z</updated>
-        <summary type="html"><![CDATA[ディメンションハブに通っているのにエーテルマキナが増えていないことに気づき、再度確認してみたら、適正レベル帯が上がったのを見落としていました。爆速レベルアップで各キャラのレベルが把握できなくなっています。そんなわけで新たなディメンションハブにやってきました。第三の猫です。山口さんの柱を触って入るタイプですね。それではいってきます。マップはご覧の通りです。討伐数は少なめ。最奥にあるポータルから、入口]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
