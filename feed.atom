@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T22:38:24.737Z</updated>
+    <updated>2024-10-07T22:50:22.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[引退してたわけじゃないよ・・・]]></title>
+        <id>http://kenntatosachiko.blog129.fc2.com/blog-entry-303.html</id>
+        <link href="http://kenntatosachiko.blog129.fc2.com/blog-entry-303.html"/>
+        <updated>2024-10-07T22:42:23.000Z</updated>
+        <summary type="html"><![CDATA[何年ぶりかにブログ更新です。引退してたんじゃくRSはやってるのだけれど、ブログを書くネタがねぇｗでも、これからはおもいだしたら書いてみるかな・・・たぶん(´・ω・｀)]]></summary>
+        <author>
+            <name>デコピー・カエル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筋力集中鍛錬。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1003.html</id>
