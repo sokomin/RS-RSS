@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T23:47:54.307Z</updated>
+    <updated>2024-10-08T01:39:59.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1660,16 +1660,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[先日会社の健康診断で病院に行ってきました尿検査時、コップ満タンにして怒られたのは言うまでも有りません注射が苦手な私は今回も当然採血時に泣きましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港(ホンコン)旅行。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-981.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-981.html"/>
-        <updated>2024-09-08T11:48:34.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。香港のディズニーランドへ。アトラクションが多いです。素敵なお城です。一番ドキドキする乗り物です。帰国ラーメンです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
