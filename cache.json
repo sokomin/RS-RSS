@@ -842,6 +842,16 @@
       "siteUrl": "http://jendoradoo.blog.fc2.com/",
       "articles": [
         {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-441.html",
+          "author": "ジェンド",
+          "description": "改変後のネクロ覚醒の中で使い方に一番悩んでたのがウィキッドサイコロジストです。改変前は恐怖の幻影を主軸とした攻撃でそこから自動で他の呪いスキルが上乗せになっていくものでしたが火力面ではそれほど強いわけではなくて消費も多くネクロ版劣化バインドなのかな？というイメージでしたが改変後のウィキッドはかなり大きな変化をしました！ウィキッドの基本となるのがパッシブスキルの不気味な人形の効果にある呪い系状態異常",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-441.html",
+          "publishedOn": "2024-10-08T15:00:00.000Z",
+          "wordCount": 378,
+          "title": "呪いの覚醒",
+          "imageUrl": null
+        },
+        {
           "id": "http://jendoradoo.blog.fc2.com/blog-entry-440.html",
           "author": "ジェンド",
           "description": "改変前は闇よりの使途の圧倒的な火力で敵を制圧していたデモニックチューナーですが改変後はスキルにかなりの変化がありました。いままでの使途は敵にスキルをかけると数秒後にそれが発動し敵を倒すと周りの敵にもダメージが及ぶという特殊なものでしたが火力がとても高くわたしのような無課金でそれほど良い装備がなくてもカンストが出せちゃうものだったんですけど改変後は目標地点を爆撃できるように変更されて即スキル効果が発",
@@ -1314,6 +1324,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1004.html",
+          "author": "medaka1985",
+          "description": "こんばんは。名作。スパロトの残骸です(;´･ω･)。サブのビーストテイマー、1016Lv到達です。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1004.html",
+          "publishedOn": "2024-10-08T14:50:18.000Z",
+          "wordCount": 1053,
+          "title": "黒い魔界の強化石。",
+          "imageUrl": "https://blog-imgs-174.fc2.com/m/e/d/medaka1985/202410082346071cb.png"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1003.html",
           "author": "medaka1985",
