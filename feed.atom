@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-10T02:42:09.584Z</updated>
+    <updated>2024-10-10T03:25:44.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1700,16 +1700,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[遂にアップデートされた模様。順当にいけば年明けには日本に適用されるだろう。内容的には、いくつか想定していたものの１つで、驚愕の新システムなんてサプライズは無かった。オムニというコンテンツが実装されるらしいけど、中身はDIABLO、Path of Exileのエンドコンテンツを真似たもので、馴染みがある人も多いのではなかろうか。イメージ的には「スキルが蜘蛛の巣みたいなツリー状に紐付いている」感じで、複雑であればある程]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程なく。]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-437.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-437.html"/>
-        <updated>2024-09-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年の金鯖もあと1週間ちょっととなりました。わたしは金鯖支部長をしてるじぇんど‐ひの育成で精いっぱいだったのでこれを最近やっと5転させました＾＾；他のかたたちから見るとかなり遅いでしょうがこれで精いっぱいです＾＾；いま金鯖ではほとんどこれだけ動かしていて他のキャラたちはデイリーしたり他Gキャラはたまに様子を見に行くくらいで積極的に活動していなかったりします＾＾；ちなみに毒悪魔で育てていたじぇんど‐ふは1]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
