@@ -487,6 +487,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1019.html",
+          "author": "JEFRY",
+          "description": "流行り廃りはどんなものにも付き物で、RSにも当然ある。RSも対人戦や狩り効率の面で、いわゆる強キャラが流行り、弱キャラが廃れてしまうのは仕方がないといえる。しかし、弱キャラといわれても見捨てず、あれこれ工夫をして一線級のパフォーマンスを出す人もおり、ゲーマーとして尊敬して止まない。今回(9月)のアップデートでは物理獣人がナーフされ、対人で猛威を奮っていた「斬ってよし、反射してよし」の凶悪獣人はなりを潜め",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1019.html",
+          "publishedOn": "2024-10-10T15:00:01.000Z",
+          "wordCount": 550,
+          "title": "【REDSTONE】流行り廃り",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1018.html",
           "author": "JEFRY",
           "description": "そろそろマジで頼む。まずは軽めのやつから。○天上の鉱床不足ロトからの産出量が減ったため、かなりの品不足状態て、S鯖では40本書い叫びまである。鏡の魔法書失敗時に必ず必要になるため、天上不足で鏡品(鏡で複製し巨商で取引可にする)が高騰している。また、自分用の鏡チャレンジも、天上が高価だと躊躇し、装備改良が滞ってモチベダウン。(求める対策)・ログキャン等による配布(取引不可でも構わない)・ロトの星１、スクラッチ",
@@ -1354,6 +1364,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1006.html",
+          "author": "medaka1985",
+          "description": "こんばんは。気品あるコスチュームです。ずっと欲しかったHPバーです。(・∀・)ｲｲﾈ!!天上100%ペナルティです(高い)。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1006.html",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": null,
+          "title": "金鯖HPバー。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1005.html",
           "author": "medaka1985",
