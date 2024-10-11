@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T05:37:27.964Z</updated>
+    <updated>2024-10-11T05:49:33.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ちりも積もればタトバ山]]></title>
+        <id>kaze.gg-blog.com://entry/203</id>
+        <link href="http://kaze.gg-blog.com/quest/%E3%81%A1%E3%82%8A%E3%82%82%E7%A9%8D%E3%82%82%E3%82%8C%E3%81%B0%E3%82%BF%E3%83%88%E3%83%90%E5%B1%B1"/>
+        <updated>2024-10-11T05:39:10.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+
+
+次はサバイバルLv2取得
+え！？
+通常の称号クエストじゃ無理だよね！？
+
+
+会長もイメチェンしたんですね
+
+
+ハイムダルから手紙を受け取り天上へ
+
+
+ちなみに、このビフレスト橋
+
+
+渡ろうとしても戻される橋ですが、頑張れば渡れます
+
+
+
+ 
+
+うおおおおお
+
+
+あれ？天上秘密に直通になったんだ…
+
+
+
+あれ？
+
+
+
+ 
+
+無事にサバイバルLv2になりました
+
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】流行り廃り]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1019.html</id>
