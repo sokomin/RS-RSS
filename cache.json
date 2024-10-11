@@ -497,6 +497,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1022.html",
+          "author": "JEFRY",
+          "description": "つい先日、ハイブリッドスタイルを勧めておいて何だが、無双戦士をLv1500にしたら物理剣士に再振りしようとおもう。理由は、タビアやスザル等のボスに火力を出したいから。無双戦士、狩りでは強いんだけど単体相手はイマイチで、ずっとストレスだった。物理剣士は狩りがキツいらしいけど、レベリング止めるし思い切って再振りしようと思う。幸い、クリーチャーはそのまま使えるし(敵致命減、ダブクリ、最終ダメの王道構成)、装備も",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1022.html",
+          "publishedOn": "2024-10-11T22:44:58.000Z",
+          "wordCount": 556,
+          "title": "【REDSTONE】鋼の剣士に俺はなる！",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1019.html",
           "author": "JEFRY",
           "description": "流行り廃りはどんなものにも付き物で、RSにも当然ある。RSも対人戦や狩り効率の面で、いわゆる強キャラが流行り、弱キャラが廃れてしまうのは仕方がないといえる。しかし、弱キャラといわれても見捨てず、あれこれ工夫をして一線級のパフォーマンスを出す人もおり、ゲーマーとして尊敬して止まない。今回(9月)のアップデートでは物理獣人がナーフされ、対人で猛威を奮っていた「斬ってよし、反射してよし」の凶悪獣人はなりを潜め",
@@ -1273,16 +1283,6 @@
           "wordCount": 1397,
           "title": "見込み違い",
           "imageUrl": "https://blogimg.goo.ne.jp/user_image/2c/03/4b0f30492812dadef3821c0cadcdb232.png"
-        },
-        {
-          "id": "https://blog.goo.ne.jp/sizuku-mo/e/e492d4e57d579bc751727351eb222044",
-          "author": null,
-          "description": "今日も暑いですね。\n\n\n\n\n\n\n\n(2)ログインチェックイベント\n\n6月20日メンテ後から7月18日10時まで\n(4)累計ログインイベント\n\n6月20日メンテ後から6月30日23時59分まで\n(2)チュートリアル支援\n\n6月20日メンテ後から6月30日23時59分まで\n\nこの他のイベントとして\n○GoldEx Worldハンティングイベント\n○チャットバフイベント\n○ホットタイムイベント\n8月3日から8月18日まで\n\n6月24日0時から7月14日23時59分まで\n\n6月24日0時から7月14日23時59分まで\n○RAD STONE PASS\n5月23日メンテ後から7月25日メンテ前まで\n\n\nイベントとは異なるかもしれませんがこちらも。\n「育(19)の日イベント」\n「Daily Reward」\n\n\n\n\n\n\n\n\n\n\n\n7月25日メンテ後から9月19日メンテ前まで\n\n\nさて、金サバ終了まであと１週間です。\nといっても今年も金鯖には参加していませんが＾＾；\n金鯖終了後に人が増えるのかどうか疑問ですが、少しは賑やかになるといいですね。\n\n\n\n\n\n\n\n\n\n\nそんな感じで[壁]ω・)ﾉｼｼ",
-          "link": "https://blog.goo.ne.jp/sizuku-mo/e/e492d4e57d579bc751727351eb222044?fm=rss",
-          "publishedOn": "2024-09-12T10:00:00.000Z",
-          "wordCount": 1450,
-          "title": "2024.9.12 イベ更新",
-          "imageUrl": "https://blogimg.goo.ne.jp/user_image/4e/0a/8b714d3d8d8cc91125a5aab97647514d.png"
         }
       ]
     },
