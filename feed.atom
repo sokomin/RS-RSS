@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-12T14:47:39.006Z</updated>
+    <updated>2024-10-12T15:20:28.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ラッキーな瞬間。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1008.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1008.html"/>
+        <updated>2024-10-12T15:01:31.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。サンタさんみたいで可愛いです。フィーバータイムです。メインシーフ、1380Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】鋼の剣士に俺はなる！]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1022.html</id>
@@ -1753,16 +1763,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[こんばんは。物理、限界突破の仕様変更です。５％…5%…5%…。(昔の消費税かな？)チケットイベントも来るようです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次回アプデに向けて弓の装備を見直しました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409130000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409130000/"/>
-        <updated>2024-09-13T02:52:17.000Z</updated>
-        <summary type="html"><![CDATA[弓で使っている狩り装備を、次回のアップデートに備えて少しいじったのでSSを貼っていきます。今までの仕様では、物理職は表記40万程度が上限でした。※40万↑に表記ダメ上げても与ダメは増えず、そこから与ダメを...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
