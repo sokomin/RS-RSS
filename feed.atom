@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-12T07:29:48.370Z</updated>
+    <updated>2024-10-12T07:47:44.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1753,6 +1753,16 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[こんばんは。物理、限界突破の仕様変更です。５％…5%…5%…。(昔の消費税かな？)チケットイベントも来るようです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次回アプデに向けて弓の装備を見直しました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409130000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409130000/"/>
+        <updated>2024-09-13T02:52:17.000Z</updated>
+        <summary type="html"><![CDATA[弓で使っている狩り装備を、次回のアップデートに備えて少しいじったのでSSを貼っていきます。今までの仕様では、物理職は表記40万程度が上限でした。※40万↑に表記ダメ上げても与ダメは増えず、そこから与ダメを...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
