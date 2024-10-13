@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-13T03:48:58.602Z</updated>
+    <updated>2024-10-13T04:24:33.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1773,16 +1773,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <updated>2024-09-14T12:55:37.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[結局、混沌指はダメージに変更しました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409140000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409140000/"/>
-        <updated>2024-09-13T16:21:11.000Z</updated>
-        <summary type="html"><![CDATA[やろうと思ったことは、やってしまった方がすっきりしますね。なかなかダメージを引けなくて、ランプを使って代行もお願いしてやっと付けることができました。これにより完全に物理用の指になりましたが、受け渡...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
