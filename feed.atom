@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-13T23:22:25.372Z</updated>
+    <updated>2024-10-13T23:47:47.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】毎日こつこつ]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1024.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1024.html"/>
+        <updated>2024-10-13T23:22:53.000Z</updated>
+        <summary type="html"><![CDATA[毎日こつこつ、リアルに限らずゲームでも大事なこと。RSでは出張や体調不良時を除き、毎日全キャラにギルドを触らせて、旗箱をもらっている。この箱は銀行経由でアカウント内キャラで共有できるため、1キャラに纏めると大体こんな感じ。旗が育ち切っていると、毎日金箱をもらえる（そうでないと銀箱、銅箱になる）開けると、ランディスクッキーや経験値の実、コクーンや異界強化石等がもらえる。今回はクーンや異界強化石がこのく]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[がんばれオーラマスター　その後]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-873.html</id>
