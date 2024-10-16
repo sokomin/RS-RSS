@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-15T23:47:56.787Z</updated>
+    <updated>2024-10-16T01:41:46.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】幻影の剣士に俺はなる！(目標変更)]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1026.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1026.html"/>
+        <updated>2024-10-16T01:06:53.000Z</updated>
+        <summary type="html"><![CDATA[鋼の剣士には、タンクラッシュ覚醒の「タンククラッシュ」(ダサっw)があり、PVP中もスキルCTが無いと思っていた。がしかし、実はしっかりCTが5秒あることが判明(参考サイトにCTが書かれていないだけだった)鋼の剣士を目標にした理由が、移動スキルにCTが無い(と思っていた)ことだったため、鋼の剣士に覚醒するのはやめて幻影の剣士になろうと思う。しかし、剣士は射程の問題でかなり不利であり(物理剣士衰退の要因)、移動スキルを]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アルビオンオンライン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1011.html</id>
