@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-16T04:25:26.820Z</updated>
+    <updated>2024-10-16T04:48:40.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1767,16 +1767,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <updated>2024-09-17T12:33:18.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[焼き鳥講座]]></title>
-        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202409130000/</id>
-        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202409130000/"/>
-        <updated>2024-09-16T16:45:01.000Z</updated>
-        <summary type="html"><![CDATA[どうも。ネクロ改変前に悪魔の事を書こうと思ってSSとかたくさん撮ってたのですが、、、こうなりましたので。焼き鳥講座になります。スマホからの更新中なので少しへたくそかもです💦◯準備物・食材ブログ用に1人...]]></summary>
-        <author>
-            <name>たつ2307</name>
         </author>
     </entry>
     <entry>
