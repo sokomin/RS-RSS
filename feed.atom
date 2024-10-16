@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-16T01:41:46.646Z</updated>
+    <updated>2024-10-16T02:54:25.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1777,16 +1777,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[どうも。ネクロ改変前に悪魔の事を書こうと思ってSSとかたくさん撮ってたのですが、、、こうなりましたので。焼き鳥講座になります。スマホからの更新中なので少しへたくそかもです💦◯準備物・食材ブログ用に1人...]]></summary>
         <author>
             <name>たつ2307</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恋のダウンロード。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-986.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-986.html"/>
-        <updated>2024-09-16T14:05:59.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。剣道コスチュームです。今週のタビアクート…！いい仕事してますねぇ。メインシーフ、1365Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
