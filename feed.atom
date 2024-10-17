@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T02:42:18.098Z</updated>
+    <updated>2024-10-17T03:26:11.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1777,26 +1777,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[​​​​​​2024年9月19日（木）に今年のきんさばも終了します|:3ミ「旅の途中」の新GMたいやきあんこ氏から「ブログ更新しろ、Gの募集と紹介しろ。」と圧をかけられて、中身の餡が飛び出しそうなので更新します( ;∀;)...]]></summary>
         <author>
             <name>たつ2307</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超越『楔』を+5に特殊強化しました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409180000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409180000/"/>
-        <updated>2024-09-17T15:04:59.000Z</updated>
-        <summary type="html"><![CDATA[弓の楔を+5に特殊強化しました。ダブクリ1％のために400本ちょっと使ったわけですが、費用対効果は「やや悪」かなと思います。コラプ弓は売ってなくて買えないので、今はこれくらいしかやることないんですよねぇ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帰り支度]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-438.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-438.html"/>
-        <updated>2024-09-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[金鯖ももう数日となりわたしは休日に銀行整理とカバン整理をしました＾＾今年の金鯖支部はこんな感じで終了となり金鯖の盛りあがりにかける雰囲気だったのであまりGメンとの交流もなかったかな？と思いました＾＾；数名一緒に遊んでくれてた方たちがいてありがたかったです＾＾ちなみに今年の金鯖支部では無課金Gメンと合う事もあまりなかったのでみんなどうしてるのかな？と思いつつGMなので立場上あまり金鯖離れられずでした＾＾]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
