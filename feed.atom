@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-18T01:40:19.577Z</updated>
+    <updated>2024-10-18T02:43:25.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1832,16 +1832,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[致命打抵抗減少 装備の更新にあたって無駄を削ぎ落とすべく、主だったい...]]></summary>
         <author>
             <name>marsborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】精鋭討伐(タビアクート)PT参加のキャラ職別印象]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1009.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1009.html"/>
-        <updated>2024-09-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[精鋭討伐PTメンバが全て促成栽培キャラ(新チュートリアルで育成した装備不十分なキャラ)の場合、クリアの難易度がかなり高くなる。チュートリアルクエストの特性上、範囲狩りが得意なキャラ職が促成栽培には人気だが、範囲狩りが得意なキャラはボス戦に不向きなことが多いため、事前にボス戦用装備やスキルを準備しておかないとPTのお荷物になる可能性が高い。自分にもボス戦で火力を出しづらい持ちキャラがおり、ギルドの定期便で]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
