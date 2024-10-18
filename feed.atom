@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-18T14:49:04.221Z</updated>
+    <updated>2024-10-18T15:22:26.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】チケットイベントの劣化点]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1029.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1029.html"/>
+        <updated>2024-10-18T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[気付かず頑張ってしまう人が出ない様に注意喚起。例年であれば100%付与だった運命・神秘・珍貴のお守りは、今回20%になっている。チケット欠片250枚だし狙うべきだとは思うが、失敗して「え？」とならない様に注意が必要。ていうか、復帰・新規勢に、装備整えて今後もプレイを続けてもらおうというイベントにも関わらず、装備整えさせないって意味が分からない。こんなんじゃヤティカヌで狩れない人達がプレイ止めてしまうんだが、]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不思議なチケット。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1014.html</id>
