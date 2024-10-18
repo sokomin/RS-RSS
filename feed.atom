@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-18T14:37:13.782Z</updated>
+    <updated>2024-10-18T14:49:04.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不思議なチケット。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1014.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1014.html"/>
+        <updated>2024-10-18T14:41:33.000Z</updated>
+        <summary type="html"><![CDATA[こんあんは。サンタさんの様なコスチュームです。癒しの青箱です。一応、オラクルサークレット狙いです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近のゆう]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-987.html</id>
