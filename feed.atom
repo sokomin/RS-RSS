@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-18T19:47:28.514Z</updated>
+    <updated>2024-10-18T20:21:54.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1852,16 +1852,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[こんばんは。ヽ(・ω・)/ｽﾞｺｰ。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖2024 その2]]></title>
-        <id>https://intothe.info/?p=2402</id>
-        <link href="https://intothe.info/miscellaneous/goldex2024-2/"/>
-        <updated>2024-09-19T08:02:31.000Z</updated>
-        <summary type="html"><![CDATA[致命打抵抗減少 装備の更新にあたって無駄を削ぎ落とすべく、主だったい...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>

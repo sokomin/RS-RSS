@@ -99,18 +99,7 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": [
-        {
-          "id": "https://intothe.info/?p=2402",
-          "author": "marsborn",
-          "description": "致命打抵抗減少 装備の更新にあたって無駄を削ぎ落とすべく、主だったい...",
-          "link": "https://intothe.info/miscellaneous/goldex2024-2/",
-          "publishedOn": "2024-09-19T08:02:31.000Z",
-          "wordCount": 1012,
-          "title": "金鯖2024 その2",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "魔法の壁のリアルライふ",
