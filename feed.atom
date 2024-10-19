@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T14:34:12.769Z</updated>
+    <updated>2024-10-19T14:47:53.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】無双戦士Lv1500までの道]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1030.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1030.html"/>
+        <updated>2024-10-19T14:45:23.000Z</updated>
+        <summary type="html"><![CDATA[経験値3倍育の日、無双戦士をLv1500にすべく頑張った。狩り嫌いが朝から頑張った。届かなかった。明日、マキナ消化したらLv1500には届かないだろう・・・ちなみに、欠片はこのくらい集まった。週間制限5,000枚らしいけど、狩りガチ勢でもなければ制限に到達することはなさそうだ。]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[みんな大好きヤティカヌ]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-226.html</id>
