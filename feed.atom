@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T10:20:01.604Z</updated>
+    <updated>2024-10-19T10:38:00.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1757,81 +1757,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <updated>2024-09-20T09:33:33.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024.9.19 アプデ!!]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/2e8f0e78b2932aeb53003b6d31dda904</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/2e8f0e78b2932aeb53003b6d31dda904?fm=rss"/>
-        <updated>2024-09-19T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[今週末も3連休ですが、まだまだ暑いですね。
-
-
-
-
-
-
-(4)RED STONEのオーラ解放イベント
-
-8月22日メンテ後から9月19日メンテ前まで
-(2)RED's Roulette
-
-8月29日メンテ後から9月19日メンテ前まで
-(1)装備強化Burstイベント
-
-9月12日メンテ後から9月18日23時59分まで
-(2)RED's Roulette
-
-8月29日メンテ後から9月19日メンテ前まで
-(2)チュートリアル支援
-
-6月20日メンテ後から6月30日23時59分まで
-
-この他のイベントとして
-
-
-6月24日0時から7月14日23時59分まで
-
-6月24日0時から7月14日23時59分まで
-○RAD STONE PASS
-5月23日メンテ後から7月25日メンテ前まで
-○GoldEx Worldハンティングイベント
-7月30日メンテ後から9月19日メンテ前まで
-○チャットバフイベント
-7月30日メンテ後から9月19日9時30分まで
-「きんさば」または「エンヘイおね！」と金鯖一般チャットで発言すると一定期間は府が受けられます。
-
-
-イベントとは異なるかもしれませんがこちらも。
-「育(19)の日イベント」
-「Daily Reward」
-
-
-
-
-
-
-
-9月5日メンテ後から9月26日メンテ前まで
-
-
-金鯖も終了しましたね。
-これから当分は通常モードです。
-通常鯖にも人が戻ってにぎやかになりそうですね。
-ネクロの改変もあったし、スキル降り直しをして楽しもうかと思います。
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
