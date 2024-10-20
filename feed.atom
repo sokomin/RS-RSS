@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-20T23:20:39.127Z</updated>
+    <updated>2024-10-20T23:47:44.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1686,26 +1686,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[2024年　9月　19日（木）​ネクロマンサー改変​​​​​​​​​​ついに改変が来ましたので、スキルの紹介を行います。​〇ストレンジコンジュ―ラー​簡単に言うと本体の致命打確率　→　召喚獣の魔法致命打確率本体の致命ダ...]]></summary>
         <author>
             <name>たつ2307</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ざっくり紹介終了]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1284.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1284.html"/>
-        <updated>2024-09-21T11:28:41.000Z</updated>
-        <summary type="html"><![CDATA[という事で改変後の各覚醒タイプを簡単に紹介しておきました。紹介していない通常スキルに関してはどうしようかなと考え中です。使えそうな通常スキルはありましたけどね。攻城戦でなら無気力化なんかは良さそうなスキルでしたし。とりあえず今回は覚醒タイプのざっくり紹介のみで。通常スキルはその気があれば後日したいと思います。]]></summary>
-        <author>
-            <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改変後デモニックチューナー]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1283.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1283.html"/>
-        <updated>2024-09-21T11:25:45.000Z</updated>
-        <summary type="html"><![CDATA[最後にデモニックチューナーですね。ステは他の同様に装備OP補正のみの素ステです。デモニックチューナーの専用覚醒スキルはこれ↓デビルミラージュです。見ての通り本体のHPが重要みたいですが覚醒タイプ自体がHP多くないと大変そうです。そしてこのデビルミラージュですが覚えるとこんな風に本体背後に影が出現します。これがスキルの幻影という事ですね。そして幻影がいるからこそ連発可能な強化スキルの1つ↓メインの攻撃スキル]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
     <entry>
