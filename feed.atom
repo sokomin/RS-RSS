@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-20T17:18:52.149Z</updated>
+    <updated>2024-10-20T17:34:14.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1726,16 +1726,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[ネクロ改変で結構スキルも変わったんでさっくりどんな感じなのか載せていってみようかと思います。まず僕のステですがポイント無振りで装備についてるOPのみでこんな感じですね。ではストレンジコンジュラーからご紹介。あ、それと忘れてたんですが各覚醒の専用パッシブはSS撮り忘れてたんでそこだけ公式サイトのアプデ内容でご確認ください。忘れてなければ後日SS撮って追記しときます。専用覚醒は↓死霊術の覚醒、古代死霊術です]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[希望のアプデと金鯖結果]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-224.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-224.html"/>
-        <updated>2024-09-21T05:19:03.000Z</updated>
-        <summary type="html"><![CDATA[金鯖が終わりアプデが来ました。今回はそれぞれの結果を見ていきたいと思います。第三の猫がお送りします。アプデの目玉は『ネクロ改変』ですが、私の所持キャラで影響があるのは毒悪魔くらいなので、ステータススキルを振りなおして、ネクロスキルをチラ見する感じにします。なんだか違和感がありますね。・・・アプデでペットが逃げました！はい。どうやらネクロのペットは召喚獣になったみたいです。さっそく召喚してみます。Se]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
