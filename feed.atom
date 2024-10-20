@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-20T22:36:22.398Z</updated>
+    <updated>2024-10-20T22:48:33.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1714,16 +1714,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1282.html"/>
         <updated>2024-09-21T11:06:44.000Z</updated>
         <summary type="html"><![CDATA[さて、お次はウィキッドサイコロジスト。ステはストレンジコンジュラーの時と同様無振りのこのようになっています。まず専用強化覚醒はこちら↓苦痛の円陣となります。範囲攻撃で苦痛の呪いという持続ダメを与えるみたいですね。攻撃するとこんな感じ↓方陣が出現して範囲の敵にダメージですね。持続的にダメージを与えてはいますが、多分この呪いを付与するのが目的のスキルですかね。苦痛の円陣の後に使用するのが恐らくこれではな]]></summary>
-        <author>
-            <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改変後ストレンジコンジュラー]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1281.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1281.html"/>
-        <updated>2024-09-21T10:47:57.000Z</updated>
-        <summary type="html"><![CDATA[ネクロ改変で結構スキルも変わったんでさっくりどんな感じなのか載せていってみようかと思います。まず僕のステですがポイント無振りで装備についてるOPのみでこんな感じですね。ではストレンジコンジュラーからご紹介。あ、それと忘れてたんですが各覚醒の専用パッシブはSS撮り忘れてたんでそこだけ公式サイトのアプデ内容でご確認ください。忘れてなければ後日SS撮って追記しときます。専用覚醒は↓死霊術の覚醒、古代死霊術です]]></summary>
         <author>
             <name>クレリューフ</name>
         </author>
