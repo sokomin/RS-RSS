@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-20T22:48:33.648Z</updated>
+    <updated>2024-10-20T23:20:39.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1704,16 +1704,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1283.html"/>
         <updated>2024-09-21T11:25:45.000Z</updated>
         <summary type="html"><![CDATA[最後にデモニックチューナーですね。ステは他の同様に装備OP補正のみの素ステです。デモニックチューナーの専用覚醒スキルはこれ↓デビルミラージュです。見ての通り本体のHPが重要みたいですが覚醒タイプ自体がHP多くないと大変そうです。そしてこのデビルミラージュですが覚えるとこんな風に本体背後に影が出現します。これがスキルの幻影という事ですね。そして幻影がいるからこそ連発可能な強化スキルの1つ↓メインの攻撃スキル]]></summary>
-        <author>
-            <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改変後ウィキッドサイコロジスト]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1282.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1282.html"/>
-        <updated>2024-09-21T11:06:44.000Z</updated>
-        <summary type="html"><![CDATA[さて、お次はウィキッドサイコロジスト。ステはストレンジコンジュラーの時と同様無振りのこのようになっています。まず専用強化覚醒はこちら↓苦痛の円陣となります。範囲攻撃で苦痛の呪いという持続ダメを与えるみたいですね。攻撃するとこんな感じ↓方陣が出現して範囲の敵にダメージですね。持続的にダメージを与えてはいますが、多分この呪いを付与するのが目的のスキルですかね。苦痛の円陣の後に使用するのが恐らくこれではな]]></summary>
         <author>
             <name>クレリューフ</name>
         </author>
