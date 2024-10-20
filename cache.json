@@ -1039,7 +1039,18 @@
       "title": "カルDXのレッドストーン放浪",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/karudxrs/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/karudxrs/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202409200000/",
+          "author": "たつ2307",
+          "description": "2024年　9月　19日（木）​ネクロマンサー改変​​​​​​​​​​ついに改変が来ましたので、スキルの紹介を行います。​〇ストレンジコンジュ―ラー​簡単に言うと本体の致命打確率　→　召喚獣の魔法致命打確率本体の致命ダ...",
+          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202409200000/",
+          "publishedOn": "2024-09-21T16:22:57.000Z",
+          "wordCount": 1490,
+          "title": "ネクロ改変　R6.9.19",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/c123bdc8906dd958a129a2346f66c09bfe7aaa12.35.9.9.3.jpeg"
+        }
+      ]
     },
     {
       "title": "rb79kのブログ",
@@ -1570,16 +1581,6 @@
           "wordCount": null,
           "title": "ミニペットのロジック。",
           "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-990.html",
-          "author": "medaka1985",
-          "description": "こんばんは。恰好良いコスチュームです。日本語でおｋ。メインシーフ、1367Lv到達です。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-990.html",
-          "publishedOn": "2024-09-20T13:51:13.000Z",
-          "wordCount": 1051,
-          "title": "文字化け。",
-          "imageUrl": "https://blog-imgs-174.fc2.com/m/e/d/medaka1985/20240920224649db4.png"
         }
       ]
     },
