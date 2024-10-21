@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-21T21:47:53.372Z</updated>
+    <updated>2024-10-21T22:19:15.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1620,16 +1620,6 @@ ONにしておくと、一定時間毎にオレンジ色のドクロが現れま
         <summary type="html"><![CDATA[先日は中秋の名月と言う事でしたが今年は晴れていたので月がとても綺麗に見えましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミニペットのロジック。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-991.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-991.html"/>
-        <updated>2024-09-22T09:56:36.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。何と交換できるのかな？ミニPシステムが強化です。メインシーフ、1368Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
