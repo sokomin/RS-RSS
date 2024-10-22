@@ -335,7 +335,18 @@
       "title": "今日のアリアン",
       "feedUrl": "http://scratch2009.blog.fc2.com/?xml",
       "siteUrl": "http://scratch2009.blog.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://scratch2009.blog.fc2.com/blog-entry-230.html",
+          "author": "scratch2009",
+          "description": "結晶石、便利ですよね。私のように狩りしたくないけど鏡はたくさんほしい勢がサイクルを回すためには欠かせない消耗品です。この結晶石、段階的に価格が上がっています。一時は100個あたり5本だったのが、いつしか8本程度となり、少し前には10本、今は10本を超えて露店に並べている人が散見されますね。ただ、結晶石が値上がりすると鏡を回したい勢が狩りでかけらを出すことにしたり、地下通いをやめる層が出てくる結果、結晶石の",
+          "link": "http://scratch2009.blog.fc2.com/blog-entry-230.html",
+          "publishedOn": "2024-10-22T04:45:19.000Z",
+          "wordCount": 459,
+          "title": "結晶石に関する決意",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "JEFRYの悪足掻き",
