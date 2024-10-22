@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-22T03:26:49.510Z</updated>
+    <updated>2024-10-22T03:48:47.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】無双戦士Lv1500達成(装備の記録)]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1032.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1032.html"/>
+        <updated>2024-10-22T03:27:47.000Z</updated>
+        <summary type="html"><![CDATA[意志の弱いおっさんのブログですｗ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週一のお楽しみ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1017.html</id>
