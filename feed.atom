@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-26T14:32:38.209Z</updated>
+    <updated>2024-10-26T14:48:06.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1518,16 +1518,6 @@ BUMP OF CHICKENしか知らないぽにたん
 ではまた]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】2024/9月の物理限凸改変・獣人ナーフ・サイレントナーフについて]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1012.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1012.html"/>
-        <updated>2024-09-27T02:34:47.000Z</updated>
-        <summary type="html"><![CDATA[色々変わり過ぎてて、モチベ上がった人と下がった人が入り乱れてる。コラプ持ってる人は上がってて、持ってない人は下がってるのかな？自分は持ってないので下がってて、獣人はウポスデイリーで今までの倍以上殴らなきゃ倒せなくなり、デイリー自体をやめた。無双戦士は微風がスタンプワンパンから、白虎、青イグニが狩り残る様になったため、レベリングする気にもなれずデイリーだけやっている。今回の物理限凸改変は、ざっくりい]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
