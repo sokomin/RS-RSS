@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-26T20:34:29.461Z</updated>
+    <updated>2024-10-26T20:47:53.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1431,16 +1431,6 @@ RSが東京ゲームショウ2024に参加されるということで、
         <summary type="html"><![CDATA[こんばんは。黒い影です。背伸びして310万ダメージです。メインシーフ、1372Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷神の弓やめます]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409270000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409270000/"/>
-        <updated>2024-09-27T08:43:41.000Z</updated>
-        <summary type="html"><![CDATA[雷神の弓をやめて・・・雷神の槍になりました！！！２OP目までで変換をして良いのを引いてから、3と4を解放する予定です。ウポス補助やクレストがまだないので装備は全然ですが、現時点でも体感で弓の２倍以上強...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
