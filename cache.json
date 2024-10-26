@@ -312,16 +312,6 @@
           "wordCount": 274,
           "title": "おすすめRSブログ",
           "imageUrl": null
-        },
-        {
-          "id": "kaze.gg-blog.com://entry/199",
-          "author": null,
-          "description": "こんにちは。\n \n\n\n\nさて今週は\n\n\nわくてかGH5になりました！\n\n皆さまいつもありがとうございます。\n\n\n私は仕事の都合上帰りが遅いのですが\n\n\n深夜組万歳\n\n\nスーツの死神も登場\n\n \nメンテ以降、NPCやモンスターの名前がおかしいとの噂\n\n\n\nあれ？\n\n\n\n本物、こっちかよ！\n\n\n\nそれにしても\n\n\n\n\n\n \nネーミング適当すぎない！？\n\n\nじゃーん\n\n\nじゃーん\n\n\nじゃじゃーん\n\n\nにゃーん\n\n\n玲瓏の異次元はじめて使ってみた\n\n\n\n\n(。´・ω・)ん？\n\n\nしょうがないからフツーの異次元で\n\n\n\n本当にありがとうございました。\n \n\n\nBUMP OF CHICKENしか知らないぽにたん\n\n\n\n\nではまた",
-          "link": "http://kaze.gg-blog.com/wakuteka/%E7%A5%9D%E3%82%8F%E3%81%8F%E3%81%A6%E3%81%8Bgh5",
-          "publishedOn": "2024-09-27T04:15:08.000Z",
-          "wordCount": 270,
-          "title": "祝わくてかGH5",
-          "imageUrl": null
         }
       ]
     },
@@ -1215,6 +1205,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1022.html",
+          "author": "medaka1985",
+          "description": "こんばんは。なかなか集まらないです。カレーセットです。＼(^o^)／ｵﾜﾀＶ鯖にて。レアアイテムです(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1022.html",
+          "publishedOn": "2024-10-26T15:27:03.000Z",
+          "wordCount": 1053,
+          "title": "いきてるえりまき。",
+          "imageUrl": "https://blog-imgs-174.fc2.com/m/e/d/medaka1985/20241027002318955.png"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1021.html",
           "author": "medaka1985",
