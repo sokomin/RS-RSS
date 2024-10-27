@@ -149,6 +149,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202410270000/",
+          "author": "雷神の弓",
+          "description": "コラプなし霊術のレベル上げを頑張って1400台に突入したまでは良かったのですが、微風で狩りを始めてみてやりにくさを感じました。大嵐にFSを乗せて撃っているにも関わらず、遠くのMOBに当たるまでにFSの効果が切...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202410270000/",
+          "publishedOn": "2024-10-27T02:20:10.000Z",
+          "wordCount": 2022,
+          "title": "闘士始めました",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/15500bbfa0f8014001c3e621d044fa92c71836bd.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202410220000/",
           "author": "雷神の弓",
           "description": "せっかく箱をもらったので、↓これをランサーに出しました。3解放して解放変換してから4解放したら、割といい感じに仕上がりました。物理職にも最終ダメが有効になったので、既に大量に積んでいるダブクリ増加をさ...",
@@ -1463,16 +1473,6 @@
           "publishedOn": "2024-09-28T15:01:43.000Z",
           "wordCount": null,
           "title": "東京ゲームショウ。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-995.html",
-          "author": "medaka1985",
-          "description": "こんばんは。黒い影です。背伸びして310万ダメージです。メインシーフ、1372Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-995.html",
-          "publishedOn": "2024-09-27T14:10:00.000Z",
-          "wordCount": null,
-          "title": "ひとかげ。",
           "imageUrl": null
         }
       ]

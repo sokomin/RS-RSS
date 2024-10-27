@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-27T01:46:00.596Z</updated>
+    <updated>2024-10-27T02:57:08.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[闘士始めました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202410270000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202410270000/"/>
+        <updated>2024-10-27T02:20:10.000Z</updated>
+        <summary type="html"><![CDATA[コラプなし霊術のレベル上げを頑張って1400台に突入したまでは良かったのですが、微風で狩りを始めてみてやりにくさを感じました。大嵐にFSを乗せて撃っているにも関わらず、遠くのMOBに当たるまでにFSの効果が切...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いきてるえりまき。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1022.html</id>
@@ -1421,16 +1431,6 @@ RSが東京ゲームショウ2024に参加されるということで、
         <summary type="html"><![CDATA[コラプ槍のことを書く前に、まずクリーチャーの進捗から。先日作成したウモス用クリーチャーを強化していきます。力系で作ってあるので、シッティングダイルの強化値が300→450となって美味しい。↑これでも十分な...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ひとかげ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-995.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-995.html"/>
-        <updated>2024-09-27T14:10:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。黒い影です。背伸びして310万ダメージです。メインシーフ、1372Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
