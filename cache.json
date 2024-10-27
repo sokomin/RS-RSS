@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-875.html",
+          "author": "ミツリン",
+          "description": "先日子どもと一緒にインフルエンザの予防接種を打ってきました私は注射が苦手なので毎年苦しい思いをしていますこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-875.html",
+          "publishedOn": "2024-10-27T15:00:00.000Z",
+          "wordCount": 617,
+          "title": "近況報告",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-874.html",
           "author": "ミツリン",
           "description": "先日受けた健康診断の結果が会社から来ました治療中の項目もいくつかありましたが他は問題無さそうです年齢も年齢なので日々の生活には注意しないといけませんねこんにちは　ミツリンです",
@@ -237,16 +247,6 @@
           "wordCount": 1844,
           "title": "ランサーコス交換してくれる人いないかな？",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/77413d1e063ee75c39b0109b3737d87e362f669a.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202409280000/",
-          "author": "雷神の弓",
-          "description": "コラプ槍のことを書く前に、まずクリーチャーの進捗から。先日作成したウモス用クリーチャーを強化していきます。力系で作ってあるので、シッティングダイルの強化値が300→450となって美味しい。↑これでも十分な...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202409280000/",
-          "publishedOn": "2024-09-28T03:11:20.000Z",
-          "wordCount": 1859,
-          "title": "コラプ槍完成（仮）",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/bcd335e47824ce919954af1e5c8a946917e81b84.73.9.9.3.png"
         }
       ]
     },
@@ -1205,6 +1205,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1023.html",
+          "author": "medaka1985",
+          "description": "こんばんは。ワイルドなコスチュームです。少しずつ強くなっています。オーラ＋宝箱です。メインシーフ、1394Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1023.html",
+          "publishedOn": "2024-10-27T14:53:37.000Z",
+          "wordCount": 1053,
+          "title": "200万ゴールド。",
+          "imageUrl": "https://blog-imgs-174.fc2.com/m/e/d/medaka1985/20241027235011a17.png"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1022.html",
           "author": "medaka1985",

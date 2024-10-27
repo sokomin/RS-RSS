@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-27T14:47:40.738Z</updated>
+    <updated>2024-10-27T15:19:59.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[近況報告]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-875.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-875.html"/>
+        <updated>2024-10-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日子どもと一緒にインフルエンザの予防接種を打ってきました私は注射が苦手なので毎年苦しい思いをしていますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[200万ゴールド。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1023.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1023.html"/>
+        <updated>2024-10-27T14:53:37.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ワイルドなコスチュームです。少しずつ強くなっています。オーラ＋宝箱です。メインシーフ、1394Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[闘士始めました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202410270000/</id>
@@ -1421,16 +1441,6 @@ RSが東京ゲームショウ2024に参加されるということで、
         <summary type="html"><![CDATA[ゴージャスなアゲハも素敵ですが、ちっちゃなセセリチョウも好きですかわいいお顔を花粉だらけにして、一心に食事する姿が何ともいとおしいごきげんよう。今回はレッドストーンに関係のない、庭の草花と蝶などの話になります。しかも画像の多さにくじけて(時間かけてると、その日のデイリーが終わらなくなる)、記事としても未完成です｡ﾟ(ﾟﾉヮ｀)ﾟ｡編集が終わった順にのろのろと足して行こうと思っているので、お気が向きましたら「]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コラプ槍完成（仮）]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409280000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409280000/"/>
-        <updated>2024-09-28T03:11:20.000Z</updated>
-        <summary type="html"><![CDATA[コラプ槍のことを書く前に、まずクリーチャーの進捗から。先日作成したウモス用クリーチャーを強化していきます。力系で作ってあるので、シッティングダイルの強化値が300→450となって美味しい。↑これでも十分な...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
