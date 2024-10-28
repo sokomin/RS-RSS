@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-28T19:29:05.014Z</updated>
+    <updated>2024-10-28T19:47:54.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1463,16 +1463,6 @@ RSが東京ゲームショウ2024に参加されるということで、
         <summary type="html"><![CDATA[TGSのクーポンコード、みんな使えるらしい！GIZJL7TG41FV公式に↑入力すると、鞄にパッケージが配布される。ただし、鞄から引き出したキャラクターのレトロコスチュームになっちゃうから、どのキャラにレトロコスチューム着せたいか決めてから引き出すこと。]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ランサーコス交換してくれる人いないかな？]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409290000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409290000/"/>
-        <updated>2024-09-29T07:32:59.000Z</updated>
-        <summary type="html"><![CDATA[赤2・青3・紫1の状態で、コス強化はやっていません。対人の知識槍用としては有用なんじゃないですかね？（何度か変換やったけど、資金不足なのでこの状態で妥協しています＾＾；）この槍コスと、赤3・紫1・他ソケ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
