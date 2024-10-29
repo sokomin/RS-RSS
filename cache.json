@@ -134,7 +134,18 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=V_ZnMgDLO1s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V_ZnMgDLO1s",
+          "publishedOn": "2024-10-29T05:16:18.000Z",
+          "wordCount": null,
+          "title": "くそ下手なワイルズ配信",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "無職と美学とシュルレアリスム",
