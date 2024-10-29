@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T14:50:40.646Z</updated>
+    <updated>2024-10-29T15:23:07.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1250キャラ2体目と苦悩]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-444.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-444.html"/>
+        <updated>2024-10-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[次の1250に近かった姫のぷぷりがついに1250を超えました＾＾これで精鋭討伐行けるキャラが2体目になりましたが精鋭にいくのに必要な精鋭チケが狩り時間のあまりないわたしにはなかなか出せないという問題を抱えるようになりました＾＾；オオカミ少年の分だけでも大変だったのに2体分はわたしには不可能かな…最近はオオカミ少年で結構狩りをしているのですが週1枚やっと出てる感じでストックもできないほどギリギリでやってるのです]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[そうですよね☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12873097126.html</id>
