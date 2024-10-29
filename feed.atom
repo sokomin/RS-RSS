@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T07:20:57.478Z</updated>
+    <updated>2024-10-29T07:47:47.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1441,16 +1441,6 @@ RSが東京ゲームショウ2024に参加されるということで、
         <summary type="html"><![CDATA[こんばんは。黄金の人形と交換です。ギルドが育ってきました(*'▽')。精鋭の報酬です。レアアイテムです。サブのビーストテイマー1015Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ランサーの表記と与ダメ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202409300000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202409300000/"/>
-        <updated>2024-09-29T19:26:04.000Z</updated>
-        <summary type="html"><![CDATA[まず、スキルの表記ダメです。まだ、ウポス補助が使い物になっていないのと、コスをはじめ全体的な装備の組み合わせが整っていませんが、現在はこんな感じです。次に与ダメのＳＳを貼りますが、魔力の暴走がある...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
