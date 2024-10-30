@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T03:27:42.730Z</updated>
+    <updated>2024-10-30T03:49:13.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1592,16 +1592,6 @@ RSが東京ゲームショウ2024に参加されるということで、
 千葉幕張ま...]]></summary>
         <author>
             <name>亜鬼にゃん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装備とステを少し変更]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202410010000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202410010000/"/>
-        <updated>2024-09-30T15:31:11.000Z</updated>
-        <summary type="html"><![CDATA[まず、コラプの製錬を+11に上げました。これは、お金掛ける価値はあると思います。他には、6500ちょっとあった知恵を削って3202まで下げました。それにより力が大幅にUPしました。力が3300位増えたことと、武器の...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
