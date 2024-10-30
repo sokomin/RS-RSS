@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T17:18:30.752Z</updated>
+    <updated>2024-10-30T17:35:16.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1716,26 +1716,6 @@ BIS
 　サーヴァントを召喚した状…]]></summary>
         <author>
             <name>曇りのち晴れ４８日</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TGS2024行ってきました！]]></title>
-        <id>https://wh-rs.jugem.jp/?eid=343</id>
-        <link href="https://wh-rs.jugem.jp/?eid=343"/>
-        <updated>2024-10-01T05:23:00.000Z</updated>
-        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
-
- 
-
- 
-
- 
-
-RSが東京ゲームショウ2024に参加されるということで、
-
-千葉幕張ま...]]></summary>
-        <author>
-            <name>亜鬼にゃん</name>
         </author>
     </entry>
     <entry>
