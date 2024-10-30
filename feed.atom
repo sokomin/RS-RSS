@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T09:22:30.221Z</updated>
+    <updated>2024-10-30T09:47:37.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メインのレベル上げもしたいんだけどね]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202410300000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202410300000/"/>
+        <updated>2024-10-30T09:44:47.000Z</updated>
+        <summary type="html"><![CDATA[少し前は、本当はメインのレベル上げを本格的にやるつもりだったんですよ。その粗証拠に↓を見てください。課金して超越の４スロット目を開けて、そこに覚醒を入れてLv10まで上げるつもりだったんですよ。でも、よ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1250キャラ2体目と苦悩]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-444.html</id>
