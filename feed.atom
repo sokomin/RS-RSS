@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-02T14:47:29.244Z</updated>
+    <updated>2024-11-02T15:23:04.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1638,16 +1638,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[10月に入り、ようやく涼しさがやってきました。彼岸すぎてから咲き出す彼岸花に、夏の罪深さを感じる第三の猫です。新しくなったミニペット画面を触りつつ、とりあえず名前の消えた「うなぎ」に名前をつけなおしました。せっかくなのでシャードを開けてみます。・・・・・・もう出てこないことがネタになっていただけに複雑な気分ですが、念願の光Ｐを手に入れました。さっそくLvをMAXにして、アウグスタへ。。。あっ、ミニペット]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】精鋭キャラ促成栽培は儲かるのか？]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1014.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1014.html"/>
-        <updated>2024-10-04T03:04:07.000Z</updated>
-        <summary type="html"><![CDATA[精鋭討伐キャラの促成栽培が一段落したため、最近の精鋭討伐収支をみてみる。(必要経費)精鋭討伐チケット:12本×キャラ数(収入)      ※売値は最近の相場感覚タビアクート欠片:1個23本(解放変換の売値より算出)完全解放:90本特性解放改:80本レプリカ解放改:10本解放変換:70本レプリカ解放変換:10本知識集中鍛錬:25本運命オプション超越ユニークは、その他10本以上の価値があるも含めて都度の査定とする。9/16週運命オプション：40本]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
