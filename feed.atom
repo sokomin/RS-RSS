@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-05T16:48:37.952Z</updated>
+    <updated>2024-11-05T17:19:14.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1604,16 +1604,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[こんばんは。厳ついペットです。おぉ！嬉しいUMUです。こちらも好調です！筋力集中鍛錬Lv10まで上げました(*'▽')。メインシーフ、1378Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】これまでの歩みと行末(個人的予想)]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1015.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1015.html"/>
-        <updated>2024-10-07T05:00:08.000Z</updated>
-        <summary type="html"><![CDATA[2005年2月から正式サービスを開始し、来年には20周年を迎える古参のMMORPG  REDSTONE。自分がやり始めたのは2006年の夏。確か4Gamer.netで、ネクロ悪魔が実装され、勢いを増す大人気MMORPG！と紹介されており、オンラインゲームに興味があった自分は飛び付いたと記憶している。当然どっぷりハマり、課金こそライトだが、余暇時間のほとんどを費やしていた。嫁も呆れるほどハマり倒していたが、今までに何度か活動を休止したことが]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
