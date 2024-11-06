@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T03:01:33.363Z</updated>
+    <updated>2024-11-06T03:35:33.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1594,16 +1594,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[何年ぶりかにブログ更新です。引退してたんじゃくRSはやってるのだけれど、ブログを書くネタがねぇｗでも、これからはおもいだしたら書いてみるかな・・・たぶん(´・ω・｀)]]></summary>
         <author>
             <name>デコピー・カエル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[筋力集中鍛錬。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1003.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1003.html"/>
-        <updated>2024-10-07T15:14:07.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。厳ついペットです。おぉ！嬉しいUMUです。こちらも好調です！筋力集中鍛錬Lv10まで上げました(*'▽')。メインシーフ、1378Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
