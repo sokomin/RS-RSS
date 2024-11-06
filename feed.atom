@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T10:22:26.200Z</updated>
+    <updated>2024-11-06T10:47:51.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1584,16 +1584,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[最近の記事で「懐かしい方との再会がぽつぽつある」と申していましたけれど。WIZのフィガレットさんも、そのおひとりです。お目にかかったりすれ違ったりするたび、なぜかお互いにハタき合うという謎の関係です。いつからでしたっけ、こんな感じになったの(´ー`)、同じだけ殴り返していますが、ある時「なんで毎回ぶつの」と聞いたことがありました。一点の曇りもない、堂に入ったドSっぷりです。もちろん本当は良識のある優しい紳]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[引退してたわけじゃないよ・・・]]></title>
-        <id>http://kenntatosachiko.blog129.fc2.com/blog-entry-303.html</id>
-        <link href="http://kenntatosachiko.blog129.fc2.com/blog-entry-303.html"/>
-        <updated>2024-10-07T22:42:23.000Z</updated>
-        <summary type="html"><![CDATA[何年ぶりかにブログ更新です。引退してたんじゃくRSはやってるのだけれど、ブログを書くネタがねぇｗでも、これからはおもいだしたら書いてみるかな・・・たぶん(´・ω・｀)]]></summary>
-        <author>
-            <name>デコピー・カエル</name>
         </author>
     </entry>
     <entry>
