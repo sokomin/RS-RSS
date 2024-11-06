@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T22:47:29.751Z</updated>
+    <updated>2024-11-06T23:19:17.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】幻影剣士の装備改善(Part2)]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1039.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1039.html"/>
+        <updated>2024-11-06T22:51:59.000Z</updated>
+        <summary type="html"><![CDATA[ウポス補助武器をLv15にする準備が進んできたため、そろそろ残りの装備を完成させようとおもう。鎧をＴ全吸収Lv1リフレクにするため、頭で命中無視を補う必要がある。ベースは、動物系種族ダメが稼げる獅子仮面。異次元でちょちょいのちょいと4連敗・・・ん？獅子仮面って800DXUだよね？貼付け出来るじゃん！異次元成功：25%貼付け成功：40%オーマイガー、気付くの遅いよ、自分。そして1発成功。その後、露店を見ると売ってんじゃ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レア超越の書選択チケット。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1032.html</id>
