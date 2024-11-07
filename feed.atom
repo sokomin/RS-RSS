@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-07T14:47:31.415Z</updated>
+    <updated>2024-11-07T15:21:30.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1554,16 +1554,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[こんばんは。大きな買い物です(*'▽')。本日のランキングです(過去最高)。メインシーフ、1379Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ハイブリッドスタイルのススメ]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1017.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1017.html"/>
-        <updated>2024-10-09T03:03:06.000Z</updated>
-        <summary type="html"><![CDATA[RSのキャラクターは、表裏職いずれも3つの覚醒スタイルを持っている。覚醒は概ね、物理タイプ、知識タイプ、その他に分かれていて、その他は「もう一つの物理」または「もう一つの知識」だったりする。※例えば剣士戦士は、物理・知識・もう一つの物理、という覚醒スタイルになっている。では、ハイブリッドとは何か？ハイブリッドとは、物理ダメージと知識ダメージを両方発生させ、敵を攻撃するスタイルを指している。覚醒スタイル]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
