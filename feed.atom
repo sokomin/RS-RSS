@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-07T02:39:21.001Z</updated>
+    <updated>2024-11-07T03:04:53.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1564,26 +1564,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[RSのキャラクターは、表裏職いずれも3つの覚醒スタイルを持っている。覚醒は概ね、物理タイプ、知識タイプ、その他に分かれていて、その他は「もう一つの物理」または「もう一つの知識」だったりする。※例えば剣士戦士は、物理・知識・もう一つの物理、という覚醒スタイルになっている。では、ハイブリッドとは何か？ハイブリッドとは、物理ダメージと知識ダメージを両方発生させ、敵を攻撃するスタイルを指している。覚醒スタイル]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[呪いの覚醒]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-441.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-441.html"/>
-        <updated>2024-10-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[改変後のネクロ覚醒の中で使い方に一番悩んでたのがウィキッドサイコロジストです。改変前は恐怖の幻影を主軸とした攻撃でそこから自動で他の呪いスキルが上乗せになっていくものでしたが火力面ではそれほど強いわけではなくて消費も多くネクロ版劣化バインドなのかな？というイメージでしたが改変後のウィキッドはかなり大きな変化をしました！ウィキッドの基本となるのがパッシブスキルの不気味な人形の効果にある呪い系状態異常]]></summary>
-        <author>
-            <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黒い魔界の強化石。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1004.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1004.html"/>
-        <updated>2024-10-08T14:50:18.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。名作。スパロトの残骸です(;´･ω･)。サブのビーストテイマー、1016Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
