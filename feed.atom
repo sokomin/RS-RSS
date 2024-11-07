@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-07T22:48:03.050Z</updated>
+    <updated>2024-11-07T23:19:41.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】本領発揮]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1040.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1040.html"/>
+        <updated>2024-11-07T22:57:35.000Z</updated>
+        <summary type="html"><![CDATA[昨日はメンテ延長からの短縮、やっぱ延長からの再延長だった模様(寝てた)にもかかわらず、Lv2000関係のコンテンツはバグが多く、クエも進めない？とか。課金アイテムの価格も公式の記載とショップが相違してるらしいから、臨時メンテが来るかもしれない。みなさん、露店放置は要注意。んなことより、経験値ブーストはLv2000からしか適用されないっぽい。Lv2000になりたい人をブーストしないでどうすんだ？って気がするが、まったり]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2000Lvアップデート。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1033.html</id>
