@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-08T02:39:39.388Z</updated>
+    <updated>2024-11-08T03:02:47.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1554,16 +1554,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[なんか間違って健康クリーチャーで厳選してしまいましたが、元がHRなのでLRまで上げるのはそんなに大変ではありません。上級経験値Lv16を消して、魔法致命をLv50にしました。次は上級大地強化を消して、大地強化...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】改善要望(もう許さない)]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1018.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1018.html"/>
-        <updated>2024-10-09T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[そろそろマジで頼む。まずは軽めのやつから。○天上の鉱床不足ロトからの産出量が減ったため、かなりの品不足状態て、S鯖では40本書い叫びまである。鏡の魔法書失敗時に必ず必要になるため、天上不足で鏡品(鏡で複製し巨商で取引可にする)が高騰している。また、自分用の鏡チャレンジも、天上が高価だと躊躇し、装備改良が滞ってモチベダウン。(求める対策)・ログキャン等による配布(取引不可でも構わない)・ロトの星１、スクラッチ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
