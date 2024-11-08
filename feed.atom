@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-08T01:38:35.902Z</updated>
+    <updated>2024-11-08T02:39:39.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1564,16 +1564,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[そろそろマジで頼む。まずは軽めのやつから。○天上の鉱床不足ロトからの産出量が減ったため、かなりの品不足状態て、S鯖では40本書い叫びまである。鏡の魔法書失敗時に必ず必要になるため、天上不足で鏡品(鏡で複製し巨商で取引可にする)が高騰している。また、自分用の鏡チャレンジも、天上が高価だと躊躇し、装備改良が滞ってモチベダウン。(求める対策)・ログキャン等による配布(取引不可でも構わない)・ロトの星１、スクラッチ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大人気MMO。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1005.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1005.html"/>
-        <updated>2024-10-09T14:08:52.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。大きな買い物です(*'▽')。本日のランキングです(過去最高)。メインシーフ、1379Lv到達です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
