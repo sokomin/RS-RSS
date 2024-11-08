@@ -302,7 +302,18 @@
       "title": "のんびりまったり",
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1285.html",
+          "author": "クレリューフ",
+          "description": "レベル上限解放アニバイベ終了してからかと思ったら昨日アップデートだったようで。メンテナンスが2，3回延長してましたけど、24時の日付変更で完了したようですね。今回のアプデですけど、2000いってない人には関係ないものになりますかね。なもんで僕には全く無関係で今後もまず触る事のないシステムだと思いますが。実装されたのは2000未満キャラだと経験値が入らないフィールドの追加と新規スキルシステム「オムニ」と、新コン",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1285.html",
+          "publishedOn": "2024-11-08T09:45:52.000Z",
+          "wordCount": 661,
+          "title": "アップデート",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "今日のアリアン",
