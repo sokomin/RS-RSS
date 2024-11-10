@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-10T11:47:34.634Z</updated>
+    <updated>2024-11-10T12:36:29.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1041.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1041.html"/>
+        <updated>2024-11-10T12:19:14.000Z</updated>
+        <summary type="html"><![CDATA[＜秋ロト2024(1回限りのやつ)結果＞秋ロト×50個・スパロト×13個・スパロト☆2以上×3・密封黒異界×5・特製解放×4・選択SP図案書×1・解放改×1・賢者×1・レプリカ変換×8・解放変換×3・製錬ガード×2・製錬ガードⅡ×1・幸運チケ×1・幸運ラグジュアリー×1・黄金人形×1・巨商策略×2・華麗な選択SP図案書×1・選択OP習熟×3・比率お守り20%ランダム×3秋ロトDX×4個・鏡の魔法書×1・完全解放×1・製錬ガードⅡ×1・スパロト☆2以上×1秋ロトULT×2個・]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[祝、1400Lv到達。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1034.html</id>
