@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-10T02:52:28.634Z</updated>
+    <updated>2024-11-10T03:25:00.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1410,16 +1410,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[つい先日、ハイブリッドスタイルを勧めておいて何だが、無双戦士をLv1500にしたら物理剣士に再振りしようとおもう。理由は、タビアやスザル等のボスに火力を出したいから。無双戦士、狩りでは強いんだけど単体相手はイマイチで、ずっとストレスだった。物理剣士は狩りがキツいらしいけど、レベリング止めるし思い切って再振りしようと思う。幸い、クリーチャーはそのまま使えるし(敵致命減、ダブクリ、最終ダメの王道構成)、装備も]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亜空間の扉。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1007.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1007.html"/>
-        <updated>2024-10-11T14:56:18.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。怖い(;´･ω･)。イケルかな？イきすぎぃ！壁越しでも会話できます。サブのランサー、931Lvです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
