@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-10T10:36:00.042Z</updated>
+    <updated>2024-11-10T10:47:50.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1400,16 +1400,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[こんばんは。サンタさんみたいで可愛いです。フィーバータイムです。メインシーフ、1380Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】鋼の剣士に俺はなる！]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1022.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1022.html"/>
-        <updated>2024-10-11T22:44:58.000Z</updated>
-        <summary type="html"><![CDATA[つい先日、ハイブリッドスタイルを勧めておいて何だが、無双戦士をLv1500にしたら物理剣士に再振りしようとおもう。理由は、タビアやスザル等のボスに火力を出したいから。無双戦士、狩りでは強いんだけど単体相手はイマイチで、ずっとストレスだった。物理剣士は狩りがキツいらしいけど、レベリング止めるし思い切って再振りしようと思う。幸い、クリーチャーはそのまま使えるし(敵致命減、ダブクリ、最終ダメの王道構成)、装備も]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
