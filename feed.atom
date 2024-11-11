@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-11T02:41:43.162Z</updated>
+    <updated>2024-11-11T03:25:46.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1430,16 +1430,6 @@ ClassicPaladin（剣士戦士）⚔️
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ラッキーな瞬間。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1008.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1008.html"/>
-        <updated>2024-10-12T15:01:31.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。サンタさんみたいで可愛いです。フィーバータイムです。メインシーフ、1380Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
