@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-12T14:49:45.211Z</updated>
+    <updated>2024-11-12T15:21:12.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[所属G２０２４]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-446.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-446.html"/>
+        <updated>2024-11-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年の金鯖終了後からB鯖で小規模開催していた職Gリーグですがそれに参加するために多くの職Gにキャラを参加させることになりました。それで今まででも多くのG様にキャラを入れてたのがまた増えたのでちょっと自分管理用として参加Gの確認をしようと思いました＾＾参加Gは大きく分けると◆攻城をしてるG様◆各職G◆ステG◆他人様から預かり物の管理Gの４つになり職Gに関しては一応攻城もしているG様ということになります。少人数で戦う]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週1のお楽しみ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1037.html</id>
