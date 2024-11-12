@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-11T23:47:44.060Z</updated>
+    <updated>2024-11-12T01:37:26.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1401,16 +1401,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[こんばんは。正当な反応です。久しぶりのUMUドロップです。ゲリオ超級からです(*'▽')。メインシーフ、1381Lv達成です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】剣士稼働の準備]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1023.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1023.html"/>
-        <updated>2024-10-13T12:23:34.000Z</updated>
-        <summary type="html"><![CDATA[無双戦士のレベルはLv1500未到達(Lv1472)だが、ワクワクが抑えきれないため剣士の準備を開始。装備は概ね目途が立ったため、コスチュームの準備に取り掛かった。金鯖から持ち帰ったお土産クレストは13個。これで精鋭討伐用コスと攻城戦用コス、2つを揃えるのは無謀かもしれないが、妥協ありきで変換に挑戦。超級クレスト5個使ったところでコレ。ソケット変換は沼るとインゴットが消し飛ぶので、精鋭用はこのへんで妥協すべきと判断]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
