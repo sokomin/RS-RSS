@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-14T19:28:47.029Z</updated>
+    <updated>2024-11-14T19:47:52.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コラプ有知識姫装備]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202411150000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202411150000/"/>
+        <updated>2024-11-14T19:45:48.000Z</updated>
+        <summary type="html"><![CDATA[知識姫のコラプが手に入ったので、装備を載せていこうと思います。※全部は載せません。運が少し足りていなかったので、1OPは運比にしました。解放変換は2解放のときに少しやっておきました。致命型の知識職なら↑...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特製変異点Nx。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1039.html</id>
