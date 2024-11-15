@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-14T23:47:52.070Z</updated>
+    <updated>2024-11-15T01:45:22.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1361,16 +1361,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[物理限凸改変により、種族ダメの価値が改めて注目されている。種族ダメは、ダメ表記を単純に増やすことが出来る有用なものだが、改変前はダメ限界に比較的容易に到達できたため注目されていなかった。注目される様になり、改めて採用しようとすると、全吸収や命中無視+回避をどうするか問題が立ちはだかる。全吸収は冠、命中無視+回避は職鎧が一般的だが、いずれも種族ダメとは無縁な部位。種族ダメを採用するなら、冠と職鎧に縛ら]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[素晴らしい指輪。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1012.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1012.html"/>
-        <updated>2024-10-16T13:40:05.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。V鯖マーケットからです。(凄い@@)いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
