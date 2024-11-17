@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-16T23:47:26.977Z</updated>
+    <updated>2024-11-17T01:49:36.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1364,16 +1364,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[こんあんは。サンタさんの様なコスチュームです。癒しの青箱です。一応、オラクルサークレット狙いです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近のゆう]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-987.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-987.html"/>
-        <updated>2024-10-18T13:46:05.000Z</updated>
-        <summary type="html"><![CDATA[夫が「滅多に見られない」と言うので、ゆうの「やんのかステップ」を描きました。家族にとってはレアなアクションらしいのですが、わたしはほぼ毎日この状態のゆうと追いかけっこをしています。このポーズのまま横向きに、たしたしと迫ってきます(´ー`)今回はRSに関係のない、猫の記事です。そしてこれもまた編集が追い付かず、未完成記事です。かなり忘れた頃になって、追記に画像が足される感じになると思います。それでも大丈夫]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
     <entry>
