@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-17T17:47:52.461Z</updated>
+    <updated>2024-11-17T18:27:02.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1354,16 +1354,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[経験値3倍育の日、無双戦士をLv1500にすべく頑張った。狩り嫌いが朝から頑張った。届かなかった。明日、マキナ消化したらLv1500には届かないだろう・・・ちなみに、欠片はこのくらい集まった。週間制限5,000枚らしいけど、狩りガチ勢でもなければ制限に到達することはなさそうだ。]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みんな大好きヤティカヌ]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-226.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-226.html"/>
-        <updated>2024-10-19T05:58:37.000Z</updated>
-        <summary type="html"><![CDATA[今年の夏、長くないですか？何周年だったかはっきりしなくなってきたアニバーサリーが今年も来ました。・・・19くらいでしたっけ、第三の猫です。ようやく最後のチュートリアルクエストを攻略しました。アプデ前のもやっているので、２回目のチュートリアル卒業式です。レベル1250突破！この時は、まさかあんなことになるなんて・・・ダリンも第三の猫も、思いもしなかったのです。不穏なナレーション止めてください。それでは1250]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
