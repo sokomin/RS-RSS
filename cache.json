@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-878.html",
+          "author": "ミツリン",
+          "description": "最近はコンビニで有名店とコラボしたラーメンがお弁当コーナーにありますよね見かけると必ず買ってきますこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-878.html",
+          "publishedOn": "2024-11-17T15:00:00.000Z",
+          "wordCount": 616,
+          "title": "ラーメンと経験値イベント",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-877.html",
           "author": "ミツリン",
           "description": "子供の検査入院の関係でバタバタとした一週間でしたこんにちは　ミツリンです",
@@ -1051,6 +1061,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1042.html",
+          "author": "medaka1985",
+          "description": "こんばんは。闇商人の宝箱からです。修行中です。栄光の手袋を育てました！メインシーフ、1404Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1042.html",
+          "publishedOn": "2024-11-17T14:49:37.000Z",
+          "wordCount": null,
+          "title": "栄光の手袋。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1041.html",
           "author": "medaka1985",
