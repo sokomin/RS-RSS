@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-18T01:47:40.092Z</updated>
+    <updated>2024-11-18T03:01:58.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1334,26 +1334,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[先日受けた健康診断の結果が会社から来ました治療中の項目もいくつかありましたが他は問題無さそうです年齢も年齢なので日々の生活には注意しないといけませんねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3倍界王拳！]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1015.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1015.html"/>
-        <updated>2024-10-19T14:52:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。力3万、突入！・・・！うん、美味しい！メインシーフ、1388Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】無双戦士Lv1500までの道]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1030.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1030.html"/>
-        <updated>2024-10-19T14:45:23.000Z</updated>
-        <summary type="html"><![CDATA[経験値3倍育の日、無双戦士をLv1500にすべく頑張った。狩り嫌いが朝から頑張った。届かなかった。明日、マキナ消化したらLv1500には届かないだろう・・・ちなみに、欠片はこのくらい集まった。週間制限5,000枚らしいけど、狩りガチ勢でもなければ制限に到達することはなさそうだ。]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
