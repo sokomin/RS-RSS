@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-18T14:47:52.757Z</updated>
+    <updated>2024-11-18T15:24:07.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[夜の生霊。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1043.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1043.html"/>
+        <updated>2024-11-18T14:58:11.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。あぁ～良いっすねぇ。このmob、硬いです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】育の日(5倍)狩るぞ！宣言]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1045.html</id>
