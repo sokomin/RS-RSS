@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-19T16:52:17.664Z</updated>
+    <updated>2024-11-19T17:19:09.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5倍は姫を上げました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202411200000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202411200000/"/>
+        <updated>2024-11-19T17:00:04.000Z</updated>
+        <summary type="html"><![CDATA[装備100バッジを使っている関係で、姫のレベル上げを優先しました。5倍開始時は、Lv1379でした。ちゃんと夜は寝ましたし、火曜日は普通に仕事もあったので、そこまで上がりませんでしたね。でも、これでバッジが3...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[経験値5倍。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1044.html</id>
