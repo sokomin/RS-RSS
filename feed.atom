@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-20T15:23:21.334Z</updated>
+    <updated>2024-11-20T15:47:43.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1386,16 +1386,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[結晶石、便利ですよね。私のように狩りしたくないけど鏡はたくさんほしい勢がサイクルを回すためには欠かせない消耗品です。この結晶石、段階的に価格が上がっています。一時は100個あたり5本だったのが、いつしか8本程度となり、少し前には10本、今は10本を超えて露店に並べている人が散見されますね。ただ、結晶石が値上がりすると鏡を回したい勢が狩りでかけらを出すことにしたり、地下通いをやめる層が出てくる結果、結晶石の]]></summary>
         <author>
             <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】無双戦士Lv1500達成(装備の記録)]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1032.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1032.html"/>
-        <updated>2024-10-22T03:27:47.000Z</updated>
-        <summary type="html"><![CDATA[意志の弱いおっさんのブログですｗ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
