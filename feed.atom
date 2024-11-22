@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T22:51:47.065Z</updated>
+    <updated>2024-11-22T23:22:09.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】方向性を間違ったのか？]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1047.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1047.html"/>
+        <updated>2024-11-22T22:52:08.000Z</updated>
+        <summary type="html"><![CDATA[経験値イベント中だというのに活気が無い。最終っぽい装備が続々売りに出されている。ちょっと嫌な流れになっているRS界隈、運営開発は方向性を間違えてしまったのだろうか？今、最も被害が多いのが「文字が薄い」症状だろう。やる気が起きない、そもそもプレイできない程みえない、といった声が各所からあがっており、現状(活気が無い)の主要因だとおもわれる。原因は、RSがグラフィックボードを採用したことらしい。ゲーミングノ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[相乗の妙。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1046.html</id>
