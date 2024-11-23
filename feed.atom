@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-23T01:41:37.627Z</updated>
+    <updated>2024-11-23T02:54:12.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1282,16 +1282,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[幻影剣士への再振りが完了した。狩りをするつもりは無いが、余裕があるときにはウポスデイリーくらいやろうかな？と思っているため、試しにウポスで狩ってみた。無双戦士:スタンプ3、4回幻影剣士:きらきらする範囲スキル30回以上無双戦士からの弱体化ぶりに愕然とした。スキル仕様的に弱体化することは分かっていたが、さすがにここまでとは・・ただし、倒すまでの時間は単純に10倍じゃなく、体感4、5倍程度。精鋭討伐用にウポス補]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魔法属性抵抗力増加。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1020.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1020.html"/>
-        <updated>2024-10-24T14:36:40.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。浮いてる…！旗バフの種類を増やします(ギルメンさんのお陰)。シルバニアファミリー（懐かしい)。メインシーフ、1392Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
