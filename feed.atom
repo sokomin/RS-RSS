@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-24T14:47:42.505Z</updated>
+    <updated>2024-11-24T15:20:34.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[魔法の鏡。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1048.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1048.html"/>
+        <updated>2024-11-24T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。鏡チャレンジです。珍しく成功です(*'▽')♪メインシーフ、1412Lv達成です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文字が見えない]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-879.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-879.html"/>
+        <updated>2024-11-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[朝の着替えが寒くて電気ストーブを出しました最近めっきり冷え込んできましたねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石丸新党に思うこと]]></title>
         <id>http://scratch2009.blog.fc2.com/blog-entry-232.html</id>
