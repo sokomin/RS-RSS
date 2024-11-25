@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T13:30:39.412Z</updated>
+    <updated>2024-11-25T13:48:25.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アニバマラソンBOX。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1049.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1049.html"/>
+        <updated>2024-11-25T13:42:51.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。モントゥトゥユピーかな？(HUNTER×HUNTER)配布BOXです。こんな感じでした(*'▽')。タビアクート討伐の報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[魔法の鏡。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1048.html</id>
