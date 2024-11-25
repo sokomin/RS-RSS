@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T13:48:25.298Z</updated>
+    <updated>2024-11-25T14:20:49.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1292,16 +1292,6 @@ ClassicPaladin（剣士戦士）⚔️
         <summary type="html"><![CDATA[こんばんは。ワイルドなコスチュームです。少しずつ強くなっています。オーラ＋宝箱です。メインシーフ、1394Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闘士始めました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202410270000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202410270000/"/>
-        <updated>2024-10-27T02:20:10.000Z</updated>
-        <summary type="html"><![CDATA[コラプなし霊術のレベル上げを頑張って1400台に突入したまでは良かったのですが、微風で狩りを始めてみてやりにくさを感じました。大嵐にFSを乗せて撃っているにも関わらず、遠くのMOBに当たるまでにFSの効果が切...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
