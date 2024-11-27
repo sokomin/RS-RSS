@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-27T14:48:23.797Z</updated>
+    <updated>2024-11-27T15:23:35.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1194,16 +1194,6 @@ ClassicPaladin（剣士戦士）⚔️
         <updated>2024-10-29T05:16:18.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】攻城戦キャラランキング(個人的感想)]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1035.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1035.html"/>
-        <updated>2024-10-29T03:16:07.000Z</updated>
-        <summary type="html"><![CDATA[攻城戦の個人的キャラランキングを作ってみた。あくまで個人的な見解なので、異論反論は当然あると思う。なお、登場しない以下のキャラは、ブログ主のプレイ経験が無いためランキング対象外(その他に含まれているわけではない)・プリンセス・リトルウィッチ・黒魔術師・マスケッティアSランク・天使移動健康盛り、ジャンパー装備した天使は別格で強い。他職の追随を許さない圧倒的速度で戦場を駆け回り、敵を翻弄しつつ、手薄な場]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
