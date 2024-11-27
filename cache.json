@@ -167,6 +167,16 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RFKkOUMMSmU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RFKkOUMMSmU",
+          "publishedOn": "2024-10-29T19:08:55.000Z",
+          "wordCount": null,
+          "title": "くそ下手なヴァロ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=V_ZnMgDLO1s",
           "author": null,
           "description": "",
