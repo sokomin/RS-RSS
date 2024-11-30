@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-30T01:44:12.814Z</updated>
+    <updated>2024-11-30T02:57:02.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -737,16 +737,6 @@ U品も同じものが何度か出るケースが増えてきました。
         <summary type="html"><![CDATA[アニバーサリーイベント真っ只中たが、モチベーションの低下が止まらない。イベント内容も使い回し(かつ劣化)だし、何より景品の価値が当初とはかけ離れてるわけで、同じように楽しめということ自体が間違ってる。昨日参加したハロウィンGvGでモチベーションアップを図ったが、何でもアリでワイワイ楽しい反面、RSの対人戦バランス崩壊を再認識させられた。しかし、めちゃめちゃ楽しいひとときには変わりなく、企画進行してくれた]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trick or treat !!]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1026.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1026.html"/>
-        <updated>2024-10-31T14:44:21.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ハロティンGvです！皆さんLvが高いです(*'▽')。打ち上げの紫壺パーティです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
