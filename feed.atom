@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-01T22:20:00.051Z</updated>
+    <updated>2024-12-01T22:38:05.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -728,16 +728,6 @@ Lv1250まで
         <summary type="html"><![CDATA[こんばんは。チャーレンジ！＼(^o^)／ｵﾜﾀ。サブのテイマー、1021Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スミロ丼]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-227.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-227.html"/>
-        <updated>2024-11-02T10:23:21.000Z</updated>
-        <summary type="html"><![CDATA[皆様はチケットの欠片は集まっていますでしょうか。うちでは全員分を合計すれば「1000ULT防具選択BOX 」にも届くのですが、各キャラまんべんなく集まっている感じです。このペースだと誰も1000ULT防具に届かない可能性出てきているのですが、RSかけらが50個集まったキャラで狩りをするのがもったいなくて、キャラ替えしてしまう第三の猫です。まずは、前回テイムしたスミロドンで遊んでみました。そんなに感電しないみたいです。あ]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
