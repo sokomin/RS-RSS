@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-03T03:06:29.112Z</updated>
+    <updated>2024-12-03T03:46:53.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -708,16 +708,6 @@ Lv1250まで
         <summary type="html"><![CDATA[ごきげんよう。まだ夏日はありますけれど、季節は確実に秋へと移り変わっておりますね。朝晩の冷え込みで風邪をひいてしまう方が増える頃。どうぞご自愛くださいね。今回の記事内容はゲームに関係のないハンドメイド雑記です。大丈夫な方のみ、「続きを読む」からお進みください。]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チケット鏡挑戦。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1029.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1029.html"/>
-        <updated>2024-11-03T15:09:51.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。解放OP変換です。高額品購入です。チケット交換の鏡を選択です。16%なんですね(笑)案の定(;´･ω･)。同意以降、WebmoneyでのGEM購入に、税送料が掛かるようです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
