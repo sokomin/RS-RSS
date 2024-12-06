@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T14:52:02.411Z</updated>
+    <updated>2024-12-06T15:23:32.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コミックマーケット。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1058.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1058.html"/>
+        <updated>2024-12-06T15:20:19.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ミステリアスなコスチュームです。熱い薄い本です。メインシーフ、1416Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World of Warcraft’s 20th Anniversary]]></title>
         <id>https://intothe.info/?p=2545</id>
