@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T04:26:27.702Z</updated>
+    <updated>2024-12-07T04:49:42.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[姫と闘士が目標達成しました！]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202412070000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202412070000/"/>
+        <updated>2024-12-07T04:25:01.000Z</updated>
+        <summary type="html"><![CDATA[経験値イベントを頑張った結果、↑こうなりました。これで1500精鋭キャラが4体となりました。まぁ、最近は全然箱出ないんですけどねｗ姫が1500になりウポス補助武器をゲットしたわけなんですが、ちょっとした奇跡...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コミックマーケット。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1058.html</id>
