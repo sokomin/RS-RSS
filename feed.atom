@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T10:47:48.496Z</updated>
+    <updated>2024-12-07T11:17:04.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -738,16 +738,6 @@ Lv1250まで
         <summary type="html"><![CDATA[レベル上限解放アニバイベ終了してからかと思ったら昨日アップデートだったようで。メンテナンスが2，3回延長してましたけど、24時の日付変更で完了したようですね。今回のアプデですけど、2000いってない人には関係ないものになりますかね。なもんで僕には全く無関係で今後もまず触る事のないシステムだと思いますが。実装されたのは2000未満キャラだと経験値が入らないフィールドの追加と新規スキルシステム「オムニ」と、新コン]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】本領発揮]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1040.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1040.html"/>
-        <updated>2024-11-07T22:57:35.000Z</updated>
-        <summary type="html"><![CDATA[昨日はメンテ延長からの短縮、やっぱ延長からの再延長だった模様(寝てた)にもかかわらず、Lv2000関係のコンテンツはバグが多く、クエも進めない？とか。課金アイテムの価格も公式の記載とショップが相違してるらしいから、臨時メンテが来るかもしれない。みなさん、露店放置は要注意。んなことより、経験値ブーストはLv2000からしか適用されないっぽい。Lv2000になりたい人をブーストしないでどうすんだ？って気がするが、まったり]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
