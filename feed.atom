@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-08T13:27:11.441Z</updated>
+    <updated>2024-12-08T13:47:38.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウィークリーファルコン。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1060.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1060.html"/>
+        <updated>2024-12-08T13:31:52.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。不思議なコスチュームです。ファルコン超級です(賑やか)。メインシーフ、1418Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロイ4世“ロイ4世チャンネル” のライブ配信]]></title>
         <id>https://www.youtube.com/watch?v=PMZSnuS1yRI</id>
