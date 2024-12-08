@@ -128,7 +128,18 @@
       "title": "ロイ4世“ロイ4世チャンネル”",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA",
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PMZSnuS1yRI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PMZSnuS1yRI",
+          "publishedOn": "2024-12-08T04:54:43.000Z",
+          "wordCount": null,
+          "title": "ロイ4世“ロイ4世チャンネル” のライブ配信",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "ひさプッチ",
