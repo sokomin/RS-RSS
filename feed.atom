@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-10T01:50:44.969Z</updated>
+    <updated>2024-12-10T03:06:26.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -737,26 +737,6 @@ Lv1250まで
         <summary type="html"><![CDATA[毎週15キャラもタビアクート精鋭討伐に通ってると、野良PTでも概ねミス無くクリアできるようになってきた。※昨日(11/11)は6キャラ野良PTリーダーを担当してノーミスクリア。参考までに手順を書いてみる。＜PT募集編＞以下は必ず織り込んで叫び募集する。・ソウルガード指(SGと略しても可)持ちであること。叫びの例）!! Lv1250タビア精鋭討伐PT募集、SG有りの火力さんリストへ。注意点として、たまに協会バーからの参加を希望する人]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】幻影剣士の装備改善(Part3)※最終回]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1042.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1042.html"/>
-        <updated>2024-11-10T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[ひとまず、幻影剣士の種族ダメ盛り装備が完成した。結果から書くと、ウポスデイリーやウポス秘密が多少楽になった程度だった。費用対効果は、かなり悪いと思うのでお勧めしないｗ・武器前回から変化なし。・補助武器ウポス補助武器に全吸収Lv1×2と恩寵の　を付与。種族ダメ2OPが偶然引けたので、残り1OPが残念ではあるが、これをLv24まで育てる予定。・首BFOPのダブクリダメが3%と中途半端だが、赤異界使うのも勿体ないのでこのま]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11月7日アップデート　【レベル上限解放】]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-877.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-877.html"/>
-        <updated>2024-11-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[子供の検査入院の関係でバタバタとした一週間でしたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
