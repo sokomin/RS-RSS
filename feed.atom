@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T01:49:04.268Z</updated>
+    <updated>2024-12-11T03:04:04.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -747,16 +747,6 @@ Lv1250まで
         <summary type="html"><![CDATA[こんばんは。第6区域、初です。難易度高めです。(攻撃当たる＋ダメージカット(?)いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】タビアクート(Lv1250)精鋭討伐の野良テンプレ]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1043.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1043.html"/>
-        <updated>2024-11-11T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[毎週15キャラもタビアクート精鋭討伐に通ってると、野良PTでも概ねミス無くクリアできるようになってきた。※昨日(11/11)は6キャラ野良PTリーダーを担当してノーミスクリア。参考までに手順を書いてみる。＜PT募集編＞以下は必ず織り込んで叫び募集する。・ソウルガード指(SGと略しても可)持ちであること。叫びの例）!! Lv1250タビア精鋭討伐PT募集、SG有りの火力さんリストへ。注意点として、たまに協会バーからの参加を希望する人]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
