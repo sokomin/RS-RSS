@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T14:48:40.383Z</updated>
+    <updated>2024-12-12T15:25:03.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】憧れののGFと物欲センサー]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1055.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1055.html"/>
+        <updated>2024-12-12T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[長年の夢だった1250箱を手に入れたため、遂に憧れのグランドフィナーレ(GF)を手に入れた。ギルメンがドロップしたものを6500本で購入。譲ってくれたギルメンに感謝。早速、強化作業。問題はここからで、解放オプション変換で選択率2%の魔法強打率10%を引く作業がしんどい。用意しておいたオプション変換器は48個。精鋭討伐で自力ドロップしたもので、結構売ってしまったが、この日のために残しておいた。2%なので、確率通りなら出]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大型アップデート。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1064.html</id>
