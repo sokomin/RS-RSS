@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-15T01:56:09.418Z</updated>
+    <updated>2024-12-15T03:10:39.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -743,16 +743,6 @@ Lv1250まで
         <link href="https://medaka1985.fc2.net/blog-entry-1041.html"/>
         <updated>2024-11-16T06:45:44.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。インフルエンザワクチン接種です。素敵な病院です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レアアイテム。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1040.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1040.html"/>
-        <updated>2024-11-15T14:17:16.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。珍しいアイテムです。大きな買い物です。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
