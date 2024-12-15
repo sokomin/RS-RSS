@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-15T20:22:53.984Z</updated>
+    <updated>2024-12-15T20:47:32.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -745,16 +745,6 @@ Lv1250まで
         <summary type="html"><![CDATA[こんばんは。闇商人の宝箱からです。修行中です。栄光の手袋を育てました！メインシーフ、1404Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装備改造のまもの]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-228.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-228.html"/>
-        <updated>2024-11-16T08:25:12.000Z</updated>
-        <summary type="html"><![CDATA[アプデ以降文字の色と明るさが変わってしまい、ディスプレイをにらみつける回数が増え、人相が悪くなった第三の猫です。こんにちは。今回は珍しいキャラクターの登場から。2年前に金鯖で作ったキャプテン（覚醒はワールウィンド）です。裏職実装に備えて、3転直前まで育てています。低レベル帯の方がモンスターが柔らかいので、チケットの欠片(2024)が稼げるからではありません。・・・かなり粘っていますが、違うのです。ガルカス]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
