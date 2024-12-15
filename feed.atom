@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-15T08:26:57.594Z</updated>
+    <updated>2024-12-15T08:49:36.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[忘れられないドラマ]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-989.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-989.html"/>
+        <updated>2024-12-15T08:36:14.000Z</updated>
+        <summary type="html"><![CDATA[★画像クリックで拡大表示されます眠れる森沙粧妙子　最後の事件GIFTアナザヘヴン◆◆◆◆◆◆次なるラウンジはTVドラマです。現在も素敵なドラマは数多く作られ続けています。しかしながら。多くの方もそうではと思うのですが、作品そのもののすばらしさと大切な思い出とが密接に関わると、心の中で特別なものになることが多いのではないでしょうか。管理人の場合は、この４つのドラマが特別枠です。座標軸です。「眠れる森」のイラスト]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世にも奇妙な物語。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1066.html</id>
