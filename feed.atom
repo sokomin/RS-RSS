@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-17T01:48:32.901Z</updated>
+    <updated>2024-12-17T03:03:32.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -800,26 +800,6 @@ Lv1250まで
         <summary type="html"><![CDATA[11/19(火)育の日は狩りまくる決心をした。ちょっと外せない会議だけ顔を出すけど、それ以外は一心不乱に狩りだ！現在、Lv1570だが、経験値5倍(もちろん常時パワキあり)で終日狩ると何レベルになるのか？あまり意気込むと、頑張れなかったときの反動が怖いので、目標は控えめにLv1600にしよう。不安材料は、ウポス(今は北部)にミラーが無いこと。ウポス補助に動物・神獣への魔法ダメアップを採用しているため、人間やアンデットが湧]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ラーメンと経験値イベント]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-878.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-878.html"/>
-        <updated>2024-11-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近はコンビニで有名店とコラボしたラーメンがお弁当コーナーにありますよね見かけると必ず買ってきますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[栄光の手袋。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1042.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1042.html"/>
-        <updated>2024-11-17T14:49:37.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。闇商人の宝箱からです。修行中です。栄光の手袋を育てました！メインシーフ、1404Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
