@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-17T14:49:14.080Z</updated>
+    <updated>2024-12-17T15:24:41.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[変わった…]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-451.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-451.html"/>
+        <updated>2024-12-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前回のアプデはキャノニアが実装されそちらを色々試してる方もいるのではないかと思います。わたしは冬到来という事でここ数日あまりRSはできてないのですがアプデ後にはっきりと変化が現れちゃったのがストレンジコンジュラーです！いままではパフュームを使うと召喚もパフュームを出していたのですがいまは通常の状態だとパフュームを出さないようでかかしで試してみましたが通常時は本体のパフュームしか出ていなくてそれが召喚]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年ももうすぐ終わる件]]></title>
         <id>kaze.gg-blog.com://entry/205</id>
