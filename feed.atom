@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-17T15:48:18.051Z</updated>
+    <updated>2024-12-17T16:29:33.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -895,16 +895,6 @@ Lv1250まで
         <summary type="html"><![CDATA[こんばんは。あぁ～良いっすねぇ。このmob、硬いです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】育の日(5倍)狩るぞ！宣言]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1045.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1045.html"/>
-        <updated>2024-11-18T03:51:58.000Z</updated>
-        <summary type="html"><![CDATA[11/19(火)育の日は狩りまくる決心をした。ちょっと外せない会議だけ顔を出すけど、それ以外は一心不乱に狩りだ！現在、Lv1570だが、経験値5倍(もちろん常時パワキあり)で終日狩ると何レベルになるのか？あまり意気込むと、頑張れなかったときの反動が怖いので、目標は控えめにLv1600にしよう。不安材料は、ウポス(今は北部)にミラーが無いこと。ウポス補助に動物・神獣への魔法ダメアップを採用しているため、人間やアンデットが湧]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
