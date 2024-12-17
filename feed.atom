@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-17T06:52:54.081Z</updated>
+    <updated>2024-12-17T07:22:32.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -59,6 +59,16 @@
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[炙りキャノニア]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-231.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-231.html"/>
+        <updated>2024-12-16T09:00:01.000Z</updated>
+        <summary type="html"><![CDATA[今年も年末が迫ってきました。毎年年末に迫られる第三の猫です。今回は、キャノニアを使ってみたいと思います。2年前に金鯖で作ったキャプテンを再振りしたので、3転直後からのスタートです。まずはマスクエを受けました。モンスターを倒すだけでOKです。アプデの改訂版もよろしくお願いします。（クールタイム発生時に他のスキルまでクールタイムになるやつとか）元が物理キャプテンだったので、そのまま物理にしてみたのですが、]]></summary>
+        <author>
+            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
