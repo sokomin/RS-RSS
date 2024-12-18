@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-18T01:45:30.406Z</updated>
+    <updated>2024-12-18T02:58:36.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -885,16 +885,6 @@ Lv1250まで
         <summary type="html"><![CDATA[長い間この状態になっている図鑑。先日の秋ロトで黄金人形が4つ出たので、ALL選択コクーンを使って完成させたいとおもう。完成(感無量)何故こんなことをやっているのかというとレベリングに疲れたから・・・せめて@3レベル上げて、Lv1600にはしたいところ。やはり、RSのレベリングは向いてない(単調で眠くなる)]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夜の生霊。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1043.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1043.html"/>
-        <updated>2024-11-18T14:58:11.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。あぁ～良いっすねぇ。このmob、硬いです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
