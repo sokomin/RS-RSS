@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-18T19:48:06.167Z</updated>
+    <updated>2024-12-18T20:23:51.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -875,16 +875,6 @@ Lv1250まで
         <summary type="html"><![CDATA[最近新しくネクロを作り出してチュートリアルをしているのですがその過程で冒険団コインが大量にもらえます。このコインの本来の使い方は協会装備を作りそれを強化する事に使用して1250までそれでちゃんと成長させることができるという意味でくれるのだと思いますがネクロ育成数体目で他のネクロからのおさがりや共有化装備のおかげで協会装備は初期の状態だけで何とかなってしまうのでこのコインはほぼ自由に使えるものとしてコイ]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】図鑑完成(初)と育の日レベリング状況]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1046.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1046.html"/>
-        <updated>2024-11-19T08:19:35.000Z</updated>
-        <summary type="html"><![CDATA[長い間この状態になっている図鑑。先日の秋ロトで黄金人形が4つ出たので、ALL選択コクーンを使って完成させたいとおもう。完成(感無量)何故こんなことをやっているのかというとレベリングに疲れたから・・・せめて@3レベル上げて、Lv1600にはしたいところ。やはり、RSのレベリングは向いてない(単調で眠くなる)]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
