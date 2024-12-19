@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T01:45:49.485Z</updated>
+    <updated>2024-12-19T02:58:45.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[王室の影を解放変換してみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202412190000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202412190000/"/>
+        <updated>2024-12-19T02:21:28.000Z</updated>
+        <summary type="html"><![CDATA[↑もともと一応こんな感じに解放変換はしていました。職鎧の解放変換は、そこまで火力の上がるＯＰがないので、魔法致命ダメ4％が引けただけマシかなと思っていました。でも、鎧でもあと少し火力を上げたいので、2...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[決闘場 戦績。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1069.html</id>
