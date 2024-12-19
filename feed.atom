@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T05:20:54.692Z</updated>
+    <updated>2024-12-19T05:47:41.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -803,6 +803,16 @@
         <summary type="html"><![CDATA[こんばんは。ゲリオ超級からです。相乗効果のティゴス(ドラクエ4)。メインシーフ、1410Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5倍は姫を上げました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202411200000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202411200000/"/>
+        <updated>2024-11-21T18:12:10.000Z</updated>
+        <summary type="html"><![CDATA[装備100バッジを使っている関係で、姫のレベル上げを優先しました。5倍開始時は、Lv1379でした。ちゃんと夜は寝ましたし、火曜日は普通に仕事もあったので、そこまで上がりませんでしたね。でも、これでバッジが2...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
