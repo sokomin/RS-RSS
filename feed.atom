@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-21T03:47:41.113Z</updated>
+    <updated>2024-12-21T04:24:28.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ボトル束の表記が300万を大幅に超えました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202412210000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202412210000/"/>
+        <updated>2024-12-21T04:12:24.000Z</updated>
+        <summary type="html"><![CDATA[クリーチャーパッシブから大地強化を外して、上級攻撃速度を取り入れました。それにより攻撃速度の付いた指を外して、T知識太極4解放を取り入れました。他には運が過剰になってきたので武器の運を削って攻撃速度D...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メインクエスト2。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1072.html</id>
