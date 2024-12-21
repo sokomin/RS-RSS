@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-20T23:47:48.749Z</updated>
+    <updated>2024-12-21T01:38:26.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -921,16 +921,6 @@
         <summary type="html"><![CDATA[装備100バッジを使っている関係で、姫のレベル上げを優先しました。5倍開始時は、Lv1379でした。ちゃんと夜は寝ましたし、火曜日は普通に仕事もあったので、そこまで上がりませんでしたね。でも、これでバッジが2...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[はだしのゲンを読む]]></title>
-        <id>http://scratch2009.blog.fc2.com/blog-entry-231.html</id>
-        <link href="http://scratch2009.blog.fc2.com/blog-entry-231.html"/>
-        <updated>2024-11-21T11:54:24.000Z</updated>
-        <summary type="html"><![CDATA[小学校３年生くらいとき、学級文庫（教室の後ろに置かれた本棚）に、はだしのゲンが全巻揃っていました。図書室からの提供なのか、同級生の誰かが持ってきたのかよくわかりませんが、マンガって基本学校に持ち込み禁止だったので、禁止されてたものが読める！ということで結構な人がはだしのゲンを読んでいた気がします。今の時代だと、描写が生々しすぎるので年齢制限がかかってたりするんですかね？最近、色々な漫画を読める機会]]></summary>
-        <author>
-            <name>scratch2009</name>
         </author>
     </entry>
     <entry>
