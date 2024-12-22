@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-22T06:27:57.585Z</updated>
+    <updated>2024-12-22T06:47:53.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】キャノニア　新キャラでたらしいじゃん]]></title>
+        <id>https://www.youtube.com/watch?v=3do4vsU3UHg</id>
+        <link href="https://www.youtube.com/watch?v=3do4vsU3UHg"/>
+        <updated>2024-12-22T06:37:48.000Z</updated>
+        <author>
+            <name>ロイ4世“ロイ4世チャンネル”</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レッドストーン　知識キャノニアを少し育ててみた]]></title>
+        <id>hatenablog://entry/6802418398313619197</id>
+        <link href="https://no55555.hatenablog.com/entry/2024/12/22/153000"/>
+        <updated>2024-12-22T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[(V)o￥o(V)
+ 
+　2024年もあと少しで終わりですね。今年の冬は雪が結構降ってるようで去年よりも寒くなるんでしょうかね。自分は前より暖かい場所に引っ越したので今年の冬はどれくらい寒さが違うのか楽しみです。
+　赤石は少し前に新しい職業が実装されましたね。その名も「キャノニア」！見た目は小さな女の子だけど年齢30歳ってところがイイ！と謎に思っておりました。そんなキャノニアは覚醒で物理と知識両方で遊ぶことができます。今のキャノニア関連の装備の相場を見てみると物理の方が人気がありそうな印象です。そんな時笛吹さんは本当に不人気な方は弱いのか？と謎にやる気が出てきてしまうので知識覚醒のキャノニアで遊んでみようと決意しました。
+　今回は今のところ自分が遊んでみての知識キャノニアがどんな感じだったのかを書いていこうかと思います。
+知識キャノニアの主なスキル
+覚醒スキル
+覚醒以外のスキル
+超越スキル
+知識キャノニアの装備等を考える
+スキルの特性から考える
+武器
+防具
+知識キャノニアの装備構成例
+狩りの仕方
+狩場での動き方を考える
+狩り実例
+まとめ
+知識キャノニアの主なスキル
+　それではまずは知識キャノニア向けの主なスキルについて書いていこうと思います。今はデリンダリンのチュートリアルクエストがあり、すぐ覚醒できるレベルまで達するので覚醒スキルのあるものは覚醒スキルのみを書きます。
+覚醒スキル
+◆ターレットアーキテクト
+
+　知識キャノニアにとって要となるスキル。使用するとターレットを一つ指定した地点に設置することができます。設置できる範囲は武器射程と思われます。説明にある通りターレットは2個まで設置することができ、3個目を置こうとすると1個目に置いたターレットが消えます。また、ターレットは設置から10秒間経つと消えます。
+　ターレット設置中にキャノニアが攻撃をすると追加打撃が発生するス…]]></summary>
+        <author>
+            <name>曇りのち晴れ４８日</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キャノニアの覚醒 －ソリタリィフォース－]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/cf2f98ab4c9c058a53180e42efeb1f9c</id>
