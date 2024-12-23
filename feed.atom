@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-23T13:26:03.314Z</updated>
+    <updated>2024-12-23T13:47:48.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ラビアクートのカケラ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1075.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1075.html"/>
+        <updated>2024-12-23T13:30:52.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。結晶石狙いです。週一のお楽しみ(大当たり)です(*'▽')。ウィークリーファルコンです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】ロイ４世のレッドストーン配信！]]></title>
         <id>https://www.youtube.com/watch?v=J--9gKpwWEc</id>
