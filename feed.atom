@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-23T02:53:15.667Z</updated>
+    <updated>2024-12-23T03:26:41.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1056,26 +1056,6 @@
         <summary type="html"><![CDATA[衆議院議員選挙では、私はこれまでずーっと小選挙区・比例どちらも自民党に入れ続けてきたんですが、先日の選挙では初めて国民民主党に投票しました。（私の選挙区では国民民主党候補が不在だったため）もちろん本当に政権交代してほしい訳ではなく、自民党には一定程度議席を減らし危機感を持ってもらいたいというのと、国民民主党という久々にみたまともな政党に期待をしたいという両面の理由があった訳です。結果はご承知の通り]]></summary>
         <author>
             <name>scratch2009</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】12月初旬プレイ可能なビッグタイトル2選]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1048.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1048.html"/>
-        <updated>2024-11-23T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[まずは12/4にリリースされる、リネージュ最新作。リネージュ  Journey of Monarch - 君主の道 -UE5(Unreal Engine 5)で開発されている見下ろし型MMORPGで、先にリリースされた「THRONE AND LIBERTY(スローン・アンド・リバティ)」より個人的には好み。今現在も絶賛プレイ中のREDSTONEにより近い感じで、画面酔いも最小限で済みそうな感じがGoodな期待の新作。10/30時点で、グローバル事前登録者数が400万人を突破しており、古き良]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024ハンティングBOX。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1047.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1047.html"/>
-        <updated>2024-11-23T14:58:52.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。キャプテンコスチュームです。イベントBOXからです。メインシーフ、1411Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
