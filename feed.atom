@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-24T10:47:36.358Z</updated>
+    <updated>2024-12-24T11:16:57.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[砲撃術＜キャノニアスキルマスター＞]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/0f69e7497c4b187169493fd2a6def8c9</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/0f69e7497c4b187169493fd2a6def8c9?fm=rss"/>
+        <updated>2024-12-24T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[『一覧へ戻る』
+
+
+受託場所は衛星都市ロングテールにいるベリルさん(31,62)です。
+
+
+fmfm
+
+
+ロングテール付近の狩場にいるMOBを50体倒すようです。
+
+
+白丸の辺りにいます。
+
+
+対象MOBはこの４体。
+
+
+倒し終わったらベリルさんの処に戻ります。
+
+
+
+『一覧へ戻る』]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ラビアクートのカケラ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1075.html</id>
