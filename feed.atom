@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-24T02:40:47.727Z</updated>
+    <updated>2024-12-24T03:04:22.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1111,16 +1111,6 @@
         <summary type="html"><![CDATA[こんばんは。鏡チャレンジです。珍しく成功です(*'▽')♪メインシーフ、1412Lv達成です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文字が見えない]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-879.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-879.html"/>
-        <updated>2024-11-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[朝の着替えが寒くて電気ストーブを出しました最近めっきり冷え込んできましたねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
