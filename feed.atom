@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-25T01:38:46.123Z</updated>
+    <updated>2024-12-25T02:38:41.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1151,16 +1151,6 @@ fmfm
         <link href="https://medaka1985.fc2.net/blog-entry-1050.html"/>
         <updated>2024-11-26T13:19:31.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。優しい色の翼コスチュームです。ニンバス2000だっ！(ハリーポッター)サブのシーフ、947Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニバマラソンBOX。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1049.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1049.html"/>
-        <updated>2024-11-25T13:42:51.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。モントゥトゥユピーかな？(HUNTER×HUNTER)配布BOXです。こんな感じでした(*'▽')。タビアクート討伐の報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
