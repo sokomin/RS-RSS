@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-25T03:47:58.947Z</updated>
+    <updated>2024-12-25T04:25:19.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ランサーの表記ダメとステ装備]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202412250000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202412250000/"/>
+        <updated>2024-12-25T03:51:31.000Z</updated>
+        <summary type="html"><![CDATA[​本格的に槍のレベル上げに取り掛かるので、装備構成を少し見直しました。それにより表記ダメが少し上がったので載せていきます。使っている主要スキルを一気に貼ります！武器のダメ幅がすごいので、スキルダメも...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メリークリスマス]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-990.html</id>
