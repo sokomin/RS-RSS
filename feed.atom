@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-26T02:39:28.096Z</updated>
+    <updated>2024-12-26T03:03:36.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1153,16 +1153,6 @@ fmfm
         <summary type="html"><![CDATA[こんばんは。ヤティカヌにマッチした冒険家さんです。ありがたやぁ(*´ω｀*)。イベント箱からです。メインシーフ、1413Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いまさらですがアルカナ。]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-448.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-448.html"/>
-        <updated>2024-11-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ずっとRSを継続してる方には普通の事であっても久しぶりに復帰した方にはまったく見当のつかないモノなどがあったりします。わたしも1回目の復帰の時は4～5年ぶりくらいだったのでそうでした＾＾；この前ある方と話をしていてわたしは普通に話してましたがその方はアルカナを知らなかったみたいだったのでそちらのほうを再確認しようかと思いました＾＾まず、アルカナとは何か？というと９００以降のキャラが装備できる補助武器に]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
