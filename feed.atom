@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-27T23:47:30.543Z</updated>
+    <updated>2024-12-28T01:37:47.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キャプテンの覚醒 －レイジングウェーブ－]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/7b950cb4487972f55c22068a516c5772</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/7b950cb4487972f55c22068a516c5772?fm=rss"/>
+        <updated>2024-12-28T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[年末年始休暇に突入しました。
+
+覚醒タイプは「レイジングウェーブ」
+
+「海の支配者」
+
+専用強化スキルは「ディセムパーキング」
+
+範囲です。
+
+強化スキルの１つは「アクアポンプ」
+
+こちらは単体スキルです。
+
+もう１つの強化スキルは「レインフォッグ」
+
+範囲の持続ダメ。
+対し体力ではないかもしれませんが、低下もあるので便利かも。
+
+
+アクアランチャーは左上に入るので、左上にアクアランチャー、左下にグレイトディセムパーキングをセットし、スチームフォッグを使ったのち通常攻撃。が使いやすいようです。
+ただ、消費CPが大きいので心臓狩り必須になるのでしょうけど。
+装備が適当な割にダメがでていたので、装備をそろえればそこそこの火力はだせそうですね。
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クロウ・ハンガー(＋12)]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1080.html</id>
