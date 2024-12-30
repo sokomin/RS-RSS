@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-30T07:47:36.523Z</updated>
+    <updated>2024-12-30T08:27:02.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】一級ハムスター]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1059.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1059.html"/>
+        <updated>2024-12-30T07:52:24.000Z</updated>
+        <summary type="html"><![CDATA[遂に一級ハムスター(Lv1700)になった。※12/30現在、Lv1710くらい。感無量である。これにて冒険(レベリング)は一旦縮小し、今後は精鋭討伐でお金を貯めつつ、新装備を待とうとおもう。精鋭討伐以外は土曜に攻城戦を楽しむくらいで、熱い経験値イベントでも来ない限り、スフィアも無しでいく予定。思えば、プレイ開始から19年くらい経過してて、途中2、3回休止をしたものの、実に約16年間もの長きに渡る冒険だった。自身にとっては大]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本年のしめくくり]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-884.html</id>
