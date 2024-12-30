@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-30T02:54:01.173Z</updated>
+    <updated>2024-12-30T03:26:59.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1296,16 +1296,6 @@ fmfm
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルビオン、オンライン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1054.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1054.html"/>
-        <updated>2024-11-30T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。2000Lv以降の石盤に似てます。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
