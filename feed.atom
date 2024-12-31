@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-31T14:47:38.485Z</updated>
+    <updated>2024-12-31T15:20:35.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新年ですね]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-991.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-991.html"/>
+        <updated>2024-12-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[干支とは関係なくて恐縮ですが、さいしょのご挨拶イラストは拙宅の次女・リゼで。旧年中は当踏み外しブログに遊びにお越しいただき、ありがとうございました。おかげさまでこのブログも17年目に突入いたします。ここまで長く続けることができて、とても嬉しいです。レッドストーンも今年で20周年……オープン時0歳だった子が成人に：(((((((;ºヮº)))))))：年を取るわけです(´ー`)色々考えると呆然としてしまいますけれど。新しい一年]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[倉庫キャラを1250知識槍にしてみた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202412310000/</id>
