@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-01T16:24:56.201Z</updated>
+    <updated>2025-01-01T16:48:35.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1310,16 +1310,6 @@ fmfm
         <summary type="html"><![CDATA[遂に明日からサービスが開始される「Journey of Monarch　君主の道」リネージュ最新作とだけあって、全世界で高い注目を集めているようだ。テンション上がってきたぞおおお！]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[先輩の眼光。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1056.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1056.html"/>
-        <updated>2024-12-03T04:36:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。完全に一致。ロブスターのステーキです。本格プライムリブステーキです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
