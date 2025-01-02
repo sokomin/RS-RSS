@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T15:20:57.099Z</updated>
+    <updated>2025-01-02T15:47:31.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1336,16 +1336,6 @@ fmfm
         <summary type="html"><![CDATA[こんにちは。良い景色です。謎の銅像です。旅路も終盤です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[殴りWIZがダリデリクエをクリア]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202412040000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202412040000/"/>
-        <updated>2024-12-04T03:35:10.000Z</updated>
-        <summary type="html"><![CDATA[ダリデリクエをクリアしました。単体スキルで狩りをするのは、やっぱり大変でした。たぶんここからレベルを上げることはないと思います・・ｗ殴りＷＩＺなんていう希少種がどんなステ・装備なのか気になる人がい...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
