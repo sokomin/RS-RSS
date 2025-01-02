@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T18:28:19.160Z</updated>
+    <updated>2025-01-02T18:48:39.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1326,16 +1326,6 @@ fmfm
         <summary type="html"><![CDATA[Lv2000コンテンツのアップデート以降、精鋭討伐の報酬がしょぼくなっている「様な」気がする。所詮は週に13キャラ程度の体感であり、たまたま引きが悪かっただけかもしれない。しかし、しょぼくなっている！という声は結構耳にするため、記録からアップデート前後の報酬を比較してみようと思う。※比較の前提・比較対象の報酬は、Lv1250タビアクート精鋭討伐の箱から出現するタビアクート欠片のみとする。・タビアクート欠片は5個、]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅の栞。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1057.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1057.html"/>
-        <updated>2024-12-04T06:34:48.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。良い景色です。謎の銅像です。旅路も終盤です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
