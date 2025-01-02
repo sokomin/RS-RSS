@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-01T23:47:58.677Z</updated>
+    <updated>2025-01-02T01:39:33.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1310,16 +1310,6 @@ fmfm
         <summary type="html"><![CDATA[強い方たちは狩場では一撃で敵を殲滅するという話をよく聞きますがわたしの場合メインキャラのオオカミ少年でも狩場では2～3発の攻撃を要します＾＾；基本連打でした＾＾；赤ダメは出せるのですがどうもダブクリが低いらしくてGメンさんたちに相談したところもっとクリーチャーを強化しないといけないという事で今クリーチャーのダブクリダメージをあげようと頑張ってるのですがこれがなかなか進まないでいました＾＾；ちょっとこ]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Journey of Monarch】事前DL開始]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1050.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1050.html"/>
-        <updated>2024-12-03T12:49:11.000Z</updated>
-        <summary type="html"><![CDATA[遂に明日からサービスが開始される「Journey of Monarch　君主の道」リネージュ最新作とだけあって、全世界で高い注目を集めているようだ。テンション上がってきたぞおおお！]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
