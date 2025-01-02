@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T02:39:38.988Z</updated>
+    <updated>2025-01-02T03:03:07.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1290,26 +1290,6 @@ fmfm
         <summary type="html"><![CDATA[ダリデリクエをクリアしました。単体スキルで狩りをするのは、やっぱり大変でした。たぶんここからレベルを上げることはないと思います・・ｗ殴りＷＩＺなんていう希少種がどんなステ・装備なのか気になる人がい...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】遂に来た、あいつ！]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1051.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1051.html"/>
-        <updated>2024-12-03T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[いやー長かった・・・１人で５個も６個も出してる人がいる中、全くドロップする気配が無かったあいつが、遂にきたああああ！みんな、ありがとおおおもう思い残すことは無い。ん？これはREDSTONEが引き留めにきているのか？ｗ]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メインの課題。]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-449.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-449.html"/>
-        <updated>2024-12-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[強い方たちは狩場では一撃で敵を殲滅するという話をよく聞きますがわたしの場合メインキャラのオオカミ少年でも狩場では2～3発の攻撃を要します＾＾；基本連打でした＾＾；赤ダメは出せるのですがどうもダブクリが低いらしくてGメンさんたちに相談したところもっとクリーチャーを強化しないといけないという事で今クリーチャーのダブクリダメージをあげようと頑張ってるのですがこれがなかなか進まないでいました＾＾；ちょっとこ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
