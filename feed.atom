@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-03T02:40:55.896Z</updated>
+    <updated>2025-01-03T03:25:29.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1392,16 +1392,6 @@ fmfm
         <link href="http://amakusa46.blog34.fc2.com/blog-entry-1053.html"/>
         <updated>2024-12-05T15:00:01.000Z</updated>
         <summary type="html"><![CDATA[マルチプラットフォームな時点で、悪い予感はしないでもなかった。勝手にMMORPGだと思い込み、勝手に終りの住処だと決め込んでいた自分。1人用Autoバトルのショシャゲだとおおおお？PCでやっても、1人用Autoバトルのショシャゲだとおおおお？ブログ連載2回目でアンインストール、最短記録だ。]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】精鋭討伐の報酬がしょぼくなっている？]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1052.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1052.html"/>
-        <updated>2024-12-04T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Lv2000コンテンツのアップデート以降、精鋭討伐の報酬がしょぼくなっている「様な」気がする。所詮は週に13キャラ程度の体感であり、たまたま引きが悪かっただけかもしれない。しかし、しょぼくなっている！という声は結構耳にするため、記録からアップデート前後の報酬を比較してみようと思う。※比較の前提・比較対象の報酬は、Lv1250タビアクート精鋭討伐の箱から出現するタビアクート欠片のみとする。・タビアクート欠片は5個、]]></summary>
         <author>
             <name>JEFRY</name>
         </author>
