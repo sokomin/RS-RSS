@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-03T13:04:27.408Z</updated>
+    <updated>2025-01-03T13:32:59.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PvP戦績。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1088.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1088.html"/>
+        <updated>2025-01-03T13:19:07.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。たまに330万ダメージ出ます(´ω｀*)。507÷(507＋377)×100=60.07(%)今だけこの順位です(/・ω・)/。メインシーフ、1434Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2次ペットも使えないんかい]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202501030000/</id>
