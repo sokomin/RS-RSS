@@ -99,18 +99,7 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": [
-        {
-          "id": "https://intothe.info/?p=2545",
-          "author": "marsborn",
-          "description": "現在WoWは20周年記念イベント期間リリース日が2004年11月23...",
-          "link": "https://intothe.info/wow/world-of-warcrafts-20th-anniversary/",
-          "publishedOn": "2024-12-06T02:57:13.000Z",
-          "wordCount": 1030,
-          "title": "World of Warcraft’s 20th Anniversary",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "魔法の壁のリアルライふ",
