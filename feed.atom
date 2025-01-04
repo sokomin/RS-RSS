@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-04T02:37:59.781Z</updated>
+    <updated>2025-01-04T03:01:54.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1414,16 +1414,6 @@ fmfm
         <summary type="html"><![CDATA[現在WoWは20周年記念イベント期間リリース日が2004年11月23...]]></summary>
         <author>
             <name>marsborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Journey of Monarch】最短記録]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1053.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1053.html"/>
-        <updated>2024-12-05T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[マルチプラットフォームな時点で、悪い予感はしないでもなかった。勝手にMMORPGだと思い込み、勝手に終りの住処だと決め込んでいた自分。1人用Autoバトルのショシャゲだとおおおお？PCでやっても、1人用Autoバトルのショシャゲだとおおおお？ブログ連載2回目でアンインストール、最短記録だ。]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
