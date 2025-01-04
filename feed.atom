@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-04T01:38:12.819Z</updated>
+    <updated>2025-01-04T02:37:59.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[去年末スペシャル]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-232.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-232.html"/>
+        <updated>2025-01-04T01:41:54.000Z</updated>
+        <summary type="html"><![CDATA[あけましておめでとうございます。あけたからといって何が変わるでもない、第三の猫です。おめありです。まずは去年末辺りに気づいたことから。ドロップアイテムの色が戻りましたね（ノーマル＝白色、OP付き＝水色）ユニークアイテムも元通り（ユニーク＝黄色、Sユニーク＝紫色）次に、これは偶然気づいた事なのですが、2024年金鯖で配られた、銀行取引できない祈りのカケラ1000個が、なぜか銀行に入るようになっていました。今な]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PvP戦績。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1088.html</id>
