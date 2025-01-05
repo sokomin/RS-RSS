@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-05T16:23:15.276Z</updated>
+    <updated>2025-01-05T16:50:19.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1414,16 +1414,6 @@ fmfm
         <summary type="html"><![CDATA[こんばんは。可愛いコスチュームです。UMUドロップです。スフィアーキャンペーンです。なかなか・・・！精鋭報酬の結果です。メインシーフ、1417Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[姫と闘士が目標達成しました！]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202412070000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202412070000/"/>
-        <updated>2024-12-07T04:25:01.000Z</updated>
-        <summary type="html"><![CDATA[経験値イベントを頑張った結果、↑こうなりました。これで1500精鋭キャラが4体となりました。まぁ、最近は全然箱出ないんですけどねｗ姫が1500になりウポス補助武器をゲットしたわけなんですが、ちょっとした奇跡...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
