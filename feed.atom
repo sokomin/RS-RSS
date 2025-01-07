@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-07T04:47:54.828Z</updated>
+    <updated>2025-01-07T05:19:16.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HNY 2025]]></title>
+        <id>kaze.gg-blog.com://entry/206</id>
+        <link href="http://kaze.gg-blog.com/other/hny%202025"/>
+        <updated>2025-01-07T05:15:57.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+
+
+毎日見てるの！？
+今さらながらブロガーとしての愚痴をひとつ(2024年の内にやれよ)
+
+
+SSを撮ると「ScreenShot」フォルダに保存されます
+
+
+以前の「スクリーンショット」時代は、こんな風に
+
+
+新しい「ScreenShot」フォルダ内では、こんな風に
+※読まなくていいです
+風のクリスマス
+
+
+噴水を埋め立てて木を植える工事も大変そうだなぁ
+  
+
+
+ここにも仲間が
+風のお正月
+  
+
+お正月は仕事漬けでしたね
+
+
+
+2025年も風の詩。と風に吹かれてをよろしくお願いします！]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゴブリン突撃部隊。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1091.html</id>
