@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-07T23:01:08.776Z</updated>
+    <updated>2025-01-07T23:19:25.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1456,16 +1456,6 @@ fmfm
         <summary type="html"><![CDATA[こんばんは。マジシャンタイプかな？当たりです(*'▽')。メインシーフ、1419Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】「達人の片鱗」仕様の行方]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1054.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1054.html"/>
-        <updated>2024-12-09T11:05:59.000Z</updated>
-        <summary type="html"><![CDATA[現在、物理最強の指「達人の片鱗」が、修正ミスか意図的かは不明だが、完全にぶっ壊れ性能になっている。公式では0.8%と訂正されているにも関わらず、実際のアイテムは「8%」と表記されており、かつ実際の効果も8%になっている。8%がどれだけ強いかというと、物理コラプ武器の性能が最大10%であることを考えれば、指１つで8%がどれだけ破格か分かるだろう。一時期、好きなＴ比率が選択できる箱が4200本で売れ残っていたが、今現在]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
