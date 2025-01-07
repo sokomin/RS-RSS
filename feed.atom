@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-07T13:27:51.474Z</updated>
+    <updated>2025-01-07T15:14:12.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025年の抱負]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-453.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-453.html"/>
+        <updated>2025-01-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年の年末年始は異例の雪の量となり雪かきをしてて疲れたという感じでした＾＾；お正月はほぼRSしてないんですよね…今年の目標はまだ考えてなかったのですがギリギリやれそうな目標としてはオオカミ少年のLv１４００かな？？と思いました＾＾何事も無ければ行けるんじゃないかな？と思ってます。今年の冬の雪の量で進捗が変わるかもしれないので微妙なラインかな？と思いますがとりあえずこれで頑張ろうかなと思います！ちなみに]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[七草。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1092.html</id>
