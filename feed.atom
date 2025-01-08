@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-08T17:47:27.026Z</updated>
+    <updated>2025-01-08T18:29:16.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知識ランサーの進捗状況]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202501090000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202501090000/"/>
+        <updated>2025-01-08T18:19:55.000Z</updated>
+        <summary type="html"><![CDATA[洒落で育成を始めた知識ランサーですが、割と楽しくなってしまってLv1250になってからも祈りのカケラ出しをやったり、装備を集めたりクリーチャーを育成したりしています。まだ動かし始めてから2週間も経っていな...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TRSULT婚約。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1093.html</id>
