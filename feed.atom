@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T02:07:58.314Z</updated>
+    <updated>2025-01-09T03:16:25.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1444,26 +1444,6 @@ fmfm
         <link href="https://medaka1985.fc2.net/blog-entry-1063.html"/>
         <updated>2024-12-11T14:29:36.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。限定ジャンケンかな？いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[簡易型]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-450.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-450.html"/>
-        <updated>2024-12-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[自分で思ったほどはかどらなくて驚いているのですがオオカミ少年の量産型として作っているネクロがまだ1250に達していなかったりします＾＾；最近結構やる事多かったですからね…とりあえずチュートリアルも1450体狩りまで来てたのでもうすぐ完成かな？と思っていたので年内にはカタチにはなるのかなと思っていますが装備のほうがちょっと微妙なのとクリーチャーが微妙かな…と感じてました＾＾；クリーチャーはメイン垢だと優先度が]]></summary>
-        <author>
-            <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヤティカヌ狩り。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1062.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1062.html"/>
-        <updated>2024-12-10T14:44:12.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。セクシーなコスチュームです。狩り風景です。サブのシーフ、952Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
