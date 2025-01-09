@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T15:47:39.940Z</updated>
+    <updated>2025-01-09T16:26:45.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プレイオフが始まるよ]]></title>
+        <id>gregorio29.blog.shinobi.jp://entry/324</id>
+        <link href="http://gregorio29.blog.shinobi.jp/nflohanasi/%E3%83%97%E3%83%AC%E3%82%A4%E3%82%AA%E3%83%95%E3%81%8C%E5%A7%8B%E3%81%BE%E3%82%8B%E3%82%88"/>
+        <updated>2025-01-09T16:19:14.000Z</updated>
+        <summary type="html"><![CDATA[NFLのレギュラーシーズンが終わりついにプレイオフが始まります。
+
+
+
+
+NFLの闇の部分を描いた作品、これも実話が元になっています。このオマル医師のお陰で今は脳震盪ルールが細かく設定されています。
+
+以上の３本ですがどれも素敵な作品ですので、ご興味があればどうぞ]]></summary>
+        <author>
+            <name>グレゴリオ麺道　〜Red Stoneと麺類〜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漆黒の暗躍 変換。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1094.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1094.html"/>
+        <updated>2025-01-09T16:03:44.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ダブルクリティカルが気持ち良いです。防御力重視なオプションです。メインシーフ、1437Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.1.9 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/502e39b8349c4daef90cbc3aaea582d1</id>
