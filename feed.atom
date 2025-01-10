@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-10T01:42:47.593Z</updated>
+    <updated>2025-01-10T02:54:40.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1554,16 +1554,6 @@ fmfm
         <link href="https://medaka1985.fc2.net/blog-entry-1064.html"/>
         <updated>2024-12-12T14:31:14.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。キャノニア、参戦！ログインボーナスのスパロトからです。メインシーフ、1420Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＄3。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1063.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1063.html"/>
-        <updated>2024-12-11T14:29:36.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。限定ジャンケンかな？いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
