@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-11T21:49:18.571Z</updated>
+    <updated>2025-01-11T22:18:27.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1621,16 +1621,6 @@ fmfm
         <summary type="html"><![CDATA[ウィークリーアスタロト君。被魔法ダメージ吸収100%を貫通できる魔法はお持ちでないようですね。なんだかずるいような気もしますが、ソロウィークリー勝利です。改めましてこんばんは、第三の猫です。ついに新キャラが実装されましたね。どんな感じなのか楽しみではありますが、詳細は今後確認するとしまして、今回はアプデ前に攻略したダリンデリンのエピソードクエストの様子を紹介します。おろしたてのクリスマスコスチュームを]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青い宝箱。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1065.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1065.html"/>
-        <updated>2024-12-13T10:01:33.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。鏡チャレンジです！まさかの2連勝です！13分で出ちゃう(はっきり分んだね)。ピンポンダッシュ決闘成績です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
