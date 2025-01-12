@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-886.html",
+          "author": "ミツリン",
+          "description": "年が明けて仕事始めが来ました長期の休み明けの仕事は中々しんどいですよねこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-886.html",
+          "publishedOn": "2025-01-12T15:00:00.000Z",
+          "wordCount": 618,
+          "title": "仕事始め",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-885.html",
           "author": "ミツリン",
           "description": "皆様あけましておめでとうございます本年もどうぞよろしくお願いいたしますミツリンです",
@@ -1120,6 +1130,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1097.html",
+          "author": "medaka1985",
+          "description": "こんばんは。牡蠣のフライとうどんが、美味しかったです（小並感）いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1097.html",
+          "publishedOn": "2025-01-12T14:49:17.000Z",
+          "wordCount": null,
+          "title": "昼御膳。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1096.html",
           "author": "medaka1985",
