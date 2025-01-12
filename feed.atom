@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-12T21:30:04.033Z</updated>
+    <updated>2025-01-12T21:47:46.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1536,16 +1536,6 @@ fmfm
         <summary type="html"><![CDATA[こんばんは。お試しパウダー効果です。闇商人の露店です。メインシーフ、1421Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[確認してみた]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1287.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1287.html"/>
-        <updated>2024-12-14T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[昨日の記事でソリタリィフォースにしたと書きましたがそれの覚醒スキルにタレットがあります。で、気になったのがタレットの射程どれくらいなのかという事ですね。という事で昨日落ちる前に確認してみました。試した場所はソゴム山脈赤山で、攻撃対象はキャラ適正でもあるPTボスのサタンで攻撃に使用するスキルはタレットが反応するようにスコーチングロアーで試しています。参考までにこれが僕のキャラだとタレットなしで与えられ]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
     <entry>
