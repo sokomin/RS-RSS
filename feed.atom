@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T19:15:38.596Z</updated>
+    <updated>2025-01-14T19:27:41.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1526,16 +1526,6 @@ fmfm
         <summary type="html"><![CDATA[今年も年末が迫ってきました。毎年年末に迫られる第三の猫です。今回は、キャノニアを使ってみたいと思います。2年前に金鯖で作ったキャプテンを再振りしたので、3転直後からのスタートです。まずはマスクエを受けました。モンスターを倒すだけでOKです。アプデの改訂版もよろしくお願いします。（クールタイム発生時に他のスキルまでクールタイムになるやつとか）元が物理キャプテンだったので、そのまま物理にしてみたのですが、]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[各キャラの装備更新状況について]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202412160000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202412160000/"/>
-        <updated>2024-12-16T07:24:50.000Z</updated>
-        <summary type="html"><![CDATA[各キャラの装備がけっこう変わったので、載せていこうと思います。・ランサーの装備1・2解放OPの変換をやりたかったのですが、完全解放を使ったら1回目で3解放になってしまったのでそのまま変換せずに4解放しまし...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
