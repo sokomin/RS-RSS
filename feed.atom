@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T02:57:54.624Z</updated>
+    <updated>2025-01-14T03:24:20.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1526,16 +1526,6 @@ fmfm
         <summary type="html"><![CDATA[Lv2000以降のコンテンツが実装され、何となくRSに見切りを付けた人が多い様に思えてならない。日常的な全体チャットはかなり減り、経験値イベント中の狩場もヤティ星降る以降は空いており、Lv1400〜Lv1800くらいの中間層がすっぽり居なくなった感覚。精鋭討伐も、1250量産組み(自分含む)が週序盤で一気に消化し、後半は募集しても中々集まらない。プレイヤー活性化に期待していたキャノニア実装も、性能的に微妙という結果でヤル気]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年12月アップデート]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-882.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-882.html"/>
-        <updated>2024-12-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[気づけば今年も残すところあと僅かになりましたね早いものですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
