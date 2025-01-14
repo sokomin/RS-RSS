@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T22:33:52.897Z</updated>
+    <updated>2025-01-14T22:47:43.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1471,51 +1471,6 @@ fmfm
         <summary type="html"><![CDATA[こんばんは。縁起が良いです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キャプテンの覚醒 －チェイスストライカー－]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/d1bcf453c670b1d74d89e95bb7a51f83</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/d1bcf453c670b1d74d89e95bb7a51f83?fm=rss"/>
-        <updated>2024-12-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[朝晩冷えますね。
-
-覚醒タイプは「チェイスストライカー」
-
-「アンカーマスター」
-
-専用強化スキルは「アンカーフック」
-
-範囲でした。
-
-強化スキルの１つは「アンカレジ」
-
-こちらも範囲スキルです。
-
-もう１つの強化スキルは「酒豪」
-
-使用した後の状態がこちら。
-赤いオーラのようなものをまといます。
-移動速度と攻撃速度が上がるので、使用してもよいかもしれません。
-
-
-この覚醒もワールウインド同様、物理覚醒って感じですね。
-使いやすさはワールウインドのほうがよいと言っていましたが・・・・
-残るはかなり強力といわれている知識覚醒ですね。
-多分週末にはSSを提供してくれると思うので、楽しみに待ちたいと思いますｗ
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
