@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-16T02:35:27.774Z</updated>
+    <updated>2025-01-16T02:59:01.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1396,71 +1396,6 @@ fmfm
         <summary type="html"><![CDATA[前回のアプデはキャノニアが実装されそちらを色々試してる方もいるのではないかと思います。わたしは冬到来という事でここ数日あまりRSはできてないのですがアプデ後にはっきりと変化が現れちゃったのがストレンジコンジュラーです！いままではパフュームを使うと召喚もパフュームを出していたのですがいまは通常の状態だとパフュームを出さないようでかかしで試してみましたが通常時は本体のパフュームしか出ていなくてそれが召喚]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年ももうすぐ終わる件]]></title>
-        <id>kaze.gg-blog.com://entry/205</id>
-        <link href="http://kaze.gg-blog.com/wakuteka/%E4%BB%8A%E5%B9%B4%E3%82%82%E3%82%82%E3%81%86%E3%81%99%E3%81%90%E7%B5%82%E3%82%8F%E3%82%8B%E4%BB%B6"/>
-        <updated>2024-12-17T14:47:13.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。
-・マキちゃんがフライングする件
-
-
-経験値が増える日にマキちゃんからの依頼で鐘を鳴らすブルさん
-
-
-見事にフライングしました(予告とも言える)
-
-
-ブルさんの心の叫びがメッセージになりました
-
-
-皆さん狩り頑張ってますね！！！！！
- 
-
-（　＾ω＾）・・・
-・RSの夢を見る件
- 
-
-あるある
-・冬はカニが食べたい件
-
-
-0時になるとトラ狩りコールが恒例です
-
-
-トラが現れるのを待っていたら…
-
-
-カニが！！
-
-
-カニをつかまえろーーーー
-
-
-ここにもカニが
-
-
-カニは鍋がいいですね。
-
-
-もうカオス
-・無限にキャンディーが食べられる件
-
-
-
-飴は舐めて食べよう！
-
-
-
-もうすぐクリスマスですね、
-
-私は仕事柄、年末年始がいちばんの繁忙期なので
-
-皆さま、よいお年をーーーー]]></summary>
-        <author>
-            <name>風に吹かれて</name>
         </author>
     </entry>
     <entry>
