@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-16T03:26:23.607Z</updated>
+    <updated>2025-01-16T03:47:46.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1376,16 +1376,6 @@ fmfm
         <summary type="html"><![CDATA[↑もともと一応こんな感じに解放変換はしていました。職鎧の解放変換は、そこまで火力の上がるＯＰがないので、魔法致命ダメ4％が引けただけマシかなと思っていました。でも、鎧でもあと少し火力を上げたいので、2...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[決闘場 戦績。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1069.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1069.html"/>
-        <updated>2024-12-17T15:32:43.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。禍々しいコスチュームです。クリーチャー図鑑75%、到達です。討伐からUMUゲットです。全体 戦績が59%まで上がりました(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
