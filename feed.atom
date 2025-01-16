@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-16T09:20:54.976Z</updated>
+    <updated>2025-01-16T09:47:33.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025.1.16 イベ更新]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/dcd3065dcc61d0514fabe6b03e42ef8f</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/dcd3065dcc61d0514fabe6b03e42ef8f?fm=rss"/>
+        <updated>2025-01-16T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[１月も半ばです。
+
+
+
+
+(3)ログインチェックイベント
+
+2024年12月12日メンテ後から1月16日メンテ前まで
+(4)装備強化Burstイベント
+
+12月19日メンテ後から12月25日23時59分まで
+(5)ヴァンパイア掃討支援イベント
+
+12月127日メンテ後から12月22日23時59分まで
+(3)BOXドロップイベント
+
+9月19日メンテ後から10月10日メンテ前まで
+「もみじBOX」を入手することができます。
+(4)RED STONEのオーラ解放イベント
+
+8月22日メンテ後から9月19日メンテ前まで
+(2)年末年始ログインイベント
+
+2024年12月23日0時から1月5日23時59分まで
+(2)チュートリアル支援
+
+10月17日メンテ後から10月30日23時59分まで
+
+この他のイベントとして
+
+
+
+
+○RAD STONE PASS
+
+10月22日メンテ後から10月30日23時59分まで
+
+2024年12月23日から1月5日まで
+「あけおめ」または「初日の出」と一般チャットで発言すると一定期間バフが受けられます。
+
+2024年12月23日から1月5日まで
+
+9月30日0時から10月13日23時59分まで
+
+9月30日0時から10月13日23時59分まで
+
+6月24日0時から7月14日23時59分まで
+
+
+イベントとは異なるかもしれませんがこちらも。
+「毎月20日は旗の日イベント」
+「Daily Reward」
+
+
+
+
+
+
+2024年12月5日メンテ後から2月6日メンテ前まで
+
+
+
+さて、今週もまったりと楽しみましょうｗ
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オーセンテックジン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1100.html</id>
