@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-18T09:18:51.075Z</updated>
+    <updated>2025-01-18T09:30:45.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[転生指刻印代行廃業のお知らせ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202501180000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202501180000/"/>
+        <updated>2025-01-18T09:25:12.000Z</updated>
+        <summary type="html"><![CDATA[表題のとおり刻印代行は廃業いたします。申し訳ありませんが、今後は依頼を一切引き受けることはございません。理由はお察しくださいｗ]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10連]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-233.html</id>
