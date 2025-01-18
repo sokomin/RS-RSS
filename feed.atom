@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-18T06:26:08.198Z</updated>
+    <updated>2025-01-18T06:47:42.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10連]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-233.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-233.html"/>
+        <updated>2025-01-18T06:28:23.000Z</updated>
+        <summary type="html"><![CDATA[これまでのあらすじ。9連敗中の鏡の魔法書。地下界に通い続け、10回目の挑戦権を得た第三の猫。果たして連敗2桁勢の仲間入りは回避できるのか？回避補正無視。これが10連無料ですか？儲けはないけど話題性があるという意味なら、そうですね。10連にもなるとですね、次回挑戦費用を用意するのにも苦労するんですよ。「何もしなければ成功以上の利益が出ていたライン」は、すでに超えているんです。これはもう初詣（お礼参り）に行か]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PvP戦績。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1102.html</id>
