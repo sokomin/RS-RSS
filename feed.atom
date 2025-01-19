@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-19T04:47:38.044Z</updated>
+    <updated>2025-01-19T05:18:34.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1391,16 +1391,6 @@ fmfm
         <summary type="html"><![CDATA[クリーチャーパッシブから大地強化を外して、上級攻撃速度を取り入れました。それにより攻撃速度の付いた指を外して、T知識太極4解放を取り入れました。他には運が過剰になってきたので武器の運を削って攻撃速度D...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メインクエスト2。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1072.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1072.html"/>
-        <updated>2024-12-20T16:58:42.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。亀様。いつもの。300万出るとテンション上がります(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
