@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-20T07:47:32.120Z</updated>
+    <updated>2025-01-20T08:27:06.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1336,16 +1336,6 @@ fmfm
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロト品が売れないので自分で使ってみた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202412220000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202412220000/"/>
-        <updated>2024-12-21T20:02:12.000Z</updated>
-        <summary type="html"><![CDATA[私は、昔からライダーシューズが好きでした。比率がたくさん付いていてステがかなり増えるので良い足だと思います。ただ、物理としてはダブクリが欲しいし、知識としては弱化強化が欲しいので、新実装された他の...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
