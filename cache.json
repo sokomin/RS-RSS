@@ -137,16 +137,6 @@
           "wordCount": null,
           "title": "【REDSTONE】ロイ４世のレッドストーン配信！",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3do4vsU3UHg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3do4vsU3UHg",
-          "publishedOn": "2024-12-22T06:37:48.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】キャノニア　新キャラでたらしいじゃん",
-          "imageUrl": null
         }
       ]
     },
@@ -1011,21 +1001,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/d24313c8c482f51ac5d0c405f8bf21b6cf403e03/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20250111%2F20250111191443.png"
-        },
-        {
-          "id": "hatenablog://entry/6802418398313619197",
-          "author": null,
-          "description": "(V)o￥o(V)\n \n　2024年もあと少しで終わりですね。今年の冬は雪が結構降ってるようで去年よりも寒くなるんでしょうかね。自分は前より暖かい場所に引っ越したので今年の冬はどれくらい寒さが違うのか楽しみです。\n　赤石は少し前に新しい職業が実装されましたね。その名も「キャノニア」！見た目は小さな女の子だけど年齢30歳ってところがイイ！と謎に思っておりました。そんなキャノニアは覚醒で物理と知識両方で遊ぶことができます。今のキャノニア関連の装備の相場を見てみると物理の方が人気がありそうな印象です。そんな時笛吹さんは本当に不人気な方は弱いのか？と謎にやる気が出てきてしまうので知識覚醒のキャノニアで遊んでみようと決意しました。\n　今回は今のところ自分が遊んでみての知識キャノニアがどんな感じだったのかを書いていこうかと思います。\n知識キャノニアの主なスキル\n覚醒スキル\n覚醒以外のスキル\n超越スキル\n知識キャノニアの装備等を考える\nスキルの特性から考える\n武器\n防具\n知識キャノニアの装備構成例\n狩りの仕方\n狩場での動き方を考える\n狩り実例\nまとめ\n知識キャノニアの主なスキル\n　それではまずは知識キャノニア向けの主なスキルについて書いていこうと思います。今はデリンダリンのチュートリアルクエストがあり、すぐ覚醒できるレベルまで達するので覚醒スキルのあるものは覚醒スキルのみを書きます。\n覚醒スキル\n◆ターレットアーキテクト\n\n　知識キャノニアにとって要となるスキル。使用するとターレットを一つ指定した地点に設置することができます。設置できる範囲は武器射程と思われます。説明にある通りターレットは2個まで設置することができ、3個目を置こうとすると1個目に置いたターレットが消えます。また、ターレットは設置から10秒間経つと消えます。\n　ターレット設置中にキャノニアが攻撃をすると追加打撃が発生するス…",
-          "link": "https://no55555.hatenablog.com/entry/2024/12/22/153000",
-          "publishedOn": "2024-12-22T06:30:00.000Z",
-          "wordCount": 401,
-          "title": "レッドストーン　知識キャノニアを少し育ててみた",
-          "enclosure": {
-            "url": "https://cdn.image.st-hatena.com/image/scale/22e6d6088f9ad146062e335bb109ebfdbcdd9be5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20241222%2F20241222125104.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/22e6d6088f9ad146062e335bb109ebfdbcdd9be5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20241222%2F20241222125104.png"
         }
       ]
     },
