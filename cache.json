@@ -134,7 +134,18 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aglFHd0e9g0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aglFHd0e9g0",
+          "publishedOn": "2025-01-21T11:20:32.000Z",
+          "wordCount": null,
+          "title": "こんちわく",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "無職と美学とシュルレアリスム",
