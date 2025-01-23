@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-23T15:47:41.255Z</updated>
+    <updated>2025-01-23T16:26:16.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1244,16 +1244,6 @@ SSを撮ると「ScreenShot」フォルダに保存されます
         <summary type="html"><![CDATA[こんばんは。レプリカ解放器の結果です。長い名前のユニークです。メインシーフ、1427Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ランサーの表記ダメとステ装備]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202412250000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202412250000/"/>
-        <updated>2024-12-25T03:51:31.000Z</updated>
-        <summary type="html"><![CDATA[​本格的に槍のレベル上げに取り掛かるので、装備構成を少し見直しました。それにより表記ダメが少し上がったので載せていきます。使っている主要スキルを一気に貼ります！武器のダメ幅がすごいので、スキルダメも...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
