@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-23T15:21:56.410Z</updated>
+    <updated>2025-01-23T15:47:41.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[このブログについて その3]]></title>
+        <id>https://intothe.info/?p=2699</id>
+        <link href="https://intothe.info/about-this-blog/3/"/>
+        <updated>2025-01-23T15:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Google...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夜影、デビュー。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1108.html</id>
