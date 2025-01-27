@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-27T03:01:14.641Z</updated>
+    <updated>2025-01-27T03:34:30.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1109,16 +1109,6 @@ SSを撮ると「ScreenShot」フォルダに保存されます
         <link href="https://medaka1985.fc2.net/blog-entry-1082.html"/>
         <updated>2024-12-28T16:18:42.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。キューティクルなコスチュームです。ラッキー(^^♪0時のアリドネ討伐です。メインシーフ、1430Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホルモン焼肉。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1081.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1081.html"/>
-        <updated>2024-12-28T15:07:46.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。うん、美味しい！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
