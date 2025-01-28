@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T14:48:02.188Z</updated>
+    <updated>2025-01-28T15:22:44.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欲しいものはなかなか手に入らない…]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-456.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-456.html"/>
+        <updated>2025-01-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現在ドロップボックスイベをしてるのですが当たりは超ドリームboxやコンテスト装備boxがそれなのかな？と思います。ただし、無課金のわたしにとってこの箱からホントに出てほしいものは狩場へ飛ぶことができる風の羽なのですがこれがなかなか出なかったりします＾＾；たいてい神秘の石とか出土品なんですよね＾＾；他のかたと話をすると風の羽たくさんたまったとか邪魔だから捨てちゃったとか聞くんですけどこれは人によって確立が]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[箱漁りのスプリガン。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1113.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1113.html"/>
+        <updated>2025-01-28T14:53:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです。レッドアイ秘密基地B2にて。箱品ゲットです(売れるかな？)。タオの赤い光の箱からです。漆黒のスミロドンさんです。メインシーフ、1451Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クマー。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1112.html</id>
