@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T01:37:19.230Z</updated>
+    <updated>2025-01-28T02:35:45.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1101,16 +1101,6 @@ SSを撮ると「ScreenShot」フォルダに保存されます
         <summary type="html"><![CDATA[あっと言う間に年末も迫ってきました今回の年末年始は比較的天気が良さそうとの事ですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謎のネックレス。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1083.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1083.html"/>
-        <updated>2024-12-29T13:38:06.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。需要、あるのかな？ホットタイムで上がりました(*'▽')。応援、ありがとうございます！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
