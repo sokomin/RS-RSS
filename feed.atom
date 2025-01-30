@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-30T01:36:21.868Z</updated>
+    <updated>2025-01-30T02:34:07.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1091,16 +1091,6 @@ SSを撮ると「ScreenShot」フォルダに保存されます
         <summary type="html"><![CDATA[かつてのメインキャラで今は倉庫キャラとなっていた†アロセール（旧名：苺姫２号）ですが、気まぐれで知識槍として復活させました。ダリデリクエ自体は楽なんですが、Ｌｖ９００↑のキャラには祈りのカケラをくれ...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謹賀新年。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1085.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1085.html"/>
-        <updated>2024-12-31T14:27:06.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。あけましておめでとうございます。今年も宜しくお願いします。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
