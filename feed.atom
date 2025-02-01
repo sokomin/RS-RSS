@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-01T15:20:55.447Z</updated>
+    <updated>2025-02-01T18:47:38.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1031,26 +1031,6 @@ SSを撮ると「ScreenShot」フォルダに保存されます
         <summary type="html"><![CDATA[こんばんは。たまに330万ダメージ出ます(´ω｀*)。507÷(507＋377)×100=60.07(%)今だけこの順位です(/・ω・)/。メインシーフ、1434Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サブキャラに期間超長のヌウリを作成してみた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202501020000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202501020000/"/>
-        <updated>2025-01-03T06:09:36.000Z</updated>
-        <summary type="html"><![CDATA[まず用意するのは↓これです。今回はイベントやクエでもらったシャード13個を用意しました。これを全部開封します。そしたら次に↓これの出番です。これらもイベント等でもらったやつだったと思います。これらもシ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2次ペットも使えないんかい]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202501030000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202501030000/"/>
-        <updated>2025-01-03T06:01:45.000Z</updated>
-        <summary type="html"><![CDATA[突然変異に使えないと書かれているけど、２次に使えないとは書いてないのに駄目なんかい！！！これはショック・・・やる気なくなったｗ]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
