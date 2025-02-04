@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T15:47:53.571Z</updated>
+    <updated>2025-02-04T16:26:39.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1010,16 +1010,6 @@ SSを撮ると「ScreenShot」フォルダに保存されます
         <summary type="html"><![CDATA[こんばんは。ざわ・・・ざわ・・・！ビーストテイマー、精鋭報酬です。シーフ、精鋭報酬です。地上の権勢、完全開放結果です。サブのビーストテイマー、1252Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】2024年総括]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1060.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1060.html"/>
-        <updated>2025-01-06T04:01:39.000Z</updated>
-        <summary type="html"><![CDATA[既に年を越してしまったが、2024年の総括をしてみようと思う。2024年といえば、やはりこれ。1.  新チュートリアルクエスト最も多くのプレイヤーに影響を与えたという意味では、新チュートリアルクエストの実装が2024年のMVPだろう。プレイ環境をガラリと変えることになり、ほぼ全てのプレイヤーが育成=新チュートリアルクエストとなった。全てのコンテンツを紹介しながら進行し、メインクエストや限界突破など、育成のベースに必要]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
