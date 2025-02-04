@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T02:59:49.378Z</updated>
+    <updated>2025-02-04T03:27:17.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1021,16 +1021,6 @@ SSを撮ると「ScreenShot」フォルダに保存されます
         <summary type="html"><![CDATA[こんばんは。神秘鏡ULTです。↓これビーストテイマー用です。( ;∀;)デリンダリンクエストで、テイマー1251Lv到達です(｀・ω・´)ｼｬｷｰﾝ。初、精鋭討伐です(ナイス報酬(^^♪)。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謹賀新年]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-885.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-885.html"/>
-        <updated>2025-01-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[皆様あけましておめでとうございます本年もどうぞよろしくお願いいたしますミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
