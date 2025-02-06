@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T11:47:38.936Z</updated>
+    <updated>2025-02-06T12:40:49.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[三点セット。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1122.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1122.html"/>
+        <updated>2025-02-06T11:55:09.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ファンタスティックなコスチュームです。スフィアーキャンペーンの箱です。結果↓パイナップルが良い感じです。魔法のお守り箱セットです。メインシーフ、1461Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.2.6 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/a332fc9f4ddc4ebbee413de383b36061</id>
