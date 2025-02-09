@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-09T16:22:33.716Z</updated>
+    <updated>2025-02-09T16:47:37.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[豪遊・・・！]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1126.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1126.html"/>
+        <updated>2025-02-09T16:24:37.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。煌びやかなコスチュームです。図鑑も少しずつ、埋まっていきます。お買い得です。豪遊・・・！二日続けての豪遊・・・！(またやってしまった。)サブの精鋭報酬です。メインの精鋭報酬です。メインシーフ、1465Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大寒波と花粉症]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-890.html</id>
