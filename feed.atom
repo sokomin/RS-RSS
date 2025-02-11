@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T02:40:18.157Z</updated>
+    <updated>2025-02-11T03:03:31.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -837,26 +837,6 @@
         <link href="https://medaka1985.fc2.net/blog-entry-1098.html"/>
         <updated>2025-01-13T16:47:24.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。プレミアムPASS購入です。何気に1000UMUゲットです。サブの精鋭報酬です。権勢、オプション解放です。メインシーフ、1439Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仕事始め]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-886.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-886.html"/>
-        <updated>2025-01-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[年が明けて仕事始めが来ました長期の休み明けの仕事は中々しんどいですよねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昼御膳。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1097.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1097.html"/>
-        <updated>2025-01-12T14:49:17.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。牡蠣のフライとうどんが、美味しかったです（小並感）いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
