@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T06:29:20.944Z</updated>
+    <updated>2025-02-12T06:49:13.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -839,16 +839,6 @@
         <summary type="html"><![CDATA[こんばんは。とても、美味しいです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識３キャラの装備進捗状況]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202501140000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202501140000/"/>
-        <updated>2025-01-13T18:48:50.000Z</updated>
-        <summary type="html"><![CDATA[最初は、全キャラ共通の手の更新からです。製錬を11→12に上げてみました。3キャラで使っている装備なので、ちょっとくらいお金かけてもいいかなと思ってやりました。では個別には、知識ランサーから書いていきま...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
