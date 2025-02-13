@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-13T14:49:37.467Z</updated>
+    <updated>2025-02-13T15:23:36.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[完全封印解放道具箱。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1130.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1130.html"/>
+        <updated>2025-02-13T15:13:36.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。渋いコスチュームです。夜影PvPエリアです。完全封印解放道具箱です。残念、1解放です。メインシーフ、1469Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.2.13 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/0238cecd0fc0d61af40b146f194589df</id>
