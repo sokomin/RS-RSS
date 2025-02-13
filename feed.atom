@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-13T02:39:57.551Z</updated>
+    <updated>2025-02-13T03:02:57.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -827,26 +827,6 @@
         <link href="https://medaka1985.fc2.net/blog-entry-1100.html"/>
         <updated>2025-01-15T13:46:21.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。ありますねぇ！ウイスキードロップです。代行成功です(*'▽')。(失敗7)憑りつかれたおばあさん(;´･ω･)いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なくなるまでどれくらい？]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-454.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-454.html"/>
-        <updated>2025-01-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[去年のネクロ改変時には結構いいペースで狩りしてましたがその後召喚がパフュームを出し辛くなった事でちょっと狩りペースの落ちているオオカミ少年なのですがもともとは休日に1日中狩りしててもマキナを使い切ることが難しいキャラでした。途中用事してることが多いので実働で５時間も狩りしてたらすごい事でしたけど…それで休日にマキナがなくなりまでどれくらい狩りすればいいのかな？と思って試してみましたがプチポタ３個使っ]]></summary>
-        <author>
-            <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUSHI食べたい！]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1099.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1099.html"/>
-        <updated>2025-01-14T14:51:43.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。とても、美味しいです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
