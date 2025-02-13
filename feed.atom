@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-13T03:36:08.225Z</updated>
+    <updated>2025-02-13T03:48:08.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カイグラン峡谷入口で瞬殺狩り]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202502130000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202502130000/"/>
+        <updated>2025-02-13T03:43:27.000Z</updated>
+        <summary type="html"><![CDATA[コラプ持ち獣人の狩り速度を見てやる気が下がってしまった物理ランサーですが、装備を変更したことで獣人に負けない狩り速度になったので、そのビルドについて説明していこうと思います。まず、物理ランサーの主...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キュリアスバイオレットイヤリング。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1129.html</id>
