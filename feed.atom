@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-16T23:47:43.908Z</updated>
+    <updated>2025-02-17T01:42:58.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -912,16 +912,6 @@ KFCのバーレルはなんだか特別感あるからいいね～みたいな�
         <summary type="html"><![CDATA[年が明けてあっという間に半月ほどが過ぎました何だか時間が早く感じますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20th Eve Box Ⅰ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1103.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1103.html"/>
-        <updated>2025-01-18T13:27:39.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。リトルウィッチ可愛いです(´ω｀*)。ホットタイム中に鳴りました。経験値美味しいです(/・ω・)/。イベントBOX開封です。良い感じです！メインシーフ、1442Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
