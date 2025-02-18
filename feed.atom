@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T14:49:44.537Z</updated>
+    <updated>2025-02-18T15:23:28.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[久しぶりに雀魂の話]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202502190000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202502190000/"/>
+        <updated>2025-02-18T15:09:34.000Z</updated>
+        <summary type="html"><![CDATA[去年の9月頃だったかなぁ～ラス引きまくってぶち切れてしまい（笑）、ここ数ヵ月やっていなかったのですが、最近また再開しています。雀傑3が陥落寸前というところまでポイントを減らしていたのですが、再開して...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初メガテリオン]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-459.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-459.html"/>
+        <updated>2025-02-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[キャラが多く普段はそのキャラたちのデイリーとディメをすることに追われていることに加え今年の冬は雪が厳しいのでそっちも忙しくて普段のオオカミ少年はちょっと狩りをする程度…そんなオオカミ少年が1300になった時知り合いの方からお祝いの耳をいただいたのと「虎はいってますか？」との問いかけに「虎って何ですか…？」と答えた無知なわたしです＾＾；そして詳しく聞いたところ日の出に4時間おきに出現するメガテリオンってい]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宝闇商人。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1137.html</id>
