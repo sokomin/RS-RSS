@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T14:49:58.016Z</updated>
+    <updated>2025-02-19T15:23:28.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[All Is Full of Love]]></title>
+        <id>https://intothe.info/?p=2759</id>
+        <link href="https://intothe.info/wow/all-is-full-of-love/"/>
+        <updated>2025-02-19T14:52:42.000Z</updated>
+        <summary type="html"><![CDATA[Love...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[闇商人の箱。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1138.html</id>
