@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T23:19:33.955Z</updated>
+    <updated>2025-02-19T23:31:41.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -933,15 +933,6 @@ KFCのバーレルはなんだか特別感あるからいいね～みたいな�
         <summary type="html"><![CDATA[運営移行後にいままで14日（石の日）には経験値upの日だったものが19日（育の日）に代わりました。この時わたしは運営が変わったからなのだと思っていただけでしたがそれが今年20日（旗の日）に代わってやっと気づいたのがRS周年記念の年数と連動してたんだという事です。去年全く気付かずに過ごしていました＾＾；毎年変わるのは斬新だなと思いますがこの方式で行くと9年後の29周年は2月どうするのかな…？とか思いました＾＾；そ]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[こんちわく]]></title>
-        <id>https://www.youtube.com/watch?v=aglFHd0e9g0</id>
-        <link href="https://www.youtube.com/watch?v=aglFHd0e9g0"/>
-        <updated>2025-01-21T11:20:32.000Z</updated>
-        <author>
-            <name>ひさプッチ</name>
         </author>
     </entry>
     <entry>
