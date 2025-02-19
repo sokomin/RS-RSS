@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T21:19:31.204Z</updated>
+    <updated>2025-02-19T21:31:47.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -942,16 +942,6 @@ KFCのバーレルはなんだか特別感あるからいいね～みたいな�
         <updated>2025-01-21T11:20:32.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メイドのレベル上げと、知識ランサーの装備更新について]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202501210000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202501210000/"/>
-        <updated>2025-01-21T09:20:02.000Z</updated>
-        <summary type="html"><![CDATA[まずメイドのレベル上げ進捗から！1月18日朝の時点では、Lv1603でした。そこからホットタイムと20日の2倍を経て、↓こうなりました。土日は休みでしたが、月曜日は普通に仕事がありました。その割には、けっこう上...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
