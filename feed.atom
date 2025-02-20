@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-20T14:50:37.222Z</updated>
+    <updated>2025-02-20T15:23:46.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20周年アップデート。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1139.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1139.html"/>
+        <updated>2025-02-20T15:05:52.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。コケティッシュなコスチュームです。赤いオーラが綺麗です。開花。風船イベント来てます！半端無い経験値です。メインシーフ、1477Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.2.20 アプデ！]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/69eb02ac937fcb780a185dc83d7c0cdb</id>
