@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-20T02:51:20.101Z</updated>
+    <updated>2025-02-20T03:25:50.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -923,16 +923,6 @@ KFCのバーレルはなんだか特別感あるからいいね～みたいな�
         <summary type="html"><![CDATA[こんばんは。ユニーク三昧です(/・ω・)/。結晶石狙いです。メインシーフ、1445Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[育の日から旗の日へ！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-455.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-455.html"/>
-        <updated>2025-01-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[運営移行後にいままで14日（石の日）には経験値upの日だったものが19日（育の日）に代わりました。この時わたしは運営が変わったからなのだと思っていただけでしたがそれが今年20日（旗の日）に代わってやっと気づいたのがRS周年記念の年数と連動してたんだという事です。去年全く気付かずに過ごしていました＾＾；毎年変わるのは斬新だなと思いますがこの方式で行くと9年後の29周年は2月どうするのかな…？とか思いました＾＾；そ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
