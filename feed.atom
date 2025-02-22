@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T07:17:48.684Z</updated>
+    <updated>2025-02-22T07:29:39.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20周年とその他]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-235.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-235.html"/>
+        <updated>2025-02-22T07:27:08.000Z</updated>
+        <summary type="html"><![CDATA[まだまだ寒い日が続く今日この頃、ついにREDSTONEに20周年がやってきました。（正直ここまで続くと思っていませんでした）これからも続いてほしいです。そして、なにやらすごい協会装備が追加されました。完成させるのに大量のコインが必要になりますが、素敵な性能です。注意点は、ヤティカヌでしか効果がない事ですかね。討伐や攻城戦に持って行っても効果がなくなるのでしょうか。狩場では、20周年プレゼントBOXがドロップしま]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イラスト企画のお知らせ]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-993.html</id>
