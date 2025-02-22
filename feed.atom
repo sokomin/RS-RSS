@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T04:26:12.343Z</updated>
+    <updated>2025-02-22T04:47:55.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[別に闘士弱くないよ？]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202502220000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202502220000/"/>
+        <updated>2025-02-22T04:42:09.000Z</updated>
+        <summary type="html"><![CDATA[これは弱いのか？ダメージの桁をちゃんと見てくれよな。]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウィークリーゲリオ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1140.html</id>
