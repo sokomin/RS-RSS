@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T03:00:57.082Z</updated>
+    <updated>2025-02-22T03:34:12.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -899,16 +899,6 @@ KFCのバーレルはなんだか特別感あるからいいね～みたいな�
         <link href="https://intothe.info/wow/chasing-pirates/"/>
         <updated>2025-01-23T15:41:25.000Z</updated>
         <summary type="html"><![CDATA[10ヵ月ぶりに帰ってきたPlunderstorm...]]></summary>
-        <author>
-            <name>marsborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[このブログについて その3]]></title>
-        <id>https://intothe.info/?p=2699</id>
-        <link href="https://intothe.info/about-this-blog/3/"/>
-        <updated>2025-01-23T15:29:30.000Z</updated>
-        <summary type="html"><![CDATA[Google...]]></summary>
         <author>
             <name>marsborn</name>
         </author>
