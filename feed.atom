@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T12:36:51.513Z</updated>
+    <updated>2025-02-22T12:59:20.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ログインゲーム。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1141.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1141.html"/>
+        <updated>2025-02-22T12:36:36.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。パン屋さんにて。温泉のお土産コーナーです。温か焼き芋です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20周年とその他]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-235.html</id>
