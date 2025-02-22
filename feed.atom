@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T03:34:12.527Z</updated>
+    <updated>2025-02-22T03:47:46.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -891,16 +891,6 @@ KFCのバーレルはなんだか特別感あるからいいね～みたいな�
         <summary type="html"><![CDATA[こんばんは。幸せの青箱です。イベントBox開封です。こんな感じになりました。夜影PvPエリアの三大ボス・・・。経験値ウマーです！ビーストテイマー用アルカナです。＼(^o^)／。メインシーフ、1448Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chasing Pirates]]></title>
-        <id>https://intothe.info/?p=2701</id>
-        <link href="https://intothe.info/wow/chasing-pirates/"/>
-        <updated>2025-01-23T15:41:25.000Z</updated>
-        <summary type="html"><![CDATA[10ヵ月ぶりに帰ってきたPlunderstorm...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>
