@@ -181,6 +181,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202502260000/",
+          "author": "雷神の弓",
+          "description": "何とか雀豪になれました。けっこう時間掛かっちゃいましたね＾＾；前回の記事の直後は、ラスを何回か引いてしまって、けっこうポイントが下がってしまいました。そこから何とか立て直して、最後に３連勝して念願...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202502260000/",
+          "publishedOn": "2025-02-25T18:22:29.000Z",
+          "wordCount": 2032,
+          "title": "やっとこさ雀豪になれました",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/eaa334ea49d538171b9a9831f7a2e93b325adf8e.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202502220000/",
           "author": "雷神の弓",
           "description": "これは弱いのか？ダメージの桁をちゃんと見てくれよな。",
@@ -528,6 +538,16 @@
       "siteUrl": "http://jendoradoo.blog.fc2.com/",
       "articles": [
         {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-460.html",
+          "author": "ジェンド",
+          "description": "この前のメンテからできたシステムのミラーダンジョン崩壊ですがこれは1250～1400まで50Lv刻みの3段階がありそれぞれ他のLv帯の適正狩場がその時間だけは対応したLvの適正になるというものです。3時間おきに代わるみたいです。どこが崩壊しているのかはGuideを開くと確認出来てそのまま羽やスフィアで飛ぶことも可能ですが現地まで走っていけるというのはわたしにはいい感じだと思ってました＾＾羽節約になるので＾＾他にもメリッ",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-460.html",
+          "publishedOn": "2025-02-25T15:00:00.000Z",
+          "wordCount": 386,
+          "title": "ミラーダンジョン崩壊！",
+          "imageUrl": null
+        },
+        {
           "id": "http://jendoradoo.blog.fc2.com/blog-entry-459.html",
           "author": "ジェンド",
           "description": "キャラが多く普段はそのキャラたちのデイリーとディメをすることに追われていることに加え今年の冬は雪が厳しいのでそっちも忙しくて普段のオオカミ少年はちょっと狩りをする程度…そんなオオカミ少年が1300になった時知り合いの方からお祝いの耳をいただいたのと「虎はいってますか？」との問いかけに「虎って何ですか…？」と答えた無知なわたしです＾＾；そして詳しく聞いたところ日の出に4時間おきに出現するメガテリオンってい",
@@ -845,7 +865,23 @@
       "title": "曇りのち晴れ４８日",
       "feedUrl": "https://no55555.hatenablog.com/rss",
       "siteUrl": "https://no55555.hatenablog.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "hatenablog://entry/6802418398331990025",
+          "author": null,
+          "description": "(V)o￥o(V)\n \n　あっという間に2月の終わりになりましたね。今年は例年と比べると寒かったのか雪がたくさん降りました。これから３月になったらまた桜も咲いて春が訪れるのが楽しみです。\n　赤石では２，３年ぶりにPTに入って狩りをしました。PTでは「交互狩り」というものをやっていて、初めはどんな風に狩るのかイメージがつかなかったので不安もありましたが実際にやってみるとなかなかに楽しい狩り方でした。プレイヤーの中には交互狩りをやったことがなくてPTに入るのが不安という人もいると思うので今回の記事では交互狩りについて簡単に説明してみようかと思います。\n交互狩りのやり方\n基本形\n分岐ルートがある場合\n実際にやってみた\n動画解説\n動画\nまとめ\n交互狩りのやり方\n　最初に交互狩りはどんな風にやるのかを簡単な図を使いつつ説明していこうと思います。\n基本形\n　まずは同じルートを皆で通りながら敵を倒していく場合からです。下の図のように真ん中に壁等の障害物がある場所で考えてみます。３人PTでその周りの敵を半時計周りに倒していくとします。\n図のそれぞれの要素は\n緑五角形P1~P3：プレイヤーキャラクター3人\n茶色六角形：地形等の障害物\nオレンジ丸：敵\nです。\n\n　3人で移動していき、P1が敵の群れを攻撃して倒します。\n\n　P1が最初の敵の群れを攻撃している横をP2，P3は通り過ぎてその先の敵の群れに向かいます。そして次の群れをP2が攻撃して倒します。\n\n　P3はさらに奥の群れに向かい攻撃をします。P1は1つ目の群れを倒し終わって移動できるようになってるのでP3が攻撃しているさらに奥の群れを目指します。\n\n　そしてP1がまた次の群れを倒していきます。これをずっと繰り返して狩りルートを皆で周ります。\n\n　あまり他の人との距離が離れすぎると経験値の共有ができなくなるので皆であまり離れすぎずに移動する…",
+          "link": "https://no55555.hatenablog.com/entry/2025/02/26/160000",
+          "publishedOn": "2025-02-26T07:00:00.000Z",
+          "wordCount": 369,
+          "title": "レッドストーン　交互狩り",
+          "enclosure": {
+            "url": "https://cdn.image.st-hatena.com/image/scale/2bf285b5eead4e4e53f90ab87255aac35de22bc7/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20250226%2F20250226110633.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/2bf285b5eead4e4e53f90ab87255aac35de22bc7/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20250226%2F20250226110633.png"
+        }
+      ]
     },
     {
       "title": "暗黒魔神眼のRS日記",
@@ -858,6 +894,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1144.html",
+          "author": "medaka1985",
+          "description": "こんばんは。ストイックなコスチュームです。UMUゲットです(*'▽')。大当たりです(^^♪いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1144.html",
+          "publishedOn": "2025-02-25T13:34:27.000Z",
+          "wordCount": null,
+          "title": "LUCKY SLOT。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1143.html",
           "author": "medaka1985",
@@ -1167,16 +1213,6 @@
           "wordCount": null,
           "title": "箱漁りのスプリガン。",
           "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1112.html",
-          "author": "medaka1985",
-          "description": "こんばんは。神々しいコスチュームです。精鋭討伐にて(/・ω・)/。トレジャーボックス[精鋭討伐]の中身です。サブのトレジャーボックスの中身です。メインシーフ、1450Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1112.html",
-          "publishedOn": "2025-01-27T15:21:28.000Z",
-          "wordCount": 1061,
-          "title": "クマー。",
-          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medaka1985/202501280012270b5.png"
         }
       ]
     },
