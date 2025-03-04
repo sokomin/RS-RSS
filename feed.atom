@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T11:17:48.259Z</updated>
+    <updated>2025-03-04T21:33:58.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PvP順位。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1151.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1151.html"/>
+        <updated>2025-03-04T15:32:48.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。セクシーなコスチュームです。やったー！暫定1位です。メインシーフ、1492Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[おすすめなのは？]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-461.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-461.html"/>
+        <updated>2025-03-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[たまに聞かれる事があるのですがネクロの覚醒はどれがおすすめですか？と言われる事があります。ネクロ3種持っているからなのですがこれがとても難しいところで使う人によるのかな？と感じていました＾＾；たとえばウィキッドサイコロジストはわたしにはちょっと操作が面倒なのですが呪い系スキルを使うとダメージが増えるという特性があるため装備をちゃんと揃えたら一番火力があるんじゃないかな？と思っています。ただしわたし]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精鋭討伐。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1150.html</id>
