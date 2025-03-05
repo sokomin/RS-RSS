@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T23:47:46.966Z</updated>
+    <updated>2025-03-05T07:20:58.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】コラプ相場目安]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1062.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1062.html"/>
+        <updated>2025-03-05T03:10:59.000Z</updated>
+        <summary type="html"><![CDATA[S鯖のコラプ相場は、ギルメンへの取引実績ヒヤリングに基づく目安。所見はあくまで個人的な意見。片手剣物理2000-3000知識500以下両手剣物理7000-9000知識1000-2000槍物理1000-2000知識2000-3000弓物理知識8000-10000杖物理500以下知識3000-4000牙物理1000-2000知識1000鈍器物理1000-2000知識7000-8000翼物理知識笛物理2000知識8000-9000投擲物理2000知識ナックル1000-2000スリング物理500以下知識2000-4000ステッキ物理1000-2000]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PvP順位。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1151.html</id>
@@ -1181,16 +1191,6 @@ KFCのバーレルはなんだか特別感あるからいいね～みたいな�
         <link href="https://medaka1985.fc2.net/blog-entry-1120.html"/>
         <updated>2025-02-04T04:31:54.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。自治員祭です。大吉、引けました(*´ω｀*)。帰りはうどんで〆ました。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精鋭討伐。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1119.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1119.html"/>
-        <updated>2025-02-03T14:50:46.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです。メインの精鋭討伐報酬です。サブの精鋭報酬です。メインシーフ、1458Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
