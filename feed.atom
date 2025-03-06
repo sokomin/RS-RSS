@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T11:29:46.440Z</updated>
+    <updated>2025-03-06T23:47:40.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海底神殿B2。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1153.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1153.html"/>
+        <updated>2025-03-06T15:45:42.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。素敵なコスチュームです。シーフも出来る武道家です。サブの武道家、1111Lv通過です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】20thイベント進行状況]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1065.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1065.html"/>
+        <updated>2025-03-06T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[まずは皆さん、お待ちかねの20周年ロト。コラプ箱出して一攫千金狙いも、おかわりまでしたのにコラプ箱は出なかった・・・（ss撮る気にもならず)主な結果は以下。新・選択強化済1000装備×2新・選択強化済775装備×2SP製錬ガード×1もうロトの景品に完全解放とか解放改とか止めない？★2にこいつらいても全く嬉しくないんだが・・・気を取り直して、20th指の混沌魔法書ガチャチャレンジ。狙いはもちろんT健比1/2。いざ勝負！20回目で見]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.3.6 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/b506c86e7ca186c9767854245dc28484</id>
