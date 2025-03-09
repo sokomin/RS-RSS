@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-08T20:17:31.627Z</updated>
+    <updated>2025-03-09T11:14:53.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1199,26 +1199,6 @@ KFCのバーレルはなんだか特別感あるからいいね～みたいな�
         <link href="https://medaka1985.fc2.net/blog-entry-1125.html"/>
         <updated>2025-02-08T15:01:07.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。スタイリッシュなコスチュームです。狩り風景です。悟りの書、使用時です。UMUドロップです。メインシーフ、1464Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRSULT婚約。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1124.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1124.html"/>
-        <updated>2025-02-07T11:29:24.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。巫女さんコスチュームです。鏡チャレンジです。やったー(/・ω・)/。メインシーフ、1463Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[厄除け。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1123.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1123.html"/>
-        <updated>2025-02-07T09:42:47.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。神社にて。きつねそばです。いつもありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
