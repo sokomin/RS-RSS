@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T04:21:13.308Z</updated>
+    <updated>2025-03-10T15:24:26.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週一のお楽しみ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1156.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1156.html"/>
+        <updated>2025-03-10T14:48:47.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。二刀流コスチュームです。メインシーフ、精鋭報酬です。サブのテイマー、精鋭報酬です。サブのテイマー、1263Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[武道家、参戦！]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1155.html</id>
