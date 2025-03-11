@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T15:24:26.526Z</updated>
+    <updated>2025-03-11T06:51:27.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブレイブハンターを買ったら]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202503110000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202503110000/"/>
+        <updated>2025-03-10T17:38:56.000Z</updated>
+        <summary type="html"><![CDATA[久しぶりに解放改地獄を体験してしまいました・・・orz完全解放→1解放→特製解放失敗→完全解放→2解放→解放改11連敗←今ここガチで所持金3本になってしまいましたｗｗｗ（ゴールドは全キャラで20億くらいはあるかも...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週一のお楽しみ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1156.html</id>
@@ -1211,26 +1221,6 @@ KFCのバーレルはなんだか特別感あるからいいね～みたいな�
         <summary type="html"><![CDATA[こんばんは。綺麗なコスチュームです。ハシュラム初級です(報酬は1100姫DXU)。メインシーフ、1466Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[豪遊・・・！]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1126.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1126.html"/>
-        <updated>2025-02-09T16:24:37.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。煌びやかなコスチュームです。図鑑も少しずつ、埋まっていきます。お買い得です。豪遊・・・！二日続けての豪遊・・・！(またやってしまった。)サブの精鋭報酬です。メインの精鋭報酬です。メインシーフ、1465Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大寒波と花粉症]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-890.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-890.html"/>
-        <updated>2025-02-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[大寒波の影響で雪に悩まされている方も多いと思います寒い日が続きますねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
