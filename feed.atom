@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-12T11:18:09.619Z</updated>
+    <updated>2025-03-12T12:43:05.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[気になりだすとあっちもこっちも]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-994.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-994.html"/>
+        <updated>2025-03-12T12:40:00.000Z</updated>
+        <summary type="html"><![CDATA[ごきげんよう、美しい梅の花と仄かな香りが満ちていて、春の深まりを感じます。それに伴い花粉も来襲となっていますが、抗ヒスタミン2倍の目薬とフェキソフェナジン錠で乗り切りたい所存です。レッドストーンの20周年イベント、開催中ですね。いつもどおりにしていると、ろくに参加できずに終わってしまう。さすがにそれでは寂しいので、頑張って指輪(とOP付加)だけは！と、スキマ時間で狩りに出かけています。間に合うかは微妙｡ﾟ(]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旬の果物。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1158.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1158.html"/>
+        <updated>2025-03-12T11:59:44.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ぷちっと弾けます。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作りかけのブレイブハンター]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202503120000/</id>
