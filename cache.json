@@ -192,6 +192,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202503120000/",
+          "author": "雷神の弓",
+          "description": "あの後も、順調に解放改が連敗したせいでお金が足りず、まだ完成していません。しかし、失敗する確率70％を17連続で引くのは、運が悪いだけで済まされる確率じゃないと思うんですよね。私個人としては、やってん...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202503120000/",
+          "publishedOn": "2025-03-11T19:10:56.000Z",
+          "wordCount": 2022,
+          "title": "作りかけのブレイブハンター",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/a3819f91917d6c3e7d02f1b56fdf77bedc392258.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202503110000/",
           "author": "雷神の弓",
           "description": "久しぶりに解放改地獄を体験してしまいました・・・orz完全解放→1解放→特製解放失敗→完全解放→2解放→解放改11連敗←今ここガチで所持金3本になってしまいましたｗｗｗ（ゴールドは全キャラで20億くらいはあるかも...",
@@ -630,6 +640,16 @@
       "siteUrl": "http://jendoradoo.blog.fc2.com/",
       "articles": [
         {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-462.html",
+          "author": "ジェンド",
+          "description": "去年B鯖で10～11月頃やっていた職Gリーグが4月にまたあるという事が職G公示に書いてありました！いまV鯖でやってるみたいですけどビンゴで忙しいのでわたし不参加です＾＾；ちなみに前回は姫GとテイマGのGメン数＆熟練者が多く圧倒的な戦力で2強という感じだったので他の職Gにも頑張ってほしいところですがそういえば剣士Gはたまにゲスト参加してくれてた方が超強かったですね…わたしが職Gで頑張って育ててるのは姫Gのぷぷりとネク",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-462.html",
+          "publishedOn": "2025-03-11T15:00:00.000Z",
+          "wordCount": 388,
+          "title": "次の職Gリーグ！",
+          "imageUrl": null
+        },
+        {
           "id": "http://jendoradoo.blog.fc2.com/blog-entry-461.html",
           "author": "ジェンド",
           "description": "たまに聞かれる事があるのですがネクロの覚醒はどれがおすすめですか？と言われる事があります。ネクロ3種持っているからなのですがこれがとても難しいところで使う人によるのかな？と感じていました＾＾；たとえばウィキッドサイコロジストはわたしにはちょっと操作が面倒なのですが呪い系スキルを使うとダメージが増えるという特性があるため装備をちゃんと揃えたら一番火力があるんじゃないかな？と思っています。ただしわたし",
@@ -977,6 +997,16 @@
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
         {
+          "id": "https://medaka1985.fc2.net/blog-entry-1157.html",
+          "author": "medaka1985",
+          "description": "こんばんは。垢抜けたコスチュームです。この台詞で心ときめいた記憶があります。メインシーフ、1499Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1157.html",
+          "publishedOn": "2025-03-11T15:59:00.000Z",
+          "wordCount": 1070,
+          "title": "初心のクエスト。",
+          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medaka1985/20250312005418951.png"
+        },
+        {
           "id": "https://medaka1985.fc2.net/blog-entry-1156.html",
           "author": "medaka1985",
           "description": "こんばんは。二刀流コスチュームです。メインシーフ、精鋭報酬です。サブのテイマー、精鋭報酬です。サブのテイマー、1263Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
@@ -1265,16 +1295,6 @@
           "wordCount": 1066,
           "title": "ベールの歌姫。",
           "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medaka1985/20250211231707724.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1127.html",
-          "author": "medaka1985",
-          "description": "こんばんは。綺麗なコスチュームです。ハシュラム初級です(報酬は1100姫DXU)。メインシーフ、1466Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1127.html",
-          "publishedOn": "2025-02-10T14:32:06.000Z",
-          "wordCount": 1065,
-          "title": "メルカリル。",
-          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medaka1985/20250210232722aaf.png"
         }
       ]
     },
