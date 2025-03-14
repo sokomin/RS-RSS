@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-13T18:30:33.305Z</updated>
+    <updated>2025-03-14T03:52:53.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブレイブハンター大体完成]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202503140000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202503140000/"/>
+        <updated>2025-03-14T03:37:49.000Z</updated>
+        <summary type="html"><![CDATA[あとでSP製錬ガードを買って+12にするかも知れませんが、これで大体完成しました。ブレイブハンターを使う場合、物理致命打ダメージを稼がないと意味がありません。手だけで98％稼げていますが、その他がどうなっ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[強襲者。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1159.html</id>
@@ -1344,16 +1354,6 @@ KFCのバーレルはなんだか特別感あるからいいね～みたいな�
         <summary type="html"><![CDATA[コラプ持ち獣人の狩り速度を見てやる気が下がってしまった物理ランサーですが、装備を変更したことで獣人に負けない狩り速度になったので、そのビルドについて説明していこうと思います。まず、物理ランサーの主...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キュリアスバイオレットイヤリング。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1129.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1129.html"/>
-        <updated>2025-02-12T14:27:48.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。二刀流、恰好良いコスチュームです。見慣れないDXUです。サブで使えそうです！メインシーフ、1468Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>

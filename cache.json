@@ -192,6 +192,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202503140000/",
+          "author": "雷神の弓",
+          "description": "あとでSP製錬ガードを買って+12にするかも知れませんが、これで大体完成しました。ブレイブハンターを使う場合、物理致命打ダメージを稼がないと意味がありません。手だけで98％稼げていますが、その他がどうなっ...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202503140000/",
+          "publishedOn": "2025-03-14T03:37:49.000Z",
+          "wordCount": 2106,
+          "title": "ブレイブハンター大体完成",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/4edee17225459cc9f2b2411836a25f927fe0e238.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202503120000/",
           "author": "雷神の弓",
           "description": "あの後も、順調に解放改が連敗したせいでお金が足りず、まだ完成していません。しかし、失敗する確率70％を17連続で引くのは、運が悪いだけで済まされる確率じゃないと思うんですよね。私個人としては、やってん...",
@@ -1315,16 +1325,6 @@
           "wordCount": 1065,
           "title": "完全封印解放道具箱。",
           "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medaka1985/20250214001005f45.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1129.html",
-          "author": "medaka1985",
-          "description": "こんばんは。二刀流、恰好良いコスチュームです。見慣れないDXUです。サブで使えそうです！メインシーフ、1468Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1129.html",
-          "publishedOn": "2025-02-12T14:27:48.000Z",
-          "wordCount": null,
-          "title": "キュリアスバイオレットイヤリング。",
-          "imageUrl": null
         }
       ]
     },
