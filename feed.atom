@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-15T01:43:20.633Z</updated>
+    <updated>2025-03-15T07:31:29.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブレイブハンター用に]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202503150000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202503150000/"/>
+        <updated>2025-03-15T02:40:44.000Z</updated>
+        <summary type="html"><![CDATA[物理致命打ダメージを少し増やしました。物理致命打ダメージを13％増やしたので、（168+13）÷6＝30　余り1これでダブクリ30％増加となりました。MAXの物理致命打ダメージ240％（ダブクリ40％）まであと59％です。...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小春日和。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1160.html</id>
@@ -1252,16 +1262,6 @@ KFCのバーレルはなんだか特別感あるからいいね～みたいな�
         <link href="https://medaka1985.fc2.net/blog-entry-1131.html"/>
         <updated>2025-02-14T12:15:52.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。勇敢なコスチュームです。見慣れないDXUです。両手剣1100DXUです。メインシーフ、1470Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完全封印解放道具箱。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1130.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1130.html"/>
-        <updated>2025-02-13T15:13:36.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。渋いコスチュームです。夜影PvPエリアです。完全封印解放道具箱です。残念、1解放です。メインシーフ、1469Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>

@@ -192,6 +192,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202503150000/",
+          "author": "雷神の弓",
+          "description": "物理致命打ダメージを少し増やしました。物理致命打ダメージを13％増やしたので、（168+13）÷6＝30　余り1これでダブクリ30％増加となりました。MAXの物理致命打ダメージ240％（ダブクリ40％）まであと59％です。...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202503150000/",
+          "publishedOn": "2025-03-15T02:40:44.000Z",
+          "wordCount": 2103,
+          "title": "ブレイブハンター用に",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/c96aab510b113b4503dbbdf28350f2f331ed6560.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202503140000/",
           "author": "雷神の弓",
           "description": "あとでSP製錬ガードを買って+12にするかも知れませんが、これで大体完成しました。ブレイブハンターを使う場合、物理致命打ダメージを稼がないと意味がありません。手だけで98％稼げていますが、その他がどうなっ...",
@@ -1305,16 +1315,6 @@
           "wordCount": null,
           "title": "フローズンウエーブ。",
           "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1130.html",
-          "author": "medaka1985",
-          "description": "こんばんは。渋いコスチュームです。夜影PvPエリアです。完全封印解放道具箱です。残念、1解放です。メインシーフ、1469Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1130.html",
-          "publishedOn": "2025-02-13T15:13:36.000Z",
-          "wordCount": 1065,
-          "title": "完全封印解放道具箱。",
-          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medaka1985/20250214001005f45.png"
         }
       ]
     },
