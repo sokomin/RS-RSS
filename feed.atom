@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-18T04:50:20.396Z</updated>
+    <updated>2025-03-18T09:24:32.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1267,16 +1267,6 @@ REDSTONEもついに20周年ですか
         <summary type="html"><![CDATA[ごきげんよう、いかがお過ごしですか？ささやかな実験農場(畳一枚ぶんくらいのスペース)に蒔いておいたネモフィラ・インシグニスブルーの新芽が、元気に芽吹いているのを見つけました。ひと株ですごいボリュームになります。今となっては「ヒンメルの花」としても有名になった品種ですね。秋に挿し木をした何種かの茎も、根づいてくれているようで楽しみです。陽も少しずつ長くなって、もうすぐ春ですね。「こいつまた更新しなくな]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精鋭討伐。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1135.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1135.html"/>
-        <updated>2025-02-16T16:55:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。サブの精鋭報酬です。メインの精鋭報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
