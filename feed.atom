@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T05:47:45.805Z</updated>
+    <updated>2025-03-19T14:48:41.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MBL第2試合目。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1165.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1165.html"/>
+        <updated>2025-03-19T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。東京ドームです。メジャーリーグ一色です。テンション上がります。綺麗です。大きなボールです。開始まで、待ち遠しいです⋯!!いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フェアリーズビーベル]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-463.html</id>
