@@ -670,6 +670,16 @@
       "siteUrl": "http://jendoradoo.blog.fc2.com/",
       "articles": [
         {
+          "id": "http://jendoradoo.blog.fc2.com/blog-entry-463.html",
+          "author": "ジェンド",
+          "description": "ダメだ…もう寝なければ…限界突破クエ２の貝殻集めに5回目の失敗をしたときにわたしはそう思いました。時間は21：30ちょっとすぎた位でした＾＾；今まで運が良かったのかどうかわからないですが貝集めはせいぜい3回くらいも失敗すればupできてたので今回もそんな気持ちでいたのですが5回失敗するのは初めてでした＾＾；大抵は1回目か２回目で成功してたのでこんなに失敗があるとは思ってなかったです＾＾；それでⅩのほうで5回失敗し",
+          "link": "http://jendoradoo.blog.fc2.com/blog-entry-463.html",
+          "publishedOn": "2025-03-18T15:00:00.000Z",
+          "wordCount": 389,
+          "title": "フェアリーズビーベル",
+          "imageUrl": null
+        },
+        {
           "id": "http://jendoradoo.blog.fc2.com/blog-entry-462.html",
           "author": "ジェンド",
           "description": "去年B鯖で10～11月頃やっていた職Gリーグが4月にまたあるという事が職G公示に書いてありました！いまV鯖でやってるみたいですけどビンゴで忙しいのでわたし不参加です＾＾；ちなみに前回は姫GとテイマGのGメン数＆熟練者が多く圧倒的な戦力で2強という感じだったので他の職Gにも頑張ってほしいところですがそういえば剣士Gはたまにゲスト参加してくれてた方が超強かったですね…わたしが職Gで頑張って育ててるのは姫Gのぷぷりとネク",
@@ -740,16 +750,6 @@
           "publishedOn": "2025-02-22T06:14:52.000Z",
           "wordCount": 871,
           "title": "イラスト企画のお知らせ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://orientalrose4.blog.fc2.com/blog-entry-992.html",
-          "author": "アル・シェリ",
-          "description": "ごきげんよう、いかがお過ごしですか？ささやかな実験農場(畳一枚ぶんくらいのスペース)に蒔いておいたネモフィラ・インシグニスブルーの新芽が、元気に芽吹いているのを見つけました。ひと株ですごいボリュームになります。今となっては「ヒンメルの花」としても有名になった品種ですね。秋に挿し木をした何種かの茎も、根づいてくれているようで楽しみです。陽も少しずつ長くなって、もうすぐ春ですね。「こいつまた更新しなくな",
-          "link": "https://orientalrose4.blog.fc2.com/blog-entry-992.html",
-          "publishedOn": "2025-02-17T08:29:44.000Z",
-          "wordCount": 862,
-          "title": "春が近づいてきましたね",
           "imageUrl": null
         }
       ]
@@ -1015,6 +1015,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1164.html",
+          "author": "medaka1985",
+          "description": "こんばんは。久しぶりの旅行です。東京ってすげぇ⋯。丸の内は夜景が綺麗です。何か作成中です。MLBはホテルで応援します。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1164.html",
+          "publishedOn": "2025-03-18T10:58:33.000Z",
+          "wordCount": 1064,
+          "title": "遠征。",
+          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medaka1985/20250318193853e4d.jpg"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1163.html",
           "author": "medaka1985",
@@ -1284,16 +1294,6 @@
           "wordCount": null,
           "title": "宝闇商人。",
           "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1136.html",
-          "author": "medaka1985",
-          "description": "こんばんは。オシャレなコスチュームです。お、使えそうなDXUです。素晴らしい性能です。メインシーフ、1474Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1136.html",
-          "publishedOn": "2025-02-17T15:10:53.000Z",
-          "wordCount": 1065,
-          "title": "トマト。",
-          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medaka1985/20250218000758f30.png"
         }
       ]
     },
