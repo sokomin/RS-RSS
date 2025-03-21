@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-20T23:47:42.456Z</updated>
+    <updated>2025-03-21T19:48:00.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[春よ来い]]></title>
+        <id>kaze.gg-blog.com://entry/208</id>
+        <link href="http://kaze.gg-blog.com/status/%E6%98%A5%E3%82%88%E6%9D%A5%E3%81%84"/>
+        <updated>2025-03-21T13:20:33.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+
+
+月の出で狩り！
+
+
+ここにも、ここにも、ここにも…
+
+
+黒いトラに見える草がいっぱい！！！
+
+
+宝箱ぉーーーー
+  
+順調！
+
+
+荒れ地で狩りしてみることに
+ 
+
+不死身なのをいいことに24時間休まず働かされる社畜＞＜
+
+
+リアル社畜の風も新しい称号をゲット
+           
+ 
+＜ タナトスやーん
+
+
+1300レベ達成！
+ 
+
+チャット勢の風史上最難関のミッションブックもいつの間にかクリア
+
+
+風船イベが終わったら狩るかどうかはまた別のお話
+
+
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旗の日。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1166.html</id>
@@ -1323,26 +1373,6 @@ REDSTONEもついに20周年ですか
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Is Full of Love]]></title>
-        <id>https://intothe.info/?p=2759</id>
-        <link href="https://intothe.info/wow/all-is-full-of-love/"/>
-        <updated>2025-02-19T14:52:42.000Z</updated>
-        <summary type="html"><![CDATA[Love...]]></summary>
-        <author>
-            <name>marsborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闇商人の箱。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1138.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1138.html"/>
-        <updated>2025-02-19T14:13:11.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。恰好良いコスチュームです。美味しい箱です。結果↓(・∀・)ｲｲﾈ!!メインシーフ、1476Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>

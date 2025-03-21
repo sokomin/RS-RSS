@@ -130,18 +130,7 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": [
-        {
-          "id": "https://intothe.info/?p=2759",
-          "author": "marsborn",
-          "description": "Love...",
-          "link": "https://intothe.info/wow/all-is-full-of-love/",
-          "publishedOn": "2025-02-19T14:52:42.000Z",
-          "wordCount": 2720,
-          "title": "All Is Full of Love",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "魔法の壁のリアルライふ",
@@ -296,6 +285,16 @@
       "feedUrl": "http://kaze.gg-blog.com/RSS/",
       "siteUrl": "http://kaze.gg-blog.com/",
       "articles": [
+        {
+          "id": "kaze.gg-blog.com://entry/208",
+          "author": null,
+          "description": "こんばんは。\n\n\n月の出で狩り！\n\n\nここにも、ここにも、ここにも…\n\n\n黒いトラに見える草がいっぱい！！！\n\n\n宝箱ぉーーーー\n  \n順調！\n\n\n荒れ地で狩りしてみることに\n \n\n不死身なのをいいことに24時間休まず働かされる社畜＞＜\n\n\nリアル社畜の風も新しい称号をゲット\n           \n \n＜ タナトスやーん\n\n\n1300レベ達成！\n \n\nチャット勢の風史上最難関のミッションブックもいつの間にかクリア\n\n\n風船イベが終わったら狩るかどうかはまた別のお話\n\n\n\n\nではまた",
+          "link": "http://kaze.gg-blog.com/status/%E6%98%A5%E3%82%88%E6%9D%A5%E3%81%84",
+          "publishedOn": "2025-03-21T13:20:33.000Z",
+          "wordCount": 259,
+          "title": "春よ来い",
+          "imageUrl": null
+        },
         {
           "id": "kaze.gg-blog.com://entry/207",
           "author": null,
@@ -1283,16 +1282,6 @@
           "publishedOn": "2025-02-20T15:05:52.000Z",
           "wordCount": null,
           "title": "20周年アップデート。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1138.html",
-          "author": "medaka1985",
-          "description": "こんばんは。恰好良いコスチュームです。美味しい箱です。結果↓(・∀・)ｲｲﾈ!!メインシーフ、1476Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1138.html",
-          "publishedOn": "2025-02-19T14:13:11.000Z",
-          "wordCount": null,
-          "title": "闇商人の箱。",
           "imageUrl": null
         }
       ]
