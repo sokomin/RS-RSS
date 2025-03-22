@@ -191,6 +191,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202503230000/",
+          "author": "雷神の弓",
+          "description": "無駄に製錬+12にしてみました。毒喰わば皿までってことで、最後までやり切りました。これにより物理致命打ダメージが少し増えたので、↓この耳のＢＦＯＰもいじりました。これで物理致命打ダメージが合計186％とな...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202503230000/",
+          "publishedOn": "2025-03-22T17:17:29.000Z",
+          "wordCount": 2111,
+          "title": "物理槍を全体的に強化してみた",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/88f19343be772f5f8bba976ff05c84f7724817ff.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202503150000/",
           "author": "雷神の弓",
           "description": "物理致命打ダメージを少し増やしました。物理致命打ダメージを13％増やしたので、（168+13）÷6＝30　余り1これでダブクリ30％増加となりました。MAXの物理致命打ダメージ240％（ダブクリ40％）まであと59％です。...",
@@ -829,6 +839,16 @@
       "siteUrl": "https://3rdcat.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://3rdcat.blog.fc2.com/blog-entry-237.html",
+          "author": "第三の猫",
+          "description": "自転車のサドルが黄色く染まっていて、花粉かと思ったのですが、よく見ると砂交じりの雨粒が乾いた結果のようにも思えてきます。なのでここは間を取って、花粉交じりの雨粒が乾いた結果という事でどうでしょうか？第三の猫です。どうでもいいですね。ビンゴイベントクリアしました。クリア後も鞄に残るそのコイン祝20周年。そしてこちらも、祝ヤティカヌ入り。サバ寿司がチュートリアルを完了しました。結論から言いますと、知識キ",
+          "link": "https://3rdcat.blog.fc2.com/blog-entry-237.html",
+          "publishedOn": "2025-03-22T04:31:10.000Z",
+          "wordCount": null,
+          "title": "つよつよキャノニアと強個体レビット",
+          "imageUrl": null
+        },
+        {
           "id": "https://3rdcat.blog.fc2.com/blog-entry-236.html",
           "author": "第三の猫",
           "description": "60分、オーラ5回、混沌の欲張りセットを平らげ、息も絶え絶え、20周年指輪一式の用意ができました。第三の猫です。まずは素の指輪をつけてみます。指輪の装備エフェクトは移管指輪と同じですね。それでは、登録できるオプションは、・・・移管指輪と一緒ですね。これはもう移管指輪なのでは？いかんのか？。特にいかんこともないuramichannelは、ウサレースに参加してきました。犯人はテッド。ウサレースとは、姫のスキルでウサギ",
@@ -1273,16 +1293,6 @@
           "wordCount": 1065,
           "title": "ウィークリーゲリオ。",
           "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medaka1985/2025022122142591f.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1139.html",
-          "author": "medaka1985",
-          "description": "こんばんは。コケティッシュなコスチュームです。赤いオーラが綺麗です。開花。風船イベント来てます！半端無い経験値です。メインシーフ、1477Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1139.html",
-          "publishedOn": "2025-02-20T15:05:52.000Z",
-          "wordCount": null,
-          "title": "20周年アップデート。",
-          "imageUrl": null
         }
       ]
     },
