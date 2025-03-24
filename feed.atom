@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-23T06:49:24.709Z</updated>
+    <updated>2025-03-24T03:45:44.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】そろそろガチのアリーナバトルやってみないか？]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1071.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1071.html"/>
+        <updated>2025-03-23T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[RSの対人戦が、プレイヤー間の制限調整なしには成り立たないくらいバランスが崩壊していることは周知の事実。故に、プレイヤーが最大火力を出せる場は攻城戦のみとなっているわけだが、そろそろアリーナでも制限無しの殴り合いをしたくないか？おっさんが考えた、厨二全開のアリーナガチンコバトル要綱がこちら。ガチンコチームバトル「総攻撃_season1」＜テーマ＞THE SHOW'S OVER.＜ルール＞・season中5回のギルドバトルを行い、]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水曜スペシャル風検証]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-896.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-896.html"/>
+        <updated>2025-03-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日はお墓参りに行ってきました子供も一緒に行きたかったのですがまだ無理なので私が代表で行ってきましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マインドフルネス。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1168.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1168.html"/>
+        <updated>2025-03-23T13:12:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。セクシーなコスチュームです。サブのアーチャの精鋭報酬です。メインシーフ、1503Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】アチャLv1925到達]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1070.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1070.html"/>
+        <updated>2025-03-23T08:06:04.000Z</updated>
+        <summary type="html"><![CDATA[スーパー育の日と風船イベントのお陰で、雨アチャがLv1925になった。Lv1925で経験値テーブルがまた変わるらしく、聞いた話だと相当不味いらしい。PT狩りを好まない自分だと、おそらくここから先は地獄なので、また激旨イベントがくるまで雨アチャは休眠させようとおもう。最近、ＳＰ図案書が高いので、貯めておいた壺で作成してみた。心臓8個でＳＰ図案書2つ完成。今回、元は取れたが、20%だと下振れし易いため、壺のまま売った方]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[物理槍を全体的に強化してみた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202503230000/</id>
@@ -1259,46 +1299,6 @@ REDSTONEもついに20周年ですか
         <summary type="html"><![CDATA[こんばんは。ギルド作成です。飛べないですorz。メインシーフ、1482Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ログインゲーム。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1141.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1141.html"/>
-        <updated>2025-02-22T12:36:36.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。パン屋さんにて。温泉のお土産コーナーです。温か焼き芋です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20周年とその他]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-235.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-235.html"/>
-        <updated>2025-02-22T07:27:08.000Z</updated>
-        <summary type="html"><![CDATA[まだまだ寒い日が続く今日この頃、ついにREDSTONEに20周年がやってきました。（正直ここまで続くと思っていませんでした）これからも続いてほしいです。そして、なにやらすごい協会装備が追加されました。完成させるのに大量のコインが必要になりますが、素敵な性能です。注意点は、ヤティカヌでしか効果がない事ですかね。討伐や攻城戦に持って行っても効果がなくなるのでしょうか。狩場では、20周年プレゼントBOXがドロップしま]]></summary>
-        <author>
-            <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イラスト企画のお知らせ]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-993.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-993.html"/>
-        <updated>2025-02-22T06:14:52.000Z</updated>
-        <summary type="html"><![CDATA[◆◆◆◆◆◆　「旅の記念に一枚いかが？」その17　◆◆◆◆◆◆おかげさまで、当ブログはカウンター110000Hitを迎えることができました。遊びにお越しくださいまして、まことにありがとうございます。せめてもの御礼がわりに、久しぶりにまた。わたしの絵でもいいよという方限定になってしまう企画で恐縮ですけれど。ご応募くださいました方の中から抽選で2名さまの、RED STONE内でのプレイキャラをイメージ画にさせていただきたいと存じます]]></summary>
-        <author>
-            <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[別に闘士弱くないよ？]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202502220000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202502220000/"/>
-        <updated>2025-02-22T04:42:09.000Z</updated>
-        <summary type="html"><![CDATA[これは弱いのか？ダメージの桁をちゃんと見てくれよな。]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
