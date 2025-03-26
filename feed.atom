@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-24T15:47:51.201Z</updated>
+    <updated>2025-03-26T03:52:59.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gメン消失！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-464.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-464.html"/>
+        <updated>2025-03-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この前のメンテ後から運営移管してなかった垢の救済措置のような感じで既存ID復旧という機能？が加わりました。これにより期限付きでしかできなかった垢の移行がその期間を過ぎた今でも可能になったのだと解釈しているのですがそれ自体は移管できてなかった方がまた前の垢で戻ってこれるので良いと思いました＾＾ただ、あとから気づいたのですがGメンリストからは移行できてない垢のキャラが消えちゃったようで例えば無課金Gだと前]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鏡の魔法書。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1170.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1170.html"/>
+        <updated>2025-03-25T09:21:54.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。チャーレンジ！ﾃﾞｽﾖﾈｰ。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精鋭チャレンジ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1169.html</id>
@@ -1208,107 +1228,6 @@ REDSTONEもついに20周年ですか
 ばいば～～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タビアクートのカケラ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1143.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1143.html"/>
-        <updated>2025-02-24T13:46:55.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。セクシーなコスチュームです。メインシーフ、精鋭報酬です。サブのテイマー、精鋭報酬です。メインシーフ、1483Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なんとなく・・☆]]></title>
-        <id>https://ameblo.jp/sakuyuno0822/entry-12887662279.html</id>
-        <link href="https://ameblo.jp/sakuyuno0822/entry-12887662279.html"/>
-        <updated>2025-02-24T08:21:04.000Z</updated>
-        <summary type="html"><![CDATA[おはこんはろちゃお～～～・。・ｖ
- 
- 
-いつも元気なもこもこだよぉ～～♪
- 
- 
- 
-ﾌﾞﾛｸﾞ書くの半年ぶりぐらいかぬ？
- 
- 
-ﾈﾀがなくてさ～～
-しかたないよね・・・？
- 
- 
-そんなこんなで
-さっきネクロでチャットストーンだったんだけど
-なんか・・
- 
-こうなってました
- 
-
- 
-からの～～～
- 
-こうなり
-
- 
-もはやなにがなんだかわからないｗ
- 
- 
-きづいた？
-ねぇきづいて！！！
- 
-赤と紫がいないぬ
- 
- 
-赤と紫のネクロさんコロムチでおまちしております＾＾♪
- 
-ますた～～～はいい人なのでぜひネクマさんはコロムチへ！！
- 
- 
- 
-では
-またみてね
- 
- 
-ばいば～～い・ω・ﾉｼ
- 
- 
- 
-（落ちなんてなかったのであった）
-つづく]]></summary>
-        <author>
-            <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】20ｔｈアニバーサリーと接続障害]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1061.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1061.html"/>
-        <updated>2025-02-23T23:24:37.000Z</updated>
-        <summary type="html"><![CDATA[楽しいはずのイベントが台無しになる、RSにはよくある現象。そして今回も漏れなくそうなってしまうRSは、我々の期待を裏切らない、愛して止まないオンラインゲームだ。今後もRSを、余すところなく楽しんでいきたい。愚痴はこのくらいにして、20ｔｈアニバーサリーについて所見を少々。・20ｔｈ指攻城戦やアリーナで対人戦を楽しむ人で、移管記念指を適当に作ってしまった人には、とても嬉しい20ｔｈ指。そういう自分も、適当にユニ]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年2月アップデート]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-892.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-892.html"/>
-        <updated>2025-02-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[花粉がやる気を出してきたので鼻がひどいことになっていますが点鼻薬片手に頑張っておりますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヤティカヌテレポ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1142.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1142.html"/>
-        <updated>2025-02-23T11:37:54.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ギルド作成です。飛べないですorz。メインシーフ、1482Lv到達です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
