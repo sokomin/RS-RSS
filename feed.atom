@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-27T19:29:57.219Z</updated>
+    <updated>2025-03-28T07:47:37.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1203,16 +1203,6 @@ REDSTONEもついに20周年ですか
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[武道家。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1145.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1145.html"/>
-        <updated>2025-02-26T17:20:01.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。優美なコスチュームです。サブの武道家、育成中です(/・ω・)/。ビーストテイマー、1262Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
