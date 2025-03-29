@@ -134,18 +134,7 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=_YRa7BcW8GA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_YRa7BcW8GA",
-          "publishedOn": "2025-02-28T07:41:20.000Z",
-          "wordCount": null,
-          "title": "モンスターハンターヲヤリマZEUSワイルズ",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "無職と美学とシュルレアリスム",
@@ -294,6 +283,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1073.html",
+          "author": "JEFRY",
+          "description": "本日の攻城戦にて、キャノニアの範囲バグが実践投入された可能性があるらしい。※アップされている動画を観た限り、そうとしか思えない挙動だった。少し前のＸによると、キャノニアがオバフロを装備した状態で絨毯爆撃スキルを撃つと、以下の赤〇地点(中央門前)から伸びた矢印の先(中央戦略ポイント)まで攻撃が届くとのこと。攻め側だと、さすがに開始地点(無敵地帯)から戦略ポイントや紋章を攻撃することは出来ないが、守り側だと",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1073.html",
+          "publishedOn": "2025-03-29T14:27:13.000Z",
+          "wordCount": 562,
+          "title": "【REDSTONE】キャノニア範囲バグ実践投入？",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1072.html",
           "author": "JEFRY",

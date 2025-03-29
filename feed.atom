@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T10:22:48.193Z</updated>
+    <updated>2025-03-29T21:47:29.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】キャノニア範囲バグ実践投入？]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1073.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1073.html"/>
+        <updated>2025-03-29T14:27:13.000Z</updated>
+        <summary type="html"><![CDATA[本日の攻城戦にて、キャノニアの範囲バグが実践投入された可能性があるらしい。※アップされている動画を観た限り、そうとしか思えない挙動だった。少し前のＸによると、キャノニアがオバフロを装備した状態で絨毯爆撃スキルを撃つと、以下の赤〇地点(中央門前)から伸びた矢印の先(中央戦略ポイント)まで攻撃が届くとのこと。攻め側だと、さすがに開始地点(無敵地帯)から戦略ポイントや紋章を攻撃することは出来ないが、守り側だと]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不知火。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1175.html</id>
@@ -1152,15 +1162,6 @@ U品のドロップは少なかったですが、ギルドデイリークエの�
         <summary type="html"><![CDATA[こんばんは。ゴスロリコスチュームです。直ぐ出るのだ(ポテトサラダ)feet.ワカコ酒。メインシーフ、1486Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モンスターハンターヲヤリマZEUSワイルズ]]></title>
-        <id>https://www.youtube.com/watch?v=_YRa7BcW8GA</id>
-        <link href="https://www.youtube.com/watch?v=_YRa7BcW8GA"/>
-        <updated>2025-02-28T07:41:20.000Z</updated>
-        <author>
-            <name>ひさプッチ</name>
         </author>
     </entry>
     <entry>
