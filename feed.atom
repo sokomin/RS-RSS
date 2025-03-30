@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T21:47:29.636Z</updated>
+    <updated>2025-03-30T03:09:00.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】変異ミニペットバグ遂に修正]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1075.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1075.html"/>
+        <updated>2025-03-30T00:33:19.000Z</updated>
+        <summary type="html"><![CDATA[実装後、1年以上放置されていた変異ミニペットバグが、韓国で遂に修正されたらしい。韓国の公式アナウンスでは変異ミニペット「クロード」だけ修正される様な記載になっているが、バグ原因は全変異ミニペット共通だとおもわれるため、おそらく全て正常な動作になると予想。そもそも変異ミニペットバグとは何なのか？近々修正されるようなので、簡単にバグの内容を書いてみる。変異ミニペット「クロード」の場合以下の効果がある仕]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】キャノニア範囲バグ実践投入？]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1073.html</id>
@@ -1155,13 +1165,12 @@ U品のドロップは少なかったですが、ギルドデイリークエの�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ワカコ酒。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1147.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1147.html"/>
-        <updated>2025-02-28T13:14:28.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ゴスロリコスチュームです。直ぐ出るのだ(ポテトサラダ)feet.ワカコ酒。メインシーフ、1486Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <title type="html"><![CDATA[モンスターハンターヲヤリマZEUSワイルズ]]></title>
+        <id>https://www.youtube.com/watch?v=_YRa7BcW8GA</id>
+        <link href="https://www.youtube.com/watch?v=_YRa7BcW8GA"/>
+        <updated>2025-02-28T21:33:56.000Z</updated>
         <author>
-            <name>medaka1985</name>
+            <name>ひさプッチ</name>
         </author>
     </entry>
     <entry>
