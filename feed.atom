@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T10:50:28.382Z</updated>
+    <updated>2025-03-31T11:18:25.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RSPASS。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1176.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1176.html"/>
+        <updated>2025-03-31T11:00:55.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。RSPASS アップグードです。久々の闇商人です。こ↑こ↓。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20周年　後夜祭イベント]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-897.html</id>
