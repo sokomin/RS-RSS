@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-30T12:40:23.621Z</updated>
+    <updated>2025-03-31T05:22:34.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20周年　後夜祭イベント]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-897.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-897.html"/>
+        <updated>2025-03-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いつの間にか暖かくなり通勤中の桜も咲いていましたと言うか日中はむしろ暑いですよねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】変異ミニペットバグ遂に修正]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1075.html</id>
@@ -1113,55 +1123,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[家の近所にに梅の木があるのですが先日の暖かさできれいに咲いていました春の兆しですねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジャンクフード。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1148.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1148.html"/>
-        <updated>2025-03-01T13:48:17.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ハンバーガー、4個分位かな？いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025.2月のドロップ～♪]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/0b8d45a3cf9e56333d132cbedb61762f</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/0b8d45a3cf9e56333d132cbedb61762f?fm=rss"/>
-        <updated>2025-03-01T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3月です。
-
-
-知識ID
-
-
-物理IDはしょぼいですね(´・ω・`)
-知識IDはまぁ・・・まぁ・・・かな？
-今回は霊珠がでませんでした。
-まぁこちらはでないことが多いので仕方ないですね。
-
-
-U品のドロップは少なかったですが、ギルドデイリークエの報酬ではやたらU品がでたので、ギルド倉庫は潤沢にU品があふれています。
-とはいえ、そういうときに限ってU品分解が出ないんですよね (´；ω；｀)
-まぁ枯渇した時用にとっておけばいいかなｗ
-
-
-さて、今月も地味に頑張りましょうｗ
-
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
