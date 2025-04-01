@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-01T01:59:27.032Z</updated>
+    <updated>2025-04-01T03:16:19.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1143,26 +1143,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[←の３連勝後から玉の間での結果となっています。1位があまり取れていませんが、16戦してラスは１回だけとそれなりに戦えております。真面目に打って放銃率を下げていきたいなと思っています。あとラス率と飛び率...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@10レベル。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1149.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1149.html"/>
-        <updated>2025-03-02T15:02:41.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。仲良し(´ω｀*)。フィーバータイムです。メインシーフ、1490Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20周年イベント開催中]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-893.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-893.html"/>
-        <updated>2025-03-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[家の近所にに梅の木があるのですが先日の暖かさできれいに咲いていました春の兆しですねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
