@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-01T04:50:43.566Z</updated>
+    <updated>2025-04-01T05:22:20.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1133,16 +1133,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[こんばんは。お見事なコスチュームです。メインの精鋭報酬です。サブの精鋭報酬です。メインシーフ、1491Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雀豪その後]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202503030000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202503030000/"/>
-        <updated>2025-03-02T17:09:47.000Z</updated>
-        <summary type="html"><![CDATA[←の３連勝後から玉の間での結果となっています。1位があまり取れていませんが、16戦してラスは１回だけとそれなりに戦えております。真面目に打って放銃率を下げていきたいなと思っています。あとラス率と飛び率...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
