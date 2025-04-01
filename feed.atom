@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-01T14:22:29.622Z</updated>
+    <updated>2025-04-01T14:49:54.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ALL選択コクーン。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1178.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1178.html"/>
+        <updated>2025-04-01T14:30:21.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。勇猛なコスチュームです。3→4解放です。(;´･ω･)。図鑑の力1/2狙いです(｀・ω・´)ｼｬｷｰﾝ。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.3月のドロップ～♪]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/8e02b8629024ad8603628b752aaa1c36</id>
