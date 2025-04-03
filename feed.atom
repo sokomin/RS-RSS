@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T14:49:03.438Z</updated>
+    <updated>2025-04-03T15:22:09.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1457,16 +1457,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <link href="http://amakusa46.blog34.fc2.com/blog-entry-1063.html"/>
         <updated>2025-03-05T15:00:01.000Z</updated>
         <summary type="html"><![CDATA[片手剣物理2000-3000知識500以下物理、知識いずれも狩り効率が悪く、最終狩場付近では相当苦労するため、相場は低め。とはいえ、いつかは剣士で一花咲かせたい人がおり、二束三文にはならない。たまに買い求める声もあり、現実的に買うならこの相場になる(自身も最近2500本で購入済)知識はミラー貫通のトワーで対人強いが、スキルが使い辛く、この相場。両手剣物理7000-9000知識1000-2000物理は最終狩場でも高効率を出せる優秀職な]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】コラプ相場目安]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1062.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1062.html"/>
-        <updated>2025-03-05T03:10:59.000Z</updated>
-        <summary type="html"><![CDATA[S鯖のコラプ相場は、ギルメンへの取引実績ヒヤリングに基づく目安。所見はあくまで個人的な意見。片手剣物理2000-3000知識500以下両手剣物理7000-9000知識1000-2000槍物理1000-2000知識2000-3000弓物理知識8000-10000杖物理500以下知識3000-4000牙物理1000-2000知識1000鈍器物理1000-2000知識7000-8000翼物理知識笛物理2000知識8000-9000投擲物理2000知識ナックル1000-2000スリング物理500以下知識2000-4000ステッキ物理1000-2000]]></summary>
         <author>
             <name>JEFRY</name>
         </author>
