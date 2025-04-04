@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-04T11:32:22.689Z</updated>
+    <updated>2025-04-04T11:47:48.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[爆音サマナー]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-238.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-238.html"/>
+        <updated>2025-04-04T11:34:39.000Z</updated>
+        <summary type="html"><![CDATA[いつの間にか次のイベント始まり、オーラ開放で桜咲く今日この頃、いかがお過ごしでしょうか。第三の猫です。あれは、サブキャラのビーストテイマーで狩りをしていた時の事。「爆音ビーストテイマーは強いなぁ」と満足げにスキルを眺めていると、何かがおかしいことに気づきました。スキル名が「協同：爆音」になっているのです。ビーストテイマーには上位の覚醒スキル「合奏：爆音」があったはずです。ですが、二度見してみても「]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[職G対決（３日目）☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12892559196.html</id>
