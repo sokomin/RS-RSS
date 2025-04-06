@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-06T04:51:51.212Z</updated>
+    <updated>2025-04-06T05:20:39.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1419,16 +1419,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[出勤時間にだいぶ外が明るくなってきて日が昇るのが段々と早くなってきたのがわかりますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡よ鏡よ鏡さん。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1154.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1154.html"/>
-        <updated>2025-03-07T16:59:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。勝負、勝負～！結果は↓の方メインシーフ、1494Lv到達です(*'▽')。最近は気温差が激しく、三寒四温な季節ですね。睡蓮鉢のメダカもなんとか冬を乗り越えました。春からの大谷選手の活躍を思うと、今からワクワクします。残念！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
