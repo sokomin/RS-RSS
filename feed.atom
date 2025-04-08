@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-08T14:50:49.300Z</updated>
+    <updated>2025-04-08T15:25:33.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第2回職Gリーグ前半！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-466.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-466.html"/>
+        <updated>2025-04-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[4月に入り職Gリーグが再び開催されることになりました＾＾今回は前回上位チームのAブロックと下位チームのBブロックに分かれて戦いその後両ブロックの上位が戦うような感じで前半はBブロックの戦いをしていました＾＾Bブロックはネクロ・霊術・キャプテン・BISの4Ｇで総当り戦となり上位2ＧがＡブロックと戦うそうです！ちなみにわたしは霊術とBISの職Gにはキャラ入れていないのでネクロとキャプテンで前半は参加していて今回の楽]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[もくもくと☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12893082833.html</id>
