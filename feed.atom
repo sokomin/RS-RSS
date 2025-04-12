@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-11T23:47:31.211Z</updated>
+    <updated>2025-04-12T01:46:29.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1744,16 +1744,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[こんばんは。孤高のコスチュームです。待ちに待った1000UMUチケットです。この武器を選ぶ為にアーチャー作成です。すぐさまNx化です。完全封印解放道具箱で1解放です。1250目指して頑張ります！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ウポ補助Lv26達成と小ネタ]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1069.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1069.html"/>
-        <updated>2025-03-13T13:13:57.000Z</updated>
-        <summary type="html"><![CDATA[物理剣士のウポス素材が500個貯まったので、ウポス補助武器のLv25チャレンジやってみた。失敗（レベル維持　Lv24）失敗（レベルダウン　Lv23へ）成功（レベルアップLv24）失敗（レベル維持　Lv24）失敗（レベルダウン　Lv23へ）成功（レベルアップLv24）失敗（レベルダウン　Lv23へ）失敗（レベル維持　Lv23）成功（レベルアップLv24）成功（レベルアップLv25）失敗（レベル維持　Lv25）失敗（レベル維持　Lv25）成功（レベルアッ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
