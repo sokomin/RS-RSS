@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T14:35:44.816Z</updated>
+    <updated>2025-04-13T14:48:04.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヴァルキリー。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1190.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1190.html"/>
+        <updated>2025-04-13T14:40:34.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ヤティカヌクエストです。UMUドロップです。暁の森林にて。まさかのUMU出現です。図鑑ボーナス(力1/2)です。悟りの書、発動。メインシーフ、1512Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hot time。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1189.html</id>
@@ -1847,16 +1857,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[こんばんは。人生最高の購入額です。強い・・・！！鏡チャレンジです。結果↓20thリングは全部比率系にしました。初の1500Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブレイブハンター用に]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202503150000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202503150000/"/>
-        <updated>2025-03-15T02:40:44.000Z</updated>
-        <summary type="html"><![CDATA[物理致命打ダメージを少し増やしました。物理致命打ダメージを13％増やしたので、（168+13）÷6＝30　余り1これでダブクリ30％増加となりました。MAXの物理致命打ダメージ240％（ダブクリ40％）まであと59％です。...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>

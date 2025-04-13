@@ -248,16 +248,6 @@
           "wordCount": 2111,
           "title": "物理槍を全体的に強化してみた",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/88f19343be772f5f8bba976ff05c84f7724817ff.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202503150000/",
-          "author": "雷神の弓",
-          "description": "物理致命打ダメージを少し増やしました。物理致命打ダメージを13％増やしたので、（168+13）÷6＝30　余り1これでダブクリ30％増加となりました。MAXの物理致命打ダメージ240％（ダブクリ40％）まであと59％です。...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202503150000/",
-          "publishedOn": "2025-03-15T02:40:44.000Z",
-          "wordCount": 2103,
-          "title": "ブレイブハンター用に",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/c96aab510b113b4503dbbdf28350f2f331ed6560.73.9.9.3.png"
         }
       ]
     },
@@ -1033,6 +1023,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1190.html",
+          "author": "medaka1985",
+          "description": "こんばんは。ヤティカヌクエストです。UMUドロップです。暁の森林にて。まさかのUMU出現です。図鑑ボーナス(力1/2)です。悟りの書、発動。メインシーフ、1512Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1190.html",
+          "publishedOn": "2025-04-13T14:40:34.000Z",
+          "wordCount": null,
+          "title": "ヴァルキリー。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1189.html",
           "author": "medaka1985",
