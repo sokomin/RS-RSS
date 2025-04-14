@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-14T19:47:54.910Z</updated>
+    <updated>2025-04-14T20:25:23.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[精鋭報酬報告。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1191.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1191.html"/>
+        <updated>2025-04-14T20:19:06.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。RSPASSの景品です。メイン1500精鋭報酬です。メイン1250精鋭報酬です。サブ1250精鋭報酬です。サブ1250精鋭報酬です。サブ1250精鋭報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帰り道の途中：シーフギルドをぶっつぶせ　３／３]]></title>
         <id>gregorio29.blog.shinobi.jp://entry/325</id>
