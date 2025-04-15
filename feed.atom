@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T01:52:08.203Z</updated>
+    <updated>2025-04-15T03:07:22.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1916,26 +1916,6 @@ OPまでたどり着いたのは物理IDだけでした。
 ばいば～～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突入　カイグラン峡谷深部]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-895.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-895.html"/>
-        <updated>2025-03-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[胃腸炎の為爆死していましたが体調も徐々に回復し消化に良い食事をしながら生活していますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1500精鋭討伐。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1162.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1162.html"/>
-        <updated>2025-03-16T14:05:54.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。重厚感漂うコスチュームです。こんなの出るんですね@@。ファーストステップ強いです！ゲリオでUMUゲットです。初の1500討伐、報酬です。メインシーフ、1501Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
