@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T22:47:44.909Z</updated>
+    <updated>2025-04-16T23:20:54.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2057,16 +2057,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[ダメだ…もう寝なければ…限界突破クエ２の貝殻集めに5回目の失敗をしたときにわたしはそう思いました。時間は21：30ちょっとすぎた位でした＾＾；今まで運が良かったのかどうかわからないですが貝集めはせいぜい3回くらいも失敗すればupできてたので今回もそんな気持ちでいたのですが5回失敗するのは初めてでした＾＾；大抵は1回目か２回目で成功してたのでこんなに失敗があるとは思ってなかったです＾＾；それでⅩのほうで5回失敗し]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遠征。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1164.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1164.html"/>
-        <updated>2025-03-18T10:58:33.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。久しぶりの旅行です。東京ってすげぇ⋯。丸の内は夜景が綺麗です。何か作成中です。MLBはホテルで応援します。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
