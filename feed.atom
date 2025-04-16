@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T01:51:44.473Z</updated>
+    <updated>2025-04-16T03:06:54.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1835,16 +1835,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <link href="https://medaka1985.fc2.net/blog-entry-1164.html"/>
         <updated>2025-03-18T10:58:33.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。久しぶりの旅行です。東京ってすげぇ⋯。丸の内は夜景が綺麗です。何か作成中です。MLBはホテルで応援します。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精鋭報酬。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1163.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1163.html"/>
-        <updated>2025-03-17T14:53:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。クールなコスチュームです。メインの1250精鋭報酬です。1500精鋭報酬です。サブの1250精鋭報酬です。こちらもサブの1250精鋭報酬です。昔、イベントで余った神秘鏡のかけらです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
