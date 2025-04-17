@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T01:50:02.485Z</updated>
+    <updated>2025-04-17T03:05:35.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2047,16 +2047,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[こんばんは。東京ドームです。メジャーリーグ一色です。テンション上がります。綺麗です。大きなボールです。開始まで、待ち遠しいです⋯!!いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フェアリーズビーベル]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-463.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-463.html"/>
-        <updated>2025-03-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ダメだ…もう寝なければ…限界突破クエ２の貝殻集めに5回目の失敗をしたときにわたしはそう思いました。時間は21：30ちょっとすぎた位でした＾＾；今まで運が良かったのかどうかわからないですが貝集めはせいぜい3回くらいも失敗すればupできてたので今回もそんな気持ちでいたのですが5回失敗するのは初めてでした＾＾；大抵は1回目か２回目で成功してたのでこんなに失敗があるとは思ってなかったです＾＾；それでⅩのほうで5回失敗し]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
