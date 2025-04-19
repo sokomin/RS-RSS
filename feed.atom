@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T01:45:35.622Z</updated>
+    <updated>2025-04-19T02:58:56.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2137,16 +2137,6 @@ OPまでたどり着いたのは物理IDだけでした。
 ではまた]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旗の日。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1166.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1166.html"/>
-        <updated>2025-03-20T14:08:53.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。暁のレアモンスターです。解放・改、勝負！残念！念願の箱(銀行取引可)です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
