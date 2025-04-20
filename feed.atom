@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T16:25:40.709Z</updated>
+    <updated>2025-04-20T16:49:23.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2213,16 +2213,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[無駄に製錬+12にしてみました。毒喰わば皿までってことで、最後までやり切りました。これにより物理致命打ダメージが少し増えたので、↓この耳のＢＦＯＰもいじりました。これで物理致命打ダメージが合計186％とな...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[つよつよキャノニアと強個体レビット]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-237.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-237.html"/>
-        <updated>2025-03-22T04:31:10.000Z</updated>
-        <summary type="html"><![CDATA[自転車のサドルが黄色く染まっていて、花粉かと思ったのですが、よく見ると砂交じりの雨粒が乾いた結果のようにも思えてきます。なのでここは間を取って、花粉交じりの雨粒が乾いた結果という事でどうでしょうか？第三の猫です。どうでもいいですね。ビンゴイベントクリアしました。クリア後も鞄に残るそのコイン祝20周年。そしてこちらも、祝ヤティカヌ入り。サバ寿司がチュートリアルを完了しました。結論から言いますと、知識キ]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
