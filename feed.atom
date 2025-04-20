@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T01:56:41.070Z</updated>
+    <updated>2025-04-20T03:11:23.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】旗の日3倍中間]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1079.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1079.html"/>
+        <updated>2025-04-20T02:22:21.000Z</updated>
+        <summary type="html"><![CDATA[遂にやった。間違いｗ　（これはこれで凄い確率）こっちが本命。いやー神々しいね。感無量。レベルはLv1945、とても今日中にLv1950なんていけそうにないが、頑張れるだけ頑張ろう。ちなみに、13：00から、ねこなのメェェさんのRS配信でクイズイベントがあるらしい。賞金出るらしいので皆さん奮ってご参加ください！]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[月下月牙。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1195.html</id>
