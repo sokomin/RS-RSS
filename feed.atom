@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-21T04:52:07.471Z</updated>
+    <updated>2025-04-21T05:23:41.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2240,16 +2240,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[スーパー育の日と風船イベントのお陰で、雨アチャがLv1925になった。Lv1925で経験値テーブルがまた変わるらしく、聞いた話だと相当不味いらしい。PT狩りを好まない自分だと、おそらくここから先は地獄なので、また激旨イベントがくるまで雨アチャは休眠させようとおもう。最近、ＳＰ図案書が高いので、貯めておいた壺で作成してみた。心臓8個でＳＰ図案書2つ完成。今回、元は取れたが、20%だと下振れし易いため、壺のまま売った方]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理槍を全体的に強化してみた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202503230000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202503230000/"/>
-        <updated>2025-03-22T17:17:29.000Z</updated>
-        <summary type="html"><![CDATA[無駄に製錬+12にしてみました。毒喰わば皿までってことで、最後までやり切りました。これにより物理致命打ダメージが少し増えたので、↓この耳のＢＦＯＰもいじりました。これで物理致命打ダメージが合計186％とな...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
