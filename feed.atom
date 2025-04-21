@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-21T03:51:33.700Z</updated>
+    <updated>2025-04-21T04:27:53.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】旗の日3倍結果とイベント後のモチベーション低下]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1080.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1080.html"/>
+        <updated>2025-04-21T03:54:38.000Z</updated>
+        <summary type="html"><![CDATA[最終的に、雨アチャはLv1949でフィニッシュした。@1レベルで目標到達だったが、もういいや的に思考に囚われてギブアップwLv1949なら、対人戦で不利ってこともないだろうし、いつの日か風船イベントが開催されるときまで、攻城戦と精鋭討伐のみ活動しようと思う。そもそも、RSの対人戦自体がク○だが、やらないと本当にやることが無く、やらざるを得ない。狩り以外のエンドコンテンツが無いのは、やはり致命的だと改めて考える今日こ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サマナーの愛のオーラ深掘り]]></title>
         <id>hatenablog://entry/6802418398344559149</id>
