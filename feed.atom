@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-21T23:48:08.775Z</updated>
+    <updated>2025-04-22T01:50:59.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2240,16 +2240,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[先日はお墓参りに行ってきました子供も一緒に行きたかったのですがまだ無理なので私が代表で行ってきましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マインドフルネス。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1168.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1168.html"/>
-        <updated>2025-03-23T13:12:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。セクシーなコスチュームです。サブのアーチャの精鋭報酬です。メインシーフ、1503Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
