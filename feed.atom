@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T01:50:59.182Z</updated>
+    <updated>2025-04-22T03:05:39.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2220,26 +2220,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[こんばんは。キュートなコスチュームです。シーフ、1250精鋭報酬です。シーフ、1500精鋭報酬です。ビーストテイマー、1250精鋭報酬です。武道家、1250精鋭報酬です。アーチャー、1250精鋭報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】そろそろガチのアリーナバトルやってみないか？]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1071.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1071.html"/>
-        <updated>2025-03-23T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[RSの対人戦が、プレイヤー間の制限調整なしには成り立たないくらいバランスが崩壊していることは周知の事実。故に、プレイヤーが最大火力を出せる場は攻城戦のみとなっているわけだが、そろそろアリーナでも制限無しの殴り合いをしたくないか？おっさんが考えた、厨二全開のアリーナガチンコバトル要綱がこちら。ガチンコチームバトル「総攻撃_season1」＜テーマ＞THE SHOW'S OVER.＜ルール＞・season中5回のギルドバトルを行い、]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水曜スペシャル風検証]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-896.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-896.html"/>
-        <updated>2025-03-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日はお墓参りに行ってきました子供も一緒に行きたかったのですがまだ無理なので私が代表で行ってきましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
