@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T01:51:11.012Z</updated>
+    <updated>2025-04-23T03:06:43.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2297,16 +2297,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <link href="https://medaka1985.fc2.net/blog-entry-1170.html"/>
         <updated>2025-03-25T09:21:54.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。チャーレンジ！ﾃﾞｽﾖﾈｰ。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精鋭チャレンジ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1169.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1169.html"/>
-        <updated>2025-03-24T14:36:33.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。キュートなコスチュームです。シーフ、1250精鋭報酬です。シーフ、1500精鋭報酬です。ビーストテイマー、1250精鋭報酬です。武道家、1250精鋭報酬です。アーチャー、1250精鋭報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
