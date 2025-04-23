@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T21:21:39.543Z</updated>
+    <updated>2025-04-23T21:47:48.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2407,16 +2407,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[この前のメンテ後から運営移管してなかった垢の救済措置のような感じで既存ID復旧という機能？が加わりました。これにより期限付きでしかできなかった垢の移行がその期間を過ぎた今でも可能になったのだと解釈しているのですがそれ自体は移管できてなかった方がまた前の垢で戻ってこれるので良いと思いました＾＾ただ、あとから気づいたのですがGメンリストからは移行できてない垢のキャラが消えちゃったようで例えば無課金Gだと前]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡の魔法書。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1170.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1170.html"/>
-        <updated>2025-03-25T09:21:54.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。チャーレンジ！ﾃﾞｽﾖﾈｰ。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
