@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T13:50:43.478Z</updated>
+    <updated>2025-04-24T14:21:55.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新・ヤティカヌ秘密ダンジョン。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1198.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1198.html"/>
+        <updated>2025-04-24T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。新・ヤティカヌ秘密ダンジョンです。秘密は5分くらいで終わります。報酬はかなり美味しいです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.4.24 アプデ!]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/6fd344f4c874cd9080b73435f855d897</id>
