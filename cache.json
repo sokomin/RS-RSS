@@ -344,6 +344,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1082.html",
+          "author": "JEFRY",
+          "description": "20th記念イベントや旗の日3倍が終わったので、GWイベント開始までは自由時間！という考え方になる自分は、既にRSがゲーム生活のベースとなっている悲しい人間だと再認識。この呪縛から解き放たれる未来は来るのか？ていうか、GWは目の前だし、こんなこと考えてる暇があったらラスエポ(Last Epoch)やらねば！Last Epoch、それは知る人ぞ知るハクスラの神ゲー。4/17からシーズン2が始まっていて、これがまあとんでもなく好評w早速、",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1082.html",
+          "publishedOn": "2025-04-24T01:57:19.000Z",
+          "wordCount": 569,
+          "title": "【Last Epoch】さあ遊ぼうか？",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1081.html",
           "author": "JEFRY",
           "description": "現在、ギルド「noche」にお世話になっているメイン雨アチャ。nocheでは、旗の日に高額UMUドロップイベントをやっている。最も高額なUMUをドロップした人が、お好きな鏡品を１つもらえる！という企画になっていて、なんと今回・・・自分が優勝した！奇跡の不滅ドロップからの嬉しい賞品ゲットで、感無量だ。GM鬼鮫さん、楽しいイベントありがとう。これでRSのモチベーションも爆上がり！するはず・・・・なお、4/25～5/7のGW期間中",
@@ -745,16 +755,6 @@
           "publishedOn": "2025-04-01T15:00:00.000Z",
           "wordCount": null,
           "title": "桜集め",
-          "imageUrl": null
-        },
-        {
-          "id": "http://jendoradoo.blog.fc2.com/blog-entry-464.html",
-          "author": "ジェンド",
-          "description": "この前のメンテ後から運営移管してなかった垢の救済措置のような感じで既存ID復旧という機能？が加わりました。これにより期限付きでしかできなかった垢の移行がその期間を過ぎた今でも可能になったのだと解釈しているのですがそれ自体は移管できてなかった方がまた前の垢で戻ってこれるので良いと思いました＾＾ただ、あとから気づいたのですがGメンリストからは移行できてない垢のキャラが消えちゃったようで例えば無課金Gだと前",
-          "link": "http://jendoradoo.blog.fc2.com/blog-entry-464.html",
-          "publishedOn": "2025-03-25T15:00:00.000Z",
-          "wordCount": 388,
-          "title": "Gメン消失！",
           "imageUrl": null
         }
       ]
