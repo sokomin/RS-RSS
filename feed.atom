@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T22:48:24.355Z</updated>
+    <updated>2025-04-24T23:21:24.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】生霊の牢]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1083.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1083.html"/>
+        <updated>2025-04-24T23:10:37.000Z</updated>
+        <summary type="html"><![CDATA[4/24アプデで、Lv1500まで通える経験値重視の秘密ダンジョンが実装された。経験値は約600億で、スフィア、パワキ、ジョンマルコが適用可能らしい。てことは、フルブーストで4倍(2400億)？だとしたら、かなり旨いなwヤティやウポスの秘密とはカテゴリが異なり、入場するには専用の鍵が必要で、鍵は古代森のコインで交換出来るらしい。必要コイン数は30枚。30枚？ウィークリークエで貰えるコインは40枚。ヤティ秘密1回3枚で週に42枚]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新・ヤティカヌ秘密ダンジョン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1198.html</id>
