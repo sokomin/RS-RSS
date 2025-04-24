@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T17:36:49.830Z</updated>
+    <updated>2025-04-24T17:48:56.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2611,16 +2611,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <link href="https://medaka1985.fc2.net/blog-entry-1172.html"/>
         <updated>2025-03-26T16:22:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。ノスタルジックなコスチュームです。暁の森林にて。メインシーフ、1504Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メダカ鑑賞。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1171.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1171.html"/>
-        <updated>2025-03-26T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。春はメダカが喜ぶ季節です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
