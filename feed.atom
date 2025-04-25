@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T03:46:52.940Z</updated>
+    <updated>2025-04-25T04:27:17.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2730,16 +2730,6 @@ OPまでたどり着いたのは物理IDだけでした。
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暁の森林。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1172.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1172.html"/>
-        <updated>2025-03-26T16:22:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ノスタルジックなコスチュームです。暁の森林にて。メインシーフ、1504Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
