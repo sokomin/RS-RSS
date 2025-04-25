@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T17:19:31.113Z</updated>
+    <updated>2025-04-25T17:36:40.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OP変換器・改。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1199.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1199.html"/>
+        <updated>2025-04-25T17:20:12.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。RSPASS(課金)の景品です。1回目です。2回目です( ；∀；)。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】スクラッチ_2025年GW]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1084.html</id>
