@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T14:48:29.788Z</updated>
+    <updated>2025-04-25T15:23:49.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】スクラッチ_2025年GW]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1084.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1084.html"/>
+        <updated>2025-04-25T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[GWイベントが予想外に経験値重視だったため、渋々メイン雨アチャを動かすことを決意。Last Epochやりたいが、ここで少しでも上げておいた方が、今後のためにも良いと判断。しかし、そろそろパワキが心許ないため、パワキ狙いでスクラッチにチャレンジ。いつものコイン720枚セットを購入。以下、結果だが、予想通りパワキを大量にゲットできた。さすがにパワキが出過ぎな気もするが、今年1年分ってことで良しとしよう。パワキ3時間]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[職G対決最終日☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12897147430.html</id>
