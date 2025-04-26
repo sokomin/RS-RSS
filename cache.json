@@ -288,18 +288,7 @@
       "title": "黒魔がメインですが何か？",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
-      "articles": [
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202503280000/",
-          "author": "雷神の弓",
-          "description": "※OPや製錬やBFOPをいじって↑の状態にしました。5番手キャラである知識ランサーに、かなり贅沢ではありますがコラプ槍を購入しました。購入の決め手は、風強化（水強化も）が最高補正だった点ですね。知識ランサー...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202503280000/",
-          "publishedOn": "2025-03-27T19:17:14.000Z",
-          "wordCount": 2244,
-          "title": "5番手のキャラに贅沢な買い物",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/6bce73eb7ddf48ff6b8bdcc110bc995b30221d75.73.9.9.3.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "レッドストーン 物理戦士どうでしょう",

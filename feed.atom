@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T06:50:24.394Z</updated>
+    <updated>2025-04-26T07:19:57.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2654,16 +2654,6 @@ OPまでたどり着いたのは物理IDだけでした。
         <summary type="html"><![CDATA[こんばんは。マジカルなコスチュームです。イベントエモーションです。素敵です(/・ω・)/。メインシーフ、1506Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5番手のキャラに贅沢な買い物]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202503280000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202503280000/"/>
-        <updated>2025-03-27T19:17:14.000Z</updated>
-        <summary type="html"><![CDATA[※OPや製錬やBFOPをいじって↑の状態にしました。5番手キャラである知識ランサーに、かなり贅沢ではありますがコラプ槍を購入しました。購入の決め手は、風強化（水強化も）が最高補正だった点ですね。知識ランサー...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
