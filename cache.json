@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-901.html",
+          "author": "ミツリン",
+          "description": "日中はとても暑い日がありますね夏はまだまだですが暑さに体が追いついていかないですこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-901.html",
+          "publishedOn": "2025-04-27T15:00:00.000Z",
+          "wordCount": 631,
+          "title": "2025年4月アップデート　【ヤティカヌ専用経験値ダンジョン等】",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-900.html",
           "author": "ミツリン",
           "description": "もうすぐGWになりますね長い休みが取れる方もいるみたいで楽しみですねこんにちは　ミツリンです",
@@ -481,16 +491,6 @@
           "publishedOn": "2025-03-29T14:27:13.000Z",
           "wordCount": 562,
           "title": "【REDSTONE】キャノニア範囲バグ実践投入？",
-          "imageUrl": null
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1072.html",
-          "author": "JEFRY",
-          "description": "待っていた解放バーストイベントが来た。貯めておいたレプリカ解放改(E含む)を使って、手持ちの未開放アイテムを解放した。いくつめだろう？の皆大好き哲学者(1解放状態→4解放)反射獣人のお城用手首(1解放状態→4解放)ついでにオプ変換して武器最大を付けた(2回目で付いた幸運)最近始めたドラツイ育成用の奔流(3解放変換済状態→4解放)かなりヒキが強く、手持ちのレプリカ解放改や解放改(E)で全て賄えた。これに気を良くして異次元に",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1072.html",
-          "publishedOn": "2025-03-29T03:18:45.000Z",
-          "wordCount": 559,
-          "title": "【REDSTONE】解放バーストイベント等",
           "imageUrl": null
         }
       ]
