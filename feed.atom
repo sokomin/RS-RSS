@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T17:18:54.760Z</updated>
+    <updated>2025-04-27T17:34:51.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2581,16 +2581,6 @@ BIS側
         <summary type="html"><![CDATA[本日の攻城戦にて、キャノニアの範囲バグが実践投入された可能性があるらしい。※アップされている動画を観た限り、そうとしか思えない挙動だった。少し前のＸによると、キャノニアがオバフロを装備した状態で絨毯爆撃スキルを撃つと、以下の赤〇地点(中央門前)から伸びた矢印の先(中央戦略ポイント)まで攻撃が届くとのこと。攻め側だと、さすがに開始地点(無敵地帯)から戦略ポイントや紋章を攻撃することは出来ないが、守り側だと]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不知火。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1175.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1175.html"/>
-        <updated>2025-03-29T05:18:44.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。お買い得です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
