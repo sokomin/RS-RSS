@@ -384,6 +384,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1086.html",
+          "author": "JEFRY",
+          "description": "RSプレイヤーでYouTube配信者の「ねこなのメエェェ」さんが、GWの配信はクイズイベントを開催してくれてる。※”RS配信　ねこなの”　で検索。既に3回開催されてて、賞品内容はインゴットやアイテム等、なかなか豪華。みんなで参加してゲットしちゃおう！なお、S鯖以外の方も、金鯖に向けてS鯖インゴットをゲットしておけば金鯖開始後に交換できたりするので、S鯖以外の方も是非参加してください、とのこと。",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1086.html",
+          "publishedOn": "2025-04-28T12:43:13.000Z",
+          "wordCount": 567,
+          "title": "【REDSTONE】YouTube配信GWイベントで賞金ゲットだ！",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1085.html",
           "author": "JEFRY",
           "description": "新秘密「生霊の牢屋」に行ってみた。突入前持参品：スフィア、パワキ、きれいなジョンマルコ突入後３レベルアップ、旨すぎるｗ0:00を跨いで2回行ったので計6レベルアップ。ウィークリークエとヤティ秘密を欠かさずやれば、週に3回行けるこの秘密だけで9レベルアップ。ディメンションもやれば、狩りすることなく10レベルアップ。Lv1400中盤以降は失速するとしても、あと2ヵ月もあればLv1500に到達しそうだ。GWは、BISのLv1500育成を",
@@ -481,16 +491,6 @@
           "publishedOn": "2025-04-02T11:14:13.000Z",
           "wordCount": 565,
           "title": "【REDSTONE】潜在能力Lv12",
-          "imageUrl": null
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1075.html",
-          "author": "JEFRY",
-          "description": "実装後、1年以上放置されていた変異ミニペットバグが、韓国で遂に修正されたらしい。韓国の公式アナウンスでは変異ミニペット「クロード」だけ修正される様な記載になっているが、バグ原因は全変異ミニペット共通だとおもわれるため、おそらく全て正常な動作になると予想。そもそも変異ミニペットバグとは何なのか？近々修正されるようなので、簡単にバグの内容を書いてみる。変異ミニペット「クロード」の場合以下の効果がある仕",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1075.html",
-          "publishedOn": "2025-03-30T00:33:19.000Z",
-          "wordCount": 559,
-          "title": "【REDSTONE】変異ミニペットバグ遂に修正",
           "imageUrl": null
         }
       ]

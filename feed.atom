@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-28T11:49:20.345Z</updated>
+    <updated>2025-04-28T12:55:14.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】YouTube配信GWイベントで賞金ゲットだ！]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1086.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1086.html"/>
+        <updated>2025-04-28T12:43:13.000Z</updated>
+        <summary type="html"><![CDATA[RSプレイヤーでYouTube配信者の「ねこなのメエェェ」さんが、GWの配信はクイズイベントを開催してくれてる。※”RS配信　ねこなの”　で検索。既に3回開催されてて、賞品内容はインゴットやアイテム等、なかなか豪華。みんなで参加してゲットしちゃおう！なお、S鯖以外の方も、金鯖に向けてS鯖インゴットをゲットしておけば金鯖開始後に交換できたりするので、S鯖以外の方も是非参加してください、とのこと。]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精鋭報告。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1201.html</id>
@@ -2685,16 +2695,6 @@ BIS側
         <summary type="html"><![CDATA[いつの間にか暖かくなり通勤中の桜も咲いていましたと言うか日中はむしろ暑いですよねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】変異ミニペットバグ遂に修正]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1075.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1075.html"/>
-        <updated>2025-03-30T00:33:19.000Z</updated>
-        <summary type="html"><![CDATA[実装後、1年以上放置されていた変異ミニペットバグが、韓国で遂に修正されたらしい。韓国の公式アナウンスでは変異ミニペット「クロード」だけ修正される様な記載になっているが、バグ原因は全変異ミニペット共通だとおもわれるため、おそらく全て正常な動作になると予想。そもそも変異ミニペットバグとは何なのか？近々修正されるようなので、簡単にバグの内容を書いてみる。変異ミニペット「クロード」の場合以下の効果がある仕]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
