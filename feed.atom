@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-29T22:47:48.910Z</updated>
+    <updated>2025-04-29T23:21:01.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2855,16 +2855,6 @@ BIS側
         <link href="https://medaka1985.fc2.net/blog-entry-1177.html"/>
         <updated>2025-03-31T14:34:55.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。メインシーフ、1250精鋭報酬です。メインの1500精鋭報酬です。サブ武道家の1250精鋭報酬です。サブテイマーの1250精鋭報酬です。サブアーチャーの1250精鋭報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSPASS。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1176.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1176.html"/>
-        <updated>2025-03-31T11:00:55.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。RSPASS アップグードです。久々の闇商人です。こ↑こ↓。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
