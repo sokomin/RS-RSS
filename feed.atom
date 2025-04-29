@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-29T14:50:53.334Z</updated>
+    <updated>2025-04-29T15:25:11.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ギリギリのペース？]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-470.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-470.html"/>
+        <updated>2025-04-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[早いものでもう4月も終わりとなり今年の1/3が終了となりました。わたしの今年の抱負がオオカミ少年LV1400なのですが去年終了時のLVが1286で今のオオカミ少年のLVは1324なので4か月で38上がったことになります＾＾そこから計算するとあと8か月で上がるのは76という事になり1324と足すとびったり1400！意識して調整してたわけではないです＾＾；このままのペースでいけば今年の目標は達成できそうかな？と思いました＾＾ただし、金鯖]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[職G決勝戦？☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12898397652.html</id>
