@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T22:47:49.966Z</updated>
+    <updated>2025-05-01T23:21:39.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -3165,16 +3165,6 @@ BIS側
         <summary type="html"><![CDATA[こんばんは。美しいコスチュームです。サブパッシブで良いの引きました。メインシーフ、1508Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】潜在能力Lv12]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1076.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1076.html"/>
-        <updated>2025-04-02T11:14:13.000Z</updated>
-        <summary type="html"><![CDATA[実装後、コツコツやってきた潜在能力解放コンテンツ。先日やっとLv12を達成できた。現状のエンドコンテンツだけあって、かなりきつい。一気にやろうとすると精神衛生上よろしくないので、まったりやるのがオススメ。自分的まったり手順はこちら。※混沌の大地に少なからず通っている人向け。(1)精鋭討伐で入手したUMUを3OP化。　混沌で入手したゴミOPのお守りで3OP化すべし。(2)3OP化したUMUを製錬5にする。　製錬3でもOK(3)異界強]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
