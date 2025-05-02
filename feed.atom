@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-02T03:10:27.953Z</updated>
+    <updated>2025-05-02T03:49:29.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -3155,16 +3155,6 @@ BIS側
 ばいば～～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最終ダメージ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1179.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1179.html"/>
-        <updated>2025-04-02T15:39:05.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。美しいコスチュームです。サブパッシブで良いの引きました。メインシーフ、1508Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
