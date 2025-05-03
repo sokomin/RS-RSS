@@ -938,6 +938,16 @@
       "siteUrl": "https://3rdcat.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://3rdcat.blog.fc2.com/blog-entry-240.html",
+          "author": "第三の猫",
+          "description": "真夜中に何かが壁をひっかくような音に目が覚め、徹底調査をしたけれど何も見つからず、なんらかの虫だと思ったけど、なんらかの蟲だったと結論付ける、第三の猫です。アプデでヤティカヌ専用経験値ダンジョンが追加されました。対象レベルは1250～1499とのことで、チュートリアル終了後にかかる、獲得経験値の急ブレーキが緩和されそうです。せっかくなので、今回はこのダンジョンを攻略してみたいと思います。それでは始めていき",
+          "link": "https://3rdcat.blog.fc2.com/blog-entry-240.html",
+          "publishedOn": "2025-05-03T02:58:57.000Z",
+          "wordCount": null,
+          "title": "石碑壊したんか？",
+          "imageUrl": null
+        },
+        {
           "id": "https://3rdcat.blog.fc2.com/blog-entry-239.html",
           "author": "第三の猫",
           "description": "春先の妙な暑さと、裏切ったかのような冷え込みに翻弄されつつ、PCの機嫌をうかがう第三の猫です。こんにちは。前回、爆音さんが大変強いという知見を得たので、今回はもう一歩踏み込んでペットを縛ってみようと思います。走り幅跳びのような踏み込みやめてください。本体ソロが最終目的地であることは問題ないのですか？。。レッツ幅跳び。サクサクジャガーとはいきませんが、それなりに倒せてますね。粘れば妖精の羽も毟れます。",
@@ -1383,16 +1393,6 @@
           "wordCount": 1072,
           "title": "ゲリオ超級。",
           "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medaka1985/20250404215011814.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1180.html",
-          "author": "medaka1985",
-          "description": "こんばんは。うん、美味しい。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1180.html",
-          "publishedOn": "2025-04-03T14:37:32.000Z",
-          "wordCount": null,
-          "title": "ハラミ定食。",
-          "imageUrl": null
         }
       ]
     },

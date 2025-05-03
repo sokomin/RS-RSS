@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-03T01:50:26.717Z</updated>
+    <updated>2025-05-03T03:06:27.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石碑壊したんか？]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-240.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-240.html"/>
+        <updated>2025-05-03T02:58:57.000Z</updated>
+        <summary type="html"><![CDATA[真夜中に何かが壁をひっかくような音に目が覚め、徹底調査をしたけれど何も見つからず、なんらかの虫だと思ったけど、なんらかの蟲だったと結論付ける、第三の猫です。アプデでヤティカヌ専用経験値ダンジョンが追加されました。対象レベルは1250～1499とのことで、チュートリアル終了後にかかる、獲得経験値の急ブレーキが緩和されそうです。せっかくなので、今回はこのダンジョンを攻略してみたいと思います。それでは始めていき]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[肉めない奴。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1204.html</id>
@@ -2967,16 +2977,6 @@ Gﾒﾝがいうには
 ばいば～～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハラミ定食。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1180.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1180.html"/>
-        <updated>2025-04-03T14:37:32.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。うん、美味しい。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
