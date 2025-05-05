@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T23:47:23.650Z</updated>
+    <updated>2025-05-05T01:57:16.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2905,16 +2905,6 @@ BIS天　ｖｓ　ﾈｸ魔
 　知…]]></summary>
         <author>
             <name>曇りのち晴れ４８日</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スフィアーのマナDXBox。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1182.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1182.html"/>
-        <updated>2025-04-05T12:40:52.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ポータルULTキャンペーンのおまけです。こんな感じでした！(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
