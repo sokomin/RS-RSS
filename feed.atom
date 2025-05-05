@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T03:16:18.704Z</updated>
+    <updated>2025-05-05T03:52:11.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】Lv1975到達]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1090.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1090.html"/>
+        <updated>2025-05-05T03:40:19.000Z</updated>
+        <summary type="html"><![CDATA[雨アチャｶがLv1975になった。さすが経験値3倍、予定を1日半前倒しての到達だった。※予定は5/6までLv1975は最後の経験値テーブルに切り替わるタイミングで、Lv2000を目指す人々の心をへし折るらしい。どのくらいキツイのか？Lv1973→Lv1974がこちら。Lv1975→Lv1976がこちら。心がへし折れましたｗプラス4100億って、頭おかしいだろ！さて、Last Epochやろうっと。]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GW突入]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-902.html</id>
