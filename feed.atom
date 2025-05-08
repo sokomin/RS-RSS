@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-08T17:49:57.969Z</updated>
+    <updated>2025-05-08T18:33:09.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GWに狩りを頑張りましたが・・]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202505090000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202505090000/"/>
+        <updated>2025-05-08T18:20:16.000Z</updated>
+        <summary type="html"><![CDATA[PTを組める人がいなかったので、ほぼほぼソロで狩ることになりました。Lv1930→1975ということでGW期間に45レベル上げたわけですが、PT狩りで上がったのは3レベルだけした。（PTで狩れたのは３時間くらいかなぁ）3...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精鋭報酬。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1209.html</id>
