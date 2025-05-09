@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-09T05:48:30.394Z</updated>
+    <updated>2025-05-09T06:34:02.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム全般】底なし沼にハマる]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1091.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1091.html"/>
+        <updated>2025-05-09T06:26:42.000Z</updated>
+        <summary type="html"><![CDATA[Last Epochという神ゲーの底なし沼にハマっている。適度な難易度、豊富な装備品によるビルド派生が多彩さで、装備品に関するクラフト（強化・加工）が奥深い。反動で装備品やアイテムの管理がとても面倒なんじゃ？って心配しがちだが、利便性向上を追求したシステムが素晴らしいの一言。例えば、装備品をレアリティ毎に保管できるように倉庫設定しておけば、シフト＋右クリックで瞬時に該当場所に移動してくれる。設定はレアリティ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GWに狩りを頑張りましたが・・]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202505090000/</id>
