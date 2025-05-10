@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-10T17:47:37.045Z</updated>
+    <updated>2025-05-10T18:28:33.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エンドレスを少しいじってみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202505110000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202505110000/"/>
+        <updated>2025-05-10T18:14:41.000Z</updated>
+        <summary type="html"><![CDATA[↓これが元の状態です。まず、カイグラン深部で被弾が多いので、恩寵の→回避DXに変更しました。（恩寵のは、足に持っていきました）さらに、解放OPはそのままでも割と良いのですが、敢えて変換チャレンジしてみま...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アグレアス。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1211.html</id>
