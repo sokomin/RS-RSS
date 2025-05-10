@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-10T04:27:39.016Z</updated>
+    <updated>2025-05-10T04:51:22.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2465,16 +2465,6 @@ Aブロ初戦では
         <link href="https://medaka1985.fc2.net/blog-entry-1188.html"/>
         <updated>2025-04-12T09:43:08.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。最近、釜揚げにハマっています。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解放オプション変換。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1187.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1187.html"/>
-        <updated>2025-04-10T16:36:49.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。魅力的なコスチュームです。良い感じのオプションです。サブのアーチャー1255Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
