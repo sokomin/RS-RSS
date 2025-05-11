@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-903.html",
+          "author": "ミツリン",
+          "description": "GWが終わりましたね自分は例年より仕事が多く出勤が重なっていましたこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-903.html",
+          "publishedOn": "2025-05-11T15:00:00.000Z",
+          "wordCount": 627,
+          "title": "GW終了",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-902.html",
           "author": "ミツリン",
           "description": "GWに入りました私は連休中も何日か出勤日がありますので飛び石になりますこんにちは　ミツリンです",
@@ -361,6 +371,16 @@
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
       "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1290.html",
+          "author": "クレリューフ",
+          "description": "前回投稿の時に宣言した通りネクロと悪魔の覚醒タイプ毎の個人的に薦める装備を載せていきたいと思います。全覚醒一編に投稿ではなく、1つの投稿に1覚醒の装備ですね。という事で初っ端の今回は自分の覚醒タイプでもあるアンジャストラバーです。先に2つほど・・・各タイプの補助武器に関しては、クロスオブアルカナでいいかなと思います。悪魔だと覚醒タイプで火、大地、闇属性のどれかになりますがネクロだと闇属性の強化か弱化",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1290.html",
+          "publishedOn": "2025-05-09T14:52:55.000Z",
+          "wordCount": 663,
+          "title": "さてさてそれでは",
+          "imageUrl": null
+        },
         {
           "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1289.html",
           "author": "クレリューフ",
