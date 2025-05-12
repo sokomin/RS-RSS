@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-12T19:19:14.337Z</updated>
+    <updated>2025-05-12T19:31:47.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2582,16 +2582,6 @@ Aブロ初戦では
         <link href="https://medaka1985.fc2.net/blog-entry-1190.html"/>
         <updated>2025-04-13T14:40:34.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。ヤティカヌクエストです。UMUドロップです。暁の森林にて。まさかのUMU出現です。図鑑ボーナス(力1/2)です。悟りの書、発動。メインシーフ、1512Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot time。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1189.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1189.html"/>
-        <updated>2025-04-13T07:21:42.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。セクシーなコスチュームです。ホットタイムイズイットなう。メインシーフ、1511Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
