@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-14T22:18:58.645Z</updated>
+    <updated>2025-05-14T22:33:33.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レディーア]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1095.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1095.html"/>
+        <updated>2025-05-14T22:31:33.000Z</updated>
+        <summary type="html"><![CDATA[GWスペシャルミッション達成のために、促進ゴールドを使ってミニペットを合成したらレディーアがきたー！神聖BISで出るあたり、Lv1500↑も育成しろってお告げのような気もするが・・・・無理だ、売ろうｗその後、促進剤無しで合成2回やったが、さすがに変異は出現せず。0.2%だし、当然といえば当然か。みなさんもGWスペシャルミッションお忘れなく（SP最大3,000ポイント結構でかいよ）]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ｻﾌﾞ垢事情☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12902864089.html</id>
