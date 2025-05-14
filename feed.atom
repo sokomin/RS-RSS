@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-13T23:47:47.738Z</updated>
+    <updated>2025-05-14T01:54:42.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2525,18 +2525,6 @@ Aブロ初戦では
         <summary type="html"><![CDATA[こんばんは。RSPASSの景品です。メイン1500精鋭報酬です。メイン1250精鋭報酬です。サブ1250精鋭報酬です。サブ1250精鋭報酬です。サブ1250精鋭報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帰り道の途中：シーフギルドをぶっつぶせ　３／３]]></title>
-        <id>gregorio29.blog.shinobi.jp://entry/325</id>
-        <link href="http://gregorio29.blog.shinobi.jp/rs%E5%B0%8F%E8%AA%AC/%E5%B8%B0%E3%82%8A%E9%81%93%E3%81%AE%E9%80%94%E4%B8%AD%EF%BC%9A%E3%82%B7%E3%83%BC%E3%83%95%E3%82%AE%E3%83%AB%E3%83%89%E3%82%92%E3%81%B6%E3%81%A3%E3%81%A4%E3%81%B6%E3%81%9B%E3%80%80%EF%BC%93%EF%BC%8F%EF%BC%93"/>
-        <updated>2025-04-14T12:26:21.000Z</updated>
-        <summary type="html"><![CDATA[本当に１１年前に書いて途切れた物の続きを書くことになるとは思いませんでした。
-記事を書かれたからには少しは進めないとなぁと。
-「幽霊の味」]]></summary>
-        <author>
-            <name>グレゴリオ麺道　〜Red Stoneと麺類〜</name>
         </author>
     </entry>
     <entry>
