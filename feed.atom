@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T13:33:04.240Z</updated>
+    <updated>2025-05-15T13:51:20.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウポスマイヤー狩り。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1216.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1216.html"/>
+        <updated>2025-05-15T13:45:44.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。不思議なコスチュームです。ウポス狩り風景です。サブの剣士、1025Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.5.15 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/3e510e25cc7d9209c6b8281944ec9c55</id>
