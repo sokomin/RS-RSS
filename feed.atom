@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T21:47:46.864Z</updated>
+    <updated>2025-05-15T22:22:18.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】スペシャル図案書作成]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1096.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1096.html"/>
+        <updated>2025-05-15T21:53:57.000Z</updated>
+        <summary type="html"><![CDATA[GW少し前から貯めていた壺が、GWイベントで爆増したので、いつもの祭壇システムに捧げてみた。タティ心臓23個。確率通りに引ければ、スペシャル図案書が4～5個作成できるはず。いざ！確率通り！（たまには上振れしろＷ）（売上）1個180本で売れたとして、5個で900本。（原価）壺1セット20本で売れたとして、18セットで360本。インク999個が5本として、23回分115本。合計475本。手間と下振れのリスクを考えると、やはり売った方がよ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウポスマイヤー狩り。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1216.html</id>
