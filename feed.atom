@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-18T14:49:28.905Z</updated>
+    <updated>2025-05-18T15:21:31.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ホットタイムは続く]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-904.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-904.html"/>
+        <updated>2025-05-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GW中は仕事でしたので代わりに今週は5連休の休みをもらいました時間が取れたので連日役所での手続きに行ってきましたのんびり過ごしていますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[T忍耐ヒーロー。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1219.html</id>
