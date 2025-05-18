@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-18T07:47:45.590Z</updated>
+    <updated>2025-05-18T08:27:27.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暑いです(´・ω・`)]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/fa2a79039801bfb9138c67a4962ed487</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/fa2a79039801bfb9138c67a4962ed487?fm=rss"/>
+        <updated>2025-05-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暑いですね(´・ω・`)
+
+５次転生できました(/・ω・)/
+
+GMが２人に(￣□￣||)
+
+
+
+うん、表示はどっちもギルドマスターでした(´・ω・`)
+まぁ表示の不具合でしょう。きっとそうに違いない。
+とりあえず動かすキャラではないので、そのまま放置してみました。
+また数か月後にログインするので、どうなっているのか楽しみですｗ
+
+
+今月も残すところ10日余り。
+ほどよくゲームを楽しみたいと思います。
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分解ユニーク。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1218.html</id>
