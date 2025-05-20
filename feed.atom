@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-19T23:47:37.437Z</updated>
+    <updated>2025-05-20T01:56:57.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[好きな寿司ネタ1選]]></title>
+        <id>https://plaza.rakuten.co.jp/hoshiredstone/diary/202505200000/</id>
+        <link href="https://plaza.rakuten.co.jp/hoshiredstone/diary/202505200000/"/>
+        <updated>2025-05-20T00:22:30.000Z</updated>
+        <summary type="html"><![CDATA[ブリ]]></summary>
+        <author>
+            <name>ほしめろちゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[混沌じょのいこ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1220.html</id>
