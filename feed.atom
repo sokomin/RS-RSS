@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-20T01:56:57.730Z</updated>
+    <updated>2025-05-20T03:16:02.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2338,16 +2338,6 @@ SS何故かとれてなかった
 　赤石には魔法致命打と魔法強打がありますよね。魔法致命打が通常の2倍くらいのダメージで魔法強打が通常の4倍くらいのダメージにアップします。また赤石の仕様として魔法致命打の方が魔法強打…]]></summary>
         <author>
             <name>曇りのち晴れ４８日</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旗の日]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-900.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-900.html"/>
-        <updated>2025-04-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[もうすぐGWになりますね長い休みが取れる方もいるみたいで楽しみですねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
