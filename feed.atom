@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-22T09:49:03.535Z</updated>
+    <updated>2025-05-22T10:26:03.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[導きの楽士スキル応用術]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-242.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-242.html"/>
+        <updated>2025-05-22T10:24:29.000Z</updated>
+        <summary type="html"><![CDATA[最近めっきり聞かなくなっていた、救急車に吠える犬の鳴き声を久々に聞きました。犬界隈での死語になったわけではなかったようで何よりです。もっとも、死語じゃなかったところで、どうするでもない第三の猫です。よろしくお願いします。さて、プリンセスのスキル応用術に「死んだふり投擲」というものがあります。投擲スキル使用中に死んだふりを発動すると、死んだふり発動後も投擲が継続するという技です。死んだふり中の攻撃「]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5月が終わってしまう]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-998.html</id>
