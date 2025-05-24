@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-24T01:51:33.678Z</updated>
+    <updated>2025-05-24T03:09:24.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2116,16 +2116,6 @@ GWに入りましたね皆はどこか行くのかな
         <summary type="html"><![CDATA[4/24アプデで、Lv1500まで通える経験値重視の秘密ダンジョンが実装された。経験値は約600億で、スフィア、パワキ、ジョンマルコが適用可能らしい。てことは、フルブーストで4倍(2400億)？だとしたら、かなり旨いなwヤティやウポスの秘密とはカテゴリが異なり、入場するには専用の鍵が必要で、鍵は古代森のコインで交換出来るらしい。必要コイン数は30枚。30枚？ウィークリークエで貰えるコインは40枚。ヤティ秘密1回3枚で週に42枚]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新・ヤティカヌ秘密ダンジョン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1198.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1198.html"/>
-        <updated>2025-04-24T14:18:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。新・ヤティカヌ秘密ダンジョンです。秘密は5分くらいで終わります。報酬はかなり美味しいです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
