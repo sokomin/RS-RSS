@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-25T14:50:01.359Z</updated>
+    <updated>2025-05-25T15:22:06.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[精鋭装備、時間効率]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-905.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-905.html"/>
+        <updated>2025-05-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日夜勤明けに駅前の某有名ハンバーガーチェーン店を通った時です外まで並ぶ長蛇の列がありましたどうやら大人気のちいかわグッズが付いていると言う事でした私が思っていた以上の人気にとても驚きましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CP効率Lv1 DX水晶。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1225.html</id>
