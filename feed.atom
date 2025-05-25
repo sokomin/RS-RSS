@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-25T04:43:03.987Z</updated>
+    <updated>2025-05-25T05:22:07.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1969,16 +1969,6 @@ GWに入りましたね皆はどこか行くのかな
         <summary type="html"><![CDATA[変換前の解放OPは↓です。2解放で何回か変換して、3OP目と4OP目は純正OPです。このままでもよかったのですが、ファーストステップ型には弱点が１つあって、ＦＳの溜めが無い時の火力を上げたい事情があるのです。...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OP変換器・改。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1199.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1199.html"/>
-        <updated>2025-04-25T17:20:12.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。RSPASS(課金)の景品です。1回目です。2回目です( ；∀；)。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
