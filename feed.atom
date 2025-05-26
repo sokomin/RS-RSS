@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-26T05:49:39.502Z</updated>
+    <updated>2025-05-26T06:35:20.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1959,16 +1959,6 @@ GWに入りましたね皆はどこか行くのかな
         <summary type="html"><![CDATA[日中はとても暑い日がありますね夏はまだまだですが暑さに体が追いついていかないですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幸せの青宝箱。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1200.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1200.html"/>
-        <updated>2025-04-26T18:24:51.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。スタイリッシュなコスチュームです。即落ち青箱(9秒)。メインシーフ、1521Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
