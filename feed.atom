@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-27T20:49:54.505Z</updated>
+    <updated>2025-05-27T21:22:36.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1865,16 +1865,6 @@ nice！！ヒュルリーノ
         <summary type="html"><![CDATA[RSプレイヤーでYouTube配信者の「ねこなのメエェェ」さんが、GWの配信はクイズイベントを開催してくれてる。※”RS配信　ねこなの”　で検索。既に3回開催されてて、賞品内容はインゴットやアイテム等、なかなか豪華。みんなで参加してゲットしちゃおう！なお、S鯖以外の方も、金鯖に向けてS鯖インゴットをゲットしておけば金鯖開始後に交換できたりするので、S鯖以外の方も是非参加してください、とのこと。]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精鋭報告。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1201.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1201.html"/>
-        <updated>2025-04-28T09:04:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。サブ武道家1250精鋭報酬です。サブアーチャー1250精鋭報酬です。サブビーストテイマー、1250精鋭報酬です。メインシーフ、1500精鋭報酬です(結果は勇猛)。メインシーフ、1250精鋭報酬です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
