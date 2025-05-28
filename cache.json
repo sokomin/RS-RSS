@@ -413,16 +413,6 @@
           "wordCount": 565,
           "title": "【ゲーム全般】神ゲー降臨",
           "imageUrl": null
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1087.html",
-          "author": "JEFRY",
-          "description": "経験値3倍デーってことで朝から狩り。すると戦場の重さ、きたー！早速、前回のリベンジでW健比と混ぜる。クソｗｗｗ異次元の彼方で単健比戦場の重さが完成したようだ。もう一回舞うために、W健比にしておこう。ｷｴﾀ・・・( ﾟДﾟもう戦場はいいかな。さー、今度はオバフロ出そうか！",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1087.html",
-          "publishedOn": "2025-04-29T02:20:32.000Z",
-          "wordCount": 565,
-          "title": "【REDSTONE】戦場ドロップと異次元",
-          "imageUrl": null
         }
       ]
     },
@@ -1066,6 +1056,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1228.html",
+          "author": "medaka1985",
+          "description": "こんばんは。不思議なコスチュームです。現在3位です。メインシーフ、1543Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1228.html",
+          "publishedOn": "2025-05-28T14:22:05.000Z",
+          "wordCount": null,
+          "title": "名誉ポイント。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1227.html",
           "author": "medaka1985",

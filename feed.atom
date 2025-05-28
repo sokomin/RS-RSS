@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-28T13:52:22.344Z</updated>
+    <updated>2025-05-28T14:24:49.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[名誉ポイント。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1228.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1228.html"/>
+        <updated>2025-05-28T14:22:05.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。不思議なコスチュームです。現在3位です。メインシーフ、1543Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[備蓄運用！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-474.html</id>
@@ -1845,16 +1855,6 @@ nice！！ヒュルリーノ
 ばいば～～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】戦場ドロップと異次元]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1087.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1087.html"/>
-        <updated>2025-04-29T02:20:32.000Z</updated>
-        <summary type="html"><![CDATA[経験値3倍デーってことで朝から狩り。すると戦場の重さ、きたー！早速、前回のリベンジでW健比と混ぜる。クソｗｗｗ異次元の彼方で単健比戦場の重さが完成したようだ。もう一回舞うために、W健比にしておこう。ｷｴﾀ・・・( ﾟДﾟもう戦場はいいかな。さー、今度はオバフロ出そうか！]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
