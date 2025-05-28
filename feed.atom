@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-27T23:47:40.921Z</updated>
+    <updated>2025-05-28T01:56:58.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1853,16 +1853,6 @@ nice！！ヒュルリーノ
         <link href="http://amakusa46.blog34.fc2.com/blog-entry-1087.html"/>
         <updated>2025-04-29T02:20:32.000Z</updated>
         <summary type="html"><![CDATA[経験値3倍デーってことで朝から狩り。すると戦場の重さ、きたー！早速、前回のリベンジでW健比と混ぜる。クソｗｗｗ異次元の彼方で単健比戦場の重さが完成したようだ。もう一回舞うために、W健比にしておこう。ｷｴﾀ・・・( ﾟДﾟもう戦場はいいかな。さー、今度はオバフロ出そうか！]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】YouTube配信GWイベントで賞金ゲットだ！]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1086.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1086.html"/>
-        <updated>2025-04-28T12:43:13.000Z</updated>
-        <summary type="html"><![CDATA[RSプレイヤーでYouTube配信者の「ねこなのメエェェ」さんが、GWの配信はクイズイベントを開催してくれてる。※”RS配信　ねこなの”　で検索。既に3回開催されてて、賞品内容はインゴットやアイテム等、なかなか豪華。みんなで参加してゲットしちゃおう！なお、S鯖以外の方も、金鯖に向けてS鯖インゴットをゲットしておけば金鯖開始後に交換できたりするので、S鯖以外の方も是非参加してください、とのこと。]]></summary>
         <author>
             <name>JEFRY</name>
         </author>
