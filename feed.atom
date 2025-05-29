@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T01:56:34.254Z</updated>
+    <updated>2025-05-29T03:16:57.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1693,16 +1693,6 @@ S鯖で出させてもらいました
         <summary type="html"><![CDATA[こんばんは。UMUゲッツです。全部 戦績 651÷(651＋394)×100=62.29メインシーフ、1524Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ギリギリのペース？]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-470.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-470.html"/>
-        <updated>2025-04-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[早いものでもう4月も終わりとなり今年の1/3が終了となりました。わたしの今年の抱負がオオカミ少年LV1400なのですが去年終了時のLVが1286で今のオオカミ少年のLVは1324なので4か月で38上がったことになります＾＾そこから計算するとあと8か月で上がるのは76という事になり1324と足すとびったり1400！意識して調整してたわけではないです＾＾；このままのペースでいけば今年の目標は達成できそうかな？と思いました＾＾ただし、金鯖]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
