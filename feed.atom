@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-31T12:43:35.511Z</updated>
+    <updated>2025-05-31T13:31:01.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lv2000までカウントダウン]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202505310000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202505310000/"/>
+        <updated>2025-05-31T13:16:04.000Z</updated>
+        <summary type="html"><![CDATA[今日のホットタイムで↓になりました。残り57％弱なので、明日のホットタイム2時間でLv2000に到達できそうです。夜のホットタイムは、Lv1400台の知識ランサーをやろうと思います。知識ランサーを1500まで上げたら...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[病院にて。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1229.html</id>
