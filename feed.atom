@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-31T22:48:02.962Z</updated>
+    <updated>2025-05-31T23:22:25.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム全般】必要なことをやる大切さ]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1098.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1098.html"/>
+        <updated>2025-05-31T23:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Last Epoch三昧の日々が続いている。まだまだやりたいことがたくさんあり、8月？と噂されているシーズン3まで十分楽しめそうだ。PoE2(Path of Exile2)やDIABLO4も遊びたいが、さすがに両天秤出来るほどのゲーム裁量は自分に無いため、寝る前に動画だけ観て満足している。Last Epochは、シーズン2でエンドコンテンツ前までのゲーム難易度を下げ、しんどかった装備作成を緩和したことで、ガチ勢以外もゲームをより楽しめるようになっ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヤティカヌの迷路。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1230.html</id>
