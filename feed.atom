@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-31T21:48:12.238Z</updated>
+    <updated>2025-05-31T22:21:55.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1297,16 +1297,6 @@ S鯖で出させてもらいました
         <summary type="html"><![CDATA[真夜中に何かが壁をひっかくような音に目が覚め、徹底調査をしたけれど何も見つからず、なんらかの虫だと思ったけど、なんらかの蟲だったと結論付ける、第三の猫です。アプデでヤティカヌ専用経験値ダンジョンが追加されました。対象レベルは1250～1499とのことで、チュートリアル終了後にかかる、獲得経験値の急ブレーキが緩和されそうです。せっかくなので、今回はこのダンジョンを攻略してみたいと思います。それでは始めていき]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[肉めない奴。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1204.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1204.html"/>
-        <updated>2025-05-02T10:11:57.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。久しぶりの焼肉です。もう食べられないよ～ｚZ。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
