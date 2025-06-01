@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-01T18:51:53.899Z</updated>
+    <updated>2025-06-01T19:18:07.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1357,16 +1357,6 @@ S鯖で出させてもらいました
         <summary type="html"><![CDATA[こんばんは。魔界のかけら200個集めました。(。´･ω･)?。メインシーフ、1526Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】GWイベント情報]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1089.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1089.html"/>
-        <updated>2025-05-03T06:57:46.000Z</updated>
-        <summary type="html"><![CDATA[RSイベント情報「ねこなのメエェェ」さんによるYouTubeによるRS配信にて、GW中はイベント実施中。簡単なクイズや、ちょっとした数当てゲームで、正解者にはインゴットやゲーム内アイテムがプレゼントされる模様。金鯖を経由してS鯖インゴットを自鯖インゴットに変換できる可能性もあり、S鯖以外の方も振るってご参加くだいさいとのこと。S鯖ギルド「noche」にて、GWの5/3～5/6の4日間で以下のイベントを開催中。（１）UMU獲得数が]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
