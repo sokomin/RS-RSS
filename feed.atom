@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-01T13:30:10.409Z</updated>
+    <updated>2025-06-01T13:47:56.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[水晶推奨。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1231.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1231.html"/>
+        <updated>2025-06-01T13:45:09.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。300本で購入です。結果→失敗orz暁の森林狩りです。メインシーフ、1545Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.5月のドロップ～♪]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/3db27bd84488f30cb3b3336805db760b</id>
