@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-03T15:27:24.490Z</updated>
+    <updated>2025-06-03T15:51:47.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1367,16 +1367,6 @@ S鯖で出させてもらいました
         <summary type="html"><![CDATA[こんばんは。可憐なコスチュームです。スフィアーキャンペーンBoxです。結果↓結構、良いアイテムが出ます！メインシーフ、1530Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】Lv1975到達]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1090.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1090.html"/>
-        <updated>2025-05-05T03:40:19.000Z</updated>
-        <summary type="html"><![CDATA[雨アチャｶがLv1975になった。さすが経験値3倍、予定を1日半前倒しての到達だった。※予定は5/6までLv1975は最後の経験値テーブルに切り替わるタイミングで、Lv2000を目指す人々の心をへし折るらしい。どのくらいキツイのか？Lv1973→Lv1974がこちら。Lv1975→Lv1976がこちら。心がへし折れましたｗプラス4100億って、頭おかしいだろ！さて、Last Epochやろうっと。]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
