@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-03T12:51:19.352Z</updated>
+    <updated>2025-06-03T13:36:29.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[露店商の影。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1233.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1233.html"/>
+        <updated>2025-06-03T12:53:33.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。お風呂道具セットです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to the Underground]]></title>
         <id>https://intothe.info/?p=2796</id>
