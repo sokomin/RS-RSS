@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-03T03:19:50.581Z</updated>
+    <updated>2025-06-03T03:57:48.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the Underground]]></title>
+        <id>https://intothe.info/?p=2796</id>
+        <link href="https://intothe.info/wow/welcome-to-the-underground/"/>
+        <updated>2025-06-03T03:50:44.000Z</updated>
+        <summary type="html"><![CDATA[DragonflightまでのWoWは2年ごとに新しい拡張が出るのが定例だったのだけれども、The...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2000狩場に合わせて変更]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202506030000/</id>
