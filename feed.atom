@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-03T14:53:47.654Z</updated>
+    <updated>2025-06-03T15:27:24.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[憧れの職鎧！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-475.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-475.html"/>
+        <updated>2025-06-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[RSを始めたころからほぼネクロ使いだったのですがその当時はネクロ悪魔の職鎧のサウリアンの皮がほしくて露店を眺めてたりしてたのですが貧乏で買えなくてかなり経ってからやっと買えてうれしかったのを覚えています＾＾おなじネクロ悪魔鎧のダマテルの肋骨は所属して他Gメンさんからいただいたのがはじめてでしたがその当時のネクロは装備レベルの半分にも満たない感じでかなり経ってからやっと装備できたと思いました＾＾；次の]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[露店商の影。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1233.html</id>
