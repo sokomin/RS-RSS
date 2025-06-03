@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-03T01:58:50.696Z</updated>
+    <updated>2025-06-03T03:19:50.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1347,16 +1347,6 @@ S鯖で出させてもらいました
         <summary type="html"><![CDATA[雨アチャｶがLv1975になった。さすが経験値3倍、予定を1日半前倒しての到達だった。※予定は5/6までLv1975は最後の経験値テーブルに切り替わるタイミングで、Lv2000を目指す人々の心をへし折るらしい。どのくらいキツイのか？Lv1973→Lv1974がこちら。Lv1975→Lv1976がこちら。心がへし折れましたｗプラス4100億って、頭おかしいだろ！さて、Last Epochやろうっと。]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GW突入]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-902.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-902.html"/>
-        <updated>2025-05-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GWに入りました私は連休中も何日か出勤日がありますので飛び石になりますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
