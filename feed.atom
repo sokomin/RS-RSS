@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-05T03:20:06.303Z</updated>
+    <updated>2025-06-05T03:58:56.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1357,16 +1357,6 @@ S鯖で出させてもらいました
         <summary type="html"><![CDATA[新年の挨拶から全く更新してませんが生きてます。最低でもアプデとかの折に更新すべきなんでしょうけどレベル帯から個人的に無関係なアプデばかりなのとただただレベ上げしかやる事のない状態のゲームになってるのでイベントも変わり映えなく面白みもないし放置になってました。とりあえず久し振りにブログ更新でログインしようとしたらログインしてなさ過ぎて登録メールに認証用コード送られてきました。流石にもう少しログインは]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリーチャー図鑑。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1208.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1208.html"/>
-        <updated>2025-05-06T15:50:52.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。硬派なコスチュームです。94%の恩恵を受けます。クリーチャー厳選しました(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
