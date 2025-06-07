@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-07T11:47:59.228Z</updated>
+    <updated>2025-06-07T12:44:51.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[@降伏。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1237.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1237.html"/>
+        <updated>2025-06-07T12:06:41.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。Wユニークです。@降伏。暁の森林、狩り風景です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なで力]]></title>
         <id>https://3rdcat.blog.fc2.com/blog-entry-243.html</id>
