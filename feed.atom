@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-07T05:48:16.066Z</updated>
+    <updated>2025-06-07T06:32:29.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1432,16 +1432,6 @@ S鯖で出させてもらいました
         <summary type="html"><![CDATA[Last Epochという神ゲーの底なし沼にハマっている。適度な難易度、豊富な装備品によるビルド派生が多彩さで、装備品に関するクラフト（強化・加工）が奥深い。反動で装備品やアイテムの管理がとても面倒なんじゃ？って心配しがちだが、利便性向上を追求したシステムが素晴らしいの一言。例えば、装備品をレアリティ毎に保管できるように倉庫設定しておけば、シフト＋右クリックで瞬時に該当場所に移動してくれる。設定はレアリティ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GWに狩りを頑張りましたが・・]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202505090000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202505090000/"/>
-        <updated>2025-05-08T18:20:16.000Z</updated>
-        <summary type="html"><![CDATA[PTを組める人がいなかったので、ほぼほぼソロで狩ることになりました。Lv1930→1975ということでGW期間に45レベル上げたわけですが、PT狩りで上がったのは3レベルだけした。（PTで狩れたのは３時間くらいかなぁ）3...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
