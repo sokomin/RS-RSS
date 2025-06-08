@@ -280,18 +280,7 @@
       "title": "のんびりまったり",
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
-      "articles": [
-        {
-          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1290.html",
-          "author": "クレリューフ",
-          "description": "前回投稿の時に宣言した通りネクロと悪魔の覚醒タイプ毎の個人的に薦める装備を載せていきたいと思います。全覚醒一編に投稿ではなく、1つの投稿に1覚醒の装備ですね。という事で初っ端の今回は自分の覚醒タイプでもあるアンジャストラバーです。先に2つほど・・・各タイプの補助武器に関しては、クロスオブアルカナでいいかなと思います。悪魔だと覚醒タイプで火、大地、闇属性のどれかになりますがネクロだと闇属性の強化か弱化",
-          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1290.html",
-          "publishedOn": "2025-05-09T14:52:55.000Z",
-          "wordCount": 663,
-          "title": "さてさてそれでは",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "今日のアリアン",
@@ -1275,16 +1264,6 @@
           "wordCount": 1074,
           "title": "アグレアス。",
           "imageUrl": "https://blog-imgs-165.fc2.com/m/e/d/medaka1985/202505102319370cf.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1210.html",
-          "author": "medaka1985",
-          "description": "こんばんは。涼し気なコスチュームです。夜影の狩り風景です。メインシーフ、1532Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1210.html",
-          "publishedOn": "2025-05-09T14:22:56.000Z",
-          "wordCount": null,
-          "title": "麦わらの一味。",
-          "imageUrl": null
         }
       ]
     },
