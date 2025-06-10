@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T02:00:35.057Z</updated>
+    <updated>2025-06-10T03:22:39.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1456,16 +1456,6 @@ S鯖で出させてもらいました
 ばいば～～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GW終了]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-903.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-903.html"/>
-        <updated>2025-05-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GWが終わりましたね自分は例年より仕事が多く出勤が重なっていましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
