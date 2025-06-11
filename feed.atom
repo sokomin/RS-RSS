@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-11T15:26:48.672Z</updated>
+    <updated>2025-06-11T15:49:50.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1256,16 +1256,6 @@ PC裏で謎に爆笑してしまいました。
         <summary type="html"><![CDATA[こんにちは。外はカリっとしていて美味しいです。ご馳走様です(*´ω｀*)。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】セットオプションってどうよ？]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1093.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1093.html"/>
-        <updated>2025-05-13T03:49:07.000Z</updated>
-        <summary type="html"><![CDATA[恩寵の、極意の、迅速の等、定められた個数を装備に付与することで、プレイキャラの様々な能力を強化することが出来るセットオプション。実は自分、あまり好きではない。効果が高いのは認める。特に、一部については狩りにおいて必須レベルに必要で、今更なしは考えられない。しかし、装備の見た目的に美しくないと感じてしまい、どうしても好きになれない。なんていうか、格好悪いんだよね。そういう意味だと、NPC称号も好きでは]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
