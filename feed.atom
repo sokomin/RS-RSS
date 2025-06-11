@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-11T15:49:50.074Z</updated>
+    <updated>2025-06-11T16:31:28.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1246,16 +1246,6 @@ PC裏で謎に爆笑してしまいました。
         <summary type="html"><![CDATA[今年の2月頃に実装された冒険団コインでもらい、さらに強化できる古代封印の指輪。ヤティ専用指だそうですが育成の遅いわたしだと作ればかなり長い間お世話になるかな？と思いこつこつ冒険団コインを集めて作成中でした＾＾古代森コインでもいいみたいですけどそっち使うのもどうかなと思ってました＾＾；でも協会クエで集められるのは１日４枚という事でなかなか強化が進まないです＾＾；たまにイベントなどでももらえたりします]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[うな丼。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1214.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1214.html"/>
-        <updated>2025-05-13T04:25:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。外はカリっとしていて美味しいです。ご馳走様です(*´ω｀*)。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
