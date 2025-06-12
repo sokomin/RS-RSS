@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-12T15:27:08.841Z</updated>
+    <updated>2025-06-12T15:50:58.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[位相征服者　2025/6/12アップデート]]></title>
+        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202506130000/</id>
+        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202506130000/"/>
+        <updated>2025-06-12T15:32:56.000Z</updated>
+        <summary type="html"><![CDATA[​​​こんばんは(^^)/赤さんが産まれたり、仕事が忙しかったりであまりRSも出来ず、ブログも更新できずでしたが、久々に今日のアプデ内容がネタとして書けそうなので久々に更新します。タイトル通りですが、位相征...]]></summary>
+        <author>
+            <name>たつ2307</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[神々しい太陽ヒペリオン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1241.html</id>
