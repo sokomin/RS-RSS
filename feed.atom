@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-12T01:58:03.712Z</updated>
+    <updated>2025-06-12T03:19:28.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1236,16 +1236,6 @@ PC裏で謎に爆笑してしまいました。
         <summary type="html"><![CDATA[こんばんは。チャレンジです。結果↓＼(^o^)／ｵﾜﾀ。狩り風景です。豪華セットです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインが欲しい！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-472.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-472.html"/>
-        <updated>2025-05-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年の2月頃に実装された冒険団コインでもらい、さらに強化できる古代封印の指輪。ヤティ専用指だそうですが育成の遅いわたしだと作ればかなり長い間お世話になるかな？と思いこつこつ冒険団コインを集めて作成中でした＾＾古代森コインでもいいみたいですけどそっち使うのもどうかなと思ってました＾＾；でも協会クエで集められるのは１日４枚という事でなかなか強化が進まないです＾＾；たまにイベントなどでももらえたりします]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
