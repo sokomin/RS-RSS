@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-14T22:22:11.764Z</updated>
+    <updated>2025-06-14T22:48:21.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】久しぶりのアプデと今後の付き合い方]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1099.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1099.html"/>
+        <updated>2025-06-14T22:31:37.000Z</updated>
+        <summary type="html"><![CDATA[相変わらず精鋭討伐のみINするプレイ状態。先日、久しぶりの大型アップデートがきたので、新討伐コンテンツにギルメンと行ってきた。「位相征服者」強いボスに4人PTで挑み、倒すと確率で1250箱やコラプ箱がドロップする。ドロップ確率は、おそらく1500精鋭討伐並と予想（1500精鋭は100回に1回くらいが自分の体感）ボスの攻撃は「HPに比例したダメージ」を与えてくるものが多く、SG無敵や全吸収、全回避は無効。役割分担と対策をし]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新・錬成。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1243.html</id>
