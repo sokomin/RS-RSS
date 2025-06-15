@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-15T13:48:08.291Z</updated>
+    <updated>2025-06-15T14:20:02.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[手料理。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1244.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1244.html"/>
+        <updated>2025-06-15T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。手づくりハンバーグです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】久しぶりのアプデと今後の付き合い方]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1099.html</id>
