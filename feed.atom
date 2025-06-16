@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-16T12:51:46.967Z</updated>
+    <updated>2025-06-16T13:36:59.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[精鋭報告。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1245.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1245.html"/>
+        <updated>2025-06-16T13:14:37.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。シーフ、1250精鋭報酬です。シーフ、1500精鋭報酬です。アーチャー、1250精鋭報酬です。武道家、1250精鋭報酬です。ビーストテイマー、1250精鋭報酬です。シーフ、ピペリオン精鋭報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[しつこく位相の記事ですが何か]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202506160000/</id>
