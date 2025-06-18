@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-18T21:47:57.030Z</updated>
+    <updated>2025-06-18T22:22:44.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】新ボス（位相）実装後の相場]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1100.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1100.html"/>
+        <updated>2025-06-18T22:18:24.000Z</updated>
+        <summary type="html"><![CDATA[精鋭討伐のみINしている状態のため、相場が全く分からなくなっている。毎日INしてチェックしていた頃は、ほぼ全てのアイテムを把握していただけに、積み重ねの重要さを再認識。相場が下がってくると、やはり気になるのは最終装備の価格。先ほどINして露店検索でチェックしたみた。コラプ箱5000本。一時期の半値だが、おそらくまだ下がるだろうし、3000本くらいになったら獣人用に1箱買いたいかも。いやでも強化が面倒・・・（RSで]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1250Lvキャラクター。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1246.html</id>
