@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-18T15:51:38.210Z</updated>
+    <updated>2025-06-18T16:31:33.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1250Lvキャラクター。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1246.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1246.html"/>
+        <updated>2025-06-18T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ノスタルジックなコスチュームです。平井堅かな？渋いね～！1250Lvのサブ(剣士)、デビューです。メインシーフ、1551Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リニューアル！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-477.html</id>
