@@ -920,18 +920,7 @@
       "title": "ほしめろちゃんだぅ～☆（ゝω・）v",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/hoshiredstone/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/hoshiredstone/",
-      "articles": [
-        {
-          "id": "https://plaza.rakuten.co.jp/hoshiredstone/diary/202505200000/",
-          "author": "ほしめろちゃん",
-          "description": "ブリ",
-          "link": "https://plaza.rakuten.co.jp/hoshiredstone/diary/202505200000/",
-          "publishedOn": "2025-05-20T00:22:30.000Z",
-          "wordCount": 1637,
-          "title": "好きな寿司ネタ1選",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/832733eabd3d2eed574596b7198ec09ffaf3834a.63.9.9.3.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "曇りのち晴れ４８日",
