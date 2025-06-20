@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-20T01:58:55.634Z</updated>
+    <updated>2025-06-20T03:20:43.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1139,16 +1139,6 @@ PvPでたまにある虚無感
         <summary type="html"><![CDATA[目ぼしいアップデートも無い。1250UMU実装してから3年も経つのに、次のUMUを実装する気配も無い。サブ育成等とっくに飽き飽きしており、唯一の楽しみ攻城戦も、相変わらずのバグ放置に加え、深刻な過疎で対戦もままならない。インゴはそれなりにあるため、欲しいものが無い=ロトを始めとした課金をする必要がない(イベント狩りならプチポや1日ULTで十分)こういう人少なくないと思うんだが、運営売上大丈夫か？MMORPGは賑わってなん]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金の豚まん。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1222.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1222.html"/>
-        <updated>2025-05-21T14:19:37.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。お夜食です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
