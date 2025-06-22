@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-22T03:39:14.487Z</updated>
+    <updated>2025-06-22T04:17:52.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1149,16 +1149,6 @@ PvPでたまにある虚無感
         <link href="https://medaka1985.fc2.net/blog-entry-1225.html"/>
         <updated>2025-05-25T07:34:50.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。水晶チャレンジです。マントのNPC称号上書き狙いです。いざ！勝負です。パリン！おかわりです。変わらず…(ロングッシュ取りたい)メインシーフ、1541Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ラグナロクオンライン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1224.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1224.html"/>
-        <updated>2025-05-23T16:06:19.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ラグナロクオンライン、試作です。この世界でも、シーフを選びました。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
