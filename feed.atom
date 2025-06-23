@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-23T02:06:41.721Z</updated>
+    <updated>2025-06-23T03:40:23.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界の中心で愛を叫ぶ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1250.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1250.html"/>
+        <updated>2025-06-23T02:22:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。孤立しました。シーフ、1500精鋭報酬です。シーフ、1250精鋭報酬です。武道家、1250精鋭報酬です。アーチャー、1250精鋭報酬です。剣士、1250精鋭報酬です。ビーストテイマー、1250精鋭報酬です。座標13.30 新しい安全地帯です。シーフ、位相報酬です。シーフのウポス補助武器です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[対決！位相征服者ヒペリオン　【集う　漢達編】]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-909.html</id>
