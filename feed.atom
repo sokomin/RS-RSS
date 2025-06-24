@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-24T22:23:22.878Z</updated>
+    <updated>2025-06-24T22:50:02.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1294,6 +1294,16 @@ PvPでたまにある虚無感
         <summary type="html"><![CDATA[こんばんは。UMUドロップです。レプリカ変換器です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lv2000目前]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202505260000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202505260000/"/>
+        <updated>2025-05-26T11:56:54.000Z</updated>
+        <summary type="html"><![CDATA[次の週末のホットタイムで、Lv2000に届きそうな状況になりました。ただ、このレベル帯になると経験値が不味くて、けっこう大変だなと思っています。経験値が等倍のときに、パワキなしでソロをちょいちょいやって...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
