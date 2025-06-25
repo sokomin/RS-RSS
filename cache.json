@@ -295,6 +295,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1102.html",
+          "author": "JEFRY",
+          "description": "基本無料で遊べるREDSTONE、どこまでならストレスそこそこで遊べるのか？「レイド系コンテンツ」精鋭討伐・タビアクートULTスフィアじゃなければスフィアは不要。判定○ただし、SG連携を失敗した際、デスペナ解除が面倒なのが難点。2PC等でデスペナ解除出来る人なら、無課金でも問題なくこなせる。・スザルアンキールULTスフィアじゃなければスフィアは不要。判定○遠距離攻撃が可能な場合、安全地帯から攻撃することで安定攻略が可",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1102.html",
+          "publishedOn": "2025-06-25T03:22:31.000Z",
+          "wordCount": 569,
+          "title": "【REDSTONE】無課金でまったり生活",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1101.html",
           "author": "JEFRY",
           "description": "物欲センサーってマジであるよね？無欲の勝利！（位相討伐4回目）",
@@ -1223,16 +1233,6 @@
           "wordCount": 1075,
           "title": "精鋭報告。",
           "imageUrl": "https://blog-imgs-163.fc2.com/m/e/d/medaka1985/20250527002350331.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1226.html",
-          "author": "medaka1985",
-          "description": "こんばんは。UMUドロップです。レプリカ変換器です。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1226.html",
-          "publishedOn": "2025-05-26T15:08:33.000Z",
-          "wordCount": 1075,
-          "title": "アランの牙。",
-          "imageUrl": "https://blog-imgs-163.fc2.com/m/e/d/medaka1985/20250527000626175.png"
         }
       ]
     },

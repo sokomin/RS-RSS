@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T02:00:38.913Z</updated>
+    <updated>2025-06-25T03:24:00.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】無課金でまったり生活]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1102.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1102.html"/>
+        <updated>2025-06-25T03:22:31.000Z</updated>
+        <summary type="html"><![CDATA[基本無料で遊べるREDSTONE、どこまでならストレスそこそこで遊べるのか？「レイド系コンテンツ」精鋭討伐・タビアクートULTスフィアじゃなければスフィアは不要。判定○ただし、SG連携を失敗した際、デスペナ解除が面倒なのが難点。2PC等でデスペナ解除出来る人なら、無課金でも問題なくこなせる。・スザルアンキールULTスフィアじゃなければスフィアは不要。判定○遠距離攻撃が可能な場合、安全地帯から攻撃することで安定攻略が可]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ｇ倉庫にアルカナ！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-478.html</id>
@@ -1282,16 +1292,6 @@ PvPでたまにある虚無感
         <link href="https://medaka1985.fc2.net/blog-entry-1227.html"/>
         <updated>2025-05-26T15:29:12.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。シーフ、1500精鋭報酬です。中身↓シーフ、1500精鋭報酬です。アーチャー、1250精鋭報酬です。武道家、1250精鋭報酬です。ビーストテイマー、1250精鋭報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アランの牙。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1226.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1226.html"/>
-        <updated>2025-05-26T15:08:33.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。UMUドロップです。レプリカ変換器です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
