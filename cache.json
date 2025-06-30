@@ -239,16 +239,6 @@
           "wordCount": 2240,
           "title": "Lv2000到達",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/1564311f724e15050af00d7486a5bafc43690447.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202505310000/",
-          "author": "雷神の弓",
-          "description": "今日のホットタイムで↓になりました。残り57％弱なので、明日のホットタイム2時間でLv2000に到達できそうです。夜のホットタイムは、Lv1400台の知識ランサーをやろうと思います。知識ランサーを1500まで上げたら...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202505310000/",
-          "publishedOn": "2025-05-31T13:16:04.000Z",
-          "wordCount": 2241,
-          "title": "Lv2000までカウントダウン",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/516c465f95ff6ff1323c77c52bc20b2777701073.73.9.9.3.png"
         }
       ]
     },
@@ -304,6 +294,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1103.html",
+          "author": "JEFRY",
+          "description": "シーズン2で大幅に強化されたセンチネル(戦士・剣士・ウォーリアーの類)上位職は以下の3種で、個人的にはパラディンが好み。ざっくり特徴を書いてみる。　・フォージガード盾を装備して戦う、硬めの上位職。盾は必須ではないが、職固有スキルに両手武器を片手で使える(盾装備可能)があるため、攻撃力の高い武器を硬さを維持しながら利用できる。スキルも盾を利用したものや、溜め(チャネリング)系、剣の分身を複数召喚する(ミニオ",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1103.html",
+          "publishedOn": "2025-06-30T00:46:00.000Z",
+          "wordCount": 574,
+          "title": "【Last Epoch】センチネルの魅力",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1102.html",
           "author": "JEFRY",

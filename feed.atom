@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-29T23:49:01.401Z</updated>
+    <updated>2025-06-30T02:05:40.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Last Epoch】センチネルの魅力]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1103.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1103.html"/>
+        <updated>2025-06-30T00:46:00.000Z</updated>
+        <summary type="html"><![CDATA[シーズン2で大幅に強化されたセンチネル(戦士・剣士・ウォーリアーの類)上位職は以下の3種で、個人的にはパラディンが好み。ざっくり特徴を書いてみる。　・フォージガード盾を装備して戦う、硬めの上位職。盾は必須ではないが、職固有スキルに両手武器を片手で使える(盾装備可能)があるため、攻撃力の高い武器を硬さを維持しながら利用できる。スキルも盾を利用したものや、溜め(チャネリング)系、剣の分身を複数召喚する(ミニオ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精鋭報酬。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1257.html</id>
@@ -1320,16 +1330,6 @@ PvPでたまにある虚無感
         <summary type="html"><![CDATA[こんばんは。UMUゲットです。間違えて難易度中を選んでしまいました。メインシーフ、1544Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lv2000までカウントダウン]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202505310000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202505310000/"/>
-        <updated>2025-05-31T13:16:04.000Z</updated>
-        <summary type="html"><![CDATA[今日のホットタイムで↓になりました。残り57％弱なので、明日のホットタイム2時間でLv2000に到達できそうです。夜のホットタイムは、Lv1400台の知識ランサーをやろうと思います。知識ランサーを1500まで上げたら...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
