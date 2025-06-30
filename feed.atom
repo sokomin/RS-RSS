@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-30T02:05:40.750Z</updated>
+    <updated>2025-06-30T03:39:52.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1320,16 +1320,6 @@ PvPでたまにある虚無感
         <summary type="html"><![CDATA[Last Epoch三昧の日々が続いている。まだまだやりたいことがたくさんあり、8月？と噂されているシーズン3まで十分楽しめそうだ。PoE2(Path of Exile2)やDIABLO4も遊びたいが、さすがに両天秤出来るほどのゲーム裁量は自分に無いため、寝る前に動画だけ観て満足している。Last Epochは、シーズン2でエンドコンテンツ前までのゲーム難易度を下げ、しんどかった装備作成を緩和したことで、ガチ勢以外もゲームをより楽しめるようになっ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヤティカヌの迷路。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1230.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1230.html"/>
-        <updated>2025-05-31T15:29:23.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。UMUゲットです。間違えて難易度中を選んでしまいました。メインシーフ、1544Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
