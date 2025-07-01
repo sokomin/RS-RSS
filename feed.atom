@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T09:51:52.043Z</updated>
+    <updated>2025-07-01T10:27:47.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025.6月のドロップ～♪]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/4267fc1752ee9c21471837065a7cbb77</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/4267fc1752ee9c21471837065a7cbb77?fm=rss"/>
+        <updated>2025-07-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7月ですね。
+
+
+あやうく記事が書けなくなるところでした(´・ω・`)
+物理IDはドロップがなく、知識IDもしょぼい感じです。
+先月の反動でしょうか。
+まぁ致し方ないですね。
+７月は頑張りましょう。
+
+
+さて、お気づきの方もいるかもしれませんが、記事が減っており、一部はリンクが外れています。
+ブログの上部にも記載されていますが、gooブログが11月に閉鎖されることに伴い、ただいま記事を整理しています。
+古い記事などは削除しているので、リンク切れが起きているわけです。
+引越しをするか閉鎖するかはまだ迷っていますが、一応引っ越し準備も兼ねての記事整理です。
+ご容赦願いたいと思います<(_ _)>
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[桃太郎。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1259.html</id>
