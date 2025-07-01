@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T14:51:15.626Z</updated>
+    <updated>2025-07-01T15:26:23.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[位相チャレンジ]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-479.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-479.html"/>
+        <updated>2025-07-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[他のGメンさんたちは結構いけているようなのですが活動時間の問題と火力がないという事でわたしは位相PTに参加する機会がありませんでした＾＾；それで日曜に無課金Gメンさんがホリクロ改を取ったので実験がしたいとGチャで言っていたのでわたしも連れて行ってもらいました＾＾それで試してみたのですがホリクロ改の効果はとてもすごくオオカミ少年だと天使さんがいるだけでほぼ死なないのかな？と思うくらい攻撃を耐えることがで]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.6月のドロップ～♪]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/4267fc1752ee9c21471837065a7cbb77</id>
