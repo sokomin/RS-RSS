@@ -120,18 +120,7 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": [
-        {
-          "id": "https://intothe.info/?p=2796",
-          "author": "marsborn",
-          "description": "DragonflightまでのWoWは2年ごとに新しい拡張が出るのが定例だったのだけれども、The...",
-          "link": "https://intothe.info/wow/welcome-to-the-underground/",
-          "publishedOn": "2025-06-03T03:50:44.000Z",
-          "wordCount": 2697,
-          "title": "Welcome to the Underground",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "魔法の壁のリアルライふ",
@@ -979,6 +968,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1260.html",
+          "author": "medaka1985",
+          "description": "こんばんは。マントのエンチャント、10回目くらいです。頼みます( ；∀；)。おお！ちゃんと上書き出来ました！(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1260.html",
+          "publishedOn": "2025-07-02T15:31:14.000Z",
+          "wordCount": null,
+          "title": "物我一如。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1259.html",
           "author": "medaka1985",
