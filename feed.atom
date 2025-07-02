@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-02T05:52:10.694Z</updated>
+    <updated>2025-07-02T06:36:05.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1327,16 +1327,6 @@ PvPでたまにある虚無感
         <summary type="html"><![CDATA[DragonflightまでのWoWは2年ごとに新しい拡張が出るのが定例だったのだけれども、The...]]></summary>
         <author>
             <name>marsborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2000狩場に合わせて変更]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202506030000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202506030000/"/>
-        <updated>2025-06-02T17:56:41.000Z</updated>
-        <summary type="html"><![CDATA[まず、被魔法吸収の効果がほとんど無くなるので↓を作成しました。※敢えて3穴で完全解放を使いました。2000狩場は動物型と悪魔型のMOBばかりなので、この獅子仮面は狩場に合った装備だと思います。（狩りしないん...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
