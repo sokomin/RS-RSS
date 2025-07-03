@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T16:56:22.954Z</updated>
+    <updated>2025-07-03T17:25:25.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近の活動報告]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202507040000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202507040000/"/>
+        <updated>2025-07-03T17:14:01.000Z</updated>
+        <summary type="html"><![CDATA[​まず、知識ランサーがLv1500になりました。というわけで、早速1500精鋭ソロしてきました。弱スキルのクレセントでも割と楽にソロできました。Lv1500になったら、↓これでキャラを強化できます。Lv19からLv15まで...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ペイトンユニークBOX。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1261.html</id>
