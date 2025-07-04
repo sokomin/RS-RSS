@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T23:48:54.862Z</updated>
+    <updated>2025-07-04T02:00:07.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1393,26 +1393,6 @@ PvPでたまにある虚無感
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[健康比率指輪。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1235.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1235.html"/>
-        <updated>2025-06-04T12:53:34.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。鏡チャンレンジです。ファ！？いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推奨チャレンジ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1234.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1234.html"/>
-        <updated>2025-06-04T12:36:05.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。5回目のチャレンジです。残念！レプリカチャレンジです。残念！(笑)いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
