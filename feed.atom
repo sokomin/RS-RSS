@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-04T11:21:11.063Z</updated>
+    <updated>2025-07-04T11:47:40.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[混沌の大地23層。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1262.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1262.html"/>
+        <updated>2025-07-04T11:36:05.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。混沌の大地が23層まで実装されています。低下減少が無いですが全体的に硬めです。19層か20層のBOSSで石碑がありますが、途中から出現するアークデモンを倒すとクリア。23層はほぼ物理無効なmobが沸く時があります。残念！私の冒険は23層で終わってしまった！いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近の活動報告]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202507040000/</id>
