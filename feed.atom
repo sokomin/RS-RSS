@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-05T18:52:12.585Z</updated>
+    <updated>2025-07-05T19:18:56.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1318,16 +1318,6 @@ PvPでたまにある虚無感
         <summary type="html"><![CDATA[何もしていないのにレベル1400になっていました。リログしたら元に戻ったので女神だったようです。実際に1400になるところを見ることはあるのでしょうか。第三の猫です。というわけで、今回は「なで力」を上げていきたいと思います。なで力とは、自キャラを他のキャラにぴったり重ねたり、等間隔に並べたりする系統のプレーヤースキルの一種です。なで力を上げることで、スキル使用時における適切な位置取りが可能となり、攻撃効果]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向日葵。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1236.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1236.html"/>
-        <updated>2025-06-06T07:00:47.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。夏がやって来ます。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
