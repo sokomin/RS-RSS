@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-06T07:21:44.153Z</updated>
+    <updated>2025-07-06T07:47:33.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[熱中症にご注意]]></title>
+        <id>kaze.gg-blog.com://entry/213</id>
+        <link href="http://kaze.gg-blog.com/quest/20250706"/>
+        <updated>2025-07-06T07:10:21.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+ニート中 転職活動中の風です。
+ 
+ヒペリオンのドヤ顔からゲームが始まる仕様になってます
+
+ 
+ 
+
+ハマる技は修正されたみたいで残念ですがクリアするとモーションが貰えます
+
+
+四次元の可視化のやーーーつ
+ひさびさにサマナ始動
+
+
+ランサほどではないですが個人的に性に合っていて狩りやすいジョブ
+                 
+
+
+私のいちばん好きな狩場：神殿B2
+
+
+初めてメインキャラのランサでここに来たときより
+
+
+1100レベになりました。
+ 
+ 
+
+
+銀行クエで順番を間違えて先にシンクに走ったらこうなる
+
+
+ほしかったクリーチャーは非公開のももちゃん
+
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あなたの愛したオーディオ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1263.html</id>
