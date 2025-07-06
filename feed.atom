@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-06T15:48:09.656Z</updated>
+    <updated>2025-07-06T16:28:29.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[決闘場。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1264.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1264.html"/>
+        <updated>2025-07-06T16:23:39.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。716÷(716＋413)×100=63.41%メインシーフ、1250精鋭報酬です。シーフ、1500精鋭報酬です。剣士、1250精鋭報酬です。キャノニア、1250精鋭報酬です。アーチャー、1250精鋭報酬です。ビーストテイマー、1250精鋭報酬です。武道家、1250精鋭報酬です。メインシーフ、1556Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中間報告]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-999.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-999.html"/>
+        <updated>2025-07-06T15:52:26.000Z</updated>
+        <summary type="html"><![CDATA[6月なにも更新できなかった＿ﾉ乙(､ﾝ､)＿ 　-3ご無沙汰していてごめんなさい。そしてイラスト企画の絵に手間取っていて、重ねて恐縮です。①出かける用事がちょこちょこ入る②絵柄のアップデートの研究と色塗りの猛勉強中(めぃかさんに似合う絵柄と塗りの模索)③夏バテ(？)でしばらく寝込む　現在は元気です。喘息はもうどうしようもない以上が、ブランクの間にあったことです。でも絵の勉強は、本当にとても楽しいです。時間があっと]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[混沌リニューアル]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-911.html</id>
