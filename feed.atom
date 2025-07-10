@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T13:38:08.822Z</updated>
+    <updated>2025-07-10T13:56:03.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Machinery of Mercenaries]]></title>
+        <id>https://intothe.info/?p=2841</id>
+        <link href="https://intothe.info/poe/machinery-of-mercenaries/"/>
+        <updated>2025-07-10T13:48:50.000Z</updated>
+        <summary type="html"><![CDATA[久しぶりのPoE記事たまに遊んでもAct中で辞めたりmapに入って早々に辞めたりしていたのでまともにプレイするのは3.21のCrucible以来約2年ぶりになる...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特殊封印解放道具箱。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1267.html</id>
