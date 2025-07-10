@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T12:52:36.070Z</updated>
+    <updated>2025-07-10T13:38:08.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[特殊封印解放道具箱。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1267.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1267.html"/>
+        <updated>2025-07-10T13:34:45.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。キュートなコスチュームです。1→2解放チャレンジです！ヽ(・ω・)/ｽﾞｺｰ。サブの武道家、1264Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.7.10 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/2f90c42ae6e39b2d1e36f95fd8e2b9df</id>
