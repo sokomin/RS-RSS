@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-12T14:21:32.252Z</updated>
+    <updated>2025-07-12T14:48:58.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ベルセルク。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1269.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1269.html"/>
+        <updated>2025-07-12T14:24:06.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。今、熱いホリークロス改です。完全封印解放道具箱です。2空きは成功ですね！傭兵さんのお陰で無事、勝利です(｀・ω・´)ｼｬｷｰﾝ。ベルセルク時のステータスです。メインシーフ、1557Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サブIDの姫を本気でレベリングするので装備など載せてみます]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202507120000/</id>
