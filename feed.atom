@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-12T02:06:03.259Z</updated>
+    <updated>2025-07-12T03:39:24.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1421,26 +1421,6 @@ PvPでたまにある虚無感
 ではまた]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[位相征服者　2025/6/12アップデート]]></title>
-        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202506130000/</id>
-        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202506130000/"/>
-        <updated>2025-06-12T15:32:56.000Z</updated>
-        <summary type="html"><![CDATA[​​​こんばんは(^^)/赤さんが産まれたり、仕事が忙しかったりであまりRSも出来ず、ブログも更新できずでしたが、久々に今日のアプデ内容がネタとして書けそうなので久々に更新します。タイトル通りですが、位相征...]]></summary>
-        <author>
-            <name>たつ2307</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神々しい太陽ヒペリオン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1241.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1241.html"/>
-        <updated>2025-06-12T14:33:04.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。本日、実装された1250精鋭討伐です。コラブ欲しい・・・。古都の様子が変わりました。協会の様子も変わりました(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>

@@ -757,18 +757,7 @@
       "title": "カルDXのレッドストーン放浪",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/karudxrs/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/karudxrs/",
-      "articles": [
-        {
-          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202506130000/",
-          "author": "たつ2307",
-          "description": "​​​こんばんは(^^)/赤さんが産まれたり、仕事が忙しかったりであまりRSも出来ず、ブログも更新できずでしたが、久々に今日のアプデ内容がネタとして書けそうなので久々に更新します。タイトル通りですが、位相征...",
-          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202506130000/",
-          "publishedOn": "2025-06-12T15:32:56.000Z",
-          "wordCount": 1687,
-          "title": "位相征服者　2025/6/12アップデート",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/bea6c352e13ca60d9709c12c00f3998342b6aa8d.35.9.9.3.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "rb79kのブログ",
@@ -1274,16 +1263,6 @@
           "wordCount": null,
           "title": "安全地帯。",
           "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1241.html",
-          "author": "medaka1985",
-          "description": "こんばんは。本日、実装された1250精鋭討伐です。コラブ欲しい・・・。古都の様子が変わりました。協会の様子も変わりました(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1241.html",
-          "publishedOn": "2025-06-12T14:33:04.000Z",
-          "wordCount": 1076,
-          "title": "神々しい太陽ヒペリオン。",
-          "imageUrl": "https://blog-imgs-163.fc2.com/m/e/d/medaka1985/20250612232913ba2.png"
         }
       ]
     },
