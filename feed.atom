@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-12T11:48:02.380Z</updated>
+    <updated>2025-07-12T12:47:39.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サブIDの姫を本気でレベリングするので装備など載せてみます]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202507120000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202507120000/"/>
+        <updated>2025-07-12T12:26:56.000Z</updated>
+        <summary type="html"><![CDATA[・武器姫は攻撃速度が重要なので速度DXを付けています。製錬を上げたり、オニトルロを付けたりは金がないのでやりません。・耳ボトル束洗礼は範囲が広いのでオーバーフローは必要ありません。製錬は、自前のガー...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ひとくぎり]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-1000.html</id>
