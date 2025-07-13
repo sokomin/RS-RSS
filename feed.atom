@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-12T23:50:08.182Z</updated>
+    <updated>2025-07-13T02:20:08.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Last Epoch】シーズン２一旦満足]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1106.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1106.html"/>
+        <updated>2025-07-13T00:45:35.000Z</updated>
+        <summary type="html"><![CDATA[センチネルで遊んだシーズン２も、最後のヴォイドナイトで満足感を得られたため、Last Epochも一旦終了しようとおもう。予定通りなら、8/21開幕となるシーズン３では他職で遊ぶ予定。基本的に自分のビルドはネットの聞きかじりで、目新しさは一切無い。よって、これから書いてあるビルド情報はネットに転がっている情報なので、目新しさを求めている方はスルー推奨。※個人的は備忘録的意味合い。＜装備＞テンプレ通り忠実に組んで]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ベルセルク。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1269.html</id>
