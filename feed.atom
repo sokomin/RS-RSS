@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-13T14:49:10.513Z</updated>
+    <updated>2025-07-13T15:23:42.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム全般】気付けば30万アクセス突破]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1107.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1107.html"/>
+        <updated>2025-07-13T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[気付けば30万アクセス突破！読んでいただいている方々、いつもありがとうございます。今後とも、よろしくお願いします。最近、Last Epochで遊んでいたため、MMORPGの情報収集が手薄になっていたが、なんとあのLOST ARKの開発元が、新しいMMORPGを日本でサービス開始するらしい。ゲーム名は「LORD NINE（ロードナイン）」古き良きMMORPGがコンセプトの１つらしく、見下ろし型でマウスクリックでの移動等、自分的にはかなり評価が高]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[混沌で玲瓏集め]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-912.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-912.html"/>
+        <updated>2025-07-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[会社のエアコンが壊れていたせいで先日休憩時間に上半身ハダカで窓を開けたまま昼寝してしまいおっ◯いを蚊にさされてしました半端なくかゆいですが我慢していますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Last Epoch】シーズン２一旦満足]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1106.html</id>
