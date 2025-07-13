@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-13T18:53:34.503Z</updated>
+    <updated>2025-07-13T19:19:23.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1286,16 +1286,6 @@ PT構成
         <summary type="html"><![CDATA[アプデで古都マップなどのグラフィックが改善されましたね。見た目が変わっただけなのに、システム改善よりもゲームが新しくなった感じがします。こんばんは、前回更新から間が空いていないのでそんなに新しくない第三の猫です。今回はアプデで変わった部分を見ていきたいと思います。古都の噴水も大きく印象が変わりました。そして一部のモンスターも見た目が変わったようで、チキブルー（元青鷲）がやせ細ってしまいました。最近]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他のキャラでも位相を倒してみた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202506140000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202506140000/"/>
-        <updated>2025-06-14T07:12:31.000Z</updated>
-        <summary type="html"><![CDATA[※復活数が３回なのは、上手く位置取りするのが難しくて、２人PTで何度も入り直すのは大変なので巻物使っちゃいました。これ２人ＰＴでやってますが、闘士は寄生なんだけど一応攻撃してみたって感じだから、ほぼ姫...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
