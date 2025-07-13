@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-13T02:20:08.462Z</updated>
+    <updated>2025-07-13T03:47:10.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1276,16 +1276,6 @@ PT構成
         <summary type="html"><![CDATA[※復活数が３回なのは、上手く位置取りするのが難しくて、２人PTで何度も入り直すのは大変なので巻物使っちゃいました。これ２人ＰＴでやってますが、闘士は寄生なんだけど一応攻撃してみたって感じだから、ほぼ姫...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全地帯。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1242.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1242.html"/>
-        <updated>2025-06-13T15:09:38.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。10.53にBOSSを引き付けると、一方的に攻撃出来ます。残念な報酬です( ；∀；)。メインシーフ、1549Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
