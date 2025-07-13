@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-13T21:21:56.047Z</updated>
+    <updated>2025-07-13T21:48:01.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1276,16 +1276,6 @@ PT構成
         <summary type="html"><![CDATA[こんばんは。UMUドロップです。二つ目です(´ω｀*)。ニュートラルストーンは1つで1000上がります。残念！メインシーフ、1550Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偽装エルフ]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-244.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-244.html"/>
-        <updated>2025-06-14T09:39:17.000Z</updated>
-        <summary type="html"><![CDATA[アプデで古都マップなどのグラフィックが改善されましたね。見た目が変わっただけなのに、システム改善よりもゲームが新しくなった感じがします。こんばんは、前回更新から間が空いていないのでそんなに新しくない第三の猫です。今回はアプデで変わった部分を見ていきたいと思います。古都の噴水も大きく印象が変わりました。そして一部のモンスターも見た目が変わったようで、チキブルー（元青鷲）がやせ細ってしまいました。最近]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
