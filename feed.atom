@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-14T23:49:16.896Z</updated>
+    <updated>2025-07-15T02:09:30.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1266,16 +1266,6 @@ PT構成
 　図案書には段階というものも存在し、同じ図案書を複数回使うことで図案書の段階を上げることができます。段階を上げることで図案書の効果を強化することができます。ただし注意点としてセット効果の段階は1番段階の低いものが基準になります。例えば4か所3段階にしているが1か所だけ1段階の場合その図案書は1段階の5セット効果になります。また、同じ図案書を6か所以上つけてても5セット効果を発揮しますが5か所5段階でも6か所目が1段階だと発揮する効果の段階は1段階…]]></summary>
         <author>
             <name>曇りのち晴れ４８日</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手料理。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1244.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1244.html"/>
-        <updated>2025-06-15T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。手づくりハンバーグです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
