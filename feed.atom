@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-15T16:57:06.610Z</updated>
+    <updated>2025-07-15T17:26:13.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1305,16 +1305,6 @@ PT構成
         <summary type="html"><![CDATA[こんばんは。シーフ、1250精鋭報酬です。シーフ、1500精鋭報酬です。アーチャー、1250精鋭報酬です。武道家、1250精鋭報酬です。ビーストテイマー、1250精鋭報酬です。シーフ、ピペリオン精鋭報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[しつこく位相の記事ですが何か]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202506160000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202506160000/"/>
-        <updated>2025-06-16T05:25:16.000Z</updated>
-        <summary type="html"><![CDATA[※↑クレセントの表記はベルセ使用時です。クレセントは、巷で言われているように段数がバグっていて弱いというのは事実っぽいですね。頑張って攻撃しても全然減らないので途中で諦めました。（最後まで殴っても40...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
