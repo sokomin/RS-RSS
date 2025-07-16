@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-15T23:51:00.550Z</updated>
+    <updated>2025-07-16T02:06:13.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1295,16 +1295,6 @@ PT構成
         <summary type="html"><![CDATA[この前のアプデでいろんな物が変化したのですがまずすぐわかったのが古都マップが変わった事でした！マップの建物配置は前と変わらないので問題ないのですが建物のグラフィックが一新されていて配置まで変わっていたら迷子になったかもしれないと思いました＾＾；あとはチュートリアルも一部変わっていてモンスター討伐数が大幅に緩和されたりもらえる祈りのカケラの数がトータルで1000→2500に変化したりでかなりチュートリアル楽]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精鋭報告。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1245.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1245.html"/>
-        <updated>2025-06-16T13:14:37.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。シーフ、1250精鋭報酬です。シーフ、1500精鋭報酬です。アーチャー、1250精鋭報酬です。武道家、1250精鋭報酬です。ビーストテイマー、1250精鋭報酬です。シーフ、ピペリオン精鋭報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
