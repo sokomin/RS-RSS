@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T16:56:09.524Z</updated>
+    <updated>2025-07-17T17:25:57.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20.00%。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1273.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1273.html"/>
+        <updated>2025-07-17T17:01:10.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ハルヒコスチュームです。チャレンジ1年生！(;´･ω･)。・・・という夢を見たんだ。ロトなしではこれが限界だと思います。サブのビーストテイマー、1299Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】ヒペリオン装備更新]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1109.html</id>
