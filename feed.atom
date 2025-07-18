@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T03:45:30.449Z</updated>
+    <updated>2025-07-18T04:43:42.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1305,16 +1305,6 @@ PT構成
         <summary type="html"><![CDATA[精鋭討伐のみINしている状態のため、相場が全く分からなくなっている。毎日INしてチェックしていた頃は、ほぼ全てのアイテムを把握していただけに、積み重ねの重要さを再認識。相場が下がってくると、やはり気になるのは最終装備の価格。先ほどINして露店検索でチェックしたみた。コラプ箱5000本。一時期の半値だが、おそらくまだ下がるだろうし、3000本くらいになったら獣人用に1箱買いたいかも。いやでも強化が面倒・・・（RSで]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1250Lvキャラクター。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1246.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1246.html"/>
-        <updated>2025-06-18T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ノスタルジックなコスチュームです。平井堅かな？渋いね～！1250Lvのサブ(剣士)、デビューです。メインシーフ、1551Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
