@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T09:33:45.402Z</updated>
+    <updated>2025-07-18T09:53:32.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鰻たべたい]]></title>
+        <id>kaze.gg-blog.com://entry/215</id>
+        <link href="http://kaze.gg-blog.com/ss/%E9%B0%BB%E3%81%9F%E3%81%B9%E3%81%9F%E3%81%84"/>
+        <updated>2025-07-18T09:38:20.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+
+
+光が差し込んでる！？
+  
+ギルド倉庫にテントが張られてる…
+ 
+だいぶやりたい放題ですね…
+せっかくなので過去のフィールドバグまとめてみた
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+さて今週末は経験値イベ！
+
+
+ 
+
+まとめるとこんな感じです。狩り頑張りましょう！
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20.00%。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1273.html</id>
