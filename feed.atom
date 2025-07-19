@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T23:49:23.291Z</updated>
+    <updated>2025-07-19T02:02:41.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1318,16 +1318,6 @@ PT構成
         <link href="https://medaka1985.fc2.net/blog-entry-1248.html"/>
         <updated>2025-06-20T09:27:30.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。純風に命中補正狙いです。素材が残りました。ベース、購入です。勝負、勝負～！ベースが残りました。素材を購入して、勝負です。素材が残りました…。ラストチャンスです！全てを失いました！(笑)いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HP効率Lv6水晶。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1247.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1247.html"/>
-        <updated>2025-06-19T13:01:49.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。NPC称号が外せれるらしいので…。チャーレンジ♪パリン！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
