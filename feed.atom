@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-21T03:52:16.953Z</updated>
+    <updated>2025-07-21T04:48:49.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Knocking on the Wall]]></title>
+        <id>https://intothe.info/?p=2900</id>
+        <link href="https://intothe.info/poe/knocking-on-the-wall/"/>
+        <updated>2025-07-21T03:57:08.000Z</updated>
+        <summary type="html"><![CDATA[その後のMercenary...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お祈り場所。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1275.html</id>
