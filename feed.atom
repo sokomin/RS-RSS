@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-22T16:58:04.242Z</updated>
+    <updated>2025-07-22T17:29:36.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[姫のレベル]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202507230000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202507230000/"/>
+        <updated>2025-07-22T17:24:59.000Z</updated>
+        <summary type="html"><![CDATA[19日のホットタイム開始時点はLv1550でした。3倍の20日は休みでしたが夕方に用事があり数時間狩れず、21日は普通に仕事がありました。そんな状況でしたが、それなりにレベルは上がりました。欲を言えばLv1700にな...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[混沌の主！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-482.html</id>
