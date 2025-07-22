@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-22T14:54:19.961Z</updated>
+    <updated>2025-07-22T15:28:56.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[混沌の主！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-482.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-482.html"/>
+        <updated>2025-07-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ｇチャをしていると白チャのほうに気付かないものでこの前も無課金ＧでＧチャしていたら全チャで探されてるよと教えてもらい何だろうとその方に耳をしてみたら知ってる方のサブキャラだったという事がありました＾＾要件はというとネクロ悪魔の1000職鎧の混沌が300本で売ってるという情報でどこで売ってるのか聞いたところ欲しいなら確保してくれるという事で確保していただきました＾＾感謝いたします＾＾N品でしたが改造して今こ]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ホルモン屋さん。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1277.html</id>
