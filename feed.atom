@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-23T17:30:55.815Z</updated>
+    <updated>2025-07-23T17:53:02.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1241,16 +1241,6 @@ Gvも面白かったのですが
 それほどでも・・・＞＜]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[釜揚げうどん。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1252.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1252.html"/>
-        <updated>2025-06-24T05:49:43.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。つゆに深みが有ります。うん、美味しい！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
