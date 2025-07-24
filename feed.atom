@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T14:55:24.255Z</updated>
+    <updated>2025-07-24T15:25:58.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1197,16 +1197,6 @@ HPをできるだけ減らせば割合ダメージは減る
         <summary type="html"><![CDATA[こんばんは。まだまだ弱いです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】無課金でまったり生活]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1102.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1102.html"/>
-        <updated>2025-06-25T03:22:31.000Z</updated>
-        <summary type="html"><![CDATA[基本無料で遊べるREDSTONE、どこまでならストレスそこそこで遊べるのか？「レイド系コンテンツ」精鋭討伐・タビアクートULTスフィアじゃなければスフィアは不要。判定○ただし、SG連携を失敗した際、デスペナ解除が面倒なのが難点。2PC等でデスペナ解除出来る人なら、無課金でも問題なくこなせる。・スザルアンキールULTスフィアじゃなければスフィアは不要。判定○遠距離攻撃が可能な場合、安全地帯から攻撃することで安定攻略が可]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
