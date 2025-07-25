@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-25T22:53:03.207Z</updated>
+    <updated>2025-07-25T23:24:55.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム全般】期待作目白押し]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1112.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1112.html"/>
+        <updated>2025-07-25T22:54:41.000Z</updated>
+        <summary type="html"><![CDATA[期待の新作MMORPG「LORD NINE」が、遂に7/31(木)サービス開始となる。本作、MMORPG好きの自分にとって、終わりの住処となるのか？期待と不安が入り混じっている。今までプレイしてきた「REDSTONE」も面白いMMORPGだったが、やはりいくつか不満があり、サービス開始後20年経っても改善されることはなかった。不満はいくつもあるが、大きくは３つ。１．バグの放置他のMMORPGであれば致命的ともいえる問題だが、古参に愛され支えられ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文校ラーメン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1280.html</id>
@@ -1101,102 +1111,6 @@ HPをできるだけ減らせば割合ダメージは減る
         <summary type="html"><![CDATA[こんばんは。スフィアーキャンペーンのおまけ箱です。結果↓ポータル副券の中身は・・・↓こんな感じでした(笑)。ウポスクエストの様子です。メインシーフ、1554Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025.6.26 イベ更新]]></title>
-        <id>https://blog.goo.ne.jp/sizuku-mo/e/982d25359c806a13cbeda237018cd2ea</id>
-        <link href="https://blog.goo.ne.jp/sizuku-mo/e/982d25359c806a13cbeda237018cd2ea?fm=rss"/>
-        <updated>2025-06-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[蒸し暑いですね(´・ω・`)
-
-
-
-
-
-(4)累計ログインイベント
-
-6月12日メンテ後から6月22日23時59分まで
-(3)RED's Roulette
-
-3月27日メンテ後から4月17日メンテ前まで
-(5)ログインチェックイベント
-
-2024年12月12日メンテ後から1月16日メンテ前まで
-(5)装備強化Burstイベント
-
-4月3日メンテ後から4月9日23時59分まで
-(4)買取価格UPイベント
-
-2月22日から3月16日まで
-(3)BOXドロップイベント
-
-9月19日メンテ後から10月10日メンテ前まで
-「もみじBOX」を入手することができます。
-(4)RED STONEのオーラ解放イベント
-
-8月22日メンテ後から9月19日メンテ前まで
-(2)チュートリアル支援
-
-10月17日メンテ後から10月30日23時59分まで
-
-この他のイベントとして
-
-
-
-
-10月22日メンテ後から10月30日23時59分まで
-
-5月26日0時から6月8日23時59分まで
-
-5月26日0時から6月8日23時59分まで
-
-5月26日0時から6月8日23時59分まで
-○RAD STONE PASS
-3月27日メンテ後から5月29日メンテ前まで
-
-6月12日公式Xポスト掲示後から6月18日23時59分まで
-「新規アップデート記念X RP イベント」ポストをリポストすると抽選でボーナスSPがもらえます。
-
-4月7日0時から4月20日23時59分まで
-
-2月20日メンテ後から4月24日メンテ前まで
-
-1月16日メンテ後から3月26日23時59分まで
-
-2月20日10時から3月27日23時59分まで
-
-
-イベントとは異なるかもしれませんがこちらも。
-「毎月20日は旗の日イベント」
-「Daily Reward」
-
-
-6月19日メンテ後から7月3日メンテ前まで
-
-
-そうそう
-フェーズストーンが実装され、取引ボタンがなくなってしまい、どうするんだろう・・・・
-と思っていましたが、運営に問い合わせたところ
-「取引したいキャラクターにカーソルを当ててshift＋右クリックで取引できます」
-と回答が来ました。
-まだ試してはいませんが、無事にできることを期待したいですｗ
-
-
-さて、今週もまったりと楽しみましょうｗ
-
-
-
-
-
-
-
-
-
-
-そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
-        <author>
-            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
         </author>
     </entry>
     <entry>
