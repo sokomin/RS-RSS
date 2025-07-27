@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-27T14:50:28.921Z</updated>
+    <updated>2025-07-27T15:25:05.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[もうすぐ金鯖ですね]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-914.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-914.html"/>
+        <updated>2025-07-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[連日猛暑日が続きますねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[覇王の卵。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1281.html</id>
@@ -1101,16 +1111,6 @@ HPをできるだけ減らせば割合ダメージは減る
         <summary type="html"><![CDATA[こんばんは。ぶひぶひ！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もうちょっと鳳凰連破]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-245.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-245.html"/>
-        <updated>2025-06-28T02:55:50.000Z</updated>
-        <summary type="html"><![CDATA[回る室外機とPCファンとローディング表示。やたら途切れるwifiと宝箱バフ。ついに夏が始まってしまいましたね。第三の猫です。宝箱バフは年中途切れている気もします。というわけで、今回はぬぬきにさんの新技から見ていきます。がんばる敵分身軍団ほらもっとがんばってぬぬきにさんがしんでしまいますよというわけで「バイパーハルシネーション」改め「テュポンスヴェノム」習得しました。複数の敵分身を作れるようになっただけで]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>

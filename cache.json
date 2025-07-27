@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-914.html",
+          "author": "ミツリン",
+          "description": "連日猛暑日が続きますねこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-914.html",
+          "publishedOn": "2025-07-27T15:00:00.000Z",
+          "wordCount": 638,
+          "title": "もうすぐ金鯖ですね",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-913.html",
           "author": "ミツリン",
           "description": "先日は私の地域では大雨警報が出るくらいでしたこんにちは　ミツリンです",
@@ -835,16 +845,6 @@
           "publishedOn": "2025-07-19T09:28:37.000Z",
           "wordCount": 320,
           "title": "リアルタイム現在",
-          "imageUrl": null
-        },
-        {
-          "id": "https://3rdcat.blog.fc2.com/blog-entry-245.html",
-          "author": "第三の猫",
-          "description": "回る室外機とPCファンとローディング表示。やたら途切れるwifiと宝箱バフ。ついに夏が始まってしまいましたね。第三の猫です。宝箱バフは年中途切れている気もします。というわけで、今回はぬぬきにさんの新技から見ていきます。がんばる敵分身軍団ほらもっとがんばってぬぬきにさんがしんでしまいますよというわけで「バイパーハルシネーション」改め「テュポンスヴェノム」習得しました。複数の敵分身を作れるようになっただけで",
-          "link": "https://3rdcat.blog.fc2.com/blog-entry-245.html",
-          "publishedOn": "2025-06-28T02:55:50.000Z",
-          "wordCount": null,
-          "title": "もうちょっと鳳凰連破",
           "imageUrl": null
         }
       ]
