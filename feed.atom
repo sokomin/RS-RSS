@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-29T06:43:35.985Z</updated>
+    <updated>2025-07-29T07:28:47.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[焼肉、大福。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1284.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1284.html"/>
+        <updated>2025-07-29T06:56:28.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ハラミ定食です。残さず頂きました。苺ミルクを注文しました。上品な甘さでとても美味しかったです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1000UMU。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1283.html</id>
