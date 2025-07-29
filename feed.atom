@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-29T04:54:40.414Z</updated>
+    <updated>2025-07-29T05:33:57.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1221,16 +1221,6 @@ HPをできるだけ減らせば割合ダメージは減る
         <summary type="html"><![CDATA[シーズン2で大幅に強化されたセンチネル(戦士・剣士・ウォーリアーの類)上位職は以下の3種で、個人的にはパラディンが好み。ざっくり特徴を書いてみる。　・フォージガード盾を装備して戦う、硬めの上位職。盾は必須ではないが、職固有スキルに両手武器を片手で使える(盾装備可能)があるため、攻撃力の高い武器を硬さを維持しながら利用できる。スキルも盾を利用したものや、溜め(チャネリング)系、剣の分身を複数召喚する(ミニオ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精鋭報酬。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1257.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1257.html"/>
-        <updated>2025-06-29T17:19:41.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。豪華なコスチュームです。シーフ、1500精鋭報酬です。シーフ、1250精鋭報酬です。剣士、1250精鋭報酬です。アーチャー、1250精鋭報酬です。ビーストテイマー、1250精鋭報酬です。武道家、1250精鋭報酬です。シーフ、位相報酬です。サブのアーチャー、1262Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
