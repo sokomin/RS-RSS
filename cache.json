@@ -984,23 +984,7 @@
       "title": "曇りのち晴れ４８日",
       "feedUrl": "https://no55555.hatenablog.com/rss",
       "siteUrl": "https://no55555.hatenablog.com/",
-      "articles": [
-        {
-          "id": "hatenablog://entry/6802418398494689980",
-          "author": null,
-          "description": "(V)o￥o(V)\n \n　最近毎週月曜日を迎えるのが楽しくて仕方ないブログ主です。理由はまたヒペリオンと戦えるようになるからです！もう週末になると早くヒペリオンと戦いたいと毎夜呟いております。\n　そんなヒペリオンですが今度は知識キャノニアで挑んでみました。やはり壁ハメは修正されてできなくなったので、今度は真正面からぶつかり合うことになります。でも知識キャノニアなら装備を整えれば比較的楽にソロもできちゃう感じです。\n　今回の記事はヒペリオンに知識キャノニアで挑むときの装備や戦術を書こうと思います。\nヒペリオンと戦う時に用意する装備構成などの考え方\nどういう性能が必要？\n実現するためのアイテム\n用意した装備\n知識キャノニアでの戦い方\nまとめ\nヒペリオンと戦う時に用意する装備構成などの考え方\nどういう性能が必要？\n　まずヒペリオンと戦う時にどんな性能をキャラクターに持たせるかからお話します。ヒペリオンの攻撃の半分くらいはキャラクターの最大HPを基準とした割合ダメージを与えてくるものです。つまりHPが高いとそれに比例して受けるダメージも増えるわけですね。またそれとは別に通常攻撃のように防御力や属性抵抗で軽減する攻撃も存在します。つまりヒペリオンの攻撃から身を守るには\nHPをできるだけ減らせば割合ダメージは減る\n防御力と抵抗を高めればダメージが減る\nこの二つを両立する必要があるわけですね。\n　ただし、防御力を上げるためには健康を上げる必要がありますが、健康を上げるとHPも同時に増えてしまいます。これだと2は満たせますが1の条件は満たせないですね。どうにかして健康を上げてもHPは低いまま維持したいそんな願いを叶えてくれるアイテムが存在します。\n実現するためのアイテム\n　さて、先ほどの1と2を同時に満たす手助けをするアイテム、それはセットオプションの「武装の」です\n\n　武装のを2個つける…",
-          "link": "https://no55555.hatenablog.com/entry/2025/06/30/144500",
-          "publishedOn": "2025-06-30T05:45:00.000Z",
-          "wordCount": 367,
-          "title": "セットOP武装のを使用して知識キャノニアで太陽に挑む",
-          "enclosure": {
-            "url": "https://cdn.image.st-hatena.com/image/scale/b64c5f1fec1273f5dd7d0ea52656c0d9ec110d1c/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20250630%2F20250630135323.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/b64c5f1fec1273f5dd7d0ea52656c0d9ec110d1c/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20250630%2F20250630135323.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "暗黒魔神眼のRS日記",
@@ -1271,16 +1255,6 @@
           "publishedOn": "2025-07-01T05:58:15.000Z",
           "wordCount": null,
           "title": "桃太郎。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1258.html",
-          "author": "medaka1985",
-          "description": "こんにちは。よく見ると、赤ちゃんが沢山居ます。種親です、元気いっぱいです。お兄さんメダカです。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1258.html",
-          "publishedOn": "2025-06-30T05:38:45.000Z",
-          "wordCount": null,
-          "title": "針子。",
           "imageUrl": null
         }
       ]
