@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-29T22:25:47.024Z</updated>
+    <updated>2025-07-29T22:53:36.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【LORD NINE】事前ダウンロード開始]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1114.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1114.html"/>
+        <updated>2025-07-29T22:30:30.000Z</updated>
+        <summary type="html"><![CDATA[7月29日(火)よりPCおよびモバイルの事前ダウンロード開始7月31日(木)に正式リリース間もなくサービス開始。今夜7/30(水)19：00から生放送があるらしい。MMORPGは賑わいが全て。盛り上がって欲しい！]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無題]]></title>
         <id>gregorio29.blog.shinobi.jp://entry/326</id>
