@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-29T19:01:36.493Z</updated>
+    <updated>2025-07-29T19:34:59.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無題]]></title>
+        <id>gregorio29.blog.shinobi.jp://entry/326</id>
+        <link href="http://gregorio29.blog.shinobi.jp/%E6%AD%BB%E3%81%97%E3%81%A6%E5%B1%8D%E3%80%81%E6%94%BE%E7%BD%AE%E3%83%97%E3%83%AC%E3%82%A4/20250730"/>
+        <updated>2025-07-29T19:14:22.000Z</updated>
+        <summary type="html"><![CDATA[第１５回　怪談大会
+一つ足りないvs一つ多い
+日時：８月４日（月）　20:00～
+
+
+参加資格：どなたでも、語り手参戦歓迎です。]]></summary>
+        <author>
+            <name>グレゴリオ麺道　〜Red Stoneと麺類〜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解放変換40回以上やった結果・・・]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202507300000/</id>
