@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-29T11:49:15.316Z</updated>
+    <updated>2025-07-29T12:56:11.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1221,16 +1221,6 @@ HPをできるだけ減らせば割合ダメージは減る
         <summary type="html"><![CDATA[こんにちは。よく見ると、赤ちゃんが沢山居ます。種親です、元気いっぱいです。お兄さんメダカです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Last Epoch】センチネルの魅力]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1103.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1103.html"/>
-        <updated>2025-06-30T00:46:00.000Z</updated>
-        <summary type="html"><![CDATA[シーズン2で大幅に強化されたセンチネル(戦士・剣士・ウォーリアーの類)上位職は以下の3種で、個人的にはパラディンが好み。ざっくり特徴を書いてみる。　・フォージガード盾を装備して戦う、硬めの上位職。盾は必須ではないが、職固有スキルに両手武器を片手で使える(盾装備可能)があるため、攻撃力の高い武器を硬さを維持しながら利用できる。スキルも盾を利用したものや、溜め(チャネリング)系、剣の分身を複数召喚する(ミニオ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
