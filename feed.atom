@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T16:58:27.869Z</updated>
+    <updated>2025-07-30T17:30:18.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[土用の丑の日。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1285.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1285.html"/>
+        <updated>2025-07-30T17:12:36.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。うな重です。カリッ⋯！サクッ⋯！とても美味しかったです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年の金鯖。]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-484.html</id>
