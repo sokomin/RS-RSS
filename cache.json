@@ -148,7 +148,18 @@
       "title": "ロイ4世",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEogzcpaLym0m_sS-ekzKiA",
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SfKhMHCDRSs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SfKhMHCDRSs",
+          "publishedOn": "2025-07-31T13:00:04.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】２０２５年金サバはじまったよ～",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "ひさプッチ",
