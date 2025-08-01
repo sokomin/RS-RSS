@@ -762,6 +762,16 @@
       "siteUrl": "https://orientalrose4.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://orientalrose4.blog.fc2.com/blog-entry-1001.html",
+          "author": "アル・シェリ",
+          "description": "当ブログにとっても夏の風物詩であるイベント。今年も無事、開催していただけるとのお知らせをいただきました。",
+          "link": "https://orientalrose4.blog.fc2.com/blog-entry-1001.html",
+          "publishedOn": "2025-08-01T07:59:34.000Z",
+          "wordCount": 887,
+          "title": "怪談大会のお知らせ",
+          "imageUrl": null
+        },
+        {
           "id": "https://orientalrose4.blog.fc2.com/blog-entry-1000.html",
           "author": "アル・シェリ",
           "description": "ごきげんよう、昨日から今日にかけては少し涼しくてほっとしますね。このイラストは大好きなコミック「綺麗な君に殺されたい。」(原作：芦花公園　漫画：芳野嗣)のファンアートです。2か月ほど独自の研究をしてみて、自分に合っているデジタルの塗り方がようやく掴めて参りました。そろそろいいかも。今日から、めぃかさんのイラストの仕上げ作業に入ります。外出の予定などがまだあるので、現段階では「何日後に仕上がる」の目途",
@@ -958,6 +968,16 @@
           "wordCount": 1431,
           "title": "2025.7.10 イベ更新",
           "imageUrl": "https://blogimg.goo.ne.jp/user_image/78/90/860492a721b0970ccfcaca6ff6806c0d.png"
+        },
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/9e2a5ef004992984b2961bab675a4c23",
+          "author": null,
+          "description": "＜目次＞\n自己紹介\n称号クエスト\nその他のクエスト\nギルド・覚醒クエスト\nペア秘密vol.1　・　ペア秘密vol.2　・　ペア秘密vol.3　・　ペア秘密vol.4\n恩寵序章\n火の恩寵　・　水の恩寵　・　風の恩寵　・　大地の恩寵　・　光の恩寵　・　闇の恩寵\n恩寵強化\n風の羽着地点MAP\n試練のダンジョン",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/9e2a5ef004992984b2961bab675a4c23?fm=rss",
+          "publishedOn": "2025-07-07T09:30:00.000Z",
+          "wordCount": 1415,
+          "title": "目次",
+          "imageUrl": "http://u.xgoo.jp/img/sns/blog.png"
         },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/78310fc323edec8b141de9a767687d56",
