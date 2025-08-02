@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-02T05:02:24.683Z</updated>
+    <updated>2025-08-02T05:44:51.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1269,16 +1269,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[こんばんは。混沌の大地が23層まで実装されています。低下減少が無いですが全体的に硬めです。19層か20層のBOSSで石碑がありますが、途中から出現するアークデモンを倒すとクリア。23層はほぼ物理無効なmobが沸く時があります。残念！私の冒険は23層で終わってしまった！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近の活動報告]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202507040000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202507040000/"/>
-        <updated>2025-07-03T17:14:01.000Z</updated>
-        <summary type="html"><![CDATA[​まず、知識ランサーがLv1500になりました。というわけで、早速1500精鋭ソロしてきました。弱スキルのクレセントでも割と楽にソロできました。Lv1500になったら、↓これでキャラを強化できます。Lv19からLv15まで...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
