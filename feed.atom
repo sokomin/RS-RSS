@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-01T23:50:14.858Z</updated>
+    <updated>2025-08-02T02:04:31.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025.7月のドロップ～♪]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/8f4d14870e4e9c95ad341d8206549b41</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/8f4d14870e4e9c95ad341d8206549b41?fm=rss"/>
+        <updated>2025-08-02T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[8月になりました。
+
+
+
+
+
+ひどい状況はかわりませんね(´・ω・`)
+まぁ前回よりはややマシ・・・というレベルでしょうか。
+でもとりあえずかけてよかったです。
+加えて今回は霊珠もれたし、物理も知識も双方Ｕ品出たし。
+よかったのはよかったですｗ
+
+
+ブログの引っ越し準備も少しずつ進めています。
+私のブログは基本絶対リンクなのですが、引っ越しに伴い相対リンクに書き換えています。
+これが意外と大変で、結構な数あるんですわ(´・ω・`)
+目も光耐性がないので、そんなにたくさんの処理はできず、週末10件から20件くらい書き換えしています。
+このペースで終わるのだろうか・・・とちょっと心配になってきました(´・ω・`)
+とりあえず地道に頑張ります。
+
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２５年金鯖やるぞ　その２]]></title>
         <id>https://www.youtube.com/watch?v=4Vtra60uqac</id>
