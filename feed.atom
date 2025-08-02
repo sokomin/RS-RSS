@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-02T11:21:00.517Z</updated>
+    <updated>2025-08-02T11:47:55.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シルバーロト。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1287.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1287.html"/>
+        <updated>2025-08-02T11:47:02.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。サブのIDで課金してしまいましたorz。指チケットです！現金化(60本)しました。こんな感じでした。金鯖エンジェイ中です(^^♪いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.7月のドロップ～♪]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/8f4d14870e4e9c95ad341d8206549b41</id>
