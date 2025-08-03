@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-03T17:51:31.091Z</updated>
+    <updated>2025-08-03T18:35:34.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本鯖にて。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1288.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1288.html"/>
+        <updated>2025-08-03T18:20:25.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。鏡に挑戦です。結果は↓の方。テイマー、1250精鋭報酬です。武道家、1250精鋭報酬です。天使、1250精鋭報酬です。アーチャー、1250精鋭報酬です。キャノニア、1250精鋭報酬です。シーフ、1250精鋭報酬です。シーフ、1500精鋭報酬です。剣士、1250精鋭報酬です。鏡の結果、残念！サブの武道家、1268Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】タヌマキ討伐]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1117.html</id>
