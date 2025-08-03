@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-03T14:50:33.711Z</updated>
+    <updated>2025-08-03T15:26:01.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】タヌマキ討伐]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1117.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1117.html"/>
+        <updated>2025-08-03T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[意志の弱いおっさんのブログですｗ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金鯖が始まりました]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-915.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-915.html"/>
+        <updated>2025-08-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生さん達が夏休みに入ったせいか満員の通勤電車が少しだけすいていますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２５年金鯖やるぞ　その３]]></title>
         <id>https://www.youtube.com/watch?v=Oztx0ncxlzg</id>
