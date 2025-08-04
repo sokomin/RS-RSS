@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-04T14:56:34.418Z</updated>
+    <updated>2025-08-04T15:33:11.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[どっちが優秀？]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-485.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-485.html"/>
+        <updated>2025-08-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年も金鯖が始まりました＾＾きちんとしたデータではなく周りを見てみた体感なのですが今年はキャノニアがかなり多いんじゃないかな？と思ってみていました＾＾ちなみにわたしも今年はまずキャノニア育てるつもりで物理覚醒のを作っていたのですが金鯖支部に入ってきた他のキャノニアさんたちは知識推しのようであれ？知識のほうが良かったのかな？と心が揺らいでいたりします＾＾；このあたり確固たる信念もなく楽そうかな？とい]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本鯖にて。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1288.html</id>
