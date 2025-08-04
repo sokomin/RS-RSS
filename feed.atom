@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-04T21:51:06.933Z</updated>
+    <updated>2025-08-04T22:26:18.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】（金鯖2025）反省会]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1118.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1118.html"/>
+        <updated>2025-08-04T22:03:56.000Z</updated>
+        <summary type="html"><![CDATA[今年の金鯖は期間ギリギリまで遊び倒すぞ！と意気込むも、やはり運営の調整不足でLv1251打ち止めが濃厚になってきた。去年の反省なんて全然生かされていないし、やはりエアプ運営に調整は無理なんだろうな。金鯖2025の反省点(1)Lv1251以降の経験値倍率がしょぼい　去年400%で今年450%、アウラススフィアを購入しても追加で+200%程度としょぼ過ぎる。　※アウラススフィアはLv1250までは900%だが、Lv1251以降は200%に激減する。　さ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖Box。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1289.html</id>
