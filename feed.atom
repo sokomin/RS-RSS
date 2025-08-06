@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-06T21:49:44.544Z</updated>
+    <updated>2025-08-06T22:26:42.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】直近のホットなニュース]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1119.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1119.html"/>
+        <updated>2025-08-06T22:00:49.000Z</updated>
+        <summary type="html"><![CDATA[金鯖限定だが、Lv900-1250間で破格の経験値倍率を得られるアウラススフィア。期限1日間で300GEMというふれこみも、実際に購入してみると期限の設定がなく、1日経過後も使えていた。しかし、遂に本日のメンテで期限が付与されることになるため、金鯖の盛り上がりも金曜までなのでは？と不安の声も多い。ぶっちゃけ300GEMと安いため、ガチ育成勢は普通に購入すると思われるが、SPで購入している無課金＆ライト勢の早期撤退はあるかも]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖に少しだけ参加してみたよ]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202508070000/</id>
