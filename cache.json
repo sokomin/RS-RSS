@@ -150,6 +150,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wvqOR-PF1XQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wvqOR-PF1XQ",
+          "publishedOn": "2025-08-06T10:56:52.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】２０２５年金鯖やるぞ　その５",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EzhoiCiDCWM",
           "author": null,
           "description": "",
