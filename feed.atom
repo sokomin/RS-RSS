@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-06T19:00:26.497Z</updated>
+    <updated>2025-08-06T19:27:24.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖に少しだけ参加してみたよ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202508070000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202508070000/"/>
+        <updated>2025-08-06T19:08:52.000Z</updated>
+        <summary type="html"><![CDATA[8月3日にキャラ作成して、Lv920くらいまでレベル上げ手伝ってもらって、さっき↓こうなりました。ちゃんと5転して、限界突破4まで取ってあります。驚きのステ・装備は↓こんな感じです。忍耐なんて付いてないので、...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マナキャンペーン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1291.html</id>
