@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-06T09:46:11.117Z</updated>
+    <updated>2025-08-06T10:28:59.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1240,16 +1240,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[こんばんは。今日は勝てました(^^♪。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Last Epoch】快適プレイに欠かせない機能]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1105.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1105.html"/>
-        <updated>2025-07-07T22:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Last Epochが神ゲーたる理由は、ゲームとしての面白さもあるが、快適なプレイを補助する各種機能が充実していることにある。いくつか紹介してみる。・ドロップアイテムフィルター細かい設定が可能で、装備厳選には欠かせない機能。特定のレアリティを表示しない、特定のサフィックス(オプション)が付いたアイテムドロップを色分けする等、様々な設定が出来る。この機能を使いこなすことで、プレイヤーはハンティングに専念でき、煩]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
