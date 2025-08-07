@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-07T02:11:15.609Z</updated>
+    <updated>2025-08-07T03:51:42.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1259,16 +1259,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[こんばんは。クリーチャー強化です。レベル22です。ギルド旗バフの選択です。討伐のセットOPの箱から出現です。サブのキャノニア1254Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ギリギリ更新！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-480.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-480.html"/>
-        <updated>2025-07-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年に入ってからなのですがFC2にログインできなくなることがあり（月1回くらいのペース）認証コードを送ったのでそのコードを入力してくれと言われてるのですがよくみるとコード送信に失敗しました。と表示されていてログインできなくなることがあります＾＾；だいたいが登録してるヤフメのメアドを変更していて届いていなくてメアドを変更しなおしてサポートに連絡してからしばらくすると認証コードが再送されて解決するのですが]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
