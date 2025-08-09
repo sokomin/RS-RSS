@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T14:49:59.436Z</updated>
+    <updated>2025-08-09T15:24:45.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お好み焼き。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1293.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1293.html"/>
+        <updated>2025-08-09T15:04:39.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。じゅわ、じゅわ〜。美味しく頂きました。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２５年金鯖やるぞ　その６]]></title>
         <id>https://www.youtube.com/watch?v=sTKQBi7y3UQ</id>
