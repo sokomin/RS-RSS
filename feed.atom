@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T04:46:06.638Z</updated>
+    <updated>2025-08-09T05:24:08.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新チュートリアルの可能性]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-247.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-247.html"/>
+        <updated>2025-08-09T04:58:26.000Z</updated>
+        <summary type="html"><![CDATA[暑い日が続く中こんにちは、第三の猫です。今回はサブキャラの近況になります。メインに変わりがなかったとも言えますね。まずはuramichannelが参加した姫大戦から、圧倒的参加人数ではじまりましたB鯖対V鯖戦。やはりデスの起点になるノヴァが降り続けているのがおそろしいです。とはいえ、やまない雨がないように死なないuramichannelもいないのでした。（ノヴァは最後まで降り注いでいました）そんな中でも、隙を見てバルーンを]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コラブシリーズ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1292.html</id>
