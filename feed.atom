@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T21:48:21.328Z</updated>
+    <updated>2025-08-09T22:23:26.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1262,16 +1262,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[ごきげんよう、昨日から今日にかけては少し涼しくてほっとしますね。このイラストは大好きなコミック「綺麗な君に殺されたい。」(原作：芦花公園　漫画：芳野嗣)のファンアートです。2か月ほど独自の研究をしてみて、自分に合っているデジタルの塗り方がようやく掴めて参りました。そろそろいいかも。今日から、めぃかさんのイラストの仕上げ作業に入ります。外出の予定などがまだあるので、現段階では「何日後に仕上がる」の目途]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぬいぐるみ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1268.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1268.html"/>
-        <updated>2025-07-11T10:01:44.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。コレクションです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
