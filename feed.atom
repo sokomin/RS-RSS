@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T23:49:08.245Z</updated>
+    <updated>2025-08-10T02:21:06.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[風の奮闘記]]></title>
+        <id>kaze.gg-blog.com://entry/217</id>
+        <link href="http://kaze.gg-blog.com/status/%E9%A2%A8%E3%81%AE%E5%A5%AE%E9%97%98%E8%A8%98"/>
+        <updated>2025-08-10T02:01:25.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+
+
+ミッションブックもやっと完成
+最終ダメ5％はおおきい！
+ 
+
+ミッションブック2わがまますぎる
+
+
+狩りはしてませんがウポス秘密に通ってます
+
+
+
+話が長い
+
+
+ところで入り口にある流木
+
+
+こんな風に見えるのは風だけじゃないはず
+
+
+よくこうなってイライラするよね！
+
+
+岩陰に潜んでいるヤツ
+
+
+木陰に隠れているヤツ
+
+
+上振れするヤツ
+
+
+ウポス補助がLv15から進まない…
+ぱんぱかぱーん
+
+
+ぐらんどふぃなーーーーーれ
+
+
+うおおおおおお
+
+
+
+異次元の彼方で完成
+ 
+フェーズストーンで魔法吸収100％にできるのかよ…
+
+
+風の人生はいつもこんな感じ
+
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お好み焼き。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1293.html</id>
