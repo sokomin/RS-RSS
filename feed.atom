@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-10T13:51:18.851Z</updated>
+    <updated>2025-08-10T14:22:05.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エターナルロト。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1294.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1294.html"/>
+        <updated>2025-08-10T14:06:30.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。位相からです。エターナルロト1万円分です。マナーウォーカーで運使い切ってる(;´･ω･)。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２５年金鯖やるぞ　その７]]></title>
         <id>https://www.youtube.com/watch?v=yL0pM4jJZpg</id>
