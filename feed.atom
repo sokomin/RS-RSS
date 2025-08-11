@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-11T22:23:59.500Z</updated>
+    <updated>2025-08-11T22:50:20.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】「金鯖」キャノニアでLv1250目指してみる]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1120.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1120.html"/>
+        <updated>2025-08-11T22:36:54.000Z</updated>
+        <summary type="html"><![CDATA[【REDSTONE】「金鯖」キャノニアでLv1250目指してみるアウラススフィアが全アカウントに配布されたため、サブアカウントでキャノニア育成に挑戦した。目標：タヌマキカーペットの入手本鯖に「タヌマキカーペットを3つ持って帰る」べく、3キャラでタヌマキ撃破を目標に頑張っている人もいるみたいだが、さすがに自分にはそこまでのモチベーションは無い。※正確に書くと、3キャラでタヌマキ撃破後、タヌマキカーペットを銀行に預けて]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近況報告]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-916.html</id>
