@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T14:53:17.377Z</updated>
+    <updated>2025-08-12T15:27:29.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[絨毯爆撃！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-486.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-486.html"/>
+        <updated>2025-08-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[お盆準備で忙しいのですがなんとか更新はしようと思って書いてました＾＾；金鯖育成中のキャノニアですが転生したついでに物理からすごく強いと噂の知識にしてみたところ噂にたがわずものすごい強さだったので驚いているところでした＾＾ちなみに今でこそ揃えなおしましたが転生当時は協会装備は物理用がほとんどで少しずつ知識用に交換していったのですが装備が揃うまでの間も狩りしててあまり困った感じがなかったのはすごいと思]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お魚ブースト。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1295.html</id>
