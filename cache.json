@@ -140,6 +140,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=V9eAD6-6Y1U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V9eAD6-6Y1U",
+          "publishedOn": "2025-08-13T10:50:21.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】２０２５年金鯖やるぞ　その８",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yL0pM4jJZpg",
           "author": null,
           "description": "",
