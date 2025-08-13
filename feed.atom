@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-13T07:29:26.326Z</updated>
+    <updated>2025-08-13T07:49:37.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1221,6 +1221,16 @@ UMUドロップ！
         <summary type="html"><![CDATA[こんばんは。ありがたやぁ(´ω｀*)。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷ランサーの装備を更新]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202507150000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202507150000/"/>
+        <updated>2025-07-15T16:44:47.000Z</updated>
+        <summary type="html"><![CDATA[ウポ補助が育ってきました。19から20に上げるときに失敗して下がって、そのまま15まで下がるのを３回繰り返した後に、やっとの思いでLv20に上がりました。ウポ補助で全属性の弱化が稼げるようになったので、↓この...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
