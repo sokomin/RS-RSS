@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-13T17:36:29.042Z</updated>
+    <updated>2025-08-13T17:48:35.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1260,61 +1260,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[こんにちは。本格カレーです。ネパールのお守りかな？ひまわり畑です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[風の夏休み]]></title>
-        <id>kaze.gg-blog.com://entry/214</id>
-        <link href="http://kaze.gg-blog.com/other/%E9%A2%A8%E3%81%AE%E5%A4%8F%E4%BC%91%E3%81%BF"/>
-        <updated>2025-07-15T05:41:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。
-
-
-((ʚ( ˙꒳​˙ )ɞ))ﾐｰﾝﾐﾝﾐﾝ
- 
-
-最近やってることその1：
-しょうゆ君のサブキャラらしき人を街中で発見すること
-  
-
-
-メインキャラも発見
-最近やってることその2：
- 
-
-
-商店にいっぱいいたので乱獲してやったぜ
-最近やってることその3：
-  
-
-
-異次元はいつも命がけだゾ
-ところで最近気づいたんだけど
-  
-そう！
-
-
-2023アプデ 導きサマナのスキルについて より
-修正されてる！！！
- 
-
-でも相変わらずスキル名は修正されてない…
-×ライディングドック
-○ライディングドッグ
-今後の修正に期待！
-
-
-
-おまけ2
-
-
-攻撃すると相手のホネがバラバラに飛び散るという残酷なスキル
-
-
-
-ではまた]]></summary>
-        <author>
-            <name>風に吹かれて</name>
         </author>
     </entry>
     <entry>
