@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-13T17:48:35.303Z</updated>
+    <updated>2025-08-13T18:34:41.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1250,16 +1250,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[わたしは長い事RSをしていますが他の人に比べると物をあまり知らずキャラも強くないので他の人には助けてもらってばかりです＾＾それを象徴するかのように他の人から助言や助力をよくいただくのですが例えばこの前のブログで育成中の天使がカルディア隊長の部屋から出れなくなってたことを書いたらブログを読んだ方から脱出方法を教えていただきました＾＾壁越しに取引できるって知らなかったのでこれ凄いなと思いました！今回は運]]></summary>
         <author>
             <name>ジェンド</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナンカレー。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1271.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1271.html"/>
-        <updated>2025-07-15T06:26:45.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。本格カレーです。ネパールのお守りかな？ひまわり畑です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
