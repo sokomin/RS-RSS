@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T04:47:16.774Z</updated>
+    <updated>2025-08-14T05:25:35.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[来ました　金鯖2025]]></title>
+        <id>https://wh-rs.jugem.jp/?eid=344</id>
+        <link href="https://wh-rs.jugem.jp/?eid=344"/>
+        <updated>2025-08-14T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[JUGEMテーマ：RED STONE
+
+
+ 
+
+ 
+
+めっちゃ久しぶりにINした！！
+
+金鯖の祭りの時間だ！！！！！！！]]></summary>
+        <author>
+            <name>亜鬼にゃん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】２０２５年金鯖やるぞ　その８]]></title>
         <id>https://www.youtube.com/watch?v=V9eAD6-6Y1U</id>
