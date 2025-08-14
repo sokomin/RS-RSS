@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T02:01:24.751Z</updated>
+    <updated>2025-08-14T03:36:07.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1240,16 +1240,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[ウポ補助が育ってきました。19から20に上げるときに失敗して下がって、そのまま15まで下がるのを３回繰り返した後に、やっとの思いでLv20に上がりました。ウポ補助で全属性の弱化が稼げるようになったので、↓この...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みなさんの優しさ！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-481.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-481.html"/>
-        <updated>2025-07-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[わたしは長い事RSをしていますが他の人に比べると物をあまり知らずキャラも強くないので他の人には助けてもらってばかりです＾＾それを象徴するかのように他の人から助言や助力をよくいただくのですが例えばこの前のブログで育成中の天使がカルディア隊長の部屋から出れなくなってたことを書いたらブログを読んだ方から脱出方法を教えていただきました＾＾壁越しに取引できるって知らなかったのでこれ凄いなと思いました！今回は運]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
