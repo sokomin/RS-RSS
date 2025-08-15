@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-15T09:49:23.636Z</updated>
+    <updated>2025-08-15T10:26:16.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２５年金鯖やるぞ　その９]]></title>
+        <id>https://www.youtube.com/watch?v=0wmTxHQN-Yk</id>
+        <link href="https://www.youtube.com/watch?v=0wmTxHQN-Yk"/>
+        <updated>2025-08-15T09:34:53.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.8.14 イベ更新なし]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/3aec6cca1933ced1c87fbdea0ea80b8c</id>
