@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-15T03:36:49.415Z</updated>
+    <updated>2025-08-15T04:16:11.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1343,16 +1343,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[鎧をストールからロンズデーに変更したことで、水と魔法弱化が少し不足していたため、庇護をやめて先人を採用することにした。まずは堅実を付与するため異次元。1回目素材が出てきた。2回目先人が出てきた。3回目成功諸々やって完成（製錬10は無理）しかし、先人も250-400本で買える時代になり、気軽に異次元できるのはよいね。これで水と魔法弱化を120%↑に出来たため、ヒペリオン討伐も捗りそうだが、行くことが一番の課題だった]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スロット。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1272.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1272.html"/>
-        <updated>2025-07-16T16:06:57.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ありがたやぁ(´ω｀*)。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
