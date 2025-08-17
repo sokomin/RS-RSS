@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-17T10:24:18.750Z</updated>
+    <updated>2025-08-17T10:49:49.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[白の季節]]></title>
+        <id>kaze.gg-blog.com://entry/218</id>
+        <link href="http://kaze.gg-blog.com/illustration/%E7%99%BD%E3%81%AE%E5%AD%A3%E7%AF%80"/>
+        <updated>2025-08-17T10:43:28.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+ 
+ 
+ https://www.clipstudio.net/ja/
+ 
+
+ちなみに風はパソコン(マウス)でイラストを描いており
+ 
+
+スウェルファーかわいいよスウェルファー
+https://3rdcat.blog.fc2.com/blog-entry-246.html
+
+
+こちらはRSのBGM「Liberation Team-Sorrow of Pure White」が好きすぎて
+耳コピして打ち込んだやつです
+
+デフヒのイメージが多いのかもしれませんが
+個人的には昔のアリエルクエのギルバートを思い出してしまいます
+
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[完全封印解放道具箱。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1298.html</id>
