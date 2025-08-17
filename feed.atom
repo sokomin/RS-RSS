@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-17T21:21:48.526Z</updated>
+    <updated>2025-08-17T21:47:32.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1279,16 +1279,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[こんばんは。フィーバータイムです。レア超越の書です(from討伐)。メインシーフ、1558Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リアルタイム現在]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-246.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-246.html"/>
-        <updated>2025-07-19T09:28:37.000Z</updated>
-        <summary type="html"><![CDATA[暑さと忙しさでまとまったIN時間が取れない今日この頃、気分はすでに金鯖後のアプデでチュートリアルが伸びて、レベルエスカレーターが1500くらいになった未来へ行っている第三の猫です。過去に戻ってきました。まずは古都ひよこが、ヒペリオン戦に混ぜてもらえました。遠距離から皿をぶつけるだけのお仕事です。バイト代が高すぎます。1250UMUは拾う想定が全くなかったので相場しらないんですよね。自分で使えばいいのでは？ヒペ]]></summary>
-        <author>
-            <name>第三の猫</name>
         </author>
     </entry>
     <entry>
