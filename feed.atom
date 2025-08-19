@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-19T15:49:17.750Z</updated>
+    <updated>2025-08-19T16:29:53.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヤティカヌ PvPマップ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1301.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1301.html"/>
+        <updated>2025-08-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ヤティカヌのPvPエリアについて纏めます。まずは日の出です。全体から見るとこの位置です。次に星降る森林です。全体で見ると、この位置です。微風の森林です。場所はMAPの←↑辺りです。夜影の森林です。こちらも←↑辺りにあります。最後に暁の森林です。この辺りにあります。別の入り口も有る様ですが、この場所で飛べます(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お盆終了と育成ペース！]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-487.html</id>
@@ -1279,16 +1289,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[こんばんは。セクシーコマンド！ビーストテイマー、1250精鋭報酬です。武道家、1250精鋭報酬です。アーチャー、1250精鋭報酬です。キャノニア、1250精鋭報酬です。追放天使、1250精鋭報酬です。戦士、1250精鋭報酬です。シーフ、1250精鋭報酬です。シーフ、1500精鋭報酬です。今週は若干渋めです(;´･ω･)メインシーフ、1560Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knocking on the Wall]]></title>
-        <id>https://intothe.info/?p=2900</id>
-        <link href="https://intothe.info/poe/knocking-on-the-wall/"/>
-        <updated>2025-07-21T03:57:08.000Z</updated>
-        <summary type="html"><![CDATA[その後のMercenary...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>
