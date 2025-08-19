@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-19T14:51:17.189Z</updated>
+    <updated>2025-08-19T15:25:51.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お盆終了と育成ペース！]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-487.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-487.html"/>
+        <updated>2025-08-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年のお盆もおわり落ち着いてRSができるかな…と思いました＾＾お盆中結構お酒飲む機会も多くRSほぼしてなかったです＾＾；金鯖が始まってから2週間ちょっと経ち9/18までなので残り1か月となりましたがメインで育成しているキャノニアは現在910になっていて去年の今頃のキャラと比べると少し成長は早いかなと思いました＾＾しかしあと1か月で1250目指すとなると毎日レベル11～12は上げないといけないペースでちょっとわたしには無]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[家系ラーメン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1300.html</id>
