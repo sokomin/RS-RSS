@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-21T05:23:48.191Z</updated>
+    <updated>2025-08-21T05:49:00.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1249,16 +1249,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[こんばんは。イベントBoxです。中身↓赤い光が良い感じです。サブのビーストテイマー、1304Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[姫のレベル]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202507230000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202507230000/"/>
-        <updated>2025-07-22T17:24:59.000Z</updated>
-        <summary type="html"><![CDATA[19日のホットタイム開始時点はLv1550でした。3倍の20日は休みでしたが夕方に用事があり数時間狩れず、21日は普通に仕事がありました。そんな状況でしたが、それなりにレベルは上がりました。欲を言えばLv1700にな...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
