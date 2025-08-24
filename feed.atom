@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-24T10:47:27.684Z</updated>
+    <updated>2025-08-24T11:17:47.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1262,16 +1262,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[長らく使ってるEclipsed...]]></summary>
         <author>
             <name>marsborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】期待作目白押し]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1112.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1112.html"/>
-        <updated>2025-07-25T22:54:41.000Z</updated>
-        <summary type="html"><![CDATA[期待の新作MMORPG「LORD NINE」が、遂に7/31(木)サービス開始となる。本作、MMORPG好きの自分にとって、終わりの住処となるのか？期待と不安が入り混じっている。今までプレイしてきた「REDSTONE」も面白いMMORPGだったが、やはりいくつか不満があり、サービス開始後20年経っても改善されることはなかった。不満はいくつもあるが、大きくは３つ。１．バグの放置他のMMORPGであれば致命的ともいえる問題だが、古参に愛され支えられ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
