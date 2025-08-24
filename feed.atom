@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-24T13:47:33.989Z</updated>
+    <updated>2025-08-24T14:20:07.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1252,16 +1252,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[こんばんは。グリフィスぅぅ！高額品、購入です。メインシーフ、1561Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celestial]]></title>
-        <id>https://intothe.info/?p=2944</id>
-        <link href="https://intothe.info/poe/celestial/"/>
-        <updated>2025-07-26T01:52:44.000Z</updated>
-        <summary type="html"><![CDATA[長らく使ってるEclipsed...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>

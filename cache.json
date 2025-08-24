@@ -99,18 +99,7 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": [
-        {
-          "id": "https://intothe.info/?p=2944",
-          "author": "marsborn",
-          "description": "長らく使ってるEclipsed...",
-          "link": "https://intothe.info/poe/celestial/",
-          "publishedOn": "2025-07-26T01:52:44.000Z",
-          "wordCount": 2810,
-          "title": "Celestial",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "魔法の壁のリアルライふ",
