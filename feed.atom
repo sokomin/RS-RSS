@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-25T03:19:35.242Z</updated>
+    <updated>2025-08-25T03:57:04.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1262,16 +1262,6 @@ UMUドロップ！
         <summary type="html"><![CDATA[連日猛暑日が続きますねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[覇王の卵。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1281.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1281.html"/>
-        <updated>2025-07-26T15:21:56.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。グリフィスぅぅ！高額品、購入です。メインシーフ、1561Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
