@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-25T17:48:46.622Z</updated>
+    <updated>2025-08-25T18:34:27.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[霊術のコスとクリーチャーパッシブ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202508260000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202508260000/"/>
+        <updated>2025-08-25T18:00:13.000Z</updated>
+        <summary type="html"><![CDATA[やりたくなかったけど霊術コスのソケット変換を実施しました。今回は、残念ながら赤３・紫１を引くことはできませんでした。変換18回目にやっと初の赤２・紫１を引いて妥協することに決めました。霊術はキャラパ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[かんがえる者の頭脳。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1305.html</id>
