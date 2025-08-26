@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T14:49:29.806Z</updated>
+    <updated>2025-08-26T15:24:57.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無課金の歩き方]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-488.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-488.html"/>
+        <updated>2025-08-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年の金鯖支部はけっこう豊作な事を前回書きましたがなかには数名新規の方やかなり久しぶりにRSに戻ってきた方などがいたりします。そんな方たちとＧチャしてみると狩場への移動に悩んでいるかたもいるようだったので今回はわたしはここに移動する時こうしてますよって話を書きたいと思いました＾＾まず町移動でテレポータ直通ではないところが何か所かあるのですが伐木町ブレンティルに行く場合はまず古都協会内の一般クエスト担]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】地獄の門が開いた]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1124.html</id>
@@ -1152,16 +1162,6 @@ https://3rdcat.blog.fc2.com/blog-entry-246.html
         <summary type="html"><![CDATA[こんばんは。レアアイテムGETです。新ギルド作成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ヒペリオン業者湧いてる？]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1113.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1113.html"/>
-        <updated>2025-07-28T03:17:22.000Z</updated>
-        <summary type="html"><![CDATA[コラプ箱が大暴落しており、ヒペリオン業者湧いてる噂の信憑性が高まっている昨今、皆さんRS楽しんでる？自分は相変わらず精鋭討伐のみ活動しているが、ラスエポもシーズン末期でやる事が無く、久しぶりにRSでドラツイ2体を動かしてみた。ホットタイムに動かしたため、あっという間にマキナを消化し、余力で生霊の牢屋にも行った。ヒペリオンが実装されて以降、Lv1500にするメリットが完全に無くなったため、もはやメイン以外のレ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
