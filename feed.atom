@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T18:52:27.216Z</updated>
+    <updated>2025-08-26T19:18:05.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鉄血の意志。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1307.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1307.html"/>
+        <updated>2025-08-26T19:13:56.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。UMUゲットです。至福の瞬間です、金鯖シーフ、1268Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無課金の歩き方]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-488.html</id>
