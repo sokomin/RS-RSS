@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-28T14:50:30.622Z</updated>
+    <updated>2025-08-28T15:24:16.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[それでは]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1291.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1291.html"/>
+        <updated>2025-08-28T14:53:46.000Z</updated>
+        <summary type="html"><![CDATA[アンジャストラバーから結構な間が空きましたけど予告通り、アンタッチャブルボンテージでの個人的お薦め装備ですね。あと、説明がミリ単位でも参考になってたなら申し訳ないですが長ったらしく面倒になったので今回から説明書きは省いてお薦めと、次点があればそれを載せるだけにします。武器：1000UMU蛇の舌 or 1000UMU黒夜次点：775UMU耳元のささやき or 800DXU地獄炎首：800DXU死の聖具 or800DXUアルゴスの瞳頭：800DXUイリス]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4コマ漫画]]></title>
         <id>kaze.gg-blog.com://entry/219</id>

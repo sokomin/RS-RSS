@@ -380,7 +380,18 @@
       "title": "のんびりまったり",
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1291.html",
+          "author": "クレリューフ",
+          "description": "アンジャストラバーから結構な間が空きましたけど予告通り、アンタッチャブルボンテージでの個人的お薦め装備ですね。あと、説明がミリ単位でも参考になってたなら申し訳ないですが長ったらしく面倒になったので今回から説明書きは省いてお薦めと、次点があればそれを載せるだけにします。武器：1000UMU蛇の舌 or 1000UMU黒夜次点：775UMU耳元のささやき or 800DXU地獄炎首：800DXU死の聖具 or800DXUアルゴスの瞳頭：800DXUイリス",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1291.html",
+          "publishedOn": "2025-08-28T14:53:46.000Z",
+          "wordCount": 682,
+          "title": "それでは",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "今日のアリアン",
