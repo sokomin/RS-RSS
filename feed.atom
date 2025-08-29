@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-29T14:48:25.366Z</updated>
+    <updated>2025-08-29T15:21:39.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無課金の歩き方（改）]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-489.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-489.html"/>
+        <updated>2025-08-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前回の町移動でテレポータ直通ではない場所にわたしはこう行っていると書いたところもっと良い方法があるとコメントくれた方がいたので訂正をしたいと思いました＾＾それはバリアートへの移動なのですが実はクエスト110～150のゴールドラッシュで直通だそうでこっちのほうが断然いいと思いました＾＾今まで無駄に走ってましたね＾＾；おしえてくれてありがとうございます＾＾そしてオカー三角州のほうもPTボスの760イーグルヘッド]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精霊王の冠。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1310.html</id>
