@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-29T01:49:28.632Z</updated>
+    <updated>2025-08-29T03:04:51.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1270,16 +1270,6 @@ https://3rdcat.blog.fc2.com/blog-entry-246.html
         <summary type="html"><![CDATA[こんばんは。うな重です。カリッ⋯！サクッ⋯！とても美味しかったです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年の金鯖。]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-484.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-484.html"/>
-        <updated>2025-07-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[7/31のメンテが20時頃までの予定らしいので今年の金鯖が始まるのだろうなと思いました＾＾無課金G金鯖支部長を毎年しているので今年も当然そうなのだと思っているのでわたしは金鯖行かないという選択肢がなかったのですが何を作るか？はそれほど深く考えてなかったりします＾＾；興味があるのはキャノニアと天使だったのですが天使は本鯖で何とかなりそうかな？という感じだったので今年の金鯖はとりあえずキャノニアかな？と思っ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
