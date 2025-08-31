@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SetrwWXTp9I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SetrwWXTp9I",
+          "publishedOn": "2025-08-31T03:10:43.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】２０２５年金鯖やるぞ　その１３",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xVdLewatDD0",
           "author": null,
           "description": "",
