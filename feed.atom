@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-01T09:49:27.465Z</updated>
+    <updated>2025-09-01T10:26:20.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025.8月のドロップ～♪]]></title>
+        <id>https://blog.goo.ne.jp/sizuku-mo/e/d55a2aee1a64aee5b8ec001ef3c1587b</id>
+        <link href="https://blog.goo.ne.jp/sizuku-mo/e/d55a2aee1a64aee5b8ec001ef3c1587b?fm=rss"/>
+        <updated>2025-09-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[9月になりましたが暑いですね(´・ω・`)
+
+
+知識ID
+
+
+物理はちょっとひどいですが、知識はちょっと頑張ったかな？
+
+
+デリンダリンをやればすぐなのでしょうが、なるべくやらずに頑張っています。
+ただいまアメンアイランドで狩っていますが、結構きつい。
+装備がそろっていないのがわかりますねぇ
+物理IDはちょっと苦戦気味ですが、そろそろ知識IDも積みそうな感じです。
+適当な装備でイケるのはレベル900までですねぇ(;´д｀)
+
+
+
+
+
+
+
+
+
+
+そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
+        <author>
+            <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タビアクート。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1312.html</id>
