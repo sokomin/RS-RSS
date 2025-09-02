@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-02T14:50:37.940Z</updated>
+    <updated>2025-09-02T15:25:27.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アウラス。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-490.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-490.html"/>
+        <updated>2025-09-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[8月も終わり金鯖も残り1/3くらいかな？と思いました。そこで日曜日に運営様から補填で頂いたアウラス・スフィアーを使う事にしました＾＾わたしのキャノニアは930くらいになっていて狩りしてても大変だなと思っていたのですがアウラスを出してからの経験値はものすごくサクサクとレベルアップ＾＾日曜の昼過ぎにカバンからだして何とか5時間くらい狩りをして次の日の月曜朝にも1時間くらい狩りをした結果1063まで育つことができま]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[晴れ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1313.html</id>
