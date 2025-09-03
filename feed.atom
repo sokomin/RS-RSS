@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-03T17:34:57.092Z</updated>
+    <updated>2025-09-03T17:47:41.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[森の賢者。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1314.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1314.html"/>
+        <updated>2025-09-03T17:36:07.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。位相関連のmobです(怖い)。全部 戦績：745÷(745＋417)×100=64.11%恰好良い名前(｀・ω・´)。サブのビーストテイマー、1321Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アウラス。]]></title>
         <id>http://jendoradoo.blog.fc2.com/blog-entry-490.html</id>
