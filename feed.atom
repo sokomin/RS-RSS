@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-03T04:48:50.898Z</updated>
+    <updated>2025-09-03T05:20:56.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1118,16 +1118,6 @@ https://3rdcat.blog.fc2.com/blog-entry-246.html
         <summary type="html"><![CDATA[今年の金鯖は期間ギリギリまで遊び倒すぞ！と意気込むも、やはり運営の調整不足でLv1251打ち止めが濃厚になってきた。去年の反省なんて全然生かされていないし、やはりエアプ運営に調整は無理なんだろうな。金鯖2025の反省点(1)Lv1251以降の経験値倍率がしょぼい　去年400%で今年450%、アウラススフィアを購入しても追加で+200%程度としょぼ過ぎる。　※アウラススフィアはLv1250までは900%だが、Lv1251以降は200%に激減する。　さ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖Box。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1289.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1289.html"/>
-        <updated>2025-08-04T17:17:40.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインのシルバーロト開封です。スパロトは当たりでした！金鯖シーフ、984Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
