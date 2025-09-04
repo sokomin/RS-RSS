@@ -99,7 +99,18 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://intothe.info/?p=3023",
+          "author": "marsborn",
+          "description": "新しい要素が多かった前年と違って今年は特に真新しいコンテンツも無くキャップも変わらず1500私自身のプレースタイルもライトなので敢えて記事にしなくても良いかなと大分迷ったくらいだけどなんとなく毎年恒例になっているので脳内整理も兼ねてかるーく日記にしておこうという感じで...",
+          "link": "https://intothe.info/miscellaneous/goldex2025/",
+          "publishedOn": "2025-09-04T14:02:41.000Z",
+          "wordCount": 2683,
+          "title": "GoldEx2025",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "魔法の壁のリアルライふ",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-04T13:48:17.287Z</updated>
+    <updated>2025-09-04T14:21:39.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoldEx2025]]></title>
+        <id>https://intothe.info/?p=3023</id>
+        <link href="https://intothe.info/miscellaneous/goldex2025/"/>
+        <updated>2025-09-04T14:02:41.000Z</updated>
+        <summary type="html"><![CDATA[新しい要素が多かった前年と違って今年は特に真新しいコンテンツも無くキャップも変わらず1500私自身のプレースタイルもライトなので敢えて記事にしなくても良いかなと大分迷ったくらいだけどなんとなく毎年恒例になっているので脳内整理も兼ねてかるーく日記にしておこうという感じで...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.9.4 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/085b30062a8dfb755be8a2536b684c35</id>
