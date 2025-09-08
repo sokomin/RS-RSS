@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T01:52:39.924Z</updated>
+    <updated>2025-09-08T03:09:38.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1090,16 +1090,6 @@ https://3rdcat.blog.fc2.com/blog-entry-246.html
         <updated>2025-08-09T15:21:12.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お好み焼き。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1293.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1293.html"/>
-        <updated>2025-08-09T15:04:39.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。じゅわ、じゅわ〜。美味しく頂きました。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
