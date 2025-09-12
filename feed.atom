@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-12T02:57:08.588Z</updated>
+    <updated>2025-09-12T03:30:57.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[天使始めました！（始めてもうた・・ｗ）]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202509120000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202509120000/"/>
+        <updated>2025-09-12T03:27:20.000Z</updated>
+        <summary type="html"><![CDATA[​​​位相用に天使欲しいなって思ったので、即行動してみました。（本鯖にて作成）自分１人で位相をクリアできるように、メインID・姫IDとも別の第三のIDにて作成しました。そして、余ってしまったFS（ファーストス...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スシロー。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1321.html</id>
