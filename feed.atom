@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-12T17:47:39.931Z</updated>
+    <updated>2025-09-12T18:28:18.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1072,16 +1072,6 @@ https://3rdcat.blog.fc2.com/blog-entry-246.html
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[例のアレ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1296.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1296.html"/>
-        <updated>2025-08-14T06:26:25.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。アイテムモールのRS PASS[経験値増加]50GEM×5個でマジックバックが買えます。え・・・今更？。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
