@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-12T12:43:57.245Z</updated>
+    <updated>2025-09-12T13:28:35.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マップデバフについて-前編-]]></title>
+        <id>http://akira773.blog22.fc2.com/blog-entry-780.html</id>
+        <link href="http://akira773.blog22.fc2.com/blog-entry-780.html"/>
+        <updated>2025-09-12T13:00:21.000Z</updated>
+        <summary type="html"><![CDATA[どうも。こんにちは！！盛大にブログをさぼりまくる事2年弱！お元気ですか！私は元気です！ほぼ週末一瞬ボス討伐のみログインプレイヤーと化してましたがRedStoneは一応やっていましたよ今年は何と、金鯖もやりましたLv1250になるともらえる絨毯が欲しくて、気力を振り絞ってヒイヒイ言いながら手に入れました。普段狩りをしないので、とても辛かったです(個人の感想)金鯖では、本鯖と同じ名前にしてうろついていたので、怪しみな]]></summary>
+        <author>
+            <name>リヤン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天使始めました！（始めてもうた・・ｗ）]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202509120000/</id>
