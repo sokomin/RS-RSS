@@ -839,7 +839,18 @@
       "title": "3rdcat",
       "feedUrl": "http://3rdcat.blog.fc2.com/?xml",
       "siteUrl": "https://3rdcat.blog.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://3rdcat.blog.fc2.com/blog-entry-248.html",
+          "author": "第三の猫",
+          "description": "今年の金鯖は様子見で終わってしまう感じになってしまいました。それなら本鯖の方で何か進捗が……えー、何の話でしたっけ？第三の猫です。使用キャラが軒並みヤティカヌ入りし、もう何ヶ月も変わらないジャガーの顔も見飽きたので、ミラーダンジョンに行ってみることにしました。とりあえず一覧の中にあった初見のマップを選択。寂しい群島。名前の通り、入口の島は誰もいない無人島でした。どうやら小舟を使って島を移動する仕掛け",
+          "link": "https://3rdcat.blog.fc2.com/blog-entry-248.html",
+          "publishedOn": "2025-09-13T03:50:55.000Z",
+          "wordCount": null,
+          "title": "さわがしい群島",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "とりくんのREDSTONEＶ鯖ブログ！",
@@ -959,6 +970,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1323.html",
+          "author": "medaka1985",
+          "description": "こんにちは。庭の水槽の様子です。ホテイ草に花が咲きました(*´ω｀*)。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1323.html",
+          "publishedOn": "2025-09-13T03:49:58.000Z",
+          "wordCount": null,
+          "title": "花サカス。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1322.html",
           "author": "medaka1985",
