@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-14T14:47:31.888Z</updated>
+    <updated>2025-09-14T15:19:20.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[もうすぐ金鯖終了ですね]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-921.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-921.html"/>
+        <updated>2025-09-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日会社の健康診断に行ってきました尿検査時にコップ満タンにして怒られるのは毎度の事ですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖のお祭り。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1325.html</id>
