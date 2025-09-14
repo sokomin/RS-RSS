@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-14T20:47:24.984Z</updated>
+    <updated>2025-09-14T21:17:56.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】Lv2000と2000クエ注意点]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1125.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1125.html"/>
+        <updated>2025-09-14T21:16:33.000Z</updated>
+        <summary type="html"><![CDATA[3週分のホットタイム(2時間×6回)を経て、雨アチャがLv2000に到達。鐘を鳴らしてくれた方々、本当にありがとう。次回経験値が1兆8000億とか表示されて、ホットタイム＆パワキでも全然動かない経験値バーだから、鐘が鳴らなかったらもっと過酷だったとおもう。Lv2000になると、間髪入れずにクエストが開始された。クリアしないと、Lv2000エリアへのGuideが使えないため渋々やったけど、これ面倒で不親切過ぎる・・・以下、2000クエで]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[もうすぐ金鯖終了ですね]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-921.html</id>
