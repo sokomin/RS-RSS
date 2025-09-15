@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-15T23:31:04.464Z</updated>
+    <updated>2025-09-15T23:47:44.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -969,6 +969,15 @@
         <summary type="html"><![CDATA[今年はお盆休みの間出勤が多く休みは一週間ずれて取る事になりましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】２０２５年金鯖やるぞ　その１０]]></title>
+        <id>https://www.youtube.com/watch?v=BuOqT3Aw99o</id>
+        <link href="https://www.youtube.com/watch?v=BuOqT3Aw99o"/>
+        <updated>2025-08-17T14:08:02.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
