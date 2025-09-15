@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-15T05:22:32.674Z</updated>
+    <updated>2025-09-15T05:47:38.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[潜在能力。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1326.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1326.html"/>
+        <updated>2025-09-15T05:33:55.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。序盤です。武道家、1250精鋭報酬です。天使、1250精鋭報酬です。テイマ、1250精鋭報酬です。アーチャー、1250精鋭報酬です。キャノニア、1250精鋭報酬です。戦士、1250精鋭報酬です。シーフ、1250精鋭報酬です。シーフ、1500精鋭報酬です。今週は当たりが多かったです(/・ω・)/。メインシーフ、1568Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】Lv2000と2000クエ注意点]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1125.html</id>
