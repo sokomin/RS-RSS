@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-17T01:44:20.534Z</updated>
+    <updated>2025-09-17T02:58:01.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -957,26 +957,6 @@
         <link href="https://medaka1985.fc2.net/blog-entry-1300.html"/>
         <updated>2025-08-19T07:41:23.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。濃厚つけ麺です。美味しく平らげました。万能治療薬です。グビグビいけます(*´ω｀*)いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ヒペリオン1%削り装備]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1122.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1122.html"/>
-        <updated>2025-08-18T14:19:02.000Z</updated>
-        <summary type="html"><![CDATA[最近よく「ヒペリオン1%削れる人募集」という叫びを目にする。これは所謂、「ヒペリオンとタイマンして、死なずに1%削り切れる人募集」という意味で、実現するにはそれなりの装備が必要。※ヒペリオン耐久なしでも1%くらい削れるだろう、という楽観的考えは厳禁（即死して役に立たない）ホリクロ改天使ありPTの場合、バリアがあるためヒペリオン用耐久装備は必要なく、火力全力装備で30%削れる人を募集していたりする。これは割とハ]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソウルリンク。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1299.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1299.html"/>
-        <updated>2025-08-18T13:51:55.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。チャレンジ1年生！結果は↓の方。ナイス、ドロップです。シーフ、1250精鋭報酬です。シーフ、1500精鋭報酬です。武道家、1250精鋭報酬です。テイマー、1250精鋭報酬です。戦士、1250精鋭報酬です。10%通しました！実は…ポテチも(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
