@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-17T21:47:47.451Z</updated>
+    <updated>2025-09-17T22:18:37.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マップデバフについて-後編-]]></title>
+        <id>http://akira773.blog22.fc2.com/blog-entry-781.html</id>
+        <link href="http://akira773.blog22.fc2.com/blog-entry-781.html"/>
+        <updated>2025-09-17T22:07:22.000Z</updated>
+        <summary type="html"><![CDATA[どうも、前編からの続きです。内容としては、「忍耐の」「辛苦の」オプション装備はあった方がいいという話の根拠というかせっせと実測値を測ってそこから式を導き出した過程というかとにかく長いです。まとめ（前編）・本体にマップデバフがかかっている時、ペットにもマップデバフがかかる・ペットにかかるマップデバフは本体のマップデバフ後のステータスに連動したペットステータスにかかっている・「忍耐の」「辛苦の」オプシ]]></summary>
+        <author>
+            <name>リヤン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[豪傑(ごうけつ)。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1328.html</id>
