@@ -347,6 +347,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1127.html",
+          "author": "JEFRY",
+          "description": "メインアカウントは今回追加された1枠しかキャラスロ空いてないにも関わらず、1250にした残したいメイドを真っ先に移行してしまった。お土産キャラを先に移行して、アイテムを銀行なりに全部移してキャラ削除。その後、残したいキャラを移行しないといけなかったのに、つい残したいキャラからやってしまった。金鯖にお土産持ちキャラが置き去りになった・・・・・S鯖相場換算3000本ふっとんだｗ引退します（嘘みなさんも気を付けて",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1127.html",
+          "publishedOn": "2025-09-18T11:47:37.000Z",
+          "wordCount": 578,
+          "title": "【REDSTONE】キャラ移行でやらかした",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1126.html",
           "author": "JEFRY",
           "description": "【REDSTONE】金鯖2025終了本日9/18のメンテ前までで金鯖2025が終了する。メンテ明けはキャラ移行が可能となるが、18:00以降の混雑時に移行すると、キャラが異次元の彼方に飛ばされることがある。毎年起こっている不具合で、復旧まで時間を要すことが多々あるため、慌てて移行しない方がよいかもしれない。今年は8月初旬に店じまいしたため、本鯖へのお土産は少な目。ただし、お土産調達が8月初旬だったため、かなり安く仕入れるこ",
@@ -960,6 +970,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1329.html",
+          "author": "medaka1985",
+          "description": "こんばんは。海の見える料亭です。タコがコリコリッとしています。夏の終わりの海です。海の家風、喫茶店です。練乳クリームにアイスが埋まっています。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1329.html",
+          "publishedOn": "2025-09-18T12:09:28.000Z",
+          "wordCount": 1083,
+          "title": "かき氷で凍るド。",
+          "imageUrl": "https://blog-imgs-163.fc2.com/m/e/d/medaka1985/2025091820574512f.jpg"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1328.html",
           "author": "medaka1985",
