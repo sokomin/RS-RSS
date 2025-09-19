@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-19T04:26:43.012Z</updated>
+    <updated>2025-09-19T04:48:42.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[風のひまつぶし]]></title>
+        <id>kaze.gg-blog.com://entry/221</id>
+        <link href="http://kaze.gg-blog.com/other/%E9%A2%A8%E3%81%AE%E3%81%B2%E3%81%BE%E3%81%A4%E3%81%B6%E3%81%97"/>
+        <updated>2025-09-19T04:31:45.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+今日はひまつぶし
+
+
+まずいちばん目にするこの緑の絵
+
+
+古都銀、ギルホ、協会、スタイン邸宅など様々な場所に飾ってあります
+ 
+
+
+続いて冒険家バーでよく目にする一番左の絵
+ 
+ 
+
+
+続いて封蝋がついた証明書みたいなやつ
+ 
+
+ギルホにもあります
+ 
+CERTIFICATE(証明書)
+
+
+続いて黄色い枠の謎の絵
+ 
+
+ギルド戦申込事務室にはやたらとあります
+ 
+謎の絵
+
+
+ネガティブ発言多め
+
+
+
+化粧品ローンすな
+
+
+Zギルドマスターは話しかけるたび
+どうやら電話でいろいろな人と話している模様
+①cccさん(高レベ剣士)
+  
+cccさんへのプレッシャーがすごい
+②N君(他ギルドの高レベランサ)
+ 
+③Tさん(剣士)
+ 
+急にメタい
+④Uさん(戦士)
+ 
+⑤YYYさん(ビショップ)
+
+
+BISが誰もいないので復帰希望
+⑥Eちゃん(ビショップ)
+ 
+ 
+ 
+ 
+ 
+
+ちょっと何言ってるかわからない！
+
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[かき氷で凍るド。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1329.html</id>
