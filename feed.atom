@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-20T01:42:34.658Z</updated>
+    <updated>2025-09-20T02:56:20.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1027,15 +1027,6 @@ BISが誰もいないので復帰希望
         <summary type="html"><![CDATA[こんにちは。至高のラーメンです。とても美味しゅうございました。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】２０２５年金鯖やるぞ　その１１]]></title>
-        <id>https://www.youtube.com/watch?v=2e23ey6QiHQ</id>
-        <link href="https://www.youtube.com/watch?v=2e23ey6QiHQ"/>
-        <updated>2025-08-21T13:57:23.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
