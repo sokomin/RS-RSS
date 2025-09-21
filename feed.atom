@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-21T14:47:42.435Z</updated>
+    <updated>2025-09-21T15:20:08.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[突入　最終テーブル]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-922.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-922.html"/>
+        <updated>2025-09-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはミツリンですとある日の職場での事です]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[魔法強打型をめざして]]></title>
         <id>kaze.gg-blog.com://entry/222</id>
