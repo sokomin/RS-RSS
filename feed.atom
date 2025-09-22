@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-22T07:23:49.724Z</updated>
+    <updated>2025-09-22T07:47:40.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1137,16 +1137,6 @@ BISが誰もいないので復帰希望
         <summary type="html"><![CDATA[​コラプが安くなってきたので、闘士を霊術に再振りしました。OPは後でサナとか付けていくので仮の状態です。解放OPは、2解放で良いのを引くまで頑張った後に3解放・4解放しました。この変換は、かなりの成功では...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破片指、再構成。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1304.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1304.html"/>
-        <updated>2025-08-23T19:35:21.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。(・∀・)ｲｲﾈ!!ぐぬぬ…。これは酷い(;´･ω･)。本鯖のテイマー、1313Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
