@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-22T20:24:25.843Z</updated>
+    <updated>2025-09-22T20:48:03.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1137,16 +1137,6 @@ BISが誰もいないので復帰希望
         <summary type="html"><![CDATA[連日猛暑の日が続きますねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霊術再開しました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202508240000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202508240000/"/>
-        <updated>2025-08-24T08:37:48.000Z</updated>
-        <summary type="html"><![CDATA[​コラプが安くなってきたので、闘士を霊術に再振りしました。OPは後でサナとか付けていくので仮の状態です。解放OPは、2解放で良いのを引くまで頑張った後に3解放・4解放しました。この変換は、かなりの成功では...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
