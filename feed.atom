@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T14:49:59.930Z</updated>
+    <updated>2025-09-23T15:23:58.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[気をつけてくださいね＾＾]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-493.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-493.html"/>
+        <updated>2025-09-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[金鯖が終わりB鯖にも新しい人が増えたかなと思います＾＾無課金Gにも何人かGメンが入ってくれたのですが前は課金してましたが今はしてないです。という方も加入されることがあります＾＾；残念なのですがそうゆう方はG入るのは遠慮していただいてるので脱退可能になるまではGにいてもらってその後こちらから他Gを提案させてもらってましたが今回の金鯖終了後いつも紹介先として選んでいるGravity様も満員になってたようで紹介先の]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スカイダイビング。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1332.html</id>
