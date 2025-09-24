@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T07:22:41.382Z</updated>
+    <updated>2025-09-24T07:47:50.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1107,16 +1107,6 @@ BISが誰もいないので復帰希望
         <summary type="html"><![CDATA[遂に韓国ではLv2000精鋭討伐が実装されるらしい。てことは、日本も年内にはLv2000精鋭討伐が実装されることになる。Lv1993でレベリングを放棄している雨チャ。これはもうLv2000に向けてレベリングするしかないってことかな・・・辛い、あまりにも辛すぎる。Last Epochシーズン3やりたいよ。ビーストマスターでティラノサウルス引き連れてブイブイいわせたいよ。うわあああああ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ピペリオン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1306.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1306.html"/>
-        <updated>2025-08-25T19:35:45.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!髪の毛かな？いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
