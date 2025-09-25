@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-25T12:49:27.139Z</updated>
+    <updated>2025-09-25T13:32:30.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[回転寿司。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1334.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1334.html"/>
+        <updated>2025-09-25T13:26:29.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。進化の秘宝です。フードロスも削減出来て一石二鳥です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025.9.25 イベ更新]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/68671e9c844644577d63af7093a42c17</id>
