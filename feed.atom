@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-26T22:19:57.860Z</updated>
+    <updated>2025-09-26T22:35:19.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1146,16 +1146,6 @@ BISが誰もいないので復帰希望
         <updated>2025-08-28T11:00:18.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霊術はFSなしの構成にします]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202508280000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202508280000/"/>
-        <updated>2025-08-28T10:31:42.000Z</updated>
-        <summary type="html"><![CDATA[FSは使わないで、2フレで稲妻乱切りが撃てるように、速度多目で装備を組むことにしました。サナではなくペルと攻撃速度DXを付けました。※本当の装備レベルは1514です。装備10バッジを所持しているので1504と表示...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
