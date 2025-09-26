@@ -159,26 +159,6 @@
           "wordCount": null,
           "title": "【REDSTONE】２０２５年金鯖やるぞ　その１３",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xVdLewatDD0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xVdLewatDD0",
-          "publishedOn": "2025-08-28T11:01:05.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】２０２５年金鯖やるぞ　その１２",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YG5svzl4Yqg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YG5svzl4Yqg",
-          "publishedOn": "2025-08-28T11:00:18.000Z",
-          "wordCount": null,
-          "title": "ロイ4世 のライブ配信",
-          "imageUrl": null
         }
       ]
     },
@@ -841,6 +821,16 @@
       "feedUrl": "https://blog.goo.ne.jp/sizuku-mo/rss2.xml",
       "siteUrl": "https://blog.goo.ne.jp/sizuku-mo?fm=rss",
       "articles": [
+        {
+          "id": "https://blog.goo.ne.jp/sizuku-mo/e/ea2b370bf8fb734f4d9154ae4b0471de",
+          "author": null,
+          "description": "ブログ「仔猫のしっぽ」移転のお知らせ\n「仔猫のしっぽ」\n\n\ngooブログを長らくご愛顧いただきありがとうございました。\n引き続きはてなブログでお会いしましょうｗ",
+          "link": "https://blog.goo.ne.jp/sizuku-mo/e/ea2b370bf8fb734f4d9154ae4b0471de?fm=rss",
+          "publishedOn": "2025-09-26T23:00:00.000Z",
+          "wordCount": 1376,
+          "title": "移転のお知らせ",
+          "imageUrl": "http://u.xgoo.jp/img/sns/blog.png"
+        },
         {
           "id": "https://blog.goo.ne.jp/sizuku-mo/e/68671e9c844644577d63af7093a42c17",
           "author": null,
