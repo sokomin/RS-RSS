@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T04:47:53.715Z</updated>
+    <updated>2025-09-27T05:20:22.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1098,16 +1098,6 @@ BISが誰もいないので復帰希望
         <link href="https://medaka1985.fc2.net/blog-entry-1310.html"/>
         <updated>2025-08-29T12:57:28.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。金鯖にて。やったー(^^♪本鯖のウポス狩りです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[豪遊。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1309.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1309.html"/>
-        <updated>2025-08-28T17:17:35.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。物が売れました(^^♪思い切って購入です。圧倒的、豪遊・・・！6%を引きました(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
