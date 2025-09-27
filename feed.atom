@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T07:47:33.583Z</updated>
+    <updated>2025-09-27T08:26:12.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フェーズストーンと和解せよ]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-249.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-249.html"/>
+        <updated>2025-09-27T08:06:31.000Z</updated>
+        <summary type="html"><![CDATA[ようやく涼しさらしきものが感じられるようになり、秋の到来と、6度目の夏を乗り切ったノートPCへの畏敬の念を抱えつつ、こんにちは第三の猫です。今回はフェーズストーンをやってみます。使うのはRSPASSのランク48で手に入れた、位相錬成一般触媒x5です。使わないと鞄から消えないので、覚悟を決めて新コンテンツと和解します。ナギ・タニアさんにお願いして、フェーズストーン画面を開きます。左がスキル振り的なもの、中央がス]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[移転のお知らせ]]></title>
         <id>https://blog.goo.ne.jp/sizuku-mo/e/ea2b370bf8fb734f4d9154ae4b0471de</id>
