@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-28T01:55:49.351Z</updated>
+    <updated>2025-09-28T03:11:09.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1100,16 +1100,6 @@ BISが誰もいないので復帰希望
         <updated>2025-08-31T03:10:43.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無課金の歩き方（改）]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-489.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-489.html"/>
-        <updated>2025-08-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前回の町移動でテレポータ直通ではない場所にわたしはこう行っていると書いたところもっと良い方法があるとコメントくれた方がいたので訂正をしたいと思いました＾＾それはバリアートへの移動なのですが実はクエスト110～150のゴールドラッシュで直通だそうでこっちのほうが断然いいと思いました＾＾今まで無駄に走ってましたね＾＾；おしえてくれてありがとうございます＾＾そしてオカー三角州のほうもPTボスの760イーグルヘッド]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
