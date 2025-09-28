@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-28T14:30:29.491Z</updated>
+    <updated>2025-09-28T14:47:34.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鏡餅。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1336.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1336.html"/>
+        <updated>2025-09-28T14:45:04.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。鏡、チャレンジです。恒例のスフィアーキャンペーンBoxです。刃油が地味に助かります！結果です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LR 変換。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1335.html</id>
