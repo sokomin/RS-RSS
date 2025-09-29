@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-29T19:18:42.738Z</updated>
+    <updated>2025-09-29T19:30:39.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1100,16 +1100,6 @@ BISが誰もいないので復帰希望
         <updated>2025-08-31T08:49:35.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オーセンテックジン[ドランナディアン]]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1311.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1311.html"/>
-        <updated>2025-08-31T07:28:31.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。キャプテン補助武器かな？スペシャル図案書交換勝負！20%です(/・ω・)/。やっぱりね＼(^o^)／。サブの追放天使、1257Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
