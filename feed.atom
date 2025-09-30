@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-30T14:48:43.937Z</updated>
+    <updated>2025-09-30T15:21:28.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[炎の石を落手する。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-494.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-494.html"/>
+        <updated>2025-09-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[金鯖が終わりしばらく経ちますが金鯖で復帰した方たちが所属Gに増えたりしていて新しい方たちと話をすることが結構あります。金鯖で復帰した方たちはそれぞれ違う休止期間があるので当然ですが違う疑問などがあります。この間偶然姫Gであった復帰の方と話をしたところ超越スキルを覚えたいので炎の石が欲しくどうしたら手に入れられるだろうか？という相談がありました。実際わたしが炎の石をあげてもよかったのですがこれから先RS]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アバラ定食。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1337.html</id>
