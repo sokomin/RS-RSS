@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-01T17:20:30.932Z</updated>
+    <updated>2025-10-01T17:36:52.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[天使の進捗状況]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202510020000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202510020000/"/>
+        <updated>2025-10-01T17:31:06.000Z</updated>
+        <summary type="html"><![CDATA[​みなさま、お久しぶりです。更新が止まっていましたが、特に問題なく元気に活動しております。位相用に作った天使ですが、それなりに育成を進めていました。まず、ステと装備外観から。マジックバッグが安かった...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第３回職G対決☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12935425354.html</id>
