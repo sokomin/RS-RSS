@@ -141,7 +141,18 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://intothe.info/?p=3073",
+          "author": "marsborn",
+          "description": "MMOにおいて名前を付けることは、一部のプレイヤーにとっては最序盤の大仕事だったりする。...",
+          "link": "https://intothe.info/miscellaneous/naming-is-gaming/",
+          "publishedOn": "2025-10-04T04:37:10.000Z",
+          "wordCount": 2732,
+          "title": "Naming is Gaming",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "魔法の壁のリアルライふ",
