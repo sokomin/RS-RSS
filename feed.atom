@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-06T05:47:32.470Z</updated>
+    <updated>2025-10-06T06:35:04.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[天使やめてBIS始めました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202510060000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202510060000/"/>
+        <updated>2025-10-06T06:22:05.000Z</updated>
+        <summary type="html"><![CDATA[天使でレベル上げをするのは相当なドMじゃないと無理だと周りの人に言われていたので、天使のコラプを買うのは金の無駄かなと思いBISに転職することに決めました。※天使でレベル上げをしている方いたらすいません...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重い状況は続く]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-924.html</id>
