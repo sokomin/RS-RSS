@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-06T04:26:31.362Z</updated>
+    <updated>2025-10-06T04:47:53.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1254,16 +1254,6 @@ BISが誰もいないので復帰希望
         <summary type="html"><![CDATA[先日子供と一緒に外出した際にパスタを食べたのですが帰ってきて食べ過ぎで嘔吐しましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テッセラクト。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1317.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1317.html"/>
-        <updated>2025-09-06T16:26:15.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。10個は嬉しいです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
