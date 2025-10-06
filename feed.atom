@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-06T11:47:42.312Z</updated>
+    <updated>2025-10-06T12:49:42.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[精鋭チャレンジ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1340.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1340.html"/>
+        <updated>2025-10-06T11:51:51.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。鏡チャレンジです。結果は↓の方です。プリンセス、1250精鋭報酬です。サブシーフ、1250精鋭報酬です。キャノニア、1250精鋭報酬です。戦士、1250精鋭報酬です。武道家、1250精鋭報酬です。テイマー、1250精鋭報酬です。天使、1250精鋭報酬です。アーチャー、1250精鋭報酬です。メインシーフ、1250精鋭報酬です。メインシーフ、1500精鋭報酬です。結果です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天使やめてBIS始めました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202510060000/</id>
