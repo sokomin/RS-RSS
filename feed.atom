@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-07T23:19:57.316Z</updated>
+    <updated>2025-10-07T23:32:48.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】ヒペリオン関連あれこれ]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1130.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1130.html"/>
+        <updated>2025-10-07T23:24:28.000Z</updated>
+        <summary type="html"><![CDATA[実装以来、RSのいろんなことに影響を与えているヒペリオン。不具合対策を得て、今は本来あるべき姿で運営されているように思える。当初実装時の不具合は以下。・障害物を利用して安全地帯(ヒペリオンの攻撃が当たらない場所)を作り出せる。・本来4名までしか参加出来ないが、ある手順を踏むことで8名で参加出来る。※下のやつは、連絡帳で問合せても不具合かどうかは不明という回答だったため、厳密にはグレー仕様だと思われる。強]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ログインキャンペーン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1341.html</id>
