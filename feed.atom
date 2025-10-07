@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-07T14:51:03.910Z</updated>
+    <updated>2025-10-07T15:25:30.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1400の喜びと不安。]]></title>
+        <id>http://jendoradoo.blog.fc2.com/blog-entry-495.html</id>
+        <link href="http://jendoradoo.blog.fc2.com/blog-entry-495.html"/>
+        <updated>2025-10-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[毎日コツコツとディメにいって毎週妖精の秘密いってるおかげでこの前の土曜日にオオカミ少年が1400になりました！正確には妖精の秘密行ったので1400とび越えて1401になりました＾＾これで今年の抱負をクリアできたわけですが次の日に1400のディメに行ってみたところ敵の硬さに驚いてしまいました＾＾；ちなみに1400ディメでは入口から↑のあたりで狩りするのが精いっぱいでよくて2か所で狩りをしていれば間に合う感じだったのでこれ]]></summary>
+        <author>
+            <name>ジェンド</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第３回職G対決２週目（1日目）☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12936732089.html</id>
