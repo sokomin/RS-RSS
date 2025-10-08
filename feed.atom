@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-08T18:53:09.177Z</updated>
+    <updated>2025-10-08T19:17:50.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1345,79 +1345,6 @@ BISが誰もいないので復帰希望
         <summary type="html"><![CDATA[こんばんは。最近、ハマっている牡蠣たまです。菊間瓦でお見送りです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闇商人の効率的な探し方について]]></title>
-        <id>kaze.gg-blog.com://entry/220</id>
-        <link href="http://kaze.gg-blog.com/verification/%E9%97%87%E5%95%86%E4%BA%BA%E3%81%AE%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AA%E6%8E%A2%E3%81%97%E6%96%B9"/>
-        <updated>2025-09-09T07:16:30.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。
-
-
-闇商人を毎日探し続けて早2か月…
-闇商人とは
- 
-
-特別なアイテムが買えるNPC
- 
-
-購入には古代森のコインが必要
-
-
-人気の商品は1日版スフィア
-
-
-秘密などで経験値が増えるきれいなお守り(通常のマルコお守りより効果アップ)
-
-
-ミニペットのシャードやパウダー
- 
-
-そしてレア商品の導きの鐘
-闇商人の探し方
- 
-
-ガレリオン野営地の左下からスタートします
-
-
-理由はここに闇商人が移動することがあるため
-赤石の民衆 様に掲載されており
-
-
-闇商人の位置はミニマップ上で「！」で表示されたり
- 
-
-「？」で表示されることもありますが
-ここからは風のおすすめの順路ご紹介
-月の出(15か所)
- 
-日の出(12か所)
- 
-星降る(10か所)
- 
-微風(14か所)
- 
-夜影(12か所)
- 
-暁(12か所)
- 
-野営地
-微風
-夜影
-暁
-月の出
-日の出
-星降る
-
-
-が効率的か…？
-
-
-
-ではまた]]></summary>
-        <author>
-            <name>風に吹かれて</name>
         </author>
     </entry>
     <entry>
