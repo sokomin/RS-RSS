@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-11T01:42:43.272Z</updated>
+    <updated>2025-10-11T02:56:11.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1426,16 +1426,6 @@ BISが誰もいないので復帰希望
         <summary type="html"><![CDATA[​​​位相用に天使欲しいなって思ったので、即行動してみました。（本鯖にて作成）自分１人で位相をクリアできるように、メインID・姫IDとも別の第三のIDにて作成しました。そして、余ってしまったFS（ファーストス...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スシロー。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1321.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1321.html"/>
-        <updated>2025-09-11T13:58:35.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。テイクアウトです(*´ω｀*)。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
