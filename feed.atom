@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-12T14:47:35.839Z</updated>
+    <updated>2025-10-12T15:20:01.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[依然変わらず]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-925.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-925.html"/>
+        <updated>2025-10-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日夜勤明けに電車に乗って帰る最中とても可愛らしい女性が乗っていました今までに無い感覚で、思わず見とれてしまいこれがもしかしたら一目惚れと言うものなのかなと思いました]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第３回職G対決２週目（３日目）☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12938173020.html</id>
