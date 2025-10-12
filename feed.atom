@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-12T15:47:46.450Z</updated>
+    <updated>2025-10-12T16:25:18.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1485,26 +1485,6 @@ BISが誰もいないので復帰希望
         <link href="https://medaka1985.fc2.net/blog-entry-1324.html"/>
         <updated>2025-09-13T10:21:45.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。高額購入です(/・ω・)/。ランキング紹介のコーナーです。日付不明です。お好み焼きの画像がバズりました(*'▽')。レッドストーン内容だった気がします(笑)メインシーフ、1567Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[さわがしい群島]]></title>
-        <id>https://3rdcat.blog.fc2.com/blog-entry-248.html</id>
-        <link href="https://3rdcat.blog.fc2.com/blog-entry-248.html"/>
-        <updated>2025-09-13T03:50:55.000Z</updated>
-        <summary type="html"><![CDATA[今年の金鯖は様子見で終わってしまう感じになってしまいました。それなら本鯖の方で何か進捗が……えー、何の話でしたっけ？第三の猫です。使用キャラが軒並みヤティカヌ入りし、もう何ヶ月も変わらないジャガーの顔も見飽きたので、ミラーダンジョンに行ってみることにしました。とりあえず一覧の中にあった初見のマップを選択。寂しい群島。名前の通り、入口の島は誰もいない無人島でした。どうやら小舟を使って島を移動する仕掛け]]></summary>
-        <author>
-            <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花サカス。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1323.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1323.html"/>
-        <updated>2025-09-13T03:49:58.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。庭の水槽の様子です。ホテイ草に花が咲きました(*´ω｀*)。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
