@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-13T15:48:04.500Z</updated>
+    <updated>2025-10-13T16:29:47.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7番手キャラを紹介]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202510140000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202510140000/"/>
+        <updated>2025-10-13T16:05:34.000Z</updated>
+        <summary type="html"><![CDATA[​今年の金鯖で作った唯一のキャラですが、一応育成することに決めました。大体の装備は、メイドから転用しています。武器だけは各職固有なので、↓を使っています。ベースの火強化・光強化は30～35（だよね？）の...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アニバーサリーチケット。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1346.html</id>
