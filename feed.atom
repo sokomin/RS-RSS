@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-13T23:47:36.677Z</updated>
+    <updated>2025-10-14T01:47:36.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1497,16 +1497,6 @@ BISが誰もいないので復帰希望
         <summary type="html"><![CDATA[先日会社の健康診断に行ってきました尿検査時にコップ満タンにして怒られるのは毎度の事ですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖のお祭り。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1325.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1325.html"/>
-        <updated>2025-09-14T12:54:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。人気赤石youtuberさんのイベントの様子です！1G露店後オーバーフローや1000本等、豪華です。金鯖とはいえ、人がたくさんですね！主催者さん、開催ありがとうございます(/・ω・)/シーズンPASSコンプリートです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
