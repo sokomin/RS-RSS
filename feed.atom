@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-16T01:49:12.866Z</updated>
+    <updated>2025-10-16T03:06:13.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[召喚獣とグランドフィナーレ、魔法致命打抵抗]]></title>
+        <id>hatenablog://entry/6802888565288916561</id>
+        <link href="https://no55555.hatenablog.com/entry/2025/10/16/120000"/>
+        <updated>2025-10-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[(V)o￥o(V)
+ 
+　だんだん寒くなってきましたね。今年はコロナやノロウィルス等いろいろな病気にかかってしまってます。厄年ですかね(´・ω・｀)
+　今日は長時間メンテナンスが入るみたいで大きなアップデートが入るかもしれないですね。今回は召喚獣でグランドフィナーレを使うとどうなるか、またフィールドの魔法致命打抵抗がどうかかるのかを検証した記事を書こうと思うのですがアップデートが入ってすぐに修正されるかもしれないですね。あくまで2015年10月16日メンテナンス前時点での情報ということで読んでいただければ。またS鯖のテイマーサマナーの方もいろいろ調べてくださりありがとうございました。
+グランドフィナーレ（以下GF）について
+GFの効果
+GF装備して召喚獣の検証
+召喚獣と魔法致命打抵抗
+ウトバウル湖での出来事
+魔法致命打抵抗の仮説と検証
+仮説
+検証
+まとめ
+グランドフィナーレ（以下GF）について
+GFの効果
+　まずは魔法職の皆が大好きなGFの主な効果はこちらになります。
+
+　目玉の効果は赤線を引いてるクリティカルが発動しない(対象属性 魔法)です。この効果は言い換えると魔法致命打が出なくなります。魔法致命打と魔法強打では魔法致命打の方が優先順位が高いので仮に魔法致命打率を100%積んでる状態だと魔法強打が出なくなります。そこでGFを使えば魔法強打しか出なくなるので魔法致命打率の量を気にせず装備をつけることができるようになります。
+GF装備して召喚獣の検証
+　それではこのGFを装備して召喚獣で攻撃したらどうなるか見てみましょう！今回魔法致命打率はコラプ知識笛で22%、愛のオーラで30%の計52%召喚獣の魔法致命打率を用意しました。
+　場所は魔法致命打抵抗が15%あるウトバウル湖に行きました。現地に着いてボミングを撃ってみると…
+
+　赤枠のところに薄っすらですが4000k台のダメ…]]></summary>
+        <author>
+            <name>曇りのち晴れ４８日</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第３回職G対決３週目（１日目）☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12938753192.html</id>
@@ -1564,16 +1596,6 @@ BISが誰もいないので復帰希望
         <summary type="html"><![CDATA[こんばんは。やっと豪傑になりました(*'▽')。あぁ～＾良いっすねぇ＾～。ちせ『シュウちゃん私、成長してる…。』いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年金鯖終了！]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-492.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-492.html"/>
-        <updated>2025-09-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年の金鯖も終わりとなりました！わたしは今年キャノニアをメインで育ててましたが結局は1070超えたくらいで終了＾＾；アウラスもらってこれなのでなかったら900代だったと思いました＾＾；たしかに知識キャノニア強いと思いましたが操作に慣れが必要な部分がありターレットを置いてから爆撃をするスタイルなのですがターレットを置く感覚？みたいなのに慣れなくてターレット置いたつもりで本体だけで爆撃してて死んじゃうってパ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>
