@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-16T10:49:50.487Z</updated>
+    <updated>2025-10-16T11:20:07.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10月大型アップデート。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1348.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1348.html"/>
+        <updated>2025-10-16T11:18:31.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。アサルトチャレンジです。22段階くらいで時間切れになりました。新システム、古龍画面です。今のところ、課金ロトが必要みたいです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第３回職G対決３週目（２日目）☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12938909537.html</id>
