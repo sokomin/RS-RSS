@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T14:48:55.425Z</updated>
+    <updated>2025-10-17T15:23:38.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生存報告]]></title>
+        <id>tag:blogger.com,1999:blog-6041969618045088376.post-3206258257503998094</id>
+        <link href="https://rs-kumapon.blogspot.com/2025/10/blog-post.html"/>
+        <updated>2025-10-17T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[みなさんお久しぶりです。
+もう2025年も残すところ２ヶ月と少しという所ですが
+何故かこの投稿が2025年の初投稿ということで、、、
+かなりの時間が経っていたんですね。自分でもびっくりです。
+
+
+今年行われた金鯖にも当然参戦し、キャノニアで遊びました。
+キャノニア楽しいですね。
+ずっと武道家で遊んできて、今年もそうしようかと考えていましたが
+新しい職に挑戦してみて良かったと思います。
+
+
+なんか１年に１回の投稿になりそうな予感がしますが
+私の指が動く限り更新しに来ますので、その時にまたお会いしましょう。]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10月大型アップデート。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1348.html</id>
