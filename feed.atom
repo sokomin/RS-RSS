@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T09:47:45.075Z</updated>
+    <updated>2025-10-17T10:25:22.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1666,16 +1666,6 @@ BISが誰もいないので復帰希望
         <summary type="html"><![CDATA[【REDSTONE】金鯖2025終了本日9/18のメンテ前までで金鯖2025が終了する。メンテ明けはキャラ移行が可能となるが、18:00以降の混雑時に移行すると、キャラが異次元の彼方に飛ばされることがある。毎年起こっている不具合で、復旧まで時間を要すことが多々あるため、慌てて移行しない方がよいかもしれない。今年は8月初旬に店じまいしたため、本鯖へのお土産は少な目。ただし、お土産調達が8月初旬だったため、かなり安く仕入れるこ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マップデバフについて-後編-]]></title>
-        <id>http://akira773.blog22.fc2.com/blog-entry-781.html</id>
-        <link href="http://akira773.blog22.fc2.com/blog-entry-781.html"/>
-        <updated>2025-09-17T22:07:22.000Z</updated>
-        <summary type="html"><![CDATA[どうも、前編からの続きです。内容としては、「忍耐の」「辛苦の」オプション装備はあった方がいいという話の根拠というかせっせと実測値を測ってそこから式を導き出した過程というかとにかく長いです。まとめ（前編）・本体にマップデバフがかかっている時、ペットにもマップデバフがかかる・ペットにかかるマップデバフは本体のマップデバフ後のステータスに連動したペットステータスにかかっている・「忍耐の」「辛苦の」オプシ]]></summary>
-        <author>
-            <name>リヤン</name>
         </author>
     </entry>
     <entry>
