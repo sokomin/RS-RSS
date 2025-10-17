@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T11:31:10.886Z</updated>
+    <updated>2025-10-17T11:47:55.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1656,16 +1656,6 @@ BISが誰もいないので復帰希望
 そんな感じで[壁]ω・)ﾉｼｼ]]></summary>
         <author>
             <name>仔猫のしっぽ（ＲＥＤ　ＳＴＯＮＥ☆B鯖）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】金鯖2025終了]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1126.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1126.html"/>
-        <updated>2025-09-17T23:42:13.000Z</updated>
-        <summary type="html"><![CDATA[【REDSTONE】金鯖2025終了本日9/18のメンテ前までで金鯖2025が終了する。メンテ明けはキャラ移行が可能となるが、18:00以降の混雑時に移行すると、キャラが異次元の彼方に飛ばされることがある。毎年起こっている不具合で、復旧まで時間を要すことが多々あるため、慌てて移行しない方がよいかもしれない。今年は8月初旬に店じまいしたため、本鯖へのお土産は少な目。ただし、お土産調達が8月初旬だったため、かなり安く仕入れるこ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
