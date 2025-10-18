@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T23:47:58.071Z</updated>
+    <updated>2025-10-18T01:43:31.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1575,26 +1575,6 @@ BISが誰もいないので復帰希望
 ではまた]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かき氷で凍るド。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1329.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1329.html"/>
-        <updated>2025-09-18T12:09:28.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。海の見える料亭です。タコがコリコリッとしています。夏の終わりの海です。海の家風、喫茶店です。練乳クリームにアイスが埋まっています。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】キャラ移行でやらかした]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1127.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1127.html"/>
-        <updated>2025-09-18T11:47:37.000Z</updated>
-        <summary type="html"><![CDATA[メインアカウントは今回追加された1枠しかキャラスロ空いてないにも関わらず、1250にした残したいメイドを真っ先に移行してしまった。お土産キャラを先に移行して、アイテムを銀行なりに全部移してキャラ削除。その後、残したいキャラを移行しないといけなかったのに、つい残したいキャラからやってしまった。金鯖にお土産持ちキャラが置き去りになった・・・・・S鯖相場換算3000本ふっとんだｗ引退します（嘘みなさんも気を付けて]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
