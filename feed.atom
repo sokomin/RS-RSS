@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T20:48:06.233Z</updated>
+    <updated>2025-10-19T21:19:35.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1631,16 +1631,6 @@ Oh...
         <summary type="html"><![CDATA[こんばんは。鏡の魔法書が良いですね(16%だけど)。旗の日で1569Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Last Epoch】恐竜ビーストマスター：アベロス撃破]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1128.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1128.html"/>
-        <updated>2025-09-20T09:16:26.000Z</updated>
-        <summary type="html"><![CDATA[ティラノサウルスを引き連れてアベロスを倒したい！と始めたビーストマスターだが、熊が強くてティラノサウルスはおまけ感半端なかった。弱くはないが、攻撃速度が遅いので、熊よりかなり見劣りした。海外勢の動画を観ると、やはりティラノサウルス召喚レリックを装備している人は一人もおらず、結局は熊無双なんだという感想。アベロス戦も特に苦戦することなく、序盤と後半の即死級範囲攻撃も発動させることなく撃破。火力的には]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
