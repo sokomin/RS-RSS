@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-18T23:47:57.452Z</updated>
+    <updated>2025-10-19T02:00:31.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ワンクリックキャノ]]></title>
+        <id>https://3rdcat.blog.fc2.com/blog-entry-250.html</id>
+        <link href="https://3rdcat.blog.fc2.com/blog-entry-250.html"/>
+        <updated>2025-10-19T00:00:35.000Z</updated>
+        <summary type="html"><![CDATA[ネットワーク環境に課金しました。これで回線が安定することでしょう。こんにちは、安定しない第三の猫です。ゲームの方では10月アプデがありました。銀行など古都にあるいくつかの建物内部が模様替したようです。さらに、港街シュトラセラトも新しくなったみたいです。行ってみましょう。こんな感じの場所ができていたり、大きなクレーンがあったり、船からの荷物積み下ろし用でしょうか。例のホテルがどうなったかは各自でご確認]]></summary>
+        <author>
+            <name>第三の猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウポス狩り。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1349.html</id>
