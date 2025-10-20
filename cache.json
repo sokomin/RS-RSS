@@ -327,6 +327,16 @@
       "siteUrl": "http://kaze.gg-blog.com/",
       "articles": [
         {
+          "id": "kaze.gg-blog.com://entry/224",
+          "author": null,
+          "description": "こんにちは。\n\n\n\n来週はランク6攻めです！\n\n\n闇商人探してると、トラがよく噛んでくるんですが\n\n\nイヤ、それどうやって噛んでるんだよ\n\n\n先行くんじゃねえええ\n\n\nあれ！ まだ旗の日じゃないしホットタイムでもないのに？\n \n\n\nおぉ…　モンスターのグラ変わったんだっけ\n\n\nガイコツ感＋30％\n\n\nお前…青くなかった？\n\n\nウポスと違ってやわらかく狩りやすい！\n    \nバフでるでる\n\n\nごちそうさまでした(´～｀)\n\n\nUMUと\n \n \n \n\n右上の謎の部屋\n\n\n\nではまた",
+          "link": "http://kaze.gg-blog.com/status/%E8%AC%8E%E3%81%AE%E3%83%9B%E3%83%83%E3%83%88%E3%82%BF%E3%82%A4%E3%83%A0",
+          "publishedOn": "2025-10-20T02:38:21.000Z",
+          "wordCount": 269,
+          "title": "謎のホットタイム",
+          "imageUrl": null
+        },
+        {
           "id": "kaze.gg-blog.com://entry/223",
           "author": null,
           "description": "こんばんは。\n \n\n \n正直レッドストーンやるより\nイラスト描いてるほうが楽しい",
@@ -1138,16 +1148,6 @@
           "wordCount": 1082,
           "title": "点々。",
           "imageUrl": "https://blog-imgs-163.fc2.com/m/e/d/medaka1985/20250921122724f1b.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1330.html",
-          "author": "medaka1985",
-          "description": "こんばんは。鏡の魔法書が良いですね(16%だけど)。旗の日で1569Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1330.html",
-          "publishedOn": "2025-09-20T15:08:54.000Z",
-          "wordCount": null,
-          "title": "アニバーサリーモード。",
-          "imageUrl": null
         }
       ]
     },

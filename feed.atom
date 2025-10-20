@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-20T01:57:48.509Z</updated>
+    <updated>2025-10-20T03:20:17.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[謎のホットタイム]]></title>
+        <id>kaze.gg-blog.com://entry/224</id>
+        <link href="http://kaze.gg-blog.com/status/%E8%AC%8E%E3%81%AE%E3%83%9B%E3%83%83%E3%83%88%E3%82%BF%E3%82%A4%E3%83%A0"/>
+        <updated>2025-10-20T02:38:21.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+
+
+
+来週はランク6攻めです！
+
+
+闇商人探してると、トラがよく噛んでくるんですが
+
+
+イヤ、それどうやって噛んでるんだよ
+
+
+先行くんじゃねえええ
+
+
+あれ！ まだ旗の日じゃないしホットタイムでもないのに？
+ 
+
+
+おぉ…　モンスターのグラ変わったんだっけ
+
+
+ガイコツ感＋30％
+
+
+お前…青くなかった？
+
+
+ウポスと違ってやわらかく狩りやすい！
+    
+バフでるでる
+
+
+ごちそうさまでした(´～｀)
+
+
+UMUと
+ 
+ 
+ 
+
+右上の謎の部屋
+
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年10月アップデート]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-926.html</id>
@@ -1619,16 +1675,6 @@ Oh...
         <link href="https://medaka1985.fc2.net/blog-entry-1331.html"/>
         <updated>2025-09-21T03:30:26.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。フルバフです。プリンセス、1250精鋭報酬です。サブのシーフ、1250精鋭報酬です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニバーサリーモード。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1330.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1330.html"/>
-        <updated>2025-09-20T15:08:54.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。鏡の魔法書が良いですね(16%だけど)。旗の日で1569Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
