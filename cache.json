@@ -232,6 +232,16 @@
       "siteUrl": "https://intothe.info",
       "articles": [
         {
+          "id": "https://intothe.info/?p=3113",
+          "author": "marsborn",
+          "description": "10/8から3か月程続く期間限定のイベントLegion...",
+          "link": "https://intothe.info/wow/spooktacular-trooper/",
+          "publishedOn": "2025-10-28T22:09:53.000Z",
+          "wordCount": 2735,
+          "title": "Spooktacular Trooper",
+          "imageUrl": null
+        },
+        {
           "id": "https://intothe.info/?p=3073",
           "author": "marsborn",
           "description": "MMOにおいて名前を付けることは、一部のプレイヤーにとっては最序盤の大仕事だったりする。...",

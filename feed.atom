@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-28T21:47:43.629Z</updated>
+    <updated>2025-10-28T22:22:48.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spooktacular Trooper]]></title>
+        <id>https://intothe.info/?p=3113</id>
+        <link href="https://intothe.info/wow/spooktacular-trooper/"/>
+        <updated>2025-10-28T22:09:53.000Z</updated>
+        <summary type="html"><![CDATA[10/8から3か月程続く期間限定のイベントLegion...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第３回職G対決最終週（１日目）☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12941668840.html</id>
