@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-28T01:50:16.279Z</updated>
+    <updated>2025-10-28T03:11:10.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1703,26 +1703,6 @@ KILLされました＾ｐ＾
         <link href="https://medaka1985.fc2.net/blog-entry-1337.html"/>
         <updated>2025-09-30T12:15:20.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。昼食にて。美味しく頂きました。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重すぎて遊べない]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-923.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-923.html"/>
-        <updated>2025-09-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暑さ寒さも彼岸までと言いますが最近は朝晩少しずつ気温が下がってきましたねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡餅。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1336.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1336.html"/>
-        <updated>2025-09-28T14:45:04.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。鏡、チャレンジです。恒例のスフィアーキャンペーンBoxです。刃油が地味に助かります！結果です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
