@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T17:47:48.983Z</updated>
+    <updated>2025-10-30T18:34:14.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[被魔法ダメージ吸収32％]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202510310000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202510310000/"/>
+        <updated>2025-10-30T18:30:24.000Z</updated>
+        <summary type="html"><![CDATA[​白異界で最強の堕落した賢者の靴を作ろうとしていたら、想定していない良OPを引いて困惑してしまいました。うーん・・要らないんだけど、消すのは惜しいんだよなぁ。というわけで、これを使う方法を数分考えまし...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日常。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1355.html</id>
