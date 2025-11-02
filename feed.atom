@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-02T16:49:39.895Z</updated>
+    <updated>2025-11-02T17:19:08.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -2024,16 +2024,6 @@ LA取れるという神仕様（）
 おしまい。]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naming is Gaming]]></title>
-        <id>https://intothe.info/?p=3073</id>
-        <link href="https://intothe.info/miscellaneous/naming-is-gaming/"/>
-        <updated>2025-10-04T04:37:10.000Z</updated>
-        <summary type="html"><![CDATA[MMOにおいて名前を付けることは、一部のプレイヤーにとっては最序盤の大仕事だったりする。...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>
