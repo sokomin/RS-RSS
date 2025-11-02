@@ -741,7 +741,18 @@
       "title": "赤石グラフィティ",
       "feedUrl": "https://orientalrose4.blog.fc2.com/?xml",
       "siteUrl": "https://orientalrose4.blog.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://orientalrose4.blog.fc2.com/blog-entry-1003.html",
+          "author": "アル・シェリ",
+          "description": "更新が空いてしまってごめんなさい。進捗を書かせていただきます。めぃかさんの着彩はおまけ差分(👈)がほぼ終わり、本番(👉)を進行中です。本番の色はまだざっくりですけれど、黒いアーマードレスを予定しています。瞳も深紅。あとから赤い宝石の装身具を2、3か所つけて、背景も赤を基調にしたいです。三又槍も別レイヤーで作ってあるので、そちらは最後に添えます。おまけ絵はフレームなどをもう少し違う感じに変更するかもですが、",
+          "link": "https://orientalrose4.blog.fc2.com/blog-entry-1003.html",
+          "publishedOn": "2025-11-02T01:51:49.000Z",
+          "wordCount": 890,
+          "title": "中間報告3",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "それいけ！NEO無課金同盟in橋頭鯖　リターンズ",

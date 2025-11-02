@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-01T23:47:30.620Z</updated>
+    <updated>2025-11-02T01:59:31.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中間報告3]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-1003.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-1003.html"/>
+        <updated>2025-11-02T01:51:49.000Z</updated>
+        <summary type="html"><![CDATA[更新が空いてしまってごめんなさい。進捗を書かせていただきます。めぃかさんの着彩はおまけ差分(👈)がほぼ終わり、本番(👉)を進行中です。本番の色はまだざっくりですけれど、黒いアーマードレスを予定しています。瞳も深紅。あとから赤い宝石の装身具を2、3か所つけて、背景も赤を基調にしたいです。三又槍も別レイヤーで作ってあるので、そちらは最後に添えます。おまけ絵はフレームなどをもう少し違う感じに変更するかもですが、]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第３回職G対決決勝戦☆]]></title>
         <id>https://ameblo.jp/sakuyuno0822/entry-12942489129.html</id>
