@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-03T13:51:15.836Z</updated>
+    <updated>2025-11-03T14:24:30.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知らない、天上。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1357.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1357.html"/>
+        <updated>2025-11-03T14:00:42.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。結果は↓の方です。戦士、1250精鋭報酬です。天使、1250精鋭報酬です。テイマー、1250精鋭報酬です。シーフ、1250精鋭報酬です。アーチャー、1250精鋭報酬です。珍しいです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国情報]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-928.html</id>
