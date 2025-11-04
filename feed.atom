@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T14:25:47.838Z</updated>
+    <updated>2025-11-04T14:52:54.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ピペリオンチャレンジ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1358.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1358.html"/>
+        <updated>2025-11-04T14:34:45.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。クールなコスチュームです。ピペリオン、討伐報酬です。キャノニア、1250精鋭報酬です。サブのシーフ、1250精鋭報酬です。メインシーフ、1578Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知らない、天上。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1357.html</id>
