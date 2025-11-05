@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T01:55:44.503Z</updated>
+    <updated>2025-11-05T03:15:31.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1880,16 +1880,6 @@ SS撮れてなかったのですが
         <summary type="html"><![CDATA[金鯖終了後から続いているS鯖の高負荷状態、平日でも20:00以降はまともにプレイ出来ないくらい酷い。(1)マップ移動か遅い(数秒かかる)、また10回に1回くらいの頻度で30秒から1分程度待たされる。(2)銀行やギルド倉庫のアイテム出し入れ、買い物鞄からのアイテム取り出し時に10〜20秒を要する。(3)銀行やギルド倉庫のアイテム出し入れ時、稀にアイテムが消失し、連絡帳からの復旧依頼が必要になる(消失の日時やアイテム詳細が分から]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精鋭チャレンジ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1340.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1340.html"/>
-        <updated>2025-10-06T11:51:51.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。鏡チャレンジです。結果は↓の方です。プリンセス、1250精鋭報酬です。サブシーフ、1250精鋭報酬です。キャノニア、1250精鋭報酬です。戦士、1250精鋭報酬です。武道家、1250精鋭報酬です。テイマー、1250精鋭報酬です。天使、1250精鋭報酬です。アーチャー、1250精鋭報酬です。メインシーフ、1250精鋭報酬です。メインシーフ、1500精鋭報酬です。結果です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
