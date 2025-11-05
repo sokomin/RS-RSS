@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T17:48:08.074Z</updated>
+    <updated>2025-11-05T18:34:40.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[霊術の装備も変更しようかな]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202511060000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202511060000/"/>
+        <updated>2025-11-05T17:58:17.000Z</updated>
+        <summary type="html"><![CDATA[先日、姫の装備をいじって気付きました。フェーズストーン実装により、無理に魔法吸収頭を使わなくてもよいということに。そこで、冠を使うメリットの少ない物理キャラである霊術の装備を変更してみることに決め...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ピペリオンチャレンジ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1358.html</id>
