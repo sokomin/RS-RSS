@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-06T01:55:43.505Z</updated>
+    <updated>2025-11-06T03:18:06.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】今後の金策]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1131.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1131.html"/>
+        <updated>2025-11-06T03:02:12.000Z</updated>
+        <summary type="html"><![CDATA[以前よりタビアクート(Lv1250精鋭)、スザルアンキール(Lv1500精鋭)の入場チケットが高騰しており、利益率が下がっている。S鯖だと27〜30本で取引されていて、スロット集中やゴミ超越の書が出たときのガッカリ感でモチベーションが保てない。おそらく同じ感覚の人は少なくない印象だけど、何故か入場チケットの高騰が止まらない。自分も含めて周囲もタビアクート討伐はスルーしている人が増えているのに、何故なんだろう・・・以前]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[霊術の装備も変更しようかな]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202511060000/</id>
@@ -1746,16 +1756,6 @@ BIS天　ｖｓ　姫　です
         <summary type="html"><![CDATA[こんばんは。ログインコンプです。アーチャー、1273Lv到達です。メインシーフ、1571Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1400の喜びと不安。]]></title>
-        <id>http://jendoradoo.blog.fc2.com/blog-entry-495.html</id>
-        <link href="http://jendoradoo.blog.fc2.com/blog-entry-495.html"/>
-        <updated>2025-10-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[毎日コツコツとディメにいって毎週妖精の秘密いってるおかげでこの前の土曜日にオオカミ少年が1400になりました！正確には妖精の秘密行ったので1400とび越えて1401になりました＾＾これで今年の抱負をクリアできたわけですが次の日に1400のディメに行ってみたところ敵の硬さに驚いてしまいました＾＾；ちなみに1400ディメでは入口から↑のあたりで狩りするのが精いっぱいでよくて2か所で狩りをしていれば間に合う感じだったのでこれ]]></summary>
-        <author>
-            <name>ジェンド</name>
         </author>
     </entry>
     <entry>

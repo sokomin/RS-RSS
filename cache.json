@@ -396,6 +396,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1131.html",
+          "author": "JEFRY",
+          "description": "以前よりタビアクート(Lv1250精鋭)、スザルアンキール(Lv1500精鋭)の入場チケットが高騰しており、利益率が下がっている。S鯖だと27〜30本で取引されていて、スロット集中やゴミ超越の書が出たときのガッカリ感でモチベーションが保てない。おそらく同じ感覚の人は少なくない印象だけど、何故か入場チケットの高騰が止まらない。自分も含めて周囲もタビアクート討伐はスルーしている人が増えているのに、何故なんだろう・・・以前",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1131.html",
+          "publishedOn": "2025-11-06T03:02:12.000Z",
+          "wordCount": 589,
+          "title": "【REDSTONE】今後の金策",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1130.html",
           "author": "JEFRY",
           "description": "実装以来、RSのいろんなことに影響を与えているヒペリオン。不具合対策を得て、今は本来あるべき姿で運営されているように思える。当初実装時の不具合は以下。・障害物を利用して安全地帯(ヒペリオンの攻撃が当たらない場所)を作り出せる。・本来4名までしか参加出来ないが、ある手順を踏むことで8名で参加出来る。※下のやつは、連絡帳で問合せても不具合かどうかは不明という回答だったため、厳密にはグレー仕様だと思われる。強",
@@ -668,18 +678,7 @@
       "title": "ジェンド日記",
       "feedUrl": "http://jendoradoo.blog.fc2.com/?xml",
       "siteUrl": "http://jendoradoo.blog.fc2.com/",
-      "articles": [
-        {
-          "id": "http://jendoradoo.blog.fc2.com/blog-entry-495.html",
-          "author": "ジェンド",
-          "description": "毎日コツコツとディメにいって毎週妖精の秘密いってるおかげでこの前の土曜日にオオカミ少年が1400になりました！正確には妖精の秘密行ったので1400とび越えて1401になりました＾＾これで今年の抱負をクリアできたわけですが次の日に1400のディメに行ってみたところ敵の硬さに驚いてしまいました＾＾；ちなみに1400ディメでは入口から↑のあたりで狩りするのが精いっぱいでよくて2か所で狩りをしていれば間に合う感じだったのでこれ",
-          "link": "http://jendoradoo.blog.fc2.com/blog-entry-495.html",
-          "publishedOn": "2025-10-07T15:00:00.000Z",
-          "wordCount": 405,
-          "title": "1400の喜びと不安。",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "その槍の名前はフラジールニップ",
