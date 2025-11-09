@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-09T03:53:05.313Z</updated>
+    <updated>2025-11-09T04:27:14.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中間報告4　エフェクトのレッスン]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-1004.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-1004.html"/>
+        <updated>2025-11-09T04:14:13.000Z</updated>
+        <summary type="html"><![CDATA[ごきげんよう、冷たい雨の日曜日です。コメント返信もストップしてしまっている体たらくですのにカウンターを毎日回していただいてなんというか……恐縮です( TヮT)、遊びにお越しいただき、感謝申し上げます。また更新の感覚が空き過ぎないよう、保守させてくださいね。今日の中間報告は、お二人めの☆ﾏｰｷｭﾘｰ☆さんに関する内容です。めぃかさんの瞳の塗りで悩んでいて(赤い宝石眼とかどうかな……などと)試行錯誤中。煮詰まってしまっ]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】見えてきた未来]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1132.html</id>
