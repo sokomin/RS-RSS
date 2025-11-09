@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-09T14:48:05.001Z</updated>
+    <updated>2025-11-09T15:21:29.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バフが切れた時にやること]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-929.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-929.html"/>
+        <updated>2025-11-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日自宅の給湯器のフィルターを掃除していたのですがフィルターのプラスチック部分に亀裂が入っていて壊れていました早速探して通販で買っておきましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ピペリオン報酬。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1360.html</id>
