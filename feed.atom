@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-09T01:58:25.091Z</updated>
+    <updated>2025-11-09T03:18:34.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】見えてきた未来]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1132.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1132.html"/>
+        <updated>2025-11-09T03:15:17.000Z</updated>
+        <summary type="html"><![CDATA[Lv2000以降のレベリング、フェーズストーン、古龍と課金必須コンテンツが連続して実装されたことで、RSの将来像がほぼ固まったように思う。RSの将来像、目指す姿とは？・課金層(ゲームを楽しむために一定額の課金を厭わない)に纏まった資金を提供してもらいつつ・ライト課金層からULTスフィア等で定額資金を得ながら・金鯖や目玉ロト(売上良好なアイテム梱包回)でボーナスを得て・メンテナンスの人件費や鯖維持費を最小限に抑えて]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミルの鱗。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1359.html</id>
