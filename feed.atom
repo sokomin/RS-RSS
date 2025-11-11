@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-11T11:47:47.188Z</updated>
+    <updated>2025-11-11T12:51:23.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[いくつかの装備が完成しました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202511110000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202511110000/"/>
+        <updated>2025-11-11T12:10:16.000Z</updated>
+        <summary type="html"><![CDATA[※ここ数日、楽天ブログサイトの不調によりブログが閲覧できない状態でしたが、どうやら復旧したようです。金もないのに、無理して複数キャラの装備を作っております・・ｗまずは、全吸収頭をやめた姫の新装備（冠...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[間が開くねぇ]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1292.html</id>
