@@ -362,7 +362,18 @@
       "title": "のんびりまったり",
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1292.html",
+          "author": "クレリューフ",
+          "description": "更新サボってる辺り、やる気なくなってるなぁと思ってください。ゲーム内イベントも面白いのがないし仕方ないとも。さて、前回予告通りにアラクノエンプレスの個人的なお勧め装備。武器：1100DXUシークレットチョイス首：800DXU死の聖具 or 800DXUアルゴスの瞳頭：800DXUイリスの冠 or 1000UMU先人の知恵 次点：1100DXU魔道戦士耳：1000UMUムーンシャイン or 1100DXUグルーミングブルーイヤリング次点：800DXU峡谷の突風腰：1000UM",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1292.html",
+          "publishedOn": "2025-11-11T10:47:14.000Z",
+          "wordCount": 672,
+          "title": "間が開くねぇ",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "今日のアリアン",
