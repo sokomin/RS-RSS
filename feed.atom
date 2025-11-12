@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-12T01:55:36.117Z</updated>
+    <updated>2025-11-12T03:16:17.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1588,16 +1588,6 @@ GF装備して召喚獣の検証
         <summary type="html"><![CDATA[​今年の金鯖で作った唯一のキャラですが、一応育成することに決めました。大体の装備は、メイドから転用しています。武器だけは各職固有なので、↓を使っています。ベースの火強化・光強化は30～35（だよね？）の...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニバーサリーチケット。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1346.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1346.html"/>
-        <updated>2025-10-13T14:16:15.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。アニバーサリー鏡です。結果↓の方。神獣＋ダメージのお陰で強化です。メインシーフ、1573Lv到達です(*'▽')。結果です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
