@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-13T04:32:36.843Z</updated>
+    <updated>2025-11-13T04:52:10.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブログランキング。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1361.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1361.html"/>
+        <updated>2025-11-13T04:34:58.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。9/16のランキングです。10/7のランキングです。昨日のランキングです(*'▽')。最近ゲーム熱が引いて、毎日更新出来なくて申し訳ないです。ミルの鱗関連が物理に効果的という事でログインボーナスから良いのが引けたらなぁと望んでいます。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[霊術でヒペリオン倒せるか実験してみた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202511130000/</id>
