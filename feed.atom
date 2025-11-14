@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-14T04:50:35.055Z</updated>
+    <updated>2025-11-14T05:23:44.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[霊術の表記ダメの推移]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202511140000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202511140000/"/>
+        <updated>2025-11-14T05:23:25.000Z</updated>
+        <summary type="html"><![CDATA[​​闘士から再振りして霊術になりたての頃は↓こんな感じでした。※たぶんミニPなしの状態だったと思います。そしてスキルレベル高過ぎ問題ｗ次に現在の表記は↓これです。いろいろいじったので、だいぶ上がっていま...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブログランキング。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1361.html</id>
