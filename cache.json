@@ -920,21 +920,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/5d5a754bb5a5c1519adea20108719b7ad4735abb/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20251106%2F20251106172032.png"
-        },
-        {
-          "id": "hatenablog://entry/6802888565288916561",
-          "author": null,
-          "description": "(V)o￥o(V)\n \n　だんだん寒くなってきましたね。今年はコロナやノロウィルス等いろいろな病気にかかってしまってます。厄年ですかね(´・ω・｀)\n　今日は長時間メンテナンスが入るみたいで大きなアップデートが入るかもしれないですね。今回は召喚獣でグランドフィナーレを使うとどうなるか、またフィールドの魔法致命打抵抗がどうかかるのかを検証した記事を書こうと思うのですがアップデートが入ってすぐに修正されるかもしれないですね。あくまで2015年10月16日メンテナンス前時点での情報ということで読んでいただければ。またS鯖のテイマーサマナーの方もいろいろ調べてくださりありがとうございました。\nグランドフィナーレ（以下GF）について\nGFの効果\nGF装備して召喚獣の検証\n召喚獣と魔法致命打抵抗\nウトバウル湖での出来事\n魔法致命打抵抗の仮説と検証\n仮説\n検証\nまとめ\nグランドフィナーレ（以下GF）について\nGFの効果\n　まずは魔法職の皆が大好きなGFの主な効果はこちらになります。\n\n　目玉の効果は赤線を引いてるクリティカルが発動しない(対象属性 魔法)です。この効果は言い換えると魔法致命打が出なくなります。魔法致命打と魔法強打では魔法致命打の方が優先順位が高いので仮に魔法致命打率を100%積んでる状態だと魔法強打が出なくなります。そこでGFを使えば魔法強打しか出なくなるので魔法致命打率の量を気にせず装備をつけることができるようになります。\nGF装備して召喚獣の検証\n　それではこのGFを装備して召喚獣で攻撃したらどうなるか見てみましょう！今回魔法致命打率はコラプ知識笛で22%、愛のオーラで30%の計52%召喚獣の魔法致命打率を用意しました。\n　場所は魔法致命打抵抗が15%あるウトバウル湖に行きました。現地に着いてボミングを撃ってみると…\n\n　赤枠のところに薄っすらですが4000k台のダメ…",
-          "link": "https://no55555.hatenablog.com/entry/2025/10/16/120000",
-          "publishedOn": "2025-10-16T03:00:00.000Z",
-          "wordCount": 352,
-          "title": "召喚獣とグランドフィナーレ、魔法致命打抵抗",
-          "enclosure": {
-            "url": "https://cdn.image.st-hatena.com/image/scale/70cc8ee4ab34636830e7ad0088f9d9f0fbb61f96/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20251016%2F20251016093614.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/70cc8ee4ab34636830e7ad0088f9d9f0fbb61f96/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20251016%2F20251016093614.png"
         }
       ]
     },
