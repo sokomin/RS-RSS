@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-16T14:49:00.834Z</updated>
+    <updated>2025-11-16T15:21:38.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[位相ダンジョンを試す]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-930.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-930.html"/>
+        <updated>2025-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[段々と寒さが増してきましたね自宅には暖房器具を出しましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1250精鋭討伐。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1364.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1364.html"/>
+        <updated>2025-11-16T14:47:57.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。戦士、1250精鋭報酬です。姫、1250精鋭報酬です。アーチャー、1250精鋭報酬です。天使、1250精鋭報酬です。テイマ、1250精鋭報酬です。メインシーフ、1582Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hot time。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1363.html</id>
