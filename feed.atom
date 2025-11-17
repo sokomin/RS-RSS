@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-17T05:26:10.996Z</updated>
+    <updated>2025-11-17T05:49:39.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オーラ短縮イベントの効率を考える]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202511170000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202511170000/"/>
+        <updated>2025-11-17T05:36:52.000Z</updated>
+        <summary type="html"><![CDATA[オーラ短縮イベントの効率は、通常時の何倍になるのか気になりますよね。ということで、軽く検証して計算してみました。★Lv1720のメイドで狩りをした結果です。以下は、オーラ無のときとオーラ有のときに同じ種類...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】無限エラーという致命的な不具合]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1133.html</id>
