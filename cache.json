@@ -215,7 +215,18 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ldrMb-trsUY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ldrMb-trsUY",
+          "publishedOn": "2025-11-17T16:53:25.000Z",
+          "wordCount": null,
+          "title": "Night　Driving",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "無職と美学とシュルレアリスム",
