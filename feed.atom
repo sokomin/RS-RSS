@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-17T03:21:23.864Z</updated>
+    <updated>2025-11-17T04:02:13.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】無限エラーという致命的な不具合]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1133.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1133.html"/>
+        <updated>2025-11-17T03:35:04.000Z</updated>
+        <summary type="html"><![CDATA[他鯖の状況は不明だが、S鯖では今、MAP移動時にエラーのダイアログが表示される場合がある。ダイアログにはOKボタンがあるが、押下するとまた別のエラーダイアログが表示され、無限にエラーが続くため、タスクマネージャーからRSのプロレスを強制終了するしかない状態になる。この事象(無限エラー)は、鯖混雑(鯖が重い)時に頻発する傾向にあり、月曜みたいに負荷が高い場合、20:00から23:00間のゴールデンタイム中には5回以上発生]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[位相ダンジョンを試す]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-930.html</id>
