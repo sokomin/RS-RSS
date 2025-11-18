@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T05:49:14.886Z</updated>
+    <updated>2025-11-18T06:35:55.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[霊術で位相引率してみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202511180000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202511180000/"/>
+        <updated>2025-11-18T06:05:07.000Z</updated>
+        <summary type="html"><![CDATA[引率するので気合を入れてミニPツインを復活させました。神霊ビスタとダブルドレープ付きヌウリのツインです。あと先日の記事でフェーズストーン10・10・10取ったと書きましたが、内容は↓こんな感じです。これで...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分レ唄]]></title>
         <id>https://www.youtube.com/watch?v=YtxP8sFmjqY</id>
