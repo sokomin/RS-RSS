@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T14:25:25.180Z</updated>
+    <updated>2025-11-18T14:52:19.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ご遊戯ですから。 1]]></title>
+        <id>https://www.youtube.com/watch?v=HwY-Dcf9rvg</id>
+        <link href="https://www.youtube.com/watch?v=HwY-Dcf9rvg"/>
+        <updated>2025-11-18T14:48:54.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[セットOP魔法のお守り箱。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1365.html</id>
@@ -1312,62 +1321,6 @@ PTリーダーのことでしたね
         <summary type="html"><![CDATA[こんばんは。スクラッチ1万5百GEM分の結果です！アーチャー、1250精鋭報酬です。テイマー、1250精鋭報酬です。武道家、1250精鋭報酬です。天使、1250精鋭報酬です。戦士、1250精鋭報酬です。キャノニア、1250精鋭報酬です。サブのシーフ、1250精鋭報酬です。プリンセス、1250精鋭報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謎のホットタイム]]></title>
-        <id>kaze.gg-blog.com://entry/224</id>
-        <link href="http://kaze.gg-blog.com/status/%E8%AC%8E%E3%81%AE%E3%83%9B%E3%83%83%E3%83%88%E3%82%BF%E3%82%A4%E3%83%A0"/>
-        <updated>2025-10-20T02:38:21.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。
-
-
-
-来週はランク6攻めです！
-
-
-闇商人探してると、トラがよく噛んでくるんですが
-
-
-イヤ、それどうやって噛んでるんだよ
-
-
-先行くんじゃねえええ
-
-
-あれ！ まだ旗の日じゃないしホットタイムでもないのに？
- 
-
-
-おぉ…　モンスターのグラ変わったんだっけ
-
-
-ガイコツ感＋30％
-
-
-お前…青くなかった？
-
-
-ウポスと違ってやわらかく狩りやすい！
-    
-バフでるでる
-
-
-ごちそうさまでした(´～｀)
-
-
-UMUと
- 
- 
- 
-
-右上の謎の部屋
-
-
-
-ではまた]]></summary>
-        <author>
-            <name>風に吹かれて</name>
         </author>
     </entry>
     <entry>

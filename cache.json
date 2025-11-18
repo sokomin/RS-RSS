@@ -197,6 +197,16 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HwY-Dcf9rvg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HwY-Dcf9rvg",
+          "publishedOn": "2025-11-18T14:48:54.000Z",
+          "wordCount": null,
+          "title": "ご遊戯ですから。 1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/hWJqtb7u2zk",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -434,16 +444,6 @@
           "publishedOn": "2025-10-28T10:55:44.000Z",
           "wordCount": 487,
           "title": "位相ボス：ヒペリオン攻略",
-          "imageUrl": null
-        },
-        {
-          "id": "kaze.gg-blog.com://entry/224",
-          "author": null,
-          "description": "こんにちは。\n\n\n\n来週はランク6攻めです！\n\n\n闇商人探してると、トラがよく噛んでくるんですが\n\n\nイヤ、それどうやって噛んでるんだよ\n\n\n先行くんじゃねえええ\n\n\nあれ！ まだ旗の日じゃないしホットタイムでもないのに？\n \n\n\nおぉ…　モンスターのグラ変わったんだっけ\n\n\nガイコツ感＋30％\n\n\nお前…青くなかった？\n\n\nウポスと違ってやわらかく狩りやすい！\n    \nバフでるでる\n\n\nごちそうさまでした(´～｀)\n\n\nUMUと\n \n \n \n\n右上の謎の部屋\n\n\n\nではまた",
-          "link": "http://kaze.gg-blog.com/status/%E8%AC%8E%E3%81%AE%E3%83%9B%E3%83%83%E3%83%88%E3%82%BF%E3%82%A4%E3%83%A0",
-          "publishedOn": "2025-10-20T02:38:21.000Z",
-          "wordCount": 269,
-          "title": "謎のホットタイム",
           "imageUrl": null
         }
       ]
