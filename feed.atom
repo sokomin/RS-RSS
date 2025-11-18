@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T01:55:31.198Z</updated>
+    <updated>2025-11-18T03:15:53.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1292,16 +1292,6 @@ UMUと
 ではまた]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年10月アップデート]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-926.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-926.html"/>
-        <updated>2025-10-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[少しずつ冷える日も増えてきましたねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
