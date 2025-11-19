@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T15:30:02.913Z</updated>
+    <updated>2025-11-19T15:48:19.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1301,16 +1301,6 @@ PTリーダーのことでしたね
 おしまい。]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIS天用に装備をいくつか作成]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202510210000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202510210000/"/>
-        <updated>2025-10-21T03:37:17.000Z</updated>
-        <summary type="html"><![CDATA[​​まずは、自分でドロップしたコラプ天使ですが、↓こんな感じに仕上がりました。以前の私は解放でハマってるイメージだと思いますが、最近は解放が好調で完全解放使用→1個目で3解放→解放改使用→一発成功で4解放と...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
