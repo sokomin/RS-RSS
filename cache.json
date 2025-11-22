@@ -177,6 +177,16 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pBlVnZwIyRA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pBlVnZwIyRA",
+          "publishedOn": "2025-11-22T15:58:03.000Z",
+          "wordCount": null,
+          "title": "ファンタジーブレイク",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ULFwoU3Rvuo",
           "author": null,
           "description": "",
