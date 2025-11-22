@@ -177,6 +177,16 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ULFwoU3Rvuo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ULFwoU3Rvuo",
+          "publishedOn": "2025-11-22T14:51:10.000Z",
+          "wordCount": null,
+          "title": "我為我が思考",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HwY-Dcf9rvg",
           "author": null,
           "description": "",
