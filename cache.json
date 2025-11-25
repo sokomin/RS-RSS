@@ -132,6 +132,16 @@
       "siteUrl": "https://intothe.info",
       "articles": [
         {
+          "id": "https://intothe.info/?p=3176",
+          "author": "marsborn",
+          "description": "3.27ではWand用の新スキルKinetic...",
+          "link": "https://intothe.info/poe/wandering-where-i-am/",
+          "publishedOn": "2025-11-25T22:08:20.000Z",
+          "wordCount": 2801,
+          "title": "Wandering where I am",
+          "imageUrl": null
+        },
+        {
           "id": "https://intothe.info/?p=3113",
           "author": "marsborn",
           "description": "10/8から3か月程続く期間限定のイベントLegion...",
