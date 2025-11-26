@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-26T03:19:54.707Z</updated>
+    <updated>2025-11-26T03:57:16.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -1005,16 +1005,6 @@ BISのエビは防御力が上がるので効果的です
 おしまい。]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡に挑戦。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1354.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1354.html"/>
-        <updated>2025-10-27T13:47:49.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。チャレンジです。く・・・！まだまだ！頼みます！＼(^o^)／ｵﾜﾀ。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
