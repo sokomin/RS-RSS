@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T06:38:33.678Z</updated>
+    <updated>2025-11-27T06:57:40.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中間報告5]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-1005.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-1005.html"/>
+        <updated>2025-11-27T06:53:53.000Z</updated>
+        <summary type="html"><![CDATA[お待たせしております、ごめんなさい。どうしてもお顔がしっくりこなくて……その部分だけずっと修正していました。やっと定まりました。自分のどうしようもない「手癖」について真剣に考え直す、またとない機会になりました。これを放置していると予後がかなり悪くなっていたところです。当然先に仕上がったほうも、お顔だけ差し替えさせていただきます。あとはひたすら仕上げるのみ。次回こそは本当の「完成のお知らせ」になるよう]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近況報告です]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202511270000/</id>
