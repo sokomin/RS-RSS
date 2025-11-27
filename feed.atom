@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T09:49:33.588Z</updated>
+    <updated>2025-11-27T10:28:46.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -755,16 +755,6 @@ SS撮りたくて近寄ったのですが
 ばいば～～い・ω・ﾉｼ]]></summary>
         <author>
             <name>もこもこの時たま日常レッドストーン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spooktacular Trooper]]></title>
-        <id>https://intothe.info/?p=3113</id>
-        <link href="https://intothe.info/wow/spooktacular-trooper/"/>
-        <updated>2025-10-28T22:09:53.000Z</updated>
-        <summary type="html"><![CDATA[10/8から3か月程続く期間限定のイベントLegion...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>
