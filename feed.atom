@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T23:47:59.464Z</updated>
+    <updated>2025-11-29T01:53:46.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -650,16 +650,6 @@ Bヒーラー：ヒューズシンシア
         <summary type="html"><![CDATA[​白異界で最強の堕落した賢者の靴を作ろうとしていたら、想定していない良OPを引いて困惑してしまいました。うーん・・要らないんだけど、消すのは惜しいんだよなぁ。というわけで、これを使う方法を数分考えまし...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日常。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1355.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1355.html"/>
-        <updated>2025-10-30T11:41:10.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。UMUゲットです。武道家、1250精鋭報酬です。サブの戦士、1268Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
