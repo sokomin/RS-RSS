@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-30T02:08:14.001Z</updated>
+    <updated>2025-11-30T03:44:14.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -640,16 +640,6 @@ Bヒーラー：ヒューズシンシア
         <summary type="html"><![CDATA[レッドストーンのかけらを集めたときに訪れたログハウス。この時は新しいグラフィックなのに、会話を終えて外に出ると、旧グラフィックに戻っているため、時間移動をしてしまったように感じる今日この頃、いかがお過ごしでしょうか。第三の猫です。ようやくレベル1300に到達しました。まあ、それは置いておきまして、今回は10月アプデで改変された虚無ビームを見ていきます。説明しよう！虚無ビームとは知識光奏師の必殺技であるス]]></summary>
         <author>
             <name>第三の猫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハロウィンイベント。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1356.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1356.html"/>
-        <updated>2025-10-31T14:53:13.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。パンプキン、恒例のGvイベントです。惜しいです。お祭りGvで楽しかったです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
