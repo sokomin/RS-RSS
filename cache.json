@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-932.html",
+          "author": "ミツリン",
+          "description": "先日風邪をこじらせましたが今は調子も良くなりましたこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-932.html",
+          "publishedOn": "2025-11-30T15:00:00.000Z",
+          "wordCount": 645,
+          "title": "地道に頑張っています",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-931.html",
           "author": "ミツリン",
           "description": "数年ぶりに風邪をひいたらしく鼻水が滝のように出てきますこんにちは　ミツリンです",
@@ -953,6 +963,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1375.html",
+          "author": "medaka1985",
+          "description": "こんばんは。超うれぴ。メインシーフ、1588Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1375.html",
+          "publishedOn": "2025-11-30T14:42:00.000Z",
+          "wordCount": 1086,
+          "title": "ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!",
+          "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medaka1985/20251130234025d33.png"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1374.html",
           "author": "medaka1985",
