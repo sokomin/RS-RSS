@@ -146,6 +146,16 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=c7e4aFxldzE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c7e4aFxldzE",
+          "publishedOn": "2025-12-01T13:19:36.000Z",
+          "wordCount": null,
+          "title": "阿波の鳴門 　懐かしき街",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_6Z9Ok2jWig",
           "author": null,
           "description": "",
