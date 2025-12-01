@@ -146,6 +146,26 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_6Z9Ok2jWig",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_6Z9Ok2jWig",
+          "publishedOn": "2025-12-01T10:12:53.000Z",
+          "wordCount": null,
+          "title": "殻なら羽ばたけ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Kn1qh1VY0G4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Kn1qh1VY0G4",
+          "publishedOn": "2025-12-01T10:11:46.000Z",
+          "wordCount": null,
+          "title": "繋ぎ歌",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pBlVnZwIyRA",
           "author": null,
           "description": "",
