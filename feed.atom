@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-01T13:38:28.866Z</updated>
+    <updated>2025-12-01T13:56:04.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -576,16 +576,6 @@ Bヒーラー：ヒューズシンシア
         <summary type="html"><![CDATA[忙しく慌ただしかった10月ですが何とか乗り切りましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中間報告3]]></title>
-        <id>https://orientalrose4.blog.fc2.com/blog-entry-1003.html</id>
-        <link href="https://orientalrose4.blog.fc2.com/blog-entry-1003.html"/>
-        <updated>2025-11-02T01:51:49.000Z</updated>
-        <summary type="html"><![CDATA[更新が空いてしまってごめんなさい。進捗を書かせていただきます。めぃかさんの着彩はおまけ差分(👈)がほぼ終わり、本番(👉)を進行中です。本番の色はまだざっくりですけれど、黒いアーマードレスを予定しています。瞳も深紅。あとから赤い宝石の装身具を2、3か所つけて、背景も赤を基調にしたいです。三又槍も別レイヤーで作ってあるので、そちらは最後に添えます。おまけ絵はフレームなどをもう少し違う感じに変更するかもですが、]]></summary>
-        <author>
-            <name>アル・シェリ</name>
         </author>
     </entry>
     <entry>
