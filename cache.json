@@ -136,6 +136,16 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_boVDooZMlw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_boVDooZMlw",
+          "publishedOn": "2025-12-03T11:36:39.000Z",
+          "wordCount": null,
+          "title": "雪が降ったら",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=c7e4aFxldzE",
           "author": null,
           "description": "",
