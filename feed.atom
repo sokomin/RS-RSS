@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-04T15:29:37.491Z</updated>
+    <updated>2025-12-04T15:53:25.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2人のDrive]]></title>
+        <id>https://www.youtube.com/watch?v=Pj2PiIPB3fw</id>
+        <link href="https://www.youtube.com/watch?v=Pj2PiIPB3fw"/>
+        <updated>2025-12-04T15:41:53.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lv2000目前の姫を放置して何をやってんの？]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202512040000/</id>

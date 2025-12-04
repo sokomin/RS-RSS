@@ -136,6 +136,16 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Pj2PiIPB3fw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pj2PiIPB3fw",
+          "publishedOn": "2025-12-04T15:41:53.000Z",
+          "wordCount": null,
+          "title": "2人のDrive",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_boVDooZMlw",
           "author": null,
           "description": "",
