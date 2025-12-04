@@ -136,6 +136,16 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-55DF0Ln5Lk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-55DF0Ln5Lk",
+          "publishedOn": "2025-12-04T17:52:54.000Z",
+          "wordCount": null,
+          "title": "魂よ燃やせ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MwboC-9zr50",
           "author": null,
           "description": "",

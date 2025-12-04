@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-04T17:52:13.819Z</updated>
+    <updated>2025-12-04T18:39:39.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[魂よ燃やせ]]></title>
+        <id>https://www.youtube.com/watch?v=-55DF0Ln5Lk</id>
+        <link href="https://www.youtube.com/watch?v=-55DF0Ln5Lk"/>
+        <updated>2025-12-04T17:52:54.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旅行に行こうか！]]></title>
         <id>https://www.youtube.com/watch?v=MwboC-9zr50</id>
