@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-05T05:50:19.227Z</updated>
+    <updated>2025-12-05T06:38:31.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -612,16 +612,6 @@ Bヒーラー：ヒューズシンシア
         <summary type="html"><![CDATA[以前よりタビアクート(Lv1250精鋭)、スザルアンキール(Lv1500精鋭)の入場チケットが高騰しており、利益率が下がっている。S鯖だと27〜30本で取引されていて、スロット集中やゴミ超越の書が出たときのガッカリ感でモチベーションが保てない。おそらく同じ感覚の人は少なくない印象だけど、何故か入場チケットの高騰が止まらない。自分も含めて周囲もタビアクート討伐はスルーしている人が増えているのに、何故なんだろう・・・以前]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霊術の装備も変更しようかな]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202511060000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202511060000/"/>
-        <updated>2025-11-05T17:58:17.000Z</updated>
-        <summary type="html"><![CDATA[先日、姫の装備をいじって気付きました。フェーズストーン実装により、無理に魔法吸収頭を使わなくてもよいということに。そこで、冠を使うメリットの少ない物理キャラである霊術の装備を変更してみることに決め...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
