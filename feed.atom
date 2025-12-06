@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-06T13:30:20.391Z</updated>
+    <updated>2025-12-06T13:48:04.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[超越ドロップ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1381.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1381.html"/>
+        <updated>2025-12-06T13:31:55.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。超越の書、ゲットです。メインシーフ、1591Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キャノニア進捗②]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202512060001/</id>
