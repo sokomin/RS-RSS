@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-07T18:33:22.633Z</updated>
+    <updated>2025-12-07T18:51:56.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[タテリィスの心臓。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1382.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1382.html"/>
+        <updated>2025-12-07T17:19:34.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。SP図案書狙いです。武道家、1250精鋭報酬です。テイマ、1250精鋭報酬です。メインシーフ、1250精鋭報酬です。メインシーフ、1500精鋭報酬です。天使、1250精鋭報酬です。戦士、1250精鋭報酬です。姫、1250精鋭報酬です。キャノニア、1250精鋭報酬です。サブシーフ、1250精鋭報酬です。メインシーフ、1592Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キャノニア進捗③]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202512080000/</id>
