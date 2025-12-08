@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-08T11:48:25.498Z</updated>
+    <updated>2025-12-08T12:53:18.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[位相報酬。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1383.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1383.html"/>
+        <updated>2025-12-08T12:46:52.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。鏡チャレンジです。フロントラインをゲットです。結果です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タテリィスの心臓。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1382.html</id>
