@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-10T05:51:45.521Z</updated>
+    <updated>2025-12-10T06:40:13.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キャノニア進捗④]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202512100000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202512100000/"/>
+        <updated>2025-12-10T05:55:17.000Z</updated>
+        <summary type="html"><![CDATA[​ラストスパートけっこう頑張っています。位相兵でPT狩りさせてもらっていましたが、そろそろ仕事なのと経験値バフが切れてしまったので、深部で箱出し中ですｗ（泡放置しつつ仕事に行く準備中）今日の夕方に明日...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[こつこつと…。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1384.html</id>
