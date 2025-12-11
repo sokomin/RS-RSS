@@ -341,6 +341,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202512120000/",
+          "author": "雷神の弓",
+          "description": "11月27日メンテ後にレベル上げを開始して、12月11日メンテ前まで狩りをした結果です。開始時のレベルは1348くらいだったと思います。そこから2週間狩りを頑張りましたが、2週間ではLv2000に届きませんでした。み...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202512120000/",
+          "publishedOn": "2025-12-11T16:46:46.000Z",
+          "wordCount": 2316,
+          "title": "キャノニア進捗⑤",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/bc37e260a9479141a2494ed2fc40e24b87139837.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202512100000/",
           "author": "雷神の弓",
           "description": "​ラストスパートけっこう頑張っています。位相兵でPT狩りさせてもらっていましたが、そろそろ仕事なのと経験値バフが切れてしまったので、深部で箱出し中ですｗ（泡放置しつつ仕事に行く準備中）今日の夕方に明日...",
@@ -985,6 +995,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1386.html",
+          "author": "medaka1985",
+          "description": "こんばんは。アプデで追加されたエルシュカさんです。格安マジックバックは今回も健在です。チャレンジです。結果です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1386.html",
+          "publishedOn": "2025-12-11T16:21:07.000Z",
+          "wordCount": null,
+          "title": "エルシュカ。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1385.html",
           "author": "medaka1985",
