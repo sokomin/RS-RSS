@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-12T08:59:17.551Z</updated>
+    <updated>2025-12-12T09:33:48.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[めぃか様へ捧ぐ]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-1006.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-1006.html"/>
+        <updated>2025-12-12T08:36:55.000Z</updated>
+        <summary type="html"><![CDATA[本当に長い間お待たせしてしまい、申し訳ございませんでした。今回の企画に当選されました、めぃかさんのイメージ画がようやく、ようやく完成いたしました。※クリックで拡大表示されます職：ランサー（知識）性別：女髪の長さ：肩にかかるくらいのちょいロングくらい髪色：黒性格：おっとり天然その他：わがままで申し訳ないです…槍は三又希望です…！このようなオーダーをもとに描かせていただきました。めぃかさんのブログはいつ]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キャノニア進捗⑤]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202512120000/</id>
