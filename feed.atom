@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-12T07:01:08.019Z</updated>
+    <updated>2025-12-12T07:39:07.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -618,16 +618,6 @@
         <summary type="html"><![CDATA[こんにちは。9/16のランキングです。10/7のランキングです。昨日のランキングです(*'▽')。最近ゲーム熱が引いて、毎日更新出来なくて申し訳ないです。ミルの鱗関連が物理に効果的という事でログインボーナスから良いのが引けたらなぁと望んでいます。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霊術でヒペリオン倒せるか実験してみた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202511130000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202511130000/"/>
-        <updated>2025-11-12T19:16:34.000Z</updated>
-        <summary type="html"><![CDATA[​​自分の天使とペアPTを組んでヒペリオンを倒せるか試してみました。まずヒペリオンのいるフィールドに飛ぶ前に、天使はホリクロ改でバリアを張ってからサンクしておいて、飛んだら前に進んでタゲを取ります。（...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
