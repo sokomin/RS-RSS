@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-14T15:23:49.015Z</updated>
+    <updated>2025-12-14T15:47:44.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025年12月アップデート]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-934.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-934.html"/>
+        <updated>2025-12-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[親子共々風邪をこじらせたらしく喉の痛みと鼻水に苦しんでいます検査した結果インフルとコロナの反応は出ませんでしたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アイテムのかけら。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1389.html</id>
