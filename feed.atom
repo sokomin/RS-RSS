@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-14T12:49:01.709Z</updated>
+    <updated>2025-12-14T13:30:55.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アイテムのかけら。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1389.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1389.html"/>
+        <updated>2025-12-14T12:59:10.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ウポス秘密にて。懐かしのシステムです。メインシーフ、1597Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雪だるまの人形。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1388.html</id>
