@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T17:52:22.631Z</updated>
+    <updated>2025-12-17T18:39:55.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -749,16 +749,6 @@ www.youtube.com
         <updated>2025-11-18T08:42:49.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霊術で位相引率してみた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202511180000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202511180000/"/>
-        <updated>2025-11-18T06:05:07.000Z</updated>
-        <summary type="html"><![CDATA[引率するので気合を入れてミニPツインを復活させました。神霊ビスタとダブルドレープ付きヌウリのツインです。あと先日の記事でフェーズストーン10・10・10取ったと書きましたが、内容は↓こんな感じです。これで...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
