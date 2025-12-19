@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-19T22:50:11.847Z</updated>
+    <updated>2025-12-19T23:24:53.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -692,16 +692,6 @@ www.youtube.com
         <link href="https://medaka1985.fc2.net/blog-entry-1367.html"/>
         <updated>2025-11-22T14:15:51.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。レアアイテムゲットです。メインシーフ、1583Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[透明人間。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1366.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1366.html"/>
-        <updated>2025-11-20T10:55:16.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ふわぁぁぁ。やった(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
