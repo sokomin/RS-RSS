@@ -400,7 +400,18 @@
       "title": "のんびりまったり",
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1293.html",
+          "author": "クレリューフ",
+          "description": "夕飯終わった辺りから、ちょっと悪寒が・・・と感じたところ思った通りというか、微熱ですが発熱してました。という事で今日はログインせずにこのまま就寝予定。それはそれとしてRSじゃなくウマ娘なんだけどさっき22時10分にステイゴールド実装確認したらほんとに実装されてた。という事で、ナットさんウマ娘復帰おめでとう。問題は１週間くらい前に新衣装オグリが来たばかりなのに大して間もなくステゴまで来たという事・・・石が",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1293.html",
+          "publishedOn": "2025-12-21T14:18:16.000Z",
+          "wordCount": 662,
+          "title": "今のとこ微熱",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "今日のアリアン",
@@ -951,6 +962,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1396.html",
+          "author": "medaka1985",
+          "description": "こんばんは。初めて、HR引きました(*'▽')。レアアイテムドロップです。人間に出せる限界(説明文)。見えにくいですが、1605Lv突破です！いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1396.html",
+          "publishedOn": "2025-12-21T13:31:06.000Z",
+          "wordCount": null,
+          "title": "レイリーのレプリカ。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1395.html",
           "author": "medaka1985",
