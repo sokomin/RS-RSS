@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-23T03:45:35.412Z</updated>
+    <updated>2025-12-23T04:41:07.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -706,16 +706,6 @@ www.youtube.com
         <summary type="html"><![CDATA[こんばんは。メインシーフ1500精鋭報酬です。メインシーフ、1250精鋭報酬です。キャノニア、1250精鋭報酬です。サブのシーフ、1250精鋭報酬です。プリンセス、1250精鋭報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[体調不良]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-931.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-931.html"/>
-        <updated>2025-11-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[数年ぶりに風邪をひいたらしく鼻水が滝のように出てきますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
