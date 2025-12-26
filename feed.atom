@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-26T02:03:09.602Z</updated>
+    <updated>2025-12-26T03:42:39.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -706,16 +706,6 @@ www.youtube.com
         <summary type="html"><![CDATA[​​相変わらず無駄に色々な装備を作成しています。↑これは、Nx済で製錬10が60本だったので安いと思い買いました。OPは買ったときのままですが、4解放して変換してBFダブクリ付けて勇気注入は自分でやりました。次...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T忍耐ヒーロー。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1371.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1371.html"/>
-        <updated>2025-11-26T13:54:35.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。鏡に挑戦です。当たりです！鏡結果です↑いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
