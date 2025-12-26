@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-26T04:59:42.491Z</updated>
+    <updated>2025-12-26T05:32:46.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -696,16 +696,6 @@ www.youtube.com
         <summary type="html"><![CDATA[お待たせしております、ごめんなさい。どうしてもお顔がしっくりこなくて……その部分だけずっと修正していました。やっと定まりました。自分のどうしようもない「手癖」について真剣に考え直す、またとない機会になりました。これを放置していると予後がかなり悪くなっていたところです。当然先に仕上がったほうも、お顔だけ差し替えさせていただきます。あとはひたすら仕上げるのみ。次回こそは本当の「完成のお知らせ」になるよう]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近況報告です]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202511270000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202511270000/"/>
-        <updated>2025-11-26T17:06:49.000Z</updated>
-        <summary type="html"><![CDATA[​​相変わらず無駄に色々な装備を作成しています。↑これは、Nx済で製錬10が60本だったので安いと思い買いました。OPは買ったときのままですが、4解放して変換してBFダブクリ付けて勇気注入は自分でやりました。次...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
