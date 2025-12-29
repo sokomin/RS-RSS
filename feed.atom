@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-29T11:24:18.406Z</updated>
+    <updated>2025-12-29T11:48:50.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[超新星。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1404.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1404.html"/>
+        <updated>2025-12-29T11:46:05.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。高額購入です。位相報酬です。悟りの書、使用時です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[孤独な名誉なしの強打ビルド]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202512290000/</id>
