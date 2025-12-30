@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T07:51:35.749Z</updated>
+    <updated>2025-12-30T08:35:57.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025年もお世話になりました]]></title>
+        <id>kaze.gg-blog.com://entry/226</id>
+        <link href="http://kaze.gg-blog.com/wakuteka/2025%E5%B9%B4%E3%82%82%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F"/>
+        <updated>2025-12-30T08:08:22.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。
+
+
+めりーーーー
+
+
+最近はRSも特に何もしていないですが
+
+
+①たまに訪れるヤティカヌの読み分からない問題
+月の出 → つきので
+日の出 → ひので
+星降る → ほしふる
+微風 → びふう？そよかぜ？
+夜影 → やえい？よかげ？よるかげ？
+暁 → あかつき
+
+
+②闇商人捜索人数が多いときに限って野営地に出現する問題
+闇商人「ここじゃよ」
+
+
+③闇商人かくれんぼ問題
+ 
+ 
+
+
+闇商人いじわる問題
+ 
+
+
+
+ちぷまん観測日記
+
+
+アリ銀を焼き尽くすちぷまん
+
+
+こんな指あったんだ…
+
+
+唯一変化があったのは槍
+
+
+最終ダメが伸びて満足
+  
+
+
+クリチャの変換が無限に成功しないんですが
+
+
+ぼー君2000おめでとう！
+
+
+マキちゃん2000おめでとう！
+ 
+ 
+
+
+槍どこいった？
+
+
+これが新技のどじょうすくいです
+
+
+では2026年も風の詩。と風に吹かれてをよろしくお願いします]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超新星。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1404.html</id>
@@ -696,6 +771,16 @@ www.youtube.com
         <updated>2025-12-01T10:11:46.000Z</updated>
         <author>
             <name>ひさプッチ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[言い訳していいわけ？]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202512010000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202512010000/"/>
+        <updated>2025-12-01T01:41:29.000Z</updated>
+        <summary type="html"><![CDATA[​メイドで野良の位相PT(ヒペ）に入ったのですが、なんかめっちゃ弱かったんですよね・・。クールタイム有のスキルを使う職にタゲが行ってしまっていたのでとても哀しかったわけですが、終わった後にインベを開い...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
