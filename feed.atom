@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T03:47:08.624Z</updated>
+    <updated>2025-12-30T04:42:41.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -706,26 +706,6 @@ www.youtube.com
         <summary type="html"><![CDATA[メイドで野良の位相PTに入ったのですが、なんかめっちゃ弱かったんですよね・・。クールタイム有のスキルを使う職にタゲが行ってしまっていたのでとても哀しかったわけですが、終わった後にインベを開いてみたら...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地道に頑張っています]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-932.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-932.html"/>
-        <updated>2025-11-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日風邪をこじらせましたが今は調子も良くなりましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1375.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1375.html"/>
-        <updated>2025-11-30T14:42:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。超うれぴ。メインシーフ、1588Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
