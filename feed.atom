@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-31T06:40:40.369Z</updated>
+    <updated>2025-12-31T07:01:24.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】2025年やり残したこと]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1136.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1136.html"/>
+        <updated>2025-12-31T06:48:15.000Z</updated>
+        <summary type="html"><![CDATA[（１）2000精鋭ソロクリア毎週月曜22:30、ギルメンとPT組んで討伐している2000精鋭。22:00頃に眠くなってしまう爺にはキツイ時間帯、かつ色々忘れがちな月曜ということもあり、今週も忘れて寝てしまった。そういえば、まだソロクリアしたことないな？ということで、改めてソロチャレンジ。無事クリア（1回死んだ）装備は武装2か所、歪みLv5、ファルコンシールド指、他雨アチャ装備（怒り、恩寵）ギミックもワンパターンで柔らかい]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ログインイベント。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1405.html</id>
