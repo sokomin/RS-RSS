@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-31T21:48:47.181Z</updated>
+    <updated>2025-12-31T22:25:54.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -754,16 +754,6 @@ www.youtube.com
         <updated>2025-12-03T11:36:39.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鮮血の指輪。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1377.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1377.html"/>
-        <updated>2025-12-02T10:05:49.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。今までで1番の買い物です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
