@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-01T23:25:23.087Z</updated>
+    <updated>2026-01-01T23:49:40.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -765,15 +765,6 @@ www.youtube.com
         <summary type="html"><![CDATA[こんばんは。鏡に挑戦です。まだまだ！もう一回(/・ω・)/。ヽ(・ω・)/ｽﾞｺｰ。メインシーフ、1589Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雪が降ったら]]></title>
-        <id>https://www.youtube.com/watch?v=_boVDooZMlw</id>
-        <link href="https://www.youtube.com/watch?v=_boVDooZMlw"/>
-        <updated>2025-12-03T11:36:39.000Z</updated>
-        <author>
-            <name>ひさプッチ</name>
         </author>
     </entry>
     <entry>
