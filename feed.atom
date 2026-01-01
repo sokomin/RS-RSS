@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-01T14:51:37.221Z</updated>
+    <updated>2026-01-01T15:27:15.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】ライト勢なりの遊び方]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1138.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1138.html"/>
+        <updated>2026-01-01T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[考え方は人それぞれだが、自分はライト勢だと思っている。無課金の人からみれば重課金勢かもしれないが、自分的にはライトだと思っている。ジェフリー的指標は以下。・無課金勢GEMを買わないプレイヤー。SPや配布品を上手く活用して遊ぶスタイルで、ある意味RSを最も純粋に楽しんでいる人達かもしれない。・微課金勢毎月スフィアのみ購入するプレイヤー。人口は一番多いと推測。最近はデスペナが無くなるULTスフィアをキャンペーン]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】2026年の抱負]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1137.html</id>
