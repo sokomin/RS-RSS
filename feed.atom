@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-02T15:52:12.349Z</updated>
+    <updated>2026-01-02T16:32:12.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】意外と知らないこと10選]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1139.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1139.html"/>
+        <updated>2026-01-02T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[復帰者向け、意外と知らない便利なものや有用な機能を5つ紹介。(1)5次転生称号冒険家協会で取得出来る称号で、MAX5段階にすると種類によってはかなり便利な称号。個人的オススメは移動速度で、MAX20%は狩り攻城戦どちらにも有用。ペパミンがたくさん必要なので、レベリング時には拾う様にしよう。(2)混沌指の再調整回数リセット12/31記事にも書いたが、2OP目を削除すると再調整回数がリセット(5回になる)出来る。目当てのOPになる]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初鏡。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1407.html</id>
