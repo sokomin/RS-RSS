@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-01T23:49:40.350Z</updated>
+    <updated>2026-01-02T02:06:25.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HAPPY NEW YEAR]]></title>
+        <id>kaze.gg-blog.com://entry/227</id>
+        <link href="http://kaze.gg-blog.com/other/happy%20new%20year"/>
+        <updated>2026-01-02T01:22:02.000Z</updated>
+        <summary type="html"><![CDATA[あけましておめでとうございます。
+ 
+ 
+
+HAPPY NEW YEAR万能説
+
+
+大晦日まではクリスマスツリーだった噴水も
+ 
+
+年が明けたら元の噴水に！
+
+
+RED STONE公式Xでイベントしてるみたいです
+
+
+抱負がないのが抱負
+ 
+
+ギルメンのみんなはちゃんと抱負書いてた
+ 
+https://x.com/kaze_redstone
+
+Xも見てね！
+
+
+ではまた]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】ライト勢なりの遊び方]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1138.html</id>
@@ -755,16 +791,6 @@ www.youtube.com
         <summary type="html"><![CDATA[​11月27日のメンテ後にフェーズストーンキャンペーンがあったので、ついやってしまいました。↑これは、なかなか頑張ったんじゃないかと思います。どのキャラのフェーズストーンをやったかというと、そんなの言わ...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡に挑戦。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1378.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1378.html"/>
-        <updated>2025-12-03T12:56:29.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。鏡に挑戦です。まだまだ！もう一回(/・ω・)/。ヽ(・ω・)/ｽﾞｺｰ。メインシーフ、1589Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
