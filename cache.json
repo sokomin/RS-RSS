@@ -191,6 +191,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202601020000/",
+          "author": "雷神の弓",
+          "description": "まず、サブID（姫とキャノニアがいる）の潜在能力を上げました。拾った指を分解していたら8まで上がっていたので、そこからアウグスタのプログレスを大量に購入・分解して魔法限界のところまで上げました。ここか...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202601020000/",
+          "publishedOn": "2026-01-02T08:18:01.000Z",
+          "wordCount": 2319,
+          "title": "年末年始の活動",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/9d5f7a767d0b37ad76b3249abad62af8fbafc0c5.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202512290000/",
           "author": "雷神の弓",
           "description": "​​何度叫んでも１つも買えなかった強打クレストが一気に３個手に入りました！これにより当初考えていたビルドへの回帰が可能になりました。まず、補助武器をアルカナから↓へ変更します。表記の↑ダメは下がります...",
@@ -289,16 +299,6 @@
           "wordCount": 2314,
           "title": "キャノニア進捗①",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/b617ce4cace39885f528edb833a367a32d2543d2.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202512040000/",
-          "author": "雷神の弓",
-          "description": "​11月27日のメンテ後にフェーズストーンキャンペーンがあったので、ついやってしまいました。↑これは、なかなか頑張ったんじゃないかと思います。どのキャラのフェーズストーンをやったかというと、そんなの言わ...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202512040000/",
-          "publishedOn": "2025-12-03T20:14:30.000Z",
-          "wordCount": 2318,
-          "title": "Lv2000目前の姫を放置して何をやってんの？",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/602f95d36bdfc4b42dd1b562c63834bd8f70a32a.73.9.9.3.png"
         }
       ]
     },

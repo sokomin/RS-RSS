@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-02T07:50:45.920Z</updated>
+    <updated>2026-01-02T08:35:42.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[年末年始の活動]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202601020000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202601020000/"/>
+        <updated>2026-01-02T08:18:01.000Z</updated>
+        <summary type="html"><![CDATA[まず、サブID（姫とキャノニアがいる）の潜在能力を上げました。拾った指を分解していたら8まで上がっていたので、そこからアウグスタのプログレスを大量に購入・分解して魔法限界のところまで上げました。ここか...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HAPPY NEW YEAR]]></title>
         <id>kaze.gg-blog.com://entry/227</id>
@@ -781,16 +791,6 @@ www.youtube.com
         <updated>2025-12-04T15:41:53.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lv2000目前の姫を放置して何をやってんの？]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202512040000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202512040000/"/>
-        <updated>2025-12-03T20:14:30.000Z</updated>
-        <summary type="html"><![CDATA[​11月27日のメンテ後にフェーズストーンキャンペーンがあったので、ついやってしまいました。↑これは、なかなか頑張ったんじゃないかと思います。どのキャラのフェーズストーンをやったかというと、そんなの言わ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
