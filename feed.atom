@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-02T13:36:46.725Z</updated>
+    <updated>2026-01-02T13:53:48.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[初鏡。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1407.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1407.html"/>
+        <updated>2026-01-02T13:38:27.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。オッス！お願いしまーす！レプリカですΣ(･ω･ﾉ)ﾉ！。鏡の結果です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年末年始の活動]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202601020000/</id>
