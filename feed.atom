@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T18:35:01.315Z</updated>
+    <updated>2026-01-03T18:54:50.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[闘士の装備構成を変更しました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202601040000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202601040000/"/>
+        <updated>2026-01-03T18:54:04.000Z</updated>
+        <summary type="html"><![CDATA[福ぶくロトをやったので、クレストが変更になりました。強打率6％→強打率＆強打ダメ15％Dクレストに変更しました。これにより強打率が100％を大きく超えてしまったので、構成を変更することに決めました。まず、...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消滅の魔法書。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1408.html</id>
