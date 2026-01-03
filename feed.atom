@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T13:50:13.538Z</updated>
+    <updated>2026-01-03T14:23:38.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[消滅の魔法書。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1408.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1408.html"/>
+        <updated>2026-01-03T14:22:53.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。もう食べられないよぉ。もう1回！メインシーフ、1612Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新年です]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1294.html</id>
