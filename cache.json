@@ -144,26 +144,6 @@
           "wordCount": null,
           "title": "魂よ燃やせ",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MwboC-9zr50",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MwboC-9zr50",
-          "publishedOn": "2025-12-04T16:11:44.000Z",
-          "wordCount": null,
-          "title": "旅行に行こうか！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Pj2PiIPB3fw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pj2PiIPB3fw",
-          "publishedOn": "2025-12-04T15:41:53.000Z",
-          "wordCount": null,
-          "title": "2人のDrive",
-          "imageUrl": null
         }
       ]
     },
@@ -352,6 +332,16 @@
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
       "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1294.html",
+          "author": "クレリューフ",
+          "description": "明けましておめでとうございます、今年もよろしくお願いいたします。今年の更新頻度も去年同様だいぶ少ないと思うのでたま～に見に来るくらいでいいかと思います。参加したいと思うようなイベントも開催されませんしね。自分で開催するにしても時間調整含め、賞金とか賞品集めるのも厳しいですし。そもそも今のログイン時間が23時前後なんで開催するのが難しい・・・。まぁ、他の問題として昔と比べてかなり人が減ってるのもありま",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1294.html",
+          "publishedOn": "2026-01-03T03:40:29.000Z",
+          "wordCount": 663,
+          "title": "新年です",
+          "imageUrl": null
+        },
         {
           "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1293.html",
           "author": "クレリューフ",
@@ -1232,16 +1222,6 @@
           "wordCount": 1088,
           "title": "クリーチャー厳選。",
           "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medaka1985/20251205225956abe.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1379.html",
-          "author": "medaka1985",
-          "description": "こんばんは。アーチャー、位相報酬です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1379.html",
-          "publishedOn": "2025-12-04T15:44:52.000Z",
-          "wordCount": null,
-          "title": "位相チャレンジ。",
-          "imageUrl": null
         }
       ]
     },

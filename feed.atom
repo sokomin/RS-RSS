@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T03:37:12.414Z</updated>
+    <updated>2026-01-03T04:17:32.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新年です]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1294.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1294.html"/>
+        <updated>2026-01-03T03:40:29.000Z</updated>
+        <summary type="html"><![CDATA[明けましておめでとうございます、今年もよろしくお願いいたします。今年の更新頻度も去年同様だいぶ少ないと思うのでたま～に見に来るくらいでいいかと思います。参加したいと思うようなイベントも開催されませんしね。自分で開催するにしても時間調整含め、賞金とか賞品集めるのも厳しいですし。そもそも今のログイン時間が23時前後なんで開催するのが難しい・・・。まぁ、他の問題として昔と比べてかなり人が減ってるのもありま]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】意外と知らないこと10選]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1139.html</id>
@@ -781,34 +791,6 @@ www.youtube.com
         <id>https://www.youtube.com/watch?v=-55DF0Ln5Lk</id>
         <link href="https://www.youtube.com/watch?v=-55DF0Ln5Lk"/>
         <updated>2025-12-04T17:52:54.000Z</updated>
-        <author>
-            <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅行に行こうか！]]></title>
-        <id>https://www.youtube.com/watch?v=MwboC-9zr50</id>
-        <link href="https://www.youtube.com/watch?v=MwboC-9zr50"/>
-        <updated>2025-12-04T16:11:44.000Z</updated>
-        <author>
-            <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[位相チャレンジ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1379.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1379.html"/>
-        <updated>2025-12-04T15:44:52.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。アーチャー、位相報酬です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2人のDrive]]></title>
-        <id>https://www.youtube.com/watch?v=Pj2PiIPB3fw</id>
-        <link href="https://www.youtube.com/watch?v=Pj2PiIPB3fw"/>
-        <updated>2025-12-04T15:41:53.000Z</updated>
         <author>
             <name>ひさプッチ</name>
         </author>
