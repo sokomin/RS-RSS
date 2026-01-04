@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-04T04:04:19.112Z</updated>
+    <updated>2026-01-04T04:59:53.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -794,16 +794,6 @@ www.youtube.com
         <summary type="html"><![CDATA[​木曜日のメンテ前にLv1846だったキャノニアの進捗です。木曜日のメンテ後から金曜日までの狩りで↓こうなりました。経験値等倍でも1時間に2.5レベルくらい上がります。（パワキ有）1300台～1700台前半は、経験値...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリーチャー厳選。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1380.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1380.html"/>
-        <updated>2025-12-05T14:02:52.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。クリーチャー厳選です。1000万突破です(/・ω・)/。メインシーフ、1590Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
