@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-06T04:44:07.726Z</updated>
+    <updated>2026-01-06T05:30:09.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -752,16 +752,6 @@ www.youtube.com
         <link href="https://medaka1985.fc2.net/blog-entry-1383.html"/>
         <updated>2025-12-08T12:46:52.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。鏡チャレンジです。フロントラインをゲットです。結果です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タテリィスの心臓。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1382.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1382.html"/>
-        <updated>2025-12-07T17:19:34.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。SP図案書狙いです。武道家、1250精鋭報酬です。テイマ、1250精鋭報酬です。メインシーフ、1250精鋭報酬です。メインシーフ、1500精鋭報酬です。天使、1250精鋭報酬です。戦士、1250精鋭報酬です。姫、1250精鋭報酬です。キャノニア、1250精鋭報酬です。サブシーフ、1250精鋭報酬です。メインシーフ、1592Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
