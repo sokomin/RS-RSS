@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-07T02:06:13.703Z</updated>
+    <updated>2026-01-07T03:48:09.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -752,16 +752,6 @@ www.youtube.com
         <link href="https://medaka1985.fc2.net/blog-entry-1384.html"/>
         <updated>2025-12-09T13:17:15.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。過去最高の順位です(*'▽')。闇商人の箱(当たり)です。メインシーフ、1593Lv突入です(｀・ω・´)。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[位相報酬。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1383.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1383.html"/>
-        <updated>2025-12-08T12:46:52.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。鏡チャレンジです。フロントラインをゲットです。結果です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
