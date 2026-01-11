@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-11T15:25:44.873Z</updated>
+    <updated>2026-01-11T15:49:14.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仕事始め]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-938.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-938.html"/>
+        <updated>2026-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[正月休みが終わり仕事始めで疲れたと言う人も多いと思います私も年明けから休みが多かったせいかいざ出勤すると妙に疲れましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダブルクリティカル。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1415.html</id>
