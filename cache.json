@@ -851,21 +851,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/ffa3233741638287e3347abdc26e0077e8f87571/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20251213%2F20251213213748.png"
-        },
-        {
-          "id": "hatenablog://entry/17179246901332042398",
-          "author": null,
-          "description": "(´・ω・｀)\n \n　あと1か月経たずに2025年が終わってしまいますね。雪も降ってきて本格的に冬って感じです。\n　赤石では新しい位相のボスが実装されましたね。難易度が非常に高くクリアできるのも一部の強い職でしかも極めたくらいの人じゃないといけないというものになっております。自分も何種類かの職で行ってみましたがとてもじゃないですがクリアできそうにありませんでした。特にテイマーサマナーネクロはペット召喚獣たちを生存させるのがそもそも難しいです。\n　今回はそんな新位相ボス「深い静寂のエルシュカ」について少しだけ書いていこうかと思います。まだ実装して間もないので自分も情報全然集められてないですし、そもそも自分のキャラではエルシュカに対して弱すぎてどうにもできてませんが現時点で分かる範囲で書きます。\nエルシュカについて\n入場方法\nこれまで出された攻撃\nステラレイン\nスターライト・カスケード\nサマナー等で挑んでみて\nサマナー等でエルシュカと戦う上での問題点\nサマナーでのステラレインの対処法\nまとめ\nエルシュカについて\n入場方法\n　まずはどうやってエルシュカに挑むかですね。場所自体はヒペリオンと同じ場所から向かうことが出来ます。スフィアや風の羽がある人はガイドから位相征服者を選べば現地に飛べます。\n　その後ケルトルかイケルに今まで通り話しかけて位相ボスに挑もうとすると会話が始まり会話を終えると位相征服者を選択できるようになります。\n\n　エルシュカに行きたい場合はエルシュカをクリックするとヒペリオンと同じようなウインドウになり入場ボタンを押せばOKです。\nこれまで出された攻撃\n　出された攻撃と言っても自分は2種類しか見ることが出来ませんでした。どうもエルシュカのHPを減らすといろいろ攻撃方法が増えたり変わったりする感じのようですね。最初は1つの攻撃しかしてきませんでした。\nステラレイン\n…",
-          "link": "https://no55555.hatenablog.com/entry/2025/12/13/110000",
-          "publishedOn": "2025-12-13T02:00:00.000Z",
-          "wordCount": 370,
-          "title": "レッドストーン　エルシュカとテイマーサマナー",
-          "enclosure": {
-            "url": "https://cdn.image.st-hatena.com/image/scale/2ff1431aeb9c5f4e7c6b4ad48ea8b504d978a401/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20251213%2F20251213102607.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/2ff1431aeb9c5f4e7c6b4ad48ea8b504d978a401/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fno55555%2F20251213%2F20251213102607.png"
         }
       ]
     },
