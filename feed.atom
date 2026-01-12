@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-12T23:21:36.120Z</updated>
+    <updated>2026-01-12T23:48:22.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】運営放棄されたゲーム]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1140.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1140.html"/>
+        <updated>2026-01-12T23:35:09.000Z</updated>
+        <summary type="html"><![CDATA[S鯖以外でも無限エラーが発生しているらしい。S鯖では無限エラーに加え、MAP移動や精鋭討伐中等、処理負荷が瞬間的に高くなる際のクライアント強制終了(クラ落ち)の頻度も上がっている。特に、精鋭討伐や位相ボス(ヒペリオン等)、PTメンバが欠けることでクリアが不可能になるコンテンツにおいてクラ落ちは致命的で、まともにゲームが出来なくなってきているといっても過言ではない。コンテンツ毎にクライアントを再起動する人もい]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ホットタイム is it now.]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1416.html</id>
