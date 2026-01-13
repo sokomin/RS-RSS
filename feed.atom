@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-13T03:48:17.919Z</updated>
+    <updated>2026-01-13T04:45:17.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -664,26 +664,6 @@ www.youtube.com
         <link href="https://medaka1985.fc2.net/blog-entry-1390.html"/>
         <updated>2025-12-15T10:15:16.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。テイマー、1250精鋭報酬です。天使、1250精鋭報酬です。アーチャー、1250精鋭報酬です。武道家、1250精鋭報酬です。戦士、1250精鋭報酬です。キャノニア、1250精鋭報酬です。サブシーフ、1250精鋭報酬です。姫、1250精鋭報酬です。メインシーフ、1250精鋭報酬です。メインシーフ、1500精鋭報酬です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年12月アップデート]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-934.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-934.html"/>
-        <updated>2025-12-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[親子共々風邪をこじらせたらしく喉の痛みと鼻水に苦しんでいます検査した結果インフルとコロナの反応は出ませんでしたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アイテムのかけら。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1389.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1389.html"/>
-        <updated>2025-12-14T12:59:10.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ウポス秘密にて。懐かしのシステムです。メインシーフ、1597Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
