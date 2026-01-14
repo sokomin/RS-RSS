@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-14T19:01:20.296Z</updated>
+    <updated>2026-01-14T19:35:24.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[気分を変えて知識用の装備を作成してみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202601150000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202601150000/"/>
+        <updated>2026-01-14T19:33:58.000Z</updated>
+        <summary type="html"><![CDATA[最近は物理強打装備ばかり集めていたので、たまには知識用の装備を作ってみましたよ。というか、辛苦足素材が40本と安値で売っていたのを見つけたのが地獄の入口でした・・ｗ軽い気持ちで辛苦マナウォーカーを異...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[古都銀行。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1418.html</id>
