@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-14T11:51:11.385Z</updated>
+    <updated>2026-01-14T12:58:14.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[古都銀行。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1418.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1418.html"/>
+        <updated>2026-01-14T12:54:27.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。満点大笑いです。右クリックで出ます。60個は多いですね(/・ω・)/。古都銀行内にて(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[悪魔　装備公開]]></title>
         <id>https://plaza.rakuten.co.jp/karudxrs/diary/202601140000/</id>
