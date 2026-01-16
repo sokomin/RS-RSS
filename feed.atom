@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-16T03:48:59.124Z</updated>
+    <updated>2026-01-16T04:44:11.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】やること無くなってきた]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1141.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1141.html"/>
+        <updated>2026-01-16T03:18:36.000Z</updated>
+        <summary type="html"><![CDATA[Lv2000以降はレベリングする気が起きないため、Lv1500キャラを増やすレベリングを続けてはいるが、流石に飽きてきた。Lv1500精鋭の1250箱ドロ率がもう少し高ければモチベも上がるが、年に1個出るかどうかくらいじゃ話にならない。加えて、キレイなジョンマルコ持参の生霊の牢屋が旨すぎて(5レベル上がる)、レベリングというより闇商人で如何にキレイなジョンマルコを買うかどうかのゲームになっている。こうなってくると、月曜のヒ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超越の書、ドロップ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1419.html</id>
