@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-18T07:48:15.596Z</updated>
+    <updated>2026-01-18T08:33:07.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】無双戦士、ドラツイ戦士について（リクエスト回答）]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1142.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1142.html"/>
+        <updated>2026-01-18T07:52:15.000Z</updated>
+        <summary type="html"><![CDATA[リクエスト者の各種状況が不明なため、コラプ、コスチューム（クレスト）、ミニペットは不採用前提とする。ブログ主がほぼ触っていない、フェーズストーン、古龍は不採用前提とする。なお、Lv1500目標の場合、ドラツイ戦士をオススメする。(1)無双戦士過去「2024/03/23 Sat」にも記事にしているが、リクエストがあったため再度記事にする。＜前提＞・ハイブリッド職（物理ダメと知識ダメの両方を伸ばす職）である。＜方針＞・スタ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2人だけの花]]></title>
         <id>https://www.youtube.com/watch?v=NbqeGpuFdXc</id>
