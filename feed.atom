@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-18T17:22:44.806Z</updated>
+    <updated>2026-01-18T17:48:41.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[位相兵狩りの風景]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202601190000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202601190000/"/>
+        <updated>2026-01-18T17:42:32.000Z</updated>
+        <summary type="html"><![CDATA[こんな感じで、4万K率がかなり上がってきています。（全段4万ではない）どこの狩場か分かるＳＳも貼っておきます。ということで、最終狩場までやってきました。ただ、ここからはパワキなしのレベリングはかなり厳...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近況]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-939.html</id>
