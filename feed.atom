@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-19T02:18:59.561Z</updated>
+    <updated>2026-01-19T03:59:33.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -654,16 +654,6 @@ Xも見てね！
         <summary type="html"><![CDATA[Feast...]]></summary>
         <author>
             <name>marsborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白菜かけますね～。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1395.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1395.html"/>
-        <updated>2025-12-20T13:40:19.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。究極チケットです(/・ω・)/。OP変換は沼ですね(;´･ω･)。メインシーフ1600Lv到達！更に！そして…！応援ありがとうございます！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
