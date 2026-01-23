@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-23T11:51:56.185Z</updated>
+    <updated>2026-01-23T12:58:37.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スクラッチ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1426.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1426.html"/>
+        <updated>2026-01-23T12:08:25.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。10500GEMと交換です。パワキ狙いでしたが、結構良いのが出ました(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ノー レスト フォー ザ ウィケッド 2回目]]></title>
         <id>https://www.youtube.com/watch?v=it1SjYVPUxc</id>
