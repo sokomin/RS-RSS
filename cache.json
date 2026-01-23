@@ -136,6 +136,16 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=it1SjYVPUxc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=it1SjYVPUxc",
+          "publishedOn": "2026-01-23T04:38:57.000Z",
+          "wordCount": null,
+          "title": "ノー レスト フォー ザ ウィケッド 2回目",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wGYAccI3sLI",
           "author": null,
           "description": "",
