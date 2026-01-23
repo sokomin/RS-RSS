@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-23T02:07:36.544Z</updated>
+    <updated>2026-01-23T03:53:16.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -659,16 +659,6 @@ Xも見てね！
         <link href="https://medaka1985.fc2.net/blog-entry-1400.html"/>
         <updated>2025-12-25T16:26:48.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。オッス！お願いしまーす！結果は↓の方。秘密ダンジョンにて。No16は草。アーチャー、位相報酬です。キャノニア、位相報酬です。武道家、位相報酬です。戦士、位相報酬です。(＼(^o^)／。)…という夢を見ました。巨匠で取引可です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[癒しの宝箱。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1399.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1399.html"/>
-        <updated>2025-12-24T13:06:17.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。青い宝箱です。古龍システム、謎が多いです。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
