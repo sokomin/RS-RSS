@@ -464,16 +464,6 @@
           "wordCount": 588,
           "title": "【REDSTONE】2025年やり残したこと",
           "imageUrl": null
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1135.html",
-          "author": "JEFRY",
-          "description": "サーバー(設定)の脆弱性に振り回された1年だった印象。結局、サーバーは不安定なまま何も対策されず、モヤモヤした状態での年越しになりそう。長年飼い慣らされているせいか、MAP移動のローディングが長いのは許容できるようになった。だが、MAP移動時のサイレント落ち、無限エラー（タスクマネージャーから強制終了）は慣れない。慣れるはずがない！賑やかだったS鯖も、サーバー不安定になって以降、どんどん人気が減っている（マ",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1135.html",
-          "publishedOn": "2025-12-26T23:30:37.000Z",
-          "wordCount": 596,
-          "title": "【REDSTONE】2025年総括",
-          "imageUrl": null
         }
       ]
     },
@@ -936,6 +926,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1428.html",
+          "author": "medaka1985",
+          "description": "こんばんは。レア品ドロップです(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1428.html",
+          "publishedOn": "2026-01-25T11:31:53.000Z",
+          "wordCount": null,
+          "title": "ニムラスの髭。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1427.html",
           "author": "medaka1985",
