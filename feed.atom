@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-24T23:49:31.555Z</updated>
+    <updated>2026-01-25T02:25:07.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -680,16 +680,6 @@ Xも見てね！
         <summary type="html"><![CDATA[サーバー(設定)の脆弱性に振り回された1年だった印象。結局、サーバーは不安定なまま何も対策されず、モヤモヤした状態での年越しになりそう。長年飼い慣らされているせいか、MAP移動のローディングが長いのは許容できるようになった。だが、MAP移動時のサイレント落ち、無限エラー（タスクマネージャーから強制終了）は慣れない。慣れるはずがない！賑やかだったS鯖も、サーバー不安定になって以降、どんどん人気が減っている（マ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インフュージョンモジュール。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1401.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1401.html"/>
-        <updated>2025-12-26T13:05:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ｶﾜ(・∀・)ｲｲ!!。B鯖にて、ナイスな手です！1500UMU 錬成できるんですね。知識さん向けの様です(/・ω・)/。見た事の無いアイテムです(｀・ω・´)メインシーフ、1607Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
