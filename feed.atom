@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-25T19:24:19.065Z</updated>
+    <updated>2026-01-25T19:47:36.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[闘士の知恵を12801にしました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202601260000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202601260000/"/>
+        <updated>2026-01-25T19:28:53.000Z</updated>
+        <summary type="html"><![CDATA[期待していたスクラッチが来てくれたので、闘士のレベル上げ続行です。更に、やりたかった古龍キャンペーンも来たので↓を作りました。HRでも１パン狩りができていたので、無理にLRで作る必要はないと考えSRで変換...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周年イベント前夜祭]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-940.html</id>
