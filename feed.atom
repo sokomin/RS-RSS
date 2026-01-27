@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-27T04:53:00.052Z</updated>
+    <updated>2026-01-27T05:32:59.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -680,26 +680,6 @@ Xも見てね！
         <summary type="html"><![CDATA[​​何度叫んでも１つも買えなかった強打クレストが一気に３個手に入りました！これにより当初考えていたビルドへの回帰が可能になりました。まず、補助武器をアルカナから↓へ変更します。表記の↑ダメは下がります...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いつもの。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1403.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1403.html"/>
-        <updated>2025-12-28T16:37:21.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。キラキラコスチュームです。メインシーフ、1250精鋭報酬です。メインシーフ、1500精鋭報酬です。姫、1250精鋭報酬です。サブシーフ、1250精鋭報酬です。キャノニア、1250精鋭報酬です。武道家、1250精鋭報酬です。戦士、1250精鋭報酬です。テイマー、1250精鋭報酬です。アーチャー、1250精鋭報酬です。天使、1250精鋭報酬です。ご苦労様です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一年の締めくくり]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-936.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-936.html"/>
-        <updated>2025-12-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[クリスマスが過ぎるとあっという間に年の瀬です何だか日が過ぎるのが早く感じてしまいますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
