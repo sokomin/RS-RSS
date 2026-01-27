@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-27T17:03:27.890Z</updated>
+    <updated>2026-01-27T17:48:21.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[浮遊を付けてないジャンパーを活用する方法]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202601280000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202601280000/"/>
+        <updated>2026-01-27T17:13:40.000Z</updated>
+        <summary type="html"><![CDATA[デイリー討伐でガーダーベルトがドロップした時に思いつきました。これがあれば、魔法吸収が必要なマップでホバーを脱いで吸収リフレク装備のときでもジャンパーが活かせるんじゃね？さらに、位相狩場でも腰をガ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロトボックス。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1430.html</id>
