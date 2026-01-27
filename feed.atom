@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-27T05:55:22.448Z</updated>
+    <updated>2026-01-27T06:44:19.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お知らせ]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-1007.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-1007.html"/>
+        <updated>2026-01-27T06:06:08.000Z</updated>
+        <summary type="html"><![CDATA[ご挨拶が遅くなり、まことに申し訳ありません。イラストの進捗がストップしていて重ねて恐縮です。本日はお詫びと、近況を書かせていただきたく筆をとりました。なるべく見やすい記事になるよう現在推敲中(血液検査結果の数値画像なども添えられたらと、個人情報部分をモザイク中)なのですが、ざっくりとしたご報告を。手術した甲状腺の病気が再発(ちょっと違うけど)していることが、本日判明しました。ここ15年の間に少しずつ悪く]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1500UMU。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1429.html</id>

@@ -750,7 +750,18 @@
       "title": "赤石グラフィティ",
       "feedUrl": "https://orientalrose4.blog.fc2.com/?xml",
       "siteUrl": "https://orientalrose4.blog.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://orientalrose4.blog.fc2.com/blog-entry-1007.html",
+          "author": "アル・シェリ",
+          "description": "ご挨拶が遅くなり、まことに申し訳ありません。イラストの進捗がストップしていて重ねて恐縮です。本日はお詫びと、近況を書かせていただきたく筆をとりました。なるべく見やすい記事になるよう現在推敲中(血液検査結果の数値画像なども添えられたらと、個人情報部分をモザイク中)なのですが、ざっくりとしたご報告を。手術した甲状腺の病気が再発(ちょっと違うけど)していることが、本日判明しました。ここ15年の間に少しずつ悪く",
+          "link": "https://orientalrose4.blog.fc2.com/blog-entry-1007.html",
+          "publishedOn": "2026-01-27T06:06:08.000Z",
+          "wordCount": 878,
+          "title": "お知らせ",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "それいけ！NEO無課金同盟in橋頭鯖　リターンズ",
