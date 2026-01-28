@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-28T15:38:55.764Z</updated>
+    <updated>2026-01-28T16:03:42.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[古龍。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1431.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1431.html"/>
+        <updated>2026-01-28T15:17:06.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。悟りの書、使用時です。テイマー、位相報酬です。武道家、1250精鋭報酬です。キャノニア、1250精鋭報酬です。メインシーフ、1500精鋭報酬です。古龍システムについて装着はメインに1個、サブに6個付けられます。(サブのステータスUPは表記の1/10)古龍の←↑の数字を上げる作業です。数字が小さい程、上がる確率は増えます。(Rで5万G程、但し成功確率は85で0.6%程。尚、失敗しても壊れない。)Rで1つ、HRで2つ(SRで3つ、LR]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ノー レスト フォー ザ ウィケッド 3回目　ストーリを進めたい]]></title>
         <id>https://www.youtube.com/watch?v=4CHJn-Sg2_Q</id>
