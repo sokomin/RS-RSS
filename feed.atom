@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-30T19:04:05.344Z</updated>
+    <updated>2026-01-30T19:48:27.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lv2000に向けて闘士の最終調整を実施]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202601310000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202601310000/"/>
+        <updated>2026-01-30T19:41:32.000Z</updated>
+        <summary type="html"><![CDATA[まず、首を限界ダメ+最終ダメのシルバーメダルから↓に変更しました。節制のを消して恩寵のを付けましたが、たったこれだけで750本使いました＾＾；（2回失敗して3回目で成功　250本×3）この変更により知恵が12801...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[焼き肉定食。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1433.html</id>
