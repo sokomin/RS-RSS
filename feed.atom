@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-01T15:33:40.567Z</updated>
+    <updated>2026-02-01T15:55:11.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -754,16 +754,6 @@ PC前で笑ってました
         <summary type="html"><![CDATA[こんばんは。もう食べられないよぉ。もう1回！メインシーフ、1612Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新年です]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1294.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1294.html"/>
-        <updated>2026-01-03T03:40:29.000Z</updated>
-        <summary type="html"><![CDATA[明けましておめでとうございます、今年もよろしくお願いいたします。今年の更新頻度も去年同様だいぶ少ないと思うのでたま～に見に来るくらいでいいかと思います。参加したいと思うようなイベントも開催されませんしね。自分で開催するにしても時間調整含め、賞金とか賞品集めるのも厳しいですし。そもそも今のログイン時間が23時前後なんで開催するのが難しい・・・。まぁ、他の問題として昔と比べてかなり人が減ってるのもありま]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
     <entry>
