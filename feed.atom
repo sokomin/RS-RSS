@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-01T16:37:08.267Z</updated>
+    <updated>2026-02-01T16:59:55.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lv2000までカウントダウン]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202602020000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202602020000/"/>
+        <updated>2026-02-01T16:45:24.000Z</updated>
+        <summary type="html"><![CDATA[まず、クリーチャーパッシブを少しいじりました。上級攻撃力+経験値のクリーチャーを急遽作成しました。上級経験値をLv38にするより、上級経験値Lv18＋経験値Lv26の方が経験値だけを見ると優秀です。経験値を増や...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[対決　ヴェノムベッセル！！　【2000精鋭ボス討伐】]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-941.html</id>
