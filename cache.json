@@ -355,7 +355,18 @@
       "title": "風に吹かれて",
       "feedUrl": "http://kaze.gg-blog.com/RSS/",
       "siteUrl": "http://kaze.gg-blog.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "kaze.gg-blog.com://entry/228",
+          "author": null,
+          "description": "こんばんは。\n \n\nとはいえネタもないのでライトな記事で許してください\n\n\n(視線を感じる…)\n\n\n打ち上げられたカツオ\n\n\nやかましい！笑\n\n\nこの発言がいまだに意味不明！\n\n\nスチーム掃除…\n \n\nBFUとUMUを組み合わせたような名前のアイテム！\n風のおもむくままに",
+          "link": "http://kaze.gg-blog.com/wakuteka/%E7%A5%9E%E6%AE%BF%E3%81%A7",
+          "publishedOn": "2026-02-01T11:35:32.000Z",
+          "wordCount": 256,
+          "title": "神殿で",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "のんびりまったり",
