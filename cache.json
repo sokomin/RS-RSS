@@ -157,6 +157,16 @@
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pr-5VDZHTCo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pr-5VDZHTCo",
+          "publishedOn": "2026-02-02T14:12:07.000Z",
+          "wordCount": null,
+          "title": "奏で歌",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4CHJn-Sg2_Q",
           "author": null,
           "description": "",
