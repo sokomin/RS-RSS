@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-05T17:31:36.017Z</updated>
+    <updated>2026-02-05T18:30:06.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[雀魂を久しぶりにやってみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202602060000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202602060000/"/>
+        <updated>2026-02-05T18:08:24.000Z</updated>
+        <summary type="html"><![CDATA[ここ20半荘でラス0回、トップ10回となかなか好調だったので、雀豪２に上がることができました。トータルの戦績は↓こんな感じです。放銃率が高くてタコっぽいですが、金賭けてないから仕方ないですよね（笑実戦だ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[位相報告。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1440.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1440.html"/>
+        <updated>2026-02-05T16:03:57.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。武道家、位相報酬です。戦士、位相報酬です。姫、位相報酬です。キャノニア、位相報酬です。サブシーフ2、位相報酬です。メインシーフ、1633Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ラストー]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1300.html</id>

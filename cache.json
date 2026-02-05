@@ -242,6 +242,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202602060000/",
+          "author": "雷神の弓",
+          "description": "ここ20半荘でラス0回、トップ10回となかなか好調だったので、雀豪２に上がることができました。トータルの戦績は↓こんな感じです。放銃率が高くてタコっぽいですが、金賭けてないから仕方ないですよね（笑実戦だ...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202602060000/",
+          "publishedOn": "2026-02-05T18:08:24.000Z",
+          "wordCount": 2311,
+          "title": "雀魂を久しぶりにやってみた",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/08c194bd2aa0345da1f83bfb49fccb37f9bf6281.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202602030000/",
           "author": "雷神の弓",
           "description": "2000マップ入場クエの前提クエ中にLv2000達成しました。レベル上げが楽だったので、前回の記事でも言いましたが特に感想等はありませんｗこれでLv2000キャラは3体目となりました。（メインIDでは2体目）サブIDにL...",
@@ -968,6 +978,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1440.html",
+          "author": "medaka1985",
+          "description": "こんばんは。武道家、位相報酬です。戦士、位相報酬です。姫、位相報酬です。キャノニア、位相報酬です。サブシーフ2、位相報酬です。メインシーフ、1633Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1440.html",
+          "publishedOn": "2026-02-05T16:03:57.000Z",
+          "wordCount": null,
+          "title": "位相報告。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1439.html",
           "author": "medaka1985",
