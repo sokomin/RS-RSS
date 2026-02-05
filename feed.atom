@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-05T23:01:53.351Z</updated>
+    <updated>2026-02-05T23:44:17.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】無課金プレイを快適にするには？]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1146.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1146.html"/>
+        <updated>2026-02-05T23:02:15.000Z</updated>
+        <summary type="html"><![CDATA[無課金プレイにも大分慣れてきた。MAP移動時の無限エラー、クライアント強制終了、長いローディングが直っても（直りそうにないが）、このまま無課金でも良いかな？とさえ思えてきた。無課金プレイで最も不便さを感じるのは「Guideが使えないこと」。風の羽を1枚消費すれば使えるが、風の羽はログキャンやイベントでしか入手出来ないため、気軽に使えない。昨年の金鯖の高速絨毯、周年記念イベントの絨毯を入手している人はまだマ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雀魂を久しぶりにやってみた]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202602060000/</id>
