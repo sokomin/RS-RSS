@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-04T23:57:30.904Z</updated>
+    <updated>2026-02-05T02:48:15.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -771,16 +771,6 @@ PC前で笑ってました
         <link href="https://medaka1985.fc2.net/blog-entry-1412.html"/>
         <updated>2026-01-07T15:43:00.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。当たりですΣ(･ω･ﾉ)ﾉ！メインシーフ、1615Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[決闘場(PvP戦績)。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1411.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1411.html"/>
-        <updated>2026-01-06T13:59:07.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。全部 戦績：876÷(876＋453)×100=65.91%PvPランキングです。メインシーフ、位相報酬です。天使、位相報酬です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
