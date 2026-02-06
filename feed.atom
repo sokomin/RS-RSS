@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-06T02:34:58.714Z</updated>
+    <updated>2026-02-06T04:27:47.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -803,16 +803,6 @@ PC前で笑ってました
         <summary type="html"><![CDATA[↑これを作成しました！なに浮遊が付いてないって？異次元前提なら、サブに1250箱買ってまで付けようと思わんだろう。え？力比がLv1なのが貧乏くさいって？他に付けたいOPがないなら、とりあえず物理なんだから力...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闇商人の宝箱。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1412.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1412.html"/>
-        <updated>2026-01-07T15:43:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。当たりですΣ(･ω･ﾉ)ﾉ！メインシーフ、1615Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
