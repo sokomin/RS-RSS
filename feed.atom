@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-07T04:20:28.173Z</updated>
+    <updated>2026-02-07T05:14:31.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -781,16 +781,6 @@ PC前で笑ってました
         <link href="https://medaka1985.fc2.net/blog-entry-1414.html"/>
         <updated>2026-01-09T14:49:31.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。ウポス秘密から旧T品ゲットです。オッス！お願いしまーす！頭、行きますよー！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[混沌の魔法書。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1413.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1413.html"/>
-        <updated>2026-01-08T13:56:40.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。混沌の欠片、交換所です(増えてるような)。サブ2のシーフ、1250精鋭報酬です。サブ2シーフの誕生です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
