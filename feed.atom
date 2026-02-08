@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-08T14:59:40.912Z</updated>
+    <updated>2026-02-08T15:35:55.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[まるで同窓会]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-942.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-942.html"/>
+        <updated>2026-02-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日選挙がありましたので行ってきましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特殊アイテム獲得。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1442.html</id>
