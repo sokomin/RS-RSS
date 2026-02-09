@@ -447,6 +447,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1148.html",
+          "author": "JEFRY",
+          "description": "最近、復帰者に「デリダリチュートリアル後はどこで狩れば良いですか？」と質問を受けることが増えている。毎度、ギルチャ等で説明するのも大変なので、誘導用のテンプレを書いておく。チュートリアル後は基本的にヤティカヌで狩ることをオススメする。理由は金策に優れているため(オーラから妖精のかけらがドロップするため)妖精かけら(精鋭討伐チケット)は30〜40本で取引されており、オーラ解放時に約10%の確率で入手でき、運が",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1148.html",
+          "publishedOn": "2026-02-09T02:09:00.000Z",
+          "wordCount": 604,
+          "title": "【REDSTONE】(新規・復帰者向け)デリダリチュートリアル後の狩りはどうするの？",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1147.html",
           "author": "JEFRY",
           "description": "闇商人からポータルスフィア1日版が買えたので、サボっていたメイドと霊術のウポスマイヤー入場クエストをやることにした。AIに聞いてみると、入場クエストは以下3つであることが判明。便利な世の中になったな。※クエスト攻略は「まとめぶ」さんをリンクさせてもらった(「KHBの部屋」で探せなかった)「ある異邦人」https://rs-matomebu.com/quest/ihoujin/連鎖クエストになっているが「1. ある異邦人」だけでOK。ただし、経験値が",
@@ -1277,16 +1287,6 @@
           "wordCount": 1099,
           "title": "ホットタイム is it now.",
           "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medaka1985/2026011222110813f.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1415.html",
-          "author": "medaka1985",
-          "description": "こんばんは。鏡、購入です。オッス！お願いしまーす！( ；∀；)。ダメージが伸びました！(唐突)いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1415.html",
-          "publishedOn": "2026-01-10T15:32:30.000Z",
-          "wordCount": null,
-          "title": "ダブルクリティカル。",
-          "imageUrl": null
         }
       ]
     },

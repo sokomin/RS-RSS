@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-09T02:43:21.809Z</updated>
+    <updated>2026-02-09T05:05:20.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】(新規・復帰者向け)デリダリチュートリアル後の狩りはどうするの？]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1148.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1148.html"/>
+        <updated>2026-02-09T02:09:00.000Z</updated>
+        <summary type="html"><![CDATA[最近、復帰者に「デリダリチュートリアル後はどこで狩れば良いですか？」と質問を受けることが増えている。毎度、ギルチャ等で説明するのも大変なので、誘導用のテンプレを書いておく。チュートリアル後は基本的にヤティカヌで狩ることをオススメする。理由は金策に優れているため(オーラから妖精のかけらがドロップするため)妖精かけら(精鋭討伐チケット)は30〜40本で取引されており、オーラ解放時に約10%の確率で入手でき、運が]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精鋭報告。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1443.html</id>
@@ -813,16 +823,6 @@ PC前で笑ってました
         <summary type="html"><![CDATA[正月休みが終わり仕事始めで疲れたと言う人も多いと思います私も年明けから休みが多かったせいかいざ出勤すると妙に疲れましたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダブルクリティカル。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1415.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1415.html"/>
-        <updated>2026-01-10T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。鏡、購入です。オッス！お願いしまーす！( ；∀；)。ダメージが伸びました！(唐突)いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
