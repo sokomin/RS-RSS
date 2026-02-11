@@ -535,16 +535,6 @@
           "wordCount": 590,
           "title": "【REDSTONE】やること無くなってきた",
           "imageUrl": null
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1140.html",
-          "author": "JEFRY",
-          "description": "S鯖以外でも無限エラーが発生しているらしい。S鯖では無限エラーに加え、MAP移動や精鋭討伐中等、処理負荷が瞬間的に高くなる際のクライアント強制終了(クラ落ち)の頻度も上がっている。特に、精鋭討伐や位相ボス(ヒペリオン等)、PTメンバが欠けることでクリアが不可能になるコンテンツにおいてクラ落ちは致命的で、まともにゲームが出来なくなってきているといっても過言ではない。コンテンツ毎にクライアントを再起動する人もい",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1140.html",
-          "publishedOn": "2026-01-12T23:35:09.000Z",
-          "wordCount": 590,
-          "title": "【REDSTONE】運営放棄されたゲーム",
-          "imageUrl": null
         }
       ]
     },
@@ -1018,6 +1008,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1445.html",
+          "author": "medaka1985",
+          "description": "こんばんは。800DXUドロップです。ログインコンプです(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1445.html",
+          "publishedOn": "2026-02-11T09:56:37.000Z",
+          "wordCount": null,
+          "title": "21周年前夜祭。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1444.html",
           "author": "medaka1985",
