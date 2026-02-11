@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-10T23:56:23.021Z</updated>
+    <updated>2026-02-11T02:53:31.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -823,16 +823,6 @@ PC前で笑ってました
         <summary type="html"><![CDATA[S鯖以外でも無限エラーが発生しているらしい。S鯖では無限エラーに加え、MAP移動や精鋭討伐中等、処理負荷が瞬間的に高くなる際のクライアント強制終了(クラ落ち)の頻度も上がっている。特に、精鋭討伐や位相ボス(ヒペリオン等)、PTメンバが欠けることでクリアが不可能になるコンテンツにおいてクラ落ちは致命的で、まともにゲームが出来なくなってきているといっても過言ではない。コンテンツ毎にクライアントを再起動する人もい]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホットタイム is it now.]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1416.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1416.html"/>
-        <updated>2026-01-12T13:16:26.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。天使、1250精鋭報酬です。サブシーフ、1250精鋭報酬です。サブ2シーフ、1250精鋭報酬です。武道家、1250精鋭報酬です。メインシーフ、位相報酬です。メインシーフ、1618Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
