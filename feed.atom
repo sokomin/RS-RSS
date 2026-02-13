@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-13T07:29:19.774Z</updated>
+    <updated>2026-02-13T08:25:19.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -801,26 +801,6 @@ PC前で笑ってました
         <link href="https://medaka1985.fc2.net/blog-entry-1419.html"/>
         <updated>2026-01-15T16:37:23.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。超越の書は音が大きいです(笑)テイマ、位相報酬です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[気分を変えて知識用の装備を作成してみた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202601150000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202601150000/"/>
-        <updated>2026-01-14T19:33:58.000Z</updated>
-        <summary type="html"><![CDATA[最近は物理強打装備ばかり集めていたので、たまには知識用の装備を作ってみましたよ。というか、辛苦足素材が40本と安値で売っていたのを見つけたのが地獄の入口でした・・ｗ軽い気持ちで辛苦マナウォーカーを異...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古都銀行。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1418.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1418.html"/>
-        <updated>2026-01-14T12:54:27.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。満点大笑いです。右クリックで出ます。60個は多いですね(/・ω・)/。古都銀行内にて(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
