@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-14T13:56:15.918Z</updated>
+    <updated>2026-02-14T14:33:49.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鏡の時間。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1447.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1447.html"/>
+        <updated>2026-02-14T14:18:41.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。可愛いモニカ…(謎)やったぜ。メインシーフ、1637Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウポスマイヤー入場前提クエストについて]]></title>
         <id>hatenablog://entry/17179246901354502616</id>
