@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-15T17:02:14.711Z</updated>
+    <updated>2026-02-15T17:46:31.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週一のお楽しみ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1448.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1448.html"/>
+        <updated>2026-02-15T17:02:27.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。メインシーフ、1500精鋭報酬です。メインシーフ、1250精鋭報酬です。サブシーフ3、1250精鋭報酬です。武道家、1250精鋭報酬です。天使、1250精鋭報酬です。戦士、1250精鋭報酬です。アーチャー、1250精鋭報酬です。姫、1250精鋭報酬です。テイマ、1250精鋭報酬です。キャノニア、1250精鋭報酬です。サブシーフ2、1250精鋭報酬です。メインシーフ、1640突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白異界でやっと良OP引けたよ]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202602160000/</id>
