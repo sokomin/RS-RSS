@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-15T20:57:33.074Z</updated>
+    <updated>2026-02-15T21:33:34.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -853,16 +853,6 @@ PC前で笑ってました
         <summary type="html"><![CDATA[こんばんは。思い切って購入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Through the Burning Throne]]></title>
-        <id>https://intothe.info/?p=3297</id>
-        <link href="https://intothe.info/wow/through-the-burning-throne/"/>
-        <updated>2026-01-17T09:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Legion...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>
