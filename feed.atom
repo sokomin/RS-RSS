@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-16T09:35:04.774Z</updated>
+    <updated>2026-02-16T10:32:34.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[久々に書きたくなったんで]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1301.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1301.html"/>
+        <updated>2026-02-16T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[アル「お姉ちゃん、ほんとにいいのー？」クレ「こればかりはどうしようもないわ・・・全く、何の嫌がらせなのだか」アル「そだねー・・・シロもこんな事になると思ってなかったもんねー・・・」クレ「仕方ないけれど今後はアルと行動を共にしてもらう事になるわね」クレ「とはいえ帰ってくる家はあるのだし、今生の別れというわけではないけれども」アル「一緒に行く人がお姉ちゃんから私に変わったくらいだしねー」クレ「そうね」]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週一のお楽しみ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1448.html</id>
