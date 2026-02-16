@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-16T02:55:33.142Z</updated>
+    <updated>2026-02-16T05:04:08.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -833,16 +833,6 @@ PC前で笑ってました
         <updated>2026-01-17T23:34:34.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闘士の装備・クリーチャーの進捗]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202601180000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202601180000/"/>
-        <updated>2026-01-17T15:02:41.000Z</updated>
-        <summary type="html"><![CDATA[まず、闘士の装備の外観です。見た目を良くしたくて、耳と足の製錬を10に上げました。（鎧はベースがｱﾚなんで製錬8のままでいいかなｗ）次に、闘士のクリーチャーパッシブです。やっと上級物理強打ダメージがLv50...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
