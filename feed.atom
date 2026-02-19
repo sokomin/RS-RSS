@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T15:55:12.994Z</updated>
+    <updated>2026-02-19T17:00:09.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -824,16 +824,6 @@ PC前で笑ってました
         <updated>2026-01-21T06:34:50.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム全般】積みゲーやっていく]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1143.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1143.html"/>
-        <updated>2026-01-21T03:37:45.000Z</updated>
-        <summary type="html"><![CDATA[運営放棄されたRSばかりやっていてもストレスが溜まるので、ヒペリオンや精鋭討伐をやる月曜火曜以外は積みゲーをやっていこうと思う。※土曜夜の攻城戦やHTは気が向いたらやる感じ。積みゲーは以下3つ。①HADES(ハデス)②Grim Dawn(グリムドーン)③Core Keeper(コアキーパー)どれもSteamのセールで購入したり基本無料だったりするので、やらなきゃもったいない！というものでもない。だから今まで放置していた、とも言える。※数百円、]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
