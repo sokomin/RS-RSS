@@ -164,16 +164,6 @@
           "wordCount": null,
           "title": "ノー レスト フォー ザ ウィケッド 2回目",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wGYAccI3sLI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wGYAccI3sLI",
-          "publishedOn": "2026-01-22T04:18:16.000Z",
-          "wordCount": null,
-          "title": "ノー レスト フォー ザ ウィケッド",
-          "imageUrl": null
         }
       ]
     },
@@ -982,6 +972,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1452.html",
+          "author": "medaka1985",
+          "description": "こんばんは。記念クリーチャーです。武装＋次元の歪みでクリアです！報酬エフェクトです。高額買取もやってます。応援、ありがとう(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1452.html",
+          "publishedOn": "2026-02-20T16:36:48.000Z",
+          "wordCount": null,
+          "title": "獅子舞コクーン。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1451.html",
           "author": "medaka1985",
