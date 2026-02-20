@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T04:27:28.871Z</updated>
+    <updated>2026-02-20T05:41:02.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[闘士の今後について]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202602200000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202602200000/"/>
+        <updated>2026-02-20T05:13:01.000Z</updated>
+        <summary type="html"><![CDATA[アプデの結果、闘士の火力は約7割減少したと思われます。アプデ前は、位相兵１パンでした。（稀に5匹中１匹生き残っていた）アプデ後は、位相兵4パンとなりました。（3パンで5匹中1～2匹は倒せる）アプデ前の火力...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】21周年イベントまとめ]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1151.html</id>
@@ -777,6 +787,15 @@ PC前で笑ってました
         <summary type="html"><![CDATA[こんばんは。宝箱の中身がユニークです。メインシーフ、1624Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ノー レスト フォー ザ ウィケッド]]></title>
+        <id>https://www.youtube.com/watch?v=wGYAccI3sLI</id>
+        <link href="https://www.youtube.com/watch?v=wGYAccI3sLI"/>
+        <updated>2026-01-22T04:18:16.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
         </author>
     </entry>
     <entry>

@@ -166,6 +166,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=wGYAccI3sLI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wGYAccI3sLI",
+          "publishedOn": "2026-01-22T04:18:16.000Z",
+          "wordCount": null,
+          "title": "ノー レスト フォー ザ ウィケッド",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6uw641WVmdY",
           "author": null,
           "description": "",
@@ -210,6 +220,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202602200000/",
+          "author": "雷神の弓",
+          "description": "アプデの結果、闘士の火力は約7割減少したと思われます。アプデ前は、位相兵１パンでした。（稀に5匹中１匹生き残っていた）アプデ後は、位相兵4パンとなりました。（3パンで5匹中1～2匹は倒せる）アプデ前の火力...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202602200000/",
+          "publishedOn": "2026-02-20T05:13:01.000Z",
+          "wordCount": 2320,
+          "title": "闘士の今後について",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/0f6a9f08498bdcf5c727a157db2f248fab12857c.73.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202602160000/",
           "author": "雷神の弓",
