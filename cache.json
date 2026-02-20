@@ -166,6 +166,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=6uw641WVmdY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6uw641WVmdY",
+          "publishedOn": "2026-01-22T00:57:27.000Z",
+          "wordCount": null,
+          "title": "Dungeon Antiqua 2  パート２",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DxKz1Vz9eSM",
           "author": null,
           "description": "",
@@ -173,16 +183,6 @@
           "publishedOn": "2026-01-21T20:33:07.000Z",
           "wordCount": null,
           "title": "Dungeon Antiqua 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wGYAccI3sLI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wGYAccI3sLI",
-          "publishedOn": "2026-01-21T12:32:20.000Z",
-          "wordCount": null,
-          "title": "ノー レスト フォー ザ ウィケッド",
           "imageUrl": null
         }
       ]
