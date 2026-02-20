@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T11:36:58.051Z</updated>
+    <updated>2026-02-20T11:59:29.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】21周年イベントやるべきこと]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1152.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1152.html"/>
+        <updated>2026-02-20T10:57:16.000Z</updated>
+        <summary type="html"><![CDATA[いろいろ来てるけど、やっておくべきなのは以下の青枠の3つくらい(ログキャンとか21周年関係でないものは除く)・オーラ収集入口が分かり辛いので見逃し注意。・21GEMキャンペーン買っておくべきは以下の9個。ただし、サービスポイントが足りなければ、上から順に買えるだけ買おう。銀行の貸金庫利用券[7日間]悟りの書俊足のバッジミニステータス再配分巻物ミニスキル再配分巻物完全復活巻物装備帝王バッジあふれる冒険心のバッジ[1]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重要欄更新]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1302.html</id>
