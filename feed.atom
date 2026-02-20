@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T08:54:13.622Z</updated>
+    <updated>2026-02-20T09:49:31.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重要欄更新]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1302.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1302.html"/>
+        <updated>2026-02-20T09:18:18.000Z</updated>
+        <summary type="html"><![CDATA[←の重要欄のリンク更新しておきました。クリックで昨日19日のアップデートページに飛びます。ついでにL&Kに移管してからのものになりますがこれまでのアップデートページにも飛べるリンクページを新しく作って置いておくほうがいいですかねぇ。あればこれまでのアップデートの確認はしやすくはなりでしょうし。ゲームオンとGOP運営時のはどうしようもないですが・・・。そんなわけで、過去アップデートに関してもカテゴリに増やし]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[闘士の今後について]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202602200000/</id>
