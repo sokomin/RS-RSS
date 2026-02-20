@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T23:01:07.769Z</updated>
+    <updated>2026-02-20T23:46:14.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -797,26 +797,6 @@ PC前で笑ってました
         <updated>2026-01-23T04:38:57.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハートピアスローライフ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1425.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1425.html"/>
-        <updated>2026-01-22T11:16:26.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。最近、ちょこちょこやっている無料ゲームです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宝箱。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1424.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1424.html"/>
-        <updated>2026-01-22T10:55:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。宝箱の中身がユニークです。メインシーフ、1624Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
