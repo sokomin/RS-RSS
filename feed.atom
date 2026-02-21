@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-21T05:58:45.627Z</updated>
+    <updated>2026-02-21T06:56:12.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -64,6 +64,16 @@
         <summary type="html"><![CDATA[こんばんは。21周年イベント開始です。ガリオン、チャレンジモード。超強いです(笑)。21周年指輪が作れるみたいです。ガリオンHPバー(初級)です。メインシーフ、1641Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2月新規アップデート]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1315.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1315.html"/>
+        <updated>2026-02-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年2月19日アップデートページはこちら→　◎新規イベントボス「ガリオン」のご案内 詳細→　◎「オムニスキル初期化機能」のアップデート「フェーズストーン」新規オプション追加のご案内アサルトチャレンジ順位報酬変更のご案内フィールドグラフィックの3次改善]]></summary>
+        <author>
+            <name>クレリューフ</name>
         </author>
     </entry>
     <entry>
