@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-22T02:41:27.769Z</updated>
+    <updated>2026-02-22T04:53:39.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Home Sweet Home]]></title>
+        <id>https://intothe.info/?p=3260</id>
+        <link href="https://intothe.info/wow/home-sweet-home/"/>
+        <updated>2026-02-22T03:22:50.000Z</updated>
+        <summary type="html"><![CDATA[前年の12/2からWoW...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[攻城戦。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1453.html</id>
