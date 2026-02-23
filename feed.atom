@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-22T23:56:11.474Z</updated>
+    <updated>2026-02-23T02:49:49.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -816,16 +816,6 @@ PC前で笑ってました
         <link href="https://medaka1985.fc2.net/blog-entry-1428.html"/>
         <updated>2026-01-25T11:31:53.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。レア品ドロップです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レベルアップ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1427.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1427.html"/>
-        <updated>2026-01-24T12:51:28.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインシーフ、1625Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
