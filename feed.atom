@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-23T17:04:58.849Z</updated>
+    <updated>2026-02-23T18:14:31.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鏡タイム。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1455.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1455.html"/>
+        <updated>2026-02-23T15:56:37.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。鏡チャレンジの時間です。あるぇー (・3・)。もー一回！メインシーフ、1250精鋭報酬です。メインシーフ、1500精鋭報酬です。サブシーフ3、1250精鋭報酬です。武道家、1250精鋭報酬です。天使、1250精鋭報酬です。メインシーフ、1651Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21周年イベントの始まり]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-944.html</id>
