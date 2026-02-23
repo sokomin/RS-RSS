@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-23T23:20:11.518Z</updated>
+    <updated>2026-02-23T23:50:50.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -818,16 +818,6 @@ PC前で笑ってました
         <summary type="html"><![CDATA[大寒波のせいで大雪に悩まされている地域もあるようです私の地域は先日雪がちらついた程度でしたが天候には今後も注意が必要ですねこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ニムラスの髭。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1428.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1428.html"/>
-        <updated>2026-01-25T11:31:53.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。レア品ドロップです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
