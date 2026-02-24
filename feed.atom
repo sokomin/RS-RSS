@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-24T02:38:56.711Z</updated>
+    <updated>2026-02-24T04:31:40.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -808,16 +808,6 @@ PC前で笑ってました
         <summary type="html"><![CDATA[期待していたスクラッチが来てくれたので、闘士のレベル上げ続行です。更に、やりたかった古龍キャンペーンも来たので↓を作りました。HRでも１パン狩りができていたので、無理にLRで作る必要はないと考えSRで変換...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周年イベント前夜祭]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-940.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-940.html"/>
-        <updated>2026-01-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[大寒波のせいで大雪に悩まされている地域もあるようです私の地域は先日雪がちらついた程度でしたが天候には今後も注意が必要ですねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
