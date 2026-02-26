@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-26T04:29:35.124Z</updated>
+    <updated>2026-02-26T05:44:44.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -644,16 +644,6 @@ BFUとUMUを組み合わせたような名前のアイテム！
         <summary type="html"><![CDATA[キャラ紹介を細々更新しときました。消失とかが多いです。一部IDに関してはリオネラの紹介にざっくり説明あります。さてさて、遅ればせながら悪魔に続いてネクロのお勧め装備。今回はストレンジコンジュラーの個人的お薦め装備ですね。あくまで個人的なものなので一参考程度にどうぞ。ストレンジコンジュラー武器：bis1100DXU懲罰の宣告 or 霊術775UMU魂喰らい or 光奏師775UMU太古の記録首：1000UMUゲージングジュエル or 1000UMU]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浮遊を付けてないジャンパーを活用する方法]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202601280000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202601280000/"/>
-        <updated>2026-01-27T17:13:40.000Z</updated>
-        <summary type="html"><![CDATA[デイリー討伐でガーダーベルトがドロップした時に思いつきました。これがあれば、魔法吸収が必要なマップでホバーを脱いで吸収リフレク装備のときでもジャンパーが活かせるんじゃね？さらに、位相狩場でも腰をガ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
