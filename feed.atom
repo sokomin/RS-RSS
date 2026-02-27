@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-26T23:59:16.270Z</updated>
+    <updated>2026-02-27T02:47:34.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -625,6 +625,15 @@ BFUとUMUを組み合わせたような名前のアイテム！
         <summary type="html"><![CDATA[こんばんは。スフィアーキャンペーン箱です。揮発性密封が美味しいです！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ノー レスト フォー ザ ウィケッド 3回目　ストーリを進めたい]]></title>
+        <id>https://www.youtube.com/watch?v=4CHJn-Sg2_Q</id>
+        <link href="https://www.youtube.com/watch?v=4CHJn-Sg2_Q"/>
+        <updated>2026-01-29T01:53:48.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
         </author>
     </entry>
     <entry>
