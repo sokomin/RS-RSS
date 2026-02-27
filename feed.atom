@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-27T20:34:14.039Z</updated>
+    <updated>2026-02-27T21:00:06.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -613,16 +613,6 @@ BFUとUMUを組み合わせたような名前のアイテム！
         <link href="https://medaka1985.fc2.net/blog-entry-1433.html"/>
         <updated>2026-01-30T05:49:57.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。柔らかハラミ定食です。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リミテッドキャンペーン箱。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1432.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1432.html"/>
-        <updated>2026-01-29T08:43:32.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。スフィアーキャンペーン箱です。揮発性密封が美味しいです！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
