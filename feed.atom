@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-01T19:27:57.713Z</updated>
+    <updated>2026-03-01T19:52:05.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知識キャノニアLv2000達成]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603020000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202603020000/"/>
+        <updated>2026-03-01T19:47:59.000Z</updated>
+        <summary type="html"><![CDATA[ちゃんと経験値を計算したので、2000マップ入場クエの前提クエが終わったところでLv2000に上がりました。狩りは疲れるので、無駄にやりたくないですからね。これでLv2000キャラは4体目です。Lv1972で知識キャノニ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1250精鋭報酬。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1459.html</id>
