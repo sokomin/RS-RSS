@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-01T09:01:27.569Z</updated>
+    <updated>2026-03-01T09:47:15.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】ロト品の高騰]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1153.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1153.html"/>
+        <updated>2026-03-01T09:16:22.000Z</updated>
+        <summary type="html"><![CDATA[理由はいくつかありそう。①課金のメリットがロト]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[久々のUMUドロップ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1458.html</id>
