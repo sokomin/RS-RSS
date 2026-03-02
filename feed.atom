@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-02T23:32:06.328Z</updated>
+    <updated>2026-03-02T23:57:53.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -603,38 +603,6 @@
         <summary type="html"><![CDATA[こんばんは。闇商人の箱からです。恩寵の、がなかなか出ないです。ホットタイムで、1631Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神殿で]]></title>
-        <id>kaze.gg-blog.com://entry/228</id>
-        <link href="http://kaze.gg-blog.com/wakuteka/%E7%A5%9E%E6%AE%BF%E3%81%A7"/>
-        <updated>2026-02-01T11:35:32.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。
- 
-
-とはいえネタもないのでライトな記事で許してください
-
-
-(視線を感じる…)
-
-
-打ち上げられたカツオ
-
-
-やかましい！笑
-
-
-この発言がいまだに意味不明！
-
-
-スチーム掃除…
- 
-
-BFUとUMUを組み合わせたような名前のアイテム！
-風のおもむくままに]]></summary>
-        <author>
-            <name>風に吹かれて</name>
         </author>
     </entry>
     <entry>
