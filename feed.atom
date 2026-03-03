@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-03T04:50:53.306Z</updated>
+    <updated>2026-03-03T05:54:10.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -563,6 +563,16 @@
         <summary type="html"><![CDATA[最近、ULTスフィアの購入を止めている。買い物かごには1個買い置きがあるが、現状の不具合が改善されない限り今後も購入することはないため、使いどころを見極めなければならない。現状のRSは、ULTスフィア(デスペナ無し)でないと面倒なコンテンツが多い。ボス戦・ヒペリオン：開幕突進→攻撃で死亡(ファーストフルヒ使用で対処できるが、たまに死ぬことがある)・1250精鋭：SG連携失敗からの死亡(野良PT時)・1500精鋭：安全地帯配置]]></summary>
         <author>
             <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lv2000までカウントダウン]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202602020000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202602020000/"/>
+        <updated>2026-02-01T20:02:16.000Z</updated>
+        <summary type="html"><![CDATA[​まず、クリーチャーパッシブを少しいじりました。上級攻撃力+経験値のクリーチャーを急遽作成しました。上級経験値をLv38にするより、上級経験値Lv18＋経験値Lv26の方が経験値だけを見ると優秀です。経験値を増...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
