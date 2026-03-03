@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-03T12:00:10.179Z</updated>
+    <updated>2026-03-03T13:19:19.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鏡よ鏡よ鏡さん。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1461.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1461.html"/>
+        <updated>2026-03-03T13:17:42.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。頼むよ～ (;´･ω･)。ぐはぁ…。案ずるな、案ずっちゃダメ。ファッ!?これがラストですよ…。あどでー、ぼぐでー。天使、位相報酬です。武道家、位相報酬です。キャノニア、1250討伐報酬です。サブシーフ2、1250討伐報酬です。メインシーフ、1657Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コンテストコクーン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1460.html</id>
