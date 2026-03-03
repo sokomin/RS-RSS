@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-02T23:57:53.341Z</updated>
+    <updated>2026-03-03T02:52:30.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -593,16 +593,6 @@
         <summary type="html"><![CDATA[寒さのせいか朝布団から出るのが億劫な時期ですね朝が苦手な私にはつらい時期ですこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闇おじさん。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1435.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1435.html"/>
-        <updated>2026-02-01T14:08:14.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。闇商人の箱からです。恩寵の、がなかなか出ないです。ホットタイムで、1631Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
