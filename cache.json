@@ -134,18 +134,7 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=pr-5VDZHTCo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pr-5VDZHTCo",
-          "publishedOn": "2026-02-02T14:12:07.000Z",
-          "wordCount": null,
-          "title": "奏で歌",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "無職と美学とシュルレアリスム",
@@ -1148,16 +1137,6 @@
           "publishedOn": "2026-02-03T11:15:22.000Z",
           "wordCount": null,
           "title": "ミニペット。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1437.html",
-          "author": "medaka1985",
-          "description": "こんばんは。幸運が続きます！天使、位相報酬です。メインシーフ、位相報酬です。888÷(888＋457)×100=66.02%まずまずの成績です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1437.html",
-          "publishedOn": "2026-02-02T14:18:16.000Z",
-          "wordCount": null,
-          "title": "1250箱。",
           "imageUrl": null
         }
       ]
