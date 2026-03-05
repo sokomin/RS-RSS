@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-05T02:35:13.653Z</updated>
+    <updated>2026-03-05T04:24:53.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -552,16 +552,6 @@
         <link href="https://medaka1985.fc2.net/blog-entry-1439.html"/>
         <updated>2026-02-04T14:51:50.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。鏡の時間です。絶好調です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミニペット。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1438.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1438.html"/>
-        <updated>2026-02-03T11:15:22.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ビスタ、購入です。ダメージが上がります。OP変換の結果です。メインシーフ、1632Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
