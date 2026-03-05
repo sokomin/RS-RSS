@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-05T14:08:01.098Z</updated>
+    <updated>2026-03-05T15:08:49.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドラクエ10。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1463.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1463.html"/>
+        <updated>2026-03-05T15:07:01.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。王都キャンベルです。チェックメイトです。おしゃれが出来るのが良いですね(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[次期Lv2000候補であるBISの装備等を公開します]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603050000/</id>
