@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-06T23:00:13.327Z</updated>
+    <updated>2026-03-06T23:36:59.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム全般】GrimDawnやってみた]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1154.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1154.html"/>
+        <updated>2026-03-06T23:19:43.000Z</updated>
+        <summary type="html"><![CDATA[言わずと知れたハクスラの殿堂で、ハクスラ好きなら必ずやれ！と言われている名作(らしい)欧米産ゲームの日本語化だからか、スキル説明やクエストが絶妙に分かりにくい。慣れてくれば問題なさそうだが、慣れない内は日本語wikiを見た方が良いかも。ただし、クエストは日本語wiki見ても分かりにくいので、自分で歩き回って頑張るしかない。まずは、攻略サイトや動画は一切見ずにやってみる。おそらく、無駄なことや取り返しの付かな]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弓のクリーチャーパッシブが完成しました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603060000/</id>
