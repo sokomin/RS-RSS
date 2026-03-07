@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-07T11:26:12.130Z</updated>
+    <updated>2026-03-07T11:52:02.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -532,16 +532,6 @@
         <link href="http://amakusa46.blog34.fc2.com/blog-entry-1147.html"/>
         <updated>2026-02-07T08:28:40.000Z</updated>
         <summary type="html"><![CDATA[闇商人からポータルスフィア1日版が買えたので、サボっていたメイドと霊術のウポスマイヤー入場クエストをやることにした。AIに聞いてみると、入場クエストは以下3つであることが判明。便利な世の中になったな。※クエスト攻略は「まとめぶ」さんをリンクさせてもらった(「KHBの部屋」で探せなかった)「ある異邦人」https://rs-matomebu.com/quest/ihoujin/連鎖クエストになっているが「1. ある異邦人」だけでOK。ただし、経験値が]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】無課金プレイを快適にするには？]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1146.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1146.html"/>
-        <updated>2026-02-05T23:02:15.000Z</updated>
-        <summary type="html"><![CDATA[無課金プレイにも大分慣れてきた。MAP移動時の無限エラー、クライアント強制終了、長いローディングが直っても（直りそうにないが）、このまま無課金でも良いかな？とさえ思えてきた。無課金プレイで最も不便さを感じるのは「Guideが使えないこと」。風の羽を1枚消費すれば使えるが、風の羽はログキャンやイベントでしか入手出来ないため、気軽に使えない。昨年の金鯖の高速絨毯、周年記念イベントの絨毯を入手している人はまだマ]]></summary>
         <author>
             <name>JEFRY</name>
         </author>
