@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-08T20:56:38.879Z</updated>
+    <updated>2026-03-08T21:31:01.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -564,16 +564,6 @@
         <summary type="html"><![CDATA[ドラクエ10のカジノです。久しぶりにやると面白いですね！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】ウポスマイヤー入場クエスト]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1147.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1147.html"/>
-        <updated>2026-02-07T08:28:40.000Z</updated>
-        <summary type="html"><![CDATA[闇商人からポータルスフィア1日版が買えたので、サボっていたメイドと霊術のウポスマイヤー入場クエストをやることにした。AIに聞いてみると、入場クエストは以下3つであることが判明。便利な世の中になったな。※クエスト攻略は「まとめぶ」さんをリンクさせてもらった(「KHBの部屋」で探せなかった)「ある異邦人」https://rs-matomebu.com/quest/ihoujin/連鎖クエストになっているが「1. ある異邦人」だけでOK。ただし、経験値が]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
