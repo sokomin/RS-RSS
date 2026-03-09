@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-09T04:32:03.005Z</updated>
+    <updated>2026-03-09T05:44:13.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -552,16 +552,6 @@
         <link href="https://medaka1985.fc2.net/blog-entry-1442.html"/>
         <updated>2026-02-08T13:14:05.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。特殊アイテム獲得状態です。旧セットアイテムです。テイマー、位相報酬です。メインシーフ、1634Lv突破です。1635Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドラゴンクエスト10。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1441.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1441.html"/>
-        <updated>2026-02-07T16:51:20.000Z</updated>
-        <summary type="html"><![CDATA[ドラクエ10のカジノです。久しぶりにやると面白いですね！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
