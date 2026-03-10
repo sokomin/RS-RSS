@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-10T18:03:54.157Z</updated>
+    <updated>2026-03-10T19:11:00.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BISの進捗状況]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603110000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202603110000/"/>
+        <updated>2026-03-10T18:31:06.000Z</updated>
+        <summary type="html"><![CDATA[まず、フェーズストーンの再振りをしました。無課金で出来るところまでしか上げていませんが、必要なところに集中させました。フェーズストーンの再振りにより知恵を6401↑にすることができました。知恵が上がった...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週間討伐報酬。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1465.html</id>
