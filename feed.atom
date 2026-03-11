@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-11T17:33:02.144Z</updated>
+    <updated>2026-03-11T18:32:15.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -534,16 +534,6 @@
         <summary type="html"><![CDATA[装備と同じくらい重要なクリーチャーだが、新規者、復帰者には仕様が分かりづらく、何となく適当にしている人が少なくない。クリーチャーは用途やプレイヤーの方針で様々な構成パターンがあるため、まずは何のために？を絞ることから始める必要がある。よく質問されるのが狩り用ということもあり、まずは狩り用クリーチャーのテンプレを書いてみる。(1)知識職用基本的には、魔法致命打率または魔法強打率をLv50にすることが最優先]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メイドで位相兵を狩ってみた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202602100000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202602100000/"/>
-        <updated>2026-02-10T05:58:02.000Z</updated>
-        <summary type="html"><![CDATA[レベリング開始したときはLv1725でした。土日のホットタイムを狩って↓になりました。※ホットタイム終了後に箱が出たときの画像一応フェーズストーンを10・10・12まで上げているので、位相兵をそれなりには狩れま...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
