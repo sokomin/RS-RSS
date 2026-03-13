@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-13T04:49:10.191Z</updated>
+    <updated>2026-03-13T05:54:02.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -502,16 +502,6 @@
         <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202602130000/"/>
         <updated>2026-02-12T18:06:51.000Z</updated>
         <summary type="html"><![CDATA[時空の歪み＋武装の２箇所はエルシュカ討伐に必須です。この２つの条件を満たしつつ更に被ダメージ減少装備を付けると2000精鋭ソロも可能になると聞きました。そこで↓を作成してみました。ぶっちゃけると、Nゲー...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vs エルシュカのステ・装備・表記など]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202602110000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202602110000/"/>
-        <updated>2026-02-11T16:54:26.000Z</updated>
-        <summary type="html"><![CDATA[​​​いろいろ調整した結果、与ダメは↓こんな感じになりました。フロントラインが邪魔して与ダメを下げていたので、頭を変更しています。力とダメが上がる名誉ある勲章をエルシュカ討伐用に採用しました。武装のを...]]></summary>
         <author>
             <name>雷神の弓</name>
         </author>
