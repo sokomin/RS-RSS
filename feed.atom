@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-14T15:00:15.356Z</updated>
+    <updated>2026-03-14T15:37:57.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[この動画を見てほしいのだ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603150000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202603150000/"/>
+        <updated>2026-03-14T15:10:50.000Z</updated>
+        <summary type="html"><![CDATA[Gメンのぽとちゃんの力作なので、ぜひ見てほしいのだ！]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レッドストーン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1469.html</id>
