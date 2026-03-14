@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-14T22:59:01.023Z</updated>
+    <updated>2026-03-14T23:37:23.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -514,16 +514,6 @@
         <summary type="html"><![CDATA[​時空の歪み＋武装の２箇所はエルシュカ討伐に必須です。この２つの条件を満たしつつ更に被ダメージ減少装備を付けると2000精鋭ソロも可能になると聞きました。そこで↓を作成してみました。ぶっちゃけると、Nゲー...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レプリカ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1446.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1446.html"/>
-        <updated>2026-02-13T11:09:01.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。闇商人の箱です。メインシーフ、1636Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
