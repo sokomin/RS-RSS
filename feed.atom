@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-15T14:40:21.289Z</updated>
+    <updated>2026-03-15T15:02:41.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[対決　ガリオン！！]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-947.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-947.html"/>
+        <updated>2026-03-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日無事に息子が卒業式を迎えることが出来ました私は涙もろいのでバスタオルを所持していきました案の定初っ端から号泣でしたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[この動画を見てほしいのだ]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603150000/</id>
