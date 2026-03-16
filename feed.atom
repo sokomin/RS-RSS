@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-16T02:53:31.013Z</updated>
+    <updated>2026-03-16T05:22:16.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知識キャノニアのその後]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603160000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202603160000/"/>
+        <updated>2026-03-16T04:52:28.000Z</updated>
+        <summary type="html"><![CDATA[​2000精鋭の引率係をやることにしたので、ほんの少しですが装備強化をしていました。普段使いもする鎧ですが、2000精鋭用に”武装の”も付けちゃいました。命中無視が付いていませんが、フェーズストーンで60％確保...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精鋭ボーナス。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1470.html</id>
