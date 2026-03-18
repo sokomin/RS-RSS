@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-18T11:30:27.536Z</updated>
+    <updated>2026-03-18T12:34:01.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヒペリオンソロの時間短縮のために]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603180000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202603180000/"/>
+        <updated>2026-03-18T12:25:10.000Z</updated>
+        <summary type="html"><![CDATA[時短のための装備を作成しました。ボス戦以外では使わないかも。各キャラのヒペリオン討伐における所要時間を書いていきます。（禁忌なしのとき）※1火力で天使とペア・Lv2000物理強打弓　フェーズストーン（以下F...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OP変換器。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1471.html</id>
