@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-18T23:46:24.779Z</updated>
+    <updated>2026-03-19T02:44:48.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -464,16 +464,6 @@
         <summary type="html"><![CDATA[無限エラー、サイレントクラ落ち、長時間ローディングが直っているか否か、これに尽きる。その他、どうでも良いアプデ予想は以下。・ボスラッシュ(ガリオン)リアマネ使えば誰でもクリア出来る集金コンテンツとか、正直、どうでも良い。アサルトチャレンジ同様、放置されて死にコンテンツになるだけ。・フィールドグラ変更今更必要？mobグラ変更同様、プレイヤーの求めていることがここまで伝わらない運営も珍しいだろ。・各種バグ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メインストーリー。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1449.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1449.html"/>
-        <updated>2026-02-17T14:10:09.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。バージョン3です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
