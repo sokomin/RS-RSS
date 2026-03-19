@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-19T19:56:27.222Z</updated>
+    <updated>2026-03-19T20:48:00.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -464,16 +464,6 @@
         <summary type="html"><![CDATA[こんばんは。ビサイトオーラカ。天使、位相報酬です。メインシーフ、位相報酬です。エルシュカ討伐してみたいです(/・ω・)/。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】来週来るアプデの注目点]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1150.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1150.html"/>
-        <updated>2026-02-18T08:18:17.000Z</updated>
-        <summary type="html"><![CDATA[無限エラー、サイレントクラ落ち、長時間ローディングが直っているか否か、これに尽きる。その他、どうでも良いアプデ予想は以下。・ボスラッシュ(ガリオン)リアマネ使えば誰でもクリア出来る集金コンテンツとか、正直、どうでも良い。アサルトチャレンジ同様、放置されて死にコンテンツになるだけ。・フィールドグラ変更今更必要？mobグラ変更同様、プレイヤーの求めていることがここまで伝わらない運営も珍しいだろ。・各種バグ]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
