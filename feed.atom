@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-19T23:47:20.061Z</updated>
+    <updated>2026-03-20T02:34:59.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -454,16 +454,6 @@
         <summary type="html"><![CDATA[2026年2月19日アップデートページはこちら→　◎新規イベントボス「ガリオン」のご案内 詳細→　◎「オムニスキル初期化機能」のアップデート「フェーズストーン」新規オプション追加のご案内アサルトチャレンジ順位報酬変更のご案内フィールドグラフィックの3次改善]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アイテムのかけら。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1450.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1450.html"/>
-        <updated>2026-02-18T13:00:43.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ビサイトオーラカ。天使、位相報酬です。メインシーフ、位相報酬です。エルシュカ討伐してみたいです(/・ω・)/。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
