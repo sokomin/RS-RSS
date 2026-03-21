@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-21T06:57:58.962Z</updated>
+    <updated>2026-03-21T07:39:39.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[細かいとこ更新作業]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1317.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1317.html"/>
+        <updated>2026-03-21T07:10:12.000Z</updated>
+        <summary type="html"><![CDATA[細かいとこではあるんですが、まずそんなに気にしてないだろうとこですね。とりあえずアプデ一覧の記事はトップ固定にしときました。アップデート自体は一定期間ごとなんで頻繁に更新はないですが何かしら確認しに行く事はあるかもしれないので見やすい位置に。後はキャラの活動率の更新ですかね。最近は記念コイン収集でクレで動く事が多いですがこういうイベント除外で動くキャラとなると限られますし。クレでインしてない時、ど]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巨匠の策略。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1472.html</id>
