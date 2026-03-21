@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-21T17:00:20.067Z</updated>
+    <updated>2026-03-21T17:35:51.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -434,16 +434,6 @@
         <summary type="html"><![CDATA[←の重要欄のリンク更新しておきました。クリックで昨日19日のアップデートページに飛びます。ついでにL&Kに移管してからのものになりますがこれまでのアップデートページにも飛べるリンクページを新しく作って置いておくほうがいいですかねぇ。あればこれまでのアップデートの確認はしやすくはなりでしょうし。ゲームオンとGOP運営時のはどうしようもないですが・・・。そんなわけで、過去アップデートに関してもカテゴリに増やし]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闘士の今後について]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202602200000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202602200000/"/>
-        <updated>2026-02-20T05:13:01.000Z</updated>
-        <summary type="html"><![CDATA[アプデの結果、闘士の火力は約7割減少したと思われます。アプデ前は、位相兵１パンでした。（稀に5匹中１匹生き残っていた）アプデ後は、位相兵4パンとなりました。（3パンで5匹中1～2匹は倒せる）アプデ前の火力...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
