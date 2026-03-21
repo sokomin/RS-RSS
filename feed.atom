@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-21T02:29:47.218Z</updated>
+    <updated>2026-03-21T04:18:17.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -424,26 +424,6 @@
         <summary type="html"><![CDATA[アプデの結果、闘士の火力は約7割減少したと思われます。アプデ前は、位相兵１パンでした。（稀に5匹中１匹生き残っていた）アプデ後は、位相兵4パンとなりました。（3パンで5匹中1～2匹は倒せる）アプデ前の火力...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】21周年イベントまとめ]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1151.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1151.html"/>
-        <updated>2026-02-19T12:27:10.000Z</updated>
-        <summary type="html"><![CDATA[(1)21周年記念コイン交換関係①ビンゴ移管記念指、20周年記念指を持っている人は、更新報酬で必要なものは無い。②イベント交換SHOP交換しておいた方が良いアイテムは以下、他は特に必要なし。製錬ガード3個、異次元1個、不滅性の炎の錬成剤2個、神秘のOP選択チケ3個、珍貴のOP選択チケ3個(2)ボスラッシュ・ガリオン①ノーマル毎日アカウント内の1キャラのみ報酬あり。(強いキャラでクリアして、弱いキャラで報酬もらうことも可)②チャ]]></summary>
-        <author>
-            <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21周年記念アップデート。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1451.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1451.html"/>
-        <updated>2026-02-19T12:03:31.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。21周年イベント開始です。ガリオン、チャレンジモード。超強いです(笑)。21周年指輪が作れるみたいです。ガリオンHPバー(初級)です。メインシーフ、1641Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
