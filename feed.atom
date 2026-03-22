@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-22T17:00:58.672Z</updated>
+    <updated>2026-03-22T17:45:08.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スロット集中錬成道具箱。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1474.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1474.html"/>
+        <updated>2026-03-22T17:16:42.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。メインシーフ、1250精鋭報酬です。メインシーフ、1500精鋭報酬です。サブシーフ3、1250精鋭報酬です。武道家、1250精鋭報酬です。天使、1250精鋭報酬です。戦士、1250精鋭報酬です。姫、1250精鋭報酬です。キャノニア、1250精鋭報酬です。サブシーフ2、1250精鋭報酬です。アーチャー、1250精鋭報酬です。メインシーフ、位相報酬です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[おや　烈風の様子が・・・]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-948.html</id>
