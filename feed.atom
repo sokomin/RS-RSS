@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-22T14:59:04.484Z</updated>
+    <updated>2026-03-22T15:36:00.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[おや　烈風の様子が・・・]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-948.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-948.html"/>
+        <updated>2026-03-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[段々と暖かくなってきて日中の日差しが暑いと思う日もありますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビンゴイベント。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1473.html</id>
