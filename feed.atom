@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-22T04:57:25.645Z</updated>
+    <updated>2026-03-22T05:58:36.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -404,16 +404,6 @@
         <summary type="html"><![CDATA[L&Kに移管してからのアップデートのみになります。抜けているアップデートがありましたら、報告確認後に追加します。･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ 2026年2月→　◎･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ 2025年2月→　◎　　|　　4月→　◎6月→　◎　　|　　10月→　◎　　|　　12月→　◎･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟﾟ･*:..｡o○☆*ﾟ¨ﾟ 2024年2月→　◎　　|　　4月→　◎　　|　　5月→　◎　　|　　6月→　◎9月→　◎　　|　　11月→]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獅子舞コクーン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1452.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1452.html"/>
-        <updated>2026-02-20T16:36:48.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。記念クリーチャーです。武装＋次元の歪みでクリアです！報酬エフェクトです。高額買取もやってます。応援、ありがとう(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
