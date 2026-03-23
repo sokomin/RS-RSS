@@ -109,18 +109,7 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": [
-        {
-          "id": "https://intothe.info/?p=3260",
-          "author": "marsborn",
-          "description": "前年の12/2からWoW...",
-          "link": "https://intothe.info/wow/home-sweet-home/",
-          "publishedOn": "2026-02-22T03:22:50.000Z",
-          "wordCount": 2890,
-          "title": "Home Sweet Home",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "魔法の壁のリアルライふ",
@@ -793,6 +782,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1475.html",
+          "author": "medaka1985",
+          "description": "こんばんは。30分位で売れました。変換1回目。開放2回目。３回目、なかなか上手くいかないですね。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1475.html",
+          "publishedOn": "2026-03-23T14:31:56.000Z",
+          "wordCount": 1094,
+          "title": "露店。",
+          "imageUrl": "https://blog-imgs-185.fc2.com/m/e/d/medaka1985/20260323232816d4e.png"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1474.html",
           "author": "medaka1985",

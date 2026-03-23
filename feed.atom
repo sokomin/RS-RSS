@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-23T14:41:02.236Z</updated>
+    <updated>2026-03-23T15:43:04.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[露店。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1475.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1475.html"/>
+        <updated>2026-03-23T14:31:56.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。30分位で売れました。変換1回目。開放2回目。３回目、なかなか上手くいかないですね。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スロット集中錬成道具箱。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1474.html</id>
@@ -394,16 +404,6 @@
         <summary type="html"><![CDATA[こんばんは。21周年得Boxです。結果です。メインシーフ、1650Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home Sweet Home]]></title>
-        <id>https://intothe.info/?p=3260</id>
-        <link href="https://intothe.info/wow/home-sweet-home/"/>
-        <updated>2026-02-22T03:22:50.000Z</updated>
-        <summary type="html"><![CDATA[前年の12/2からWoW...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>
