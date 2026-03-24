@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-24T15:04:10.076Z</updated>
+    <updated>2026-03-24T16:32:42.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PvPエリア(続編)。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1476.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1476.html"/>
+        <updated>2026-03-24T15:18:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ウポスマイヤー(1500Lv~)以降の、PvPエリアについて纏めていきます。まずはウポス北部(1550~1625Lv)。集会所から←↓にあります。ウポス南西部(1600~1675Lv)。古都の探索隊テレポーターから3)原始要塞セルーテorガイドのウモス北東部で飛んだエリアの↑のワープからが速いです。ウモス(1675~1725Lv)。MAPの→↑にあります。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【GrimDawn】DLC購入]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1156.html</id>
