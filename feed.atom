@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-26T18:12:55.607Z</updated>
+    <updated>2026-03-26T19:33:56.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[銀色強化Box。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1478.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1478.html"/>
+        <updated>2026-03-26T18:24:19.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。21周年後夜祭です。銀色に強化！(中身は↑)ソロでした(笑)ウィークリーファルコンです。風船イベント来てます(｀・ω・´)。メインシーフ、1676Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【GrimDawn】残りDLC全部購入]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1157.html</id>
