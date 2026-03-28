@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-28T21:57:51.588Z</updated>
+    <updated>2026-03-28T22:39:39.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】「21周年イベント」後夜祭状況]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1158.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1158.html"/>
+        <updated>2026-03-28T22:30:13.000Z</updated>
+        <summary type="html"><![CDATA[さすが予想の斜め上をいく運営、後夜祭イベントに風船ぶつけてきた！これは予想外で、誰も想定していなかったと思う。しかし、なんと風船は「導きの鐘」の対象外らしく、経験値10倍風船が割れても経験値はそのまま。何のための風船イベントなのかｗしかもこの風船、ディメンション等の経験値が入らない状況でも割れてしまう。風船を所持した状態でミッションブックやベルセルククエをやっても割れまくる。昔からこの仕様だが、相変]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ペット合成。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1480.html</id>
