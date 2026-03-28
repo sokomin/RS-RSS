@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-28T13:59:53.797Z</updated>
+    <updated>2026-03-28T14:44:19.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ペット合成。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1480.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1480.html"/>
+        <updated>2026-03-28T14:01:38.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。イベントBoxからです。クロード！クロード！2回チャレンジしましたが、通常進化でしたorzメインシーフ、1685Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リミテット・キャンペーン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1479.html</id>
