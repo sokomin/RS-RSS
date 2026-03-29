@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-29T14:55:53.475Z</updated>
+    <updated>2026-03-29T15:37:55.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[21周年後夜祭スタート]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-949.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-949.html"/>
+        <updated>2026-03-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近所にある川沿いの桜もだいぶ咲いてきました今度天気が良い時に散歩しようかなと思っていますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[少し更新]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1319.html</id>
