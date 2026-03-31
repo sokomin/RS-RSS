@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-31T19:09:51.700Z</updated>
+    <updated>2026-03-31T20:01:53.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[位相ラッシュ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1482.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1482.html"/>
+        <updated>2026-03-31T17:23:30.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。姫、位相報酬です。テイマ、位相報酬です。サブシーフ2、位相報酬です。キャノニア、位相報酬です。サブシーフ2、1250精鋭報酬です。天使、位相報酬です。戦士、位相報酬です。武道家、位相報酬です。サブシーフ3、位相報酬です。メインシーフ、1696Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[禁忌有でのヒペ討伐結果発表]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603300000/</id>
