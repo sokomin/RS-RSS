@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-02T06:42:30.918Z</updated>
+    <updated>2026-04-02T08:10:04.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -414,16 +414,6 @@
         <summary type="html"><![CDATA[こんばんは。メインシーフ、1658Lv突入です。知恵エクペリで、効率UPです。1661Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理槍を物理弓に戻しました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603040000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202603040000/"/>
-        <updated>2026-03-03T20:03:14.000Z</updated>
-        <summary type="html"><![CDATA[長らく名は体を表していない状況が続いていましたが、致命減型物理槍をやめて強打型物理弓になりました。昔は高級品だった赤クレストですが、今では黄金鋏を使って取り外す価値がないので、このまま寝かせておく...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
