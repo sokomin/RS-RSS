@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-01T23:52:09.197Z</updated>
+    <updated>2026-04-02T02:46:57.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】おそらく最後のレベリング]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1159.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1159.html"/>
+        <updated>2026-04-02T00:46:06.000Z</updated>
+        <summary type="html"><![CDATA[風船やらないなんて、RSプレイヤーとしてどうなの？という叱咤激励をいただいたwよーし、やってやろうじゃないか！ってことで、買い物籠のアイテムをフル活用し、Lv1420土ケミとLv1350物理ネクロをLv1500までレベリングしたいと思う。Lv1500にして何するものでもないけど、キリが良いレベルってことで設定してみた。さあ、やるぞ！物理ネクロ無理だ・・弱過ぎる。以前も記事にしたが、基本的に狩りでのペットはおまけ程度(発生が遅]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[位相ラッシュ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1482.html</id>
@@ -414,16 +424,6 @@
         <summary type="html"><![CDATA[長らく名は体を表していない状況が続いていましたが、致命減型物理槍をやめて強打型物理弓になりました。昔は高級品だった赤クレストですが、今では黄金鋏を使って取り外す価値がないので、このまま寝かせておく...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡よ鏡よ鏡さん。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1461.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1461.html"/>
-        <updated>2026-03-03T13:17:42.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。頼むよ～ (;´･ω･)。ぐはぁ…。案ずるな、案ずっちゃダメ。ファッ!?これがラストですよ…。あどでー、ぼぐでー。天使、位相報酬です。武道家、位相報酬です。キャノニア、1250討伐報酬です。サブシーフ2、1250討伐報酬です。メインシーフ、1657Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>

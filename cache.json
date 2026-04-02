@@ -303,6 +303,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1159.html",
+          "author": "JEFRY",
+          "description": "風船やらないなんて、RSプレイヤーとしてどうなの？という叱咤激励をいただいたwよーし、やってやろうじゃないか！ってことで、買い物籠のアイテムをフル活用し、Lv1420土ケミとLv1350物理ネクロをLv1500までレベリングしたいと思う。Lv1500にして何するものでもないけど、キリが良いレベルってことで設定してみた。さあ、やるぞ！物理ネクロ無理だ・・弱過ぎる。以前も記事にしたが、基本的に狩りでのペットはおまけ程度(発生が遅",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1159.html",
+          "publishedOn": "2026-04-02T00:46:06.000Z",
+          "wordCount": 597,
+          "title": "【REDSTONE】おそらく最後のレベリング",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1158.html",
           "author": "JEFRY",
           "description": "さすが予想の斜め上をいく運営、後夜祭イベントに風船ぶつけてきた！これは予想外で、誰も想定していなかったと思う。しかし、なんと風船は「導きの鐘」の対象外らしく、経験値10倍風船が割れても経験値はそのまま。何のための風船イベントなのかｗしかもこの風船、ディメンション等の経験値が入らない状況でも割れてしまう。風船を所持した状態でミッションブックやベルセルククエをやっても割れまくる。昔からこの仕様だが、相変",
@@ -1011,16 +1021,6 @@
           "wordCount": 1094,
           "title": "レベルアップリンク。",
           "imageUrl": "https://blog-imgs-185.fc2.com/m/e/d/medaka1985/1658Lv.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1461.html",
-          "author": "medaka1985",
-          "description": "こんばんは。頼むよ～ (;´･ω･)。ぐはぁ…。案ずるな、案ずっちゃダメ。ファッ!?これがラストですよ…。あどでー、ぼぐでー。天使、位相報酬です。武道家、位相報酬です。キャノニア、1250討伐報酬です。サブシーフ2、1250討伐報酬です。メインシーフ、1657Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1461.html",
-          "publishedOn": "2026-03-03T13:17:42.000Z",
-          "wordCount": 1095,
-          "title": "鏡よ鏡よ鏡さん。",
-          "imageUrl": "https://blog-imgs-185.fc2.com/m/e/d/medaka1985/202603032209358c5.png"
         }
       ]
     },
