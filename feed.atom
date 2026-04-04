@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-04T19:48:49.559Z</updated>
+    <updated>2026-04-04T20:38:55.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -394,16 +394,6 @@
         <summary type="html"><![CDATA[言わずと知れたハクスラの殿堂で、ハクスラ好きなら必ずやれ！と言われている名作(らしい)欧米産ゲームの日本語化だからか、スキル説明やクエストが絶妙に分かりにくい。慣れてくれば問題なさそうだが、慣れない内は日本語wikiを見た方が良いかも。ただし、クエストは日本語wiki見ても分かりにくいので、自分で歩き回って頑張るしかない。まずは、攻略サイトや動画は一切見ずにやってみる。おそらく、無駄なことや取り返しの付かな]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弓のクリーチャーパッシブが完成しました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603060000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202603060000/"/>
-        <updated>2026-03-06T08:27:02.000Z</updated>
-        <summary type="html"><![CDATA[​​マナが尽きたところでぴったり完成しました。（綺麗な仕上がりだと思いませんか？ｗ）まぁ、パッシブが完成したところで、フェーズストーンと古龍やらないと大して強くはないんですけどねｗそれでもダブクリ型...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
