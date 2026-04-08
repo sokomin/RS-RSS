@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-07T23:42:33.764Z</updated>
+    <updated>2026-04-08T02:53:26.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一時の不滅。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1486.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1486.html"/>
+        <updated>2026-04-08T01:04:09.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。高額購入です。強化します。火力が伸びました(/・ω・)/。後夜祭BOXからです。メインシーフ、1710Lv到達です。応援、ありがとう(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HOTタイム。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1485.html</id>
