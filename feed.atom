@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T13:19:31.648Z</updated>
+    <updated>2026-04-11T14:04:10.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お洒落なカフェ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1488.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1488.html"/>
+        <updated>2026-04-11T13:24:21.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。アンティークです。濃厚なチョコでとても美味しいです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BISの装備を更新]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202604100000/</id>
