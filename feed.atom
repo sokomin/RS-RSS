@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-12T11:51:08.076Z</updated>
+    <updated>2026-04-12T13:12:34.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Last Epoch】嵐刃ローグ(ブレードダンサー)：アベロス撃破]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1160.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1160.html"/>
+        <updated>2026-04-12T12:20:45.000Z</updated>
+        <summary type="html"><![CDATA[アベロス初回挑戦で即撃破、嵐刃ローグの火力がヤバかった。装備もスキルも所謂テンプレの聞きかじりだが、ここまで強いとは思わなかった。ただし、経験したビルドで過去一に紙装甲なので、立ち回りが少しシビア。どこにでも転がってる情報ではあるが、自身の備忘録的に記事に残しておく。＜装備＞「裏切り者の舌」(短剣)の両手装備で、オプションはいずれも物理攻撃力。鎧は原始装備(HPの庇護変換)で、他は投擲攻撃＋や物理ダメー]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お洒落なカフェ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1488.html</id>
