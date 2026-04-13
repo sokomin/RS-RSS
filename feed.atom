@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-12T23:56:01.829Z</updated>
+    <updated>2026-04-13T03:34:31.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -374,26 +374,6 @@
         <summary type="html"><![CDATA[先日無事に息子が卒業式を迎えることが出来ました私は涙もろいのでバスタオルを所持していきました案の定初っ端から号泣でしたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[この動画を見てほしいのだ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603150000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202603150000/"/>
-        <updated>2026-03-14T15:10:50.000Z</updated>
-        <summary type="html"><![CDATA[Gメンのぽとちゃんの力作なので、ぜひ見てほしいのだ！]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レッドストーン。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1469.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1469.html"/>
-        <updated>2026-03-14T13:43:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。@降伏。メインシーフ、1665Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
