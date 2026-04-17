@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-17T18:08:32.358Z</updated>
+    <updated>2026-04-17T19:33:39.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[21周年 RED STONE Theme Cafe]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202604180000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202604180000/"/>
+        <updated>2026-04-17T18:29:50.000Z</updated>
+        <summary type="html"><![CDATA[うちのGメンも数名参加していました。]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コピーチャンス。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1492.html</id>
