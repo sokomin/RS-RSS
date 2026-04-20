@@ -190,6 +190,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202604200000/",
+          "author": "雷神の弓",
+          "description": "2000マップの入場クエを完了してしまうと、2000精鋭のときに与ダメが1/10になってしまいます。闘士は入場クエを完了してしまったので、2000精鋭でMAX4000Kしかダメージを与えられず、ソロだと10分くらい掛かって...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202604200000/",
+          "publishedOn": "2026-04-20T05:07:57.000Z",
+          "wordCount": 2507,
+          "title": "頭は使いようｗ",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/ec32c06ac880ed43475138103e77d6b215084cf4.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202604180000/",
           "author": "雷神の弓",
           "description": "うちのGメンも数名参加していました。",
@@ -293,6 +303,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1161.html",
+          "author": "JEFRY",
+          "description": "土ケミのレベリングは、キレイマルコでショートカットしたのもあり、あっさりLv1500に到達。狩りとオーラ出しで銀チケ180枚くらいゲットし、シルバー促進4、ゴールド促進1を入手。合成の結果、変異タイドナ1体の召喚に成功するも、残念ながらBIS天使ということでお蔵入り。30日+30日期限のペット移動に1500円は勿体無い！と思える様になったRS歴20年弱の老プレイヤーだが、おそらく末期RSでは当たり前の思考だろう。クロードなら15",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1161.html",
+          "publishedOn": "2026-04-20T04:12:57.000Z",
+          "wordCount": 600,
+          "title": "【REDSTONE】運営は巧妙か適当か",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1160.html",
           "author": "JEFRY",
@@ -1002,16 +1022,6 @@
           "wordCount": null,
           "title": "スロット集中錬成道具箱。",
           "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1473.html",
-          "author": "medaka1985",
-          "description": "こんばんは。ビンゴコンプリートです。21日経験値3倍！どんどん上がります。まだまだ！更に！そして！まだまだ！ついに！最後に！がっつり上げます(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1473.html",
-          "publishedOn": "2026-03-21T11:49:36.000Z",
-          "wordCount": 1094,
-          "title": "ビンゴイベント。",
-          "imageUrl": "https://blog-imgs-185.fc2.com/m/e/d/medaka1985/20260321204318e5c.png"
         }
       ]
     },
