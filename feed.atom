@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-25T09:13:34.066Z</updated>
+    <updated>2026-04-25T10:08:42.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RSと関係ないけど]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1322.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1322.html"/>
+        <updated>2026-04-25T09:30:44.000Z</updated>
+        <summary type="html"><![CDATA[ちょいちょい調べたりしつつですがマウスアイコンを作ってみたりしてました。動くアイコンにしてみたから、一瞬位置を見失っても解り易いです。一通り作るのにちょっと時間かかってるけどやってると時間はあっという間に過ぎるんで暇な時とかにもう何種類かアイコン作ろううかな、と考え中。まぁ、RSのキャラアイコンなんか作るにもまず素材集めないとですけど。動くアイコンだとその分の数が必要ですしねぇ。]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スクラッチ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1497.html</id>
