@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-27T08:42:38.577Z</updated>
+    <updated>2026-04-27T11:07:57.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】７か月ぶりのレッドストーンだよ その７]]></title>
+        <id>https://www.youtube.com/watch?v=6QmlVFyU_RA</id>
+        <link href="https://www.youtube.com/watch?v=6QmlVFyU_RA"/>
+        <updated>2026-04-27T10:09:41.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[真夏の夜の…。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1498.html</id>
@@ -408,16 +417,6 @@
         <summary type="html"><![CDATA[アップデート一覧を少し更新しました。ブログ内のアプデ記事に飛ぶのは変わらないんですが何のアプデだったか解り易くはなったかと思います。記事としてちょっと長めの状態になってるんでその辺りはまた追々考えながら編集していく予定なんで暫くはこの状態でご容赦ください。という事で今回はそれだけ。それでは( ´ω｀)ﾉｼ]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】「21周年イベント」後夜祭状況]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1158.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1158.html"/>
-        <updated>2026-03-28T22:30:13.000Z</updated>
-        <summary type="html"><![CDATA[さすが予想の斜め上をいく運営、後夜祭イベントに風船ぶつけてきた！これは予想外で、誰も想定していなかったと思う。しかし、なんと風船は「導きの鐘」の対象外らしく、経験値10倍風船が割れても経験値はそのまま。何のための風船イベントなのかｗしかもこの風船、ディメンション等の経験値が入らない状況でも割れてしまう。風船を所持した状態でミッションブックやベルセルククエをやっても割れまくる。昔からこの仕様だが、相変]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
