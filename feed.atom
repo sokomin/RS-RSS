@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-26T23:46:42.431Z</updated>
+    <updated>2026-04-27T03:36:54.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -418,16 +418,6 @@
         <summary type="html"><![CDATA[さすが予想の斜め上をいく運営、後夜祭イベントに風船ぶつけてきた！これは予想外で、誰も想定していなかったと思う。しかし、なんと風船は「導きの鐘」の対象外らしく、経験値10倍風船が割れても経験値はそのまま。何のための風船イベントなのかｗしかもこの風船、ディメンション等の経験値が入らない状況でも割れてしまう。風船を所持した状態でミッションブックやベルセルククエをやっても割れまくる。昔からこの仕様だが、相変]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ペット合成。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1480.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1480.html"/>
-        <updated>2026-03-28T14:01:38.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。イベントBoxからです。クロード！クロード！2回チャレンジしましたが、通常進化でしたorzメインシーフ、1685Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
