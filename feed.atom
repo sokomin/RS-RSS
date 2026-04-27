@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-27T19:50:52.695Z</updated>
+    <updated>2026-04-27T21:08:29.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -417,16 +417,6 @@
         <summary type="html"><![CDATA[近所にある川沿いの桜もだいぶ咲いてきました今度天気が良い時に散歩しようかなと思っていますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[少し更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1319.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1319.html"/>
-        <updated>2026-03-29T07:59:18.000Z</updated>
-        <summary type="html"><![CDATA[アップデート一覧を少し更新しました。ブログ内のアプデ記事に飛ぶのは変わらないんですが何のアプデだったか解り易くはなったかと思います。記事としてちょっと長めの状態になってるんでその辺りはまた追々考えながら編集していく予定なんで暫くはこの状態でご容赦ください。という事で今回はそれだけ。それでは( ´ω｀)ﾉｼ]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
     <entry>
