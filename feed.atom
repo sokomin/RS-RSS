@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-28T17:50:02.292Z</updated>
+    <updated>2026-04-28T19:48:11.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -347,6 +347,16 @@
         <summary type="html"><![CDATA[こんばんは。取りこぼしがあります。緊張します。あうあうアウリ…。謎のエリアです。メインシーフ、1700Lv到達です(*'▽')！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[禁忌有でのヒペ討伐結果発表]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603300000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202603300000/"/>
+        <updated>2026-04-03T07:25:52.000Z</updated>
+        <summary type="html"><![CDATA[​​※フェーズストーンのフェーズってphaseっぽいねｗ　何も考えずFから始まると思ったけどPに訂正・Lv1784知識メイド　PS：10・10・12／古龍：無課金討伐時間：4分（禁忌無）↓討伐時間：2分半（禁忌有）※最後ちょ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
