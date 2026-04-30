@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VP2bKR7hGAw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VP2bKR7hGAw",
+          "publishedOn": "2026-04-29T10:05:20.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】７か月ぶりのレッドストーンだよ その８",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6QmlVFyU_RA",
           "author": null,
           "description": "",
@@ -219,6 +229,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202604300000/",
+          "author": "雷神の弓",
+          "description": "Lv1970まで上がりました。たぶん5月3日か4日にはLv2000達成できそうです。BISの次はメイドを2000まで上げようかな。メイドは既に2000キャラが2体いるＩＤなのですが、もう2000精鋭の利益とか気にしないで、やりた...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202604300000/",
+          "publishedOn": "2026-04-30T08:42:39.000Z",
+          "wordCount": 2497,
+          "title": "BISの途中経過",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/57fedceedab09d88870ab0d4ffc513e71ba96fc9.73.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202604200000/",
           "author": "雷神の弓",

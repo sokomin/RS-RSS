@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T07:39:32.093Z</updated>
+    <updated>2026-04-30T09:52:07.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BISの途中経過]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202604300000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202604300000/"/>
+        <updated>2026-04-30T08:42:39.000Z</updated>
+        <summary type="html"><![CDATA[Lv1970まで上がりました。たぶん5月3日か4日にはLv2000達成できそうです。BISの次はメイドを2000まで上げようかな。メイドは既に2000キャラが2体いるＩＤなのですが、もう2000精鋭の利益とか気にしないで、やりた...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ファッション。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1500.html</id>
@@ -14,6 +24,15 @@
         <summary type="html"><![CDATA[こんばんは。魔法職の衣装です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】７か月ぶりのレッドストーンだよ その８]]></title>
+        <id>https://www.youtube.com/watch?v=VP2bKR7hGAw</id>
+        <link href="https://www.youtube.com/watch?v=VP2bKR7hGAw"/>
+        <updated>2026-04-29T10:05:20.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
