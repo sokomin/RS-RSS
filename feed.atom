@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T20:07:40.227Z</updated>
+    <updated>2026-05-01T21:09:51.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Purity at Midnight]]></title>
+        <id>https://intothe.info/?p=3506</id>
+        <link href="https://intothe.info/wow/purity-at-midnight/"/>
+        <updated>2026-05-01T21:08:08.000Z</updated>
+        <summary type="html"><![CDATA[World...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[このブログについて その4]]></title>
+        <id>https://intothe.info/?p=3504</id>
+        <link href="https://intothe.info/about-this-blog/%e3%81%93%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-%e3%81%9d%e3%81%ae4/"/>
+        <updated>2026-05-01T21:07:22.000Z</updated>
+        <summary type="html"><![CDATA[全体的にスリム化しました。...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ルーレット。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1501.html</id>
