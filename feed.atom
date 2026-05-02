@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-02T19:09:01.859Z</updated>
+    <updated>2026-05-02T20:01:20.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -416,26 +416,6 @@
         <summary type="html"><![CDATA[こんばんは。取りこぼしがあります。緊張します。あうあうアウリ…。謎のエリアです。メインシーフ、1700Lv到達です(*'▽')！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[禁忌有でのヒペ討伐結果発表]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603300000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202603300000/"/>
-        <updated>2026-04-03T07:25:52.000Z</updated>
-        <summary type="html"><![CDATA[​​※フェーズストーンのフェーズってphaseっぽいねｗ　何も考えずFから始まると思ったけどPに訂正・Lv1784知識メイド　PS：10・10・12／古龍：無課金討伐時間：4分（禁忌無）↓討伐時間：2分半（禁忌有）※最後ちょ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヒペリオンソロの時間短縮のために]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202603180000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202603180000/"/>
-        <updated>2026-04-03T07:24:26.000Z</updated>
-        <summary type="html"><![CDATA[​​時短のための装備を作成しました。ボス戦以外では使わないかも。各キャラのヒペリオン討伐における所要時間を書いていきます。（禁忌なしのとき）※1火力で天使とペア・Lv2000物理強打弓　フェーズストーン（以...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
