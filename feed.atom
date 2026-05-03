@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T06:43:55.653Z</updated>
+    <updated>2026-05-03T08:50:06.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】７か月ぶりのレッドストーンだよ その８の２]]></title>
+        <id>https://www.youtube.com/watch?v=74kh1xzeID8</id>
+        <link href="https://www.youtube.com/watch?v=74kh1xzeID8"/>
+        <updated>2026-05-03T08:46:00.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[おまけ箱。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1502.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1502.html"/>
+        <updated>2026-05-03T07:22:06.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。おまけ箱、開封です。結果です。ドキドキ・・・。m9(^Д^)ﾌﾟｷﾞｬｰ。もう一回！・・・。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Last Epoch】嵐刃ローグ(ブレードダンサー)：真アベロス討伐への道]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1162.html</id>

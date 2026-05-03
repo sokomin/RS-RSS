@@ -150,6 +150,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=74kh1xzeID8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=74kh1xzeID8",
+          "publishedOn": "2026-05-03T08:46:00.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】７か月ぶりのレッドストーンだよ その８の２",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CJsfVGchGss",
           "author": null,
           "description": "",
@@ -864,6 +874,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1502.html",
+          "author": "medaka1985",
+          "description": "こんばんは。おまけ箱、開封です。結果です。ドキドキ・・・。m9(^Д^)ﾌﾟｷﾞｬｰ。もう一回！・・・。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1502.html",
+          "publishedOn": "2026-05-03T07:22:06.000Z",
+          "wordCount": null,
+          "title": "おまけ箱。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1501.html",
           "author": "medaka1985",
