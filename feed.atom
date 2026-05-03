@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T19:07:13.571Z</updated>
+    <updated>2026-05-03T20:03:03.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BISがLv2000になりました！]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202605040000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202605040000/"/>
+        <updated>2026-05-03T19:53:30.000Z</updated>
+        <summary type="html"><![CDATA[2000マップ入場クエの前提クエでLv2000に上がりました。3月8日Lv1367↓5月4日Lv2000ということで、レベル上げを始めて2か月弱でLv2000達成できました。位相兵を自力で狩れないキャラだったので、なかなか大変でし...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GW経験値イベント　【　がんばれボトル姫編　】]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-954.html</id>
