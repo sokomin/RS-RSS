@@ -415,6 +415,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1163.html",
+          "author": "JEFRY",
+          "description": "おそらく、今あるユニーク装備に代わる装備であることは間違いないだろう。プロデューサー曰く、今の装備がすぐお払い箱になることはなく、長い年月掛けて入れ替わっていくらしい。ギルメン曰く、イメージ的にはウポス補助武器。長い年月を掛けて、オプション厳選、レベル強化していく必要があり、それが武器、防具となれば、気が遠くなる様な年月が必要になるだろう。問題は、運営が運転資金欲しさに課金アイテムによるブーストに",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1163.html",
+          "publishedOn": "2026-05-04T02:05:31.000Z",
+          "wordCount": 605,
+          "title": "【REDSTONE】非規格装備という新たな玩具",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1162.html",
           "author": "JEFRY",
           "description": "アベロス討伐後、uberアベロス(以降、真アベロスと呼称)に挑戦してみるも見事玉砕。装備をより高めても、容易に撃破できるレベルではないと判断し、評判のファルコナーを育成することにした。事前に集めたファルコナー情報は以下。・ローグスキル「影身の刃」「スモークボム」、ファルコナースキル「ダイブボム」「エアリアルアサルト」「隼狩り」を連続使用し、フローでダメージを上昇させるらしい。・ダメージを高めるには、ユニ",
@@ -1073,16 +1083,6 @@
           "wordCount": 1096,
           "title": "HOTタイム。",
           "imageUrl": "https://blog-imgs-185.fc2.com/m/e/d/medaka1985/20260406024743982.png"
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1484.html",
-          "author": "medaka1985",
-          "description": "こんばんは。取りこぼしがあります。緊張します。あうあうアウリ…。謎のエリアです。メインシーフ、1700Lv到達です(*'▽')！いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1484.html",
-          "publishedOn": "2026-04-04T15:32:32.000Z",
-          "wordCount": null,
-          "title": "トリコモナス。",
-          "imageUrl": null
         }
       ]
     },
