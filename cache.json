@@ -150,6 +150,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iIapfXRcRKM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iIapfXRcRKM",
+          "publishedOn": "2026-05-06T00:33:35.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】７か月ぶりのレッドストーンだよ その１０",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=74kh1xzeID8",
           "author": null,
           "description": "",
@@ -354,7 +364,18 @@
       "title": "風に吹かれて",
       "feedUrl": "http://kaze.gg-blog.com/RSS/",
       "siteUrl": "http://kaze.gg-blog.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "kaze.gg-blog.com://entry/229",
+          "author": null,
+          "description": "こんにちは。\n \n \n\n\n\n\n\n\nマーキ　不可視Lv3\n\n\n毎日見てくれてあざす\n\n\n\nコンスタントに毎日10人くらい見てもらっていて感謝です\n \n\n\nそして3か月越しに明かされる謎\n\n\nヒペリオンと会話するみさきちゃん\n\n\n精鋭は必ず誰かが落ちる仕様\n \n \n \n \n \n \nRED STONE 二次創作オンリー\n\n\n\nま導師さんの主催するイラストイベントに、\n風の詩。も参加させていただくことになりました！\n\n応援してね！\n\n\nまだ応募枠も空いてるので\n絵描きの方はぜひ一緒に楽しみましょう\n\n\n\nではまた気まぐれで…(2回目)",
+          "link": "http://kaze.gg-blog.com/wakuteka/%E7%A5%9E%E6%AE%BF%E3%81%AD%E3%82%93",
+          "publishedOn": "2026-05-06T03:22:38.000Z",
+          "wordCount": 269,
+          "title": "神殿ねん",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "のんびりまったり",

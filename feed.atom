@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-06T00:08:21.069Z</updated>
+    <updated>2026-05-06T04:09:12.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[神殿ねん]]></title>
+        <id>kaze.gg-blog.com://entry/229</id>
+        <link href="http://kaze.gg-blog.com/wakuteka/%E7%A5%9E%E6%AE%BF%E3%81%AD%E3%82%93"/>
+        <updated>2026-05-06T03:22:38.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+ 
+ 
+
+
+
+
+
+
+マーキ　不可視Lv3
+
+
+毎日見てくれてあざす
+
+
+
+コンスタントに毎日10人くらい見てもらっていて感謝です
+ 
+
+
+そして3か月越しに明かされる謎
+
+
+ヒペリオンと会話するみさきちゃん
+
+
+精鋭は必ず誰かが落ちる仕様
+ 
+ 
+ 
+ 
+ 
+ 
+RED STONE 二次創作オンリー
+
+
+
+ま導師さんの主催するイラストイベントに、
+風の詩。も参加させていただくことになりました！
+
+応援してね！
+
+
+まだ応募枠も空いてるので
+絵描きの方はぜひ一緒に楽しみましょう
+
+
+
+ではまた気まぐれで…(2回目)]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】７か月ぶりのレッドストーンだよ その１０]]></title>
+        <id>https://www.youtube.com/watch?v=iIapfXRcRKM</id>
+        <link href="https://www.youtube.com/watch?v=iIapfXRcRKM"/>
+        <updated>2026-05-06T00:33:35.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イケル。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1503.html</id>
