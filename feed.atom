@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-07T10:06:37.615Z</updated>
+    <updated>2026-05-07T12:13:17.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レベルアップ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1505.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1505.html"/>
+        <updated>2026-05-07T11:13:35.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。1762Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メイドのレベル上げ進捗]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202605070000/</id>
