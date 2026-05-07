@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-07T04:08:45.606Z</updated>
+    <updated>2026-05-07T07:21:16.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メイドのレベル上げ進捗]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202605070000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202605070000/"/>
+        <updated>2026-05-07T04:30:57.000Z</updated>
+        <summary type="html"><![CDATA[​​5月4日の13時からメイドのレベル上げをスタートしました。スタート時は、Lv1785でした。4日と5日は休みだったのでけっこう狩りをしましたが、6日は仕事だったのであまり狩りはできませんでした。2日間とちょっ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GWボックス。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1504.html</id>
