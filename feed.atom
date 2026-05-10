@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T16:13:22.298Z</updated>
+    <updated>2026-05-10T17:15:57.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヒーローチャンス。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1507.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1507.html"/>
+        <updated>2026-05-10T16:14:51.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。GO!GO!残念、無念・・・。メインシーフ、1768Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[経験値イベントを終えて]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-955.html</id>
