@@ -150,6 +150,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hb7N_KdqJOM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hb7N_KdqJOM",
+          "publishedOn": "2026-05-10T07:09:46.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート１",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JOykNiXGWfg",
           "author": null,
           "description": "",
