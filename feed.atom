@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T07:20:06.432Z</updated>
+    <updated>2026-05-12T10:02:26.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -566,16 +566,6 @@ RED STONE 二次創作オンリー
         <link href="https://medaka1985.fc2.net/blog-entry-1490.html"/>
         <updated>2026-04-14T14:25:48.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。重そうです。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21周年レベリング。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1489.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1489.html"/>
-        <updated>2026-04-12T17:01:48.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインシーフ、1500精鋭報酬です。メインシーフ、1250精鋭報酬です。サブシーフ3、1250精鋭報酬です。武道家、1250精鋭報酬です。天使、1250精鋭報酬です。戦士、1250精鋭報酬です。アーチャー、1250精鋭報酬です。姫、1250精鋭報酬です。キャプテン、1250精鋭報酬です。サブシーフ2、1250精鋭報酬です。テイマ、1250精鋭報酬です。メインシーフ、1720Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
