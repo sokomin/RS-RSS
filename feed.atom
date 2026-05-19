@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T16:25:30.296Z</updated>
+    <updated>2026-05-19T18:25:46.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -577,16 +577,6 @@ RED STONE 二次創作オンリー
         <updated>2026-04-20T09:56:57.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[頭は使いようｗ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202604200000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202604200000/"/>
-        <updated>2026-04-20T05:07:57.000Z</updated>
-        <summary type="html"><![CDATA[2000マップの入場クエを完了してしまうと、2000精鋭のときに与ダメが1/10になってしまいます。闘士は入場クエを完了してしまったので、2000精鋭でMAX4000Kしかダメージを与えられず、ソロだと10分くらい掛かって...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
