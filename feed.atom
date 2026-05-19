@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T12:44:05.583Z</updated>
+    <updated>2026-05-19T16:25:30.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -587,16 +587,6 @@ RED STONE 二次創作オンリー
         <summary type="html"><![CDATA[2000マップの入場クエを完了してしまうと、2000精鋭のときに与ダメが1/10になってしまいます。闘士は入場クエを完了してしまったので、2000精鋭でMAX4000Kしかダメージを与えられず、ソロだと10分くらい掛かって...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】運営は巧妙か適当か]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1161.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1161.html"/>
-        <updated>2026-04-20T04:12:57.000Z</updated>
-        <summary type="html"><![CDATA[土ケミのレベリングは、キレイマルコでショートカットしたのもあり、あっさりLv1500に到達。狩りとオーラ出しで銀チケ180枚くらいゲットし、シルバー促進4、ゴールド促進1を入手。合成の結果、変異タイドナ1体の召喚に成功するも、残念ながらBIS天使ということでお蔵入り。30日+30日期限のペット移動に1500円は勿体無い！と思える様になったRS歴20年弱の老プレイヤーだが、おそらく末期RSでは当たり前の思考だろう。クロードなら15]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
