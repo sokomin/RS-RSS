@@ -331,6 +331,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202605190000/",
+          "author": "雷神の弓",
+          "description": "こつこつやってきた結果、現在Lv1987です。今月は21日と22日が一日中2倍みたいですね。平日で仕事があるので両日ともにそんなに狩りはできないですが、さすがに２日あれば2000いけるかな？最後はクエストで2000に...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202605190000/",
+          "publishedOn": "2026-05-19T10:07:51.000Z",
+          "wordCount": 2498,
+          "title": "メイドは、22日か23日にはLv2000になれるかな？",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/39ea9ef01de1bb02207cd8515048b5f67b020e03.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202605160000/",
           "author": "雷神の弓",
           "description": "​まず、↓を装備することにしました。知恵が増えて、知恵ボーナスが１段階上がりました。今までは3201を満たして狩りをしていましたが、今日から6401↑にしたので経験値が増えました。経験値が増えても火力が下がり...",
@@ -965,6 +975,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1513.html",
+          "author": "medaka1985",
+          "description": "こんばんは。メインシーフ、1773Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1513.html",
+          "publishedOn": "2026-05-19T07:35:12.000Z",
+          "wordCount": 1098,
+          "title": "1773Lv。",
+          "imageUrl": "https://blog-imgs-201.fc2.com/m/e/d/medaka1985/1773Lv.png"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1512.html",
           "author": "medaka1985",
