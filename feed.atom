@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T12:28:22.132Z</updated>
+    <updated>2026-05-20T16:15:46.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[淡い大地くん。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1514.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1514.html"/>
+        <updated>2026-05-20T14:57:15.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。サブシーフ3、1250精鋭報酬です。武道家、位相報酬です。サブシーフ3、位相報酬です。メインシーフ、1774Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メイドは、22日か23日にはLv2000になれるかな？]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202605190000/</id>
