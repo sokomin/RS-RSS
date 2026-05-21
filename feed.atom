@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-21T17:19:18.431Z</updated>
+    <updated>2026-05-21T19:22:47.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メイドLv2000達成]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202605220000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202605220000/"/>
+        <updated>2026-05-21T18:56:48.000Z</updated>
+        <summary type="html"><![CDATA[これでLv2000キャラは、6体目となりました。1999→2000は、土曜日にクエストで上げるつもりだったのですが、↑進行中となっているのに、受諾しているクエスト一覧に見当たりません＾＾；なんかバグっているようなの...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21日は経験値2倍。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1515.html</id>
