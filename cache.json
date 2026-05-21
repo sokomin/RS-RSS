@@ -150,6 +150,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nttFnxyZsuM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nttFnxyZsuM",
+          "publishedOn": "2026-05-21T10:04:14.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート７",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BXqHVECZiHY",
           "author": null,
           "description": "",
