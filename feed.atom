@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-22T04:39:41.562Z</updated>
+    <updated>2026-05-22T08:02:45.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -587,16 +587,6 @@ RED STONE 二次創作オンリー
         <summary type="html"><![CDATA[2026年4月23日アップデートアップデートページはこちら→　◎新規フィールド「栄誉の祭典」限界突破クエストの改善]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリーチャー。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1496.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1496.html"/>
-        <updated>2026-04-22T17:30:54.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。レアクリーチャーGETです。Wビスタにします。若干ダメージが上がった気がします。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
