@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-22T18:10:20.636Z</updated>
+    <updated>2026-05-22T20:14:26.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -586,26 +586,6 @@ RED STONE 二次創作オンリー
         <updated>2026-04-23T09:54:59.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更新]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1321.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1321.html"/>
-        <updated>2026-04-23T08:03:47.000Z</updated>
-        <summary type="html"><![CDATA[アップデートが予想通り来たんで、アプデ一覧も更新しときました。現状、ブログ内のアプデ記事に飛んでから公式にアプデページに飛ぶようにしてますが直接公式のアプデページに飛べるようにしたほうがいいですかね？ブログ記事のほうで、なんのアプデがあったか解り易く載せておいたつもりでがありますが。コメントはされなさそうな気はしますが一覧から直接公式アプデページに飛べるようにするかも考えときます。で、今回のアプデ]]></summary>
-        <author>
-            <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4月新規アップデート]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1320.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1320.html"/>
-        <updated>2026-04-23T07:29:04.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月23日アップデートアップデートページはこちら→　◎新規フィールド「栄誉の祭典」限界突破クエストの改善]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
     <entry>
