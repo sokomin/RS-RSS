@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-24T14:26:54.234Z</updated>
+    <updated>2026-05-24T15:46:03.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[葉っぱを集めよう！]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-957.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-957.html"/>
+        <updated>2026-05-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[職場では4月から入った新入社員が5人居たのですが先日全員辞めてしまいました今後も苦しい状況が続きそうですブラックですねぇこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート９]]></title>
         <id>https://www.youtube.com/watch?v=bl1lsebU4Zk</id>
