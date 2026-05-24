@@ -150,6 +150,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bl1lsebU4Zk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bl1lsebU4Zk",
+          "publishedOn": "2026-05-24T03:14:57.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート９",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bLnIP0HceQ8",
           "author": null,
           "description": "",
@@ -287,16 +297,6 @@
           "publishedOn": "2026-04-27T10:09:41.000Z",
           "wordCount": null,
           "title": "【REDSTONE】７か月ぶりのレッドストーンだよ その７",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JHoX2zYnYuw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JHoX2zYnYuw",
-          "publishedOn": "2026-04-24T14:36:25.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】７か月ぶりのレッドストーンだよ その６",
           "imageUrl": null
         }
       ]
@@ -1133,16 +1133,6 @@
           "publishedOn": "2026-04-26T16:33:23.000Z",
           "wordCount": null,
           "title": "真夏の夜の…。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1497.html",
-          "author": "medaka1985",
-          "description": "こんばんは。唯一、売れる当たりです。パワキがたくさん出たので、結果オーライです！いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1497.html",
-          "publishedOn": "2026-04-24T15:02:57.000Z",
-          "wordCount": null,
-          "title": "スクラッチ。",
           "imageUrl": null
         }
       ]
