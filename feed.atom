@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-26T04:38:15.719Z</updated>
+    <updated>2026-05-26T08:22:02.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -577,26 +577,6 @@ RED STONE 二次創作オンリー
         <updated>2026-04-27T10:09:41.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真夏の夜の…。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1498.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1498.html"/>
-        <updated>2026-04-26T16:33:23.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインシーフ、1500精鋭報酬です。メインシーフ、1250精鋭報酬です。サブシーフ3、1250精鋭報酬です。武道家、1250精鋭報酬です。天使、1250精鋭報酬です。戦士、1250精鋭報酬です。アチャ、1250精鋭報酬です。姫、1250精鋭報酬です。テイマ、1250精鋭報酬です。キャノニア、1250精鋭報酬です。サブシーフ2、1250精鋭報酬です。メインシーフ、1752Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突撃　シルフラBIS]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-953.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-953.html"/>
-        <updated>2026-04-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[昨日は黄砂の影響で私も息子も目が真っ赤になり鼻と喉がしんどい日がありました花粉が落ち着いてきたと思ったらこれですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
