@@ -150,6 +150,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=L4PvpWp70xY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L4PvpWp70xY",
+          "publishedOn": "2026-05-26T14:18:04.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート１０",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/hu3SDxGFnfU",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -954,6 +964,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1518.html",
+          "author": "medaka1985",
+          "description": "こんばんは。３連単！メインシーフ、1784Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1518.html",
+          "publishedOn": "2026-05-26T12:03:57.000Z",
+          "wordCount": null,
+          "title": "お守り箱。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1517.html",
           "author": "medaka1985",
