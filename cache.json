@@ -150,6 +150,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=k4VL7onjcFY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k4VL7onjcFY",
+          "publishedOn": "2026-05-28T10:23:33.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート１１",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/LzDkTPqOqE8",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
