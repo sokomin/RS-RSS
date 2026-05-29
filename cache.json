@@ -150,6 +150,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vFOG-ddlOTk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vFOG-ddlOTk",
+          "publishedOn": "2026-05-29T10:48:09.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート１２",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=k4VL7onjcFY",
           "author": null,
           "description": "",
@@ -974,6 +984,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1521.html",
+          "author": "medaka1985",
+          "description": "こんばんは。定期箱です。なかなかでしょう！いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1521.html",
+          "publishedOn": "2026-05-29T10:56:16.000Z",
+          "wordCount": null,
+          "title": "スフィアーボックス。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1520.html",
           "author": "medaka1985",
