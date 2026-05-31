@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-31T14:49:28.662Z</updated>
+    <updated>2026-05-31T16:15:00.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リベンジ！　倒せヒペリオン！！]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-958.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-958.html"/>
+        <updated>2026-05-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リビングにある掛け時計がそろそろ寿命のようです時間丁度になるとキティちゃんが飛び出てくるやつで気に入ってました処分が大変なので某買取店に見せに行ったら値段が付きました古いものでもわからないものですねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[月末総決算。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1522.html</id>
