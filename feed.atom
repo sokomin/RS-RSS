@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-01T04:48:48.074Z</updated>
+    <updated>2026-06-01T10:24:49.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート１４]]></title>
+        <id>https://www.youtube.com/watch?v=8ibBersEVlA</id>
+        <link href="https://www.youtube.com/watch?v=8ibBersEVlA"/>
+        <updated>2026-06-01T09:30:30.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知識マスケの装備ステを微調整]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606010000/</id>
@@ -701,15 +710,6 @@ RED STONE 二次創作オンリー
         <summary type="html"><![CDATA[アベロス討伐後、uberアベロス(以降、真アベロスと呼称)に挑戦してみるも見事玉砕。装備をより高めても、容易に撃破できるレベルではないと判断し、評判のファルコナーを育成することにした。事前に集めたファルコナー情報は以下。・ローグスキル「影身の刃」「スモークボム」、ファルコナースキル「ダイブボム」「エアリアルアサルト」「隼狩り」を連続使用し、フローでダメージを上昇させるらしい。・ダメージを高めるには、ユニ]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】７か月ぶりのレッドストーンだよ その９]]></title>
-        <id>https://www.youtube.com/watch?v=CJsfVGchGss</id>
-        <link href="https://www.youtube.com/watch?v=CJsfVGchGss"/>
-        <updated>2026-05-02T22:06:15.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
