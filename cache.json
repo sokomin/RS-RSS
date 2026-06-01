@@ -542,16 +542,6 @@
           "wordCount": 605,
           "title": "【REDSTONE】非規格装備という新たな玩具",
           "imageUrl": null
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1162.html",
-          "author": "JEFRY",
-          "description": "アベロス討伐後、uberアベロス(以降、真アベロスと呼称)に挑戦してみるも見事玉砕。装備をより高めても、容易に撃破できるレベルではないと判断し、評判のファルコナーを育成することにした。事前に集めたファルコナー情報は以下。・ローグスキル「影身の刃」「スモークボム」、ファルコナースキル「ダイブボム」「エアリアルアサルト」「隼狩り」を連続使用し、フローでダメージを上昇させるらしい。・ダメージを高めるには、ユニ",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1162.html",
-          "publishedOn": "2026-05-03T04:09:17.000Z",
-          "wordCount": 604,
-          "title": "【Last Epoch】嵐刃ローグ(ブレードダンサー)：真アベロス討伐への道",
-          "imageUrl": null
         }
       ]
     },
@@ -1003,6 +993,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1523.html",
+          "author": "medaka1985",
+          "description": "こんばんは。初めて拾いました！メインシーフ、1787Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1523.html",
+          "publishedOn": "2026-06-01T12:45:52.000Z",
+          "wordCount": 1100,
+          "title": "コラブ選択BOX。",
+          "imageUrl": "https://blog-imgs-201.fc2.com/m/e/d/medaka1985/20260601214412346.png"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1522.html",
           "author": "medaka1985",
