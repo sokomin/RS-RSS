@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-02T11:06:59.667Z</updated>
+    <updated>2026-06-02T15:13:41.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -671,16 +671,6 @@ RED STONE 二次創作オンリー
         <summary type="html"><![CDATA[こんばんは。いっきまーす！ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!オッス！お願いしまーす！おお！マジすか！？メインシーフ、1758Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】非規格装備という新たな玩具]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1163.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1163.html"/>
-        <updated>2026-05-04T02:05:31.000Z</updated>
-        <summary type="html"><![CDATA[おそらく、今あるユニーク装備に代わる装備であることは間違いないだろう。プロデューサー曰く、今の装備がすぐお払い箱になることはなく、長い年月掛けて入れ替わっていくらしい。ギルメン曰く、イメージ的にはウポス補助武器。長い年月を掛けて、オプション厳選、レベル強化していく必要があり、それが武器、防具となれば、気が遠くなる様な年月が必要になるだろう。問題は、運営が運転資金欲しさに課金アイテムによるブーストに]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
