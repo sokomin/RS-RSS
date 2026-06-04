@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-04T18:23:28.713Z</updated>
+    <updated>2026-06-04T20:52:04.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イベントの変異促進剤]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606050000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606050000/"/>
+        <updated>2026-06-04T19:57:52.000Z</updated>
+        <summary type="html"><![CDATA[変異促進剤は失敗だったんだけど、そのときの合成でヌウリを作りました。ヌウリ付けただけなのですが、思ったより表記が上がりましたね。そろそろ本格的に位相兵狩れそうな気がするので、予定より早いですが土日...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[やっぱり、中野君の、料理は、最高やな。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1525.html</id>
