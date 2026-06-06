@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-06T21:32:06.405Z</updated>
+    <updated>2026-06-06T22:42:39.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -633,15 +633,6 @@
         <summary type="html"><![CDATA[こんばんは。ホットタイムの戦利品です。メインシーフ、位相報酬です。メインシーフ、1765Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】７か月ぶりのレッドストーンだよ その１１]]></title>
-        <id>https://www.youtube.com/watch?v=JOykNiXGWfg</id>
-        <link href="https://www.youtube.com/watch?v=JOykNiXGWfg"/>
-        <updated>2026-05-08T10:12:29.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
