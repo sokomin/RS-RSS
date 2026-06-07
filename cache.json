@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1RWdgskraZk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1RWdgskraZk",
+          "publishedOn": "2026-06-07T02:32:17.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート１７",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mI2CrNsD4UE",
           "author": null,
           "description": "",
