@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T14:31:43.289Z</updated>
+    <updated>2026-06-07T15:56:59.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大型台風が過ぎて]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-959.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-959.html"/>
+        <updated>2026-06-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今週は出勤時間に台風が直撃した影響もあってとても大変でした皆様の地域は影響はいかがでしたでしょうかこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金槌。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1527.html</id>
