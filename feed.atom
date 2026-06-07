@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T12:23:01.148Z</updated>
+    <updated>2026-06-07T14:31:43.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金槌。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1527.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1527.html"/>
+        <updated>2026-06-07T13:31:54.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ハシュラムからです。メインシーフ、1790Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート１７]]></title>
         <id>https://www.youtube.com/watch?v=1RWdgskraZk</id>
