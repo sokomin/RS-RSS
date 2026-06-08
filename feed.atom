@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-08T17:30:56.052Z</updated>
+    <updated>2026-06-08T19:51:04.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lv1305知識マスケによるヒペリオン討伐]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606090000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606090000/"/>
+        <updated>2026-06-08T17:39:29.000Z</updated>
+        <summary type="html"><![CDATA[※装備の付いてない知識ランサーでブラインドシンカー撃ってヒペ止めました。当然、知識ランサーはブラインドシンカー１発撃った以外なにもしていませんｗ実際にヒペリオンを攻撃し始めたのは残り29：10くらいだっ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知識マスケ以外の活動]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606080000/</id>
@@ -653,15 +663,6 @@
         <summary type="html"><![CDATA[GW中は結構出勤が多かったのですが通勤電車はガラガラでした朝の満員電車が無いのは非常にストレスフリーでしたこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート１]]></title>
-        <id>https://www.youtube.com/watch?v=hb7N_KdqJOM</id>
-        <link href="https://www.youtube.com/watch?v=hb7N_KdqJOM"/>
-        <updated>2026-05-10T07:09:46.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
