@@ -330,6 +330,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202606100000/",
+          "author": "雷神の弓",
+          "description": "​​まず、要らないOPを選択して削除を実施します。これで3OP目が空きになるので、貼り付けを実施します。だいぶ見映えが良くなりました。ベースが狩り用じゃないとか言われたことがありますが、位相兵を狩る場合は...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202606100000/",
+          "publishedOn": "2026-06-10T03:59:14.000Z",
+          "wordCount": 2497,
+          "title": "知識ランサーの装備を強化",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/d84f4d10728e25a93ebf8311c29232ac6629c8e8.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202606090000/",
           "author": "雷神の弓",
           "description": "※装備の付いてない知識ランサーでブラインドシンカー撃ってヒペ止めました。当然、知識ランサーはブラインドシンカー１発撃った以外なにもしていませんｗ実際にヒペリオンを攻撃し始めたのは残り29：10くらいだっ...",
@@ -1171,16 +1181,6 @@
           "publishedOn": "2026-05-13T15:23:43.000Z",
           "wordCount": null,
           "title": "うなぎ。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1508.html",
-          "author": "medaka1985",
-          "description": "こんばんは。マナウォーカー。メインシーフ、1769Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1508.html",
-          "publishedOn": "2026-05-11T14:31:30.000Z",
-          "wordCount": null,
-          "title": "クリーチャー冒険記。",
           "imageUrl": null
         }
       ]
