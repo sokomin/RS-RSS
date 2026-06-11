@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IDYeAt-E820",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IDYeAt-E820",
+          "publishedOn": "2026-06-11T10:19:36.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート１８",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1RWdgskraZk",
           "author": null,
           "description": "",
