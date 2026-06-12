@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-12T01:59:45.361Z</updated>
+    <updated>2026-06-12T06:52:59.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -641,26 +641,6 @@
         <link href="https://medaka1985.fc2.net/blog-entry-1510.html"/>
         <updated>2026-05-14T13:54:59.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。メインシーフ、1770Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闘士はミニP無しでも位相兵に4万K出せます]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202605140000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202605140000/"/>
-        <updated>2026-05-13T16:08:25.000Z</updated>
-        <summary type="html"><![CDATA[​まずは、勇気のクリスタル無しが↓大体4万K出ていますが、2～3割は低いダメも出ています。そして↓これが勇気のクリスタル有全段4万K確定ですね～。※ミニＰ無し、ベルセ無し、ダメUP系の消費アイテム無し、古龍はS...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[うなぎ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1509.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1509.html"/>
-        <updated>2026-05-13T15:23:43.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。昼ご飯です。サクッ⋯フワッ⋯。美味でした。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
