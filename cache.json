@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-960.html",
+          "author": "ミツリン",
+          "description": "先日は雷雨の日がありました私の住む地域ではひょうが降った地域もありました毎週天候が不安定ですねこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-960.html",
+          "publishedOn": "2026-06-14T15:00:00.000Z",
+          "wordCount": 655,
+          "title": "プレゼント機能の実装",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-959.html",
           "author": "ミツリン",
           "description": "今週は出勤時間に台風が直撃した影響もあってとても大変でした皆様の地域は影響はいかがでしたでしょうかこんにちは　ミツリンです",
@@ -1009,6 +1019,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1531.html",
+          "author": "medaka1985",
+          "description": "こんばんは。がっつり上げました(｀・ω・´)ｼｬｷｰﾝ。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1531.html",
+          "publishedOn": "2026-06-14T13:36:05.000Z",
+          "wordCount": null,
+          "title": "みっちりみちみち。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1530.html",
           "author": "medaka1985",
