@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-14T18:47:06.920Z</updated>
+    <updated>2026-06-14T20:21:50.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -693,16 +693,6 @@
         <updated>2026-05-16T10:26:10.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メイドの装備を微調整してラストスパートです]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202605160000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202605160000/"/>
-        <updated>2026-05-16T06:48:17.000Z</updated>
-        <summary type="html"><![CDATA[​まず、↓を装備することにしました。知恵が増えて、知恵ボーナスが１段階上がりました。今までは3201を満たして狩りをしていましたが、今日から6401↑にしたので経験値が増えました。経験値が増えても火力が下がり...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
