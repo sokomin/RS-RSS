@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-14T21:55:37.561Z</updated>
+    <updated>2026-06-14T23:12:55.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -684,15 +684,6 @@
         <summary type="html"><![CDATA[こんばんは。クリーチャー強化です。神獣系ダメージ50Lvです。メインシーフ、1771Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート４]]></title>
-        <id>https://www.youtube.com/watch?v=KzYWENTNzE4</id>
-        <link href="https://www.youtube.com/watch?v=KzYWENTNzE4"/>
-        <updated>2026-05-16T10:26:10.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
