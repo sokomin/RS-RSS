@@ -129,6 +129,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0fnVNBzYlKg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0fnVNBzYlKg",
+          "publishedOn": "2026-06-15T09:52:47.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート２０",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OMThGyd3N7M",
           "author": null,
           "description": "",
