@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-16T02:12:16.126Z</updated>
+    <updated>2026-06-16T07:45:25.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今週の装備強化]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606160000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606160000/"/>
+        <updated>2026-06-16T03:09:24.000Z</updated>
+        <summary type="html"><![CDATA[まずは、買い物から。※この指は全物理キャラ（物理弓、闘士、霊術）で使います。6000本で迷っていたら5000本に値下がりしていたので即購入しました。フロントラインもちゃんと直っていたので、緩和も狩りで効果が...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート２０]]></title>
         <id>https://www.youtube.com/watch?v=0fnVNBzYlKg</id>
@@ -664,16 +674,6 @@
         <updated>2026-05-18T10:06:04.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コラプを携えて　【ウポス秘密編】]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-956.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-956.html"/>
-        <updated>2026-05-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[朝晩と日中の気温差が激しい時期ですね私も息子も風邪の様な症状が続き鼻水と喉の痛みが良くありますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
