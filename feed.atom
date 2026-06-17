@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-17T18:26:22.714Z</updated>
+    <updated>2026-06-17T20:54:30.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -655,16 +655,6 @@
         <summary type="html"><![CDATA[こつこつやってきた結果、現在Lv1987です。今月は21日と22日が一日中2倍みたいですね。平日で仕事があるので両日ともにそんなに狩りはできないですが、さすがに２日あれば2000いけるかな？最後はクエストで2000に...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1773Lv。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1513.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1513.html"/>
-        <updated>2026-05-19T07:35:12.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインシーフ、1773Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
