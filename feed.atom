@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-17T01:44:17.999Z</updated>
+    <updated>2026-06-17T07:17:32.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -653,16 +653,6 @@
         <link href="https://medaka1985.fc2.net/blog-entry-1513.html"/>
         <updated>2026-05-19T07:35:12.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。メインシーフ、1773Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[温泉旅行。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1512.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1512.html"/>
-        <updated>2026-05-18T14:17:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。温泉に行きました。広いです。繊細な夕食です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
