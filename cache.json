@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sgyHSGaHeKs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sgyHSGaHeKs",
+          "publishedOn": "2026-06-20T21:33:34.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート２２",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VmOi2n0M2ms",
           "author": null,
           "description": "",
