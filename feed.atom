@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-22T11:19:47.360Z</updated>
+    <updated>2026-06-22T16:07:33.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -654,15 +654,6 @@
         <summary type="html"><![CDATA[職場では4月から入った新入社員が5人居たのですが先日全員辞めてしまいました今後も苦しい状況が続きそうですブラックですねぇこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート９]]></title>
-        <id>https://www.youtube.com/watch?v=bl1lsebU4Zk</id>
-        <link href="https://www.youtube.com/watch?v=bl1lsebU4Zk"/>
-        <updated>2026-05-24T03:14:57.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
