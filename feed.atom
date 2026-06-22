@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-22T05:35:13.231Z</updated>
+    <updated>2026-06-22T11:19:47.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート２４]]></title>
+        <id>https://www.youtube.com/watch?v=7Lvmx3LAal8</id>
+        <link href="https://www.youtube.com/watch?v=7Lvmx3LAal8"/>
+        <updated>2026-06-22T10:26:38.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今週の白異界]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606220000/</id>
