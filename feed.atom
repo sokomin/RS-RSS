@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-22T23:45:56.558Z</updated>
+    <updated>2026-06-23T04:00:35.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -654,16 +654,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[葉っぱを集めよう！]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-957.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-957.html"/>
-        <updated>2026-05-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[職場では4月から入った新入社員が5人居たのですが先日全員辞めてしまいました今後も苦しい状況が続きそうですブラックですねぇこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
