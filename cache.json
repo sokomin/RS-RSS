@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mP-c4TONt7E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mP-c4TONt7E",
+          "publishedOn": "2026-06-24T11:20:00.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート２５",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7Lvmx3LAal8",
           "author": null,
           "description": "",
