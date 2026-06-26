@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-26T08:32:08.217Z</updated>
+    <updated>2026-06-26T11:30:12.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -623,16 +623,6 @@
         <updated>2026-05-28T10:23:33.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Last Epoch】旋風刃センチネル(ヴォイドナイト)：真アベロス討伐への道]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1164.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1164.html"/>
-        <updated>2026-05-27T23:06:09.000Z</updated>
-        <summary type="html"><![CDATA[uberアベロス(以降、真アベロスと呼称)を倒したい！と悩み(そこが楽しいのだが)、センチネルにキャラチェンジ。まずはフォージガードのミニオンビルド(フォージストライク)を試すも、真アベロスを倒せる火力に到達できる気がせず断念。次は同じくセンチネルのシールドスロービルド(火攻撃変換)を試すも、火力が伸びず断念。さてどうするか？一番可能性がありそうなのはヴォイドナイトの消滅波ビルドだが、シーズン２で触ったことも]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
