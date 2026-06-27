@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-27T05:37:35.645Z</updated>
+    <updated>2026-06-27T08:16:38.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -47,6 +47,16 @@
 ではまた]]></summary>
         <author>
             <name>風に吹かれて</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】2026夏(6/25)アップデートって結局どうなの？]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1167.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1167.html"/>
+        <updated>2026-06-27T03:59:30.000Z</updated>
+        <summary type="html"><![CDATA[注目の内容は以下（並びは個人的に興味があるもの順）１．新規装備アイテム「非規格装備」追加ぱっと見ぶっ壊れ装備だが、完成させるまでの道のりが遠い、かつ運要素あり。自身のレベルやmobレベルが高いほど強いベースがドロップしやすいらしく、Lv2000以降で狩るメリットがやっと実装された感じ。ただし、レベリングを兼ねようとすると、たくさん課金する必要があるのは変わらず。強い装備をドロップさせて強化して～は、ハクス]]></summary>
+        <author>
+            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
@@ -657,16 +667,6 @@
         <updated>2026-05-29T10:48:09.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[変異体。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1520.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1520.html"/>
-        <updated>2026-05-28T14:08:52.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。安全ピンで、ぴがらぽぉ！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>

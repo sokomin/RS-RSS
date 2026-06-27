@@ -505,6 +505,16 @@
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
         {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1167.html",
+          "author": "JEFRY",
+          "description": "注目の内容は以下（並びは個人的に興味があるもの順）１．新規装備アイテム「非規格装備」追加ぱっと見ぶっ壊れ装備だが、完成させるまでの道のりが遠い、かつ運要素あり。自身のレベルやmobレベルが高いほど強いベースがドロップしやすいらしく、Lv2000以降で狩るメリットがやっと実装された感じ。ただし、レベリングを兼ねようとすると、たくさん課金する必要があるのは変わらず。強い装備をドロップさせて強化して～は、ハクス",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1167.html",
+          "publishedOn": "2026-06-27T03:59:30.000Z",
+          "wordCount": 608,
+          "title": "【REDSTONE】2026夏(6/25)アップデートって結局どうなの？",
+          "imageUrl": null
+        },
+        {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1166.html",
           "author": "JEFRY",
           "description": "有名どころのハクスラは、ほぼシーズン制を導入している。シーズン制とは？・特有のシステムやアイテムが存在し、Lv1、資産ゼロからスタートする制度。・前シーズンで育てたキャラクターや資産は引き継げない。・ゲームプレイはシーズンで行う(通常プレイも出来るが、ほぼしない)アイテム取引等で資産を貯め、欲しいアイテムを購入することが好きな自分は、シーズン制があまり好きではない。シーズン開始当初は人も多く取引も盛ん",
@@ -1148,16 +1158,6 @@
           "publishedOn": "2026-05-29T10:56:16.000Z",
           "wordCount": null,
           "title": "スフィアーボックス。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1520.html",
-          "author": "medaka1985",
-          "description": "こんばんは。安全ピンで、ぴがらぽぉ！いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1520.html",
-          "publishedOn": "2026-05-28T14:08:52.000Z",
-          "wordCount": null,
-          "title": "変異体。",
           "imageUrl": null
         }
       ]
