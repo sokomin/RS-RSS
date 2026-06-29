@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-29T04:25:09.879Z</updated>
+    <updated>2026-06-29T09:17:45.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -667,16 +667,6 @@
         <summary type="html"><![CDATA[まだ課金を継続してくれている人達のお陰で、何とか持ち堪えているREDSTONE。自分はクリーチャー冒険ストーンになっているが、そういう人多いんだろうなｗ非規格外装備の実装や改変(主に弱体化)が予定されているため、ロト品以外の物流も控えめになり、街に活気も無い。無限エラーや強制クラ落ちは変わらず起きており、おそらくプレイヤーは、運営開発は直さないのではなく「直せない」のだと思い始めている。実際のところは分から]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識マスケ始めました～]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202605310000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202605310000/"/>
-        <updated>2026-05-30T19:07:21.000Z</updated>
-        <summary type="html"><![CDATA[１週間くらい前にキャラ作成して、２日前にダリデリクエがやっと終わりました。知識と魔法強化、魔法弱化、火強化、火弱化、物理基礎攻撃力、物理ダメージをそれぞれ稼がなければならないという珍妙なキャラなの...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
