@@ -129,6 +129,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uGcE0iyOw4A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uGcE0iyOw4A",
+          "publishedOn": "2026-06-29T10:26:39.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート２８",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UUYqHL5AXCM",
           "author": null,
           "description": "",
@@ -309,6 +319,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202606290000/",
+          "author": "雷神の弓",
+          "description": "霊術のレベルが1500近くなって、武器の装備Lv－200がなくても大丈夫になったので解放変換を実施しました。狙いは当然最終ダメです。変換15回目で、　カリスマ+504　属性吸収無視　最終攻撃力14％　魔法攻撃力30％...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202606290000/",
+          "publishedOn": "2026-06-29T10:42:45.000Z",
+          "wordCount": 2513,
+          "title": "解放変換の妥協ラインはどこ？",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/40d57802b9223d507b1f28fcddb0fac82275aa9f.73.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202606250000/",
           "author": "雷神の弓",
@@ -522,16 +542,6 @@
           "publishedOn": "2026-06-22T21:40:25.000Z",
           "wordCount": 609,
           "title": "【ゲーム全般】シーズン制ゲームとGrimDawn新DLC発売",
-          "imageUrl": null
-        },
-        {
-          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1165.html",
-          "author": "JEFRY",
-          "description": "まだ課金を継続してくれている人達のお陰で、何とか持ち堪えているREDSTONE。自分はクリーチャー冒険ストーンになっているが、そういう人多いんだろうなｗ非規格外装備の実装や改変(主に弱体化)が予定されているため、ロト品以外の物流も控えめになり、街に活気も無い。無限エラーや強制クラ落ちは変わらず起きており、おそらくプレイヤーは、運営開発は直さないのではなく「直せない」のだと思い始めている。実際のところは分から",
-          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1165.html",
-          "publishedOn": "2026-05-31T00:17:57.000Z",
-          "wordCount": 607,
-          "title": "【REDSTONE】現状の問題点を整理したい",
           "imageUrl": null
         }
       ]
