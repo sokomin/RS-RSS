@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-30T01:35:11.815Z</updated>
+    <updated>2026-06-30T05:54:22.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -582,16 +582,6 @@
         <summary type="html"><![CDATA[​​※装備Lv1294のオーバーフローを使うために装備40バッジを購入したので、全SSの装備レベルが40下がっています。↑このステを見たときに、なんでそんなに力が多いの？って思う人がいると思います。力2000の理由は↓...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リベンジ！　倒せヒペリオン！！]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-958.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-958.html"/>
-        <updated>2026-05-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[リビングにある掛け時計がそろそろ寿命のようです時間丁度になるとキティちゃんが飛び出てくるやつで気に入ってました処分が大変なので某買取店に見せに行ったら値段が付きました古いものでもわからないものですねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
