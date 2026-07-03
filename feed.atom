@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-03T17:02:30.254Z</updated>
+    <updated>2026-07-03T18:41:19.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -562,16 +562,6 @@
         <updated>2026-06-04T10:48:05.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マスケ用の装備を作成]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606040000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606040000/"/>
-        <updated>2026-06-04T05:20:47.000Z</updated>
-        <summary type="html"><![CDATA[知識職で使い回している腰は、恩寵・運比・ランディスの付いたソウルリンクです。ちょっとしたミスでマスケは恩寵が5箇所になってしまったことと、耐久も欲しいことからマスケ用の腰を作成しました。2解放→解放変...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
