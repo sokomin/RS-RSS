@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-03T22:40:58.482Z</updated>
+    <updated>2026-07-03T23:44:23.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -553,15 +553,6 @@
         <summary type="html"><![CDATA[こんばんは。やっとシナリオ追いついたー！アスバルさんMP高いッスねぇ。スリーD－ギー術の結晶です。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート１５]]></title>
-        <id>https://www.youtube.com/watch?v=AB3rIWXBSaU</id>
-        <link href="https://www.youtube.com/watch?v=AB3rIWXBSaU"/>
-        <updated>2026-06-04T10:48:05.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
