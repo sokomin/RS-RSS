@@ -301,6 +301,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202607040000/",
+          "author": "雷神の弓",
+          "description": "​昼間のHOTタイムの結果、↓のレベルになりました。参考になるかも知れないので、ステも一応載せておきます。知恵を削ったり知識を増やしたりした結果、表記ダメは↓になりました。この表記で知識覚醒右クリ押しっ...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202607040000/",
+          "publishedOn": "2026-07-04T07:38:45.000Z",
+          "wordCount": 2498,
+          "title": "知識マスケの途中経過",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/b13ee8c7629f0023ab7b619f617f4cfd3054d5b0.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202606290000/",
           "author": "雷神の弓",
           "description": "霊術のレベルが1500近くなって、武器の装備Lv－200がなくても大丈夫になったので解放変換を実施しました。狙いは当然最終ダメです。変換15回目で、　カリスマ+504　属性吸収無視　最終攻撃力14％　魔法攻撃力30％...",
@@ -389,16 +399,6 @@
           "wordCount": 2503,
           "title": "サナ買っちゃった～",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/d7e0e6e2cab50d1dd87e8f2b14fd6a2559da6f0d.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202606050000/",
-          "author": "雷神の弓",
-          "description": "変異促進剤は失敗だったんだけど、そのときの合成でヌウリを作りました。ヌウリ付けただけなのですが、思ったより表記が上がりましたね。そろそろ本格的に位相兵狩れそうな気がするので、予定より早いですが土日...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202606050000/",
-          "publishedOn": "2026-06-04T19:57:52.000Z",
-          "wordCount": 2493,
-          "title": "イベントの変異促進剤",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/70d6e09a2e3f9f09b4d92cd82fcaf68dca64bee3.73.9.9.3.png"
         }
       ]
     },

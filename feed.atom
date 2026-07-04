@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-04T06:36:27.288Z</updated>
+    <updated>2026-07-04T09:08:19.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知識マスケの途中経過]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202607040000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202607040000/"/>
+        <updated>2026-07-04T07:38:45.000Z</updated>
+        <summary type="html"><![CDATA[​昼間のHOTタイムの結果、↓のレベルになりました。参考になるかも知れないので、ステも一応載せておきます。知恵を削ったり知識を増やしたりした結果、表記ダメは↓になりました。この表記で知識覚醒右クリ押しっ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート２９]]></title>
         <id>https://www.youtube.com/watch?v=VA5qsAIY3YM</id>
@@ -533,16 +543,6 @@
         <updated>2026-06-05T10:25:28.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イベントの変異促進剤]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606050000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606050000/"/>
-        <updated>2026-06-04T19:57:52.000Z</updated>
-        <summary type="html"><![CDATA[変異促進剤は失敗だったんだけど、そのときの合成でヌウリを作りました。ヌウリ付けただけなのですが、思ったより表記が上がりましたね。そろそろ本格的に位相兵狩れそうな気がするので、予定より早いですが土日...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
