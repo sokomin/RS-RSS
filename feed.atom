@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-04T22:39:04.794Z</updated>
+    <updated>2026-07-04T23:43:46.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -524,6 +524,15 @@
         <summary type="html"><![CDATA[こんばんは。はい、チーズ！メインシーフ、1788Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート１６]]></title>
+        <id>https://www.youtube.com/watch?v=mI2CrNsD4UE</id>
+        <link href="https://www.youtube.com/watch?v=mI2CrNsD4UE"/>
+        <updated>2026-06-05T15:05:48.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
