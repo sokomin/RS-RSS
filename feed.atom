@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-05T14:47:29.449Z</updated>
+    <updated>2026-07-05T16:13:36.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[武道非規格武器を試す]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-963.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-963.html"/>
+        <updated>2026-07-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[連日雨の日が多くて通勤が大変ですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート３０]]></title>
         <id>https://www.youtube.com/watch?v=WuENuXvnNmc</id>
