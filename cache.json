@@ -140,6 +140,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6m3-0f4oThs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6m3-0f4oThs",
+          "publishedOn": "2026-07-06T09:50:10.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート３１",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WuENuXvnNmc",
           "author": null,
           "description": "",
@@ -961,6 +971,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1541.html",
+          "author": "medaka1985",
+          "description": "こんばんは。メインシーフ、1832Lv達成です(*'▽')。最近、S鯖の相場が下がっているのは恐らく、ノード使用時の手数料でシステムがインゴを回収してるからだと思います。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1541.html",
+          "publishedOn": "2026-07-06T12:19:57.000Z",
+          "wordCount": null,
+          "title": "デフレの理由。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1540.html",
           "author": "medaka1985",
