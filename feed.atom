@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-07T09:51:06.801Z</updated>
+    <updated>2026-07-07T12:29:55.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[ベルセとかではなく普通の状態でインセンの表記が2000万を超えました。装備構成や超越スキルをいじった結果です。詳細は後日書きます。]]></summary>
         <author>
             <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】非規格装備の今後（個人的予想）]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1168.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1168.html"/>
+        <updated>2026-07-07T03:43:05.000Z</updated>
+        <summary type="html"><![CDATA[使用可能なアイテムから推察するに、非規格装備はノーマルアイテム扱いなんじゃないかな。昔のRSでは、ノーマルアイテムにオプションが付いた「レアアイテム」を狙ってドロップ狩りをしていたが、今正に非規格装備がその状態だとおもう。＜非規格装備＞〇使用可能なアイテム異次元ボックス、消滅の魔法書、青色の再構成魔法書、青色の魔力増幅魔法書、オプション魔法のお守り、エンチャント文書、超強力ボンド、魔法のボンド×使用]]></summary>
+        <author>
+            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
@@ -543,26 +553,6 @@
         <summary type="html"><![CDATA[Lv2000になったキャラ達もヒペリオンや各種精鋭は行くので、ちょいちょい装備更新はしています。※フェーズ・古龍はやりませんまず、毒ボトル姫用の指を作成W速度知識比の周年記念指を使っていたので、↑シュミット...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大型台風が過ぎて]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-959.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-959.html"/>
-        <updated>2026-06-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今週は出勤時間に台風が直撃した影響もあってとても大変でした皆様の地域は影響はいかがでしたでしょうかこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金槌。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1527.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1527.html"/>
-        <updated>2026-06-07T13:31:54.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ハシュラムからです。メインシーフ、1790Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>

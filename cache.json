@@ -56,16 +56,6 @@
           "wordCount": 655,
           "title": "プレゼント機能の実装",
           "imageUrl": null
-        },
-        {
-          "id": "https://mitsurin32.blog.fc2.com/blog-entry-959.html",
-          "author": "ミツリン",
-          "description": "今週は出勤時間に台風が直撃した影響もあってとても大変でした皆様の地域は影響はいかがでしたでしょうかこんにちは　ミツリンです",
-          "link": "https://mitsurin32.blog.fc2.com/blog-entry-959.html",
-          "publishedOn": "2026-06-07T15:00:00.000Z",
-          "wordCount": 655,
-          "title": "大型台風が過ぎて",
-          "imageUrl": null
         }
       ]
     },
@@ -485,6 +475,16 @@
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
       "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1168.html",
+          "author": "JEFRY",
+          "description": "使用可能なアイテムから推察するに、非規格装備はノーマルアイテム扱いなんじゃないかな。昔のRSでは、ノーマルアイテムにオプションが付いた「レアアイテム」を狙ってドロップ狩りをしていたが、今正に非規格装備がその状態だとおもう。＜非規格装備＞〇使用可能なアイテム異次元ボックス、消滅の魔法書、青色の再構成魔法書、青色の魔力増幅魔法書、オプション魔法のお守り、エンチャント文書、超強力ボンド、魔法のボンド×使用",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1168.html",
+          "publishedOn": "2026-07-07T03:43:05.000Z",
+          "wordCount": 608,
+          "title": "【REDSTONE】非規格装備の今後（個人的予想）",
+          "imageUrl": null
+        },
         {
           "id": "http://amakusa46.blog34.fc2.com/blog-entry-1167.html",
           "author": "JEFRY",
@@ -1109,16 +1109,6 @@
           "publishedOn": "2026-06-10T11:00:36.000Z",
           "wordCount": null,
           "title": "鏡挑戦！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1527.html",
-          "author": "medaka1985",
-          "description": "こんばんは。ハシュラムからです。メインシーフ、1790Lv突入です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1527.html",
-          "publishedOn": "2026-06-07T13:31:54.000Z",
-          "wordCount": null,
-          "title": "金槌。",
           "imageUrl": null
         }
       ]
