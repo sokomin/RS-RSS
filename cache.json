@@ -278,16 +278,6 @@
           "wordCount": null,
           "title": "【REDSTONE】レッドストーン　ロイ日記　パート１８",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1RWdgskraZk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1RWdgskraZk",
-          "publishedOn": "2026-06-07T13:47:38.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】レッドストーン　ロイ日記　パート１７",
-          "imageUrl": null
         }
       ]
     },
@@ -320,6 +310,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202607070000/",
+          "author": "雷神の弓",
+          "description": "ベルセとかではなく普通の状態でインセンの表記が2000万を超えました。装備構成や超越スキルをいじった結果です。詳細は後日書きます。",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202607070000/",
+          "publishedOn": "2026-07-07T04:32:08.000Z",
+          "wordCount": 2491,
+          "title": "インセンの表記が2000万を超えました",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/d3f053e8da129e7fb93aeb118bc2f011b5bb46c6.73.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202607060000/",
           "author": "雷神の弓",
