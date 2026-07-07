@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-07T19:25:01.640Z</updated>
+    <updated>2026-07-07T21:10:04.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -541,16 +541,6 @@
         <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606090000/"/>
         <updated>2026-06-08T17:39:29.000Z</updated>
         <summary type="html"><![CDATA[※装備の付いてない知識ランサーでブラインドシンカー撃ってヒペ止めました。当然、知識ランサーはブラインドシンカー１発撃った以外なにもしていませんｗ実際にヒペリオンを攻撃し始めたのは残り29：10くらいだっ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識マスケ以外の活動]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606080000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606080000/"/>
-        <updated>2026-06-08T08:52:47.000Z</updated>
-        <summary type="html"><![CDATA[Lv2000になったキャラ達もヒペリオンや各種精鋭は行くので、ちょいちょい装備更新はしています。※フェーズ・古龍はやりませんまず、毒ボトル姫用の指を作成W速度知識比の周年記念指を使っていたので、↑シュミット...]]></summary>
         <author>
             <name>雷神の弓</name>
         </author>
