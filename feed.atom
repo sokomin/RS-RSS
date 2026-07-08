@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-08T04:36:38.673Z</updated>
+    <updated>2026-07-08T07:13:53.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -541,16 +541,6 @@
         <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606100000/"/>
         <updated>2026-06-10T03:59:14.000Z</updated>
         <summary type="html"><![CDATA[​​まず、要らないOPを選択して削除を実施します。これで3OP目が空きになるので、貼り付けを実施します。だいぶ見映えが良くなりました。ベースが狩り用じゃないとか言われたことがありますが、位相兵を狩る場合は...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lv1305知識マスケによるヒペリオン討伐]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606090000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606090000/"/>
-        <updated>2026-06-08T17:39:29.000Z</updated>
-        <summary type="html"><![CDATA[※装備の付いてない知識ランサーでブラインドシンカー撃ってヒペ止めました。当然、知識ランサーはブラインドシンカー１発撃った以外なにもしていませんｗ実際にヒペリオンを攻撃し始めたのは残り29：10くらいだっ...]]></summary>
         <author>
             <name>雷神の弓</name>
         </author>
