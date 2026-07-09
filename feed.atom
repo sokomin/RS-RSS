@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-09T22:39:22.531Z</updated>
+    <updated>2026-07-09T23:50:17.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -523,16 +523,6 @@
         <summary type="html"><![CDATA[​知識キャノニアのターレットは召喚獣扱いだから、本体の魔法強打率は乗るけど魔法致命打率は乗らないという意見を何度か耳にしたことがあります。私の知識キャラは、知識のメインキャラであるメイドが魔法致命型...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡挑戦！]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1528.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1528.html"/>
-        <updated>2026-06-10T11:00:36.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。鏡挑戦！やったわ！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
