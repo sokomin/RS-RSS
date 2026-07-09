@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-09T15:37:42.309Z</updated>
+    <updated>2026-07-09T17:32:22.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -533,16 +533,6 @@
         <summary type="html"><![CDATA[こんばんは。鏡挑戦！やったわ！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識ランサーの装備を強化]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606100000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606100000/"/>
-        <updated>2026-06-10T03:59:14.000Z</updated>
-        <summary type="html"><![CDATA[​​まず、要らないOPを選択して削除を実施します。これで3OP目が空きになるので、貼り付けを実施します。だいぶ見映えが良くなりました。ベースが狩り用じゃないとか言われたことがありますが、位相兵を狩る場合は...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
