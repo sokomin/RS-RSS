@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IylhrdjV5ds",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IylhrdjV5ds",
+          "publishedOn": "2026-07-10T10:38:17.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート３２",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6m3-0f4oThs",
           "author": null,
           "description": "",

@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-10T07:40:40.549Z</updated>
+    <updated>2026-07-10T11:09:58.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート３２]]></title>
+        <id>https://www.youtube.com/watch?v=IylhrdjV5ds</id>
+        <link href="https://www.youtube.com/watch?v=IylhrdjV5ds"/>
+        <updated>2026-07-10T10:38:17.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知識マスケの表記が上がった要因について]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202607080000/</id>
