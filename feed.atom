@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-10T03:49:17.669Z</updated>
+    <updated>2026-07-10T07:40:40.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -513,16 +513,6 @@
         <updated>2026-06-11T10:19:36.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今さらですが知識キャノニアについて]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606110000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606110000/"/>
-        <updated>2026-06-10T16:54:26.000Z</updated>
-        <summary type="html"><![CDATA[​知識キャノニアのターレットは召喚獣扱いだから、本体の魔法強打率は乗るけど魔法致命打率は乗らないという意見を何度か耳にしたことがあります。私の知識キャラは、知識のメインキャラであるメイドが魔法致命型...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
