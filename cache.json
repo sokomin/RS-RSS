@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tSgyHACKtPI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tSgyHACKtPI",
+          "publishedOn": "2026-07-12T02:48:21.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート３３",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IylhrdjV5ds",
           "author": null,
           "description": "",
