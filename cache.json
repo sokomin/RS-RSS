@@ -140,6 +140,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6JaSZp8yTHY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6JaSZp8yTHY",
+          "publishedOn": "2026-07-13T10:39:12.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート３５",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Q5l6zb_hs2o",
           "author": null,
           "description": "",
