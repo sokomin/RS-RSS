@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-14T00:11:33.699Z</updated>
+    <updated>2026-07-14T03:40:14.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -481,26 +481,6 @@
         <updated>2026-06-15T09:52:47.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プレゼント機能の実装]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-960.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-960.html"/>
-        <updated>2026-06-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日は雷雨の日がありました私の住む地域ではひょうが降った地域もありました毎週天候が不安定ですねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みっちりみちみち。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1531.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1531.html"/>
-        <updated>2026-06-14T13:36:05.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。がっつり上げました(｀・ω・´)ｼｬｷｰﾝ。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
