@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T12:05:30.028Z</updated>
+    <updated>2026-07-15T14:15:23.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アスフォルド学園。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1544.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1544.html"/>
+        <updated>2026-07-15T13:21:59.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。学校(遠い記憶)で勉強です。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お出かけだね]]></title>
         <id>https://www.youtube.com/watch?v=3-q_0L1x4p8</id>
