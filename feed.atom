@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T14:15:23.469Z</updated>
+    <updated>2026-07-15T15:55:10.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -481,16 +481,6 @@
         <summary type="html"><![CDATA[こんばんは。UMUドロップです。素晴らしいランキングです！メインシーフ、1804Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今週の装備強化]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606160000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606160000/"/>
-        <updated>2026-06-16T03:09:24.000Z</updated>
-        <summary type="html"><![CDATA[まずは、買い物から。※この指は全物理キャラ（物理弓、闘士、霊術）で使います。6000本で迷っていたら5000本に値下がりしていたので即購入しました。フロントラインもちゃんと直っていたので、緩和も狩りで効果が...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
