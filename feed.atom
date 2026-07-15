@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T10:27:11.518Z</updated>
+    <updated>2026-07-15T12:05:30.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お出かけだね]]></title>
+        <id>https://www.youtube.com/watch?v=3-q_0L1x4p8</id>
+        <link href="https://www.youtube.com/watch?v=3-q_0L1x4p8"/>
+        <updated>2026-07-15T11:05:22.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート３５]]></title>
         <id>https://www.youtube.com/watch?v=6JaSZp8yTHY</id>

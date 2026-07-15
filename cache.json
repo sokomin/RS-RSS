@@ -285,7 +285,18 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3-q_0L1x4p8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3-q_0L1x4p8",
+          "publishedOn": "2026-07-15T11:05:22.000Z",
+          "wordCount": null,
+          "title": "お出かけだね",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "無職と美学とシュルレアリスム",
