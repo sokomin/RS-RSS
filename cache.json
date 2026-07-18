@@ -268,16 +268,6 @@
           "wordCount": null,
           "title": "【REDSTONE】レッドストーン　ロイ日記　パート２２",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VmOi2n0M2ms",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VmOi2n0M2ms",
-          "publishedOn": "2026-06-18T14:16:04.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】レッドストーン　ロイ日記　パート２１",
-          "imageUrl": null
         }
       ]
     },
@@ -426,6 +416,16 @@
       "feedUrl": "http://kaze.gg-blog.com/RSS/",
       "siteUrl": "http://kaze.gg-blog.com/",
       "articles": [
+        {
+          "id": "kaze.gg-blog.com://entry/232",
+          "author": null,
+          "description": "こんにちは。\n\n\nまおみくさんに～\n \n\n(別日)\n\n\nわくてかきってのひょうきん属性　かつお先生\n\n\n突然の謎のさけび\n\n\nどうやらレイドに勝手に叫ぶ機能が追加されているみたいです\n★宣伝★\n \nRED STONE 二次創作オンリー\n\n\n\nま導師さん主催のイベントに参加させていただくことになりました！\n\n\n会場は当日までクローズしてますが、こんな感じで\n \n\n風も一応絵描きとして出店側(売るものはないけど)で\nぜひ来てね！！\n\n\nおれのなまえはバインダーの怨嗟！\n \n\n「バインダーの怨嗟」でしか見たことも聞いたこともない「怨嗟」の字面\n\n\nなにはともあれ銀行クエ\n\n\nごぶさたのエルランに会ったあと\n\n\nわりと緊急性の高そうな案件をついでに頼まれます\nおつかいを頼む前に人命を優先しろ\n\n\n\nお前も知らんのかい！！！！！\n\n\nはじめからこっちに聞くべきでしたね\n\n\nシンクさんも昔は徘徊して困ったものでしたが\n\n\nちなみにクエストアップしたあと\n\n\nもう一度話しかけるとシンクさんの気遣いの言葉があることはあまり知られていない\n\n\nクエスト「バインダーの怨恨」は古都のNPCから受託\n  \n\n\n\n\nやかましいわ！！！！！！\n\n\nやってきたぜバインダーの怨嗟\n\n\nバインダー発見！\n\n\n\nお前が安息を与えろっつったんだろ！！！！！！！！\n \n\n\n地下墓地B2の扉\n\n\n\n\n\nソロでは入れなかったのでサブ召喚\n \n\nあれ・・・\n\n\n秘密の入り口この辺じゃなかったっけ・・・\n\n\n「」\n \n\nちゃんと消化しました\n \n\n赤い火柱が～ボクを攻める～\n\nほのお～すべて～やきつくす～",
+          "link": "http://kaze.gg-blog.com/quest/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%81%AE%E6%80%A8%E5%97%9F",
+          "publishedOn": "2026-07-18T00:27:23.000Z",
+          "wordCount": 309,
+          "title": "バインダーの怨嗟",
+          "imageUrl": null
+        },
         {
           "id": "kaze.gg-blog.com://entry/231",
           "author": null,
@@ -837,7 +837,18 @@
       "title": "カルDXのレッドストーン放浪",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/karudxrs/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/karudxrs/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202607180000/",
+          "author": "たつ2307",
+          "description": "こんにちは更新まったくしておりませんでしたが、そろそろ金鯖なのと霊術育成日記が一度で止まっていたので。。。霊術は今1911レベルまで上がりましたが勇気恩寵が弱体化してしまい、ただでさえ肩身の狭かったダ...",
+          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202607180000/",
+          "publishedOn": "2026-07-18T02:33:50.000Z",
+          "wordCount": 1786,
+          "title": "そろそろ2026年の金鯖ですね",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/e60a52efc7e6169ec60f620f7f49c0445dee2f40.35.9.9.3.jpeg"
+        }
+      ]
     },
     {
       "title": "rb79kのブログ",
