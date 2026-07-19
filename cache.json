@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=88mjrEz8WKk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=88mjrEz8WKk",
+          "publishedOn": "2026-07-19T10:15:22.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート３６",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6JaSZp8yTHY",
           "author": null,
           "description": "",
