@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-20T07:34:50.267Z</updated>
+    <updated>2026-07-20T10:29:26.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート３８]]></title>
+        <id>https://www.youtube.com/watch?v=2wzzIo5mkjw</id>
+        <link href="https://www.youtube.com/watch?v=2wzzIo5mkjw"/>
+        <updated>2026-07-20T10:05:31.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート３７]]></title>
         <id>https://www.youtube.com/watch?v=ozKz992EqUo</id>
@@ -615,15 +624,6 @@ RED STONE 二次創作オンリー
         <id>https://www.youtube.com/watch?v=DGBxQir7hF4</id>
         <link href="https://www.youtube.com/watch?v=DGBxQir7hF4"/>
         <updated>2026-06-21T10:02:04.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート２２]]></title>
-        <id>https://www.youtube.com/watch?v=sgyHSGaHeKs</id>
-        <link href="https://www.youtube.com/watch?v=sgyHSGaHeKs"/>
-        <updated>2026-06-20T21:33:34.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>
