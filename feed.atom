@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-21T18:18:00.668Z</updated>
+    <updated>2026-07-21T19:56:29.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知識マスケに非規格装備を導入しました]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202607220000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202607220000/"/>
+        <updated>2026-07-21T19:52:52.000Z</updated>
+        <summary type="html"><![CDATA[↑これを使ってみることに決めました。物理ダメ360％に火弱化27％と知識マスケ向きな非規格OPだったので、お試しで使える状態まで強化してみました。ちなみに今まで使っていた耳（背）は↓です。オバフロを外すと敵...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[複製特異点。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1546.html</id>
