@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-21T00:14:59.398Z</updated>
+    <updated>2026-07-21T03:51:32.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -597,26 +597,6 @@ RED STONE 二次創作オンリー
         <summary type="html"><![CDATA[↑はマスケ用の腰で魔法ダメ51％が付いていましたが、計算したら魔法ダメは上限を超過していたので白異界をやってみました。魔法限界6％は、私的には十分合格です。↑闘士で使っている首です。W最終じゃない微妙な...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スクラッチチャレンジ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1534.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1534.html"/>
-        <updated>2026-06-21T15:06:44.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。スクラッチのスパロト改からです。話題の悪魔狩りです。がっつり上げました！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当時と比べて]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-961.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-961.html"/>
-        <updated>2026-06-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日夜勤明けに息子の同級生と駅でたまたま会いましたのでご挨拶しているとTシャツの背中に漢字ででかでかと「豚肉」と書いてありました中々のセンスですよねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
