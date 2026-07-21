@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-21T03:51:32.043Z</updated>
+    <updated>2026-07-21T06:33:46.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -587,16 +587,6 @@ RED STONE 二次創作オンリー
         <updated>2026-06-22T10:26:38.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今週の白異界]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606220000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606220000/"/>
-        <updated>2026-06-21T18:03:37.000Z</updated>
-        <summary type="html"><![CDATA[↑はマスケ用の腰で魔法ダメ51％が付いていましたが、計算したら魔法ダメは上限を超過していたので白異界をやってみました。魔法限界6％は、私的には十分合格です。↑闘士で使っている首です。W最終じゃない微妙な...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
