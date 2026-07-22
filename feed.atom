@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-22T01:07:42.352Z</updated>
+    <updated>2026-07-22T04:38:44.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】最後の金鯖を楽しみたい]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1169.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1169.html"/>
+        <updated>2026-07-22T03:24:46.000Z</updated>
+        <summary type="html"><![CDATA[長きに渡ってプレイしてきたREDSTONEも、そろそろ幕引きにしたいと考えている。S鯖の狩り装備は概ね売却したり、知人に譲っており、アチャの攻城戦装備とインゴットを残すのみとなっている。インゴットは定期的にギルドイベントでギルメンに還元しており、既に5万本くらいはばら撒いた。しかし、18年間のプレイとは恐ろしいもので、それでもインゴットはまだ5万本くらい倉庫ギルドに眠っている。攻城戦装備を売れば5万本くらいには]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知識マスケに非規格装備を導入しました]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202607220000/</id>
@@ -598,15 +608,6 @@ RED STONE 二次創作オンリー
         <summary type="html"><![CDATA[有名どころのハクスラは、ほぼシーズン制を導入している。シーズン制とは？・特有のシステムやアイテムが存在し、Lv1、資産ゼロからスタートする制度。・前シーズンで育てたキャラクターや資産は引き継げない。・ゲームプレイはシーズンで行う(通常プレイも出来るが、ほぼしない)アイテム取引等で資産を貯め、欲しいアイテムを購入することが好きな自分は、シーズン制があまり好きではない。シーズン開始当初は人も多く取引も盛ん]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート２４]]></title>
-        <id>https://www.youtube.com/watch?v=7Lvmx3LAal8</id>
-        <link href="https://www.youtube.com/watch?v=7Lvmx3LAal8"/>
-        <updated>2026-06-22T14:16:38.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
