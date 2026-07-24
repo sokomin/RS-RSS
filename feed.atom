@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-24T06:29:56.462Z</updated>
+    <updated>2026-07-24T09:08:36.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年も始まりました]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1324.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1324.html"/>
+        <updated>2026-07-24T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1日遅れましたが、金鯖始まりましたね。GolrExWorld特設ページはこちら→　◎イベントの一つに真夏の宝探しイベントというのがありますが特設ページからでないと出来ないので、逃さず進行したい人はお忘れの無いように、特設ページへ飛んでください。公式サイトのイベント・キャンペーンの欄の真ん中辺りにもこのイベントのバナーがあるので、そこからでも特設ページに飛べます。因みに今回の金鯖は僕はサブIDで参加。リオネラとか多]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート３９]]></title>
         <id>https://www.youtube.com/watch?v=UxC8do4-Sv8</id>
