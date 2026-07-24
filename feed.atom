@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-24T14:59:32.848Z</updated>
+    <updated>2026-07-24T16:50:53.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年も!!金鯖！！復帰さん！知識したいなら毒悪魔だ！]]></title>
+        <id>https://www.youtube.com/watch?v=N1uTlF_x8QA</id>
+        <link href="https://www.youtube.com/watch?v=N1uTlF_x8QA"/>
+        <updated>2026-07-24T16:06:24.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年も始まりました]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1324.html</id>
