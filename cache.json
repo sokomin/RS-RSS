@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3Gzma3Y-b3E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3Gzma3Y-b3E",
+          "publishedOn": "2026-07-25T22:44:35.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート４０",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UxC8do4-Sv8",
           "author": null,
           "description": "",
