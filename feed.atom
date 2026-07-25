@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-25T03:15:07.252Z</updated>
+    <updated>2026-07-25T05:58:49.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -590,13 +590,13 @@ RED STONE 二次創作オンリー
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6月新規アップデート]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1323.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1323.html"/>
-        <updated>2026-06-25T16:48:19.000Z</updated>
-        <summary type="html"><![CDATA[アップデートページはこちら→　◎新規位相征服者「ヌケロン」アップデート→　◎新規装備アイテム「非規格装備」追加→　◎ステータス情報ウインドウの改編→　◎能力値名の変更→　◎レイドUI及び機能改善レイドボスリニューアル→　◎フィールドグラフィック改善・神聖都市アウグスタ・ダークエルフの王宮・バヘル大河/北、東バヘル大河の交差地点付近・中央プラトン街道 / ブルンネンシュティグ入口付近・ギルディル川 / ナス橋付近・バヘ]]></summary>
+        <title type="html"><![CDATA[メンテ延長で暇なので更新したマスケ装備を載せます]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606250000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606250000/"/>
+        <updated>2026-06-25T19:57:26.000Z</updated>
+        <summary type="html"><![CDATA[​​​まず、指の比率を知識に寄せていきました。知恵比２個と敏捷比１個を知識比に変更しました。位相兵狩りは知恵で経験値を増やすよりも、火力を上げて倒すのに掛かる時間を短縮するべきだと考えました。足にまあ...]]></summary>
         <author>
-            <name>クレリューフ</name>
+            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
