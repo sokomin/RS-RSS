@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-25T05:58:49.208Z</updated>
+    <updated>2026-07-25T08:19:22.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -587,16 +587,6 @@ RED STONE 二次創作オンリー
         <updated>2026-06-26T06:47:20.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メンテ延長で暇なので更新したマスケ装備を載せます]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202606250000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202606250000/"/>
-        <updated>2026-06-25T19:57:26.000Z</updated>
-        <summary type="html"><![CDATA[​​​まず、指の比率を知識に寄せていきました。知恵比２個と敏捷比１個を知識比に変更しました。位相兵狩りは知恵で経験値を増やすよりも、火力を上げて倒すのに掛かる時間を短縮するべきだと考えました。足にまあ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
