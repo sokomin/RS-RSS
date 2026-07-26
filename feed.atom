@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-25T23:40:57.784Z</updated>
+    <updated>2026-07-26T03:28:37.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -587,25 +587,6 @@ RED STONE 二次創作オンリー
         <summary type="html"><![CDATA[注目の内容は以下（並びは個人的に興味があるもの順）１．新規装備アイテム「非規格装備」追加ぱっと見ぶっ壊れ装備だが、完成させるまでの道のりが遠い、かつ運要素あり。自身のレベルやmobレベルが高いほど強いベースがドロップしやすいらしく、Lv2000以降で狩るメリットがやっと実装された感じ。ただし、レベリングを兼ねようとすると、たくさん課金する必要があるのは変わらず。強い装備をドロップさせて強化して～は、ハクス]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非企画装備。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1536.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1536.html"/>
-        <updated>2026-06-26T15:12:30.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。新アイテムの登場です！若干、ダメが下がりましたねorz。メインシーフ、1823Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート２６]]></title>
-        <id>https://www.youtube.com/watch?v=yZTm4NTS_CY</id>
-        <link href="https://www.youtube.com/watch?v=yZTm4NTS_CY"/>
-        <updated>2026-06-26T14:44:28.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
