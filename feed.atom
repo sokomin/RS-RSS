@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-26T23:42:21.378Z</updated>
+    <updated>2026-07-27T03:36:41.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年も帰ってきました]]></title>
+        <id>tag:blogger.com,1999:blog-6041969618045088376.post-3620834114757086471</id>
+        <link href="https://rs-kumapon.blogspot.com/2026/07/blog-post.html"/>
+        <updated>2026-07-26T23:59:25.000Z</updated>
+        <summary type="html"><![CDATA[また今年も帰ってきました。
+前回キャノニアをちょっとしか遊べず全然理解できなかったので
+今年もキャノニアでいきます。
+
+
+能力値の画面とか各種ステータスの一覧が見れるようになってて驚きました。
+画期的な機能ですね！
+操作性も少し変わって操作がぎこちないですがすぐに慣れそうかな
+毎年加入してるギルド「熱いぞﾜｯﾁｮｲ」に加入し、一夏の思い出を作りたいです。]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年7月アップデート　金鯖開始]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-966.html</id>
