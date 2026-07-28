@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-28T02:52:56.790Z</updated>
+    <updated>2026-07-28T05:52:03.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -561,16 +561,6 @@ RED STONE 二次創作オンリー
         <updated>2026-06-29T10:26:39.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年6月アップデート]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-962.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-962.html"/>
-        <updated>2026-06-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[週末に来た大型台風の影響もあってかなりの雨が振りましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
