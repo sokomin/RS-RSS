@@ -16,7 +16,7 @@
   limitations under the License
 -->
 
-<html lang="en">
+<html lang="ja">
 
 <head>
   <meta charset="utf-8" />
@@ -48,33 +48,19 @@
       }
     }
   </script>
-  <script data-ad-client="ca-pub-2122309953813422" async
-    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <script data-ad-client="ca-pub-2122309953813422" async
-    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <style>
-    #view-source {
-      position: fixed;
-      display: block;
-      right: 0;
-      bottom: 0;
-      margin-right: 40px;
-      margin-bottom: 40px;
-      z-index: 900;
-    }
-  </style>
 </head>
 
 <body>
   <title>RSSまとめ 赤石の民衆</title>
-  <meta name="description" content="レッドストーン総合攻略情報ポータルページ" />
+  <meta name="description" content="RED STONEに関するブログや動画の新着情報をまとめて確認できるRSSページです。" />
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta http-equiv="Content-Script-Type" content="text/javascript" />
-  <meta name="keywords" content="RED STONE ,レッドストーン,赤石の民衆,ＲＥＤ ＳＴＯＮＥ,レッドストーン,赤石,攻略情報" />
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://sokomin.github.io/rss.xml" />
+  <meta name="keywords" content="RED STONE,レッドストーン,赤石の民衆,RSS,ブログ,動画,新着情報" />
   <link href="index.css" rel="stylesheet" />
 
   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    <a name="container"></a>
+
     <div class="android-header mdl-layout__header mdl-layout__header--waterfall">
       <div class="mdl-layout__header-row">
         <span class="android-title mdl-layout-title">
@@ -110,7 +96,9 @@
           </nav>
         </div>
         <span class="android-mobile-title mdl-layout-title">
-          <img class="android-logo-image" src="https://sokomin.github.io/design/logo3.png" />
+          <a href="https://sokomin.github.io/index.html">
+            <img class="android-logo-image" src="https://sokomin.github.io/design/logo3.png" />
+          </a>
         </span>
         <button class="android-more-button mdl-button mdl-js-button mdl-button--icon mdl-js-ripple-effect"
           id="more-button">
@@ -132,7 +120,7 @@
 
     <div class="android-drawer mdl-layout__drawer">
       <span class="mdl-layout-title">
-        <h3>メニュー</h3>
+        <h2>メニュー</h2>
       </span>
       <nav class="mdl-navigation">
         <a class="mdl-navigation__link sokomin-layout-item"
@@ -154,51 +142,42 @@
       </nav>
     </div>
 
-    <!--main-->
-    <div class="android-content mdl-layout__content">
-      <div class="main-background mdl-typography--text-center">
+    <div class="android-large-table mdl-layout__content">
+      <!--main-->
+      <div class="main-background mdl-typography--text-center korea-content">
         <section class="top1">
           <br>
-          <h3>あんてなサイト＠RSS</h3>
-          情報収集にお使いください。<br>
-          最終更新：<time class="js-relative-time" datetime="2026-07-27T23:42:34.063Z">2026-07-27T23:42:34.063Z</time>
+          <h1>あんてなサイト＠RSS</h1>
+          <p class="feed-intro">
+            RED STONEに関するブログや動画の新着情報をまとめています。<br>
+            最終更新：<time class="js-relative-time" datetime="2026-07-28T02:29:20.438Z">2026-07-28T02:29:20.438Z</time>
+          </p>
           <br>
-          <ul>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-27</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;wGl788uC_dY>【REDSTONE】レッドストーン　ロイ日記　パート４2</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-27T09:55:38.000Z">2026-07-27T09:55:38.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-26</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://rs-kumapon.blogspot.com/2026/07/blog-post.html>今年も帰ってきました</a></h6>
-                      <div><b>
-                          <span><a href=https://rs-kumapon.blogspot.com/>RS☆KUMApon</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-26T23:59:25.000Z">2026-07-26T23:59:25.000Z</time></span> |
-                          <span>読了目安時間: <time>6 min</time></span> |
-                          <span>文字数: <time>1777</time></span>
-                        </b>
-                      </div>
-                      <p>また今年も帰ってきました。
+          <div class="feed-list">
+            <section class="day-container">
+              <h2 class="date">2026-07-27</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;wGl788uC_dY">【REDSTONE】レッドストーン　ロイ日記　パート４2</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-27T09:55:38.000Z">2026-07-27T09:55:38.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-26</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://rs-kumapon.blogspot.com/2026/07/blog-post.html">今年も帰ってきました</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://rs-kumapon.blogspot.com/">RS☆KUMApon</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-26T23:59:25.000Z">2026-07-26T23:59:25.000Z</time></span>
+                  <span>読了目安時間: <time>6 min</time></span>
+                  <span>文字数: <time>1777</time></span>
+                </div>
+                <p class="article-description">また今年も帰ってきました。
 前回キャノニアをちょっとしか遊べず全然理解できなかったので
 今年もキャノニアでいきます。
 
@@ -207,283 +186,200 @@
 画期的な機能ですね！
 操作性も少し変わって操作がぎこちないですがすぐに慣れそうかな
 毎年加入してるギルド「熱いぞﾜｯﾁｮｲ」に加入し、一夏の思い出を作りたいです。</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://mitsurin32.blog.fc2.com/blog-entry-966.html>2026年7月アップデート　金鯖開始</a></h6>
-                      <div><b>
-                          <span><a href=https://mitsurin32.blog.fc2.com/>ミツリンの記録簿</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-26T15:00:00.000Z">2026-07-26T15:00:00.000Z</time></span> |
-                          <span>読了目安時間: <time>2 min</time></span> |
-                          <span>文字数: <time>661</time></span>
-                        </b>
-                      </div>
-                      <p>連日恐ろしい暑さの日が続きますね私の地域ではゲリラ豪雨も結構ありますこんにちは　ミツリンです</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://medaka1985.fc2.net/blog-entry-1548.html>S鯖。</a></h6>
-                      <div><b>
-                          <span><a href=https://medaka1985.fc2.net/>レッドストーン日誌</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-26T13:41:30.000Z">2026-07-26T13:41:30.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>こんばんは。メインシーフ、1841Lv達成です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;6invNWaDx6I>【REDSTONE】レッドストーン　ロイ日記　パート４１</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-26T10:05:13.000Z">2026-07-26T10:05:13.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-25</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;3Gzma3Y-b3E>【REDSTONE】レッドストーン　ロイ日記　パート４０</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-25T22:44:35.000Z">2026-07-25T22:44:35.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://medaka1985.fc2.net/blog-entry-1547.html>暖炉。</a></h6>
-                      <div><b>
-                          <span><a href=https://medaka1985.fc2.net/>レッドストーン日誌</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-25T13:02:55.000Z">2026-07-25T13:02:55.000Z</time></span> |
-                          <span>読了目安時間: <time>4 min</time></span> |
-                          <span>文字数: <time>1102</time></span>
-                        </b>
-                      </div>
-                      <p>こんばんは。金鯖エンジョイ中です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-24</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;N1uTlF_x8QA>今年も!!金鯖！！復帰さん！知識したいなら毒悪魔だ！</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA>ひさプッチ</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-24T16:06:24.000Z">2026-07-24T16:06:24.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=http://frogkigurumi.blog59.fc2.com/blog-entry-1324.html>今年も始まりました</a></h6>
-                      <div><b>
-                          <span><a href=http://frogkigurumi.blog59.fc2.com/>のんびりまったり</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-24T09:00:00.000Z">2026-07-24T09:00:00.000Z</time></span> |
-                          <span>読了目安時間: <time>2 min</time></span> |
-                          <span>文字数: <time>687</time></span>
-                        </b>
-                      </div>
-                      <p>1日遅れましたが、金鯖始まりましたね。GolrExWorld特設ページはこちら→　◎イベントの一つに真夏の宝探しイベントというのがありますが特設ページからでないと出来ないので、逃さず進行したい人はお忘れの無いように、特設ページへ飛んでください。公式サイトのイベント・キャンペーンの欄の真ん中辺りにもこのイベントのバナーがあるので、そこからでも特設ページに飛べます。因みに今回の金鯖は僕はサブIDで参加。リオネラとか多</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-23</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;UxC8do4-Sv8>【REDSTONE】レッドストーン　ロイ日記　パート３９</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-23T10:49:12.000Z">2026-07-23T10:49:12.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-22</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=http://amakusa46.blog34.fc2.com/blog-entry-1169.html>【REDSTONE】最後の金鯖を楽しみたい</a></h6>
-                      <div><b>
-                          <span><a href=http://amakusa46.blog34.fc2.com/>JEFRYの悪足掻き</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-22T03:24:46.000Z">2026-07-22T03:24:46.000Z</time></span> |
-                          <span>読了目安時間: <time>2 min</time></span> |
-                          <span>文字数: <time>607</time></span>
-                        </b>
-                      </div>
-                      <p>長きに渡ってプレイしてきたREDSTONEも、そろそろ幕引きにしたいと考えている。S鯖の狩り装備は概ね売却したり、知人に譲っており、アチャの攻城戦装備とインゴットを残すのみとなっている。インゴットは定期的にギルドイベントでギルメンに還元しており、既に5万本くらいはばら撒いた。しかし、18年間のプレイとは恐ろしいもので、それでもインゴットはまだ5万本くらい倉庫ギルドに眠っている。攻城戦装備を売れば5万本くらいには</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-21</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://plaza.rakuten.co.jp/motoshihu/diary/202607220000/>知識マスケに非規格装備を導入しました</a></h6>
-                      <div><b>
-                          <span><a href=https://plaza.rakuten.co.jp/motoshihu/>黒魔がメインですが何か？</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-21T19:52:52.000Z">2026-07-21T19:52:52.000Z</time></span> |
-                          <span>読了目安時間: <time>8 min</time></span> |
-                          <span>文字数: <time>2512</time></span>
-                        </b>
-                      </div>
-                      <p>↑これを使ってみることに決めました。物理ダメ360％に火弱化27％と知識マスケ向きな非規格OPだったので、お試しで使える状態まで強化してみました。ちなみに今まで使っていた耳（背）は↓です。オバフロを外すと敵...</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://medaka1985.fc2.net/blog-entry-1546.html>複製特異点。</a></h6>
-                      <div><b>
-                          <span><a href=https://medaka1985.fc2.net/>レッドストーン日誌</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-21T10:48:34.000Z">2026-07-21T10:48:34.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>こんばんは。UMUゲットです。メインシーフ、1839Lv達成です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-20</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;2wzzIo5mkjw>【REDSTONE】レッドストーン　ロイ日記　パート３８</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-20T10:05:31.000Z">2026-07-20T10:05:31.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;ozKz992EqUo>【REDSTONE】レッドストーン　ロイ日記　パート３７</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-20T02:44:54.000Z">2026-07-20T02:44:54.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-19</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://mitsurin32.blog.fc2.com/blog-entry-965.html>ギルドイベントへの参加</a></h6>
-                      <div><b>
-                          <span><a href=https://mitsurin32.blog.fc2.com/>ミツリンの記録簿</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-19T15:00:00.000Z">2026-07-19T15:00:00.000Z</time></span> |
-                          <span>読了目安時間: <time>2 min</time></span> |
-                          <span>文字数: <time>655</time></span>
-                        </b>
-                      </div>
-                      <p>毎日暑い日が続きますね雨の日は湿気も凄く寝苦しい季節が来ましたねこんにちは　ミツリンです</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;88mjrEz8WKk>【REDSTONE】レッドストーン　ロイ日記　パート３６</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-19T10:15:22.000Z">2026-07-19T10:15:22.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-18</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://plaza.rakuten.co.jp/karudxrs/diary/202607180000/>そろそろ2026年の金鯖ですね</a></h6>
-                      <div><b>
-                          <span><a href=https://plaza.rakuten.co.jp/karudxrs/>カルDXのレッドストーン放浪</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-18T02:33:50.000Z">2026-07-18T02:33:50.000Z</time></span> |
-                          <span>読了目安時間: <time>6 min</time></span> |
-                          <span>文字数: <time>1786</time></span>
-                        </b>
-                      </div>
-                      <p>こんにちは更新まったくしておりませんでしたが、そろそろ金鯖なのと霊術育成日記が一度で止まっていたので。。。霊術は今1911レベルまで上がりましたが勇気恩寵が弱体化してしまい、ただでさえ肩身の狭かったダ...</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=http://kaze.gg-blog.com/quest/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%81%AE%E6%80%A8%E5%97%9F>バインダーの怨嗟</a></h6>
-                      <div><b>
-                          <span><a href=http://kaze.gg-blog.com/>風に吹かれて</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-18T00:27:23.000Z">2026-07-18T00:27:23.000Z</time></span> |
-                          <span>読了目安時間: <time>1 min</time></span> |
-                          <span>文字数: <time>309</time></span>
-                        </b>
-                      </div>
-                      <p>こんにちは。
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://mitsurin32.blog.fc2.com/blog-entry-966.html">2026年7月アップデート　金鯖開始</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://mitsurin32.blog.fc2.com/">ミツリンの記録簿</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-26T15:00:00.000Z">2026-07-26T15:00:00.000Z</time></span>
+                  <span>読了目安時間: <time>2 min</time></span>
+                  <span>文字数: <time>661</time></span>
+                </div>
+                <p class="article-description">連日恐ろしい暑さの日が続きますね私の地域ではゲリラ豪雨も結構ありますこんにちは　ミツリンです</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://medaka1985.fc2.net/blog-entry-1548.html">S鯖。</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://medaka1985.fc2.net/">レッドストーン日誌</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-26T13:41:30.000Z">2026-07-26T13:41:30.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">こんばんは。メインシーフ、1841Lv達成です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;6invNWaDx6I">【REDSTONE】レッドストーン　ロイ日記　パート４１</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-26T10:05:13.000Z">2026-07-26T10:05:13.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-25</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;3Gzma3Y-b3E">【REDSTONE】レッドストーン　ロイ日記　パート４０</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-25T22:44:35.000Z">2026-07-25T22:44:35.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://medaka1985.fc2.net/blog-entry-1547.html">暖炉。</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://medaka1985.fc2.net/">レッドストーン日誌</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-25T13:02:55.000Z">2026-07-25T13:02:55.000Z</time></span>
+                  <span>読了目安時間: <time>4 min</time></span>
+                  <span>文字数: <time>1102</time></span>
+                </div>
+                <p class="article-description">こんばんは。金鯖エンジョイ中です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-24</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;N1uTlF_x8QA">今年も!!金鯖！！復帰さん！知識したいなら毒悪魔だ！</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA">ひさプッチ</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-24T16:06:24.000Z">2026-07-24T16:06:24.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="http://frogkigurumi.blog59.fc2.com/blog-entry-1324.html">今年も始まりました</a></h3>
+                <div class="article-meta">
+                  <span><a href="http://frogkigurumi.blog59.fc2.com/">のんびりまったり</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-24T09:00:00.000Z">2026-07-24T09:00:00.000Z</time></span>
+                  <span>読了目安時間: <time>2 min</time></span>
+                  <span>文字数: <time>687</time></span>
+                </div>
+                <p class="article-description">1日遅れましたが、金鯖始まりましたね。GolrExWorld特設ページはこちら→　◎イベントの一つに真夏の宝探しイベントというのがありますが特設ページからでないと出来ないので、逃さず進行したい人はお忘れの無いように、特設ページへ飛んでください。公式サイトのイベント・キャンペーンの欄の真ん中辺りにもこのイベントのバナーがあるので、そこからでも特設ページに飛べます。因みに今回の金鯖は僕はサブIDで参加。リオネラとか多</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-23</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;UxC8do4-Sv8">【REDSTONE】レッドストーン　ロイ日記　パート３９</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-23T10:49:12.000Z">2026-07-23T10:49:12.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-22</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="http://amakusa46.blog34.fc2.com/blog-entry-1169.html">【REDSTONE】最後の金鯖を楽しみたい</a></h3>
+                <div class="article-meta">
+                  <span><a href="http://amakusa46.blog34.fc2.com/">JEFRYの悪足掻き</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-22T03:24:46.000Z">2026-07-22T03:24:46.000Z</time></span>
+                  <span>読了目安時間: <time>2 min</time></span>
+                  <span>文字数: <time>607</time></span>
+                </div>
+                <p class="article-description">長きに渡ってプレイしてきたREDSTONEも、そろそろ幕引きにしたいと考えている。S鯖の狩り装備は概ね売却したり、知人に譲っており、アチャの攻城戦装備とインゴットを残すのみとなっている。インゴットは定期的にギルドイベントでギルメンに還元しており、既に5万本くらいはばら撒いた。しかし、18年間のプレイとは恐ろしいもので、それでもインゴットはまだ5万本くらい倉庫ギルドに眠っている。攻城戦装備を売れば5万本くらいには</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-21</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://plaza.rakuten.co.jp/motoshihu/diary/202607220000/">知識マスケに非規格装備を導入しました</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://plaza.rakuten.co.jp/motoshihu/">黒魔がメインですが何か？</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-21T19:52:52.000Z">2026-07-21T19:52:52.000Z</time></span>
+                  <span>読了目安時間: <time>8 min</time></span>
+                  <span>文字数: <time>2512</time></span>
+                </div>
+                <p class="article-description">↑これを使ってみることに決めました。物理ダメ360％に火弱化27％と知識マスケ向きな非規格OPだったので、お試しで使える状態まで強化してみました。ちなみに今まで使っていた耳（背）は↓です。オバフロを外すと敵...</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://medaka1985.fc2.net/blog-entry-1546.html">複製特異点。</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://medaka1985.fc2.net/">レッドストーン日誌</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-21T10:48:34.000Z">2026-07-21T10:48:34.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">こんばんは。UMUゲットです。メインシーフ、1839Lv達成です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-20</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;2wzzIo5mkjw">【REDSTONE】レッドストーン　ロイ日記　パート３８</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-20T10:05:31.000Z">2026-07-20T10:05:31.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;ozKz992EqUo">【REDSTONE】レッドストーン　ロイ日記　パート３７</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-20T02:44:54.000Z">2026-07-20T02:44:54.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-19</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://mitsurin32.blog.fc2.com/blog-entry-965.html">ギルドイベントへの参加</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://mitsurin32.blog.fc2.com/">ミツリンの記録簿</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-19T15:00:00.000Z">2026-07-19T15:00:00.000Z</time></span>
+                  <span>読了目安時間: <time>2 min</time></span>
+                  <span>文字数: <time>655</time></span>
+                </div>
+                <p class="article-description">毎日暑い日が続きますね雨の日は湿気も凄く寝苦しい季節が来ましたねこんにちは　ミツリンです</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;88mjrEz8WKk">【REDSTONE】レッドストーン　ロイ日記　パート３６</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-19T10:15:22.000Z">2026-07-19T10:15:22.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-18</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://plaza.rakuten.co.jp/karudxrs/diary/202607180000/">そろそろ2026年の金鯖ですね</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://plaza.rakuten.co.jp/karudxrs/">カルDXのレッドストーン放浪</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-18T02:33:50.000Z">2026-07-18T02:33:50.000Z</time></span>
+                  <span>読了目安時間: <time>6 min</time></span>
+                  <span>文字数: <time>1786</time></span>
+                </div>
+                <p class="article-description">こんにちは更新まったくしておりませんでしたが、そろそろ金鯖なのと霊術育成日記が一度で止まっていたので。。。霊術は今1911レベルまで上がりましたが勇気恩寵が弱体化してしまい、ただでさえ肩身の狭かったダ...</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="http://kaze.gg-blog.com/quest/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%81%AE%E6%80%A8%E5%97%9F">バインダーの怨嗟</a></h3>
+                <div class="article-meta">
+                  <span><a href="http://kaze.gg-blog.com/">風に吹かれて</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-18T00:27:23.000Z">2026-07-18T00:27:23.000Z</time></span>
+                  <span>読了目安時間: <time>1 min</time></span>
+                  <span>文字数: <time>309</time></span>
+                </div>
+                <p class="article-description">こんにちは。
 
 
 まおみくさんに～
@@ -591,927 +487,631 @@ RED STONE 二次創作オンリー
 赤い火柱が～ボクを攻める～
 
 ほのお～すべて～やきつくす～</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-16</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://medaka1985.fc2.net/blog-entry-1545.html>非規格ナイフ。</a></h6>
-                      <div><b>
-                          <span><a href=https://medaka1985.fc2.net/>レッドストーン日誌</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-16T12:21:41.000Z">2026-07-16T12:21:41.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>こんばんは。メインシーフ、1838Lv達成です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;KWl_NAyrxTk>音量注意　北灘から、鳴門スカイライン→第一小鳴門橋→第二小鳴門橋まで。ドライブサウンドでかめです！天気がいいからお裾分け</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA>ひさプッチ</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-16T05:01:36.000Z">2026-07-16T05:01:36.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-15</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://medaka1985.fc2.net/blog-entry-1544.html>アスフォルド学園。</a></h6>
-                      <div><b>
-                          <span><a href=https://medaka1985.fc2.net/>レッドストーン日誌</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-15T13:21:59.000Z">2026-07-15T13:21:59.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>こんばんは。学校(遠い記憶)で勉強です。いつも読んで頂き、誠にありがとうございます。</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;3-q_0L1x4p8>お出かけだね</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA>ひさプッチ</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-15T11:05:22.000Z">2026-07-15T11:05:22.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-13</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;6JaSZp8yTHY>【REDSTONE】レッドストーン　ロイ日記　パート３５</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-13T10:39:12.000Z">2026-07-13T10:39:12.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-12</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://mitsurin32.blog.fc2.com/blog-entry-964.html>梅雨の時期を狩りをして乗り切る</a></h6>
-                      <div><b>
-                          <span><a href=https://mitsurin32.blog.fc2.com/>ミツリンの記録簿</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-12T15:00:00.000Z">2026-07-12T15:00:00.000Z</time></span> |
-                          <span>読了目安時間: <time>2 min</time></span> |
-                          <span>文字数: <time>655</time></span>
-                        </b>
-                      </div>
-                      <p>梅雨の時期は雨が多いのですが私も息子も雨の日は片頭痛がひどくてこの時期はとてもつらいものですこんにちは　ミツリンです</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://medaka1985.fc2.net/blog-entry-1543.html>ルパンvs複製人間。</a></h6>
-                      <div><b>
-                          <span><a href=https://medaka1985.fc2.net/>レッドストーン日誌</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-12T13:38:54.000Z">2026-07-12T13:38:54.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>こんばんは。コピーチャレンジです。おら、もう・・・。メインシーフ、1837Lv到達です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;Q5l6zb_hs2o>【REDSTONE】レッドストーン　ロイ日記　パート３４</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-12T09:50:29.000Z">2026-07-12T09:50:29.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;tSgyHACKtPI>【REDSTONE】レッドストーン　ロイ日記　パート３３</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-12T02:48:21.000Z">2026-07-12T02:48:21.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-11</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://medaka1985.fc2.net/blog-entry-1542.html>ラッキーBox。</a></h6>
-                      <div><b>
-                          <span><a href=https://medaka1985.fc2.net/>レッドストーン日誌</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-11T13:43:02.000Z">2026-07-11T13:43:02.000Z</time></span> |
-                          <span>読了目安時間: <time>4 min</time></span> |
-                          <span>文字数: <time>1102</time></span>
-                        </b>
-                      </div>
-                      <p>こんばんは。おお・・・。やったー！メインシーフ、1834Lv到達です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-10</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;IylhrdjV5ds>【REDSTONE】レッドストーン　ロイ日記　パート３２</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-10T10:38:17.000Z">2026-07-10T10:38:17.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-08</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://plaza.rakuten.co.jp/motoshihu/diary/202607080000/>知識マスケの表記が上がった要因について</a></h6>
-                      <div><b>
-                          <span><a href=https://plaza.rakuten.co.jp/motoshihu/>黒魔がメインですが何か？</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-08T03:28:59.000Z">2026-07-08T03:28:59.000Z</time></span> |
-                          <span>読了目安時間: <time>8 min</time></span> |
-                          <span>文字数: <time>2523</time></span>
-                        </b>
-                      </div>
-                      <p>きっかけは、↓この指を使いたいと考えたことでした。これまでＷ速力比感電を使っていたのですが、TRSULT感電は高かったので何とか使おうと考えましたｗそうすると攻撃速度が圧倒的に不足してしまうので、↓の太極...</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-07</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://plaza.rakuten.co.jp/motoshihu/diary/202607070000/>インセンの表記が2000万を超えました</a></h6>
-                      <div><b>
-                          <span><a href=https://plaza.rakuten.co.jp/motoshihu/>黒魔がメインですが何か？</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-07T04:32:08.000Z">2026-07-07T04:32:08.000Z</time></span> |
-                          <span>読了目安時間: <time>8 min</time></span> |
-                          <span>文字数: <time>2491</time></span>
-                        </b>
-                      </div>
-                      <p>ベルセとかではなく普通の状態でインセンの表記が2000万を超えました。装備構成や超越スキルをいじった結果です。詳細は後日書きます。</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=http://amakusa46.blog34.fc2.com/blog-entry-1168.html>【REDSTONE】非規格装備の今後（個人的予想）</a></h6>
-                      <div><b>
-                          <span><a href=http://amakusa46.blog34.fc2.com/>JEFRYの悪足掻き</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-07T03:43:05.000Z">2026-07-07T03:43:05.000Z</time></span> |
-                          <span>読了目安時間: <time>2 min</time></span> |
-                          <span>文字数: <time>608</time></span>
-                        </b>
-                      </div>
-                      <p>使用可能なアイテムから推察するに、非規格装備はノーマルアイテム扱いなんじゃないかな。昔のRSでは、ノーマルアイテムにオプションが付いた「レアアイテム」を狙ってドロップ狩りをしていたが、今正に非規格装備がその状態だとおもう。＜非規格装備＞〇使用可能なアイテム異次元ボックス、消滅の魔法書、青色の再構成魔法書、青色の魔力増幅魔法書、オプション魔法のお守り、エンチャント文書、超強力ボンド、魔法のボンド×使用</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-06</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://medaka1985.fc2.net/blog-entry-1541.html>デフレの理由。</a></h6>
-                      <div><b>
-                          <span><a href=https://medaka1985.fc2.net/>レッドストーン日誌</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-06T12:19:57.000Z">2026-07-06T12:19:57.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>こんばんは。メインシーフ、1832Lv達成です(*&#x27;▽&#x27;)。最近、S鯖の相場が下がっているのは恐らく、ノード使用時の手数料でシステムがインゴを回収してるからだと思います。いつも読んで頂き、誠にありがとうございます。</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;6m3-0f4oThs>【REDSTONE】レッドストーン　ロイ日記　パート３１</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-06T09:50:10.000Z">2026-07-06T09:50:10.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-05</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://plaza.rakuten.co.jp/motoshihu/diary/202607060000/>マスケ用のオバフロを作成</a></h6>
-                      <div><b>
-                          <span><a href=https://plaza.rakuten.co.jp/motoshihu/>黒魔がメインですが何か？</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-05T19:19:54.000Z">2026-07-05T19:19:54.000Z</time></span> |
-                          <span>読了目安時間: <time>8 min</time></span> |
-                          <span>文字数: <time>2502</time></span>
-                        </b>
-                      </div>
-                      <p>↓これは、他の知識職で使っているオバフロです。BFOPの魔法弱化がマスケには無駄になっています。他には、解放変換で武器最大ダメが欲しいですね。あとマスケはCPがほとんど減らないので自リロも要らないんですよ...</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://mitsurin32.blog.fc2.com/blog-entry-963.html>武道非規格武器を試す</a></h6>
-                      <div><b>
-                          <span><a href=https://mitsurin32.blog.fc2.com/>ミツリンの記録簿</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-05T15:00:00.000Z">2026-07-05T15:00:00.000Z</time></span> |
-                          <span>読了目安時間: <time>2 min</time></span> |
-                          <span>文字数: <time>658</time></span>
-                        </b>
-                      </div>
-                      <p>連日雨の日が多くて通勤が大変ですこんにちは　ミツリンです</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;WuENuXvnNmc>【REDSTONE】レッドストーン　ロイ日記　パート３０</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-05T03:57:25.000Z">2026-07-05T03:57:25.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-04</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://plaza.rakuten.co.jp/motoshihu/diary/202607040000/>知識マスケの途中経過</a></h6>
-                      <div><b>
-                          <span><a href=https://plaza.rakuten.co.jp/motoshihu/>黒魔がメインですが何か？</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-04T07:38:45.000Z">2026-07-04T07:38:45.000Z</time></span> |
-                          <span>読了目安時間: <time>8 min</time></span> |
-                          <span>文字数: <time>2498</time></span>
-                        </b>
-                      </div>
-                      <p>​昼間のHOTタイムの結果、↓のレベルになりました。参考になるかも知れないので、ステも一応載せておきます。知恵を削ったり知識を増やしたりした結果、表記ダメは↓になりました。この表記で知識覚醒右クリ押しっ...</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-03</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;VA5qsAIY3YM>【REDSTONE】レッドストーン　ロイ日記　パート２９</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-03T10:09:06.000Z">2026-07-03T10:09:06.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-02</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://medaka1985.fc2.net/blog-entry-1540.html>キャンペーン箱。</a></h6>
-                      <div><b>
-                          <span><a href=https://medaka1985.fc2.net/>レッドストーン日誌</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-02T19:58:37.000Z">2026-07-02T19:58:37.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>こんばんは。キャンペーンのおまけ箱です。なかなかの結果です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://intothe.info/wow/in-this-twilight/>In This Twilight</a></h6>
-                      <div><b>
-                          <span><a href=https://intothe.info>Into the Bag</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-02T16:55:07.000Z">2026-07-02T16:55:07.000Z</time></span> |
-                          <span>読了目安時間: <time>10 min</time></span> |
-                          <span>文字数: <time>2977</time></span>
-                        </b>
-                      </div>
-                      <p>2つ前の拡張DragonflightまでWoWにおけるエンドゲームはRaid, Dungeon(M+), PvPがメインでこれらはいずれもグループコンテンツでありソロプレイヤーにとっては参加のハードルが高かったソロ用のコンテンツとしてはLegionのMage Tower,...</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-07-01</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://medaka1985.fc2.net/blog-entry-1539.html>ちゃんこ。</a></h6>
-                      <div><b>
-                          <span><a href=https://medaka1985.fc2.net/>レッドストーン日誌</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-07-01T19:59:15.000Z">2026-07-01T19:59:15.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>こんばんは。メインシーフ、1831Lv達成です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-06-29</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://medaka1985.fc2.net/blog-entry-1538.html>カイグラン渓谷入口。</a></h6>
-                      <div><b>
-                          <span><a href=https://medaka1985.fc2.net/>レッドストーン日誌</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-06-29T17:57:44.000Z">2026-06-29T17:57:44.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>こんばんは。初の1250UMUドロップです。メインシーフ、1829Lv達成です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://plaza.rakuten.co.jp/motoshihu/diary/202606290000/>解放変換の妥協ラインはどこ？</a></h6>
-                      <div><b>
-                          <span><a href=https://plaza.rakuten.co.jp/motoshihu/>黒魔がメインですが何か？</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-06-29T10:42:45.000Z">2026-06-29T10:42:45.000Z</time></span> |
-                          <span>読了目安時間: <time>8 min</time></span> |
-                          <span>文字数: <time>2513</time></span>
-                        </b>
-                      </div>
-                      <p>霊術のレベルが1500近くなって、武器の装備Lv－200がなくても大丈夫になったので解放変換を実施しました。狙いは当然最終ダメです。変換15回目で、　カリスマ+504　属性吸収無視　最終攻撃力14％　魔法攻撃力30％...</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://www.youtube.com/watch?v&#x3D;uGcE0iyOw4A>【REDSTONE】レッドストーン　ロイ日記　パート２８</a></h6>
-                      <div><b>
-                          <span><a href=https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA>ロイ4世</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-06-29T10:26:39.000Z">2026-06-29T10:26:39.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>No content preview</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2026-06-28</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://mitsurin32.blog.fc2.com/blog-entry-962.html>2026年6月アップデート</a></h6>
-                      <div><b>
-                          <span><a href=https://mitsurin32.blog.fc2.com/>ミツリンの記録簿</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-06-28T15:00:00.000Z">2026-06-28T15:00:00.000Z</time></span> |
-                          <span>読了目安時間: <time>2 min</time></span> |
-                          <span>文字数: <time>657</time></span>
-                        </b>
-                      </div>
-                      <p>週末に来た大型台風の影響もあってかなりの雨が振りましたこんにちは　ミツリンです</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://medaka1985.fc2.net/blog-entry-1537.html>ゴールドラッシュ！</a></h6>
-                      <div><b>
-                          <span><a href=https://medaka1985.fc2.net/>レッドストーン日誌</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2026-06-28T14:31:31.000Z">2026-06-28T14:31:31.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>こんばんは。分解箱と交換です。(ﾉ∀｀*)ｱﾁｬｰ。当たり！(79本で売れました。)小当たりです。ディスクロージャーノード2個220本で置いてたら売れてました(/・ω・)/。その他、1750鎧70本、1750戦士武器200本で叫び売れました！いつの間にかピペリオン、ソロ出来る様になってました(*&#x27;▽&#x27;)。メインシーフ、1826Lv到達です。いつも読んで頂き、誠にありがとうございます。</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-25</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-21.html>最後の更新</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-25T06:59:29.000Z">2023-07-25T06:59:29.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>49</time></span>
-                        </b>
-                      </div>
-                      <p>RS完全に引退します。もうやる気返ってこないのがわかったので…ブログの記事は全て消しました。もうないです。そのうちこのブログ自体も消します。今までありがとうございました。装備？抱えたまま消すけど。明日のランキングみたら分かるかな…うん。おわり</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-24</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1012.html>落ち着きはした</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-24T15:51:19.000Z">2023-07-24T15:51:19.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>やる気は帰ってこなかった。一時的な精神の荒れは戻りました。戻るのに時間かかったけど…。が、ＲＳに対する熱意はどっかへ行ったみたいで。複数のログキャン興味なし、Pass処理どころかRSログインすらしてない状況。もう少し時間をおいてから今後の事は判断する。メンテ後更新はやるけど…。おわり。</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-22</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1011.html>終わり</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-22T08:57:08.000Z">2023-07-22T08:57:08.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>こちら、21日の金鯖レベルランキング（5転アチャランのみ）です。こちら、22日の金鯖レベルランキング（5転アチャランのみ）です。以上。なんっつうか、もういいやってなった。それだけ。あれだけ準備したのに、一瞬で萎えることがあった。本鯖もどうでもいいって感じです。ログキャン、ルーレットすら放置するくらいに萎えてます。なので、もう金鯖にはいません。仕事は最低限果たした。もう知らんよ…おわり</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-20</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1010.html>金鯖に地図バフを載せてしまった結果がこれだよ！</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-20T01:24:12.000Z">2023-07-20T01:24:12.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>24時間かからず5転1000レべ達成。厳密には14時間、準備抜きで9時間。…うん、正直長期戦になるだろうと思って狩ってたんだ。問題が起きたのは900次元ＰＴボス。敵火力を耐えられる仕様にして、FI2発確定で10か所回ししていたら地図宝箱出ました。普通に入力するじゃん？バフ付与されるじゃん？しっかり適用されるじゃん。…ということで、本来なら壺突破！なレベル帯を900次元で代用し、代わりに930あたりから壺ブースト+クエスト消</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-19</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1009.html>色々混ざりあってなんというか…</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-19T11:10:25.000Z">2023-07-19T11:10:25.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>125</time></span>
-                        </b>
-                      </div>
-                      <p>評価に困る。いいもの、悪いものいっぱい。【お知らせ（お死らせ含む）】・金鯖2023、開催。・入手経路異なるアイテムが重なるようになった。・2ページ目以降の装備アイテムのクイックスロット登録ができるようになった。・自リロバグが治った・精霊コスの出力がほぼ治った。分身がエフェクト強化に非対応。・金鯖BOX2022が金鯖プレゼントBOXに改名。使いまわすためだね？・簡易版の金鯖ポケットベルの経験値効果が発動していない※</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-18</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1008.html>24時間もない販売期間</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-18T10:49:14.000Z">2023-07-18T10:49:14.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>18日…あ。【180円販売】7/19(水)メンテまで。短すぎない？180円売りが色々…と思ったけど、爆竜心臓とファストヒールと…転生パワキ。前二つはいいけど、転生パワキは…うーん。金鯖でも900維持の5転する人には無用…。1日も持たない詳細短い…あと18日午後って意識がないから岩の日に気づかない。やっぱ18円にしない？無理か。おわり</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-17</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1007.html>超越を使わない場合のある意味最終系</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-17T16:16:04.000Z">2023-07-17T16:16:04.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>これでできた。最後のクリパッシブ厳選も終わり、それらの覚醒値を調整してLR等級まで強化して…終わり！LRはあれじゃないとだめだし、HR1体は3パッシブ前提だし、SRが必要になってしまったし…大変でした。HRの3パッシブがうまいこといけばHR3体で済んだ…はず。それもLRがきれいにサブパッシブ分散したからだけども。何が変わったかというと、上級経験値Lv50を追加しました。その労力にあうかって？Slv+6だよ？なお、現在は超越を使</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1006.html>今更金鯖に向けた話</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-17T08:39:29.000Z">2023-07-17T08:39:29.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>なんやかんやで直前…前に書いたのを多少変更しただけである。【金鯖って？】経験値倍率がぶち抜けた期間限定サーバー。7月下旬～9月上旬くらい。2023年の倍率は17倍です。スフィアパワキバッジで102倍。あとは実、旗バフ、クリパッシブなどでさらに増える。混雑がとんでもないことになっており、古都は土日や平日夜に接続満になる。用事がないなら古都で放置しないように。接続を競い合うゲーム。半面、高レべ狩場は軽くなった。そ</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-16</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1005.html>今年（2023）の金鯖の予定</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-16T16:46:18.000Z">2023-07-16T16:46:18.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>確定で作るのは3体。あとは時と場合…。【1st】知識槍。所属先等は確定してる。去年と同じ。速攻で1000レべにする枠。目標は金曜日までだが、無理なら本鯖攻城までにする。2021年の経験や、次元ＰＴボス等調べたから、狩場が空いていれば何とかなると思ってる。まぁ去年もデイリー討伐用キャラが油入れれば地下墓地Ｂ1ワンパンだったから…持ち込み次第ではあるけどね、うん。なお、攻城は様子見になる。相手に合わせるべきか…。【2n</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1004.html>既存ＰＴボスの経験値に関するお話</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-16T04:44:18.000Z">2023-07-16T04:44:18.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>※稀に沸く固定経験値は無視しています次元ＰＴボスの調査にて、経験値比較のために適当な狩場も一緒に調査しました。その時の産物として、既存のＰＴボス経験値が残っているので、それのみを抽出する。条件はその時と同じこの通り。スフィアパワキ経験値バッジ込み、知恵101、G加入（+15％、-0.05％）、5転生キャラとペア狩り実は入ってません。旗バフもないです。クリーチャーのパッシブもないですし、経験値指も使いません。対象</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-15</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1003.html>亜種的な金鯖レベ上げルート</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-15T03:53:52.000Z">2023-07-15T03:53:52.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>136</time></span>
-                        </b>
-                      </div>
-                      <p>一般的なのは他の方がまとめているだろうから…【装備が完全に揃っている人向け】作成後→GD入口とB1→915辺りまで次元ＰＴボス渡り→950まで地下墓地のＰＶＰフィールド→地下収容所Ｂ1次元ＰＴボスは基本的に25レべ間隔だが、ＲＳオーラで多少伸ばす。経験値がぶっとんでいるのだが、問題点は相手の火力がでたらめなことか。かつて調査した敵からの被ダメ状況。防御2815、属性抵抗だいたい52％で土だけ67％です。同レベル帯の敵と比べ</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-13</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1002.html>せっかくだから、俺は協会装備について今更適当にまとめるぜ！</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-13T15:25:07.000Z">2023-07-13T15:25:07.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>前の仕様変更が色々と重要なことあるから…【協会装備って？】序盤、中盤を手助けする装備。色々と改良を重ねていった結果、2023/7/13現在は装備レベル制限なしの専用アイテムに限定されている。昔は劣化したＵ品だったが…今はＤＸＵ程度なら匹敵するものも多い。とはいえ、775ＵＭＵ辺りにはさすがに勝てない。800DXUは物による。だいたい勝つけど…【購入方法】冒険団コインを使います。補助武器は3枚、あとは10枚。後述する仕様に</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-12</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1001.html>どうして…</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-12T11:19:06.000Z">2023-07-12T11:19:06.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>119</time></span>
-                        </b>
-                      </div>
-                      <p>あ…いや、あのー…【お死らせ】・RS通信なるものが始まりました。・既存不具合の修正は〇ございません。来週にやる気か…？公式のいつものあれＲＳ通信なるもの【金鯖情報】 開催期間は7/19(水)メンテ後から9/6(水)メンテまで。経験値は17倍、レベル上限は1000です。増えないんだ…。おおむね去年と変化はないと思います。レポクエ無理だし、ディなんとかさんもダメだし…。一応制限の中にないのは地図のあれとクリ冒険だが…その辺はど</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-10</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-1000.html>去年の金鯖何やってたっけ…</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-10T10:03:50.000Z">2023-07-10T10:03:50.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>あ…去年初のアイテムとして、金鯖ｶｰﾍﾟｯﾄたるものが実装されました。金鯖で使うと経験値5％効果付きの羊カーペットみたいなものです。そしてその見た目が…うん、金色の鯖です。ってことでね、何を思ったのかギルド飼育師にサブ含めて包囲していたわけです。餌くれ～ってねだってるような状況。そしたら他の人も集まってきて…こうなった。間違いなく困惑する図である。そういえば今年もこれ配るんだったな…ならば今年もやるしかない</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-09</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-999.html>不具合だとね…ね？</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-09T15:47:04.000Z">2023-07-09T15:47:04.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>…透明もそうだけど、分身出力も狂っていた。どうみてもエフェクト強化前じゃないか！まともなのはｒｙ不具合ってことにしておくけども…果たして今度のメンテで治るのかそれとも？15時なら安心ってのはこの前消し去ったので。あと心臓バグも治してね？この前の攻城本当に地獄だったから。V鯖の現状を知るために、現在の装備で荒地に突撃した。FIを振り回した結果は画像の通り。魔法強打55％程度なのと、魔法致命が悪さをしているの</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-06</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-998.html>透明ＯＰを入れてわかること</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-06T16:55:50.000Z">2023-07-06T16:55:50.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>そういえば普段使いは透明入れないけど、精霊コスに透明をＯＮしたらどうなるか気になった。こちらがその対象です。一応エフェクト強化済み。色はたぶんﾉｰﾏﾙから選ばれていると思う。今の状況だと何が正しいかさっぱりで…。そのうち色はレアのに変える。こっちで地獄を見るのだろうか？まぁそれはおいておく。問題は透明ＯＰを入れたらどうなるかだ！＼鎮☆火／え、えぇ…髪が黒ベースなのは強化前がそうだったから…でもここまで変わ</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-05</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-997.html>10％だと…？</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-05T14:00:00.000Z">2023-07-05T14:00:00.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>星コスの悪夢を思い出すなぁ…※20とちょっと失敗した。2023/7/5に精霊コスが実装されました。各職に決められた属性のコスです。エフェクトが付いており、見た目もよいこのコス…ならやるしかないよね？※見た目しか変わりません。基本的にｋろえをやるよりは装備強化に回す方がよいですということで、10％の恐怖を感じながら始めました。失敗前提なので、あらかじめ10回分を用意した。これで失敗しても安心だぜ！いや10連敗もしたら困</p>
-                      </details>
-                      <hr>
-                    </article>
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-996.html>運営「金鯖やるよ！」</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-05T10:28:14.000Z">2023-07-05T10:28:14.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>116</time></span>
-                        </b>
-                      </div>
-                      <p>いつ…？【配布品とか】・港町Box・不具合解消されてません…何のための15時までメンテ？精霊コスのため？いつも通りの公式【スフィアリミテッド】7/12(水)メンテまで。まぁこれは1週間だよね、うん。いつも通りのリミテッド。もう150円のパワキセットも恒例になってる？羊は黄金に染めました。金鯖が近いから？染まらない詳細【水着コス】9/6(水)メンテまで。なっが…金鯖終了と合わせているのかな？1個1200円の夏限定のあれです。つ</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-03</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-995.html>ようやく進展するクリパッシブ</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-03T15:33:53.000Z">2023-07-03T15:33:53.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time></time></span>
-                        </b>
-                      </div>
-                      <p>長かった…。3パッシブ目に出たのが補正値+4以上ならもっと選択肢が広がったのに、+2だから狭かったわけで。上級スキルか上級経験値か最終ダメージで最終ダメージ以外は被っても可という条件でした。結局上級スキルと上級経験値を引けて厳選は終わりを告げた…え？次？ＳＲでスキルと上級スキルか上級経験値か最終ダメをだな…。※ＬＲは変換で上級スキルと上級経験値に変換済み。あっさりでたんだよね…。ちなみにスキルは引けてます。</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-07-01</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-994.html>まぁ外れではないだろう…うん</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-07-01T14:02:57.000Z">2023-07-01T14:02:57.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>114</time></span>
-                        </b>
-                      </div>
-                      <p>あたりかといわれるとあれだが…相場に困るやーつ。知識5、知識1/5、魔法致命2％…まぁ、全部が知識5クラスのＯＰってことも当たり前にあるから外れではないってことにした。いくらで売ればいいかは置いておくことにするけども。売れないってオチかな？Ｓ鯖の槍ならﾍﾞﾙｾ使って2分で落とせるからまぁ楽。Ｖ鯖は…どうしたものか。物理で殺るにせよ、火力が足りるか否か…。クリーチャーはなんかちょうどいいのがいた。コラボの。ダブク</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-06-28</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-993.html>激おこ指「俺で最後だな！」</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-06-28T08:58:19.000Z">2023-06-28T08:58:19.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>116</time></span>
-                        </b>
-                      </div>
-                      <p>緩和「えっ」運営「えっえっ」【お死らせ】〇ございません（悪い意味で）※先週発生した不具合は解消されてません。公式のあれ【ゲーム内でやるログキャン】7/19(水)メンテまで。19日分まである。猶予は…3日。最後のは取引不可ＳＲコクーンだから、やるべきではある。前回と違ってちゃんと猶予もあるからね。むしろ前回がひどかったか。詳細です。【クリムゾンロト】7/12(水)メンテまで。1個1000円で高額セットの金額はいつも通り。</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-              <section class="day-container">
-                <div>
-                  <div class="date">2023-06-26</div>
-                  <div>
-
-                    <article>
-                      <h6><a href=https://extremetrailblazer.blog.fc2.com/blog-entry-992.html>こっちも久しぶりな気がする</a></h6>
-                      <div><b>
-                          <span><a href=https://extremetrailblazer.blog.fc2.com/>REDSTONE Relinquish</a></span> |
-                          <span>更新日: <time class="jst-iso-time" datetime="2023-06-26T15:02:01.000Z">2023-06-26T15:02:01.000Z</time></span> |
-                          <span>読了目安時間: <time>0 min</time></span> |
-                          <span>文字数: <time>115</time></span>
-                        </b>
-                      </div>
-                      <p>落書き。追記ぽーん。</p>
-                      </details>
-                      <hr>
-                    </article>
-
-              </section>
-          </ul>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-16</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://medaka1985.fc2.net/blog-entry-1545.html">非規格ナイフ。</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://medaka1985.fc2.net/">レッドストーン日誌</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-16T12:21:41.000Z">2026-07-16T12:21:41.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">こんばんは。メインシーフ、1838Lv達成です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;KWl_NAyrxTk">音量注意　北灘から、鳴門スカイライン→第一小鳴門橋→第二小鳴門橋まで。ドライブサウンドでかめです！天気がいいからお裾分け</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA">ひさプッチ</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-16T05:01:36.000Z">2026-07-16T05:01:36.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-15</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://medaka1985.fc2.net/blog-entry-1544.html">アスフォルド学園。</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://medaka1985.fc2.net/">レッドストーン日誌</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-15T13:21:59.000Z">2026-07-15T13:21:59.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">こんばんは。学校(遠い記憶)で勉強です。いつも読んで頂き、誠にありがとうございます。</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;3-q_0L1x4p8">お出かけだね</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA">ひさプッチ</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-15T11:05:22.000Z">2026-07-15T11:05:22.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-13</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;6JaSZp8yTHY">【REDSTONE】レッドストーン　ロイ日記　パート３５</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-13T10:39:12.000Z">2026-07-13T10:39:12.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-12</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://mitsurin32.blog.fc2.com/blog-entry-964.html">梅雨の時期を狩りをして乗り切る</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://mitsurin32.blog.fc2.com/">ミツリンの記録簿</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-12T15:00:00.000Z">2026-07-12T15:00:00.000Z</time></span>
+                  <span>読了目安時間: <time>2 min</time></span>
+                  <span>文字数: <time>655</time></span>
+                </div>
+                <p class="article-description">梅雨の時期は雨が多いのですが私も息子も雨の日は片頭痛がひどくてこの時期はとてもつらいものですこんにちは　ミツリンです</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://medaka1985.fc2.net/blog-entry-1543.html">ルパンvs複製人間。</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://medaka1985.fc2.net/">レッドストーン日誌</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-12T13:38:54.000Z">2026-07-12T13:38:54.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">こんばんは。コピーチャレンジです。おら、もう・・・。メインシーフ、1837Lv到達です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;Q5l6zb_hs2o">【REDSTONE】レッドストーン　ロイ日記　パート３４</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-12T09:50:29.000Z">2026-07-12T09:50:29.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;tSgyHACKtPI">【REDSTONE】レッドストーン　ロイ日記　パート３３</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-12T02:48:21.000Z">2026-07-12T02:48:21.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-11</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://medaka1985.fc2.net/blog-entry-1542.html">ラッキーBox。</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://medaka1985.fc2.net/">レッドストーン日誌</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-11T13:43:02.000Z">2026-07-11T13:43:02.000Z</time></span>
+                  <span>読了目安時間: <time>4 min</time></span>
+                  <span>文字数: <time>1102</time></span>
+                </div>
+                <p class="article-description">こんばんは。おお・・・。やったー！メインシーフ、1834Lv到達です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-10</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;IylhrdjV5ds">【REDSTONE】レッドストーン　ロイ日記　パート３２</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-10T10:38:17.000Z">2026-07-10T10:38:17.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-08</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://plaza.rakuten.co.jp/motoshihu/diary/202607080000/">知識マスケの表記が上がった要因について</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://plaza.rakuten.co.jp/motoshihu/">黒魔がメインですが何か？</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-08T03:28:59.000Z">2026-07-08T03:28:59.000Z</time></span>
+                  <span>読了目安時間: <time>8 min</time></span>
+                  <span>文字数: <time>2523</time></span>
+                </div>
+                <p class="article-description">きっかけは、↓この指を使いたいと考えたことでした。これまでＷ速力比感電を使っていたのですが、TRSULT感電は高かったので何とか使おうと考えましたｗそうすると攻撃速度が圧倒的に不足してしまうので、↓の太極...</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-07</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://plaza.rakuten.co.jp/motoshihu/diary/202607070000/">インセンの表記が2000万を超えました</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://plaza.rakuten.co.jp/motoshihu/">黒魔がメインですが何か？</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-07T04:32:08.000Z">2026-07-07T04:32:08.000Z</time></span>
+                  <span>読了目安時間: <time>8 min</time></span>
+                  <span>文字数: <time>2491</time></span>
+                </div>
+                <p class="article-description">ベルセとかではなく普通の状態でインセンの表記が2000万を超えました。装備構成や超越スキルをいじった結果です。詳細は後日書きます。</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="http://amakusa46.blog34.fc2.com/blog-entry-1168.html">【REDSTONE】非規格装備の今後（個人的予想）</a></h3>
+                <div class="article-meta">
+                  <span><a href="http://amakusa46.blog34.fc2.com/">JEFRYの悪足掻き</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-07T03:43:05.000Z">2026-07-07T03:43:05.000Z</time></span>
+                  <span>読了目安時間: <time>2 min</time></span>
+                  <span>文字数: <time>608</time></span>
+                </div>
+                <p class="article-description">使用可能なアイテムから推察するに、非規格装備はノーマルアイテム扱いなんじゃないかな。昔のRSでは、ノーマルアイテムにオプションが付いた「レアアイテム」を狙ってドロップ狩りをしていたが、今正に非規格装備がその状態だとおもう。＜非規格装備＞〇使用可能なアイテム異次元ボックス、消滅の魔法書、青色の再構成魔法書、青色の魔力増幅魔法書、オプション魔法のお守り、エンチャント文書、超強力ボンド、魔法のボンド×使用</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-06</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://medaka1985.fc2.net/blog-entry-1541.html">デフレの理由。</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://medaka1985.fc2.net/">レッドストーン日誌</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-06T12:19:57.000Z">2026-07-06T12:19:57.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">こんばんは。メインシーフ、1832Lv達成です(*&#x27;▽&#x27;)。最近、S鯖の相場が下がっているのは恐らく、ノード使用時の手数料でシステムがインゴを回収してるからだと思います。いつも読んで頂き、誠にありがとうございます。</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;6m3-0f4oThs">【REDSTONE】レッドストーン　ロイ日記　パート３１</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-06T09:50:10.000Z">2026-07-06T09:50:10.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-05</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://plaza.rakuten.co.jp/motoshihu/diary/202607060000/">マスケ用のオバフロを作成</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://plaza.rakuten.co.jp/motoshihu/">黒魔がメインですが何か？</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-05T19:19:54.000Z">2026-07-05T19:19:54.000Z</time></span>
+                  <span>読了目安時間: <time>8 min</time></span>
+                  <span>文字数: <time>2502</time></span>
+                </div>
+                <p class="article-description">↓これは、他の知識職で使っているオバフロです。BFOPの魔法弱化がマスケには無駄になっています。他には、解放変換で武器最大ダメが欲しいですね。あとマスケはCPがほとんど減らないので自リロも要らないんですよ...</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://mitsurin32.blog.fc2.com/blog-entry-963.html">武道非規格武器を試す</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://mitsurin32.blog.fc2.com/">ミツリンの記録簿</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-05T15:00:00.000Z">2026-07-05T15:00:00.000Z</time></span>
+                  <span>読了目安時間: <time>2 min</time></span>
+                  <span>文字数: <time>658</time></span>
+                </div>
+                <p class="article-description">連日雨の日が多くて通勤が大変ですこんにちは　ミツリンです</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;WuENuXvnNmc">【REDSTONE】レッドストーン　ロイ日記　パート３０</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-05T03:57:25.000Z">2026-07-05T03:57:25.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-04</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://plaza.rakuten.co.jp/motoshihu/diary/202607040000/">知識マスケの途中経過</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://plaza.rakuten.co.jp/motoshihu/">黒魔がメインですが何か？</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-04T07:38:45.000Z">2026-07-04T07:38:45.000Z</time></span>
+                  <span>読了目安時間: <time>8 min</time></span>
+                  <span>文字数: <time>2498</time></span>
+                </div>
+                <p class="article-description">​昼間のHOTタイムの結果、↓のレベルになりました。参考になるかも知れないので、ステも一応載せておきます。知恵を削ったり知識を増やしたりした結果、表記ダメは↓になりました。この表記で知識覚醒右クリ押しっ...</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-03</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;VA5qsAIY3YM">【REDSTONE】レッドストーン　ロイ日記　パート２９</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-03T10:09:06.000Z">2026-07-03T10:09:06.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-02</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://medaka1985.fc2.net/blog-entry-1540.html">キャンペーン箱。</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://medaka1985.fc2.net/">レッドストーン日誌</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-02T19:58:37.000Z">2026-07-02T19:58:37.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">こんばんは。キャンペーンのおまけ箱です。なかなかの結果です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://intothe.info/wow/in-this-twilight/">In This Twilight</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://intothe.info">Into the Bag</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-02T16:55:07.000Z">2026-07-02T16:55:07.000Z</time></span>
+                  <span>読了目安時間: <time>10 min</time></span>
+                  <span>文字数: <time>2977</time></span>
+                </div>
+                <p class="article-description">2つ前の拡張DragonflightまでWoWにおけるエンドゲームはRaid, Dungeon(M+), PvPがメインでこれらはいずれもグループコンテンツでありソロプレイヤーにとっては参加のハードルが高かったソロ用のコンテンツとしてはLegionのMage Tower,...</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-07-01</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://medaka1985.fc2.net/blog-entry-1539.html">ちゃんこ。</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://medaka1985.fc2.net/">レッドストーン日誌</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-07-01T19:59:15.000Z">2026-07-01T19:59:15.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">こんばんは。メインシーフ、1831Lv達成です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-06-29</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://medaka1985.fc2.net/blog-entry-1538.html">カイグラン渓谷入口。</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://medaka1985.fc2.net/">レッドストーン日誌</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-06-29T17:57:44.000Z">2026-06-29T17:57:44.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">こんばんは。初の1250UMUドロップです。メインシーフ、1829Lv達成です(*&#x27;▽&#x27;)。いつも読んで頂き、誠にありがとうございます。</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://plaza.rakuten.co.jp/motoshihu/diary/202606290000/">解放変換の妥協ラインはどこ？</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://plaza.rakuten.co.jp/motoshihu/">黒魔がメインですが何か？</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-06-29T10:42:45.000Z">2026-06-29T10:42:45.000Z</time></span>
+                  <span>読了目安時間: <time>8 min</time></span>
+                  <span>文字数: <time>2513</time></span>
+                </div>
+                <p class="article-description">霊術のレベルが1500近くなって、武器の装備Lv－200がなくても大丈夫になったので解放変換を実施しました。狙いは当然最終ダメです。変換15回目で、　カリスマ+504　属性吸収無視　最終攻撃力14％　魔法攻撃力30％...</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://www.youtube.com/watch?v&#x3D;uGcE0iyOw4A">【REDSTONE】レッドストーン　ロイ日記　パート２８</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA">ロイ4世</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-06-29T10:26:39.000Z">2026-06-29T10:26:39.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">No content preview</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2026-06-28</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://mitsurin32.blog.fc2.com/blog-entry-962.html">2026年6月アップデート</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://mitsurin32.blog.fc2.com/">ミツリンの記録簿</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-06-28T15:00:00.000Z">2026-06-28T15:00:00.000Z</time></span>
+                  <span>読了目安時間: <time>2 min</time></span>
+                  <span>文字数: <time>657</time></span>
+                </div>
+                <p class="article-description">週末に来た大型台風の影響もあってかなりの雨が振りましたこんにちは　ミツリンです</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://medaka1985.fc2.net/blog-entry-1537.html">ゴールドラッシュ！</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://medaka1985.fc2.net/">レッドストーン日誌</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2026-06-28T14:31:31.000Z">2026-06-28T14:31:31.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">こんばんは。分解箱と交換です。(ﾉ∀｀*)ｱﾁｬｰ。当たり！(79本で売れました。)小当たりです。ディスクロージャーノード2個220本で置いてたら売れてました(/・ω・)/。その他、1750鎧70本、1750戦士武器200本で叫び売れました！いつの間にかピペリオン、ソロ出来る様になってました(*&#x27;▽&#x27;)。メインシーフ、1826Lv到達です。いつも読んで頂き、誠にありがとうございます。</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-25</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-21.html">最後の更新</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-25T06:59:29.000Z">2023-07-25T06:59:29.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>49</time></span>
+                </div>
+                <p class="article-description">RS完全に引退します。もうやる気返ってこないのがわかったので…ブログの記事は全て消しました。もうないです。そのうちこのブログ自体も消します。今までありがとうございました。装備？抱えたまま消すけど。明日のランキングみたら分かるかな…うん。おわり</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-24</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1012.html">落ち着きはした</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-24T15:51:19.000Z">2023-07-24T15:51:19.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">やる気は帰ってこなかった。一時的な精神の荒れは戻りました。戻るのに時間かかったけど…。が、ＲＳに対する熱意はどっかへ行ったみたいで。複数のログキャン興味なし、Pass処理どころかRSログインすらしてない状況。もう少し時間をおいてから今後の事は判断する。メンテ後更新はやるけど…。おわり。</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-22</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1011.html">終わり</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-22T08:57:08.000Z">2023-07-22T08:57:08.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">こちら、21日の金鯖レベルランキング（5転アチャランのみ）です。こちら、22日の金鯖レベルランキング（5転アチャランのみ）です。以上。なんっつうか、もういいやってなった。それだけ。あれだけ準備したのに、一瞬で萎えることがあった。本鯖もどうでもいいって感じです。ログキャン、ルーレットすら放置するくらいに萎えてます。なので、もう金鯖にはいません。仕事は最低限果たした。もう知らんよ…おわり</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-20</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1010.html">金鯖に地図バフを載せてしまった結果がこれだよ！</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-20T01:24:12.000Z">2023-07-20T01:24:12.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">24時間かからず5転1000レべ達成。厳密には14時間、準備抜きで9時間。…うん、正直長期戦になるだろうと思って狩ってたんだ。問題が起きたのは900次元ＰＴボス。敵火力を耐えられる仕様にして、FI2発確定で10か所回ししていたら地図宝箱出ました。普通に入力するじゃん？バフ付与されるじゃん？しっかり適用されるじゃん。…ということで、本来なら壺突破！なレベル帯を900次元で代用し、代わりに930あたりから壺ブースト+クエスト消</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-19</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1009.html">色々混ざりあってなんというか…</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-19T11:10:25.000Z">2023-07-19T11:10:25.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>125</time></span>
+                </div>
+                <p class="article-description">評価に困る。いいもの、悪いものいっぱい。【お知らせ（お死らせ含む）】・金鯖2023、開催。・入手経路異なるアイテムが重なるようになった。・2ページ目以降の装備アイテムのクイックスロット登録ができるようになった。・自リロバグが治った・精霊コスの出力がほぼ治った。分身がエフェクト強化に非対応。・金鯖BOX2022が金鯖プレゼントBOXに改名。使いまわすためだね？・簡易版の金鯖ポケットベルの経験値効果が発動していない※</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-18</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1008.html">24時間もない販売期間</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-18T10:49:14.000Z">2023-07-18T10:49:14.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">18日…あ。【180円販売】7/19(水)メンテまで。短すぎない？180円売りが色々…と思ったけど、爆竜心臓とファストヒールと…転生パワキ。前二つはいいけど、転生パワキは…うーん。金鯖でも900維持の5転する人には無用…。1日も持たない詳細短い…あと18日午後って意識がないから岩の日に気づかない。やっぱ18円にしない？無理か。おわり</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-17</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1007.html">超越を使わない場合のある意味最終系</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-17T16:16:04.000Z">2023-07-17T16:16:04.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">これでできた。最後のクリパッシブ厳選も終わり、それらの覚醒値を調整してLR等級まで強化して…終わり！LRはあれじゃないとだめだし、HR1体は3パッシブ前提だし、SRが必要になってしまったし…大変でした。HRの3パッシブがうまいこといけばHR3体で済んだ…はず。それもLRがきれいにサブパッシブ分散したからだけども。何が変わったかというと、上級経験値Lv50を追加しました。その労力にあうかって？Slv+6だよ？なお、現在は超越を使</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1006.html">今更金鯖に向けた話</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-17T08:39:29.000Z">2023-07-17T08:39:29.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">なんやかんやで直前…前に書いたのを多少変更しただけである。【金鯖って？】経験値倍率がぶち抜けた期間限定サーバー。7月下旬～9月上旬くらい。2023年の倍率は17倍です。スフィアパワキバッジで102倍。あとは実、旗バフ、クリパッシブなどでさらに増える。混雑がとんでもないことになっており、古都は土日や平日夜に接続満になる。用事がないなら古都で放置しないように。接続を競い合うゲーム。半面、高レべ狩場は軽くなった。そ</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-16</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1005.html">今年（2023）の金鯖の予定</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-16T16:46:18.000Z">2023-07-16T16:46:18.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">確定で作るのは3体。あとは時と場合…。【1st】知識槍。所属先等は確定してる。去年と同じ。速攻で1000レべにする枠。目標は金曜日までだが、無理なら本鯖攻城までにする。2021年の経験や、次元ＰＴボス等調べたから、狩場が空いていれば何とかなると思ってる。まぁ去年もデイリー討伐用キャラが油入れれば地下墓地Ｂ1ワンパンだったから…持ち込み次第ではあるけどね、うん。なお、攻城は様子見になる。相手に合わせるべきか…。【2n</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1004.html">既存ＰＴボスの経験値に関するお話</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-16T04:44:18.000Z">2023-07-16T04:44:18.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">※稀に沸く固定経験値は無視しています次元ＰＴボスの調査にて、経験値比較のために適当な狩場も一緒に調査しました。その時の産物として、既存のＰＴボス経験値が残っているので、それのみを抽出する。条件はその時と同じこの通り。スフィアパワキ経験値バッジ込み、知恵101、G加入（+15％、-0.05％）、5転生キャラとペア狩り実は入ってません。旗バフもないです。クリーチャーのパッシブもないですし、経験値指も使いません。対象</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-15</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1003.html">亜種的な金鯖レベ上げルート</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-15T03:53:52.000Z">2023-07-15T03:53:52.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>136</time></span>
+                </div>
+                <p class="article-description">一般的なのは他の方がまとめているだろうから…【装備が完全に揃っている人向け】作成後→GD入口とB1→915辺りまで次元ＰＴボス渡り→950まで地下墓地のＰＶＰフィールド→地下収容所Ｂ1次元ＰＴボスは基本的に25レべ間隔だが、ＲＳオーラで多少伸ばす。経験値がぶっとんでいるのだが、問題点は相手の火力がでたらめなことか。かつて調査した敵からの被ダメ状況。防御2815、属性抵抗だいたい52％で土だけ67％です。同レベル帯の敵と比べ</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-13</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1002.html">せっかくだから、俺は協会装備について今更適当にまとめるぜ！</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-13T15:25:07.000Z">2023-07-13T15:25:07.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">前の仕様変更が色々と重要なことあるから…【協会装備って？】序盤、中盤を手助けする装備。色々と改良を重ねていった結果、2023/7/13現在は装備レベル制限なしの専用アイテムに限定されている。昔は劣化したＵ品だったが…今はＤＸＵ程度なら匹敵するものも多い。とはいえ、775ＵＭＵ辺りにはさすがに勝てない。800DXUは物による。だいたい勝つけど…【購入方法】冒険団コインを使います。補助武器は3枚、あとは10枚。後述する仕様に</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-12</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1001.html">どうして…</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-12T11:19:06.000Z">2023-07-12T11:19:06.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>119</time></span>
+                </div>
+                <p class="article-description">あ…いや、あのー…【お死らせ】・RS通信なるものが始まりました。・既存不具合の修正は〇ございません。来週にやる気か…？公式のいつものあれＲＳ通信なるもの【金鯖情報】 開催期間は7/19(水)メンテ後から9/6(水)メンテまで。経験値は17倍、レベル上限は1000です。増えないんだ…。おおむね去年と変化はないと思います。レポクエ無理だし、ディなんとかさんもダメだし…。一応制限の中にないのは地図のあれとクリ冒険だが…その辺はど</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-10</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-1000.html">去年の金鯖何やってたっけ…</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-10T10:03:50.000Z">2023-07-10T10:03:50.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">あ…去年初のアイテムとして、金鯖ｶｰﾍﾟｯﾄたるものが実装されました。金鯖で使うと経験値5％効果付きの羊カーペットみたいなものです。そしてその見た目が…うん、金色の鯖です。ってことでね、何を思ったのかギルド飼育師にサブ含めて包囲していたわけです。餌くれ～ってねだってるような状況。そしたら他の人も集まってきて…こうなった。間違いなく困惑する図である。そういえば今年もこれ配るんだったな…ならば今年もやるしかない</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-09</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-999.html">不具合だとね…ね？</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-09T15:47:04.000Z">2023-07-09T15:47:04.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">…透明もそうだけど、分身出力も狂っていた。どうみてもエフェクト強化前じゃないか！まともなのはｒｙ不具合ってことにしておくけども…果たして今度のメンテで治るのかそれとも？15時なら安心ってのはこの前消し去ったので。あと心臓バグも治してね？この前の攻城本当に地獄だったから。V鯖の現状を知るために、現在の装備で荒地に突撃した。FIを振り回した結果は画像の通り。魔法強打55％程度なのと、魔法致命が悪さをしているの</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-06</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-998.html">透明ＯＰを入れてわかること</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-06T16:55:50.000Z">2023-07-06T16:55:50.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">そういえば普段使いは透明入れないけど、精霊コスに透明をＯＮしたらどうなるか気になった。こちらがその対象です。一応エフェクト強化済み。色はたぶんﾉｰﾏﾙから選ばれていると思う。今の状況だと何が正しいかさっぱりで…。そのうち色はレアのに変える。こっちで地獄を見るのだろうか？まぁそれはおいておく。問題は透明ＯＰを入れたらどうなるかだ！＼鎮☆火／え、えぇ…髪が黒ベースなのは強化前がそうだったから…でもここまで変わ</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-05</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-997.html">10％だと…？</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-05T14:00:00.000Z">2023-07-05T14:00:00.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">星コスの悪夢を思い出すなぁ…※20とちょっと失敗した。2023/7/5に精霊コスが実装されました。各職に決められた属性のコスです。エフェクトが付いており、見た目もよいこのコス…ならやるしかないよね？※見た目しか変わりません。基本的にｋろえをやるよりは装備強化に回す方がよいですということで、10％の恐怖を感じながら始めました。失敗前提なので、あらかじめ10回分を用意した。これで失敗しても安心だぜ！いや10連敗もしたら困</p>
+              </article>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-996.html">運営「金鯖やるよ！」</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-05T10:28:14.000Z">2023-07-05T10:28:14.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>116</time></span>
+                </div>
+                <p class="article-description">いつ…？【配布品とか】・港町Box・不具合解消されてません…何のための15時までメンテ？精霊コスのため？いつも通りの公式【スフィアリミテッド】7/12(水)メンテまで。まぁこれは1週間だよね、うん。いつも通りのリミテッド。もう150円のパワキセットも恒例になってる？羊は黄金に染めました。金鯖が近いから？染まらない詳細【水着コス】9/6(水)メンテまで。なっが…金鯖終了と合わせているのかな？1個1200円の夏限定のあれです。つ</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-03</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-995.html">ようやく進展するクリパッシブ</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-03T15:33:53.000Z">2023-07-03T15:33:53.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time></time></span>
+                </div>
+                <p class="article-description">長かった…。3パッシブ目に出たのが補正値+4以上ならもっと選択肢が広がったのに、+2だから狭かったわけで。上級スキルか上級経験値か最終ダメージで最終ダメージ以外は被っても可という条件でした。結局上級スキルと上級経験値を引けて厳選は終わりを告げた…え？次？ＳＲでスキルと上級スキルか上級経験値か最終ダメをだな…。※ＬＲは変換で上級スキルと上級経験値に変換済み。あっさりでたんだよね…。ちなみにスキルは引けてます。</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-07-01</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-994.html">まぁ外れではないだろう…うん</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-07-01T14:02:57.000Z">2023-07-01T14:02:57.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>114</time></span>
+                </div>
+                <p class="article-description">あたりかといわれるとあれだが…相場に困るやーつ。知識5、知識1/5、魔法致命2％…まぁ、全部が知識5クラスのＯＰってことも当たり前にあるから外れではないってことにした。いくらで売ればいいかは置いておくことにするけども。売れないってオチかな？Ｓ鯖の槍ならﾍﾞﾙｾ使って2分で落とせるからまぁ楽。Ｖ鯖は…どうしたものか。物理で殺るにせよ、火力が足りるか否か…。クリーチャーはなんかちょうどいいのがいた。コラボの。ダブク</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-06-28</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-993.html">激おこ指「俺で最後だな！」</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-06-28T08:58:19.000Z">2023-06-28T08:58:19.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>116</time></span>
+                </div>
+                <p class="article-description">緩和「えっ」運営「えっえっ」【お死らせ】〇ございません（悪い意味で）※先週発生した不具合は解消されてません。公式のあれ【ゲーム内でやるログキャン】7/19(水)メンテまで。19日分まである。猶予は…3日。最後のは取引不可ＳＲコクーンだから、やるべきではある。前回と違ってちゃんと猶予もあるからね。むしろ前回がひどかったか。詳細です。【クリムゾンロト】7/12(水)メンテまで。1個1000円で高額セットの金額はいつも通り。</p>
+              </article>
+            </section>
+            <section class="day-container">
+              <h2 class="date">2023-06-26</h2>
+              <article class="feed-article">
+                <h3 class="article-title"><a href="https://extremetrailblazer.blog.fc2.com/blog-entry-992.html">こっちも久しぶりな気がする</a></h3>
+                <div class="article-meta">
+                  <span><a href="https://extremetrailblazer.blog.fc2.com/">REDSTONE Relinquish</a></span>
+                  <span>更新日: <time class="jst-iso-time" datetime="2023-06-26T15:02:01.000Z">2023-06-26T15:02:01.000Z</time></span>
+                  <span>読了目安時間: <time>0 min</time></span>
+                  <span>文字数: <time>115</time></span>
+                </div>
+                <p class="article-description">落書き。追記ぽーん。</p>
+              </article>
+            </section>
+          </div>
           <br>
           <br>
           <br>
           <br>
           <br>
-          <h3>仕様</h3>
-          <section class="day-container">
+          <h1 class="section-title">仕様</h1>
+          <section class="day-container info-panel">
             * 15～30分に一度自動でRSSを拾って反映します。<br>
             * 直近1か月以内に更新された記事 or 1サイトにおけるRSSの上限記事数を収集します。<br>
             * youtube動画, ブログ, webサイトが掲載対象です。Twitterについては検討中。<br>
@@ -1519,23 +1119,23 @@ RED STONE 二次創作オンリー
           <br>
           <br>
           <br>
-          <h3>追加/解除希望の手続方法</h3>
-          <section class="day-container">
+          <h1 class="section-title">追加・解除希望の手続方法</h1>
+          <section class="day-container info-panel">
             * <a href="https://discord.gg/Cehjnzd">レッドストーン総合交流Discord</a>にて追加希望サイトを募集するチャンネルを用意しましたので、そちらより申請お願いします。<br>
             * 登録解除についても同様です。<br>
             * 「REDSTONE以外のブログも書きたい！」という方のために将来的には対象サイトにおける記事のタイトルに「REDSTONE」「レッドストーン」等が含まれている記事のみ<br>
             　　ピックアップできる機能を追加するかもしれません。(現時点では実装時期未定)<br>
           </section>
           <br>
-          <h3>雑学</h3>
-          <section class="day-container">
+          <h1 class="section-title">雑学</h1>
+          <section class="day-container info-panel">
             * レッドストーン公式サイトにおいても、<a
               href="https://members.redsonline.jp/game_info/community/pickup/scoop.asp?news_seq=18">過去にRSSフィードが掲載されていたことがあります。</a><br>
             * しかし、<a
               href="https://members.redsonline.jp/news/maintenance_body.asp?curpage=1&ntc_num=10557">2017/8/30メンテ</a>にてRSS配信が終了しました。<br>
             <img
               src="https://image.space.rakuten.co.jp/d/strg/ctrl/9/c0a659953bfa4cfd698e7daab535823a2ed3cb0e.10.9.9.3.png"
-              border="0" name="insertImg" /><br>
+              class="rss-history-image" alt="レッドストーン公式サイトのRSS掲載例" /><br>
           </section>
           <br>
           <br>
@@ -1545,25 +1145,24 @@ RED STONE 二次創作オンリー
           <br>
           <!--main-->
           <footer class="android-footer mdl-mega-footer">
-            <font color="red">当サイトで利用している画像及びデータは、株式会社ゲームオンに帰属します。<br />
+            <font color="red">
+              当サイトで利用している画像及びデータは、L&amp;K Co., Ltd.に帰属します。<br>
               許可無くご利用又は転用する事は出来ませんので、予めご了承下さい。<br>
             </font>
-            Copyright (c) L&K Co., Ltd. All Rights Reserved. License to GameOn Co., Ltd.
+            © L&amp;K Co., Ltd. All Rights Reserved.<br>
           </footer>
-          <!--書き換え禁止(書かなくてもおｋだが、習慣として書いとく)
-          Copyright (c) This site is created by Sokomin. All Rights Reserved.
-     -->
+        </section>
       </div>
-      <script src=index.js></script>
+      <script src="index.js"></script>
 
       <!-- Convert url in plaintext to clickable link -->
       <script src="relative-time.js"></script>
       <script src="https://cdn.jsdelivr.net/npm/linkifyjs@3.0.0-beta.3/dist/linkify.min.js"></script>
       <script src="https://cdn.jsdelivr.net/npm/linkifyjs@3.0.0-beta.3/dist/linkify-element.min.js"></script>
-      <script>document.querySelectorAll("article .details-content").forEach($ => linkifyElement($, { attributes: { target: '_blank', rel: 'noopener noreferrer' } }))</script>
-
-      <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+      <script>document.querySelectorAll(".article-description").forEach($ => linkifyElement($, { attributes: { target: '_blank', rel: 'noopener noreferrer' } }))</script>
+      <script src="https://sokomin.github.io/material.min.js"></script>
     </div>
+  </div>
 </body>
 
 </html>
