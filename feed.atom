@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-29T03:45:45.941Z</updated>
+    <updated>2026-07-29T06:35:21.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -530,16 +530,6 @@ RED STONE 二次創作オンリー
         <link href="https://medaka1985.fc2.net/blog-entry-1539.html"/>
         <updated>2026-07-01T19:59:15.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。メインシーフ、1831Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カイグラン渓谷入口。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1538.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1538.html"/>
-        <updated>2026-06-29T17:57:44.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。初の1250UMUドロップです。メインシーフ、1829Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
