@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ggnP0zZ4NDM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ggnP0zZ4NDM",
+          "publishedOn": "2026-07-30T10:04:36.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート４３",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wGl788uC_dY",
           "author": null,
           "description": "",
