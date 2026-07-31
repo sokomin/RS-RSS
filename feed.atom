@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-31T07:53:24.658Z</updated>
+    <updated>2026-07-31T10:43:46.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -551,16 +551,6 @@ RED STONE 二次創作オンリー
         <summary type="html"><![CDATA[2つ前の拡張DragonflightまでWoWにおけるエンドゲームはRaid, Dungeon(M+), PvPがメインでこれらはいずれもグループコンテンツでありソロプレイヤーにとっては参加のハードルが高かったソロ用のコンテンツとしてはLegionのMage Tower,...]]></summary>
         <author>
             <name>marsborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ちゃんこ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1539.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1539.html"/>
-        <updated>2026-07-01T19:59:15.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインシーフ、1831Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
