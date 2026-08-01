@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T03:56:48.651Z</updated>
+    <updated>2026-08-01T06:37:52.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -541,16 +541,6 @@ RED STONE 二次創作オンリー
         <summary type="html"><![CDATA[こんばんは。キャンペーンのおまけ箱です。なかなかの結果です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In This Twilight]]></title>
-        <id>https://intothe.info/?p=3634</id>
-        <link href="https://intothe.info/wow/in-this-twilight/"/>
-        <updated>2026-07-02T16:55:07.000Z</updated>
-        <summary type="html"><![CDATA[2つ前の拡張DragonflightまでWoWにおけるエンドゲームはRaid, Dungeon(M+), PvPがメインでこれらはいずれもグループコンテンツでありソロプレイヤーにとっては参加のハードルが高かったソロ用のコンテンツとしてはLegionのMage Tower,...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>

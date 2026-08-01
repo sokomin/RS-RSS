@@ -99,18 +99,7 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": [
-        {
-          "id": "https://intothe.info/?p=3634",
-          "author": "marsborn",
-          "description": "2つ前の拡張DragonflightまでWoWにおけるエンドゲームはRaid, Dungeon(M+), PvPがメインでこれらはいずれもグループコンテンツでありソロプレイヤーにとっては参加のハードルが高かったソロ用のコンテンツとしてはLegionのMage Tower,...",
-          "link": "https://intothe.info/wow/in-this-twilight/",
-          "publishedOn": "2026-07-02T16:55:07.000Z",
-          "wordCount": 2977,
-          "title": "In This Twilight",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "魔法の壁のリアルライふ",
