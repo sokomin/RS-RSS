@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-02T14:02:42.818Z</updated>
+    <updated>2026-08-02T15:31:57.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金鯖を始めました]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-967.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-967.html"/>
+        <updated>2026-08-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[連日暑い日が続きます今職場では建物の改修工事も相まってエアコンが使えない事も多いです仕事量よりも暑さに耐えるのがしんどいですこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【積ゲー】steamやりたいゲームやる回　パート１]]></title>
         <id>https://www.youtube.com/watch?v=jOWxkjMN0ts</id>
