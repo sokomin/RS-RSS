@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jOWxkjMN0ts",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jOWxkjMN0ts",
+          "publishedOn": "2026-08-02T10:03:14.000Z",
+          "wordCount": null,
+          "title": "【積ゲー】steamやりたいゲームやる回　パート１",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lWZrFtppnJE",
           "author": null,
           "description": "",
@@ -937,6 +947,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1551.html",
+          "author": "medaka1985",
+          "description": "こんばんは。メインシーフ、1842Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1551.html",
+          "publishedOn": "2026-08-02T09:53:58.000Z",
+          "wordCount": null,
+          "title": "日曜日。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1550.html",
           "author": "medaka1985",
