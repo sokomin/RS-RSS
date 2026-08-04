@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-04T18:58:26.901Z</updated>
+    <updated>2026-08-04T20:38:29.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -550,16 +550,6 @@ RED STONE 二次創作オンリー
         <updated>2026-07-06T09:50:10.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マスケ用のオバフロを作成]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202607060000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202607060000/"/>
-        <updated>2026-07-06T07:44:38.000Z</updated>
-        <summary type="html"><![CDATA[​​↓これは、他の知識職で使っているオバフロです。BFOPの魔法弱化がマスケには無駄になっています。他には、解放変換で武器最大ダメが欲しいですね。あとマスケはCPがほとんど減らないので自リロも要らないんです...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
