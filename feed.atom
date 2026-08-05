@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-05T00:17:04.787Z</updated>
+    <updated>2026-08-05T03:40:18.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -531,16 +531,6 @@ RED STONE 二次創作オンリー
         <summary type="html"><![CDATA[使用可能なアイテムから推察するに、非規格装備はノーマルアイテム扱いなんじゃないかな。昔のRSでは、ノーマルアイテムにオプションが付いた「レアアイテム」を狙ってドロップ狩りをしていたが、今正に非規格装備がその状態だとおもう。＜非規格装備＞〇使用可能なアイテム異次元ボックス、消滅の魔法書、青色の再構成魔法書、青色の魔力増幅魔法書、オプション魔法のお守り、エンチャント文書、超強力ボンド、魔法のボンド×使用]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デフレの理由。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1541.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1541.html"/>
-        <updated>2026-07-06T12:19:57.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインシーフ、1832Lv達成です(*'▽')。最近、S鯖の相場が下がっているのは恐らく、ノード使用時の手数料でシステムがインゴを回収してるからだと思います。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
