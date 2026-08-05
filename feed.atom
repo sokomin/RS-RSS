@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-05T15:35:13.520Z</updated>
+    <updated>2026-08-05T17:08:45.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -520,26 +520,6 @@ RED STONE 二次創作オンリー
         <summary type="html"><![CDATA[きっかけは、↓この指を使いたいと考えたことでした。これまでＷ速力比感電を使っていたのですが、TRSULT感電は高かったので何とか使おうと考えましたｗそうすると攻撃速度が圧倒的に不足してしまうので、↓の太極...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インセンの表記が2000万を超えました]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202607070000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202607070000/"/>
-        <updated>2026-07-07T04:32:08.000Z</updated>
-        <summary type="html"><![CDATA[ベルセとかではなく普通の状態でインセンの表記が2000万を超えました。装備構成や超越スキルをいじった結果です。詳細は後日書きます。]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】非規格装備の今後（個人的予想）]]></title>
-        <id>http://amakusa46.blog34.fc2.com/blog-entry-1168.html</id>
-        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1168.html"/>
-        <updated>2026-07-07T03:43:05.000Z</updated>
-        <summary type="html"><![CDATA[使用可能なアイテムから推察するに、非規格装備はノーマルアイテム扱いなんじゃないかな。昔のRSでは、ノーマルアイテムにオプションが付いた「レアアイテム」を狙ってドロップ狩りをしていたが、今正に非規格装備がその状態だとおもう。＜非規格装備＞〇使用可能なアイテム異次元ボックス、消滅の魔法書、青色の再構成魔法書、青色の魔力増幅魔法書、オプション魔法のお守り、エンチャント文書、超強力ボンド、魔法のボンド×使用]]></summary>
-        <author>
-            <name>JEFRY</name>
         </author>
     </entry>
     <entry>
