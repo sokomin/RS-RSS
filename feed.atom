@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-06T14:23:30.789Z</updated>
+    <updated>2026-08-07T00:19:45.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -510,16 +510,6 @@ RED STONE 二次創作オンリー
         <updated>2026-07-10T10:38:17.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知識マスケの表記が上がった要因について]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202607080000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202607080000/"/>
-        <updated>2026-07-08T03:28:59.000Z</updated>
-        <summary type="html"><![CDATA[きっかけは、↓この指を使いたいと考えたことでした。これまでＷ速力比感電を使っていたのですが、TRSULT感電は高かったので何とか使おうと考えましたｗそうすると攻撃速度が圧倒的に不足してしまうので、↓の太極...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
