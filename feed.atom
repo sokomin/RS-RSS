@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-08T07:08:48.460Z</updated>
+    <updated>2026-08-08T08:03:37.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マスケ進捗状況]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202608080000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202608080000/"/>
+        <updated>2026-08-08T07:14:12.000Z</updated>
+        <summary type="html"><![CDATA[最近ちょっと忙しくて更新が滞っていました。マスケの進捗ですが、今日の昼のホットタイムで↓になりました。このキャラは、ここまで完全ソロでレベリングをしてきました。同じくらいの狩り効率の人と２人PTを組む...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金鯖で遊ぼう！2026]]></title>
         <id>kaze.gg-blog.com://entry/233</id>
