@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lFiCLqBeyaM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lFiCLqBeyaM",
+          "publishedOn": "2026-08-09T07:21:08.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン＆REPO　ロイ日記　パート４８",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ey1AVN94qPk",
           "author": null,
           "description": "",
