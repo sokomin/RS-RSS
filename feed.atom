@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-09T23:52:35.096Z</updated>
+    <updated>2026-08-10T02:08:53.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -654,16 +654,6 @@ RED STONE 二次創作オンリー
         <updated>2026-07-12T02:48:21.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ラッキーBox。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1542.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1542.html"/>
-        <updated>2026-07-11T13:43:02.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。おお・・・。やったー！メインシーフ、1834Lv到達です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
