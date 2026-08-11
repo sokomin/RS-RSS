@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-11T22:23:18.860Z</updated>
+    <updated>2026-08-11T23:22:31.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -650,15 +650,6 @@ RED STONE 二次創作オンリー
         <updated>2026-07-15T11:05:22.000Z</updated>
         <author>
             <name>ひさプッチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート３５]]></title>
-        <id>https://www.youtube.com/watch?v=6JaSZp8yTHY</id>
-        <link href="https://www.youtube.com/watch?v=6JaSZp8yTHY"/>
-        <updated>2026-07-13T10:39:12.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
