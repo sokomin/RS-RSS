@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T16:08:57.376Z</updated>
+    <updated>2026-08-14T17:15:24.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -642,15 +642,6 @@ RED STONE 二次創作オンリー
         <summary type="html"><![CDATA[こんばんは。メインシーフ、1838Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音量注意　北灘から、鳴門スカイライン→第一小鳴門橋→第二小鳴門橋まで。ドライブサウンドでかめです！天気がいいからお裾分け]]></title>
-        <id>https://www.youtube.com/watch?v=KWl_NAyrxTk</id>
-        <link href="https://www.youtube.com/watch?v=KWl_NAyrxTk"/>
-        <updated>2026-07-16T05:01:36.000Z</updated>
-        <author>
-            <name>ひさプッチ</name>
         </author>
     </entry>
     <entry>
