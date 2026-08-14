@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T06:47:41.183Z</updated>
+    <updated>2026-08-14T08:19:58.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年は金鯖に参加しています]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202608140000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202608140000/"/>
+        <updated>2026-08-14T07:17:13.000Z</updated>
+        <summary type="html"><![CDATA[​​私はこれまで金鯖にはほとんど参加してきていませんでした。なのに何故今年は参加しているかというと、↓これらの装備を作成していることが答えです。これは闘士用に作った頭です。これは知識マスケ用に作った頭...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本鯖。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1556.html</id>
