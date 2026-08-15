@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T23:58:27.961Z</updated>
+    <updated>2026-08-15T01:44:06.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -632,16 +632,6 @@ RED STONE 二次創作オンリー
 ほのお～すべて～やきつくす～]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非規格ナイフ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1545.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1545.html"/>
-        <updated>2026-07-16T12:21:41.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインシーフ、1838Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
