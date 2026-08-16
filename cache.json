@@ -807,18 +807,7 @@
       "title": "カルDXのレッドストーン放浪",
       "feedUrl": "https://api.plaza.rakuten.ne.jp/karudxrs/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/karudxrs/",
-      "articles": [
-        {
-          "id": "https://plaza.rakuten.co.jp/karudxrs/diary/202607180000/",
-          "author": "たつ2307",
-          "description": "こんにちは更新まったくしておりませんでしたが、そろそろ金鯖なのと霊術育成日記が一度で止まっていたので。。。霊術は今1911レベルまで上がりましたが勇気恩寵が弱体化してしまい、ただでさえ肩身の狭かったダ...",
-          "link": "https://plaza.rakuten.co.jp/karudxrs/diary/202607180000/",
-          "publishedOn": "2026-07-18T02:33:50.000Z",
-          "wordCount": 1786,
-          "title": "そろそろ2026年の金鯖ですね",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/e60a52efc7e6169ec60f620f7f49c0445dee2f40.35.9.9.3.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "rb79kのブログ",

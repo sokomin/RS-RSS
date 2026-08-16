@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T14:31:19.026Z</updated>
+    <updated>2026-08-16T14:57:45.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -554,16 +554,6 @@
         <updated>2026-07-19T10:15:22.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[そろそろ2026年の金鯖ですね]]></title>
-        <id>https://plaza.rakuten.co.jp/karudxrs/diary/202607180000/</id>
-        <link href="https://plaza.rakuten.co.jp/karudxrs/diary/202607180000/"/>
-        <updated>2026-07-18T02:33:50.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは更新まったくしておりませんでしたが、そろそろ金鯖なのと霊術育成日記が一度で止まっていたので。。。霊術は今1911レベルまで上がりましたが勇気恩寵が弱体化してしまい、ただでさえ肩身の狭かったダ...]]></summary>
-        <author>
-            <name>たつ2307</name>
         </author>
     </entry>
     <entry>
