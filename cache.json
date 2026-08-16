@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=q5m0hP9aIns",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q5m0hP9aIns",
+          "publishedOn": "2026-08-16T01:48:05.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート５０",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=w88BC1V04Ew",
           "author": null,
           "description": "",

@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T02:46:35.069Z</updated>
+    <updated>2026-08-16T03:51:59.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート５０]]></title>
+        <id>https://www.youtube.com/watch?v=q5m0hP9aIns</id>
+        <link href="https://www.youtube.com/watch?v=q5m0hP9aIns"/>
+        <updated>2026-08-16T01:48:05.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プレイヤーイベント。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1557.html</id>
