@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T06:47:59.119Z</updated>
+    <updated>2026-08-16T07:34:48.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知識マスケがいよいよ最終位相狩場へ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202608160000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202608160000/"/>
+        <updated>2026-08-16T07:19:52.000Z</updated>
+        <summary type="html"><![CDATA[知識マスケが最終位相狩場レベル付近まで上がったので、少し装備構成をいじりました。まず、力のSRクリーチャーを図鑑登録して力が余ったので、↓耳の力比を知恵比に変更しました。この変更で知恵が増えたので、↓...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート５０]]></title>
         <id>https://www.youtube.com/watch?v=q5m0hP9aIns</id>
