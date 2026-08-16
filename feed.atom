@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T12:48:42.407Z</updated>
+    <updated>2026-08-16T13:35:08.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヒペリオン。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1558.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1558.html"/>
+        <updated>2026-08-16T13:22:23.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。メインシーフ、1845Lv(^^♪、1846Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知識マスケがいよいよ最終位相狩場へ]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202608160000/</id>
