@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T08:47:43.085Z</updated>
+    <updated>2026-08-19T09:38:09.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一先ず無事に]]></title>
+        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1326.html</id>
+        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1326.html"/>
+        <updated>2026-08-19T08:55:32.000Z</updated>
+        <summary type="html"><![CDATA[金鯖で育成中のサブIDテイマ、無事に1251レベまで行きました。やってるとよく解ったんですけど、1000レベ辺りまで上がってくるとアウラススフィアなしで1250まで上げるのだいぶ大変ですねぇ。一昨日まで1013レベだったんですが、サービスポイントでアウラススフィア交換して昨日だけで1251レベまで一気に上げました。オーラとかバフ宝箱の効果も受けてれば、あっという間ではありましたね。アウラスの使いどころとしては830から125]]></summary>
+        <author>
+            <name>クレリューフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[強襲　ゲリラ豪雨]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-969.html</id>
