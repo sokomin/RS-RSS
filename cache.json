@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EaMLTmYpkUw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EaMLTmYpkUw",
+          "publishedOn": "2026-08-20T10:49:20.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート５２",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NsHykRticqQ",
           "author": null,
           "description": "",
