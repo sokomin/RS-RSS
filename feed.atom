@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-23T04:55:51.158Z</updated>
+    <updated>2026-08-23T05:33:06.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -517,6 +517,15 @@
         <summary type="html"><![CDATA[こんばんは。金鯖エンジョイ中です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年も!!金鯖！！復帰さん！知識したいなら毒悪魔だ！]]></title>
+        <id>https://www.youtube.com/watch?v=N1uTlF_x8QA</id>
+        <link href="https://www.youtube.com/watch?v=N1uTlF_x8QA"/>
+        <updated>2026-07-24T18:15:47.000Z</updated>
+        <author>
+            <name>ひさプッチ</name>
         </author>
     </entry>
     <entry>
