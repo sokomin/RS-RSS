@@ -264,18 +264,7 @@
       "title": "ひさプッチ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnkwJpiOgIFlMIlv23aOkA",
       "siteUrl": "https://www.youtube.com/channel/UChnkwJpiOgIFlMIlv23aOkA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=N1uTlF_x8QA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N1uTlF_x8QA",
-          "publishedOn": "2026-07-24T18:15:47.000Z",
-          "wordCount": null,
-          "title": "今年も!!金鯖！！復帰さん！知識したいなら毒悪魔だ！",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "無職と美学とシュルレアリスム",
@@ -891,6 +880,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1561.html",
+          "author": "medaka1985",
+          "description": "こんにちは。ファーストステップの効果です。メインシーフ、1850Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1561.html",
+          "publishedOn": "2026-08-23T06:09:51.000Z",
+          "wordCount": null,
+          "title": "ダブクリ型。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1560.html",
           "author": "medaka1985",
