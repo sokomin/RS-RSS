@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-24T22:30:57.654Z</updated>
+    <updated>2026-08-24T22:59:49.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -518,6 +518,15 @@
         <summary type="html"><![CDATA[連日恐ろしい暑さの日が続きますね私の地域ではゲリラ豪雨も結構ありますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート４１]]></title>
+        <id>https://www.youtube.com/watch?v=6invNWaDx6I</id>
+        <link href="https://www.youtube.com/watch?v=6invNWaDx6I"/>
+        <updated>2026-07-26T14:13:53.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
