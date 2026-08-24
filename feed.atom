@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-24T05:41:41.638Z</updated>
+    <updated>2026-08-24T07:06:48.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マスケのレベル上げ苦戦中]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202608240000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202608240000/"/>
+        <updated>2026-08-24T06:18:18.000Z</updated>
+        <summary type="html"><![CDATA[21日は1日中2倍でしたが平日なのであまり狩れず。22、23日の土日も、経験値バフが切れているときに鐘が鳴ったりで、思うようにレベルは上がりませんでした。やはりPTを組んでくれる人を探さないと、いつまで経っ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[その後の生活]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-970.html</id>
