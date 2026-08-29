@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T00:29:21.578Z</updated>
+    <updated>2026-08-29T07:22:31.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[狩りTIME。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1563.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1563.html"/>
+        <updated>2026-08-29T06:31:04.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。メインシーフ、1851Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プチファルコン。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1562.html</id>
@@ -470,16 +480,6 @@
         <link href="https://medaka1985.fc2.net/blog-entry-1550.html"/>
         <updated>2026-07-30T21:22:34.000Z</updated>
         <summary type="html"><![CDATA[おはようございます。10500GEM分、購入です(*'▽')。おお・・・。なかなかです。(・∀・)ｲｲﾈ!!いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滑り台。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1549.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1549.html"/>
-        <updated>2026-07-30T13:57:56.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。ぁ・・・(察し)。削れてる！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
