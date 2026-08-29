@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T07:22:31.041Z</updated>
+    <updated>2026-08-29T13:21:58.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -472,16 +472,6 @@
         <updated>2026-08-02T00:17:18.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シルバーロト。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1550.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1550.html"/>
-        <updated>2026-07-30T21:22:34.000Z</updated>
-        <summary type="html"><![CDATA[おはようございます。10500GEM分、購入です(*'▽')。おお・・・。なかなかです。(・∀・)ｲｲﾈ!!いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
