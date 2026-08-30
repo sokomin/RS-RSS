@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-30T12:12:51.761Z</updated>
+    <updated>2026-08-30T16:48:27.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INMU KING。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1564.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1564.html"/>
+        <updated>2026-08-30T16:46:29.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。サブシーフ3、精鋭報酬です。キャノニア、精鋭報酬です。テイマー、精鋭報酬です。姫、精鋭報酬です。アーチャー、精鋭報酬です。戦士、精鋭報酬です。メインシーフ、1250精鋭報酬です。メインシーフ、1500精鋭報酬です。武道家、精鋭報酬です。皆様のお陰で上位です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近況報告]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-971.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-971.html"/>
+        <updated>2026-08-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[雨の被害が全国的に発生しています毎日天気予報をチェックしながらびくついていますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[狩りTIME。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1563.html</id>
