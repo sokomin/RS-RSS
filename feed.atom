@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T06:50:46.529Z</updated>
+    <updated>2026-08-31T14:57:57.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート５４]]></title>
+        <id>https://www.youtube.com/watch?v=BJDufPQKYO8</id>
+        <link href="https://www.youtube.com/watch?v=BJDufPQKYO8"/>
+        <updated>2026-08-31T14:50:29.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INMU KING。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1564.html</id>
@@ -483,15 +492,6 @@
         <summary type="html"><![CDATA[こんばんは。メインシーフ、1842Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート４４]]></title>
-        <id>https://www.youtube.com/watch?v=lWZrFtppnJE</id>
-        <link href="https://www.youtube.com/watch?v=lWZrFtppnJE"/>
-        <updated>2026-08-02T00:17:18.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>

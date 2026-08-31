@@ -129,6 +129,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BJDufPQKYO8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BJDufPQKYO8",
+          "publishedOn": "2026-08-31T14:50:29.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート５４",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ADpfZeoMzs0",
           "author": null,
           "description": "",
@@ -226,16 +236,6 @@
           "publishedOn": "2026-08-02T10:03:14.000Z",
           "wordCount": null,
           "title": "【積ゲー】steamやりたいゲームやる回　パート１",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lWZrFtppnJE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lWZrFtppnJE",
-          "publishedOn": "2026-08-02T00:17:18.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】レッドストーン　ロイ日記　パート４４",
           "imageUrl": null
         }
       ]
