@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T00:29:06.005Z</updated>
+    <updated>2026-09-01T05:39:27.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -473,16 +473,6 @@
         <updated>2026-08-03T10:24:01.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖を始めました]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-967.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-967.html"/>
-        <updated>2026-08-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[連日暑い日が続きます今職場では建物の改修工事も相まってエアコンが使えない事も多いです仕事量よりも暑さに耐えるのがしんどいですこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
