@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T01:23:22.216Z</updated>
+    <updated>2026-09-02T06:24:32.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -463,16 +463,6 @@
         <updated>2026-08-03T14:48:06.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巨匠。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1552.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1552.html"/>
-        <updated>2026-08-03T14:31:23.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。やったぁ！手堅くいきます。オッス！お願いしまーす！ぼったくりやろ。(・∀・)ｲｲﾈ!!。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
