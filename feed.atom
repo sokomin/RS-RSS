@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T05:51:28.031Z</updated>
+    <updated>2026-09-05T10:18:41.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】RSよ永遠に]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1170.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1170.html"/>
+        <updated>2026-09-05T08:18:46.000Z</updated>
+        <summary type="html"><![CDATA[長きに渡ってプレイしてきたREDSTONEを、無期限休止にしたいとおもう。正確には、9月末を以てプレイをやめようとおもう。※残インゴットをばら撒かなければならない。青鯖に降り立ったのが2005年か2006年くらいで、途中で計2年くらい休止をしたが、それでも約20年弱プレイしたことになる。後にも先にも、これ程ハマったゲームは他に無く、おそらく今後も現れないだろう。長くプレイ出来た要因は、共に遊ぶ仲間がいたから、これに尽]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート５５]]></title>
         <id>https://www.youtube.com/watch?v=ZGGbHNdFMZw</id>
