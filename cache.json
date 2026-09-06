@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-972.html",
+          "author": "ミツリン",
+          "description": "道交法の改正で9月1日から生活道路の制限スピードが30kmに変わりましたね私も運転する際は注意していますこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-972.html",
+          "publishedOn": "2026-09-06T15:00:00.000Z",
+          "wordCount": 660,
+          "title": "TGSに行きたい",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-971.html",
           "author": "ミツリン",
           "description": "雨の被害が全国的に発生しています毎日天気予報をチェックしながらびくついていますこんにちは　ミツリンです",
@@ -314,18 +324,7 @@
       "title": "風に吹かれて",
       "feedUrl": "http://kaze.gg-blog.com/RSS/",
       "siteUrl": "http://kaze.gg-blog.com/",
-      "articles": [
-        {
-          "id": "kaze.gg-blog.com://entry/233",
-          "author": null,
-          "description": "こんにちは。\n \n\n今年はちゃんとセミが鳴いてますね。\n\n \n \n\n \n\n\n\n\nもう遊んでんだよ！！！！！！！！！１\n\n\nいつものバフですね\n\n\n\n\n挑戦しませんけどね！！！！！！！！」\n\n\n\nところで、チャットバフ用ワードを複雑化しないでいただきたいっ！\n\n\nこれくらいのボリュームがいいです(数年前の金鯖)\n\n\n現存する最古のスクショ(たぶんバフォクエ)\n\n\n2026年、200レベの風は露店テストに苦しんでいます\n\n\n戦っては\n\n\n空を見上げ\n\n\n戦っては\n\n\n空を見上げ\n\n\n戦っては\n\n\n以下同文\n\n\n金鯖でも風はエレメンタルランサーです\n\n\nハルテアの与ダメ吸収が有能すぎる\n\n\nちょっと何言ってるかわからない\n\n\n\nおっ！　ｿ･ﾅｺﾏじゃん！\n好きなんだよな、ｿ･ﾅｺﾏ\n\n\n今のとこチップンしか出会ってない\n \n\nみんなだいすきチップン\n\n\nコミュ障すぎてギルドにも入ってません\n\n\nもうちょっと…\n\n\n友達からの依頼で新プレゼントシステム使ってみた\n \n\n\n\nん、そういう確認！？\n\n\n\nしかも後半伏字で確認の意味ねえ…\n\n\n\n\nではまた",
-          "link": "http://kaze.gg-blog.com/gold/%E9%87%91%E9%AF%96%E3%81%A7%E9%81%8A%E3%81%BC%E3%81%86%EF%BC%812026",
-          "publishedOn": "2026-08-08T04:21:58.000Z",
-          "wordCount": 302,
-          "title": "金鯖で遊ぼう！2026",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "のんびりまったり",

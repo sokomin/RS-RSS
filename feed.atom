@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T13:48:54.600Z</updated>
+    <updated>2026-09-06T16:47:31.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TGSに行きたい]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-972.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-972.html"/>
+        <updated>2026-09-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[道交法の改正で9月1日から生活道路の制限スピードが30kmに変わりましたね私も運転する際は注意していますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キャンペーン箱。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1566.html</id>
@@ -539,111 +549,6 @@
         <summary type="html"><![CDATA[最近ちょっと忙しくて更新が滞っていました。マスケの進捗ですが、今日の昼のホットタイムで↓になりました。このキャラは、ここまで完全ソロでレベリングをしてきました。同じくらいの狩り効率の人と２人PTを組む...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金鯖で遊ぼう！2026]]></title>
-        <id>kaze.gg-blog.com://entry/233</id>
-        <link href="http://kaze.gg-blog.com/gold/%E9%87%91%E9%AF%96%E3%81%A7%E9%81%8A%E3%81%BC%E3%81%86%EF%BC%812026"/>
-        <updated>2026-08-08T04:21:58.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。
- 
-
-今年はちゃんとセミが鳴いてますね。
-
- 
- 
-
- 
-
-
-
-
-もう遊んでんだよ！！！！！！！！！１
-
-
-いつものバフですね
-
-
-
-
-挑戦しませんけどね！！！！！！！！」
-
-
-
-ところで、チャットバフ用ワードを複雑化しないでいただきたいっ！
-
-
-これくらいのボリュームがいいです(数年前の金鯖)
-
-
-現存する最古のスクショ(たぶんバフォクエ)
-
-
-2026年、200レベの風は露店テストに苦しんでいます
-
-
-戦っては
-
-
-空を見上げ
-
-
-戦っては
-
-
-空を見上げ
-
-
-戦っては
-
-
-以下同文
-
-
-金鯖でも風はエレメンタルランサーです
-
-
-ハルテアの与ダメ吸収が有能すぎる
-
-
-ちょっと何言ってるかわからない
-
-
-
-おっ！　ｿ･ﾅｺﾏじゃん！
-好きなんだよな、ｿ･ﾅｺﾏ
-
-
-今のとこチップンしか出会ってない
- 
-
-みんなだいすきチップン
-
-
-コミュ障すぎてギルドにも入ってません
-
-
-もうちょっと…
-
-
-友達からの依頼で新プレゼントシステム使ってみた
- 
-
-
-
-ん、そういう確認！？
-
-
-
-しかも後半伏字で確認の意味ねえ…
-
-
-
-
-ではまた]]></summary>
-        <author>
-            <name>風に吹かれて</name>
         </author>
     </entry>
     <entry>
