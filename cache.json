@@ -140,6 +140,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6cBSN9Z_A1s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6cBSN9Z_A1s",
+          "publishedOn": "2026-09-07T10:02:20.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート５６",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZGGbHNdFMZw",
           "author": null,
           "description": "",
