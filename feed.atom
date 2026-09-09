@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T22:45:37.043Z</updated>
+    <updated>2026-09-09T01:07:16.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -510,6 +510,15 @@
 　というわけで装備をグランドフィナーレに付け替えても大丈夫なように装備構成をい…]]></summary>
         <author>
             <name>曇りのち晴れ４８日</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート４９]]></title>
+        <id>https://www.youtube.com/watch?v=w88BC1V04Ew</id>
+        <link href="https://www.youtube.com/watch?v=w88BC1V04Ew"/>
+        <updated>2026-08-10T13:42:30.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
