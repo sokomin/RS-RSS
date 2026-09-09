@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T06:05:04.239Z</updated>
+    <updated>2026-09-09T11:33:49.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最強のメシウマ画像。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1567.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1567.html"/>
+        <updated>2026-09-09T05:24:30.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。スペシャル錬成ガードを入れ忘れてアイテム消滅させる奴ｗｗｗｗｗ運営に助けを求めた結果、エンチャ系は補填出来ないとの事。皆さんもご注意を！いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート５６]]></title>
         <id>https://www.youtube.com/watch?v=6cBSN9Z_A1s</id>
@@ -510,15 +520,6 @@
 　というわけで装備をグランドフィナーレに付け替えても大丈夫なように装備構成をい…]]></summary>
         <author>
             <name>曇りのち晴れ４８日</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート４９]]></title>
-        <id>https://www.youtube.com/watch?v=w88BC1V04Ew</id>
-        <link href="https://www.youtube.com/watch?v=w88BC1V04Ew"/>
-        <updated>2026-08-10T13:42:30.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>

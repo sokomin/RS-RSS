@@ -198,16 +198,6 @@
           "wordCount": null,
           "title": "【REDSTONE】レッドストーン　ロイ日記　パート５０",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w88BC1V04Ew",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w88BC1V04Ew",
-          "publishedOn": "2026-08-10T13:42:30.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】レッドストーン　ロイ日記　パート４９",
-          "imageUrl": null
         }
       ]
     },
@@ -820,6 +810,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1567.html",
+          "author": "medaka1985",
+          "description": "こんばんは。スペシャル錬成ガードを入れ忘れてアイテム消滅させる奴ｗｗｗｗｗ運営に助けを求めた結果、エンチャ系は補填出来ないとの事。皆さんもご注意を！いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1567.html",
+          "publishedOn": "2026-09-09T05:24:30.000Z",
+          "wordCount": null,
+          "title": "最強のメシウマ画像。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1566.html",
           "author": "medaka1985",
