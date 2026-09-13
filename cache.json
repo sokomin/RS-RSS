@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-973.html",
+          "author": "ミツリン",
+          "description": "秋雨前線の影響もあり全国的に連日雨が続く日が多いですねこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-973.html",
+          "publishedOn": "2026-09-13T15:00:00.000Z",
+          "wordCount": 660,
+          "title": "もうすぐ金鯖も終了ですね",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-972.html",
           "author": "ミツリン",
           "description": "道交法の改正で9月1日から生活道路の制限スピードが30kmに変わりましたね私も運転する際は注意していますこんにちは　ミツリンです",
@@ -784,6 +794,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1569.html",
+          "author": "medaka1985",
+          "description": "こんばんは。メインシーフ、1859Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1569.html",
+          "publishedOn": "2026-09-13T14:03:11.000Z",
+          "wordCount": null,
+          "title": "HOTな日。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1568.html",
           "author": "medaka1985",

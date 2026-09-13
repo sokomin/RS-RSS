@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-13T16:27:30.271Z</updated>
+    <updated>2026-09-13T16:56:33.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[もうすぐ金鯖も終了ですね]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-973.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-973.html"/>
+        <updated>2026-09-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[秋雨前線の影響もあり全国的に連日雨が続く日が多いですねこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOTな日。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1569.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1569.html"/>
+        <updated>2026-09-13T14:03:11.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。メインシーフ、1859Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マスケのレベル上げ]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202609120000/</id>
