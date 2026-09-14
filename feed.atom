@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-14T01:38:35.493Z</updated>
+    <updated>2026-09-14T07:06:46.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[切り良く！]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1570.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1570.html"/>
+        <updated>2026-09-14T06:55:08.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。メインシーフ、1860Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[もうすぐ金鯖も終了ですね]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-973.html</id>
@@ -486,16 +496,6 @@
         <updated>2026-08-16T01:48:05.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プレイヤーイベント。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1557.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1557.html"/>
-        <updated>2026-08-15T14:26:27.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。youtuberさん主催のイベントです。楽しいお祭りです。大盛り上がりです(*'▽')！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>

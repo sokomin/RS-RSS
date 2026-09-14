@@ -785,6 +785,16 @@
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
         {
+          "id": "https://medaka1985.fc2.net/blog-entry-1570.html",
+          "author": "medaka1985",
+          "description": "こんばんは。メインシーフ、1860Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1570.html",
+          "publishedOn": "2026-09-14T06:55:08.000Z",
+          "wordCount": null,
+          "title": "切り良く！",
+          "imageUrl": null
+        },
+        {
           "id": "https://medaka1985.fc2.net/blog-entry-1569.html",
           "author": "medaka1985",
           "description": "こんばんは。メインシーフ、1859Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
@@ -902,16 +912,6 @@
           "publishedOn": "2026-08-16T13:22:23.000Z",
           "wordCount": null,
           "title": "ヒペリオン。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1557.html",
-          "author": "medaka1985",
-          "description": "こんばんは。youtuberさん主催のイベントです。楽しいお祭りです。大盛り上がりです(*'▽')！いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1557.html",
-          "publishedOn": "2026-08-15T14:26:27.000Z",
-          "wordCount": null,
-          "title": "プレイヤーイベント。",
           "imageUrl": null
         }
       ]
