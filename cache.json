@@ -198,6 +198,16 @@
           "wordCount": null,
           "title": "【REDSTONE】レッドストーン　ロイ日記　パート５１",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=q5m0hP9aIns",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q5m0hP9aIns",
+          "publishedOn": "2026-08-16T08:18:30.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート５０",
+          "imageUrl": null
         }
       ]
     },
@@ -249,16 +259,6 @@
           "wordCount": 2495,
           "title": "マスケのレベル上げ苦戦中",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/d169eefd280b4f4f36407526b54a6bc42f3e3793.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202608160000/",
-          "author": "雷神の弓",
-          "description": "知識マスケが最終位相狩場レベル付近まで上がったので、少し装備構成をいじりました。まず、力のSRクリーチャーを図鑑登録して力が余ったので、↓耳の力比を知恵比に変更しました。この変更で知恵が増えたので、↓...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202608160000/",
-          "publishedOn": "2026-08-16T07:19:52.000Z",
-          "wordCount": 2502,
-          "title": "知識マスケがいよいよ最終位相狩場へ",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/5233200f96b8b6e6026fdf0cd6fecfe110483b1f.73.9.9.3.png"
         }
       ]
     },
