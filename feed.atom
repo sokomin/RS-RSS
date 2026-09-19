@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-19T17:52:28.760Z</updated>
+    <updated>2026-09-19T20:20:52.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Profiting from Professions]]></title>
+        <id>https://intothe.info/?p=3664</id>
+        <link href="https://intothe.info/wow/profiting-from-professions/"/>
+        <updated>2026-09-19T19:28:37.000Z</updated>
+        <summary type="html"><![CDATA[WoW: MidnightにおけるProfessionsについてまとめた記事。 Professionsとは生産・採集を目的とした副業で、いわゆるMMOにおける生産職です。Cooking/Fishing/Archeologyについては全キャラ共通で取得でき、それらを除いた11の副業の中からキャラごとに2種までを選択して取得することができます。 Cooking/Fishing/Archeologyはシンプルなのでここでは省略し、前半は選択制である11の各Professionsについての簡単な説明とそのProfessionsの主要なノードやアビリティについて1,...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記帳。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1575.html</id>
@@ -535,16 +545,6 @@
         <link href="https://medaka1985.fc2.net/blog-entry-1560.html"/>
         <updated>2026-08-22T15:26:48.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。オッス！お願いしまーす！やったわ(*'▽')！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[経験値2倍。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1559.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1559.html"/>
-        <updated>2026-08-21T07:38:43.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。捨てられずに分解です。メインシーフ、1848Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
