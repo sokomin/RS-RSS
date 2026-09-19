@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-19T06:36:47.795Z</updated>
+    <updated>2026-09-19T11:32:22.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート５８]]></title>
+        <id>https://www.youtube.com/watch?v=k8LKZpu4SCQ</id>
+        <link href="https://www.youtube.com/watch?v=k8LKZpu4SCQ"/>
+        <updated>2026-09-19T10:35:07.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リゼロ、面白い！]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1574.html</id>
@@ -528,15 +537,6 @@
         <summary type="html"><![CDATA[こんばんは。捨てられずに分解です。メインシーフ、1848Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート５２]]></title>
-        <id>https://www.youtube.com/watch?v=EaMLTmYpkUw</id>
-        <link href="https://www.youtube.com/watch?v=EaMLTmYpkUw"/>
-        <updated>2026-08-20T10:49:20.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>

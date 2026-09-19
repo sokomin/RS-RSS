@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=k8LKZpu4SCQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k8LKZpu4SCQ",
+          "publishedOn": "2026-09-19T10:35:07.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート５８",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kVmhmlKdpRg",
           "author": null,
           "description": "",
@@ -177,16 +187,6 @@
           "publishedOn": "2026-08-24T10:18:28.000Z",
           "wordCount": null,
           "title": "【REDSTONE】レッドストーン　ロイ日記　パート５３",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EaMLTmYpkUw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EaMLTmYpkUw",
-          "publishedOn": "2026-08-20T10:49:20.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】レッドストーン　ロイ日記　パート５２",
           "imageUrl": null
         }
       ]
