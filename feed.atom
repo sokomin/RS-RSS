@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-21T10:50:49.072Z</updated>
+    <updated>2026-09-21T16:54:54.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[敬老の日。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1577.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1577.html"/>
+        <updated>2026-09-21T15:09:05.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。メインシーフ、1873Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[課金の誘惑に打ち勝つ]]></title>
+        <id>http://kakeragatenkomori.blog.fc2.com/blog-entry-84.html</id>
+        <link href="http://kakeragatenkomori.blog.fc2.com/blog-entry-84.html"/>
+        <updated>2026-09-21T11:28:57.000Z</updated>
+        <summary type="html"><![CDATA[【はじめに】・この記事はあくまで俺自身の考え方です。・人それぞれ考え方や価値観があると思うので、それを否定するつもりはありません。・自分で選択して課金しているはずなのに、どこか気持ちが晴れない人に読んでもらえたらと。2年ぶりにREDSTONEを再開し、フェーズストーンや古龍をはじめとする新規コンテンツや多くのアップデート要素の理解のために課金もしてきたのですが、個人的に感じたのは「課金の最低金額が高い」と]]></summary>
+        <author>
+            <name>虐殺オーバードライブ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本鯖移行、アニバイベント開始]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-974.html</id>

@@ -652,7 +652,18 @@
       "title": "かけらがてんこもり",
       "feedUrl": "http://kakeragatenkomori.blog.fc2.com/?xml",
       "siteUrl": "http://kakeragatenkomori.blog.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://kakeragatenkomori.blog.fc2.com/blog-entry-84.html",
+          "author": "虐殺オーバードライブ",
+          "description": "【はじめに】・この記事はあくまで俺自身の考え方です。・人それぞれ考え方や価値観があると思うので、それを否定するつもりはありません。・自分で選択して課金しているはずなのに、どこか気持ちが晴れない人に読んでもらえたらと。2年ぶりにREDSTONEを再開し、フェーズストーンや古龍をはじめとする新規コンテンツや多くのアップデート要素の理解のために課金もしてきたのですが、個人的に感じたのは「課金の最低金額が高い」と",
+          "link": "http://kakeragatenkomori.blog.fc2.com/blog-entry-84.html",
+          "publishedOn": "2026-09-21T11:28:57.000Z",
+          "wordCount": 211,
+          "title": "課金の誘惑に打ち勝つ",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "パンダ族♪ﾊﾟﾗﾚﾙﾜｰﾙﾄﾞ★。・:*:・゜★",
@@ -815,6 +826,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1577.html",
+          "author": "medaka1985",
+          "description": "こんばんは。メインシーフ、1873Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1577.html",
+          "publishedOn": "2026-09-21T15:09:05.000Z",
+          "wordCount": null,
+          "title": "敬老の日。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1576.html",
           "author": "medaka1985",
