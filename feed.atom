@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-21T16:54:54.495Z</updated>
+    <updated>2026-09-21T20:54:41.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マスケの進捗とか装備いじりとか]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202609220000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202609220000/"/>
+        <updated>2026-09-21T19:33:48.000Z</updated>
+        <summary type="html"><![CDATA[まずはマスケの進捗からです。ソロ狩りを卒業してペアハンしたりPT狩りしたりした結果Lv1988まで上がりました。残念ながら21日（経験値３倍）は仕事があったのであまり狩れませんでした。（仕事が休みだったら200...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[敬老の日。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1577.html</id>
@@ -567,16 +577,6 @@
         <summary type="html"><![CDATA[お盆休みに襲ったゲリラ豪雨の影響はまだ残っており連日雷雨が続いたりしていますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダブクリ型。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1561.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1561.html"/>
-        <updated>2026-08-23T06:09:51.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。ファーストステップの効果です。メインシーフ、1850Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
