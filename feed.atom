@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-22T18:09:16.496Z</updated>
+    <updated>2026-09-22T21:27:52.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[装備作成＆装備改良]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202609230000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202609230000/"/>
+        <updated>2026-09-22T18:50:05.000Z</updated>
+        <summary type="html"><![CDATA[​前回に引き続き装備作成・改良を実施しています。製錬が終わっていませんが、それ以外は完成しています。この頭は、ヒペリオンや2000狩場で活躍すると思います。（仕様が変わったら2000狩場で狩りするかも）白異...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マスケの進捗とか装備いじりとか]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202609220000/</id>
@@ -557,16 +567,6 @@
         <updated>2026-08-24T10:18:28.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マスケのレベル上げ苦戦中]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202608240000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202608240000/"/>
-        <updated>2026-08-24T06:18:18.000Z</updated>
-        <summary type="html"><![CDATA[21日は1日中2倍でしたが平日なのであまり狩れず。22、23日の土日も、経験値バフが切れているときに鐘が鳴ったりで、思うようにレベルは上がりませんでした。やはりPTを組んでくれる人を探さないと、いつまで経っ...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>

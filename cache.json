@@ -232,6 +232,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202609230000/",
+          "author": "雷神の弓",
+          "description": "​前回に引き続き装備作成・改良を実施しています。製錬が終わっていませんが、それ以外は完成しています。この頭は、ヒペリオンや2000狩場で活躍すると思います。（仕様が変わったら2000狩場で狩りするかも）白異...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202609230000/",
+          "publishedOn": "2026-09-22T18:50:05.000Z",
+          "wordCount": 2501,
+          "title": "装備作成＆装備改良",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/af825b403efe134513846130ddb99fd8543706d2.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202609220000/",
           "author": "雷神の弓",
           "description": "まずはマスケの進捗からです。ソロ狩りを卒業してペアハンしたりPT狩りしたりした結果Lv1988まで上がりました。残念ながら21日（経験値３倍）は仕事があったのであまり狩れませんでした。（仕事が休みだったら200...",
@@ -250,16 +260,6 @@
           "wordCount": 2497,
           "title": "マスケのレベル上げ",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/d72fa9dce3d577035aa28c5dddfe30312ced8a07.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202608240000/",
-          "author": "雷神の弓",
-          "description": "21日は1日中2倍でしたが平日なのであまり狩れず。22、23日の土日も、経験値バフが切れているときに鐘が鳴ったりで、思うようにレベルは上がりませんでした。やはりPTを組んでくれる人を探さないと、いつまで経っ...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202608240000/",
-          "publishedOn": "2026-08-24T06:18:18.000Z",
-          "wordCount": 2495,
-          "title": "マスケのレベル上げ苦戦中",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/d169eefd280b4f4f36407526b54a6bc42f3e3793.73.9.9.3.png"
         }
       ]
     },
