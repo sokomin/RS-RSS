@@ -385,7 +385,18 @@
       "title": "Wheel of Fortune ’",
       "feedUrl": "http://wh-rs.jugem.jp/?mode=rss",
       "siteUrl": "https://wh-rs.jugem.jp/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://wh-rs.jugem.jp/?eid=345",
+          "author": "亜鬼にゃん",
+          "description": "JUGEMテーマ：RED STONE\r\n\r\n\r\n \r\n\r\n金鯖はねぇ・・・\r\n\r\n親が腰痛めちゃって介護の為に一時撤退しました；；\r\n\r\n \r...",
+          "link": "https://wh-rs.jugem.jp/?eid=345",
+          "publishedOn": "2026-09-23T09:15:00.000Z",
+          "wordCount": 703,
+          "title": "金鯖とTGS2026",
+          "imageUrl": "https://img-cdn.jg.jugem.jp/5f8/3521731/20260923_3586617.jpg"
+        }
+      ]
     },
     {
       "title": "REDSTONE Relinquish",
