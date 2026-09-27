@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-27T12:26:17.994Z</updated>
+    <updated>2026-09-27T17:17:02.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[チケット集め、台風直撃]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-975.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-975.html"/>
+        <updated>2026-09-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先月の豪雨に続き台風が直撃しましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日課。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1581.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1581.html"/>
+        <updated>2026-09-27T13:51:20.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。メインシーフ、1883Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知識マスケLv2000達成]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202609270000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202609270000/"/>
+        <updated>2026-09-27T13:43:18.000Z</updated>
+        <summary type="html"><![CDATA[​Lv2000達成しました！（10月までやる覚悟でしたが、思ったより早く終わりました）7体目の2000キャラです。Lv1960くらいまでずっとソロだったのですが、そこからPTを組んでもらえることが多くなりレベル上げが加...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート６０]]></title>
         <id>https://www.youtube.com/watch?v=NJV1m7UvUXE</id>

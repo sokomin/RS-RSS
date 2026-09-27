@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-975.html",
+          "author": "ミツリン",
+          "description": "先月の豪雨に続き台風が直撃しましたこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-975.html",
+          "publishedOn": "2026-09-27T15:00:00.000Z",
+          "wordCount": 659,
+          "title": "チケット集め、台風直撃",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-974.html",
           "author": "ミツリン",
           "description": "生活道路が30キロ制限になりましたがその為か近所のいたるところで取り締まりをよく見かけます私も運転時は注意して走っていますこんにちは　ミツリンです",
@@ -241,6 +251,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202609270000/",
+          "author": "雷神の弓",
+          "description": "​Lv2000達成しました！（10月までやる覚悟でしたが、思ったより早く終わりました）7体目の2000キャラです。Lv1960くらいまでずっとソロだったのですが、そこからPTを組んでもらえることが多くなりレベル上げが加...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202609270000/",
+          "publishedOn": "2026-09-27T13:43:18.000Z",
+          "wordCount": 2498,
+          "title": "知識マスケLv2000達成",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/a25672e26c3fe9e38aba115df9a72e7787dfb502.73.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202609230000/",
           "author": "雷神の弓",
@@ -847,6 +867,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1581.html",
+          "author": "medaka1985",
+          "description": "こんばんは。メインシーフ、1883Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1581.html",
+          "publishedOn": "2026-09-27T13:51:20.000Z",
+          "wordCount": null,
+          "title": "日課。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1580.html",
           "author": "medaka1985",
