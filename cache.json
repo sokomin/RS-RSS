@@ -151,6 +151,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ENdkUVeKGko",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ENdkUVeKGko",
+          "publishedOn": "2026-09-28T13:44:15.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート６１",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NJV1m7UvUXE",
           "author": null,
           "description": "",
