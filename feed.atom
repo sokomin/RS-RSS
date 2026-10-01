@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-01T13:53:18.376Z</updated>
+    <updated>2026-10-01T19:21:36.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[さくらんぼ♪]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1583.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1583.html"/>
+        <updated>2026-10-01T15:25:11.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。よろしくお願いしまーす！ヽ(・ω・)/ｽﾞｺｰ。もう一回！笑顔サク～…。メインシーフ、1884Lv突破です(*'▽')。応援、ありがとうございます！いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[職鎧UMU。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1582.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1582.html"/>
+        <updated>2026-10-01T14:54:04.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。UMUドロップです。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート６１]]></title>
         <id>https://www.youtube.com/watch?v=ENdkUVeKGko</id>
