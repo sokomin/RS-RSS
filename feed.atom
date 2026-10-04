@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-04T12:37:48.694Z</updated>
+    <updated>2026-10-04T17:03:04.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[そろそろ長袖を着ようか迷っています]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-976.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-976.html"/>
+        <updated>2026-10-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[9月は秋雨前線や台風の影響で雨の被害が多かったです10月に入って晴れ間のある日も出てきたかなと少しだけ安心する事ができましたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホットな日。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1585.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1585.html"/>
+        <updated>2026-10-04T14:38:44.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。メインシーフ、1888Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート６２]]></title>
         <id>https://www.youtube.com/watch?v=rPs9r6ZxTbQ</id>
