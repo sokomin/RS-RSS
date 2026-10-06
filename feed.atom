@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-06T00:19:24.102Z</updated>
+    <updated>2026-10-06T06:35:35.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -436,26 +436,6 @@
         <updated>2026-09-07T10:02:20.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TGSに行きたい]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-972.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-972.html"/>
-        <updated>2026-09-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[道交法の改正で9月1日から生活道路の制限スピードが30kmに変わりましたね私も運転する際は注意していますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キャンペーン箱。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1566.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1566.html"/>
-        <updated>2026-09-06T13:33:01.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。スフィアーリミテットBox開封です。刃油、助かります(*'▽')！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
