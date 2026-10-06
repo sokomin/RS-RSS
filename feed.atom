@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-06T19:04:40.652Z</updated>
+    <updated>2026-10-06T23:06:54.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -427,15 +427,6 @@
         <summary type="html"><![CDATA[こんばんは。スペシャル錬成ガードを入れ忘れてアイテム消滅させる奴ｗｗｗｗｗ運営に助けを求めた結果、エンチャ系は補填出来ないとの事。皆さんもご注意を！いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート５６]]></title>
-        <id>https://www.youtube.com/watch?v=6cBSN9Z_A1s</id>
-        <link href="https://www.youtube.com/watch?v=6cBSN9Z_A1s"/>
-        <updated>2026-09-07T10:02:20.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
