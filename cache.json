@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KTKhli1ITk8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KTKhli1ITk8",
+          "publishedOn": "2026-10-07T14:27:39.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート６３",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rPs9r6ZxTbQ",
           "author": null,
           "description": "",
@@ -825,6 +835,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1587.html",
+          "author": "medaka1985",
+          "description": "こんばんは。メインシーフ、1890Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1587.html",
+          "publishedOn": "2026-10-07T16:14:57.000Z",
+          "wordCount": 1108,
+          "title": "3時間で1Lv。",
+          "imageUrl": "https://blog-imgs-189.fc2.com/m/e/d/medaka1985/1890Lv.png"
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1586.html",
           "author": "medaka1985",
