@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-10T02:45:12.889Z</updated>
+    <updated>2026-10-10T09:37:18.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アニバーサリー！]]></title>
+        <id>kaze.gg-blog.com://entry/234</id>
+        <link href="http://kaze.gg-blog.com/status/%E3%82%A2%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AA%E3%83%BC%EF%BC%81"/>
+        <updated>2026-10-10T04:48:08.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+
+ 
+
+
+簡単なキーワード…？　嘘だろ…！？
+ 
+
+風はお笑い芸人だと東京03が大好きなんですが
+
+
+「アニバーサリー！」のほかに「チケットGET！」でもバフがありますね
+
+
+これは1250UMU箱が出るバフです
+
+
+選ばれたのはクロネでした
+
+
+最近装備強化はほとんどしてないけど
+
+
+あと永遠に終わらないと思っていたトワイライトの厳選が突如終了
+
+
+魔法強打を稼ぎたいので理想的です
+
+
+
+
+
+
+トワイライトをLRに強化
+
+
+魔法強化が過多だけど
+ 
+ 
+
+攻城相手が来なくてヤケ酒する先生
+(なお毎日飲んでる)
+
+
+
+ではまたそのうち]]></summary>
+        <author>
+            <name>風に吹かれて</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3時間で1Lv。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1587.html</id>

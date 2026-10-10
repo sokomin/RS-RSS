@@ -294,7 +294,18 @@
       "title": "風に吹かれて",
       "feedUrl": "http://kaze.gg-blog.com/RSS/",
       "siteUrl": "http://kaze.gg-blog.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "kaze.gg-blog.com://entry/234",
+          "author": null,
+          "description": "こんにちは。\n\n \n\n\n簡単なキーワード…？　嘘だろ…！？\n \n\n風はお笑い芸人だと東京03が大好きなんですが\n\n\n「アニバーサリー！」のほかに「チケットGET！」でもバフがありますね\n\n\nこれは1250UMU箱が出るバフです\n\n\n選ばれたのはクロネでした\n\n\n最近装備強化はほとんどしてないけど\n\n\nあと永遠に終わらないと思っていたトワイライトの厳選が突如終了\n\n\n魔法強打を稼ぎたいので理想的です\n\n\n\n\n\n\nトワイライトをLRに強化\n\n\n魔法強化が過多だけど\n \n \n\n攻城相手が来なくてヤケ酒する先生\n(なお毎日飲んでる)\n\n\n\nではまたそのうち",
+          "link": "http://kaze.gg-blog.com/status/%E3%82%A2%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AA%E3%83%BC%EF%BC%81",
+          "publishedOn": "2026-10-10T04:48:08.000Z",
+          "wordCount": 279,
+          "title": "アニバーサリー！",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "のんびりまったり",
