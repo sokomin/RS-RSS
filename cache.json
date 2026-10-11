@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-977.html",
+          "author": "ミツリン",
+          "description": "今週は会社の研修があったので何かと忙しい週でしたこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-977.html",
+          "publishedOn": "2026-10-11T15:00:00.000Z",
+          "wordCount": 661,
+          "title": "ホットタイムをこつこつと",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-976.html",
           "author": "ミツリン",
           "description": "9月は秋雨前線や台風の影響で雨の被害が多かったです10月に入って晴れ間のある日も出てきたかなと少しだけ安心する事ができましたこんにちは　ミツリンです",
@@ -269,16 +279,6 @@
           "wordCount": 2516,
           "title": "マスケの進捗とか装備いじりとか",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/2e4cca1b73656845e0b5bb7079c4f16862f6049e.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202609120000/",
-          "author": "雷神の弓",
-          "description": "図案書怒りの謎の追加黄ダメが修正されるらしいので、マスケのレベル上げのギアを上げようと思います。怒りの黄ダメがなくなったらだいたい火力4割減になると思うので、今のうちに狩りをしなければなりません。本...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202609120000/",
-          "publishedOn": "2026-09-12T07:00:38.000Z",
-          "wordCount": 2497,
-          "title": "マスケのレベル上げ",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/d72fa9dce3d577035aa28c5dddfe30312ced8a07.73.9.9.3.png"
         }
       ]
     },
@@ -856,6 +856,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1589.html",
+          "author": "medaka1985",
+          "description": "こんばんは。UMUドロップです。こちらも！メインシーフ、1897Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1589.html",
+          "publishedOn": "2026-10-11T13:52:19.000Z",
+          "wordCount": null,
+          "title": "UMUドロップ。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1588.html",
           "author": "medaka1985",

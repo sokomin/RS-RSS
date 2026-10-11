@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T15:04:09.703Z</updated>
+    <updated>2026-10-11T19:36:03.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ホットタイムをこつこつと]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-977.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-977.html"/>
+        <updated>2026-10-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今週は会社の研修があったので何かと忙しい週でしたこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UMUドロップ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1589.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1589.html"/>
+        <updated>2026-10-11T13:52:19.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。UMUドロップです。こちらも！メインシーフ、1897Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート６４]]></title>
         <id>https://www.youtube.com/watch?v=KEJW1uJhBLM</id>
@@ -490,16 +510,6 @@
         <summary type="html"><![CDATA[こんばんは。メインシーフ、1859Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マスケのレベル上げ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202609120000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202609120000/"/>
-        <updated>2026-09-12T07:00:38.000Z</updated>
-        <summary type="html"><![CDATA[図案書怒りの謎の追加黄ダメが修正されるらしいので、マスケのレベル上げのギアを上げようと思います。怒りの黄ダメがなくなったらだいたい火力4割減になると思うので、今のうちに狩りをしなければなりません。本...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
