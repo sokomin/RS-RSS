@@ -56,16 +56,6 @@
           "wordCount": 659,
           "title": "本鯖移行、アニバイベント開始",
           "imageUrl": null
-        },
-        {
-          "id": "https://mitsurin32.blog.fc2.com/blog-entry-973.html",
-          "author": "ミツリン",
-          "description": "秋雨前線の影響もあり全国的に連日雨が続く日が多いですねこんにちは　ミツリンです",
-          "link": "https://mitsurin32.blog.fc2.com/blog-entry-973.html",
-          "publishedOn": "2026-09-13T15:00:00.000Z",
-          "wordCount": 660,
-          "title": "もうすぐ金鯖も終了ですね",
-          "imageUrl": null
         }
       ]
     },
@@ -384,7 +374,18 @@
       "title": "JEFRYの悪足掻き",
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1171.html",
+          "author": "JEFRY",
+          "description": "ArcheAge S: 自由の海峡3Dだと画面酔いする可能性があり、なかなか新作MMORPGに手が出せない昨今、来年4〜6月頃に「見下ろし視点」のMMORPGが出るらしい。前作のArcheAgeはバリバリの3Dで画面酔い確定だったから、今回は期待出来そう。開発中の画面は以前やっていたLOST ARKに似ており、今のところは大丈夫そう。このパターン、過去に何度か騙されたスマホとのマルチプラットフォームで、オートプレイ前提のソシャゲを連想させるが",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1171.html",
+          "publishedOn": "2026-10-13T03:16:51.000Z",
+          "wordCount": 614,
+          "title": "【ゲーム全般】終わりの住処になるのか？",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "「RED STONE（レッドストーン）」公式ブログ",
@@ -1064,16 +1065,6 @@
           "publishedOn": "2026-09-14T06:55:08.000Z",
           "wordCount": null,
           "title": "切り良く！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1569.html",
-          "author": "medaka1985",
-          "description": "こんばんは。メインシーフ、1859Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1569.html",
-          "publishedOn": "2026-09-13T14:03:11.000Z",
-          "wordCount": null,
-          "title": "HOTな日。",
           "imageUrl": null
         }
       ]

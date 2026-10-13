@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-13T01:55:04.639Z</updated>
+    <updated>2026-10-13T09:09:24.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム全般】終わりの住処になるのか？]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1171.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1171.html"/>
+        <updated>2026-10-13T03:16:51.000Z</updated>
+        <summary type="html"><![CDATA[ArcheAge S: 自由の海峡3Dだと画面酔いする可能性があり、なかなか新作MMORPGに手が出せない昨今、来年4〜6月頃に「見下ろし視点」のMMORPGが出るらしい。前作のArcheAgeはバリバリの3Dで画面酔い確定だったから、今回は期待出来そう。開発中の画面は以前やっていたLOST ARKに似ており、今のところは大丈夫そう。このパターン、過去に何度か騙されたスマホとのマルチプラットフォームで、オートプレイ前提のソシャゲを連想させるが]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今日も練習キツかったね～。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1590.html</id>
@@ -498,26 +508,6 @@
         <link href="https://medaka1985.fc2.net/blog-entry-1570.html"/>
         <updated>2026-09-14T06:55:08.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。メインシーフ、1860Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もうすぐ金鯖も終了ですね]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-973.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-973.html"/>
-        <updated>2026-09-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[秋雨前線の影響もあり全国的に連日雨が続く日が多いですねこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOTな日。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1569.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1569.html"/>
-        <updated>2026-09-13T14:03:11.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインシーフ、1859Lv突破です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
         </author>
