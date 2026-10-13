@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-13T17:00:28.243Z</updated>
+    <updated>2026-10-13T21:48:13.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -500,16 +500,6 @@
         <summary type="html"><![CDATA[2026年金鯖にて作成。活動率：？覚醒タイプ：ファーストアブソーバ]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[切り良く！]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1570.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1570.html"/>
-        <updated>2026-09-14T06:55:08.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインシーフ、1860Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
