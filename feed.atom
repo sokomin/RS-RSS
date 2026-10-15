@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-15T09:13:54.103Z</updated>
+    <updated>2026-10-15T14:13:14.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ごあいさつ]]></title>
+        <id>https://orientalrose4.blog.fc2.com/blog-entry-1009.html</id>
+        <link href="https://orientalrose4.blog.fc2.com/blog-entry-1009.html"/>
+        <updated>2026-10-15T04:45:01.000Z</updated>
+        <summary type="html"><![CDATA[庭の金木犀です記事を書かない間もご訪問いただきまして、ありがとうございます。大丈夫です、寝たり起きたりしていますが今日も生きてます(´ー`)、いただきました暖かいコメント、すべて有難く拝読しております。返信は改めて、すこしずつさせてください。近況報告がてらのろのろと記事を書いているのですが、手の震えが出ると休むのでなかなか進まずに恐縮です。明日くらいまでにはUPできるといいなと思っています。おかげさまで]]></summary>
+        <author>
+            <name>アル・シェリ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[骨の髄まで。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1591.html</id>
