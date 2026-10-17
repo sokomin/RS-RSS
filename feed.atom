@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-17T15:56:07.092Z</updated>
+    <updated>2026-10-17T18:20:31.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スクラッチ。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1592.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1592.html"/>
+        <updated>2026-10-17T14:15:11.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。BFUドロップです！スクラッチ1万GEMの副産物。パワキのおまけだから…(震え声)。メインシーフ、1900Lv突破です(*'▽')。お陰様でランキングも好調です！いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ごあいさつ]]></title>
         <id>https://orientalrose4.blog.fc2.com/blog-entry-1009.html</id>
