@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-19T04:53:43.218Z</updated>
+    <updated>2026-10-19T10:36:43.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -421,16 +421,6 @@
         <summary type="html"><![CDATA[こんばんは。メインシーフ、1868Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Profiting from Professions]]></title>
-        <id>https://intothe.info/?p=3664</id>
-        <link href="https://intothe.info/wow/profiting-from-professions/"/>
-        <updated>2026-09-19T19:28:37.000Z</updated>
-        <summary type="html"><![CDATA[WoW: MidnightにおけるProfessionsについてまとめた記事。 Professionsとは生産・採集を目的とした副業で、いわゆるMMOにおける生産職です。Cooking/Fishing/Archeologyについては全キャラ共通で取得でき、それらを除いた11の副業の中からキャラごとに2種までを選択して取得することができます。 Cooking/Fishing/Archeologyはシンプルなのでここでは省略し、前半は選択制である11の各Professionsについての簡単な説明とそのProfessionsの主要なノードやアビリティについて1,...]]></summary>
-        <author>
-            <name>marsborn</name>
         </author>
     </entry>
     <entry>
