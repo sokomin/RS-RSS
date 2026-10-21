@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-21T05:55:45.971Z</updated>
+    <updated>2026-10-21T11:31:23.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -371,26 +371,6 @@
         <summary type="html"><![CDATA[​前回に引き続き装備作成・改良を実施しています。製錬が終わっていませんが、それ以外は完成しています。この頭は、ヒペリオンや2000狩場で活躍すると思います。（仕様が変わったら2000狩場で狩りするかも）白異...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マスケの進捗とか装備いじりとか]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202609220000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202609220000/"/>
-        <updated>2026-09-21T19:33:48.000Z</updated>
-        <summary type="html"><![CDATA[まずはマスケの進捗からです。ソロ狩りを卒業してペアハンしたりPT狩りしたりした結果Lv1988まで上がりました。残念ながら21日（経験値３倍）は仕事があったのであまり狩れませんでした。（仕事が休みだったら200...]]></summary>
-        <author>
-            <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[敬老の日。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1577.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1577.html"/>
-        <updated>2026-09-21T15:09:05.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインシーフ、1873Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
