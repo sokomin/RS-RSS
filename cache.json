@@ -220,6 +220,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/",
+          "author": "雷神の弓",
+          "description": "メインキャラなのにLv2000になってから完全に放置していた物理弓ですが、一念発起してメインキャラに相応しくなるよう強化を実施しました。まず、PSと古龍に課金しました。PSはSSないですが、10・12・13まで上げ...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/",
+          "publishedOn": "2026-10-22T17:41:53.000Z",
+          "wordCount": 2515,
+          "title": "メインの物理弓を強化してみたよ",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/355b1d36c187499f9775daffba0d34d8e7967931.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202609270000/",
           "author": "雷神の弓",
           "description": "​Lv2000達成しました！（10月までやる覚悟でしたが、思ったより早く終わりました）7体目の2000キャラです。Lv1960くらいまでずっとソロだったのですが、そこからPTを組んでもらえることが多くなりレベル上げが加...",
@@ -765,6 +775,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1594.html",
+          "author": "medaka1985",
+          "description": "こんばんは。新デザインです(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1594.html",
+          "publishedOn": "2026-10-22T15:54:57.000Z",
+          "wordCount": null,
+          "title": "ハロウィンアップデート。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1593.html",
           "author": "medaka1985",

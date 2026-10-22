@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-22T13:11:10.398Z</updated>
+    <updated>2026-10-22T18:02:13.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メインの物理弓を強化してみたよ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/"/>
+        <updated>2026-10-22T17:41:53.000Z</updated>
+        <summary type="html"><![CDATA[メインキャラなのにLv2000になってから完全に放置していた物理弓ですが、一念発起してメインキャラに相応しくなるよう強化を実施しました。まず、PSと古龍に課金しました。PSはSSないですが、10・12・13まで上げ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハロウィンアップデート。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1594.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1594.html"/>
+        <updated>2026-10-22T15:54:57.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。新デザインです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21日は石の日！]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1593.html</id>
