@@ -280,7 +280,18 @@
       "title": "のんびりまったり",
       "feedUrl": "http://frogkigurumi.blog59.fc2.com/?xml",
       "siteUrl": "http://frogkigurumi.blog59.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://frogkigurumi.blog59.fc2.com/blog-entry-1332.html",
+          "author": "クレリューフ",
+          "description": "アップデートページはこちら→　◎新規レイドボス「ソメル・ノチェス」及びレイドリニューアル→　◎討伐コンテンツリニューアル＆新規討伐ボス「セルケピア」追加→　◎宿命のOP増幅システム→　◎ 統合ガイド機能及びUIリニューアルメール機能追加デリン＆ダリン「討伐」クエストリニューアル追加打撃の適用方式修正→　◎キャラクターモーション＆コスチュームエフェクトリニューアルフィールドグラフィック改善【対象フィールド】・冒険",
+          "link": "http://frogkigurumi.blog59.fc2.com/blog-entry-1332.html",
+          "publishedOn": "2026-10-23T06:02:07.000Z",
+          "wordCount": 697,
+          "title": "10月アップデート",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "今日のアリアン",
