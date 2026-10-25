@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-25T17:41:17.450Z</updated>
+    <updated>2026-10-25T20:38:10.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026年10月アップデート　【新規ボス追加等】]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-979.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-979.html"/>
+        <updated>2026-10-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[台風30号が発生し近づいております私の地域は少し前の台風で大きく被害を受けた事もあり今回も非常に警戒していますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NPC称号強化。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1596.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1596.html"/>
+        <updated>2026-10-25T14:28:03.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。50回くらい挑戦しましたｗ途中ですが、首に力は嬉しいです。メインシーフ、1905Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート６６]]></title>
         <id>https://www.youtube.com/watch?v=D1v9LYxIVRQ</id>
