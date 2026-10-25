@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=D1v9LYxIVRQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D1v9LYxIVRQ",
+          "publishedOn": "2026-10-25T07:54:11.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート６６",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MwmUtKtGfyY",
           "author": null,
           "description": "",
@@ -209,6 +219,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202610250000/",
+          "author": "雷神の弓",
+          "description": "いじってみましたが、大富豪の皆さんみたいに無限にインゴットや天上が湧いてくるわけじゃないので、ほんのお遊び程度ですよｗ最後まで頑張れたのは↓だけです。W最終攻撃力を付けた首も複数持っているのですが、...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202610250000/",
+          "publishedOn": "2026-10-25T06:04:54.000Z",
+          "wordCount": 2505,
+          "title": "NPC称号をいじってみた",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/2bd1cc93d988d9b0f666229ef91c6f0479c94dca.73.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/",
           "author": "雷神の弓",
