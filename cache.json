@@ -129,6 +129,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pNw_qbZNIh4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pNw_qbZNIh4",
+          "publishedOn": "2026-10-26T09:48:49.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート６7",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=D1v9LYxIVRQ",
           "author": null,
           "description": "",
