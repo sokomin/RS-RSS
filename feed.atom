@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-27T02:13:08.041Z</updated>
+    <updated>2026-10-27T08:01:08.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -380,25 +380,6 @@
         <id>https://www.youtube.com/watch?v=ENdkUVeKGko</id>
         <link href="https://www.youtube.com/watch?v=ENdkUVeKGko"/>
         <updated>2026-09-28T13:44:15.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チケット集め、台風直撃]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-975.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-975.html"/>
-        <updated>2026-09-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先月の豪雨に続き台風が直撃しましたこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート６０]]></title>
-        <id>https://www.youtube.com/watch?v=NJV1m7UvUXE</id>
-        <link href="https://www.youtube.com/watch?v=NJV1m7UvUXE"/>
-        <updated>2026-09-27T10:46:45.000Z</updated>
         <author>
             <name>ロイ4世</name>
         </author>
