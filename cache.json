@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZjsMeadVG5Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZjsMeadVG5Q",
+          "publishedOn": "2026-10-30T10:22:29.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート６８",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pNw_qbZNIh4",
           "author": null,
           "description": "",
