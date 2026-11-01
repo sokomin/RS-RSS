@@ -99,7 +99,18 @@
       "title": "Into the Bag",
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://intothe.info/?p=3860",
+          "author": "marsborn",
+          "description": "ゼウスを感じる10月だった 12.1.5からの新規コンテンツLabyrinth別称Mega Delveその名の通りDelveを巨大化させたようなもの 各部屋のイベントやミニボスを攻略していき最大9部屋まで進むことができる1部屋あたりの密度はDelve1回分未満なので慣れた状態で最後まで1時間前後になるだろうか...",
+          "link": "https://intothe.info/wow/autobiography-of-green/",
+          "publishedOn": "2026-11-01T07:26:21.000Z",
+          "wordCount": 1561,
+          "title": "Autobiography of Green",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "魔法の壁のリアルライふ",

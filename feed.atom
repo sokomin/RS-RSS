@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-01T07:14:57.895Z</updated>
+    <updated>2026-11-01T14:21:52.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Autobiography of Green]]></title>
+        <id>https://intothe.info/?p=3860</id>
+        <link href="https://intothe.info/wow/autobiography-of-green/"/>
+        <updated>2026-11-01T07:26:21.000Z</updated>
+        <summary type="html"><![CDATA[ゼウスを感じる10月だった 12.1.5からの新規コンテンツLabyrinth別称Mega Delveその名の通りDelveを巨大化させたようなもの 各部屋のイベントやミニボスを攻略していき最大9部屋まで進むことができる1部屋あたりの密度はDelve1回分未満なので慣れた状態で最後まで1時間前後になるだろうか...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート６９]]></title>
         <id>https://www.youtube.com/watch?v=6QnRd7blKfE</id>
