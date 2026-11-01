@@ -119,6 +119,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6QnRd7blKfE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6QnRd7blKfE",
+          "publishedOn": "2026-11-01T01:07:54.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート６９",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZjsMeadVG5Q",
           "author": null,
           "description": "",
