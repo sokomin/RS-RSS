@@ -261,6 +261,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202611030000/",
+          "author": "雷神の弓",
+          "description": "​​​​怒りのゴミ化により知識キャラが楽しくなくなってしまったので、最近は専ら物理キャラの強化に勤しんでおります。まず、弓専用の銀行不可シルバーメダルにマファスを付けて強化しました。資金不足で天上代が...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202611030000/",
+          "publishedOn": "2026-11-02T18:38:29.000Z",
+          "wordCount": 2508,
+          "title": "赤ダメを伸ばすのが趣味になってきた",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/cf142800d0e26f6ca66a6869b1233dc4d9a9f4da.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202610270000/",
           "author": "雷神の弓",
           "description": "​↑の解放変換とNPC称号（ガイルート）の増幅を実施しました。解放変換は、3500本くらい吹き飛ばしましたが、最終攻撃力+有用OPが引けたので一応成功だと思っています。（普通の解放変換器25個くらい+灼熱変換器10...",
@@ -826,6 +836,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1602.html",
+          "author": "medaka1985",
+          "description": "こんばんは。鏡タイムです。＼('ω')／ウオオオオオアアアーーーーッ！！！いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1602.html",
+          "publishedOn": "2026-11-02T16:47:35.000Z",
+          "wordCount": null,
+          "title": "鏡に挑戦。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1601.html",
           "author": "medaka1985",
