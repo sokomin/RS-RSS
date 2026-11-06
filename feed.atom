@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-06T08:30:19.535Z</updated>
+    <updated>2026-11-06T16:16:01.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PvP 結果。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1605.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1605.html"/>
+        <updated>2026-11-06T15:52:03.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。シーズンPASSの影響で参加が多いです。鬼の居ぬ間に…(笑)。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[おまけロト。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1604.html</id>
@@ -452,16 +462,6 @@
 ではまたそのうち]]></summary>
         <author>
             <name>風に吹かれて</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3時間で1Lv。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1587.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1587.html"/>
-        <updated>2026-10-07T16:14:57.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインシーフ、1890Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>

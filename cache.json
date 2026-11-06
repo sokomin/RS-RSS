@@ -823,6 +823,16 @@
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
         {
+          "id": "https://medaka1985.fc2.net/blog-entry-1605.html",
+          "author": "medaka1985",
+          "description": "こんばんは。シーズンPASSの影響で参加が多いです。鬼の居ぬ間に…(笑)。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1605.html",
+          "publishedOn": "2026-11-06T15:52:03.000Z",
+          "wordCount": 1113,
+          "title": "PvP 結果。",
+          "imageUrl": "https://blog-imgs-189.fc2.com/m/e/d/medaka1985/20261107004941034.png"
+        },
+        {
           "id": "https://medaka1985.fc2.net/blog-entry-1604.html",
           "author": "medaka1985",
           "description": "こんばんは。おまけBOXです。ヌッ！？(普通です)。いつも読んで頂き、誠にありがとうございます。",
@@ -991,16 +1001,6 @@
           "wordCount": null,
           "title": "レベルUP。",
           "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1587.html",
-          "author": "medaka1985",
-          "description": "こんばんは。メインシーフ、1890Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1587.html",
-          "publishedOn": "2026-10-07T16:14:57.000Z",
-          "wordCount": 1108,
-          "title": "3時間で1Lv。",
-          "imageUrl": "https://blog-imgs-189.fc2.com/m/e/d/medaka1985/1890Lv.png"
         }
       ]
     },
