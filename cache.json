@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=i3KHnEipGZA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i3KHnEipGZA",
+          "publishedOn": "2026-11-07T13:58:00.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート７１",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Xray2fHBgEI",
           "author": null,
           "description": "",
@@ -822,6 +832,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1606.html",
+          "author": "medaka1985",
+          "description": "こんばんは。こうやこうや星。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1606.html",
+          "publishedOn": "2026-11-07T13:34:25.000Z",
+          "wordCount": null,
+          "title": "まんのう公園。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1605.html",
           "author": "medaka1985",
