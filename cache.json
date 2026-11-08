@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PLW8S_ism_M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PLW8S_ism_M",
+          "publishedOn": "2026-11-08T02:24:20.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート７２",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=i3KHnEipGZA",
           "author": null,
           "description": "",
