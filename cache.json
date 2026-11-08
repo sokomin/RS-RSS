@@ -261,6 +261,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202611090000/",
+          "author": "雷神の弓",
+          "description": "​物理限界3％+強打率7%となかなかの良複合指だったので購入しました。（物理限界2％＋強打率7％の蠍指を使っていたので買い換えです）1OP目のダメ149％は、余裕のあるときに再構成して150％にする予定です。他に...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202611090000/",
+          "publishedOn": "2026-11-08T19:52:32.000Z",
+          "wordCount": 2509,
+          "title": "早速、蠍指を使ってみる",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/f4235bddfae064193b01b3d1f59c27ec4e9e9d1f.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202611030000/",
           "author": "雷神の弓",
           "description": "​​​​怒りのゴミ化により知識キャラが楽しくなくなってしまったので、最近は専ら物理キャラの強化に勤しんでおります。まず、弓専用の銀行不可シルバーメダルにマファスを付けて強化しました。資金不足で天上代が...",
@@ -324,18 +334,7 @@
       "title": "風に吹かれて",
       "feedUrl": "http://kaze.gg-blog.com/RSS/",
       "siteUrl": "http://kaze.gg-blog.com/",
-      "articles": [
-        {
-          "id": "kaze.gg-blog.com://entry/234",
-          "author": null,
-          "description": "こんにちは。\n\n \n\n\n簡単なキーワード…？　嘘だろ…！？\n \n\n風はお笑い芸人だと東京03が大好きなんですが\n\n\n「アニバーサリー！」のほかに「チケットGET！」でもバフがありますね\n\n\nこれは1250UMU箱が出るバフです\n\n\n選ばれたのはクロネでした\n\n\n最近装備強化はほとんどしてないけど\n\n\nあと永遠に終わらないと思っていたトワイライトの厳選が突如終了\n\n\n魔法強打を稼ぎたいので理想的です\n\n\n\n\n\n\nトワイライトをLRに強化\n\n\n魔法強化が過多だけど\n \n \n\n攻城相手が来なくてヤケ酒する先生\n(なお毎日飲んでる)\n\n\n\nではまたそのうち",
-          "link": "http://kaze.gg-blog.com/status/%E3%82%A2%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AA%E3%83%BC%EF%BC%81",
-          "publishedOn": "2026-10-10T04:48:08.000Z",
-          "wordCount": 279,
-          "title": "アニバーサリー！",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "のんびりまったり",
@@ -852,6 +851,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1607.html",
+          "author": "medaka1985",
+          "description": "こんばんは。位相ラットPTに参加しました(*'▽')。異次元チャレンジです。素材が戻って来ました！もう1回！(ノ・ω・)ノオオオォォォ-。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1607.html",
+          "publishedOn": "2026-11-08T17:25:33.000Z",
+          "wordCount": null,
+          "title": "位相PT。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1606.html",
           "author": "medaka1985",

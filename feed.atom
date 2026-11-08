@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-08T15:52:19.206Z</updated>
+    <updated>2026-11-08T20:18:25.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[早速、蠍指を使ってみる]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202611090000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202611090000/"/>
+        <updated>2026-11-08T19:52:32.000Z</updated>
+        <summary type="html"><![CDATA[​物理限界3％+強打率7%となかなかの良複合指だったので購入しました。（物理限界2％＋強打率7％の蠍指を使っていたので買い換えです）1OP目のダメ149％は、余裕のあるときに再構成して150％にする予定です。他に...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[位相PT。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1607.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1607.html"/>
+        <updated>2026-11-08T17:25:33.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。位相ラットPTに参加しました(*'▽')。異次元チャレンジです。素材が戻って来ました！もう1回！(ノ・ω・)ノオオオォォォ-。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新しくなったレイドに通う]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-981.html</id>
@@ -445,61 +465,6 @@
         <summary type="html"><![CDATA[こんばんは。メインシーフ、1893Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニバーサリー！]]></title>
-        <id>kaze.gg-blog.com://entry/234</id>
-        <link href="http://kaze.gg-blog.com/status/%E3%82%A2%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AA%E3%83%BC%EF%BC%81"/>
-        <updated>2026-10-10T04:48:08.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。
-
- 
-
-
-簡単なキーワード…？　嘘だろ…！？
- 
-
-風はお笑い芸人だと東京03が大好きなんですが
-
-
-「アニバーサリー！」のほかに「チケットGET！」でもバフがありますね
-
-
-これは1250UMU箱が出るバフです
-
-
-選ばれたのはクロネでした
-
-
-最近装備強化はほとんどしてないけど
-
-
-あと永遠に終わらないと思っていたトワイライトの厳選が突如終了
-
-
-魔法強打を稼ぎたいので理想的です
-
-
-
-
-
-
-トワイライトをLRに強化
-
-
-魔法強化が過多だけど
- 
- 
-
-攻城相手が来なくてヤケ酒する先生
-(なお毎日飲んでる)
-
-
-
-ではまたそのうち]]></summary>
-        <author>
-            <name>風に吹かれて</name>
         </author>
     </entry>
     <entry>
