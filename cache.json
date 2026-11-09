@@ -228,16 +228,6 @@
           "wordCount": null,
           "title": "【REDSTONE】レッドストーン　ロイ日記　パート６５",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KEJW1uJhBLM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KEJW1uJhBLM",
-          "publishedOn": "2026-10-11T06:42:12.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】レッドストーン　ロイ日記　パート６４",
-          "imageUrl": null
         }
       ]
     },
@@ -270,6 +260,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202611100000/",
+          "author": "雷神の弓",
+          "description": "​​​↑は1回増幅成功しました。↑2回ずつ増幅成功しました。↑はガイルートから2回増幅成功しました。この闘士コラプが何気に一番天上を消費したので、やらなきゃ良かったかも知れない・・orz（位相兵に既にカンスト...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202611100000/",
+          "publishedOn": "2026-11-09T17:48:34.000Z",
+          "wordCount": 2503,
+          "title": "天上代行をお願いした結果",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/a32ae7a3804acea1f97ecf241c092d4e432196bb.73.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202611090000/",
           "author": "雷神の弓",

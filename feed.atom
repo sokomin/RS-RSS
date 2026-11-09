@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-09T14:20:31.353Z</updated>
+    <updated>2026-11-09T23:33:25.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[天上代行をお願いした結果]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202611100000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202611100000/"/>
+        <updated>2026-11-09T17:48:34.000Z</updated>
+        <summary type="html"><![CDATA[​​​↑は1回増幅成功しました。↑2回ずつ増幅成功しました。↑はガイルートから2回増幅成功しました。この闘士コラプが何気に一番天上を消費したので、やらなきゃ良かったかも知れない・・orz（位相兵に既にカンスト...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート７3]]></title>
         <id>https://www.youtube.com/watch?v=xNBgwrpHsms</id>
@@ -455,15 +465,6 @@
         <summary type="html"><![CDATA[こんばんは。UMUドロップです。こちらも！メインシーフ、1897Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート６４]]></title>
-        <id>https://www.youtube.com/watch?v=KEJW1uJhBLM</id>
-        <link href="https://www.youtube.com/watch?v=KEJW1uJhBLM"/>
-        <updated>2026-10-11T06:42:12.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
