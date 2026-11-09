@@ -140,6 +140,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xNBgwrpHsms",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xNBgwrpHsms",
+          "publishedOn": "2026-11-09T07:38:44.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート７3",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PLW8S_ism_M",
           "author": null,
           "description": "",
