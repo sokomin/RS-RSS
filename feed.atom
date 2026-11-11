@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-11T00:53:36.100Z</updated>
+    <updated>2026-11-11T07:37:06.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -435,16 +435,6 @@
         <summary type="html"><![CDATA[ArcheAge S: 自由の海峡3Dだと画面酔いする可能性があり、なかなか新作MMORPGに手が出せない昨今、来年4〜6月頃に「見下ろし視点」のMMORPGが出るらしい。前作のArcheAgeはバリバリの3Dで画面酔い確定だったから、今回は期待出来そう。開発中の画面は以前やっていたLOST ARKに似ており、今のところは大丈夫そう。このパターン、過去に何度か騙されたスマホとのマルチプラットフォームで、オートプレイ前提のソシャゲを連想させるが]]></summary>
         <author>
             <name>JEFRY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日も練習キツかったね～。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1590.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1590.html"/>
-        <updated>2026-10-12T15:00:52.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。メインシーフ、1898Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
