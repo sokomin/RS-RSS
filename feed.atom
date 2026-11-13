@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-13T07:16:46.117Z</updated>
+    <updated>2026-11-13T15:30:37.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -416,15 +416,6 @@
         <summary type="html"><![CDATA[庭の金木犀です記事を書かない間もご訪問いただきまして、ありがとうございます。大丈夫です、寝たり起きたりしていますが今日も生きてます(´ー`)、いただきました暖かいコメント、すべて有難く拝読しております。返信は改めて、すこしずつさせてください。近況報告がてらのろのろと記事を書いているのですが、手の震えが出ると休むのでなかなか進まずに恐縮です。明日くらいまでにはUPできるといいなと思っています。おかげさまで]]></summary>
         <author>
             <name>アル・シェリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート６５]]></title>
-        <id>https://www.youtube.com/watch?v=MwmUtKtGfyY</id>
-        <link href="https://www.youtube.com/watch?v=MwmUtKtGfyY"/>
-        <updated>2026-10-14T09:43:31.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
         </author>
     </entry>
     <entry>
