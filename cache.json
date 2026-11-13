@@ -628,18 +628,7 @@
       "title": "赤石グラフィティ",
       "feedUrl": "https://orientalrose4.blog.fc2.com/?xml",
       "siteUrl": "https://orientalrose4.blog.fc2.com/",
-      "articles": [
-        {
-          "id": "https://orientalrose4.blog.fc2.com/blog-entry-1009.html",
-          "author": "アル・シェリ",
-          "description": "庭の金木犀です記事を書かない間もご訪問いただきまして、ありがとうございます。大丈夫です、寝たり起きたりしていますが今日も生きてます(´ー`)、いただきました暖かいコメント、すべて有難く拝読しております。返信は改めて、すこしずつさせてください。近況報告がてらのろのろと記事を書いているのですが、手の震えが出ると休むのでなかなか進まずに恐縮です。明日くらいまでにはUPできるといいなと思っています。おかげさまで",
-          "link": "https://orientalrose4.blog.fc2.com/blog-entry-1009.html",
-          "publishedOn": "2026-10-15T04:45:01.000Z",
-          "wordCount": 881,
-          "title": "ごあいさつ",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "それいけ！NEO無課金同盟in橋頭鯖　リターンズ",
@@ -830,6 +819,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1609.html",
+          "author": "medaka1985",
+          "description": "こんばんは。沼・・・。ほならね、自分でやってみなさいって話。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1609.html",
+          "publishedOn": "2026-11-13T19:08:29.000Z",
+          "wordCount": null,
+          "title": "ソケット変換。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1608.html",
           "author": "medaka1985",
