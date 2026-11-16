@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-15T23:51:57.331Z</updated>
+    <updated>2026-11-16T05:45:37.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[毎週月曜は灼熱変換器と白異界の日]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202611160000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202611160000/"/>
+        <updated>2026-11-16T04:18:14.000Z</updated>
+        <summary type="html"><![CDATA[​Lv2000キャラを7体持っている私にとって、月曜日はボーナス支給日みたいな感じですねｗ灼熱変換器と白異界が何個ずつもらえるかは、みなさんのご想像にお任せするとして、今週の装備強化の結果を載せていこうと...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[友の復帰とレイドとバルシャーク]]></title>
         <id>https://mitsurin32.blog.fc2.com/blog-entry-982.html</id>
@@ -426,16 +436,6 @@
         <summary type="html"><![CDATA[先日会社で受けた健康診断の結果が届きました通院中の項目はありますが基本的にはオールグリーンでしたこの歳になってくると健康にはとても気を使いますこんにちは　ミツリンです]]></summary>
         <author>
             <name>ミツリン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スクラッチ。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1592.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1592.html"/>
-        <updated>2026-10-17T14:15:11.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。BFUドロップです！スクラッチ1万GEMの副産物。パワキのおまけだから…(震え声)。メインシーフ、1900Lv突破です(*'▽')。お陰様でランキングも好調です！いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
