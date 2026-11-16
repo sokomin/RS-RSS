@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-16T05:45:37.352Z</updated>
+    <updated>2026-11-16T15:20:41.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UMU落ち。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1611.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1611.html"/>
+        <updated>2026-11-16T14:34:35.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。キャーきょうこさまー。オッス！お願いしまーす！ぐぬぬ…。オッス！お願いしまーす！(デジャヴ)やったぁ(^^♪メインシーフ、1920Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート７４]]></title>
+        <id>https://www.youtube.com/watch?v=6X3lBtnNH7M</id>
+        <link href="https://www.youtube.com/watch?v=6X3lBtnNH7M"/>
+        <updated>2026-11-16T09:53:36.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[毎週月曜は灼熱変換器と白異界の日]]></title>
         <id>https://plaza.rakuten.co.jp/motoshihu/diary/202611160000/</id>

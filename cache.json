@@ -140,6 +140,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6X3lBtnNH7M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6X3lBtnNH7M",
+          "publishedOn": "2026-11-16T09:53:36.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート７４",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xNBgwrpHsms",
           "author": null,
           "description": "",
@@ -839,6 +849,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1611.html",
+          "author": "medaka1985",
+          "description": "こんばんは。キャーきょうこさまー。オッス！お願いしまーす！ぐぬぬ…。オッス！お願いしまーす！(デジャヴ)やったぁ(^^♪メインシーフ、1920Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1611.html",
+          "publishedOn": "2026-11-16T14:34:35.000Z",
+          "wordCount": null,
+          "title": "UMU落ち。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1610.html",
           "author": "medaka1985",
