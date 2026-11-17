@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-17T07:22:59.915Z</updated>
+    <updated>2026-11-17T17:03:09.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -445,16 +445,6 @@
         <summary type="html"><![CDATA[こんばんは。ダメージが上がりました！2万GEMでなんとか…(;´･ω･)。メインシーフ、1904Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シルフラBISについて]]></title>
-        <id>https://mitsurin32.blog.fc2.com/blog-entry-978.html</id>
-        <link href="https://mitsurin32.blog.fc2.com/blog-entry-978.html"/>
-        <updated>2026-10-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日会社で受けた健康診断の結果が届きました通院中の項目はありますが基本的にはオールグリーンでしたこの歳になってくると健康にはとても気を使いますこんにちは　ミツリンです]]></summary>
-        <author>
-            <name>ミツリン</name>
         </author>
     </entry>
     <entry>
