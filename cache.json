@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ydoLZk-VVb4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ydoLZk-VVb4",
+          "publishedOn": "2026-11-19T11:03:01.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート７５",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6X3lBtnNH7M",
           "author": null,
           "description": "",
@@ -250,6 +260,16 @@
       "feedUrl": "https://api.plaza.rakuten.ne.jp/motoshihu/rss/",
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202611190000/",
+          "author": "雷神の弓",
+          "description": "​既にLv2000になっている知識マスケなので今更ではありますが非規格武器を作成してみました。OPが適当なのは、賢者抽出をやりたくないので仕方ないのよｗ（BFOPも後でやり直します）解放変換については、知識限界...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202611190000/",
+          "publishedOn": "2026-11-19T04:49:44.000Z",
+          "wordCount": 2501,
+          "title": "知識マスケの武器を作成",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/97e2d57331787215cf13e3ed385dd0660ec283a5.73.9.9.3.png"
+        },
         {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202611160000/",
           "author": "雷神の弓",
