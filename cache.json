@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lg7FZBuvRk8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lg7FZBuvRk8",
+          "publishedOn": "2026-11-21T09:37:16.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート７６",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ydoLZk-VVb4",
           "author": null,
           "description": "",
@@ -329,6 +339,16 @@
           "wordCount": 2505,
           "title": "NPC称号をいじってみた",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/2bd1cc93d988d9b0f666229ef91c6f0479c94dca.73.9.9.3.png"
+        },
+        {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/",
+          "author": "雷神の弓",
+          "description": "​​メインキャラなのにLv2000になってから完全に放置していた物理弓ですが、一念発起してメインキャラに相応しくなるよう強化を実施しました。まず、PSと古龍に課金しました。PSはSSないですが、10・12・13まで上...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/",
+          "publishedOn": "2026-10-24T04:51:38.000Z",
+          "wordCount": 2526,
+          "title": "メインの物理弓を強化してみたよ",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/355b1d36c187499f9775daffba0d34d8e7967931.73.9.9.3.png"
         }
       ]
     },
@@ -1037,16 +1057,6 @@
           "publishedOn": "2026-10-24T14:58:21.000Z",
           "wordCount": null,
           "title": "躍起になって作った結果ｗｗ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1594.html",
-          "author": "medaka1985",
-          "description": "こんばんは。新デザインです(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1594.html",
-          "publishedOn": "2026-10-22T15:54:57.000Z",
-          "wordCount": null,
-          "title": "ハロウィンアップデート。",
           "imageUrl": null
         }
       ]

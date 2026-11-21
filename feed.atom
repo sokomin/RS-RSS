@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-21T08:07:03.458Z</updated>
+    <updated>2026-11-21T16:13:19.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート７６]]></title>
+        <id>https://www.youtube.com/watch?v=lg7FZBuvRk8</id>
+        <link href="https://www.youtube.com/watch?v=lg7FZBuvRk8"/>
+        <updated>2026-11-21T09:37:16.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[古龍ブッパ。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1613.html</id>
@@ -447,6 +456,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[メインの物理弓を強化してみたよ]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/"/>
+        <updated>2026-10-24T04:51:38.000Z</updated>
+        <summary type="html"><![CDATA[​​メインキャラなのにLv2000になってから完全に放置していた物理弓ですが、一念発起してメインキャラに相応しくなるよう強化を実施しました。まず、PSと古龍に課金しました。PSはSSないですが、10・12・13まで上...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10月アップデート]]></title>
         <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1332.html</id>
         <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1332.html"/>
@@ -454,16 +473,6 @@
         <summary type="html"><![CDATA[アップデートページはこちら→　◎新規レイドボス「ソメル・ノチェス」及びレイドリニューアル→　◎討伐コンテンツリニューアル＆新規討伐ボス「セルケピア」追加→　◎宿命のOP増幅システム→　◎ 統合ガイド機能及びUIリニューアルメール機能追加デリン＆ダリン「討伐」クエストリニューアル追加打撃の適用方式修正→　◎キャラクターモーション＆コスチュームエフェクトリニューアルフィールドグラフィック改善【対象フィールド】・冒険]]></summary>
         <author>
             <name>クレリューフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハロウィンアップデート。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1594.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1594.html"/>
-        <updated>2026-10-22T15:54:57.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。新デザインです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
