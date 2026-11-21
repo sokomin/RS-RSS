@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-21T16:13:19.228Z</updated>
+    <updated>2026-11-21T21:42:45.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -463,16 +463,6 @@
         <summary type="html"><![CDATA[​​メインキャラなのにLv2000になってから完全に放置していた物理弓ですが、一念発起してメインキャラに相応しくなるよう強化を実施しました。まず、PSと古龍に課金しました。PSはSSないですが、10・12・13まで上...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10月アップデート]]></title>
-        <id>http://frogkigurumi.blog59.fc2.com/blog-entry-1332.html</id>
-        <link href="http://frogkigurumi.blog59.fc2.com/blog-entry-1332.html"/>
-        <updated>2026-10-23T06:02:07.000Z</updated>
-        <summary type="html"><![CDATA[アップデートページはこちら→　◎新規レイドボス「ソメル・ノチェス」及びレイドリニューアル→　◎討伐コンテンツリニューアル＆新規討伐ボス「セルケピア」追加→　◎宿命のOP増幅システム→　◎ 統合ガイド機能及びUIリニューアルメール機能追加デリン＆ダリン「討伐」クエストリニューアル追加打撃の適用方式修正→　◎キャラクターモーション＆コスチュームエフェクトリニューアルフィールドグラフィック改善【対象フィールド】・冒険]]></summary>
-        <author>
-            <name>クレリューフ</name>
         </author>
     </entry>
     <entry>
