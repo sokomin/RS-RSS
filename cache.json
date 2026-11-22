@@ -130,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nio1isJEDcU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nio1isJEDcU",
+          "publishedOn": "2026-11-22T06:31:42.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート７７",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lg7FZBuvRk8",
           "author": null,
           "description": "",
