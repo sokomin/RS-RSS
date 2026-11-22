@@ -18,6 +18,16 @@
       "siteUrl": "https://mitsurin32.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://mitsurin32.blog.fc2.com/blog-entry-983.html",
+          "author": "ミツリン",
+          "description": "先日痛めた体は段々良くなりました動かすと若干痛みますが頑張りますこんにちは　ミツリンです",
+          "link": "https://mitsurin32.blog.fc2.com/blog-entry-983.html",
+          "publishedOn": "2026-11-22T15:00:00.000Z",
+          "wordCount": 668,
+          "title": "新イベントとブラッドレコード",
+          "imageUrl": null
+        },
+        {
           "id": "https://mitsurin32.blog.fc2.com/blog-entry-982.html",
           "author": "ミツリン",
           "description": "先日左胸と左膝を痛めてしましましたその為駅前にある整形外科に久しぶりに行ってきましたこんにちは　ミツリンです",
@@ -100,6 +110,16 @@
       "feedUrl": "https://intothe.info/feed/",
       "siteUrl": "https://intothe.info",
       "articles": [
+        {
+          "id": "https://intothe.info/?p=3893",
+          "author": "marsborn",
+          "description": "WoW22周年。個人的に、今年の周年をとても心待ちにしていた。 WoWのMountには特殊な機能を有するものが幾つかあって、その中でも最も有用なものの1つがいわゆるAuction House Mount。その名の通り標準でAuction...",
+          "link": "https://intothe.info/wow/flocked-in-the-autumn-mist/",
+          "publishedOn": "2026-11-22T16:04:05.000Z",
+          "wordCount": 1574,
+          "title": "Flocked in the Autumn Mist",
+          "imageUrl": null
+        },
         {
           "id": "https://intothe.info/?p=3860",
           "author": "marsborn",
@@ -349,16 +369,6 @@
           "wordCount": 2505,
           "title": "NPC称号をいじってみた",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/2bd1cc93d988d9b0f666229ef91c6f0479c94dca.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/",
-          "author": "雷神の弓",
-          "description": "​​メインキャラなのにLv2000になってから完全に放置していた物理弓ですが、一念発起してメインキャラに相応しくなるよう強化を実施しました。まず、PSと古龍に課金しました。PSはSSないですが、10・12・13まで上...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/",
-          "publishedOn": "2026-10-24T04:51:38.000Z",
-          "wordCount": 2526,
-          "title": "メインの物理弓を強化してみたよ",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/355b1d36c187499f9775daffba0d34d8e7967931.73.9.9.3.png"
         }
       ]
     },
@@ -868,6 +878,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1614.html",
+          "author": "medaka1985",
+          "description": "こんばんは。可愛い！メインシーフ、1926Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1614.html",
+          "publishedOn": "2026-11-22T15:57:55.000Z",
+          "wordCount": null,
+          "title": "ファンシーメイドダリンコクーン。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1613.html",
           "author": "medaka1985",

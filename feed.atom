@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-22T09:40:05.463Z</updated>
+    <updated>2026-11-22T17:24:32.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flocked in the Autumn Mist]]></title>
+        <id>https://intothe.info/?p=3893</id>
+        <link href="https://intothe.info/wow/flocked-in-the-autumn-mist/"/>
+        <updated>2026-11-22T16:04:05.000Z</updated>
+        <summary type="html"><![CDATA[WoW22周年。個人的に、今年の周年をとても心待ちにしていた。 WoWのMountには特殊な機能を有するものが幾つかあって、その中でも最も有用なものの1つがいわゆるAuction House Mount。その名の通り標準でAuction...]]></summary>
+        <author>
+            <name>marsborn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ファンシーメイドダリンコクーン。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1614.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1614.html"/>
+        <updated>2026-11-22T15:57:55.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。可愛い！メインシーフ、1926Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新イベントとブラッドレコード]]></title>
+        <id>https://mitsurin32.blog.fc2.com/blog-entry-983.html</id>
+        <link href="https://mitsurin32.blog.fc2.com/blog-entry-983.html"/>
+        <updated>2026-11-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日痛めた体は段々良くなりました動かすと若干痛みますが頑張りますこんにちは　ミツリンです]]></summary>
+        <author>
+            <name>ミツリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート７７]]></title>
         <id>https://www.youtube.com/watch?v=nio1isJEDcU</id>
@@ -462,16 +492,6 @@
         <summary type="html"><![CDATA[こんばんは。非規格装備に挑戦しました！良いの出ない…(;´･ω･)。弱っ(/・ω・)/。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メインの物理弓を強化してみたよ]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202610230000/"/>
-        <updated>2026-10-24T04:51:38.000Z</updated>
-        <summary type="html"><![CDATA[​​メインキャラなのにLv2000になってから完全に放置していた物理弓ですが、一念発起してメインキャラに相応しくなるよう強化を実施しました。まず、PSと古龍に課金しました。PSはSSないですが、10・12・13まで上...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
