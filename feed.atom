@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-22T22:47:16.410Z</updated>
+    <updated>2026-11-23T03:36:27.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
@@ -482,16 +482,6 @@
         <summary type="html"><![CDATA[いじってみましたが、大富豪の皆さんみたいに無限にインゴットや天上が湧いてくるわけじゃないので、ほんのお遊び程度ですよｗ最後まで頑張れたのは↓だけです。W最終攻撃力を付けた首も複数持っているのですが、...]]></summary>
         <author>
             <name>雷神の弓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[躍起になって作った結果ｗｗ]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1595.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1595.html"/>
-        <updated>2026-10-24T14:58:21.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。非規格装備に挑戦しました！良いの出ない…(;´･ω･)。弱っ(/・ω・)/。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>
