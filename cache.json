@@ -258,16 +258,6 @@
           "wordCount": null,
           "title": "【REDSTONE】レッドストーン　ロイ日記　パート６7",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=D1v9LYxIVRQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=D1v9LYxIVRQ",
-          "publishedOn": "2026-10-25T07:54:11.000Z",
-          "wordCount": null,
-          "title": "【REDSTONE】レッドストーン　ロイ日記　パート６６",
-          "imageUrl": null
         }
       ]
     },
@@ -359,16 +349,6 @@
           "wordCount": 2501,
           "title": "天上もインゴットも全滅・・ｗ",
           "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/86bfc517458ba98f0bb7d51517372da1031a2e11.73.9.9.3.png"
-        },
-        {
-          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202610250000/",
-          "author": "雷神の弓",
-          "description": "いじってみましたが、大富豪の皆さんみたいに無限にインゴットや天上が湧いてくるわけじゃないので、ほんのお遊び程度ですよｗ最後まで頑張れたのは↓だけです。W最終攻撃力を付けた首も複数持っているのですが、...",
-          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202610250000/",
-          "publishedOn": "2026-10-25T06:04:54.000Z",
-          "wordCount": 2505,
-          "title": "NPC称号をいじってみた",
-          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/2bd1cc93d988d9b0f666229ef91c6f0479c94dca.73.9.9.3.png"
         }
       ]
     },
@@ -412,7 +392,18 @@
       "title": "JEFRYの悪足掻き",
       "feedUrl": "http://amakusa46.blog34.fc2.com/?xml",
       "siteUrl": "http://amakusa46.blog34.fc2.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://amakusa46.blog34.fc2.com/blog-entry-1172.html",
+          "author": "JEFRY",
+          "description": "随分さぼっていた・・。11月から静岡に単身赴任していて、ゲーミングノートPCはあるが、ハクスラはいまいちやる気が起きないのもあり、プレイ時間がかなり減っているのも背景にはある。自宅に戻った際には、last epochとgrim dawnを少しずつ触る程度で、がっつりやる時間はあまりない。単身赴任先から戻って、部屋に引きこもってゲーム三昧だと、何しに帰ってきたの？だしね。そんなこんなで、last epochはシーズン5ファーストキャ",
+          "link": "http://amakusa46.blog34.fc2.com/blog-entry-1172.html",
+          "publishedOn": "2026-11-23T23:54:02.000Z",
+          "wordCount": 621,
+          "title": "【Last Epoch】近況",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "「RED STONE（レッドストーン）」公式ブログ",
@@ -878,6 +869,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1615.html",
+          "author": "medaka1985",
+          "description": "こんばんは。ベルセ込みです。オッス！ありでしたー！メインシーフ、1929Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1615.html",
+          "publishedOn": "2026-11-23T14:53:49.000Z",
+          "wordCount": null,
+          "title": "強打型。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1614.html",
           "author": "medaka1985",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-23T13:39:33.101Z</updated>
+    <updated>2026-11-24T01:13:15.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Last Epoch】近況]]></title>
+        <id>http://amakusa46.blog34.fc2.com/blog-entry-1172.html</id>
+        <link href="http://amakusa46.blog34.fc2.com/blog-entry-1172.html"/>
+        <updated>2026-11-23T23:54:02.000Z</updated>
+        <summary type="html"><![CDATA[随分さぼっていた・・。11月から静岡に単身赴任していて、ゲーミングノートPCはあるが、ハクスラはいまいちやる気が起きないのもあり、プレイ時間がかなり減っているのも背景にはある。自宅に戻った際には、last epochとgrim dawnを少しずつ触る程度で、がっつりやる時間はあまりない。単身赴任先から戻って、部屋に引きこもってゲーム三昧だと、何しに帰ってきたの？だしね。そんなこんなで、last epochはシーズン5ファーストキャ]]></summary>
+        <author>
+            <name>JEFRY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[強打型。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1615.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1615.html"/>
+        <updated>2026-11-23T14:53:49.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。ベルセ込みです。オッス！ありでしたー！メインシーフ、1929Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flocked in the Autumn Mist]]></title>
         <id>https://intothe.info/?p=3893</id>
@@ -463,25 +483,6 @@
         <summary type="html"><![CDATA[こんばんは。50回くらい挑戦しましたｗ途中ですが、首に力は嬉しいです。メインシーフ、1905Lv達成です(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
         <author>
             <name>medaka1985</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート６６]]></title>
-        <id>https://www.youtube.com/watch?v=D1v9LYxIVRQ</id>
-        <link href="https://www.youtube.com/watch?v=D1v9LYxIVRQ"/>
-        <updated>2026-10-25T07:54:11.000Z</updated>
-        <author>
-            <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NPC称号をいじってみた]]></title>
-        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202610250000/</id>
-        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202610250000/"/>
-        <updated>2026-10-25T06:04:54.000Z</updated>
-        <summary type="html"><![CDATA[いじってみましたが、大富豪の皆さんみたいに無限にインゴットや天上が湧いてくるわけじゃないので、ほんのお遊び程度ですよｗ最後まで頑張れたのは↓だけです。W最終攻撃力を付けた首も複数持っているのですが、...]]></summary>
-        <author>
-            <name>雷神の弓</name>
         </author>
     </entry>
     <entry>
