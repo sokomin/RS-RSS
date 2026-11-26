@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-26T05:26:55.754Z</updated>
+    <updated>2026-11-26T15:45:59.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トレジャーボックス。]]></title>
+        <id>https://medaka1985.fc2.net/blog-entry-1617.html</id>
+        <link href="https://medaka1985.fc2.net/blog-entry-1617.html"/>
+        <updated>2026-11-26T14:29:18.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは。大当たり！いつも読んで頂き、誠にありがとうございます。]]></summary>
+        <author>
+            <name>medaka1985</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REDSTONE】レッドストーン　ロイ日記　パート７８]]></title>
+        <id>https://www.youtube.com/watch?v=fDtfo3ubKu4</id>
+        <link href="https://www.youtube.com/watch?v=fDtfo3ubKu4"/>
+        <updated>2026-11-26T09:57:06.000Z</updated>
+        <author>
+            <name>ロイ4世</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【GrimDawn】近況]]></title>
         <id>http://amakusa46.blog34.fc2.com/blog-entry-1173.html</id>

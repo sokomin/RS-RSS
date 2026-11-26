@@ -140,6 +140,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEogzcpaLym0m_sS-ekzKiA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fDtfo3ubKu4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fDtfo3ubKu4",
+          "publishedOn": "2026-11-26T09:57:06.000Z",
+          "wordCount": null,
+          "title": "【REDSTONE】レッドストーン　ロイ日記　パート７８",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nio1isJEDcU",
           "author": null,
           "description": "",
@@ -849,6 +859,16 @@
       "feedUrl": "https://medaka1985.fc2.net/?xml",
       "siteUrl": "https://medaka1985.fc2.net/",
       "articles": [
+        {
+          "id": "https://medaka1985.fc2.net/blog-entry-1617.html",
+          "author": "medaka1985",
+          "description": "こんばんは。大当たり！いつも読んで頂き、誠にありがとうございます。",
+          "link": "https://medaka1985.fc2.net/blog-entry-1617.html",
+          "publishedOn": "2026-11-26T14:29:18.000Z",
+          "wordCount": null,
+          "title": "トレジャーボックス。",
+          "imageUrl": null
+        },
         {
           "id": "https://medaka1985.fc2.net/blog-entry-1616.html",
           "author": "medaka1985",
