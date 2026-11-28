@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-28T02:02:29.539Z</updated>
+    <updated>2026-11-28T10:37:54.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[弓コスのソケットを変換してみた]]></title>
+        <id>https://plaza.rakuten.co.jp/motoshihu/diary/202611280000/</id>
+        <link href="https://plaza.rakuten.co.jp/motoshihu/diary/202611280000/"/>
+        <updated>2026-11-28T08:30:44.000Z</updated>
+        <summary type="html"><![CDATA[​弓コスのソケットを変換して、デュアルクレストを付けてみました。もちろん赤3・紫2が良かったのですが、強打率的に赤クレストは2つで十分なので、赤2・紫2・他ゴミで妥協しました。（変換6回目で終わり）ちなみ...]]></summary>
+        <author>
+            <name>雷神の弓</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トレジャーボックス。]]></title>
         <id>https://medaka1985.fc2.net/blog-entry-1617.html</id>
@@ -453,16 +463,6 @@
         <updated>2026-10-30T10:22:29.000Z</updated>
         <author>
             <name>ロイ4世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[潜在能力の発現。]]></title>
-        <id>https://medaka1985.fc2.net/blog-entry-1599.html</id>
-        <link href="https://medaka1985.fc2.net/blog-entry-1599.html"/>
-        <updated>2026-10-29T17:27:34.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは。潜在、少し進めました。アサルトチャンレンジです(*'▽')。いつも読んで頂き、誠にありがとうございます。]]></summary>
-        <author>
-            <name>medaka1985</name>
         </author>
     </entry>
     <entry>

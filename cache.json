@@ -281,6 +281,16 @@
       "siteUrl": "https://plaza.rakuten.co.jp/motoshihu/",
       "articles": [
         {
+          "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202611280000/",
+          "author": "雷神の弓",
+          "description": "​弓コスのソケットを変換して、デュアルクレストを付けてみました。もちろん赤3・紫2が良かったのですが、強打率的に赤クレストは2つで十分なので、赤2・紫2・他ゴミで妥協しました。（変換6回目で終わり）ちなみ...",
+          "link": "https://plaza.rakuten.co.jp/motoshihu/diary/202611280000/",
+          "publishedOn": "2026-11-28T08:30:44.000Z",
+          "wordCount": 2498,
+          "title": "弓コスのソケットを変換してみた",
+          "imageUrl": "https://image.space.rakuten.co.jp/d/strg/ctrl/9/315feddb63b96f6c67a69fb9a84a73e607fd9c39.73.9.9.3.png"
+        },
+        {
           "id": "https://plaza.rakuten.co.jp/motoshihu/diary/202611190000/",
           "author": "雷神の弓",
           "description": "​既にLv2000になっている知識マスケなので今更ではありますが非規格武器を作成してみました。OPが適当なのは、賢者抽出をやりたくないので仕方ないのよｗ（BFOPも後でやり直します）解放変換については、知識限界...",
@@ -1037,16 +1047,6 @@
           "publishedOn": "2026-10-31T17:37:29.000Z",
           "wordCount": null,
           "title": "ハロウィンパーティ。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medaka1985.fc2.net/blog-entry-1599.html",
-          "author": "medaka1985",
-          "description": "こんばんは。潜在、少し進めました。アサルトチャンレンジです(*'▽')。いつも読んで頂き、誠にありがとうございます。",
-          "link": "https://medaka1985.fc2.net/blog-entry-1599.html",
-          "publishedOn": "2026-10-29T17:27:34.000Z",
-          "wordCount": null,
-          "title": "潜在能力の発現。",
           "imageUrl": null
         }
       ]
